@@ -30,7 +30,8 @@ def main():
     with tf.Session() as sess:
         if not args.pretrained:
             print('Training...')
-            train(sess, model, train_set, test_set, args.checkpoint, args.result_dir, args.result_file,**train_kwargs(args))
+            #train(sess, model, train_set, test_set, args.checkpoint, args.result_dir, args.result_file,**train_kwargs(args))
+            train(sess, model, train_set, val_set, args.checkpoint, args.result_dir, args.result_file,**train_kwargs(args))
         else:
             print('Restoring from checkpoint...')
             tf.train.Saver().restore(sess, tf.train.latest_checkpoint(args.checkpoint))
@@ -38,7 +39,8 @@ def main():
         print('Evaluating...')
         eval_kwargs = evaluate_kwargs(args)
         #print('Train accuracy: ' + str(evaluate(sess, model, train_set, **eval_kwargs)))
-        final_test_acc = evaluate(sess, model, test_set, **eval_kwargs)
+        #final_test_acc = evaluate(sess, model, test_set, **eval_kwargs)
+        final_test_acc = evaluate(sess, model, val_set, **eval_kwargs)
         print_metrics(args.meta_iters, final_test_acc, args.result_dir, args.result_file)
         print('Test accuracy: ' + str(final_test_acc))
 

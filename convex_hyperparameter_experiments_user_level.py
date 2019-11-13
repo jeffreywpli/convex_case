@@ -19,30 +19,18 @@ def run_experiment(dp_notion='noiseless', max_grad_norm=10.0, noise_multiplier=0
 	processes = [None for _ in range(len(seeds))]
 
 	# CHANGE THIS LATER
-	result_dir = './results/convex_case/hyper_search/10_shot_5_way/noiseless/meta_batches_{0:.1f}_meta_iters_{1:.1f}_meta_step_{2:.4f}_meta_step_final_{3:.4f}_inner_batch_{4:.2f}_inner_iters_{5:2f}_learning_rate_{6:.4f}_eval_iters{7:.2f}_eval_batch_{8:.2f}_train_shots{9:.2f}'.format(
-		meta_batch, meta_iters, meta_step, meta_step_final, inner_batch, inner_iters, learning_rate, eval_iters, eval_batch, train_shots)
-
-	#seen_seed = None
-	#if seen_seed:
-	#	csv_file = metrics_dir + "/seed_" + str(seen_seed) + ".csv"
-	#	print(csv_file)
-	#	if os.path.exists(csv_file):
-	#		csv_results = load_data(csv_file)
-	#		max_acc = get_accuracy_vs_round_number(csv_results)[1].max()
-	#	else:
-	#		max_acc = 1.0
-	#else:
-	#	max_acc = 1.0
+	result_dir = './results/convex_case/hyper_search/10_shot_5_way/user_level/meta_batches_{0:.1f}_meta_iters_{1:.1f}_meta_step_{2:.4f}_meta_step_final_{3:.4f}_inner_batch_{4:.2f}_inner_iters_{5:2f}_learning_rate_{6:.4f}_eval_iters{7:.2f}_eval_batch_{8:.2f}_train_shots{9:.2f}_grad_{10:.2f}_dp_sgd_lr_{11:.2f}_noise_{12:.2f}'.format(
+		meta_batch, meta_iters, meta_step, meta_step_final, inner_batch, inner_iters, learning_rate, eval_iters, eval_batch, train_shots, max_grad_norm, dp_sgd_lr, noise_multiplier)
 
 	max_acc = 1.0
 	if max_acc > 0.09:
 		for i, seed in enumerate(seeds):
 			result_file = 'seed_{}'.format(seed)
-			commands = ['python3', 'run_convex_case.py']		# Change this depending on dataset
+			commands = ['python3', 'run_convex_case_user_level.py']		# Change this depending on dataset
 			commands.extend(
 				['--dp-notion', str(dp_notion),
-				#'--max-grad-norm', str(max_grad_norm),
-				#'--noise-multiplier', str(noise_multiplier),
+				'--max-grad-norm', str(max_grad_norm),
+				'--noise-multiplier', str(noise_multiplier),
 				'--meta-batch', str(meta_batch),
 				'--meta-iters', str(meta_iters),
 				'--meta-step', str(meta_step),
@@ -97,13 +85,18 @@ else:
 
 if search == "initial_tuning":
 
+	# Privacy Params
+	max_grad_norm = [0.7]		# Change this
+	noise_multiplier = 0.564
+	dp_sgd_lr = [5e-4]			# Change this
+
 	# Problem Setup
 	classes = 5
 	shots = 5
 	train_shots = [10]
 
 	# Outer Optimization
-	meta_batch = [1,5,10]
+	meta_batch = [1]
 	meta_step = [0.01, 0.1, 1.0, 1. * sqrt(2.), 2.0 ]
 	meta_step_final = 0.0
 	meta_itrs = 1000
@@ -120,25 +113,25 @@ if search == "initial_tuning":
 	eval_samples = 1000
 	eval_interval = 100
 
-	choices = 400
+	choices = 100
 
 
-experiments = list(itertools.product(meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch))
+experiments = list(itertools.product(meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, noise_multiplier, dp_sgd_lr))
 np.random.seed(234)
 perm = np.random.choice(len(experiments), choices, replace=False)
 
-for i in perm[:100]:
-	meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch = experiments[i]
+for i in perm:
+	meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, noise_multiplier, dp_sgd_lr = experiments[i]
 
 	meta_iters = int(1000 / meta_batch)
 	eval_interval = int(meta_itrs / 5)
 
 
 	run_experiment(
-		dp_notion='noiseless',
-		#max_grad_norm=max_grad_norm,
-		#noise_multiplier=noise_multiplier,
-		#dp_sgd_lr=dp_sgd_lr,
+		dp_notion='user_level',
+		max_grad_norm=max_grad_norm,
+		noise_multiplier=noise_multiplier,
+		dp_sgd_lr=dp_sgd_lr,
 		meta_batch=meta_batch,
 		meta_iters=meta_iters,
 		meta_step=meta_step,
@@ -154,7 +147,7 @@ for i in perm[:100]:
 		eval_samples=eval_samples,
 		eval_interval=eval_interval,
 		seeds=seeds,
-		transductive=False,
+		transductive=True,
 		sgd=True)
 
 print('Done with experiments!')
