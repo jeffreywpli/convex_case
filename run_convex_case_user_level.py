@@ -10,7 +10,7 @@ from supervised_reptile.args import argument_parser, model_kwargs, train_kwargs,
 from supervised_reptile.eval import evaluate
 from supervised_reptile.models_dp_user_level import WikiModel
 from supervised_reptile.wiki3029 import Wiki3029DatasetsBuilder
-from supervised_reptile.train import train
+from supervised_reptile.train_user_level import train
 from supervised_reptile.writer import print_metrics
 
 DATA_DIR = 'data/wiki3029/wiki3029_pck/'

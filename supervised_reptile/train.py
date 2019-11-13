@@ -99,7 +99,7 @@ def train(sess,
             print('batch %d: test=%f' % (i, test_acc))
             print_metrics(i, test_acc, result_dir, result_file)
 
-            if i > 2 and test_acc < 0.50:
+            if i > 2 and test_acc < 0.55:
                 break
 
         if i % 100 == 0 or i == meta_iters-1:

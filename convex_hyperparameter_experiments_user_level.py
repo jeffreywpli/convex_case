@@ -86,9 +86,9 @@ else:
 if search == "initial_tuning":
 
 	# Privacy Params
-	max_grad_norm = [0.7]		# Change this
-	noise_multiplier = 0.564
-	dp_sgd_lr = [5e-4]			# Change this
+	max_grad_norm = [0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7]		# Change this
+	noise_multiplier = 0.49
+	dp_sgd_lr = [0.001]
 
 	# Problem Setup
 	classes = 5
@@ -103,7 +103,7 @@ if search == "initial_tuning":
 
 
 	# Inner Optimization
-	inner_batch = [1,5,10,15]
+	inner_batch = [1,5,10,25,50]
 	inner_iters = [5,10,50,100]
 	learning_rate = [0.001, 0.005, 0.01 / sqrt(2), 0.01, 0.01 * sqrt(2), 0.05, 0.1]
 
@@ -113,15 +113,15 @@ if search == "initial_tuning":
 	eval_samples = 1000
 	eval_interval = 100
 
-	choices = 100
+	choices = 400
 
 
-experiments = list(itertools.product(meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, noise_multiplier, dp_sgd_lr))
+experiments = list(itertools.product(meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, dp_sgd_lr))
 np.random.seed(234)
 perm = np.random.choice(len(experiments), choices, replace=False)
 
-for i in perm:
-	meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, noise_multiplier, dp_sgd_lr = experiments[i]
+for i in perm[:67]:
+	meta_batch, inner_batch, meta_step, learning_rate, train_shots, inner_iters, inner_batch, eval_iters, eval_batch, max_grad_norm, dp_sgd_lr = experiments[i]
 
 	meta_iters = int(1000 / meta_batch)
 	eval_interval = int(meta_itrs / 5)

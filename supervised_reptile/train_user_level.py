@@ -99,7 +99,7 @@ def train(sess,
             #    accuracies.append(correct / num_classes)
             print('batch %d: test=%f' % (i, test_acc))
             print_metrics(i, test_acc, result_dir, result_file)
-            if test_acc < 0.34:
+            if test_acc < 0.40:
               break
 
         if i % 100 == 0 or i == meta_iters-1:

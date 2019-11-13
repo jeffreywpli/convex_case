@@ -60,7 +60,7 @@ class WikiModel:
     """
     A model for the wiki dataset.
     """
-    def __init__(self, num_classes, input_dim=50):
+    def __init__(self, num_classes, input_dim=50, optimizer=DEFAULT_OPTIMIZER, **optim_kwargs):
         self.input_ph = tf.placeholder(tf.float32, shape=(None, input_dim), name='input_ph')
         self.label_ph = tf.placeholder(tf.int32, shape=(None,), name='label_ph')
 
