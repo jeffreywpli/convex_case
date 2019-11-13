@@ -4,13 +4,14 @@ datasets.
 """
 
 import random
-
 import tensorflow as tf
-
 from .variables import (interpolate_vars, average_vars, subtract_vars, add_vars, scale_vars,
                         VariableState)
+import numpy as np
 
-class Reptile:
+
+
+class ReptileExampleLevel:
     """
     A meta-learning session.
 
@@ -63,8 +64,10 @@ class Reptile:
         new_vars = []
         for _ in range(meta_batch_size):
             mini_dataset = _sample_mini_dataset(dataset, num_classes, num_shots)
-            for batch in _mini_batches(mini_dataset, inner_batch_size, inner_iters, replacement):
+            for batch in _batch_data_random(mini_dataset, inner_batch_size, inner_iters):
+                #batch_size += 1
                 inputs, labels = zip(*batch)
+                #print("Batch Size: ", len(inputs))
                 if self._pre_step_op:
                     self.session.run(self._pre_step_op)
                 self.session.run(minimize_op, feed_dict={input_ph: inputs, label_ph: labels})
@@ -133,7 +136,7 @@ class Reptile:
             res.append(self.session.run(predictions, feed_dict={input_ph: inputs})[-1])
         return res
 
-class FOML(Reptile):
+class FOML(ReptileExampleLevel):
     """
     A basic implementation of "first-order MAML" (FOML).
 
@@ -198,7 +201,7 @@ class FOML(Reptile):
         update = average_vars(updates)
         self._model_state.import_variables(add_vars(old_vars, scale_vars(update, meta_step_size)))
 
-    def _mini_batches(self, mini_dataset, inner_batch_size, inner_iters, replacement):
+    def _mini_batches(self, mini_dataset, inner_batch_size, inner_iters, replacement=False):
         """
         Generate inner-loop mini-batches for the task.
         """
@@ -223,6 +226,31 @@ def _sample_mini_dataset(dataset, num_classes, num_shots):
     for class_idx, class_obj in enumerate(shuffled[:num_classes]):
         for sample in class_obj.sample(num_shots):
             yield (sample, class_idx)
+
+def _batch_data_random(samples, batch_size, num_batches):
+    """
+    data is a dict := {'x': [numpy array], 'y': [numpy array]} (on one client)
+    returns x, y, which are both numpy array of length: batch_size
+    """
+    samples = list(samples)
+    sample_count = len(samples)
+
+    p = batch_size / sample_count
+    #print('p = ' + str(p))
+    #print('Papaya p', p)
+
+    for i in range(num_batches):
+
+        idx = []
+
+        while len(idx) == 0:
+            ind_probs = np.random.binomial(1, p, sample_count)
+            idx = np.where(ind_probs == 1)[0]
+
+        batch = [samples[j] for j in idx]
+
+        yield batch
+    return
 
 def _mini_batches(samples, batch_size, num_batches, replacement):
     """

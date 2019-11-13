@@ -6,11 +6,12 @@ datasets.
 import random
 
 import tensorflow as tf
+import numpy as np
 
-from .variables import (interpolate_vars, average_vars, subtract_vars, add_vars, scale_vars,
+from .variables import (interpolate_vars, average_vars, subtract_vars, add_vars, scale_vars, numpy_clip_by_global_norm,
                         VariableState)
 
-class Reptile:
+class ReptileUserLevel:
     """
     A meta-learning session.
 
@@ -19,13 +20,14 @@ class Reptile:
     allowed to leak between test samples via BatchNorm.
     Typically, MAML is used in a transductive manner.
     """
-    def __init__(self, session, variables=None, transductive=False, pre_step_op=None):
+    def __init__(self, session, variables=None, transductive=False, pre_step_op=None, check="hi"):
         self.session = session
         self._model_state = VariableState(self.session, variables or tf.trainable_variables())
         self._full_state = VariableState(self.session,
                                          tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES))
         self._transductive = transductive
         self._pre_step_op = pre_step_op
+        self.check=check
 
     # pylint: disable=R0913,R0914
     def train_step(self,
@@ -39,7 +41,9 @@ class Reptile:
                    inner_iters,
                    replacement,
                    meta_step_size,
-                   meta_batch_size):
+                   meta_batch_size,
+                   max_grad_norm=0.10,
+                   noise_multiplier=0.51):
         """
         Perform a Reptile training step.
 
@@ -59,17 +63,55 @@ class Reptile:
           meta_step_size: interpolation coefficient.
           meta_batch_size: how many inner-loops to run.
         """
+        stddev = 2 * max_grad_norm * noise_multiplier
         old_vars = self._model_state.export_variables()
         new_vars = []
         for _ in range(meta_batch_size):
             mini_dataset = _sample_mini_dataset(dataset, num_classes, num_shots)
             for batch in _mini_batches(mini_dataset, inner_batch_size, inner_iters, replacement):
                 inputs, labels = zip(*batch)
+
+                # Run weight decay if desired
                 if self._pre_step_op:
                     self.session.run(self._pre_step_op)
+
+                # Perform minimization w.r.t. this batch
                 self.session.run(minimize_op, feed_dict={input_ph: inputs, label_ph: labels})
-            new_vars.append(self._model_state.export_variables())
+
+                # Clipping after each batch
+                #print("Old Vars")
+                #print(old_vars)
+
+                proposed_vars = self._model_state.export_variables()
+
+                #print("Proposed Vars")
+                #print(proposed_vars)
+
+                proposed_update = subtract_vars(proposed_vars, old_vars)
+
+                #print("Update")
+                #print(proposed_update)
+
+                clipped_update, norm = numpy_clip_by_global_norm(proposed_update, max_grad_norm)
+
+                #print("Clipped Update")
+                #print(norm)
+
+                proposed_vars = add_vars(old_vars, clipped_update)
+                self._model_state.import_variables(proposed_vars)
+
+            # Add noise before "sending" to the aggregator
+            noised_vars = [b + np.random.normal(loc=0.0, scale=stddev, size=b.shape) for b in proposed_vars]
+
+            #print("Noised Vars")
+            #print(noised_vars)
+
+            new_vars.append(noised_vars)
+
+            # Reset before seen by the next task
             self._model_state.import_variables(old_vars)
+
+        # Updating Meta Parameters
         new_vars = average_vars(new_vars)
         self._model_state.import_variables(interpolate_vars(old_vars, new_vars, meta_step_size))
 
@@ -77,7 +119,7 @@ class Reptile:
                  dataset,
                  input_ph,
                  label_ph,
-                 refine_op,
+                 minimize_op,
                  predictions,
                  num_classes,
                  num_shots,
@@ -111,12 +153,13 @@ class Reptile:
         """
         train_set, test_set = _split_train_test(
             _sample_mini_dataset(dataset, num_classes, num_shots+1))
+
         old_vars = self._full_state.export_variables()
         for batch in _mini_batches(train_set, inner_batch_size, inner_iters, replacement):
             inputs, labels = zip(*batch)
             if self._pre_step_op:
                 self.session.run(self._pre_step_op)
-            self.session.run(refine_op, feed_dict={input_ph: inputs, label_ph: labels})
+            self.session.run(minimize_op, feed_dict={input_ph: inputs, label_ph: labels})
         test_preds = self._test_predictions(train_set, test_set, input_ph, predictions)
         num_correct = sum([pred == sample[1] for pred, sample in zip(test_preds, test_set)])
         self._full_state.import_variables(old_vars)
@@ -133,7 +176,7 @@ class Reptile:
             res.append(self.session.run(predictions, feed_dict={input_ph: inputs})[-1])
         return res
 
-class FOML(Reptile):
+class FOML(ReptileUserLevel):
     """
     A basic implementation of "first-order MAML" (FOML).
 
@@ -169,7 +212,7 @@ class FOML(Reptile):
                    dataset,
                    input_ph,
                    label_ph,
-                   minimize_op,
+                   refine_op,
                    num_classes,
                    num_shots,
                    inner_batch_size,

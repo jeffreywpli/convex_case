@@ -2,21 +2,16 @@
 Training helpers for supervised meta-learning.
 """
 
-import os; os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+import os
 import time
 
 import tensorflow as tf
 
-from .reptile import Reptile
+from .reptile_dp_user_level import ReptileUserLevel
 from .variables import weight_decay
 from .eval import evaluate
 from .writer import print_metrics
 from .args import argument_parser, model_kwargs, train_kwargs, evaluate_kwargs
-
-try:
-    tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
-except AttributeError:
-    tf.logging.set_verbosity(tf.logging.ERROR)
 
 # pylint: disable=R0913,R0914
 def train(sess,
@@ -42,7 +37,9 @@ def train(sess,
           time_deadline=None,
           train_shots=None,
           transductive=False,
-          reptile_fn=Reptile):
+          reptile_fn=ReptileUserLevel,
+          max_grad_norm=10,             # New
+          noise_multiplier=0.0):        # New
     """
     Train a model on a dataset.
     """
@@ -69,26 +66,30 @@ def train(sess,
     sess.run(tf.global_variables_initializer())
 
     # Actual training begins
+    print_metrics(0, 0, result_dir, result_file)
+
     for i in range(meta_iters):
         if i % 10 == 0:
             print("Reached Iteration: ", i)
-
         # Linearly Decaying meta step size
         frac_done = i / meta_iters
         cur_meta_step_size = frac_done * meta_step_size_final + (1 - frac_done) * meta_step_size
 
+        ##### ADDED the max grad norm and noisemultiplier here
         reptile.train_step(train_set, model.input_ph, model.label_ph, model.minimize_op,
                            num_classes=num_classes, num_shots=(train_shots or num_shots),
                            inner_batch_size=inner_batch_size, inner_iters=inner_iters,
                            replacement=replacement,
-                           meta_step_size=cur_meta_step_size, meta_batch_size=meta_batch_size)
+                           meta_step_size=cur_meta_step_size, meta_batch_size=meta_batch_size,
+                           max_grad_norm=max_grad_norm , noise_multiplier=noise_multiplier)       # NEW
 
-        if not args.hyperparameter_tuning and (i % eval_interval) == 0:
+        if i > 0 and (i % eval_interval) == 0:
             test_acc = evaluate(sess, model, test_set, **eval_kwargs)
+
             #accuracies = []
             #for dataset, writer in [(test_set, test_writer)]:
             #    correct = reptile.evaluate(dataset, model.input_ph, model.label_ph,
-            #                               model.refine_op, model.predictions,
+            #                               model.minimize_op, model.predictions,
             #                               num_classes=num_classes, num_shots=num_shots,
             #                               inner_batch_size=eval_inner_batch_size,
             #                               inner_iters=eval_inner_iters, replacement=replacement)
@@ -98,6 +99,8 @@ def train(sess,
             #    accuracies.append(correct / num_classes)
             print('batch %d: test=%f' % (i, test_acc))
             print_metrics(i, test_acc, result_dir, result_file)
+            if test_acc < 0.34:
+              break
 
         if i % 100 == 0 or i == meta_iters-1:
             saver.save(sess, os.path.join(save_dir, 'model.ckpt'), global_step=i)

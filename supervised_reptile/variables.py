@@ -47,6 +47,18 @@ def weight_decay(rate, variables=None):
     ops = [tf.assign(var, var * rate) for var in variables]
     return tf.group(*ops)
 
+def numpy_clip_by_global_norm(var_seq, clip_threshold):
+
+    arrays_flattened = np.concatenate([v.flatten() for v in var_seq])
+    norm  = np.linalg.norm(arrays_flattened)
+
+    if norm > clip_threshold:
+        clipped_arrays = [v / norm * clip_threshold for v in var_seq]
+    else:
+        clipped_arrays = var_seq
+
+    return clipped_arrays, norm
+
 class VariableState:
     """
     Manage the state of a set of variables.

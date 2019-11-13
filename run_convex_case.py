@@ -8,12 +8,12 @@ import tensorflow as tf
 
 from supervised_reptile.args import argument_parser, model_kwargs, train_kwargs, evaluate_kwargs
 from supervised_reptile.eval import evaluate
-from supervised_reptile.models import OmniglotModel
-from supervised_reptile.omniglot import read_dataset, split_dataset, augment_dataset
+from supervised_reptile.models import WikiModel
+from supervised_reptile.wiki3029 import Wiki3029DatasetsBuilder
 from supervised_reptile.train import train
 from supervised_reptile.writer import print_metrics
 
-DATA_DIR = 'data/omniglot'
+DATA_DIR = 'data/wiki3029/wiki3029_pck/'
 
 def main():
     """
@@ -22,11 +22,10 @@ def main():
     args = argument_parser().parse_args()
     random.seed(args.seed)
 
-    train_set, test_set = split_dataset(read_dataset(DATA_DIR))
-    train_set = list(augment_dataset(train_set))
-    test_set = list(test_set)
+    wiki_dataset_builder = Wiki3029DatasetsBuilder(DATA_DIR)
+    train_set, val_set, test_set = wiki_dataset_builder._read_dataset()
 
-    model = OmniglotModel(args.classes, **model_kwargs(args))
+    model = WikiModel(args.classes, **model_kwargs(args))
 
     with tf.Session() as sess:
         if not args.pretrained:

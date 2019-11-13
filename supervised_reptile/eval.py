@@ -25,9 +25,11 @@ def evaluate(sess,
                          transductive=transductive,
                          pre_step_op=weight_decay(weight_decay_rate))
     total_correct = 0
-    for _ in range(num_samples):
+    for i in range(num_samples):
+        if (i % 100) == 0:
+            print("     Evaluating on Task: ", i)
         total_correct += reptile.evaluate(dataset, model.input_ph, model.label_ph,
-                                          model.minimize_op, model.predictions,
+                                          model.refine_op, model.predictions,
                                           num_classes=num_classes, num_shots=num_shots,
                                           inner_batch_size=eval_inner_batch_size,
                                           inner_iters=eval_inner_iters, replacement=replacement)

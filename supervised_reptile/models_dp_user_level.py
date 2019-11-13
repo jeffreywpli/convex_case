@@ -30,6 +30,10 @@ class OmniglotModel:
         self.minimize_op = optimizer(**optim_kwargs).minimize(self.loss)
         self.refine_op = self.minimize_op
 
+
+
+# pylint: disable=R0903
+
 class MiniImageNetModel:
     """
     A model for Mini-ImageNet classification.
@@ -56,7 +60,7 @@ class WikiModel:
     """
     A model for the wiki dataset.
     """
-    def __init__(self, num_classes, optimizer=DEFAULT_OPTIMIZER, input_dim=50, **optim_kwargs):
+    def __init__(self, num_classes, input_dim=50):
         self.input_ph = tf.placeholder(tf.float32, shape=(None, input_dim), name='input_ph')
         self.label_ph = tf.placeholder(tf.int32, shape=(None,), name='label_ph')
 

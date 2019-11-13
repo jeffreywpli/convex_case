@@ -8,6 +8,10 @@ from functools import partial
 import tensorflow as tf
 
 from .reptile import Reptile, FOML
+from .reptile_dp_example_level import ReptileExampleLevel
+from .reptile_dp_user_level import ReptileUserLevel
+
+
 
 def argument_parser():
     """
@@ -18,6 +22,8 @@ def argument_parser():
                         action='store_true', default=False)
     parser.add_argument('--seed', help='random seed', default=0, type=int)
     parser.add_argument('--checkpoint', help='checkpoint directory', default='model_checkpoint')
+    parser.add_argument('--result-dir', help='result directory', default='results')
+    parser.add_argument('--result-file', help='file name for results', default='results')
     parser.add_argument('--classes', help='number of classes per inner task', default=5, type=int)
     parser.add_argument('--shots', help='number of examples per class', default=5, type=int)
     parser.add_argument('--train-shots', help='shots in a training batch', default=0, type=int)
@@ -40,7 +46,27 @@ def argument_parser():
     parser.add_argument('--foml-tail', help='number of shots for the final mini-batch in FOML',
                         default=None, type=int)
     parser.add_argument('--sgd', help='use vanilla SGD instead of Adam', action='store_true')
+
+    # Privacy Parameters
+    parser.add_argument('--dp-notion', help='which notion of DP', default='noiseless')
+    parser.add_argument('--dp-sgd-lr', help='LR for DP-SGD', default=0, type=float)
+    parser.add_argument('--max-grad-norm', help='For clipping in DP methods', default=0, type=float)
+    parser.add_argument('--noise-multiplier', help='Noise for DP methods', default=0, type=float)
+    parser.add_argument('--microbatches', help='For microbatching in DP-SGD', default=0, type=int)
+
+    # Convex Case Parameters
+    parser.add_argument('--input-dim', help='Choosing input dim for wiki dataset', default=50, type=int)
+
+    parser.add_argument('--hyperparameter-tuning', help='Avoid unnecessary eval calls while tuning', action='store_true', default=False)
+
     return parser
+
+
+def privacy_kwargs(parsed_args):
+    res = {'max_grad_norm': parsed_args.max_grad_norm}
+    res['noise_multiplier'] = parsed_args.noise_multiplier
+    return res
+
 
 def model_kwargs(parsed_args):
     """
@@ -96,4 +122,8 @@ def evaluate_kwargs(parsed_args):
 def _args_reptile(parsed_args):
     if parsed_args.foml:
         return partial(FOML, tail_shots=parsed_args.foml_tail)
+    if parsed_args.dp_notion == "user_level":
+        return ReptileUserLevel
+    if parsed_args.dp_notion == "example_level":
+        return ReptileExampleLevel
     return Reptile
