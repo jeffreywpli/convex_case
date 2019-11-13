@@ -1,0 +1,200 @@
+The protocol layers each solve a distinct class of communication problems.
+For marine electronics the NMEA standards are used.
+To decide whether a datagram is to be delivered directly or is to be sent to a router closer to the destination, a table called the ''IP routing table'' is consulted.
+At the time the Internet was developed, layering had proven to be a successful design approach for both compiler and operating system design and, given the similarities between programming languages and communications protocols, layering was applied to the protocols as well.
+A programmer using a general purpose programming language (like C or Ada) can use the routines in the libraries to implement a protocol, instead of using a dedicated protocolling language.
+This often reflects conflicting views of some of the members.
+The vertical protocols are not layered because they don't obey the ''protocol layering principle'' which states that ''a layered protocol is designed so that layer'' n ''at the destination receives exactly the same object sent by layer'' n ''at the source''.
+The exchange of data link units (including flow control) is defined by this layer.
+A valid assignment in a protocol (as an analog of programming language) could be '' Ethernet:='message' '', meaning a message is to be broadcast on the local ethernet.
+Noting that the ways to conquer the complexity of program translation could readily be applied to protocols because of the analogy between programming languages and protocols, the designers of the TCP/IP protocol suite were keen on imposing the same layering on the software framework.
+The process normally takes several years to complete.
+In programming languages the association of ''identifiers'' to a ''value'' is termed a ''definition''.
+Communicating systems operate in parallel.
+* Parameters reserved for future use, reflecting that the members agreed the facility should be provided, but could not reach agreement on how this should be done in the available time.
+For each layer there are two types of standards: protocol standards defining how peer entities at a given layer communicate, and service standards defining how a given layer communicates with the layer above it.
+Often the members are in control of large market-shares relevant to the protocol and in many cases, standards are enforced by law or the government, because they are thought to serve an important public interest, so getting approval can be very important for the protocol.
+On a transmission medium there can be many receivers.
+Usually, a message or a stream of data is divided into small pieces, called ''messages'' or ''streams'', ''packets'', ''IP datagrams'' or ''network frames'' depending on the layer in which the pieces are to be transmitted.
+Despite their numbers, networking protocols show little variety, because all networking protocols use the same underlying principles and concepts, in the same way.
+RM/OSI has extended its model to include connectionless services and because of this, both TCP and IP could be developed into international standards.
+The bitstrings are divided in fields and each field carries information relevant to the protocol.
+* The ''physical layer'' describes details like the electrical characteristics of the physical connection, the transmission techniques used, and the setup, maintenance and clearing of physical connections.
+If the datagram is addressed to the local machine, the datagram header is deleted and the appropriate transport protocol for the packet is chosen.
+The layers communicate with each other by means of an interface, called a ''service access point''.
+By analogy, the equivalent of a store would be a collection of transmission media, instead of a collection of memory locations.
+As an example of domain of use, connection-oriented protocols and connectionless protocols are used on connection-oriented networks and connectionless networks respectively.
+In the original version of RM/OSI, the layers and their functionality are (from highest to lowest layer):
+The rule enforced by the vertical protocols is that the pieces for transmission are to be ''encapsulated'' in the data area of all lower protocols on the sending side and the reverse is to happen on the receiving side.
+For instance to translate a logical IP address specified by the application to an Ethernet hardware address.
+The programming tools and techniques for dealing with parallel processes are collectively called ''concurrent programming''.
+When systems are not directly connected, intermediate peer entities (called ''relays'') are used.
+The address naming domains need not be restricted to one layer, so it is possible to use just one naming domain for all layers.
+Operating systems provide reliable communication and synchronization facilities for communicating objects confined to the same system by means of ''system libraries''.
+After a lot of feedback, modification, and compromise the proposal reaches the status of a ''draft international standard'', and ultimately an ''international standard''.
+This gave rise to the concept of layered protocols which nowadays forms the basis of protocol design.
+Usually some address values have special meanings.
+On protocol errors, a receiving module discards the piece it has received and reports back the error condition to the original source of the piece on the same layer by handing the error message down or in case of the bottom module sending it across.
+Connection oriented systems build up ''virtual circuits'' (paths for exclusive use) between senders and receivers.
+Typically, a hardware delivery mechanism layer is used to build a connectionless packet delivery system on top of which a reliable transport layer is built, on top of which is the application software.
+A familiar example of a protocolling language is the HTML language used to describe web pages which are the actual web protocols.
+The blue lines therefore mark the boundaries of the (horizontal) protocol layers.
+The data in the header area identifies the source and the destination on the network of the packet, the protocol, and other data meaningful to the protocol like CRC's of the data to be sent, data length, and a timestamp.
+Strictly adhering to a layered model, a practice known as strict layering, is not always the best approach to networking.
+The dominant layering schemes are the ones proposed by the IETF and by ISO.
+The layering scheme from ISO is called ''the OSI model'' or ''ISO layering''.
+The packets are encapsulated in IP datagrams and the datagram headers are filled.
+* The ''transport layer'' provides reliable and transparent data transfer in a cost-effective way as required by the selected quality of service.
+In general, much of the following should be addressed:
+There are more than 50 variants of the original bi-sync protocol.
+When systems are not directly connected, intermediary systems along the ''route'' to the intended receiver(s) need to forward messages on behalf of the sender.
+The software modules implementing the protocols are represented by cubes.
+Retransmissions can result in duplicate pieces.
+To send a message on system A, the top module interacts with the module directly below it and hands over the message to be encapsulated.
+This technique, called ''tunneling'', can be used on X.25 networks and ATM networks.
+The horizontal protocols are ''layered protocols'' and all belong to the protocol suite.
+In this (networking) context a protocol is a language.
+The functionalities are mapped onto the layers, each layer solving a distinct class of problems relating to, for instance: application-, transport-, internet- and network interface-functions.
+A routing algorithm is used to determine if the datagram should be delivered directly or sent to a router.
+It may support the multiplexing of several transport connections on to one network connection or split one transport connection into several network connections.
+The transport layer may regulate flow of information and provide reliable transport, ensuring that data arrives without error and in sequence.
+A programming language describes the same for computations, so there is a close analogy between protocols and programming languages: ''protocols are to communications what programming languages are to computations''.
+* A ''Connectionless packet delivery (or packet-switched) system (or service)'' is offered by the Internet, because it adapts well to different hardware, including best-effort delivery mechanisms like the ''ethernet''.
+Program text is structured using ''block'' constructs and definitions can be local to a block.
+For example, the mail protocol above can be adapted to send messages to aircraft.
+Incoming datagrams are checked for validity and the routing algorithm is used to decide whether the datagram should be processed locally or forwarded.
+The transport layer provides communication from one application to another.
+* ''Data formats for data exchange''.
+The design of the protocol layering and the network (or Internet) architecture are interrelated, so one cannot be designed without the other.
+This can be seen in the TCP/IP layering by considering the translation of a ''pascal program'' (message) that is compiled (function of the application layer) into an ''assembler program'' that is assembled (function of the transport layer) to ''object code'' (pieces) that is linked (function of the Internet layer) together with ''library object code'' (routing table) by the link editor, producing ''relocatable machine code'' (datagram) that is passed to the loader which fills in the memory locations (ethernet addresses) to produce ''executable code'' (network frame) to be loaded (function of the network interface layer) into physical memory (transmission medium).
+This would prevent protocol standards with overlapping functionality and would allow clear definition of the responsibilities of a protocol at the different levels (layers).
+Packets to be sent are accepted from the transport layer along with an identification of the receiving machine.
+BSC is an early link-level protocol used to connect two separate nodes.
+Recall that in digital computing systems, the rules can be expressed by algorithms and datastructures, raising the opportunity for hardware independence.
+The original paper draft created by the designer will differ substantially from the standard, and will contain some of the following 'features':
+Errors are reported to the network layer.
+For the Internet protocols, in particular and in retrospect, this meant a basis for protocol design was needed to allow decomposition of protocols into much simpler, cooperating protocols.
+The datagram is passed to the appropriate network interface for transmission.
+This is where the analogies come into play for the TCP/IP model, because the designers of TCP/IP employed the same techniques used to conquer the complexity of programming language ''compilers'' (design by analogy) in the ''implementation'' of its protocols and its layering scheme.
+* The ''network layer'' does the setup, maintenance and release of network paths between transport peer entities.
+The table consists of pairs of networkids and the paths to be taken to reach known networks.
+Program translation forms a linear sequence, because each layer's output is passed as input to the next layer.
+* ''Address mapping''.
+This will generate a lot of questions, much discussion and usually some disagreement on what the standard should provide and if it can satisfy all needs (usually not).
+This rule therefore ensures that the protocol layering principle holds and effectively virtualizes all but the lowest transmission lines, so for this reason some message flows are coloured red in figure 3.
+The specified behavior is typically independent of how it is to be implemented.
+Packets may be lost on the network or suffer from long delays.
+Flow control can be implemented by messaging from receiver to sender.
+The boundary between application layer and transport layer is called the ''operating system boundary''.
+The protocolling language would have some syntax and a lot of semantics describing this universal protocol and would therefore in effect be a protocol, hardly differing from this universal networking protocol.
+This framework implements the networking functionality of the operating system.
+* ''Address formats for data exchange''.
+Nowadays, the IETF has become a standards organization for the protocols in use on the Internet.
+sometimes the source code needs to be disclosed and enforced by law or the government in the interest of the public.
+Unreliability arises only when resources are exhausted or underlying networks fail.
+To do so, the receiving side sends back acknowledgments and the sending side retransmits lost pieces called packets.
+In computations, we have algorithms and data, and in communications, we have protocols and messages, so the analog of a data flow diagram would be some kind of message flow diagram.
+In a common approach, CRCs of the data area are added to the end of packets, making it possible for the receiver to detect differences caused by errors.
+As the PSTN and Internet converge, the two sets of standards are also being driven towards convergence.
+Concurrent programming has traditionally been a topic in operating systems theory texts.
+In telecommunications, a '''communication  protocol''' is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity.
+The Internet layer handles the communication between machines.
+The standardization process starts off with ISO commissioning a sub-committee workgroup.
+The actual protocols are collectively called the Internet protocol suite.
+As a result, the translation software is layered as well, allowing the software layers to be designed independently.
+By specifying the algorithms on paper and detailing hardware dependencies in an unambiguous way, a ''paper draft'' is created, that when adhered to and published, ensures interoperability between software and hardware.
+The protocol also specifies the ''routing'' function, which chooses a path over which data will be sent.
+As a result, the IETF developed its own standardization process based on "rough consensus and running code".
+The data received has to be evaluated in the context of the progress of the conversation, so a protocol has to specify rules describing the context.
+The delivery of packets is said to be ''unreliable'', because packets may be lost, duplicated, delayed or delivered out of order without notice to the sender or receiver.
+The unreliable connectionless delivery system is defined by the ''Internet Protocol'' (IP).
+Mealy and Moore machines are in use as design tools in digital electronics systems, which we encounter in the form of hardware used in telecommunications or electronic devices in general.
+By analogy we could say that the aforementioned 'xfer-mechanism' is comparable to a ''cpu''; a 'xfer-mechanism' performs communications and a ''cpu'' performs computations and the 'framework' introduces something that allows the protocols to be designed independent of one another by providing separate execution environments for them.
+This way physical addresses are only used by the protocols of the network interface layer.
+The (top two horizontal) red arrows are virtual.
+The term host is misleading in that an individual computer can have multiple network interfaces each having its own Internet address.
+To get the approval the paper draft needs to enter and successfully complete the ''standardization process''.
+TCP/IP software is organized in four layers.
+In practice, the standards organizations mentioned, cooperate closely with each other.
+Expressing the algorithms in a portable programming language, makes the protocol software operating system independent.
+The services are layered as well and the application programs residing in the layer above it, called the ''application services'', can make use of TCP.
+For communication to take place, protocols have to be agreed upon.
+The best known frameworks are the TCP/IP model and the OSI model.
+* The ''application layer'' may provide the following services to the application processes: identification of the intended communication partners, establishment of the necessary authority to communicate, determination of availability and authentication of the partners, agreement on privacy mechanisms for the communication, agreement on responsibility for error recovery and procedures for ensuring data integrity, synchronization between cooperating application processes, identification of any constraints on syntax (e.g.
+All the interconnected physical networks appear to the user as a single large network.
+Such protocols are referred to as ''de facto standards''.
+Instead, the IETF decided to reduce complexity by assuming a relatively simple network architecture allowing decomposition of the single universal networking protocol into two generic protocols, TCP and IP, and two classes of specific protocols, one dealing with the low-level network details and one dealing with the high-level details of common network applications (remote login, file transfer, email and web browsing).
+The functionality of the layers has been described in the section on software layering and an overview of protocols using this scheme is given in the article on Internet protocols.
+The addresses are stored in the header area of the bitstrings, allowing the receivers to determine whether the bitstrings are intended for themselves and should be processed or should be ignored.
+A suitably defined (dedicated) protocolling language would therefore have little syntax, perhaps just enough to specify some parameters or optional modes of operation, because its virtual machine would have incorporated all possible principles and concepts making the virtual machine itself a ''universal'' protocol.
+The layer must accept data from many applications concurrently and therefore also includes codes in the packet header to identify the sending and receiving application program.
+The boundary between network interface layer and Internet layer is called the ''high-level protocol address boundary''.
+On the receiving system B the reverse happens, so ultimately (and assuming there were no transmission errors or protocol violations etc.)
+Each layer provides service to the layer above it (or at the top to the application process) using the services of the layer immediately below it.
+In our imaginary protocol, the assignment ''ethernetmac-address:=message value'' could therefore make sense.
+The quality of service is negotiated between network and transport entities at the time the connection is set up.
+The actual message is stored in the data area, so the header area contains the fields with more relevance to the protocol.
+The notion of a universal networking protocol provides a rationale for standardization of networking protocols; assuming the existence of a universal networking protocol, development of protocol standards using a consensus model (the agreement of a group of experts) might be a viable way to coordinate protocol design efforts.
+Using connections to communicate implies some form of session and (virtual) circuits, hence the (in the TCP/IP model lacking) session layer.
+This way of connecting networks is called ''internetworking''.
+As a result, pieces may arrive out of sequence.
+For instance a mac-address identifies an ether network card on the transmission medium (the 'ether').
+From a historical perspective, standardization should be seen as a measure to counteract the ill-effects of de facto standards.
+This is known as Media Access Control.
+A LAN, a WAN or a point-to-point link between two computers are all considered as one network.
+* ''Network interface layer''.
+Sometimes protocols need to map addresses of one scheme on addresses of another scheme.
+* The ''presentation layer'' may provide the following services to the application layer: a request for the establishment of a session, data transfer, negotiation of the syntax to be used between the application layers, any necessary syntax transformations, formatting and special purpose transformations (e.g.
+This activity is referred to as ''protocol development''.
+The systems both make use of the same protocol suite.
+Each message has an exact meaning intended to elicit a response from a range of possible responses pre-determined for that particular situation.
+An example of the latter case is the HTML language.
+This gave rise to the OSI ''Open Systems Interconnection reference model'' (RM/OSI), which is used as a framework for the design of standard protocols and services conforming to the various layer specifications.
+ICMP error and control messages are handled as well in this layer.
+The modules below the application layer are generally considered part of the operating system.
+Furthermore, it is repeatedly stated that ''protocols are to computer communication what programming languages are to computation''.
+So, the use of a general purpose programming language would yield a large number of applications only differing in the details.
+It is also possible to use TCP/IP protocols on ''connection oriented systems''.
+Bitstrings longer than the maximum transmission unit (MTU) are divided in pieces of appropriate size.
+The need for protocol standards can be shown by looking at what happened to the bi-sync protocol (BSC) invented by IBM.
+Concurrent programming only deals with the synchronization of communication.
+Passing data between these modules is much less expensive than passing data between an application program and the transport layer.
+The netid is used by routers to decide where to send a packet.
+Communicating systems use well-defined formats (protocol) for exchanging various messages.
+* ''Acknowledgements'' of correct reception of packets is required for connection-oriented communication.
+To transmit a message, a protocol has to be selected from each layer, so some sort of multiplexing and demultiplexing takes place.
+To ease design, communications protocols are structured using a layering scheme as a basis.
+In the OSI model, communicating systems are assumed to be connected by an underlying physical medium providing a basic (and unspecified) transmission mechanism.
+Some of the best known protocol suites include: IPX/SPX, X.25, AX.25, AppleTalk and TCP/IP.
+Layering allows the parts of a protocol to be designed and tested without a combinatorial explosion of cases, keeping each design relatively simple.
+* ''Application layer''.
+The localized association of an identifier to a value established by a definition is termed a ''binding'' and the region of program text in which a binding is effective is known as its ''scope''.
+International standards are reissued periodically to handle the deficiencies and reflect changing views on the subject.
+The layers above it are numbered (from one to seven); the nth layer is referred to as (n)-layer.
+By marking the pieces with sequence information at the sender, the receiver can determine what was lost or duplicated, ask for necessary retransmissions and reassemble the original message.
+Layering also permits familiar protocols to be adapted to unusual circumstances.
+The IEEE controls many software and hardware protocols in the electronics industry for commercial and consumer devices.
+This can be achieved using a technique called ''Encapsulation''.
+In contrast to the TCP/IP layering scheme, which assumes a connectionless network, RM/OSI assumed a connection-oriented network.
+De facto standards are common in emerging markets, niche markets, or markets that are monopolized (or oligopolized).
+These kind of rules are said to express the ''syntax'' of the communications.
+This is referred to as ''address mapping''.
+* Parameters that are left undefined or allowed to take on values of a defined set at the discretion of the implementor.
+A special entry can specify that a default router is chosen when there are no known paths.
+In literature there are numerous references to the analogies between computer communication and programming.
+Strict layering, can have a serious impact on the performance of the implementation, so there is at least a trade-off between simplicity and performance.
+The vertical flows (and protocols) are ''in system'' and the horizontal message flows (and protocols) are ''between'' systems.
+Acknowledgements are sent from receivers back to their respective senders.
+* Various inconsistencies and ambiguities will inevitably be found when implementing the standard.
+In the absence of standardization, manufacturers and organizations felt free to 'enhance' the protocol, creating incompatible versions on their networks.
+We have seen that long bitstrings are divided in pieces, and then sent on the network individually.
+* The ''data link layer'' does the setup, maintenance and release of data link connections.
+Getting the data across a network is only part of the problem for a protocol.
+The World Wide Web Consortium (W3C) produces protocols and standards for Web technologies.
+When relays are needed, routing and relay functions are provided by this layer.
+Multiple protocols often describe different aspects of a single communication.
+The stream of data is divided into packets by the module and each packet is passed along with a destination address to the next layer for transmission.
+Protocols should therefore specify rules governing the transmission.
+The Internet protocol suite consists of the following layers: application-, transport-, internet- and network interface-functions.
+To communicate, two peer entities at a given layer use an (n)-protocol, which is implemented by using services of the (n-1)-layer.
+Instead they use a set of cooperating protocols, sometimes called a protocol family or protocol suite.

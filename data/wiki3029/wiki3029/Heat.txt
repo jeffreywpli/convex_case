@@ -1,0 +1,200 @@
+As recounted in more detail just above, the Carathéodory way regards quantity of energy transferred as heat in a process as primarily or directly defined as a residual quantity.
+This was the way of the historical pioneers of thermodynamics.
+The second law of thermodynamics observes that in a natural transfer of energy as heat, in which the temperature of the system is different from that of the surroundings, it is always so that
+It has not been possible to define non-equilibrium entropy, as a simple number for a whole system, in a clearly satisfactory way.
+In this case, the integral specifies a quantity of heat transferred at constant pressure.
+The other two are macroscopic approaches.
+For convenience one may say that the adiabatic component was the sum of work done by the body through volume change through movement of the walls while the non-adiabatic wall was temporarily rendered adiabatic, and of isochoric adiabatic work.
+shaft work performed by a compressor fan), which is called isochoric work:
+A mathematical definition can be formulated for small increments of quasi-static adiabatic work in terms of the statistical distribution of an ensemble of microstates.
+This leads to the statement
+Heat engines achieve higher efficiency when the difference between initial and final temperature is greater.
+It regards quantity of energy transferred as heat as a primitive concept coherent with a primitive concept of temperature, measured primarily by calorimetry.
+Such calculation is the primary approach of many theoretical studies of quantity of heat transferred.
+The lowercase Greek letter delta, , is the symbol for inexact differentials.
+They make it clear that empirical definitions of temperature are contingent on the peculiar properties of particular thermometric substances, and are thus precluded from the title 'absolute'.
+It is known that the temperature  is identically stated by
+A single cycle starts with the working body colder than the cold reservoir, and then energy is taken in as heat by the working body from the cold reservoir.
+Diatomic gases such as hydrogen display some temperature dependence, and triatomic gases (e.g., carbon dioxide) still more.
+If, however, the convection is enclosed and circulatory, then it may be regarded as an intermediary that transfers energy as heat between source and destination bodies, because it transfers only energy and not matter from the source to the destination body.
+If, in contrast, the process is natural, and can really occur, with irreversibility, then there is entropy production, with .
+Maxwell outlined four stipulations for the definition of heat:
+As a form of energy heat has the unit joule (J) in the International System of Units (SI).
+Historically, many energy units for measurement of heat have been used.
+In contrast, the Carathéodory way recounted just above does not use calorimetry or temperature in its primary definition of quantity of energy transferred as heat.
+a form of potential energy, and the sensible heat as an energy involving the motion of particles or what was known as a ''living force''.
+Because entropy is not a conserved quantity, this is an exception to the general way of speaking, in which an amount transferred is of a conserved quantity.
+This alternative approach to the definition of quantity of energy transferred as heat differs in logical structure from that of Carathéodory, recounted just above.
+The conceptual purity of this definition, based on the concept of energy transferred as work as an ideal notion, relies on the idea that some frictionless and otherwise non-dissipative processes of energy transfer can be realized in physical actuality.
+The impossibility of a mechanical definition in terms of work for this circumstance does not alter the physical fact that a temperature gradient causes a diffusive flux of internal energy, a process that, in the thermodynamic view, might be proposed as a candidate concept for transfer of energy as heat.
+They contain the same physical information, written in different ways.
+Functionally, such engines are used in two ways, distinguishing a target reservoir and a resource or surrounding reservoir.
+In a sense, it uses work to produce heat transfer.
+With reference to hotness, the comparative terms hotter and colder are defined by the rule that heat flows from the hotter body to the colder.
+In this definition, for the sake of conceptual rigour, the quantity of energy transferred as heat is not specified directly in terms of the non-adiabatic process.
+In engineering, the term ''convective heat transfer'' is used to describe the combined effects of conduction and fluid flow.
+and that , the entropy of the working body, is a function of state.
+In a transfer of energy as heat without work being done, there are changes of entropy in both the surroundings which lose heat and the system which gains it.
+Cyclically operating engines, that use only heat and work transfers, have two thermal reservoirs, a hot and a cold one.
+But when there is transfer of matter, the exact laws by which temperature gradient drives diffusive flux of internal energy, rather than being exactly knowable, mostly need to be assumed, and in many cases are practically unverifiable.
+The change in internal energy to reach the state  from the state  is the difference of the two amounts of energy transferred.
+If three physical systems, ''A'', ''B'', and ''C'' are each not in their own states of internal thermodynamic equilibrium, it is possible that, with suitable physical connections being made between them, ''A'' can heat ''B'' and ''B'' can heat ''C'' and ''C'' can heat ''A''.
+Such a temperature is called empirical.
+The enthalpy may be considered to be a function  of its natural variables  and .
+It is sometimes proposed that this traditional kind of presentation necessarily rests on "circular reasoning"; against this proposal, there stands the rigorously logical mathematical development of the theory presented by Truesdell and Bharatha (1977).
+James Serrin introduces an account of the theory of thermodynamics thus: "In the following section, we shall use the classical notions of ''heat'', ''work'', and ''hotness'' as primitive elements, ... That heat is an appropriate and natural primitive for thermodynamics was already accepted by Carnot.
+The Carathéodory way regards calorimetry only as a secondary or indirect way of measuring quantity of energy transferred as heat.
+Mostly, heating a body at a constant volume increases the pressure it exerts on its constraining walls, and increases its temperature.
+For example, ice may float in a glass of water.
+More is required for the system to have a thermodynamic temperature.
+That internal energy difference is supposed to have been measured in advance through processes of purely adiabatic transfer of energy as work, processes that take the system between the initial and final states.
+The temperature reached in a process was estimated by the shrinkage of a sample of clay.
+and if  is constant
+In many writings in this context, the term "heat flux" is used when what is meant is therefore more accurately called diffusive flux of internal energy; such usage of the term "heat flux" is a residue of older and now obsolete language usage that allowed that a body may have a "heat content".
+The term was introduced around 1750 by Joseph Black as derived from the Latin ''latere'' (''to lie hidden''), characterizing its effect as not being directly measurable with a thermometer.
+This is because work is supplied from the work reservoir, not just by a simple thermodynamic process, but by a cycle of thermodynamic operations and processes, which may be regarded as directed by an animate or harnessing agency.
+In classical thermodynamics, a commonly considered model is the heat engine.
+An early and vague expression of this was made by Francis Bacon.
+It consists of four bodies: the working body, the hot reservoir, the cold reservoir, and the work reservoir.
+For purposes of mathematical analysis of transfers, one thinks of fictive processes that are called 'reversible', with the temperature  of the system being hardly less than that of the surroundings, and the transfer taking place at an imperceptibly slow speed.
+In non-equilibrium thermodynamics that approximates by assuming the hypothesis of local thermodynamic equilibrium, there is a special notation for this.
+For the definition of quantity of energy transferred as heat, it is customarily envisaged that an arbitrary state of interest  is reached from state  by a process with two components, one adiabatic and the other not adiabatic.
+Many have further, more finely differentiated, states of matter, such as for example, glass, and liquid crystal.
+It is sometimes also called the heat function.
+Definite rules are known, telling how distinct phases may coexist in a 'body'.
+Thus, conduction can be said to "transfer" heat only as a net result of the process, but may not do so at every time within the complicated convective process.
+Instead, according to the first law of thermodynamics heat exchanged during some process contributes to the change in the internal energy, and the amount of heat can be quantified by the equivalent amount of work that would bring about the same change.
+Such work is assessed through quantities defined in the surroundings of the body.
+The immediate meaning of the kinetic energy of the constituent particles is not as heat.
+with  the enthalpy defined by
+which is the second law of thermodynamics for closed systems.
+Energy transfer as heat is considered as a derived quantity.
+The device has transported energy from a colder to a hotter reservoir, but this is not regarded as being by an inanimate agency; rather, it is regarded as by the harnessing of work .
+Because heat refers to a quantity of energy transferred between two bodies, it is not a state function of either of the bodies, in contrast to temperature and internal energy.
+All of these, the commonest cases, fit with a rule that heating can be measured by changes of state of a body.
+This alternative approach admits calorimetry as a primary or direct way to measure quantity of energy transferred as heat.
+This view is widely taken as the practical one, quantity of heat being measured by calorimetry.
+In this scenario, the increase in enthalpy is equal to the quantity of heat added to the system.
+In this circumstance, it may be expected that there may also be active other drivers of diffusive flux of internal energy, such as gradient of chemical potential which drives transfer of matter, and gradient of electric potential which drives electric current and iontophoresis; such effects usually interact with diffusive flux of internal energy driven by temperature gradient, and such interactions are known as cross-effects.
+For infinitesimal changes, the total incremental heat transfer is then the sum of the latent and sensible heat.
+They would also contradict the principle that all heat transfer is of one and the same kind, a principle founded on the idea of heat conduction between closed systems.
+The integral of any inexact differential over the time it takes for a system to leave and return to the same thermodynamic state does not necessarily equal zero.
+They may be classified by the range of operating temperatures of the working body, relative to those reservoirs.
+The total change of entropy in the system and surroundings is thus
+Its behavior must be so regular that its empirical temperature is the same for all suitably calibrated and scaled thermometers, and then its hotness is said to lie on the one-dimensional hotness manifold.
+The hot working body passes heat to the hot reservoir, but still remains hotter than the cold reservoir.
+It relies on temperature as one of its primitive concepts, and used in calorimetry.
+Just as temperature may undefined for a sufficiently inhomogeneous system, so also may entropy be undefined for a system not in its own state of internal thermodynamic equilibrium.
+Then the non-adiabatic component is a process of energy transfer through the wall that passes only heat, newly made accessible for the purpose of this transfer, from the surroundings to the body.
+Heat released by a system into its surroundings is by convention a negative quantity (''Q''&nbsp;&lt;&nbsp;0); when a system absorbs heat from its surroundings, it is positive (''Q''&nbsp;&gt;&nbsp;0).
+The second law of thermodynamics, on the other hand, assures us that such processes are not found in nature.
+A single cycle sees energy taken by the working body from the hot reservoir and sent to the two other reservoirs, the work reservoir and the cold reservoir.
+Conversely, a heat engine reduces an existing temperature difference to do work on another system.
+According to this definition, work performed adiabatically is in general accompanied by friction within the thermodynamic system or body.
+It is important that this does not explicitly involve the amount of energy transferred in the non-adiabatic component of the combined process.
+A physical system that passes heat to another physical system is said to be the hotter of the two.
+Both latent heat and sensible heat transfers increase the internal energy of the system to which they are transferred.
+It is possible for macroscopic thermodynamic work to alter the occupation numbers without change in the values of the system energy levels themselves, but what distinguishes transfer as heat is that the transfer is entirely due to disordered, microscopic action, including radiative transfer.
+The work done by the system includes boundary work (when the system increases its volume against an external force, such as that exerted by a piston) and other work (e.g.
+and whose variations can be determined by calorimetric measurements."
+The engines harness work to overcome the leaks.
+Also, over a certain temperature range, ice contracts on heating.
+The other macroscopic approach is the thermodynamic one, which admits heat as a primitive concept, which contributes, by scientific induction to knowledge of the law of conservation of energy.
+* It is a ''measurable quantity'', and so can be treated mathematically.
+That is why it could be used for the measurement.
+It is defined through knowledge of precisely two variables, the change of internal energy and the amount of adiabatic work done, for the combined process of change from the reference state  to the arbitrary state .
+Physical systems that are too turbulent to have temperatures may still differ in hotness.
+Consideration of hotness leads to the concept of empirical temperature.
+Although distinct physical laws may describe the behavior of each of these methods, real systems often exhibit a complicated combination which are often described by a variety of mathematical methods.
+In fact, the actual physical existence of such adiabatic processes is indeed mostly supposition, and those supposed processes have in most cases not been actually verified empirically to exist.
+This equality is only valid for a fictive transfer in which there is no production of entropy, that is to say, in which there is no uncompensated entropy.
+In particular they do not allow the passage of energy as heat.
+Physicist James Clerk Maxwell, in his 1871 classic ''Theory of Heat'', was one of many who began to build on the already established idea that heat has something to do with matter in motion.
+In a heat pump, the working body, at stages of the cycle, goes both hotter than the hot reservoir, and colder than the cold reservoir.
+In non-equilibrium situations, cycles of flow are possible.
+In terms of the natural variables  of the state function , this process of change of state from state 1 to state 2 can be expressed as
+But two thermal reservoirs are needed, because transfer of energy as heat is irreversible.
+The internal energy  of a body in an arbitrary state  can be determined by amounts of work adiabatically performed by the body on its surrounds when it starts from a reference state .
+In these circumstances, if perchance it happens that no transfer of matter is actualized, and there are no cross-effects, then the thermodynamic concept and the mechanical concept coincide, as if one were dealing with closed systems.
+It is not a thermometric material in the usual sense of the word.
+The mechanical view was pioneered by Helmholtz and developed and used in the twentieth century, largely through the influence of Max Born.
+The target reservoir may be regarded as leaking: when the target leaks hotness to the surroundings, heat pumping is used; when the target leaks coldness to the surroundings, refrigeration is used.
+From the thermodynamic point of view, heat flows into a fluid by diffusion to increase its energy, the fluid then transfers (advects) this increased internal energy (not heat) from one location to another, and this is then followed by a second thermal interaction which transfers heat to a second body or system, again by diffusion.
+There was thus a tight link, apparently logically determined, between heat and temperature, though they were recognized as conceptually thoroughly distinct, especially by Joseph Black in the later eighteenth century.
+Though it is not logically rigorous from the viewpoint of strict physical concepts, a common form of words that expresses this is to say that heat and work are interconvertible.
+It is supposed that such work can be assessed accurately, without error due to friction in the surroundings; friction in the body is not excluded by this definition.
+Like the internal energy, the enthalpy stated as a function of its natural variables is a thermodynamic potential and contains all thermodynamic information about a body.
+In such cases, cooling has the reverse effects.
+This is part of the reason why heat is defined following Carathéodory and Born, solely as occurring other than by work or transfer of matter; temperature is advisedly and deliberately not mentioned in this now widely accepted definition.
+This is the convention adopted by many modern textbooks of physical chemistry, such as those by Peter Atkins and Ira Levine, but many textbooks on physics define work as work done by the system.
+Likewise, with a well-defined pressure, , behind the moving boundary, the work differential, , and the pressure, , combine to form the exact differential
+In general, for homogeneous systems,
+Such a process may be a phase transition, such as the melting of ice or the boiling of water.
+At the time of Joule kinetic energy either held 'invisibly' internally or held 'visibly' externally was known as a ''living force''.
+One of Maxwell's recommended books was ''Heat as a Mode of Motion'', by John Tyndall.
+As recounted below, in the section headed Entropy, the second law of thermodynamics observes that if heat is supplied to a system in which no irreversible processes take place and which has a well-defined temperature , the increment of heat  and the temperature  form the exact differential
+Maxwell writes that convection as such "is not a purely thermal phenomenon".
+By the Carathéodory way it is presupposed as known from experiment that there actually physically exist enough such adiabatic processes, so that there need be no recourse to calorimetry for measurement of quantity of energy transferred as heat.
+This may also be written
+Before the rigorous mathematical definition of heat based on Carathéodory's 1909 paper, recounted just above, historically, heat, temperature, and thermal equilibrium were presented in thermodynamics textbooks as jointly primitive notions.
+Sensible heat, in contrast to latent heat, is the heat transferred to a thermodynamic system that has as its sole effect a change of temperature.
+Carathéodory introduced his 1909 paper thus: "The proposition that the discipline of thermodynamics can be justified without recourse to any hypothesis that cannot be verified experimentally must be regarded as one of the most noteworthy results of the research in thermodynamics that was accomplished during the last century."
+The transfer of energy as heat is assumed to take place across an infinitesimal temperature difference, so that the system element and its surroundings have near enough the same temperature .
+Heat transfer arises from temperature gradients or differences, through the diffuse exchange of microscopic kinetic and potential particle energy, by particle collisions and other interactions.
+A calorimeter is a body in the surroundings of the system, with its own temperature and internal energy; when it is connected to the system by a path for heat transfer, changes in it measure heat transfer.
+Then, by allowing it to expand without doing work on another body and without passing heat to another body, the working body is made colder than the cold reservoir.
+In the kinetic theory, heat is explained in terms of the microscopic motions and interactions of constituent particles, such as electrons, atoms, and molecules.
+According to Born, the transfer of internal energy between open systems that accompanies transfer of matter "cannot be reduced to mechanics".
+Nevertheless, for the thermodynamical description of non-equilibrium processes, it is desired to consider the effect of a temperature gradient established by the surroundings across the system of interest when there is no physical barrier or wall between system and surroundings, that is to say, when they are open with respect to one another.
+Latent heat is the heat released or absorbed by a chemical substance or a thermodynamic system during a change of state that occurs without a change in temperature.
+Associated with this differential equation is that the internal energy may be considered to be a function  of its natural variables  and .
+A cyclic process leaves the working body in an unchanged state, and is envisaged as being repeated indefinitely often.
+In physics, '''heat''' is energy that spontaneously passes between a system and its surroundings in some way other than through work or the transfer of matter.
+The second law of thermodynamics requires that no cycle can occur in which no energy is received by the cold reservoir.
+* It ''cannot be treated as a material substance'', because it may be transformed into something that is not a material substance, e.g., mechanical work.
+For example, Truesdell writes about classical thermodynamics: "At each time, the body is assigned a real number called the ''temperature''.
+For example, water contracts on being heated near 277&nbsp;K. It cannot be used as a thermometric substance near that temperature.
+The hot reservoir always and only supplies energy and the cold reservoir always and only receives energy.
+The symbol for exact differentials is the lowercase letter .
+An empirical thermometer registers degree of hotness for such a system.
+Then the work reservoir does work on the working body, adding more to its internal energy, making it hotter than the hot reservoir.
+While heat flows spontaneously from hot to cold, it is possible to construct a heat pump or refrigeration system that does work to increase the difference in temperature between two systems.
+The standard unit for the rate of heat transferred is the watt (W), defined as joules per second.
+The efficiency of a heat pump is best when the temperature difference between the hot and cold reservoirs is least.
+One is the approach through the law of conservation of energy taken as prior to thermodynamics, with a mechanical analysis of processes, for example in the work of Helmholtz.
+It follows from this that the relation 'is in thermal equilibrium with' is transitive, which is one way of stating the zeroth law.
+Such processes are not restricted to adiabatic transfers of energy as work.
+Following the definition above in formula (1), for such a fictive 'reversible' process, a quantity of transferred heat  (an inexact differential) is analyzed as a quantity , with  (an exact differential):
+Beyond this, most substances have three ordinarily recognized states of matter, solid, liquid, and gas, and a fourth less obviously recognized one, plasma.
+Moreover, many substances can exist in metastable states, such as with negative pressure, that survive only transiently and in very special conditions.
+This may also be written
+This was the same idea put forth by Benjamin Thompson in 1798, who said he was only following up on the work of many others.
+The increase, , of entropy in the system may be considered to consist of two parts, an increment,  that matches, or 'compensates', the change, , of entropy in the surroundings, and a further increment,  that may be considered to be 'generated' or 'produced' in the system, and is said therefore to be 'uncompensated'.
+In a heat engine, the  working body is at all times colder than the hot reservoir and hotter than the cold reservoir.
+The specific heats of monatomic gases (e.g., helium) are nearly constant with temperature.
+Also mostly, heating a body at a constant pressure increases its volume, and increases its temperature.
+In contrast, neither of the infinitesimal increments  nor  in an infinitesimal process represents the state of the system.
+In accordance with the first law for closed systems, energy transferred solely as heat leaves one body and enters another, changing the internal energies of each.
+Heat transfer that occurs at a constant system temperature but changes the state variable is called latent heat with respect to the variable.
+Mostly, at a fixed pressure, there is a definite temperature at which heating causes a solid to melt or evaporate, and a definite temperature at which heating causes a liquid to evaporate.
+This presupposition is essential but is explicitly labeled neither as a law of thermodynamics nor as an axiom of the Carathéodory way.
+Nevertheless, the thermodynamic definition of absolute temperature does make essential use of the concept of heat, with proper circumspection.
+The adiabatic performance of work is defined in terms of adiabatic walls, which allow transfer of energy as work, but no other transfer, of energy or matter.
+The transfer can be by contact between the source and the destination body, as in conduction; or by radiation between remote bodies; or by conduction and radiation through a thick solid wall; or by way of an intermediate fluid body, as in convective circulation; or by a combination of these.
+If a physical system is inhomogeneous or very rapidly or irregularly changing, for example by turbulence, it may be impossible to characterize it by a temperature, but still there can be transfer of energy as heat between it and another system.
+On the other hand, according to Carathéodory (1909), there also exist non-adiabatic walls, which are postulated to be "permeable only to heat", and are called diathermal.
+It follows that there is no well-founded definition of quantities of energy transferred as heat or as work associated with transfer of matter.
+A refrigerator transfers heat, from the cold reservoir as the target, to the resource or surrounding reservoir.
+In thermodynamics, convection in general is regarded as transport of internal energy.
+This should not be confused with a time derivative of a function of state (which can also be written with the dot notation) since heat is not a function of state.
+For a closed system (a system from which no matter can enter or exit), one version of the first law of thermodynamics states that the change in internal energy  of the system is equal to the amount of heat  supplied to the system minus the amount of work  done by system on its surroundings.
+In microscopic terms, heat is a transfer quantity, and is described by a transport theory, not as steadily localized kinetic energy of particles.
+This is also the reason why the zeroth law of thermodynamics is stated explicitly.
+The foregoing sign convention for work is used in the present article, but an alternate sign convention, followed by IUPAC, for work, is to consider the work performed on the system by its surroundings as positive.
+One might to try to think narrowly of heat flux driven purely by temperature gradient as a conceptual component of diffusive internal energy flux, in the thermodynamic view, the concept resting specifically on careful calculations based on detailed knowledge of the processes and being indirectly assessed.
+Its continued validity as a primitive element of thermodynamical structure is due to the fact that it synthesizes an essential physical concept, as well as to its successful use in recent work to unify different constitutive theories."
+It regards quantity of heat transferred as heat as a derived concept, defined for closed systems as quantity of heat transferred by mechanisms other than work transfer, the latter being regarded as primitive for thermodynamics, defined by macroscopic mechanics.
+Precise and detailed versions of it were developed in the nineteenth century.
+The standards-based unit in the International System of Units (SI) is the joule (J).
+In this Section we will neglect the "other-" or isochoric work contribution.
+The uniqueness of work in this scheme is considered to guarantee rigor and purity of conception.

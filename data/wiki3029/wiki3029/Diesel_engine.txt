@@ -1,0 +1,200 @@
+In some cases, the engine may also be fitted with a turbocharger, whose output is directed into the blower inlet.
+Air is applied to cylinders to start the engine forwards or backwards because they are normally directly connected to the propeller without clutch or gearbox, and to provide reverse propulsion either the engine must be run backwards or the ship will use an adjustable propeller.
+Block heaters are also used for emergency power standby Diesel-powered generators which must rapidly pick up load on a power failure.
+The original compression-ignition engine operates on the "constant pressure" cycle of gradual combustion and produces no audible knock.
+Since only air is compressed in a diesel engine, and fuel is not introduced into the cylinder until shortly before top dead centre (TDC), premature detonation is not a problem and compression ratios are much higher.
+More torque from the starter motor is required to push the engine through the compression cycle when starting compared to a petrol engine.
+Their main considerations are for use in ships and very large generation sets, due to the cost of the large volume of fuel consumed, frequently amounting to many tonnes per hour.
+The Philippines pioneers in the research on Coconut based CME with the help of German and American scientists.
+The fuel is then preheated to over 100C before entering the engine in order to attain the proper viscosity for atomisation.
+Developing lubricants able to withstand the higher temperatures involved has been a major barrier to commercialization.
+Starting at 1, the piston is at bottom dead centre and both valves are closed at the start of the compression stroke; the cylinder contains air at atmospheric pressure.
+It ran for six hours—the first time automatic ignition was produced by compression alone.
+A (lossless) 2 to 1 reduction gear on the second engine will output a constant maximum 200&nbsp;ft.lbs of torque at a maximum of 3000 rpm, with no change in power.
+In addition, diesels are often built with stronger parts to give them longer lives and better reliability, important considerations in industrial applications.
+Diesel clatter is caused largely by the diesel combustion process; the sudden ignition of the diesel fuel when injected into the combustion chamber causes a pressure wave.
+Once warmed, the operator moved two levers to switch the engine to diesel operation, and work could begin.
+Most modern diesel locomotives are actually diesel-electric locomotives: the diesel engine is used to power an electric generator that in turn powers electric traction motors with no mechanical connection between diesel engine and traction.
+Diesel engines tend to be more economical at regular driving speeds and are much better at city speeds.
+This can result in incomplete combustion and black smoke in the exhaust if more fuel is injected than there is air available for the combustion process.
+Since the 1970s, the use of compression-ignition engines in larger on-road and off-road vehicles in the US increased.
+Fuel injection introduces potential hazards in engine maintenance due to the high fuel pressures used.
+Diesel fuel can be made from coal or other carbon base using the Fischer–Tropsch process.
+This system was derived from Raúl Pateras Pescara's work on free-piston engines in the 1930s.
+Others used a mixed system, with a resistive heater burning methanol.
+These systems use a combination of springs and weights to control fuel delivery relative to both load and speed.
+This high compression causes the temperature of the air to rise.
+Fuel volume for each single combustion is controlled by a slanted groove in the plunger which rotates only a few degrees releasing the pressure and is controlled by a mechanical governor, consisting of weights rotating at engine speed constrained by springs and a lever.
+These engines had very complex cylinder heads, with their own petrol combustion chambers, and were vulnerable to expensive damage if special care was not taken (especially in letting the engine cool before turning it off).
+At about the top of the compression stroke, fuel is injected directly into the compressed air in the combustion chamber.
+This system also allows for a smoother, quieter running engine, and because fuel mixing is assisted by turbulence, injector pressures can be lower.
+Self-ignition occurred from contact between the fuel-air mixture and the hot walls of the vaporizer.
+However, average efficiency over a driving cycle is lower than peak efficiency.
+They are unusually narrow and tall due to the addition of a crosshead bearing.
+Although neither gasoline nor diesel is explosive in liquid form, both can create an explosive air/vapor mix under the right conditions.
+The adiabatic expansion is in a higher pressure range than that of the compression because the gas in the cylinder is hotter during expansion than during compression.
+Brayton describes the invention as follows :  “I have discovered that heavy oils can be mechanically converted into a finely-divided condition within a firing portion of the cylinder, or in a communicating firing chamber.” Another part reads “I have for the first time, so far as my knowledge extends, regulated speed by variably controlling the direct discharge of liquid fuel into the combustion chamber or cylinder into a finely-divided condition highly favorable to immediate combustion.”  This was likely the first engine to use a lean burn system to regulate engine speed / output.
+In 1885, the English inventor Herbert Akroyd Stuart began investigating the possibility of using paraffin oil (very similar to modern-day diesel) for an engine, which unlike petrol would be difficult to vaporise in a carburettor as its volatility is not sufficient to allow this.
+In his 1892 US patent (granted in 1895) #542846 Diesel describes the compression required for his cycle: "pure atmospheric air is compressed, according to curve 1 2, to such a degree that, before ignition or combustion takes place, the highest pressure of the diagram and the highest temperature are obtained-that is to say, the temperature at which the subsequent combustion has to take place, not the burning or igniting point.
+The direct injected process is significantly more internally violent and thus requires careful design, and more robust construction.
+Also, indirect injection engines generally run more satisfactorily on bio-fuels than direct injection engines.
+Petrol/gasoline engines are limited in the variety and quality of the fuels they can burn.
+Once the engine has warmed, returning warm fuel prevents waxing in the tank.
+Low-output electric heaters in fuel tanks and around fuel lines are used to solve this problem.
+As a result, predominantly petrol-powered car manufacturers including the Japanese car manufacturers produce and market diesel-powered cars in India.
+Companies such as MAN B&W Diesel, and Wärtsilä  design such large low-speed engines.
+This is due to a phenomenon in high-compression engines where the ignition of the fuel in the cylinder causes a high-frequency vibration that causes bubbles to form in the coolant in contact with the cylinder.
+On high-speed engines the plunger pumps are together in one unit.
+Moving beyond that, use of low-grade fuels can lead to serious maintenance problems because of their high sulphur and lower lubrication properties.
+An arbitrary amount of torque at the wheels can be gained by gearing any power source down sufficiently (including a hand crank).
+Even more unusual was an International Harvester design in which the diesel engine had its own carburetor and ignition system, and started on petrol.
+The average diesel engine has a poorer power-to-weight ratio than the petrol engine.
+During this compression, the volume is reduced, the pressure and temperature both rise.
+The next generation of common rail diesels is expected to use variable injection geometry, which allows the amount of fuel injected to be varied over a wider range, and variable valve timing (see Mitsubishi's 4N13 diesel engine) similar to that of petrol engines.
+High- and medium-speed engines are predominantly four-stroke engines; except for the Detroit Diesel two-stroke range.
+This is another reason that a diesel engine must be stronger for the same power output as a petrol engine.
+A two-stroke engine does not have a discrete exhaust and intake stroke and thus is incapable of self-aspiration.
+In 1887 Brayton developed and patented a 4 stroke direct injection oil engine (US patent #432,114 of 1890, application filed in 1887) The fuel system used a variable quantity pump and liquid fuel high pressure spray type injection.
+When combustion is complete the combustion gases expand as the piston descends further; the high pressure in the cylinder drives the piston downward, supplying power to the crankshaft.
+There has been some success at dual-fuel engines that use petrol and ethanol, petrol and propane, and petrol and methane.
+CN (Cetane number) can be raised by distilling higher quality crude oil, by catalyzing a higher quality product or by using a cetane improving additive.
+The air is then compressed with a compression ratio typically between 15:1 and 23:1.
+Before this, a few civilian motorcycles had been built using adapted stationary diesel engines, but the weight and cost disadvantages generally outweighed the efficiency gains.
+Diesel engines are more efficient than gasoline (petrol) engines of the same power rating, resulting in lower fuel consumption.
+American World War II Diesel-electric submarines operated on two-stroke cycle, as opposed to the four-stroke cycle that other navies used.
+These advantages are especially attractive in locomotives (see dieselisation).
+Usually there is a combustion cup in the top of the piston where the fuel is sprayed.
+The ECM/ECU receives an engine speed signal, as well as other operating parameters such as intake manifold pressure and fuel temperature, from a sensor and controls the amount of fuel and start of injection timing through actuators to maximise power and efficiency and minimise emissions.
+A small efficiency loss is also avoided compared to two-stroke non-direct-injection gasoline engines since unburnt fuel is not present at valve overlap and therefore no fuel goes directly from the intake/injection to the exhaust.
+Large "Low speed" engines may use water, sea water, or oil supplied through telescoping pipes attached to the crosshead to cool the pistons.
+Diesel exhaust is well known for its characteristic smell, but this smell in recent years has become much less due to use of low sulfur fuel.
+In 1894 and 1895 he filed patents and addenda in various countries for his Diesel engine; the first patents were issued in Spain (No.&nbsp;16,654), France (No.&nbsp;243,531) and Belgium (No.&nbsp;113,139) in December 1894, and in Germany (No.&nbsp;86,633) in 1895 and the United States (No.&nbsp;608,845) in 1898.
+Engines in large diesel trucks, buses, and newer diesel cars can achieve peak efficiencies around 45%, and could reach 55% efficiency in the near future.
+The pre-chamber has the disadvantage of lowering efficiency due to increased heat loss to the engine's cooling system, restricting the combustion burn, thus reducing the efficiency by 5–10%.. IDI engines are also  more difficult to start and usually require the use of glow plugs.
+Up to four such combinations might be used to get enough power in a train.
+They were popular in larger cars earlier, as the weight and cost penalties were less noticeable.
+This may be into a (typically toroidal) void in the top of the piston or a ''pre-chamber'' depending upon the design of the engine.
+Diesel-powered cars also dominate the Indian taxi industry.
+In 1896, Rudolph's rushed to have a prototype running, in order to maintain the patent.
+According to the British Society of Motor Manufacturing and Traders, the EU average for compression-ignition cars accounts for 50% of the total sold, including 70% in France and 38% in the UK.
+Most modern automotive engines are DI which have the benefits of greater efficiency, easier starting, however IDI engines can still be found in the many ATV and small Diesel applications.
+As the piston passes through bottom centre and starts upward, the passage is closed and compression commences, culminating in fuel injection and ignition.
+The injectors are held open by the fuel pressure.
+Combustion and heating occur between 2 and 3.
+Diesel-powered passenger cars are very popular in India too, since the price of diesel fuel there is lower as compared to petrol.
+The first engine ready for testing was built on December 31, 1896; a much different engine than the one they had started with.
+This creates parasitic loss and destruction of availability of the incoming air, reducing the efficiency of petrol engines at idle.
+Some recent diesel engine models utilize a copper alloy heat exchanger technology (CuproBraze) to take advantage of benefits in terms of thermal performance, heat transfer efficiency, strength/durability, corrosion resistance, and reduced emissions from higher operating temperatures.
+However, diesel fuel is less prone due to its lower vapor pressure, which is an indication of evaporation rate.
+Each injector has a solenoid operated by an electronic control unit, resulting in more accurate control of injector opening times that depend on other control conditions, such as engine speed and loading, and providing better engine performance and fuel economy.
+pollution can be reduced with diesel exhaust fluid, which is injected into the exhaust stream, and catalytically destroys the  chemical species.
+The heat of the compressed air vaporizes fuel from the surface of the droplets.
+Pure plant oils are increasingly being used as a fuel for cars, trucks and remote combined heat and power generation especially in Germany where hundreds of decentralised small- and medium-sized oil presses cold press oilseed, mainly rapeseed, for fuel.
+As with petrol engines, there are two classes of diesel engines in current use: two-stroke and four-stroke.
+Pistons are usually cooled with lubrication oil sprayed on the bottom of the piston.
+Brayton died in 1893 but would be credited with the invention of the constant pressure Brayton cycle.
+Normally, the number of cylinders are used in multiples of two, although any number of cylinders can be used as long as the load on the crankshaft is counterbalanced to prevent excessive vibration.
+Low-speed compression-ignition engines (as used in ships and other applications where overall engine weight is relatively unimportant) can have a thermal efficiency that exceeds 50%.
+These engines use injectors that are very precise spring-loaded valves that open and close at a specific fuel pressure.
+The United States Army and NATO use only diesel engines and turbines because of fire hazard.
+Diesel's idea was to compress the air so tightly that the temperature of the air would exceed that of combustion.
+The MAN S80ME-C7 low speed diesel engines use  of fuel per kWh for an overall energy conversion efficiency of 54.4%, which is the highest conversion of fuel into power by any single-cycle internal or external combustion engine (The efficiency of a combined cycle gas turbine system can exceed 60%.)
+Many engines use resistive heaters in the intake manifold to warm the inlet air for starting, or until the engine reaches operating temperature.
+The need for a fuel that is volatile enough to vaporise but not too volatile (to avoid pre-ignition) means that petrol engines will only run on a narrow range of fuels.
+Advancing the start of injection (injecting before the piston reaches to its SOI-TDC) results in higher in-cylinder pressure and temperature, and higher efficiency, but also results in increased engine noise due to faster cylinder pressure rise and increased oxides of nitrogen (NOx) formation due to higher combustion temperatures.
+This ''forced vaporisation'' means that less-volatile fuels can be used.
+Petrol engines must be geared lower to get the same torque as a comparable diesel but since petrol engines rev higher both will have similar acceleration.
+Due to improvements in fuel technology with additives, waxing rarely occurs in all but the coldest weather when a mix of diesel and kerosene may be used to run a vehicle.
+Variable geometry turbochargers have flexible vanes, which move and let more air into the engine depending on load.
+His engines were used to power pipelines, electric and water plants, automobiles and trucks, and marine craft.
+Patent number 608845 describes his engine as being designed to run on pulverulent solid fuel (coal dust).
+They were originally used as a more efficient replacement for stationary steam engines.
+Ford's HyTrans Project has developed a system which starts the ignition in 400 ms, saving a significant amount of fuel on city routes, and there are other methods to achieve even more efficient combustion, such as homogeneous charge compression ignition, being studied.
+After the opening of the exhaust valve, the exhaust stroke follows, but this (and the following induction stroke) are not shown on the diagram.
+Diesel engines produce more torque than petrol engines for a given displacement due to their higher compression ratio.
+The first diesel locomotives appeared in the early 20th century, and diesel multiple units soon after.
+Many modern systems have a single fuel pump which supplies fuel constantly at high pressure with a common rail (single fuel line common) to each injector.
+Many different methods of injection can be used.
+The air flow blows the remaining combustion gases from the cylinder—this is the scavenging process.
+Yet it is this characteristic that has allowed some enthusiasts to acquire significant power increases with turbocharged engines by making fairly simple and inexpensive modifications.
+The characteristic features of the cycle according to my present invention are therefore, increase of pressure and temperature up to the maximum, not by combustion, but prior to combustion by mechanical compression of air, and there upon the subsequent performance of work without increase of pressure and temperature by gradual combustion during a prescribed part of the stroke determined by the cut-oil".
+Many automotive diesel engines would run on 100% biodiesel without any modifications.
+Throughout the 1880's Brayton continued trying to improve his engines.
+Herbert Akroyd Stuart was a pioneer in developing compression ignition,  Rudolf Diesel however, was subsequently credited with the compression ignition engine innovation.
+Diesel engines have long been popular in bigger cars and have been used in smaller cars such as superminis in Europe since the 1980s.
+In the past, a wider variety of cold-start methods were used.
+Recent advances in production and changes in the political climate have increased the availability and awareness of biodiesel, an alternative to petroleum-derived diesel fuel with a much lower net-sum emission of CO2, due to the absorption of CO2 by plants used to produce the fuel.
+As the engine's load increased, so did the temperature of the bulb, causing the ignition period to advance; to counteract pre-ignition, water was dripped into the air intake.
+When these tiny bubbles collapse, coolant impacts the cylinder wall, over time causing small holes to form in the cylinder wall.
+The timing is measured in degrees of crank angle of the piston before top dead centre.
+The hot bulb engines, first prototyped in 1886 and built from 1891 by Richard Hornsby and Sons, used a pressurized fuel injection system.
+"Common Rail" injection was first used in production by Atlas Imperial Diesel in the 1920's.
+Typical bore size for low-speed engines ranges from approximately .
+''Residual fuels'' are the "dregs" of the distillation process and are a thicker, heavier oil, or oil with higher viscosity, which are so thick that they are not readily pumpable unless heated.
+Fuel contaminants such as dirt and water are often more problematic in diesel engines than in petrol engines.
+Most larger medium-speed engines are started with compressed air direct on pistons, using an air distributor, as opposed to a pneumatic starting motor acting on the flywheel, which tends to be used for smaller engines.
+In this system the injector and the pump are combined into one unit positioned over each cylinder controlled by the camshaft.
+Since the 1910s they have been used in submarines and ships.
+Some 40 percent or more of all cars sold in Europe are diesel-powered where they are considered a low CO2 option.
+Gas stations in regions with a cold climate are required to offer winterized diesel in the cold seasons that allow operation below a specific Cold Filter Plugging Point.
+Diesel describes the cycle in his 1885 patent application.
+Turbocharging can improve the fuel economy of diesel engines by recovering waste heat from the exhaust, increasing the excess air factor, and increasing the ratio of engine output to friction losses.
+Direct reversible two-stroke marine diesels need at least three cylinders for reliable restarting forwards and reverse, while four-stroke diesels need at least six cylinders.
+This is unresisted expansion and no useful work is done by it.
+A turbocharged engine can produce  more power than a naturally aspirated engine of the same configuration.
+In the same year, Thomas Henry Barton at Hornsbys built a working high-compression version for experimental purposes, whereby the vaporiser was replaced with a cylinder head, therefore not relying on air being preheated, but by combustion through higher compression ratios.
+Diesel engines are also used to power permanent, portable, and backup generators, irrigation pumps, corn grinders, and coffee de-pulpers.
+It was put into service in September 2006, aboard what was then the world's largest container ship ''Emma Maersk'' which belongs to the A.P.
+The fuel filter must be replaced much more often on a diesel engine than on a petrol engine, changing the fuel filter every 2–4 oil changes is not uncommon for some vehicles.
+Diesel engines have eclipsed steam engines as the prime mover on all non-electrified railroads in the industrialized world.
+The two-stroke pistons directly drove air compressor pistons to make a positive displacement gas generator.
+When a diesel engine runs at low power, there is enough oxygen present to burn the fuel—diesel engines only make significant amounts of carbon monoxide when running under a load.
+If a high-pressure diesel fuel injector is removed from its seat and operated in open air, there is a risk to the operator of injury by hypodermic jet-injection, even with only  pressure.
+Each cylinder has its own unit eliminating the high-pressure fuel lines, achieving a more consistent injection.
+In later years Diesel realized his original cycle would not work and he adopted the constant pressure cycle.
+At 1 it is assumed that the exhaust and induction strokes have been completed, and the cylinder is again filled with air.
+Due to the greater compression ratio and the increased weight of the stronger components, starting a diesel engine is harder than starting a gasoline engine of similar design and displacement.
+The distinctive noise of a diesel engine is variably called diesel clatter, diesel nailing, or diesel knock.
+Diesel himself later conducted related tests and appeared supportive of the idea.
+Between 1 and 2 the air is compressed adiabatically—that is without heat transfer to or from the environment—by the rising piston.
+Large and medium marine engines are started with compressed air directly applied to the pistons.
+In Europe these diesel characteristics are described in the EN 590 standard.
+The electronic injection can "sense" engine revs, load, even boost and temperature, and continuously alter the timing to match the given situation.
+The water trap (which is sometimes part of the fuel filter) often has a float connected to a warning light, which warns when there is too much water in the trap, and must be drained before damage to the engine can result.
+The Napier Deltic engine, with three cylinders arranged in a triangular formation, each containing two opposed pistons, the whole engine having three crankshafts, is one of the better known.
+The vapour is then ignited by the heat from the compressed air in the combustion chamber, the droplets continue to vaporise from their surfaces and burn, getting smaller, until all the fuel in the droplets has been burnt.
+A cheaper configuration on high-speed engines with fewer than six cylinders is to use an axial-piston distributor pump, consisting of one rotating pump plunger delivering fuel to a valve and line for each cylinder (functionally analogous to points and distributor cap on an Otto engine).
+Diesel exhaust has been classified as an IARC Group 1 carcinogen.
+The '''diesel engine''' (correctly known as a '''compression-ignition''' or '''CI engine''') is an internal combustion engine in which ignition of the fuel that has been injected into the combustion chamber is caused by the high temperature which a gas achieves (i.e.
+Finally in 1816 they experimented with alcohol and white oil of petroleum (a fuel similar to kerosene) They discovered that the kerosene type fuel could be finely vaporized by passing it through a reed type devise, this made the fuel highly combustible.
+Optimal timing will depend on the engine design as well as its speed and load, and is usually 4° BTDC in 1,350–6,000 HP, net, "medium speed" locomotive, marine and stationary diesel engines.
+Indirect injected engines place the injector in a pre-combustion chamber in the head which due to thermal losses generally require a "glow plug" to start and very high compression ratio, usually in the range of 21:1 to 23:1 ratio.
+The four-stroke type is the "classic" version, tracing its lineage back to Rudolf Diesel's prototype.
+The traditional two-stroke design relies upon a mechanically driven positive displacement blower to charge the cylinders with air before compression and ignition.
+This makes a comparatively light, powerful, swiftly running and economic engine suitable for use in aviation.
+The most powerful engines in the world are two-stroke diesels of mammoth dimensions.
+Because both air and fuel are admitted to the cylinder, if the compression ratio of the engine is too high or the fuel too volatile (with too low an octane rating), the fuel will ignite under compression, as in a diesel engine, before the piston reaches the top of its stroke.
+Diesel fuel is injected just before the power stroke.
+The characteristics of diesel have different advantages for different applications.
+While it produced large amounts of power, the double-acting diesel engine's main problem was producing a good seal where the piston rod passed through the bottom of the lower combustion chamber to the crosshead bearing, and no more were built.
+The first known such injury occurred in 1937 during a diesel engine maintenance operation.
+A few designs employ a hybrid blower / turbocharger (a turbo-compressor system) for scavenging and charging the cylinders, which device is mechanically driven at cranking and low speeds to act as a blower, but which acts as a true turbocharger at higher speeds and loads.
+In compression-ignition engines, glow plugs (combustion chamber pre-warmers) may be used to aid starting in cold weather, or when the engine uses a lower compression-ratio, or both.
+Many modern engines, particularly in on-highway applications, have common rail direct injection, which is cleaner burning.
+Unit direct injection also injects fuel directly into the cylinder of the engine.
+Diesel engines are also produced with two significantly different injection locations.
+Opposed pistons were connected by linkages instead of crankshafts.
+By the 1930s turbochargers were fitted to some engines.
+Inline mechanical injector pumps generally tolerate poor-quality or bio-fuels better than distributor-type pumps.
+The type of fuel used is selected to meet a combination of service requirements, and fuel costs.
+As a result, the fuel cannot burn completely unless it has a sufficient amount of oxygen.
+Increasing the compression ratio in a spark-ignition engine where fuel and air are mixed before entry to the cylinder is limited by the need to prevent damaging pre-ignition.
+Electronic control of the fuel injection transformed the direct injection engine by allowing much greater control over the combustion.
+Separate high-pressure fuel lines connect the fuel pump with each cylinder.
+The poorly refined biofuels straight vegetable oil (SVO) and waste vegetable oil (WVO) can fall into this category, but can be viable fuels on non-common rail or TDI PD diesels with the simple conversion of fuel heating to 80 to 100 degrees Celsius to reduce viscosity, and adequate filtration to OEM standards.
+Higher pressure in the cylinder and higher forces on the connecting rods and crankshaft require stronger, heavier components.
+Mechanically governed fuel injection systems are driven by the engine's gear train.
+NATO has a single vehicle fuel policy and has selected diesel for this purpose.
+These engines are variously called adiabatic engines; due to better approximation of adiabatic expansion; low heat rejection engines, or high temperature engines.
+The difference between these two increments of work is the indicated work output per cycle, and is represented by the area enclosed by the p–V loop.
+This was five years before Rudolf Diesel built his well-known high-compression prototype engine in 1897.

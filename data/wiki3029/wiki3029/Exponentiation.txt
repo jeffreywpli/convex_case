@@ -1,0 +1,200 @@
+All of them have a zero imaginary part so one can say ''i''''i'' has an infinity of valid real values.
+If 0 is an initial object in a Cartesian closed category, then the exponential object 00 is isomorphic to any terminal object 1.
+In the complex domain, the function ''z''''w'' may be defined for nonzero ''z'' by choosing a branch of log ''z'' and defining ''z''''w'' as .
+According to Benson (1999), "The choice whether to define  is based on convenience, not on correctness.
+If ''z'' is a rational number ''m''/''n'' in lowest terms with , then the countably infinitely many choices of  yield only ''n'' different values for ''w''''z''; these values are the ''n'' complex solutions ''s'' to the equation .
+The simplest example is the field with two elements  with addition defined by  and , and multiplication  and .
+Polynomials are added termwise, and multiplied by the applying the usual rules for exponents in the indeterminate ''x'' (see Cauchy product).
+Addition and multiplication are.
+The fact that  solves    follows from noting that
+The bounded intervals converge to a unique real number, denoted by .
+A simple counterexample is given by:
+The cartesian coordinates of this point are (cos ''x'', sin ''x'').
+The case of 00 is discussed below.
+Some common exponents have their own names: the exponent 2 (or 2nd power) is called the ''square''  of ''b'' (''b''2) or ''b squared'';  the exponent 3 (or 3rd power) is called the ''cube''  of ''b'' (''b''3) or ''b cubed''.
+This generalizes the Cartesian product in the category of sets.
+The set of ''n''th roots of a complex number ''w'' is obtained by multiplying the principal value ''w''1/''n'' by each of the ''n''th roots of unity.
+Among other things, these properties allow exponentials of ''e'' to be generalized in a natural way to other types of exponents, such as complex numbers or even matrices, while coinciding with the familiar meaning of exponentiation with rational exponents.
+For example, if , the nonterminating decimal representation  can be used (based on strict monotonicity of the rational power) to obtain the intervals bounded by rational powers
+The Frobenius automorphism is important in number theory because it generates the Galois group of ''F'' over its prime subfield.
+Exponentiating a real number to a complex power is formally a different operation from that for the corresponding complex number.
+Compute the following in order:
+The word "raised" is usually omitted, and very often "power" as well, so 35 is typically pronounced "three to the fifth" or "three to the five".
+Consider the right triangle in the complex plane which has  as vertices.
+The other ''n''th roots of unity are given by
+One may consider at what points this function does have a limit.
+If ''b'' is negative, the equation has no solution in real numbers for even ''n''.
+This generalized exponential can also be defined for operations on sets or for sets with extra structure.
+For example,  and , but , whereas .
+The ''n''th root of −1 is −1 for every odd natural number ''n''.
+On the other hand, arbitrary complex powers of negative numbers ''b'' can be defined by choosing a ''complex'' logarithm of ''b''.
+The matrix power  is the transition matrix between the state now and the state at a time ''n'' steps in the future.
+A polynomial is an expression of the form  where ''x'' is an indeterminate, and the coefficients  are real numbers (or, more generally, elements of some ring).
+Accordingly, this allows one to define the powers ''x''''y'' by continuity whenever , , except for 00, (+∞)0, 1+∞ and 1−∞, which remain indeterminate forms.
+For example, the fourth roots of 16 are 2, −2, 2''i'', and −2''i'', because the principal value of the fourth root of 16 is 2 and the fourth roots of unity are 1, −1, ''i'', and −''i''.
+The negative unit −1 is the only primitive square root of unity.
+This is then readily shown to be true for every integer ''n''.
+That is,  is just a shorthand way to write  without using parentheses, whereas sin−1 ''x'' refers to the inverse function of the sine, also called .
+These are continuous functions.
+Indeed, ''e''''r'' is positive for every real number ''r'', so ln(''b'') is not defined as a real number for .
+The number ''e'' is the primitive ''n''th root of unity with the smallest positive argument.
+As with real roots, a second root is also called a square root and a third root is also called a cube root.
+Single valued versions are defined by choosing a sheet.
+Exponentiation is not commutative.
+The exponent is usually shown as a superscript to the right of the base.
+Exponentiation to real powers of positive real numbers can be defined either by extending the rational powers to reals by continuity, or more usually as given in  below.
+So ; this is Euler's formula, connecting algebra to trigonometry by means of complex numbers.
+The principal value is a single value chosen from these by a rule which, amongst its other properties, ensures powers of complex numbers with a positive real part and zero imaginary part give the same value as does the rule defined above for the corresponding real base.
+Any finite field ''F'' has the property that there is a unique prime number ''p'' such that  for all ''x'' in ''F''; that is, ''x'' added to itself ''p'' times is zero.
+Then, using the complex exponential function one defines
+If ''κ'' and ''λ'' are cardinal numbers, the expression ''κ''''λ'' represents the cardinality of the set of functions from any set of cardinality ''λ'' to any set of cardinality ''κ''.
+Neither the logarithm method nor the rational exponent method can be used to define ''b''''r'' as a real number for a negative real number ''b'' and an arbitrary real number ''r''.
+Without parentheses to modify the order of calculation, by convention the order is top-down, not bottom-up :
+It is conventional in mathematics to define ''w''1/''n'' as the principal value of the root.
+More generally, if , then every solution to  can be obtained by adding an integer multiple of 2π''i'' to ''v'':
+We can again replace the set '''N''' with a cardinal number ''n'' to get ''V''''n'', although without choosing a specific standard set with cardinality ''n'', this is defined only up to isomorphism.
+The polynomial  is the identity element of the polynomial ring, meaning that it is the (unique) element such that the product of  with any polynomial  is just .
+While Google and WolframAlpha follow the above convention, note that some computer programs such as Microsoft Office Excel or Matlab associate to the left instead, i.e.
+A similar convention applies to logarithms, where  usually means , not .
+The exponentiation ''b''''n'' can be read as ''b raised to the n-th power'', or ''b raised to the power of n'', or ''b raised by the exponent of n'', or most briefly as ''b to the n''.
+This contrasts with addition and multiplication, which are.
+Early in the 17th century, the first form of our modern exponential notation was introduced by Rene Descartes in his text titled ''La Géométrie''; there, the notation is introduced in Book I.
+Samuel Jeake introduced the term ''indices'' in 1696.
+This perspective is significant for many polynomial identities appearing in combinatorics.
+For large values of ''n'', the triangle is almost a circular sector with a radius of 1 and a small central angle equal to ''x''/''n'' radians.
+The special case of exponentiating the derivative operator to a non-integer power is called the fractional derivative which, together with the fractional integral, is one of the basic operations of the fractional calculus.
+In order to compute the complex power ''w''''z'', write ''w'' in polar form:
+With these algebraic rules for manipulation, polynomials form a polynomial ring.
+A complex number can be visualized as a point in the (''x'',''y'') plane.
+If ''w'' is a positive real number, it is also conventional to select a positive real number as the principal value of the root ''w''1/''n''.
+The problem here occurs in taking the positive square root rather than the negative one at the last step, but in general the same sorts of problems occur as described for complex numbers in the section .
+For general complex numbers, the ''n''th root with the smallest argument is often selected as the principal value of the ''n''th root operation, as with principal values of roots of unity.
+There are many widely used formulas having terms involving natural-number exponents that require 00 to be evaluated to 1.
+where each ''V''''i'' is a vector space.
+Although there are infinitely many possible values for a general complex logarithm, there are only a finite number of values for the power ''wq'' in the important special case where  and ''n'' is a positive integer.
+The exponential function is defined for all integer, fractional, real, and complex values of ''x''.
+Thus the set of rational numbers ''q'' for which  is dense in the rational numbers, as is the set of ''q'' for which .
+Iterated functions are of interest in the study of fractals and dynamical systems.
+This does not define 0''w'' since there is no branch of  defined at , let alone in a neighborhood of 0.
+Among other properties, exp satisfies the exponential identity
+Computing ''b''''n'' using iterated multiplication requires  multiplication operations, but it can be computed more efficiently than that, as illustrated by the following example.
+It is clear that quantities of this kind are not algebraic functions, since in those the exponents must be constant."
+The imaginary unit ''i'' is one of the two primitive 4th roots of unity; the other one is −''i''.
+Similarly, to find , compute the polar form of −2,
+The real numbers, for example, form a field, as do the complex numbers and rational numbers.
+So if ''n'' is an odd positive integer,  if ''m'' is odd, and  if ''m'' is even.
+Although exponentiation of ''e'' could, in principle, be treated the same as exponentiation of any other real number, such exponentials turn out to have particularly elegant and useful properties.
+Integer powers of nonzero complex numbers are defined by repeated multiplication or division as above.
+Examples include approaches to solving the heat equation, Schrödinger equation, wave equation, and other partial differential equations including a time evolution.
+For example, the set of 3-tuples of elements from a 2-element set has cardinality .
+In fact, ''f'' has a limit at all accumulation points of ''D'', except for , ,  and .
+Because it is a unital homomorphism, we have   That is,  for all specializations of ''x'' to a real number (including zero).
+Any nonrational power of a complex number has an infinite number of possible values because of the multi-valued nature of the complex logarithm.
+Finding the ''minimal'' sequence of multiplications (the minimal-length addition chain for the exponent) for ''b''''n'' is a difficult problem for which no efficient algorithms are currently known (see Subset sum problem), but many reasonably efficient heuristic algorithms are available.
+Neither of these options is entirely satisfactory.
+As a consequence, the notation ''e''''x'' usually denotes a generalized exponentiation definition called the '''exponential function''', exp(''x''), which can be defined in many equivalent ways, for example by:
+1 + ''ix''/''n'' may then be approximated by the number with polar coordinates .
+SI prefixes based on powers of 10 are also used to describe small or large quantities.
+A quandle is an algebraic structure in which these laws of conjugation play a central role.
+Trying to extend these functions to the general case of noninteger powers of complex numbers that are not positive reals leads to difficulties.
+For historical reasons, this notation applied to the trigonometric and hyperbolic functions has a specific and diverse interpretation: a positive exponent applied to the function's abbreviation means that the result is raised to that power, while an exponent of −1 denotes the inverse function.
+For example, the prefix kilo means , so a kilometre is .
+Choosing one out of many solutions as the principal value leaves us with functions that are not continuous, and the usual rules for manipulating powers can lead us astray.
+This final formula allows complex powers to be computed easily from decompositions of the base into polar form and the exponent into Cartesian form.
+Other limits, in particular of those that take on an indeterminate form, are described in  below.
+The exponent −1 of ''b'', or , is called the ''reciprocal'' of ''b''.
+Since there is no real number ''x'' such that , the definition of ''b''''u''/''v'' when ''b'' is negative and ''v'' is even must use the imaginary unit ''i'', as described more fully in the section §&nbsp;Powers of complex numbers.
+Similarly, rings of power series require  to be true for all specializations of ''x''.
+The polar coordinates of a point in the (''x'',''y'') plane consist of a non-negative real number ''r'' and angle θ such that  and  .
+An example is the derivative operator of calculus, , which is a linear operator acting on functions  to give a new function .
+The identity (''b''''z'')''u''=''b''''zu'' is not generally valid for complex powers.
+The real factor ''e''''x'' is the absolute value of ''z'' and the complex factor ''e''''iy'' identifies the direction of ''z''.
+The set of all real polynomials in ''x'' is denoted by .
+If the exponent is zero, some authors define , whereas others leave it undefined, as discussed below under .
+Then if ''V''''i'' = ''V'' for each ''i'', the resulting direct sum can be written in exponential notation as ''V''⊕'''N''', or simply ''V'''''N''' with the understanding that the direct sum is the default.
+In fact, they are only defined when the exponent is a rational number with the denominator being an odd integer.
+* Others argue that  should be defined as 1.
+Exponentiation is defined inductively by:
+If ''z'' is an irrational number, then the countably infinitely many choices of  lead to infinitely many distinct values for ''w''''z''.
+Placing an integer superscript after the name or symbol of a function, as if the function were being raised to a power, commonly refers to repeated function composition rather than repeated multiplication.
+This is called the Frobenius automorphism of ''F''.
+Using exponentiation with complex exponents may reduce problems in trigonometry to algebra.
+For example, the binomial theorem  is not valid for  unless .
+These are the '''''n''th roots''' of ''w''; they are solutions of the equation .
+Either we define discontinuous functions or multivalued functions.
+The number 4 has two 3/2''th'' roots, namely 8 and −8; however, by convention 43/2 denotes the '''principal root''', which is 8.
+The limits in these examples exist, but have different values, showing that the two-variable function ''x''''y'' has no limit at the point .
+Exponentiation is not associative either.
+This limit only exists for positive ''b''.
+Some mathematicians (e.g., Isaac Newton) used exponents only for powers greater than two, preferring to represent squares as repeated multiplication.
+To compute ''i''''i'', write ''i'' in polar and Cartesian forms:
+Complex powers and logarithms are more naturally handled as single valued functions on a Riemann surface.
+where ''r'' is a nonnegative real number and ''θ'' is the (real) argument of ''z''.
+When ''n'' is a negative integer and ''b'' is not zero, ''b''''n'' is naturally defined as 1/''b''−''n'', preserving the property .
+The polar form has a simple geometric interpretation: if a complex number  is thought of as representing a point  in the complex plane using Cartesian coordinates, then  is the same point in polar coordinates.
+In cardinal arithmetic, ''κ''0 is always 1 (even if ''κ'' is an infinite cardinal or zero).
+So there is an infinity of values which are possible candidates for the value of ''i''''i'', one for each integer ''k''.
+Knuth (1992) contends strongly that  "''has'' to be 1", drawing a distinction between the ''value'' , which should equal 1 as advocated by Libri, and the ''limiting form''  (an abbreviation for a limit of  where ), which is necessarily an indeterminate form as listed by Cauchy: "Both Cauchy and Libri were right, but Libri and his defenders did not understand why truth was on their side."
+This sequence of operations is expressed by the Ackermann function and Knuth's up-arrow notation.
+The Java standard mandates this behavior.
+Taking ''V'' to be the field '''R''' of real numbers (thought of as a vector space over itself) and ''n'' to be some natural number, we get the vector space that is most commonly studied in linear algebra, the real vector space '''R'''''n''.
+In the 1830s Libri published an unconvincing argument for , and Möbius sided with him, erroneously claiming that  whenever .
+Complex powers of positive reals are defined via ''e''''x'' as in section Complex exponents with positive real bases above.
+Powers of a positive real number are always positive real numbers.
+Apart from matrices, more general linear operators can also be exponentiated.
+In a Cartesian closed category, the exponential operation can be used to raise an arbitrary object to the power of another object.
+Just as computing matrix powers with discrete exponents solves discrete dynamical systems, so does computing matrix powers with continuous exponents solve systems with continuous dynamics.
+If the base of the exponentiation operation is a set, the exponentiation operation is the Cartesian product unless otherwise stated.
+This technique can be used to obtain the power of a positive real number ''b'' for any irrational exponent.
+For example, regarding ''b''0 as an empty product assigns it the value 1, even when .
+However, under certain conditions, such as when ''f'' and ''g'' are both analytic functions and ''f'' is positive on the open interval  for some positive ''b'', the limit approaching from the right is always 1.
+Then the formula above, with , , , and , yields:
+The function  has a unique continuous extension from the rational numbers to the real numbers for each .
+If the definition of exponentiation of real numbers is extended to allow negative results then the result is no longer well-behaved.
+Since multiple Cartesian products produce an ''n''-tuple, which can be represented by a function on a set of appropriate cardinality, ''S''''N'' becomes simply the set of all functions from ''N'' to ''S'' in this case:
+For example,  must be a solution to the equation .
+To compute 2100, note that .
+For example, in , the prime number  has this property.
+The rational exponent method cannot be used for negative values of ''b'' because it relies on continuity.
+This series of steps only requires 8 multiplication operations instead of 99 (since the last product above takes 2 multiplications).
+where ''u'' is an integer and ''v'' is a positive integer.
+Alternatively, the combinatorial interpretation of ''b''0 is the number of empty tuples of elements from a set with ''b'' elements; there is exactly one empty tuple, even if .
+This fits in with the exponentiation of cardinal numbers, in the sense that , where  is the cardinality of ''X''.
+This can be used as an alternative definition of the real number power ''b''''x'' and agrees with the definition given above using rational exponents and continuity.
+(It is sometimes called the '''principal ''n''th root of unity''', although this terminology is not universal and should not be confused with the principal value of ''n''√1, which is 1.)
+At that time, most mathematicians agreed that , until in 1821 Cauchy listed  along with expressions like  in a table of indeterminate forms.
+Exponentiation of cardinal numbers is distinct from exponentiation of ordinal numbers, which is defined by a limit process involving transfinite induction.
+The base 3 appears 5 times in the repeated multiplication, because the exponent is 5.
+This may make the definition  obtained above for negative ''n'' problematic when ''n'' is odd, since in this case  as ''x'' tends to 0 through positive values, but not negative ones.
+Thus they would write polynomials, for example, as ''ax'' + ''bxx'' + ''cx''3 + ''d''.
+For example, the functions below are of the form ''f''(''t'')''g''(''t'') with  as , but the limits are different:
+This is called the ''evaluation homomorphism''.
+* Some argue that the best value for  depends on context, and hence that defining it once and for all is problematic.
+There are two roots, one of each sign, if ''b'' is positive and ''v'' is even (as exemplified by the case in which  and , whereby a positive ''b'' has two square roots); in this case the principal root is defined to be the positive one.
+The (''ε'',&nbsp;''δ'')-definition of limit is used, this involves showing that for any desired accuracy of the result ''b''''x'' one can choose a sufficiently small interval around  so all the rational powers in the interval are within the desired accuracy.
+Gelfond–Schneider theorem provides some information on the nature of ''a''''b'' when ''b'' is irrational (that is not rational).
+The consensus is to use the definition , although there are textbooks that refrain from defining ."
+Therefore, it always has a finite number of possible values.
+In differential calculus, the power rule  is not valid for  at  unless .
+Equivalently, the set-theoretic interpretation of 00 is the number of functions from the empty set to the empty set; there is exactly one such function, the empty function.
+The solutions to the equation ''e''''z'' = 1 are the integer multiples of 2π''i'':
+In 1748 Leonhard Euler wrote "consider exponentials or powers in which the exponent itself is a variable.
+More recent authors interpret the situation above in different ways:
+The polar angle ''θ'' is ambiguous since any integer multiple of 2π could be added to ''θ'' without changing the location of the point.
+In the 16th century Robert Recorde used the terms square, cube, zenzizenzic (fourth power), sursolid (fifth), zenzicube (sixth), second sursolid (seventh), and zenzizenzizenzic (eighth).
+Thus, ''f''&nbsp;3(''x'') may mean ''f''(''f''(''f''(''x''))); in particular, ''f''&nbsp;−1(''x'') usually denotes the inverse function of ''f''.
+Limits involving algebraic operations can often be evaluated by replacing subexpressions by their limits; if the resulting expression does not determine the original limit, the expression is known as an indeterminate form.
+Each choice of ''θ'' gives in general a different possible value of the power.
+In the 9th century, the Persian mathematician Muhammad ibn Mūsā al-Khwārizmī used the terms ''mal'' for a square and ''kahb'' for a cube, which later Islamic mathematicians represented in mathematical notation as ''m'' and ''k'', respectively, by the 15th century, as seen in the work of Abū al-Hasan ibn Alī al-Qalasādī.
+If ''i'' is the imaginary unit and ''n'' is an integer, then ''i''''n'' equals 1, ''i'', −1, or −''i'', according to whether the integer ''n'' is congruent to 0, 1, 2, or 3 modulo 4.
+That is, ''r'' is the "radius"  and ''θ'' is the "angle" .
+Just as exponentiation of natural numbers is motivated by repeated multiplication, it is possible to define an operation based on repeated exponentiation; this operation is sometimes called hyper-4 or tetration.
+The principal value (the most common branch cut), corresponds to ''θ'' chosen in the interval .
+The following examples use the principal value, the branch cut which causes ''θ'' to be in the interval .
+Suppose that ''F'' is a field of characteristic ''p'', and consider the function  that raises each element of ''F'' to the power ''p''.
+Exponentiation may be generalized from integer exponents to more general types of numbers.
+In OCaml and Standard ML, it represents string concatenation.
+In Bash, C, C++, C#, D, Go, Java, JavaScript, Perl, PHP, Python and Ruby, the symbol ^ represents bitwise XOR.
+Polynomials can be evaluated by specializing the indeterminate ''x'' to be a real number.
+Exponentiation by integer exponents can also be defined for a wide variety of algebraic structures, including matrices.
+A branch cut can be used to choose a specific value.

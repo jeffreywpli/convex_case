@@ -1,0 +1,200 @@
+More recent games are clearly labeled "FOR AMUSEMENT ONLY" in an attempt to emphasize their legitimate, legal nature.
+New York mayor Fiorello La Guardia was responsible for the ban, believing that it robbed school children of their hard earned nickels and dimes.
+Traditionally, these were often controlled by solenoid-level drivers.
+Recent pinball games are distinguished by increasingly complex rule sets that require a measure of strategy and planning by the player for maximum scoring.
+Older games would immediately end the ball in play on a tilt.
+During the 1930s and the 1940s, lights mounted behind the painted backglasses were used for scoring purposes, making the scoring somewhat arbitrary.
+Multi-ball games, in particular, reward trapping techniques.
+The ''playfield'' is a planar surface inclined upward from three to seven degrees (current convention is six and a half degrees), away from the player, and includes multiple targets and scoring objectives.
+Some hobbyists and small companies modify existing pinball machines or create their own custom pinball machines.
+Some machines also added a third or fourth flipper midway up the playfield.
+It is important that the playfield be level left-to-right; a quick visual test compares the top of the back cabinet against a brick or block wall behind it, or to roll a marble down the center of the playfield glass.
+A related move, the "dead flipper pass," is performed by ''not'' flipping when a ball is heading toward a flipper.
+Multiball ends when all but one ball is lost down the bottom of the playfield, and then regular play resumes.
+The 1930s saw major advances in pinball design with the introduction of electrification.
+With both devices the result is the same: The ball is propelled upwards onto the playfield.
+In 2013, Jersey Jack Pinball released ''The Wizard of Oz'' pinball machine.
+The introduction of microprocessors brought pinball into the realm of electronic gaming.
+This is done by tapping the flipper button quickly enough so that the trapped ball is knocked back at an angle of less than 90 degrees into the bottom of the nearest slingshot.
+This new technology led to a boom for Williams and Bally, who attracted more players with games featuring more complex rules, digital sound effects, and speech.
+One of the plot lines follows his attempts to find a pinball machine he used to play.
+Many types of targets and features have been developed over the years.
+Until recently most games also had a "slam tilt" switch which guarded against kicking or slamming the coin mechanism, or for overly aggressive behavior with the machine, which could give a false indication that a coin had been inserted, thereby giving a free game or credit.
+Two different systems for ranking pinball players exist.
+The primary objective of the game is to score as many points as possible.
+Manipulation of the ball may also be accomplished by nudging (physically pushing the cabinet).
+* ''Extra ball'': If a player has earned this, when they lose a ball they get another one to play immediately afterward and the machine does not count the lost ball towards the limit of balls for that game.
+Pinball games have frequently been featured in popular culture, often as a symbol of rebellion or toughness.
+Modern games give tilt warnings before sacrificing the ball in play.
+Baffle Ball sold over 50,000 units and established Gottlieb as the first major manufacturer of pinball machines.
+If the player succeeds, a "ramp shot" has been made.
+Simulating a pinball machine has also been a popular theme of video games, most famously when Bill Budge wrote ''Pinball Construction Set'' for the Apple II in 1983.
+* an electrified ball on a slight ramp with a grounded post at the top of the ramp – when the front of the machine is lifted (literally, tilted) too high, the ball rolls to the top of the ramp and completes the circuit; and
+A game typically includes 64 to 96 TTL-level inputs from a variety of sensors such as mechanical leaf switches, optical sensors and electromagnetic sensors.
+The button that replaces the plunger may be modified to look like the trigger of a gun.
+Electromechanical games made during the 1970s had a similar Ball Index switch system that returned a drained ball if no points were made.
+* ''Kickback'': When a ball goes into one of the outlanes the ball instead of draining goes into a kicker that will launch the ball back into play.
+While there had been earlier pinball video games, such as ''Video Pinball'' for the Atari 2600, ''Pinball Construction Set'' was the first program that allowed the user to create his own simulated pinball machine and then play it.
+The post-war era was dominated by Gottlieb.
+Pinball games have become increasingly complex and multiple play modes, multi-level playfields, and even progression through a rudimentary "plot" have become common features on recent games.
+''Triple Action'' was the first game to feature just two flippers at the bottom of the playfield.
+Another version of the tube uses two spinning wheels to transfer the ball from hole to hole.
+The game became a smash hit.
+Another early pinball video game is ''David's Midnight Magic''.
+Pinball video game engines and editors for creation and recreation of pinball machines include for instance ''Visual Pinball'', ''Future Pinball'' and ''Unit3D Pinball''.
+They licensed the rights to reproduce Bally/Williams parts to Illinois Pinball and the rights to reproduce full-sized machines to The Pinball Factory.
+This penalty was instituted because nudging the machine too much may damage it.
+After the collapse of the coin-operated video game industry, pinball saw another comeback in the 1990s.
+In his frustration he founded Lion Manufacturing to produce a game of his own design, ''Ballyhoo'', named after a popular magazine of the day.
+Bumpers predate flippers, and active bumpers added a great deal of spice to older games.
+This strategy usually yields higher scores.
+In 2010, MarsaPlay in Spain manufactured a remake of Inder's original ''Canasta'' titled ''New Canasta'', which was the first game to include an LCD screen in the backbox.
+Pat Lawlor was a designer, working for Williams until their exit from the industry in 1999.
+By 1997, there were two companies left: Sega Pinball and Williams.
+* ''Ball lock'': Each time a ball goes into a specific hole or target, it is locked, and a new ball appears at the plunger.
+In France, during the long 1643–1715 reign of Louis XIV, billiard tables were narrowed, with wooden pins or skittles at one end of the table, and players would shoot balls with a stick or cue from the other end, in a game inspired as much by bowling as billiards.
+(These pins gave the game its name.)
+The designer of ''Contact'', Harry Williams, would eventually form his own company, Williams Manufacturing, in 1944.
+Progression through each mode is frequently accompanied by DMD animations and sound.
+The electromechanical relays and scoring reels that drove games in the 1950s and 1960s were replaced in the 1970s with circuit boards and digital displays.
+At the peak of this trend, two machines, ''Johnny Mnemonic'' and ''Attack from Mars'', have been played into the trillions.
+Older electromechanical game solenoids do not require this diode, since they were controlled with mechanical switches.
+The plunger is then connected mechanically to a feature or accessory on the playfield.
+By the end of 1932, there were approximately 150 companies manufacturing pinball machines, most of them in Chicago.
+Various types of stationary and moving targets were added, spinning scoring reels replaced games featuring static scores lit from behind.
+As the flipper nears the end of its upward travel, a switch under the flipper disconnects the power-winding and leaves only the second sustain winding to hold the flipper up in place.
+Williams exited the pinball business to focus on making gaming equipment for casinos, which was more profitable.
+Some of these include speech, such as Williams' ''Gorgar''; ramps for the ball to travel around, such as Williams' ''Space Shuttle''; "multiball", used on Williams' ''Firepower''; multi-level games like Gottlieb's ''Black Hole'' and Williams' ''Black Knight''; and blinking chase lights, as used on Bally's ''Xenon''.
+As processor and graphics capabilities have improved, more accurate ball physics and 3D pinball simulations have become possible.
+The flippers have loaned pinball its common name in many languages, where the game is known mainly as "flipper".
+The game has its LCD screen for scores, info & animations located in the playfield surface at player’s eye view.
+Bally, Williams, and Gottlieb continued to make pinball machines, while they also manufactured video games in much higher numbers.
+These early machines were relatively small, mechanically simple and designed to sit on a counter or bar top.
+Along with this comes the most crucial tool, the spring power plunger, which is set into place.
+* ''Jackpot'': Some targets on the playfield increase the scoring value of something else, which could be as simple as hitting a ramp, or a complicated sequence of targets.
+If this switch fails 'open' the flipper will be too weak to be usable, since only the weak winding is available.
+By earning extra balls, a single game can be stretched out for a long period, and if the player is playing well he or she can earn replays known as "specials."
+By the 1930s, manufacturers were producing coin-operated versions of bagatelles, now known as "marble games" or "pin games".
+Once a ball is in play, it tends to move downward towards the player, although the ball can move in any direction, sometimes unpredictably, due to contact with objects on the playfield or by the player's own actions.
+The first DMD on a pinball machine was used by ''Checkpoint'' and features also video mode minigames.
+In 2015, the new British pinball manufacturer Heighway Pinball released the racing themed pinball machine ''Full Throttle''.
+In the late 1990s, game manufacturers added messages to some games encouraging players to join a local league, providing website addresses for prospective league players to investigate.
+Newer versions use an electronic track with a carriage or an electromagnet to pull the ball between holes.
+*''Stackability'': To ''stack'' means that the player can run one play mode while another mode is in progress.
+Perhaps the most famous instance is the rock opera album ''Tommy'' (1969) by The Who, which centers on the title character, a "deaf, dumb, and blind kid", who becomes a "Pinball Wizard" and who later uses pinball as a symbol and tool for his messianic mission.
+At the end of the war, a generation of Americans looked for amusement in bars and malt shops, and pinball saw another golden age.
+Other machines allowed a player to win and accumulate large numbers of "free games" which could then be cashed out for money with the location owner.
+Another solenoid rang a bell to reward the player.
+Other manufacturers quickly followed suit with similar features.
+This is known as ''trapping.''
+Recently developed games have switched from incandescent bulbs to LEDs.
+Later, this type of feature was discontinued in an effort to legitimize the machines, and to avoid legal problems in areas where awarding free games was considered illegal, some games, called Add-A-Ball, did away with the free game feature, instead giving players extra balls to play (between 5 and 25 in most cases).
+Some games award a seemingly arbitrary amount of points that depend on the number of times ''any'' switch has been hit.
+* Various timed rounds (''modes''): For example, if the player hit a specific target three times within the next 20 seconds, they might score several tens of millions of points for it.
+Another recent curiosity is the 1997 Bally game ''NBA Fastbreak'' which, true to its theme, awards points in terms of a real basketball score: Each successful shot can give from one to three points.
+The World Pinball Player Rankings (WPPR) was created by the IFPA.
+Occasionally extra signal conditioning is necessary to adapt custom sensors, such as eddy sensors, to the system TTL inputs.
+This logo was used until 1984, when the orange splat logo took place.
+Flipper solenoids contain two coil windings in one package; a short, heavy gage 'power' winding to give the flipper its initial thrust up, and a long, light gage 'hold' winding that uses lower power (and creates far less heat) and essentially just holds the flipper up allowing the player to capture the ball in the inlane for more precise aiming.
+(Frequently the lights represented scores in the hundreds of thousands.)
+The Wizard of Oz'' is the first US pinball machine that used a LCD in the back box.
+Additionally, 12 to 24 high-impulse lighting outputs, traditionally incandescent but now LED, provide flash effects within the game.
+Flipper button computer peripherals were also released, allowing pinball fans to add an accurate feel to their game play instead of using the keyboard or mouse.
+The evolving and specializing outdoor games finally led to indoor versions that could be played on a table, such as billiards, or on the floor of a pub, like bowling and shuffleboard.
+Careful timing and positional control allows the player to intentionally direct the ball in a range of directions with various levels of velocity.
+''Nickelodeon'' used the pinball as their logo in the early 1980s.
+The switches are closed by ball contact with the rubber on the face of the kicker and this activates the solenoid.
+The game also shrank in size to fit atop a bar or counter.
+The first solid-state pinball is believed to be Mirco Games' ''The Spirit of '76'' (1976), though the first mainstream solid-state game was Williams' ''Hot Tip'' (1977).
+They operate similarly to pop bumpers, with a switch on each side of a solenoid-operated lever arm in a typical arrangement.
+The game resonated with people wanting cheap entertainment in the Great Depression-era economy.
+* ''Wizard Mode'': This is a special scoring mode, which is reached after meeting certain prerequisites to access this mode (e.g., finishing all modes).
+Chicago Coin was purchased by the Stern family, who brought the company into the digital era as Stern Enterprises, which closed its doors in the mid-1980s.
+Classic examples of this include Williams' ''Black Knight 2000'' (The King's Ransom) and Midway's ''Twilight Zone'' (Lost in the Zone).
+Most games cap the bonus multiplier at 5x or 10x, although more modern games apparently have no limit.
+The first part of a pinball machine's construction involves the wiring for the game's electronic system.
+''Bumpers'' are round knobs that, when hit, will actively push the ball away.
+Free games could be won if the player was able to get the balls to land in a winning pattern; however, doing this was nearly random, and a common use for such machines was for gambling.
+To protect the top of the playfield, a tempered glass window is installed, secured by a metal bar that is locked into place.
+* ''Multiball'': This occurs when there is more than one ball in play at a time and usually includes some kind of jackpot scoring.
+The plunger size and wire gage & length are matched to the strength required for each coil to do its work, so some types are repeated throughout the game, some are not.
+For example, if the player were on ball two and they earn an extra ball, the next ball will still be counted as ball two instead of the third ball.
+The player then chooses the moment to hit the flipper again, timing the shot as the ball slides slowly against the flipper.
+The inflated scores are the source of one of the Spanish-language names of pinball machines, ''máquina del millón'' ("million machine").
+When any of these sensors is activated, the game registers a "tilt" and locks out, disabling solenoids for the flippers and other playfield systems so that the ball can do nothing other than roll down the playfield directly to the drain.
+For example, Williams' designers hid cows in the video displays of the games, and Pat Lawlor would place a red button in the artwork of games he developed.
+In 1976, Bally released ''Capt.Fantastic'', which had an image of Elton John on the backglass, playing pinball in a similar costume as used in the movie ''Tommy''.
+In 2006, Illinois pinball company PinBall Manufacturing Inc. produced 178 reproductions of Capcom's ''Big Bang Bar'' for the European and US markets.
+In 2006 TPF announced that they would be reproducing two popular 90's era Williams machines, ''Medieval Madness'' and ''Cactus Canyon''.
+A drain is situated at the bottom of the play field, partially protected by player-controlled plastic bats called flippers.
+''Wizard'' has since moved into popular usage as a term for an expert pinball player.
+In the 1990s, game designers often put hidden, recurring images or references in their games, which became known as Easter eggs.
+The ban ended when Roger Sharpe (a star witness for the AMOA – Amusement and Music Operators Association) testified in April 1976 before a committee in a Manhattan courtroom that pinball games had become games of skill and were not games of chance, that is, gambling.
+The key attribute of a successful pinball game is an interesting and challenging layout of scoring opportunities on the playfield.
+This caused arcing across switch contacts and rapid contact fouling and failure.
+Other display innovations on pinball machines include pinball video game hybrids like ''Baby Pac-Man'' in 1982 and ''Granny and the Gators'' in 1984 and the use of a small color video monitor for scoring and minigames in the backbox of the pinball machine ''Dakar'' from manufacturer Mr. Game in 1988 and CGA color monitors in Pinball 2000 in 1999 that utilizes a Pepper's Ghost technique to reflect the monitor in the head of the as well as modifications by the use of ColorDMD that is used to replace the standard mono color DMDs.
+This pulls down a tapered ring surrounding the central post of the bumper that pushes downward and outward on the ball, propelling it away.
+There are many and various time-related features in pinball.
+If successful, this will cause the ball to bounce up and back into play.
+Modern games give off several jackpots in each multiball mode, which is usually quite easy to attain, and the value of today's jackpots is far less significant.
+They are the main control that the player has over the ball.
+When a machine says "SHOOT AGAIN" on the scoreboard, it signifies that an extra ball will shoot.
+Many games also have a slam tilt in the bottom of the lower cabinet to end the game if the cabinet is raised and dropped to the floor in an attempt to falsely trigger the coin counting switch.
+Gary Stern, the son of Williams co-founder Sam Stern, founded Data East Pinball with funding from Data East Japan.
+Philadelphia and Salt Lake City also had similar bans.
+Popular pinball games of the 1990s include ''Pinball Dreams'', ''Pro Pinball'' and ''3D Pinball: Space Cadet'' that was included in Windows Me and Windows XP.
+The player shot balls up the inclined playfield toward the scoring targets using this plunger, a device that remains in use in pinball to this day, and the game was also directly ancestral to pachinko.
+There have been pinball programs released for all major home video game and computer systems, tablet computers and smart phones.
+In 1947, the first mechanical flippers appeared on Gottlieb's Humpty Dumpty and by the early 1950s, the familiar two-flipper configuration, with the flippers at the bottom of the playfield above the center drain, had become standard.
+They asked two other schools to participate.
+Astonished committee members reportedly voted to remove the ban, which was followed in other cities.
+TPF however was unable to make good on its promises to produce new machines, and in October 2010 transferred its Williams Electronics Games licenses as well as its pinball spare parts manufacturing and distribution business to Planetary Pinball Supply Inc, a California distributor of pinball replacement parts.
+The player can control the amount of force used for launching by pulling the plunger a certain distance (thus changing the spring compression).
+Some pinball machines, such as Bally's "bingos", featured a grid on the backglass scoring area with spaces corresponding to targets or holes on the playfield.
+Without this diode, when the solenoid is de-energized, the magnetic field that was built up in the coil collapses and generates a brief, high-voltage pulse backward into the wiring, capable of destroying the solid-state components used to control the solenoid.
+Wizard modes come in two varieties: goal-oriented types where the player receives a huge amount of points after completing a specific task, or multiball modes with 4–6 balls in play, and virtually every feature active.
+A skilled player can quickly "learn the angles" and gain a high level of control of ball motion, even on a machine they have never played.
+Each segment was different, and involved the ball rolling in different themed areas of a pinball machine depending on which number (from 1-12) was being featured.
+Proper wiring polarity must be retained during coil replacement or this diode will act as a dead short, immediately destroying electronic switches.
+The balls became marbles and the wickets became small metal pins.
+With the flippers, the player attempts to move the ball to hit various types of scoring targets, and to keep the ball from disappearing off the bottom of the playfield.
+Although these novel features did not win back players as the manufacturers had hoped, they changed players' perception of pinball for coming decades.
+Another example of preserving historic pinball machines is ''Zaccaria Pinball'' that consists of digital recreations of classic Zaccaria pinball machines.
+The ball remains visible on the playfield and is kicked out either straight up (usually into a duct or rail chute) or sideways back onto the playfield.
+Their use is limited and has to be earned to be used.
+The words "Nickelodeon" were in rainbow colors against a huge pinball.
+These are also used on video games.
+Multiplayer scores were added soon after, and then bells and other noise-makers, all of which began to make pinball less a game and more of an experience.
+A noted example of this is Williams'  ''Bram Stoker's Dracula'', with its Multi-Multiball feature.
+The game ''Star Trek:The Next Generation'' went so far as to embed a hidden ''Breakout''-like game, available only after a complex sequence of events had been accomplished during the game.
+The ''plunger'' is a spring-loaded rod with a small handle, used to propel the ball into the playfield.
+The WPPR formula takes into account the quantity and quality of the players in the field, and awards points based on that calculation for the nearly 200 IFPA endorsed events worldwide.
+Game designer Wayne Neyens, along with artist Leroy Parker, produced games that collectors consider some of the best classic pinball machines.
+Moloney eventually changed the name of his company to Bally to reflect the success of this game.
+Tilting has also been simulated, which can be activated using one or more keys (sometimes the space bar) for "moving" the machine.
+The video game boom of the 1980s signaled the end of the boom for pinball.
+* an impact sensor – usually located on the coin door, the playfield and/or the cabinet itself.
+St. Peter's College took up the challenge, while the other school did not.
+Jackpots would often range from one to four million (back when this was a significant addition to the score), and their value would accrue between games until it was scored.
+Once the ball is in motion in the main area of the playfield, the plunger is not used again until another ball must be brought onto the playfield.
+These leagues exist everywhere from the Free State Pinball Association (FSPA) in the Washington, DC area to the Tokyo Pinball Organization (TPO) in Japan.
+Then later, during the 1950s and 1960s when the scoring mechanism was limited to mechanical wheels, high scores were frequently only in the hundreds ''or'' thousands.
+Regardless of these events, some towns in America still have such bans on their books 50 years later, and several countries still ban the games and their rewards.
+All companies involved tried to take advantage of the new solid state technology to improve player appeal of pinball and win back former players from video games.
+The next Pinball 2000 game, ''Star Wars Episode I'', sold only a little over 3,500 machines.
+Stern Pinball remained the only manufacturer of original pinball machines until 2013, when Jersey Jack Pinball started shipping ''The Wizard of Oz''.
+Occasionally a pinball machine will have a pin or post placed directly between the two bottom flippers.
+Competition among the companies was strong, and by 1934 there were 14 companies remaining.
+Some new manufacturers entered the field such as Capcom Pinball and Alvin G. and Company, founded by Alvin Gottlieb, son of David Gottlieb.
+In 1999, Sega sold their pinball division to Gary Stern (President of Sega Pinball at the time) who called his company Stern Pinball.
+A standardized version of the game eventually became known as bagatelle.
+The smaller, lower-powered solenoids were first to be transistorized, followed later by the higher-current solenoids as the price, performance, and reliability of power transistors improved over the years.
+Contact with or manipulation of scoring elements (such as targets or ramps) scores points for the player.
+These innovations were some of many by designer Steve Kordek.
+Some want, for example, a game with a specific subject or theme that cannot be bought in this form or was never built at all.
+Afterward anchors come and are hammered into place.
+Other notable popular licenses included ''Indiana Jones: The Pinball Adventure'' and ''Star Trek: The Next Generation''.
+The methods used to find the hidden items usually involved pressing the flipper buttons in a certain order or during specific events.
+Skilled players can often play on a machine for long periods of time on a single coin.
+If done properly, the ball will bounce off the "dead" flipper, across to the other flipper, where it may be trapped and controlled.
+A slam tilt will typically end the current game for all players.

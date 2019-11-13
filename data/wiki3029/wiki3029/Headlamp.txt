@@ -1,0 +1,200 @@
+The light from HID headlamps can exhibit a distinct bluish tint when compared with tungsten-filament headlamps.
+Most sealed-beam headlamps have lens optics.
+The American system historically permitted a greater overall amount of light within the low beam, since the entire reflector and lens area is used, but at the same time, the American system has traditionally offered much less control over upward light that causes glare, and for that reason has been largely rejected outside the US.
+Control of glare is less strict in the North American SAE beam standard contained in FMVSS / CMVSS 108.
+All of the European-designed and internationally approved bulbs except H4 are presently approved for use in headlamps complying with US requirements.
+They have an opaque mask covering specific portions of the shield, which facilitates the optical creation of the light/dark boundary (cutoff) near the top of a low-beam light distribution.
+A 2007 study, however, suggests automatic levelers on all headlamps, not just those with high-power light sources, would give drivers substantial safety benefits of better seeing and less glare.
+Modern headlamps are electrically operated, positioned in pairs, one or two on each side of the front of a vehicle.
+A light source (filament or arc) is placed at or near the focus of a reflector, which may be parabolic or of non-parabolic complex shape.
+Czech Tatra was an early implementer of such a technique, producing in the 1930s a vehicle with a central directional headlamp.
+Premium Chrysler and Imperial models offered a system called ''Automatic Beam Control'' throughout the 1960s and early 1970s.
+In the late 1950s and early 1960s, Lincoln, Buick, and Chrysler arranged the headlamps diagonally by placing the low-beam lamps outboard and above the high-beam lamps.
+The range of the beam can vary between 65 and 300 meters, depending on traffic conditions.
+The standardised  round sealed beam headlamp was introduced in 1940, and was soon required (exactly two per car) for all vehicles sold in the United States, freezing usable lighting technology in place until the 1970s, for Americans.
+The glasses have thin stripes on their surfaces that are heated by the headlight beams; however, the ducted warm air provides demisting when the headlamps are not turned on.
+The cables of the D system tended to rust in the cable sheaths while the SM system gradually leaked fluid, causing the long range lamps to turn inward, looking "cross-eyed."
+Night driving is difficult and dangerous due to the blinding glare of headlights from oncoming traffic.
+The reflected infrared radiation strikes the filament located at the centre of the glass envelope, heating the filament to a greater degree than can be achieved through resistive heating alone.
+In 1956, the inventor Even P. Bone developed a system where a vane in front of each head light moved automatically and caused a shadow in front of the approaching vehicle, allowing for high beam use without glare for the approaching driver.
+Clear aerodynamic headlight covers were illegal in the U.S. until 1983, so a work-around was used for the U.S. market, the pop-up headlight.
+In the United States, vehicle lighting that does not conform to FMVSS 108 is not street legal.
+By October 2004, the NHTSA had investigated 24 suppliers and all resulted in termination of sale or recalls.
+There have long been efforts, particularly in America, to devise an effective automatic beam selection system to relieve the driver of the need to select and activate the correct beam as traffic, weather, and road conditions change.
+Below the line is bright, and above is dark.
+Newer HID bulb designs D3R, D3S, D4R, and D4S which are in production since 2004 contain no mercury, but are not electrically or physically compatible with headlamps designed for previous bulb types.
+The door mechanism may be actuated by vacuum pots, as on some Ford vehicles of the late 1960s through early 1980s such as the 1967–1970 Mercury Cougar, or by an electric motor as on various Chrysler products of the middle 1960s through late 1970s such as the 1966–1967 Dodge Charger.
+They were prohibited in the United States where round lamps were required until 1975.
+Some countries require automobiles to be equipped with daytime running lights (DRL) to increase the conspicuity of vehicles in motion during the daytime.
+The metallic salts vapourise, and the arc is intensified and made spectrally more complete.
+The differences between the SAE and ECE headlamp standards are primarily in the amount of glare permitted toward other drivers on low beam (SAE permits much more glare), the minimum amount of light required to be thrown straight down the road (SAE requires more), and the specific locations within the beam at which minimum and maximum light levels are specified.
+These composite headlamps were sometimes referred to as "Euro" headlamps, since aerodynamic headlamps were common in Europe.
+Technology moved forward in the rest of the world.
+In 2012 the first '''mechanically controlled''' LED glare free headlamps were introduced on BMW 7 Series Selective Beam (anti-dazzle High-Beam Assistant).
+In 1996 the first American-made effort at HID headlamps was on the 1996–98 Lincoln Mark VIII, which used reflector headlamps with an unmasked, integral-ignitor burner made by Sylvania and designated Type 9500.
+Modern implementations use sensors to detect the amount of exterior light.
+Scientific study of headlamp glare has shown that for any given intensity level, the light from HID headlamps is 40% more glaring than the light from tungsten-halogen headlamps.
+If the cutoff shade is fixed in the light path, separate high-beam lamps are required.
+The other filament is shifted axially and radially away from the focal point.
+It was introduced in 1962 by a consortium of European bulb and headlamp makers.
+US laws required sealed beam headlamps on all vehicles between 1940 and 1983, and other countries such as Japan, United Kingdom and Australia also made extensive use of sealed beams.
+Each system has its advantages and disadvantages.
+This can happen if water enters the headlamp, if bulbs of higher than specified wattage are installed, or simply with age and use.
+Other vehicles, such as trains and aircraft, are required to have headlamps.
+The highest-intensity halogen lamps, H9 and HIR1, produce 2100 to 2530 lumens from approximately 70 watts at 13.2 volts.
+North American vehicle owners sometimes privately import and install Japanese-market (JDM) headlamps on their car in the mistaken belief that the beam performance will be better, when in fact such misapplication is quite hazardous and illegal.
+In North America, the design, performance and installation of all motor vehicle lighting devices are regulated by Federal and Canada Motor Vehicle Safety Standard 108, which incorporates SAE technical standards.
+Extremely tight tolerances must be maintained in the design and production of complex-reflector headlamps.
+Pontiac used this design starting in the 1963 model year; American Motors, Ford, Cadillac and Chrysler followed two years later.
+Most vehicles in North America made since the late 1980s use headlamp lens-reflector assemblies that are considered a part of the car, and just the bulb is replaced when it fails.
+A Birmingham firm called Pockley Automobile Electric Lighting Syndicate marketed the world's first electric car lights as a complete set in 1908, which consisted of headlamps, sidelamps and tail lights and were powered by an eight-volt battery.
+When no traffic is close enough for glare to be a problem, the system provides full high beam.
+Luminous efficacy is the measure of how much light is produced versus how much energy is consumed.
+When a halogen headlamp is retrofitted with an HID bulb, light distribution and output are altered.
+The shape of the shade edge and its exact position in the optical system determine the shape and sharpness of the cutoff.
+These auxiliary systems may be switched on and off as the vehicle and operating conditions call for light or darkness at the angles covered by the beam the auxiliary optics produce.
+The bulb is rotated (or "clocked") within the headlamp to position the Graves Shield so as to allow light to strike a 15° wedge of the lower half of the reflector.
+the Jaguar E-Type, pre-1968 VW Beetle, 1965 Chrysler and Imperial models, Porsche 356, Citroën DS and Ferrari Daytona were no longer permitted and vehicles had to be imported with uncovered headlamps for the US market.
+This yielded to tilting reflectors, and later to dual-filament bulbs with a high and a low beam.
+Designs as of MY2010, such as those available as optional equipment on the 2010 Toyota Prius, give performance between halogen and HID headlamps, with system power consumption slightly lower than other headlamps, longer lifespans and more flexible design possibilities.
+The opposite tactic has also been employed in certain 2-filament sealed beams.
+From highest to lowest, the beams were called "country passing", "country driving" and "city driving".
+Other AFS techniques include special auxiliary optical systems within a vehicle's headlamp housings.
+The H1 lamp was the first tungsten-halogen headlamp light source.
+There are two different beam pattern and headlamp construction standards in use in the world: The ECE standard, which is allowed or required in virtually all industrialised countries except the United States, and the SAE standard that is mandatory only in the US.
+In the latter case, the entire surface area is modified so as to produce individual segments of specifically calculated, complex contours.
+Lens cleaning systems come in two main varieties: a small motor-driven rubber wiper or brush conceptually similar to windshield wipers, or a fixed or telescopic high-pressure sprayer which cleans the lenses with a spray of windshield washer fluid.
+Headlamps are generally required to produce white light, according to both ECE and SAE standards.
+In 1957, the law changed slightly, permitting Americans to possess vehicles with four  round sealed beam headlamps, and in 1974, these lights were permitted to be rectangular as well.
+The documented motivation for the adoption of selective yellow headlights in France has to do with observations by the French Academy of Sciences that date from 1934.
+These lamps are formally known as ''gas-discharge burners'', and have a higher efficacy than tungsten lamps.
+They aided aerodynamics when the headlamps were not in use, and were among the Cord's signature design features.
+These are generally not the discrete self-contained round lamps as found on older cars (certain Jaguars excepted), but rather involve circular or oval optical elements within an architecturally shaped housing assembly.
+Citroën SM non-US market vehicles were equipped with heating of the headlamp cover glasses, this heat supplied by ducts carrying warm air from the radiator exhaust to the space between the headlamp lenses and the cover glasses.
+Because the law was written to prevent 'bad headlights,' it by design looks backwards and has historically not been able to deal with improved, innovative designs.
+"S" burners – D1S, D2S, D3S, and D4S – have a plain glass shield and are primarily used in projector-type optics.
+Hence, good HID headlamps contribute to driving safety.
+Glass-covered headlamps, used on e.g.
+# Ignition: a high voltage pulse is used to produce a spark – in a manner similar to a spark plug – which ionises the Xenon gas, creating a conducting tunnel between the tungsten electrodes.
+In addition, the headlights also function as a cornering light.
+They were mounted in the front fenders, which were smooth until the lights were cranked out - each with its own small dash-mounted crank - by the operator.
+The condenser lens may have slight fresnel rings or other surface treatments to reduce cutoff sharpness.
+The bulb's rotative position within the reflector depends on the type of beam pattern to be produced and the traffic directionality of the market for which the headlamp is intended.
+The 1965 Gordon-Keeble, Jensen CV8, Triumph Vitesse and Bentley S3 Continental used such an arrangement.
+This gives vehicles with high-mounted headlamps a seeing distance advantage, at the cost of increased glare to drivers in lower vehicles.
+Certain British cars used a less extreme diagonal arrangement, with the inboard high-beam lamps placed only slightly lower than the outboard low-beam units.
+See LED section for further information on this.
+By contrast, ECE headlamp aim angle is linked to headlamp mounting height, to give all vehicles roughly equal seeing distance and all drivers roughly equal glare.
+The ballast controls the current to the bulb.
+Because the scheduled extension of the requirement for selective yellow headlights came just eight months before the outbreak of war, a folk explanation grew up that France adopted selective yellow headlights in order to permit the French army easily to recognise enemy vehicles at night.
+Manufacturers vary the means by which the bulb is accessed and replaced.
+The last vehicle with a foot-operated dimmer switch were the 1991 Ford F-Series and E-Series Econoline vans.
+Some hidden headlamps themselves do not move, but rather are covered when not in use by panels designed to blend in with the car's styling.
+Because of the increased amounts of light available from HID burners relative to halogen bulbs, HID headlamps producing a given beam pattern can be made smaller than halogen headlamps producing a comparable beam pattern.
+This made it possible to turn the light in the direction of travel when the steering wheel was turned, and is now widely adopted technology.
+Britain, Australia, and some other Commonwealth countries, as well as Japan and Sweden, also made extensive use of 7-inch sealed beams, though they were not mandated as they were in the United States.
+The system, called "Bone-Midland Lamps," was never taken up by any car manufacturer.
+Later hidden headlamps require one or more vacuum-operated servos and reservoirs, with associated plumbing and linkage, or electric motors, geartrains and linkages to raise the lamps to an exact position to assure correct aiming despite ice, snow and age.
+The first '''digitally controlled LED''' glare free headlamps introduced in 2013 on Audi A8.
+First commercialised by Valeo under their Cibié brand, these headlamps would revolutionise automobile design.
+Therefore, headlamp lens cleaners are required by ECE Regulation 48 on vehicles equipped with low-beam headlamps using light sources that have a reference luminous flux of 2,000 lumens or more.
+This is due to oxidation of the painted-on lens hardcoat by ultraviolet light from the sun and the headlamp bulbs.
+Developed more or less simultaneously in Germany by Hella and Bosch and in France by Cibié, the projector low beam permitted accurate beam focus and a much smaller-diameter optical package, though a much deeper one, for any given beam output.
+Hella introduced ellipsoidal optics for acetylene headlamps in 1911, but following the electrification of vehicle lighting, this optical technique wasn't used for many decades.
+The average service life of an HID lamp is 2000 hours, compared to between 450 and 1000 hours for a halogen lamp.
+In this system a filament is located at one focus of an ellipsoidal reflector and has a condenser lens at the front of the lamp.
+increases the effective luminous efficacy of a tungsten filament: when operating at a higher filament temperature which results in more lumens output per watt input, a tungsten-halogen lamp has a much longer brightness lifetime than similar filaments operating without the halogen regeneration cycle.
+# Initial phase: the bulb is driven with controlled overload.
+The optics to distribute the light in the desired pattern are designed into the reflector itself, rather than into the lens.
+HID headlamps are significantly more costly to produce, install, purchase, and repair.
+For those reasons, H2 was withdrawn from ECE Regulation 37 for use in new lamp designs (though H2 bulbs are still manufactured for replacement purposes in existing lamps), but H1 and H3 remain current and these two bulbs were legalised in the United States in 1993.
+Headlamps for use in left-traffic countries have low-beam headlamps that "dip to the left"; the light is distributed with a downward/leftward bias to show the driver the road and signs ahead without blinding oncoming traffic.
+The junction temperature of LEDs effects the performance and reliability of high-power LEDs, and designers of high-power systems use thermal management techniques like heat sinks.
+This first system used a built-in, non-replaceable burner without a UV-blocking glass shield or touch-sensitive electrical safety cutout, designated D1  – a designation that would be recycled years later for a wholly different type of burner.
+For these reasons, plain tungsten filaments are all but obsolete in automotive headlamp service.
+Selective yellow headlamps are no longer common, but are permitted in various countries throughout Europe as well as in non-European locales such as South Korea,  Japan and New Zealand.
+Japan formerly had bespoke lighting regulations similar to the US standards, but for the left side of the road.
+In 1954, Cibié introduced an automatic headlamp leveling system linked to the vehicle's suspension system to keep the headlamps correctly aimed regardless of vehicle load, without driver intervention.
+In 1940, a consortium of state motor vehicle administrators standardised upon a system of two  round sealed beam headlamps on all vehicles—the only system allowed for 17 years.
+At equal luminosity, the halogen-cycle bulbs also have longer lifetimes.
+The AC ballast was about the size of a building brick.
+The reduced power consumption means less fuel consumption, with resultant less CO2 emission per vehicle fitted with HID lighting (1.3 g/km assuming that 30% of engine running time is with the lights on).
+Some cars with retractable headlamps, such as the original Mazda MX-5, have a squeegee at the front of the lamp recess which automatically wipes the lenses as they are raised or lowered, although it does not provide washer fluid.
+The version of the 1986 BMW 7 Series (E32) sold outside North America was the first volume-production auto to use polyellipsoidal low beam headlamps.
+In addition, the lower 40% of the reflector and lens are reserved for high beam formation, which facilitates the optimization of both low and high beams.
+The xenon gas allows the lamps to produce minimally adequate light immediately upon start, and shortens the run-up time.
+Headlamps that satisfactorily illuminate the road ahead without causing glare have long been sought.
+Hidden headlamps (also known as pop-up lights) were introduced in 1936, on the Cord 810/812.
+In a headlamp optic designed for use with an HID lamp, it produces more usable light.
+Depending on the development tools and techniques in use, the reflector may be engineered from the start as a bespoke shape, or it may start as a parabola standing in for the size and shape of the completed package.
+High-intensity discharge (HID) systems were introduced in the early 1990s, first in the BMW 7-series.
+Sealed beam headlamps are modular; when the filament burns out, the entire sealed beam is replaced.
+Rectangular headlamps were first used in 1961, developed by Cibié for the Citroën Ami 6 and by Hella for the German Ford Taunus.
+The first dual-filament halogen bulb (to produce a low and a high beam with only one bulb), the H4, was released in 1971 and quickly became the predominant headlamp bulb throughout the world except in the United States, where the H4 is still not legal for automotive use.
+The high beam is usually a rough copy of the low beam, shifted slightly upward and leftward.
+After replaceable halogen bulbs were permitted in US headlamps in 1983, development of US bulbs continued to favor long bulb life and low power consumption, while European designs continued to prioritise optical precision and maximum output.
+The first modern polyellipsoidal (projector) automotive lamp was the ''Super-Lite'', an auxiliary headlamp produced in a joint venture between Chrysler Corporation and Sylvania and optionally installed in 1969 and 1970 full-size Dodge automobiles.
+Moreover, the colour rendering index (CRI) of tungsten-halogen headlamps (98) is much closer than that of HID headlamps (~75) to standardised sunlight (100).
+The first electric headlamp light source was the tungsten filament, operating in a vacuum or inert-gas atmosphere inside the headlamp bulb or sealed beam.
+The latter is accomplished by clocking the low-beam filament in an upward-forward-leftward position to produce a right-traffic low beam, or in an upward-forward-rightward position to produce a left-traffic low beam.
+There was an improvement in seeing distance with US halogen high beams, which were permitted for the first time to produce 150,000 candela (cd) per vehicle, double the nonhalogen limit of 75,000&nbsp;cd but still well shy of the international European limit of 225,000&nbsp;cd.
+Headlamps must be kept in proper alignment (or "aim").
+The Academy recorded that the selective yellow light was less dazzling than white light and that the light became less diffused when used in fog than green or blue lights.
+American inventor Jacob Rabinow devised and refined a scanning automatic dimmer system impervious to streetlights and reflections, but no automaker purchased the rights, and the problematic photoresistor type remained on the market through the late 1980s.
+Directional lighting was introduced in the rare, one-year-only 1935 Tatra 77a, and later popularised by the Citroen DS.
+Such vehicles must be equipped with headlamp self-leveling systems that sense the vehicle's degree of squat due to cargo load and road inclination, and automatically adjust the headlamps' vertical aim to keep the beam correctly oriented without any action required by the driver.
+The spectral power distribution (SPD) of an automotive HID headlamp is discontinuous and spikey while the SPD of a filament lamp, like that of the sun, is a continuous curve.
+Such systems typically use stepper motors at the headlamp and a rotary switch on the dash marked "0", "1", "2", "3" for different beam heights, "0" being the "normal" (and highest) position for when the car is lightly loaded.
+They can be powered by a battery or a small generator mechanically integrated into the workings of the bicycle.
+The limited-production Audi R8 LMX uses lasers for its spot lamp feature, providing illumination for high-speed driving in low-light conditions.
+Tungsten-halogen technology (also called "quartz-halogen", "quartz-iodine", "iodine cycle", etc.)
+If it is minor, it can be polished out using a reputable brand of a car polish that is intended for restoring the shine to chalked paint.
+Different headlamp technologies produce different characteristic types of white light; the white specification is quite large and permits a wide range of apparent colour from warm white (with a brown-orange-amber-yellow cast) to cold white (with a blue-violet cast).
+Fog lamps were new for 1938 Cadillacs, and their 1954 "Autronic Eye" system automated the selection of high and low beams.
+"R" burners – D1R, D2R, D3R, and D4R – are designed for use in reflector-type headlamp optics.
+Headlamps are adjusted every 40 milliseconds by a camera on the inside of the front windscreen which can determine distance to other vehicles.
+This is used to create the upsweep or upstep characteristic of ECE low beam light distributions.
+By 1979, the majority of new cars in the US market were equipped with rectangular lamps.
+In 1992, US regulations were amended to permit the use of H4 bulbs redesignated HB2 and 9003, and with slightly different production tolerances stipulated.
+The first electric headlamps were introduced in 1898 on the Columbia Electric Car from the Electric Vehicle Company of Hartford, Connecticut, and were optional.
+1933–34 Packards were equipped with tri-beam headlamps, the bulbs having three filaments.
+By the early 1970s, this option was withdrawn from all GM models except Cadillac, on which GuideMatic was available through 1988.
+The European system traditionally produced low beams containing less overall light, because only 60% of the reflector's surface area is used to create the low beam.
+In Canada the DRL function required on vehicles made or imported since 1990 can be provided by the headlamps, the fog lamps, steady-lit operation of the front turn signals, or by special daytime running lamps.
+ECE Regulation 48 currently requires new vehicles to be equipped with headlamps emitting white light.
+The glasses' stripes on both D and SM cars appear similar to rear windshield glass electric defogger heating strips, but they are passive, not electrified
+In most 2-filament sealed beams and in 2-filament replaceable bulbs of type 9004, 9007, and H13, the high-beam filament is at the focal point and the low-beam filament is off focus.
+In 1968 when Federal auto equipment and safety regulations were initiated, the requirement for two large or four small round sealed beams was codified, freezing headlamp design for many years.
+Below the low beam filament is a cup-shaped shield (called a "Graves Shield") spanning an arc of 165°.
+In addition to the EU and Canada, countries requiring DRL include Albania, Argentina, Bosnia and Herzegovina, Colombia (no more from Aug/2011), Iceland, Israel, Macedonia, Norway, Moldova, Russia, Serbia, and Uruguay.
+In more advanced stages, the deterioration extends through the actual plastic material, rendering the headlamp useless and necessitating complete replacement.
+The relative directional shift between the two beams is the same with either technique – in a right-traffic country, the low beam is slightly downward-rightward and the high beam is slightly upward-leftward, relative to one another – but the lens optics must be matched to the filament placements selected.
+It can become pitted due to abrasion of road sand and pebbles, and can crack, admitting water into the headlamp.
+The main disadvantage of this type of headlamp is the need to accommodate the physical depth of the assembly, which may extend far back into the engine compartment.
+The GuideMatic had a more compact dashtop housing and a control knob that allowed the driver to adjust the system's sensitivity threshold to determine when the headlamps would be dipped from high to low beam in response to an oncoming vehicle.
+General Motors introduced the first automatic headlight dimmer called the 'Autronic Eye' in 1952 on their Cadillac and Oldsmobile models; the feature was offered in other GM vehicles starting in 1953.
+Regional regulations govern how the DRL function may be provided.
+Selective yellow headlamps remained mandatory for cars registered in France until January 1993, when white headlamps were authorised for French registered cars, and they rapidly became virtually universal.
+The final letter describes the outer shield.
+1996's Lincoln Mark VIII was an early American effort at HIDs, and was the only car with DC HIDs.
+corresponding to the existing  round format.
+The glass in such a bulb may be spherical or tubular.
+However, low beam focus and glare control are easier to achieve.
+The 1948 Citroen 2CV was launched in France with a manual headlamp leveling system, controlled by the driver with a knob through a mechanical rod linkage.
+Automotive HID burners do emit considerable near-UV light, despite the shield.
+Of these, the Nash Ambassador and the Cadillac Eldorado Brougham had quad headlights as standard equipment in 1957 (and were technically illegal in those states prohibiting them still).
+The usage of argon, as is commonly done in street lights and other stationary metal-halide lamp applications, causes lamps to take several minutes to reach their full output.
+In the US, SAE standard headlamps are aimed without regard to headlamp mounting height.
+However, Japan now adheres to the ECE standard.
+A headlamp system is required to produce a low and a high beam, which may be achieved either by an individual lamp for each function or by a single multifunction lamp.
+Beginning in the 1970s, Germany and some other European countries began requiring remote-control headlamp leveling systems that permit the driver to lower the lamps' aim by means of a dashboard control lever or knob if the rear of the vehicle is weighted down with passengers or cargo, which would tend to raise the lamps' aim angle and create glare.
+In the US, suppliers, importers and vendors that offer non-compliant kits are subject to civil fines.
+Vehicles equipped with HID headlamps (except motorcycles) are required by ECE regulation 48 also to be equipped with headlamp lens cleaning systems and automatic beam leveling control.
+Sanding or aggressively polishing the lenses, or plastic headlight restoration, can buy some time, but doing so removes the protective coating from the lens, which when so stripped will deteriorate faster and more severely.
+There are two primary means of producing two different beams from a two-filament bulb in a single reflector.
+Another early headlamp styling concept involved conventional round lamps faired into the car's bodywork with aerodynamic glass covers, such as those on the 1961 Jaguar E-Type, and on pre-1967 VW Beetles.
+Shortly thereafter, headlamps using the new light source were introduced in Europe.
+The H2 is no longer a current type, since it requires an intricate bulb holder interface to the lamp, has a short life and is difficult to handle.
+Many tungsten (pre-halogen) European-code headlamps made in France by Cibié, Marchal, and Ducellier could be adjusted to produce either a left- or a right-traffic low beam by means of a two-position bulb holder.
+Headlamps were round for many years, because that is the native shape of a parabolic reflector.
+HID lamps emit infrared energy that can defrost snow and ice from the front lens of a headlamp, while LEDs do not, and need to cycle heat from the heat-sink to the front of the panel to de-ice and de-fog the lens.

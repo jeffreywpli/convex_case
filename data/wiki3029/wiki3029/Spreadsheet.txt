@@ -1,0 +1,200 @@
+Spreadsheets usually attempt to automatically update cells when the cells they depend on change.
+Such a cell reference is a type of variable.
+This, combined with the lack of auditing above, can make it easy for someone to commit fraud.
+In modern spreadsheet applications, several spreadsheets, often known as ''worksheets'' or simply ''sheets'', are gathered together to form a ''workbook''.
+EUD denotes activities or techniques in which people who are not professional developers create automated behavior and complex data objects without significant knowledge of a programming language.
+In large spreadsheets, this can be extremely time consuming.
+In 1968 BCL was ported by Walsh to the IBM 360/67 timesharing machine at Washington State University.
+In Microsoft Excel these functions are defined using Visual Basic for Applications in the supplied Visual Basic editor, and such functions are automatically accessible on the worksheet.
+For instance, one can refer to the first ten cells in the first column with the range "A1:A10".
+This program was written in Fortran.
+Lack of revision control greatly increases the risk of errors due the inability to track, isolate and test changes made to a document.
+The Windows 3.x platforms of the early 1990s made it possible for Excel to take market share from Lotus.
+Such spreadsheets can be used to reason deductively about their cell values.
+Recalculation generally requires that there are no circular dependencies in a spreadsheet.
+Several factors contribute to this limitation.
+* Lack of security.
+Reference to a range of cells is typically of the form (A1:A6), which specifies all the cells in the range A1 through to A6.
+* Collaboration in authoring spreadsheet formulas can be difficult when such collaboration occurs at the level of cells and cell addresses.
+Calculations were performed on these objects, as opposed to a range of cells, so adding two time series automatically aligns them in calendar time, or in a user-defined time frame.
+That is another reason to use named variables and formulas employing named variables.
+A spreadsheet does not, in fact, have to contain any formulas at all, in which case it could be considered merely a collection of data arranged in rows and columns (a database) like a calendar, timetable or simple list.
+(National CSS offered a similar product, CSSTAB, which had a moderate timesharing user base by the early 1970s.
+Because spreadsheet risk is principally linked to the actions (or inaction) of individuals it is defined as a sub-category of operational risk.
+Besides performing basic arithmetic and mathematical functions, modern spreadsheets provide built-in functions for common financial and statistical operations.
+Computer scientist Alan Kay used the term ''value rule'' to summarize a spreadsheet's operation: a cell's value relies solely on the formula the user has typed into the cell.
+This may lead to confusion in some cases.
+With the advent of advanced web technologies such as Ajax circa 2005, a new generation of online spreadsheets has emerged.
+Functions themselves cannot write into the worksheet, but simply return their evaluation.
+Use of named variables and named functions also makes the spreadsheet structure more transparent.
+One study in early 2011 of nearly 1,500 people in the UK found that 57% of spreadsheet users have never received formal training on the spreadsheet package they use.
+The main concepts are those of a grid of cells, called a sheet, with either raw data, called values, or formulas in the cells.
+* Because they are loosely structured, it is easy for someone to introduce an error, either accidentally or intentionally, by entering information in the wrong place or expressing dependencies among cells (such as in a formula) incorrectly.
+*functions, such as SUM(), TAN(), and many others.
+A single cell is usually referenced by its column and row (A2 would represent the cell containing the value 10 in the example table below).
+In addition there is often a provision for ''user-defined functions''.
+*Modern spreadsheets allow for secondary notation.
+A cell's formatting does not typically affect its content and depending on how cells are referenced or copied to other worksheets or applications, the formatting may not be carried with the content.
+Since it was written especially for the IBM PC, it had good performance and became the killer app for this PC.
+It is analogous to an array of variables in a conventional computer program (although certain unchanging values, once entered, could be considered, by the same analogy, constants).
+Either part can be relative (it changes when the formula it is in is moved or copied), or absolute (indicated with $ in front of the part concerned of the cell reference).
+Microsoft released the first version of Excel for the Macintosh on September 30, 1985, and then ported it to Windows, with the first version being numbered 2.05 (to synchronize with the Macintosh version 2.2) and released in November 1987.
+The key feature of spreadsheets is the ability for a formula to refer to the contents of other cells, which may in turn be the result of a formula.
+In most implementations, a cell, or group of cells in a column or row, can be "named" enabling the user to refer to those cells by a name rather than by a grid reference.
+''Name Manager'' displays the spreadsheet definitions of named variables ''x'' & ''y''.
+A. Leroy Ellison, Harry N. Cantrell, and Russell E. Edwards found themselves doing a large number of calculations when making tables for the business plans that they were presenting to venture capitalists.
+*arithmetic operators, such as +, -, *, /, and others;
+This can present a problem for people using very large datasets, and may result in lost data.
+These references contain the complete filename, such as:
+:=IF(OR(A1"",B1""),"Either A1 or B1 show text","") means to display the text if either cells A1 or B1 are not empty.
+While the patent was initially rejected by the patent office as being a purely mathematical invention, following 12 years of appeals, Pardo and Landau won a landmark court case at the CCPA (Predecessor Court of the Federal Circuit) overturning the Patent Office in 1983—establishing that "something does not cease to become patentable merely because the point of novelty is in an algorithm."
+are commonly provided.
+where the expression consists of:
+Programs within a suite use similar commands for similar functions.
+A workbook is physically represented by a file, containing all the data for the book, the sheets and the cells with the sheets.
+His idea became VisiCalc, the first application that turned the personal computer from a hobby for computer enthusiasts into a business tool.
+The word "spreadsheet" came from "spread" in its sense of a newspaper or magazine item (text or graphics) that covers two facing pages, extending across the center fold and treating the two pages as one large one.
+The ability to chain formulas together is what gives a spreadsheet its power.
+Extensions of these concepts include logical spreadsheets.
+With their boolean logic and graphics capabilities, even electronic circuit design is possible.
+This differs from a "formula" in a conventional computer program, which typically makes one calculation that it applies to all the input in turn.
+There are no 'side effects' to calculating a formula: the only output is to display the calculated result inside its occupying cell.
+Such calculations as net present value or standard deviation can be applied to tabular data with a pre-programmed function in a formula.
+When the computer calculates a formula in one cell to update the displayed value of that cell, cell reference(s) in that cell, naming some other cell(s), cause the computer to fetch the value of the named cell(s).
+Whenever a reference is made to a cell or group of cells that are not located within the current physical spreadsheet file, it is considered as accessing a "remote" spreadsheet.
+Spreadsheets are developed as computerized simulations of paper accounting worksheets.
+X locations, the columns, are normally represented by letters, "A", "B", "C", etc., while rows are normally represented by numbers, 1, 2, 3, etc.
+Spreadsheets that have a formula language based upon logical expressions, rather than arithmetic expressions are known as logical spreadsheets.
+In 1962 this concept of the spreadsheet, called BCL for Business Computer Language, was implemented on an IBM 1130 and in 1963 was ported to an IBM 7040 by R. Brian Walsh at Marquette University, Wisconsin.
+This can allow invalid operations (such as doing multiplication on a cell containing a date), resulting in illogical results without an appropriate warning.
+A worksheet is simply a subset of the spreadsheet divided for the sake of clarity.
+This is often called the dependency graph of the spreadsheet.
+Spreadsheet users may adjust any stored value and observe the effects on calculated values.
+*references to other cells, such as, e.g., A1 for a single cell or B1:B3 for a range;
+::These drawbacks are mitigated by the use of named variables for cell designations, and employing variables in formulas rather than cell locations and cell-by-cell manipulations.
+These multi-dimensional spreadsheets enabled viewing data and algorithms in various self-documenting ways, including simultaneous multiple synchronized views.
+An example of an early "industrial weight" spreadsheet was APLDOT, developed in 1976 at the United States Railway Association on an IBM 360/91, running at The Johns Hopkins University Applied Physics Laboratory in Laurel, MD.
+Moreover, if costs were entered by week and revenues by month, the program could allocate or interpolate as appropriate.
+* Research by ClusterSeven has shown huge discrepancies in the way financial institutions and corporate entities understand, manage and police their often vast estates of spreadsheets and unstructured financial data (including comma separated variable (CSV) files and Microsoft Access Databases).
+Equipped with a rich Internet application user experience, the best web based online spreadsheets have many of the features seen in desktop spreadsheet applications.
+VisiCalc was the first spreadsheet that combined all essential features of modern spreadsheet applications (except for forward referencing/natural order recalculation), such as WYSIWYG interactive user interface, automatic recalculation, status and formula lines, range copying with relative and absolute references, formula building by selecting referenced cells.
+Research shows that spreadsheet auditors who check numerical results and cell formulas find no more errors than auditors who only check numerical results.
+This is an example of what is perhaps its primary contribution of the earlier Javelin—the concept of traceability of a user's logic or model structure through its twelve views.
+This makes the spreadsheet useful for "what-if" analysis since many cases can be rapidly investigated without manual recalculation.
+Modern implementations also offer functions to access custom-build functions, remote data, and applications.
+Some spreadsheets have good collaboration features, and it is inadvisable to author at the level of cells and cell formulas to avoid obstacles to collaboration, where many people cooperate on data entry and many people use the same spreadsheet.
+The Reinhart and Rogoff article was widely used as justification to drive 2010–13 European austerity programs.
+* Spreadsheets have significant reliability problems.
+Co-inventor Rene Pardo recalls that he felt that one manager at Bell Canada should not have to depend on programmers to program and modify budgeting forms, and he thought of letting users type out forms in any order and having computer calculating results in the right order ("Forward Referencing/Natural Order Calculation").
+It ran on an IBM mainframe and was among the first applications for financial planning developed with APL that completely hid the programming language from the end-user.
+VisiCalc was the first electronic spreadsheet on a microcomputer, and it helped turn the Apple II computer into a popular and widely used system.
+Its uniqueness was Pardo's co-invention incorporating forward referencing/natural order calculation (one of the first "non-procedural" computer languages)  as opposed to left-to-right, top to bottom sequence for calculating the results in each cell that was used by VisiCalc, Supercalc, and the first version of Multiplan.
+A single cell can be referred to by addressing its row and column, "C10" for instance.
+Spreadsheets and databases are interoperable—sheets can be imported into databases to become tables within them, and database queries can be exported into spreadsheets for further analysis.
+Many problems can be broken down into a series of individual mathematical steps, and these can be assigned to individual formulas in cells.
+This makes it difficult to determine who changed what and when.
+Students were able to take information prepared by the professor and manipulate it to represent it and show ratios etc.
+Humans have highly developed intuitions about spaces, and of dependencies between items.
+*They use spatial relationships to define program relationships.
+The alternative "R1C1" reference style consists of the letter R, the row number, the letter C, and the column number; relative row or column numbers are indicated by enclosing the number in square brackets.
+In the late 1980s and early 1990s, first Javelin Software and Lotus Improv appeared and later Quantrix.
+The figure shows the Visual Basic code for a subroutine that reads each member of the named column variable ''x'', calculates its square, and writes this value into the corresponding element of named column variable ''y''.
+Only 13% said that Internal Audit reviews their spreadsheets, while a mere 1% receive checks from their risk department.
+Unaware of LANPAR at the time ''PC World'' magazine called VisiCalc the first electronic spreadsheet.
+This was particularly an advantage at a time when many personal computer systems used text-mode displays and commands, instead of a graphical user interface.
+The risk may arise from inputting erroneous or fraudulent data values, from mistakes (or incorrect changes) within the logic of the spreadsheet or the omission of relevant updates (e.g., out of date exchange rates).
+APLDOT was dubbed a "spreadsheet" because financial analysts and strategic planners used it to solve the same problems they addressed with paper spreadsheet pads.
+These techniques, after many spreadsheet recalculations, (usually) converge on the correct values for those cells.
+=SHEET2!A1             (that is; the first cell in sheet 2 of same spreadsheet).
+Excel now has the largest market share on the Windows and Macintosh platforms.
+Lotus 1-2-3 drove sales of the PC due to the improvements in speed and graphics compared to VisiCalc on the Apple II.
+Care must be taken, however, when adding a row immediately before a set of column totals to ensure that the totals reflect the additional rows values—which they often do not.
+Through IBM's VM operating system, it was among the first programs to auto-update each copy of the application as new versions were released.
+Nevertheless, VisiCalc remains best known as an Apple II program.
+='C:\Documents and Settings\Username\My spreadsheets\main sheetSheet1!A1
+Once entered, selected cells (or the entire spreadsheet) can optionally be "locked" to prevent accidental overwriting.
+When a cell contains a formula, it often contains references to other cells.
+Many people find it easier to perform calculations in spreadsheets than by writing the equivalent sequential program.
+The generated graphic component can either be embedded within the current sheet or added as a separate object.
+Forward Referencing/Natural Order Calculation by a compiler was the cornerstone functionality required for any spreadsheet to be practical and successful.
+A spreadsheet is essentially just one table, whereas a database is a collection of many tables with machine-readable semantic relationships between them.
+The IBM Financial Planning and Control System was developed in 1976, by Brian Ingham at IBM Canada.
+Examples include the valuation of an asset, the determination of financial accounts, the calculation of medicinal doses or the size of load-bearing beam for structural engineering.
+*Extensions that allow users to create new functions can provide the capabilities of a functional language.
+Various tools for programming sheets, visualizing data, remotely connecting sheets, displaying cells' dependencies, etc.
+By the time Lotus responded with usable Windows products, Microsoft had begun to assemble their Office suite.
+If that cell in turn references other cells, the value depends on the values of those.
+The ''y'' column contains no formula because its values are calculated in the subroutine, not on the spreadsheet, and simply are written in.
+Values are generally numbers, but can also be pure text, dates, months, etc.
+A major application was opinion research tabulation.)
+A cell on a different sheet of the same spreadsheet is usually addressed as:
+LANPAR was also used by General Motors.
+The formula may rely on the value of other cells, but those cells are likewise restricted to user-entered data or formulas.
+The acceptance of the IBM PC following its introduction in August, 1981, began slowly, because most of the programs available for it were translations from other computer models.
+Many common errors cause circular references.
+A formula identifies the calculation needed to place the result in the cell it is contained within.
+For instance, January's costs are subtracted from January's revenues, regardless of where or whether either appears in a worksheet.
+Gnumeric is a free, cross-platform spreadsheet program that is part of the GNOME Free Software Desktop Project.
+The formula is normally only shown when the cell is selected by "clicking" the mouse over a particular cell; otherwise it contains the result of the calculation.
+LANPAR was an acronym: LANguage for Programming Arrays at Random.
+Usually sharing data between the components is easier than with a non-integrated collection of functionally equivalent programs.
+The program can be annotated with colors, typefaces, lines, etc.
+::Despite the high error risks often associated with spreadsheet authorship and use, specific steps can be taken to significantly enhance control and reliability by structurally reducing the likelihood of error occurrence at their source.
+* Some sources advocate the use of specialized software instead of spreadsheets for some applications (budgeting, statistics)Excel's critics say that Excel is fundamentally unsuited for budgeting, forecasting, and other activities that involve collaboration or consolidation.
+Although they were first developed for accounting or bookkeeping tasks, they now are used extensively in any context where tabular lists are built, sorted, and shared.
+Authors have difficulty remembering the meanings of hundreds or thousands of cell addresses that appear in formulas.
+In the context of programming languages, this yields a limited form of first-order functional programming.
+Bricklin has spoken of watching his university professor create a table of calculation results on a blackboard.
+A formula such as "=SUM(A1:A6)" would add all the cells specified and put the result in the cell containing the formula itself.
+*Spreadsheets are versatile.
+Formulas say how to mechanically compute new values from existing values.
+Since spreadsheet cells formulas are not generally invertible, though, this technique is of somewhat limited value.
+In 1975, Autotab-II was advertised as extending the original to a maximum of "''1,500 rows and columns, combined in any proportion the user requires...''"
+A good example of this is that 55% of Capital market professionals "don't know" how their spreadsheets are audited; only 6% invest in a third-party solution
+:=IF(SUM(A1:A6) > 100, "More than 100%", SUM(A1:A6))
+These batch Spreadsheets dealt primarily with the addition or subtraction of entire columns or rows (of input variables), rather than individual ''cells''.
+9, ''Accounting and Analytical Methods'') and its companion volume, Mattessich (1964b, ''Simulation of the Firm through a Budget Computer Program'') applied computerized spreadsheets to accounting and budgeting systems (on mainframe computers programmed in FORTRAN IV).
+A '''spreadsheet''' or '''worksheet''' may also refer to one such electronic document.
+It was designed to optimize the power of APL through object kernels, increasing program efficiency by as much as 50 fold over traditional programming approaches.
+* Similarly, formulas expressed in terms of cell addresses are hard to keep straight and hard to audit.
+The spreadsheet as a paradigm really forces one to decide on dimensionality right of the beginning of one's spreadsheet creation, even though it is often most natural to make these choices after one's spreadsheet model has matured.
+Users could specify simple mathematical relationships between rows and between columns.
+It is often convenient to think of a spreadsheet as a mathematical graph, where the nodes are spreadsheet cells, and the edges are references to other cells specified in formulas.
+The best way to build up conditional statements is step by step composing followed by trial and error testing and refining code.
+Despite this, research carried out by ClusterSeven revealed that around half (48%) of c-level executives and senior managers at firms reporting annual revenues over £50m said there were either no usage controls at all or poorly applied manual processes over the use of spreadsheets at the firms.
+For shared, Web-based spreadsheets, it applies to "immediately" updating cells another user has updated.
+* Spreadsheets can store relational data and spreadsheet formulas can express all queries of SQL.
+Some of these formulas can apply to ranges as well, like the SUM function that adds up all the numbers within a range.
+Variables could have many attributes, including complete awareness of their connections to all other variables, data references, and text and image notes.
+Modern spreadsheet software can have multiple interacting sheets, and can display data either as text and numerals, or in graphical form.
+* The results of a formula (example "=A1*B1") applies only to a single cell (that is, the cell the formula is actually located in—in this case perhaps C1), even though it can "extract" data from many other cells, and even real time dates and actual times.
+However, some valid techniques use circular references.
+In 2013 Thomas Herndon, a graduate student of economics at the University of Massachusetts Amherst found major coding flaws in the spreadsheet used by the economists Carmen Reinhart and Kenneth Rogoff in a very influential 2010 journal article.
+Cells in a multi-sheet book add the sheet name to their reference, for instance, "Sheet 1!C10".
+A complex model can be dissected and understood by others who had no role in its creation.
+It was implemented by IBM in at least 30 countries.
+Names must be unique within the spreadsheet, but when using multiple sheets in a spreadsheet file, an identically named cell range on each sheet can be used if it is distinguished by adding the sheet name.
+*Extensions that allow users to build and apply models from the domain of machine learning.
+Users interact with sheets primarily through the cells.
+Spreadsheets have evolved to use scripting programming languages like VBA as a tool for extensibility beyond what the spreadsheet language makes easy.
+One reason for this usage is for creating or running macros that repeat a command across many sheets.
+There is no natural mechanism for permanently modifying the contents of a cell unless the user manually modifies the cell's contents.
+In fact, the spreadsheet can be made invisible except for a transparent user interface that requests pertinent input from the user, displays results requested by the user, creates reports, and has built-in error traps to prompt correct input.
+Many modern spreadsheets still retain this option.
+Its value is the value of the referenced cell or some derivation of it.
+It may also refer to a cell in another open and active spreadsheet on the same computer or network that is defined as shareable.
+Many of the concepts common to sequential programming models have analogues in the spreadsheet world.
+:=IF(AND(A1"",B1""),IF(B10,A1/B1,"Division by zero"),"") means that if cells A1 and B1 are not empty, and B1 is not zero, then divide A1 by B1, if B1 is zero, then display "Division by zero, and do not display anything if either A1 and B1 are empty.
+Another reason is that formulas with named variables are readily checked against the algebra they are intended to implement (they resemble Fortran expressions).
+References can be relative (e.g., A1, or B1:B3), absolute (e.g., $A$1, or $B$1:$B$3) or mixed row– or column-wise absolute/relative (e.g., $A1 is column-wise absolute and A$1 is row-wise absolute).
+Functionally, the spreadsheet operates as a whole and all cells operate as global variables within the spreadsheet (each variable having 'read' access only except its own containing cell).
+*values, such as 2, 9.14 or 6.67E-11;
+Spreadsheet 2000 attempted to dramatically simplify formula construction, but was generally not successful.
+A '''spreadsheet''' is an interactive computer application for organization, analysis and storage of data in tabular form.
+In 1968, three former employees from the General Electric computer company headquartered in Phoenix, Arizona set out to start their own software development house.
+If C10 holds the value 3 the result will be 15.
+This permits actions later used in pivot tables, except that flexible manipulation of report tables was but one of many capabilities supported by variables.
+It quickly became the de facto standard spreadsheet for CP/M and was ported to MS-DOS in 1982.
+For example, the sequential model of the indexed loop is usually represented as a table of cells, with similar formulas (normally differing only in which cells they reference).
+A cell on the same "sheet" is usually addressed as:
+Graphs can be used to show instantly how results are changed by changes in parameter values.

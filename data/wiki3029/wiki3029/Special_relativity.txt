@@ -1,0 +1,200 @@
+which means all velocity four-vectors have a magnitude of ''c''.
+The notation makes it clear the equations are manifestly covariant under the Poincaré group, thus bypassing the tedious calculations to check this fact.
+In addition to the papers referenced above—which give derivations of the Lorentz transformation and describe the foundations of special relativity—Einstein also wrote at least four papers giving heuristic arguments for the equivalence (and transmutability) of mass and energy, for .
+Therefore, if causality is to be preserved, one of the consequences of special relativity is that no information signal or material object can travel faster than light in vacuum.
+Other authors suggest that the argument was merely inconclusive because it relied on some implicit assumptions.
+The derivative of the relativistic angular momentum with respect to proper time is the relativistic torque, also second order antisymmetric tensor.
+Special relativity provides the transformation rules for how an electromagnetic field in one inertial frame appears in another inertial frame.
+Einstein extended this principle so that it accounted for the constant speed of light, a phenomenon that had been recently observed in the Michelson–Morley experiment.
+Instead, any two frames that move at the same speed in the same direction are said to be ''comoving''.
+The actual form of ''ds'' above depends on the metric and on the choices for the ''X''0 coordinate.
+At very small scales, such as at the Planck length and below, quantum effects must be taken into consideration resulting in quantum gravity.
+In general, though, the components of the four force are not equal to the components of the three-force, because the three force is defined by the rate of change of momentum with respect to coordinate time, i.e.
+Rather than an invariant time interval between two events, there is an invariant spacetime interval.
+* The Experiments of Rayleigh and Brace (1902, 1904) showed that length contraction doesn't lead to birefringence for a co-moving observer, in accordance with the relativity principle.
+He also postulated that it holds for all the laws of physics, including both the laws of mechanics and of electrodynamics.
+Theoretical investigation in classical electromagnetism led to the discovery of wave propagation.
+So to transform from one frame to another, we use the well-known tensor transformation law
+In constructing such equations, we often find that equations previously thought to be unrelated are, in fact, closely connected being part of the same tensor equation.
+Unlike other relativistic effects, this effect becomes quite significant at fairly low velocities as can be seen in the spin of moving particles.
+This equation explained not only the intrinsic angular momentum of the electrons called ''spin'', it also led to the prediction of the antiparticle of the electron (the positron), and fine structure could only be fully explained with special relativity.
+This shows that the time (Δ''t''′) between the two ticks as seen in the frame in which the clock is moving (''S''′), is ''longer'' than the time (Δ''t'') between these ticks as measured in the rest frame of the clock (''S'').
+It was originally proposed in 1905 by Albert Einstein in the paper "On the Electrodynamics of Moving Bodies".
+Unfortunately, there is no tensor in 4D which contains the components of the 3D force vector among its components.
+Newtonian mechanics mathematically follows from special relativity at small velocities (compared to the speed of light) – thus Newtonian mechanics can be considered as a special relativity of slow moving bodies.
+It's the covariant derivative which transforms in manifest covariance, in Cartesian coordinates this happens to reduce to the partial derivatives, but not in other coordinates.
+It was the first foundation of ''relativistic quantum mechanics''.
+To measure the length of this rod in the system ''S''′, in which the rod is moving, the distances ''x''′ to the end points of the rod must be measured simultaneously in that system ''S''′.
+In a continuous medium, the 3D ''density of force'' combines with the ''density of power'' to form a covariant 4-vector.
+A more mathematical statement of the Principle of Relativity made later by Einstein, which introduces the concept of simplicity not mentioned above is:
+This behavior is observed in particle accelerators, where each charged particle is accelerated by the electromagnetic force.
+* The famous Michelson–Morley experiment (1881, 1887) gave further support to the postulate that detecting an absolute reference velocity was not achievable.
+The term reference frame as used here is an observational perspective in space which is not undergoing any change in motion (acceleration), from which a position can be measured along 3 spatial axes.
+Einstein discerned two fundamental propositions that seemed to be the most assured, regardless of the exact validity of the (then) known laws of either mechanics or electrodynamics.
+However, at macroscopic scales and in the absence of strong gravitational fields, special relativity is experimentally tested to extremely high degree of accuracy (10−20)
+* Time dilation of moving particles – relativistic effects on a fast-moving particle's half-life
+where v(t) is the velocity at a time, t, a is the acceleration of 1g and t is the time as measured by people on Earth.
+These machines would simply not work if they were not engineered according to relativistic principles.
+In addition, a considerable number of modern experiments have been conducted to test special relativity.
+The energy and momentum, which are separate in Newtonian mechanics, form a four-vector in relativity, and this relates the time component (the energy) to the space components (the momentum) in a non-trivial way.
+Aether supposedly possessed some wonderful properties: it was sufficiently elastic to support electromagnetic waves, and those waves could interact with matter, yet it offered no resistance to bodies passing through it.
+:&nbsp;&nbsp;&nbsp;&nbsp;for events satisfying&nbsp;&nbsp;&nbsp;&nbsp;
+Particle accelerators routinely accelerate and measure the properties of particles moving at near the speed of light, where their behavior is completely consistent with relativity theory and inconsistent with the earlier Newtonian mechanics.
+* The Fizeau experiment (1851, repeated by Michelson and Morley in 1886) measured the speed of light in moving media, with results that are consistent with relativistic addition of colinear velocities.
+Instead, a theory of particles interpreted as quantized fields, called ''quantum field theory'', becomes necessary; in which particles can be created and destroyed throughout space and time.
+The cone in the −''t'' region is the information that the point is 'receiving', while the cone in the +''t'' section is the information that the point is 'sending'.
+Many of Einstein's papers present derivations of the Lorentz transformation based upon these two principles.
+For an object at rest, the energy–momentum four-vector is : it has a time component which is the energy, and three space components which are zero.
+* Tests of relativistic energy and momentum – testing the limiting speed of particles
+Maxwell's equations are thus simply an empirical fit to special relativistic effects in a classical model of the Universe.
+Einstein consistently based the derivation of Lorentz invariance (the essential core of special relativity) on just the two basic principles of relativity and light-speed invariance.
+Note that, in 4d spacetime, the concept of the center of mass becomes more complicated, see center of mass (relativistic).
+Time dilation explains a number of physical phenomena; for example, the lifetime of muons produced by cosmic rays impinging on the Earth's atmosphere is measured to be greater than the lifetimes of muons measured in the laboratory.
+The geometry of Minkowski space can be depicted using Minkowski diagrams, which are useful also in understanding many of the thought-experiments in special relativity.
+A quantity invariant under Lorentz transformations is known as a Lorentz scalar.
+Since the speed of light is constant in relativity in each and every reference frame, pulses of light can be used to unambiguously measure distances and refer back the times that events occurred to the clock, even though light takes time to reach the clock after the event has transpired.
+In a strong gravitational field, one must use general relativity.
+The postulates of special relativity constrain the exact form the Lorentz transformation matrices take.
+Recognizing other physical quantities as tensors simplifies their transformation laws.
+It should be stated here that, contrary to many alternative claims, it said little about the invariance of the speed of light with respect to the source and observer's velocity, as both source and observer were travelling together at the same velocity at all times.
+Only if these events are additionally co-local in frame ''S'' (satisfying ), will they be simultaneous in another frame ''S''′.
+The electromagnetic field tensor is another second order antisymmetric tensor field, with six components: three for the electric field and another three for the magnetic field.
+The theory is "special" in that it only applies in the special case where the curvature of spacetime due to gravity is negligible.
+Again, there is nothing special about the ''x'' or east directions.
+Some authors use , with factors of ''c'' elsewhere to compensate; for instance, spatial coordinates are divided by ''c'' or factors of ''c''±2 are included in the metric tensor.
+''dp''/''dt'' while the four force is defined by the rate of change of momentum with respect to proper time, i.e.
+the alignment of its axes with the observer's axes) may be different for different observers.
+A defining feature of special relativity is the replacement of the Galilean transformations of Newtonian mechanics with the Lorentz transformations.
+Of these it is known Einstein was aware of the Fizeau experiment before 1905, and historians have concluded that Einstein was at least aware of the Michelson–Morley experiment as early as 1899 despite claims he made in his later years that it played no role in his development of the theory.
+Since one can not travel faster than light, one might conclude that a human can never travel farther from Earth than 40 light years if the traveller is active between the ages of 20 and 60.
+In nonrelativistic physics, an observer at rest on the tracks will measure the velocity of the baseball (due east) as , while in special relativity this is no longer true; instead the velocity of the baseball (due east) is given by the second equation: .
+In Newtonian mechanics, quantities which have magnitude and direction are mathematically described as 3d vectors in Euclidean space, and in general they are parametrized by time.
+* The Principle of Invariant Light Speed – "... light is always propagated in empty space with a definite velocity speed ''c'' which is independent of the state of motion of the emitting body" (from the preface).
+where  are the differentials of the four spacetime dimensions.
+From the principle of relativity alone without assuming the constancy of the speed of light (i.e.
+In any case, the null result of the Michelson–Morley experiment helped the notion of the constancy of the speed of light gain widespread and rapid acceptance.
+All tensors transform by this rule.
+To find the relation between the times between these ticks as measured in both systems, the first equation can be used to find:
+The interval AC in the diagram is 'space-like'; i.e., there is a frame of reference in which events A and C occur simultaneously, separated only in space.
+Similarly, suppose a measuring rod is at rest and aligned along the x-axis in the unprimed system ''S''.
+The results of various experiments, including the Michelson–Morley experiment, led to the theory of special relativity, by showing that there was no aether.
+For simplicity and consistency with the earlier equations, Cartesian coordinates will be used.
+Define the event to have spacetime coordinates  in system ''S'' and  in ''S''′.
+As Galilean relativity is now considered an approximation of special relativity that is valid for low speeds, special relativity is considered an approximation of general relativity that is valid for weak gravitational fields, i.e.
+similarly for higher order tensors.
+The simplest example of a four-vector is the position of an event in spacetime, which constitutes a timelike component ''ct'' and spacelike component , in a contravariant position four vector with components:
+In diagram 2 the interval AB is 'time-like'; i.e., there is a frame of reference in which events A and B occur at the same location in space, separated only by occurring at different times.
+predicted by relativity are initially counterintuitive.
+That is, it requires the 3D force defined above.
+Invariant expressions, particularly inner products of 4-vectors with themselves, provide equations that are useful for calculations, because one doesn't need to perform Lorentz transformations to determine the invariants.
+where we define  so that the time coordinate has the same dimension of distance as the other spatial dimensions; so that space and time are treated equally.
+The momentum is equal to the energy multiplied by the velocity divided by ''c''2.
+The energy content of an object at rest with mass ''m'' equals ''mc''2.
+In his initial presentation of special relativity in 1905 he expressed these postulates as:
+It is hypothetically possible for matter (or information) to travel from A to B, so there can be a causal relationship (with A the cause and B the effect).
+These effects are not merely appearances; they are explicitly related to our way of measuring ''time intervals'' between events which occur at the same place in a given coordinate system (called "co-local" events).
+In addition, a reference frame has the ability to determine measurements of the time of events using a 'clock' (any reference device with uniform periodicity).
+where  is the reciprocal matrix of .
+Special relativity is mathematically self-consistent, and it is an organic part of all modern physical theories, most notably quantum field theory, string theory, and general relativity (in the limiting case of negligible gravitational fields).
+Also, if both ''u'' and ''v'' are small with respect to the speed of light, we will recover the intuitive Galilean transformation of velocities
+As electric and magnetic fields are reference frame dependent and thus intertwined, one speaks of ''electromagnetic'' fields.
+In relativity, any reference frame moving with uniform motion will observe the same laws of physics.
+Since there is no absolute reference frame in relativity theory, a concept of 'moving' doesn't strictly exist, as everything is always moving with respect to some other reference frame.
+Henri Poincaré provided the mathematical framework for relativity theory by proving that Lorentz transformations are a subset of his Poincaré group of symmetry transformations.
+Combined with other laws of physics, the two postulates of special relativity predict the equivalence of mass and energy, as expressed in the mass–energy equivalence formula ''E''&nbsp;=&nbsp;''mc''2, where ''c'' is the speed of light in a vacuum.
+During his journey, people on Earth will experience more time than he does.
+Experiments suggest that this speed is the speed of light in vacuum.
+See classical mechanics for a more detailed discussion.
+Events that occur at the same time for one observer can occur at different times for another.
+The ''y'' and ''z'' coordinates are unaffected; only the ''x'' and ''t'' coordinates are transformed.
+''u'' = ''c''), then it would also be moving at the speed of light in the ''S''′ system.
+These numerous conventions can be superseded by using natural units where .
+Therefore, after 1 year of accelerating at 9.81&nbsp;m/s2, the spaceship will be travelling at v = 0.77c relative to Earth.
+On the other hand, the transformation of ''four''-velocity and ''four''-acceleration are simpler by means of the Lorentz transformation matrix.
+The four-acceleration is the proper time derivative of 4-velocity:
+We are looking at an event a distance  away and a time ''d/c'' in the past.
+* Kennedy–Thorndike experiment – time dilation in accordance with Lorentz transformations
+In relativity theory we often want to calculate the position of a point from a different reference point.
+The speed of light is so much larger than anything humans encounter that some of the effects
+Einstein later derived these transformations from his axioms.
+These propositions were the constancy of the speed of light and the independence of physical laws (especially the constancy of the speed of light) from the choice of inertial system.
+See main links for more detail.
+In 1928, Paul Dirac constructed an influential relativistic wave equation, now known as the Dirac equation in his honour, that is fully compatible both with special relativity and with the final version of quantum theory existing after 1926.
+A 5-year round trip for him will take 6½ Earth years and cover a distance of over 6 light-years.
+The consequences of special relativity can be derived from the Lorentz transformation equations.
+The Lorentz transformation of the electric field of a moving charge into a non-moving observer's reference frame results in the appearance of a mathematical term commonly called the magnetic field.
+Einstein acknowledged the controversy over his derivation in his 1907 survey paper on special relativity.
+Similarly, these effects also relate to our measured distances between separated but simultaneous events in a given coordinate system of choice.
+As of today, special relativity is the most accurate model of motion at any speed.
+Basically, special relativity can be stated as the ''invariance of any spacetime interval'' (that is the 4D distance between any two events) when viewed from ''any inertial reference frame''.
+If A precedes B in that frame, then A precedes B in all frames.
+Because of time dilation, a hypothetical spaceship can travel thousands of light years during the pilot's 40 active years.
+The constancy of the speed of light was motivated by Maxwell's theory of electromagnetism and the lack of evidence for the luminiferous ether.
+In special relativity, this notion is extended by adding the appropriate timelike quantity to a spacelike vector quantity, and we have 4d vectors, or "four vectors", in Minkowski spacetime.
+where there is an implied summation on  from 0 to 3, and  is a matrix.
+In the rest frame of the object, the time component of the four force is zero unless the "invariant mass" of the object is changing (this requires a non-closed system in which energy/mass is being directly added or removed from the object) in which case it is the negative of that rate of change of mass, times ''c''.
+The transformation rules for ''three''-dimensional velocities and accelerations are very awkward; even above in standard configuration the velocity equations are quite complicated owing to their non-linearity.
+in the language of tensor calculus.
+:&nbsp;&nbsp;&nbsp;&nbsp;for events satisfying&nbsp;&nbsp;&nbsp;&nbsp;
+More generally, all contravariant components of a four-vector  transform from one frame to another frame by a Lorentz transformation:
+Suppose we have a second reference frame ''S''′, whose spatial axes and clock exactly coincide with that of ''S'' at time zero, but it is moving at a constant velocity ''v'' with respect to ''S'' along the ''x''-axis.
+The principle of relativity, which states that there is no preferred inertial reference frame, dates back to Galileo, and was incorporated into Newtonian physics.
+which is the equation of a circle of radius ''c&thinsp;dt''.
+A locally Lorentz-invariant frame that abides by special relativity can be defined at sufficiently small scales, even in curved spacetime.
+where the Lorentz factor is:
+The energy and momentum are properties of matter and radiation, and it is impossible to deduce that they form a four-vector just from the two basic postulates of special relativity by themselves, because these don't talk about matter or radiation, they only talk about space and time.
+Then space and time have equivalent units, and no factors of ''c'' appear anywhere.
+In non-relativistic quantum mechanics, spin is phenomenological and cannot be explained.
+This suggests a deep theoretical insight: special relativity is simply a rotational symmetry of our spacetime, analogous to the rotational symmetry of Euclidean space (see image right).
+Mass–energy equivalence is a consequence of special relativity.
+The argument in his 1905 paper can be carried out with the emission of any massless particles, but the Maxwell equations are implicitly used to make it obvious that the emission of light in particular can be achieved only by doing work.
+A full 40-year trip at 1 ''g'' will appear on Earth to last 58,000 years and cover a distance of 55,000 light years.
+The first of Einstein's papers on this subject was "Does the Inertia of a Body Depend upon its Energy Content?"
+Furthermore, he assumed that the energy of light is transformed by the same Doppler-shift factor as its frequency, which he had previously shown to be true based on Maxwell's equations.
+* Experiments to test the aether drag hypothesis – no "aether flow obstruction".
+If a spaceship could be built that accelerates at a constant 1 ''g'', it will, after a little less than a year, be travelling at almost the speed of light as seen from Earth.
+For example, if a constant force is applied to an object for a limitless amount of time, then integrating  gives a momentum that grows without bound, but this is simply because  approaches infinity as  approaches ''c''.
+For this reason the null dual cone is also known as the 'light cone'.
+An event is an occurrence that can be assigned a single unique time and location in space relative to a reference frame: it is a "point" in spacetime.
+By changing frames with a Lorentz transformation in the x direction with a small value of the velocity v, the energy momentum four-vector becomes .
+If a particle is not traveling at ''c'', one can transform the 3D force from the particle's co-moving reference frame into the observer's reference frame.
+There he notes that it is problematic to rely on Maxwell's equations for the heuristic mass–energy argument.
+More generally, the ''co''variant components of a 4-vector transform according to the ''inverse'' Lorentz transformation:
+Therefore, ''S'' and ''S''′ are not ''comoving''.
+The orientation of an object (i.e.
+For example, the explosion of a firecracker may be considered to be an "event".
+An example of a four dimensional second order antisymmetric tensor is the relativistic angular momentum, which has six components: three are the classical angular momentum, and the other three are related to the boost of the center of mass of the system.
+(The point in the lower left of the picture above right represents the star, the origin represents the observer, and the line represents the null geodesic "line of sight".)
+In order to include gravity, Einstein formulated general relativity in 1915.
+Time dilation will increase the travellers life span as seen from the reference frame of the Earth to 2.7 years, but his lifespan measured by a clock travelling with him will not change.
+For example, if A was the cause, and C the effect, then there would be frames of reference in which the effect preceded the cause.
+To an observer who is not accelerating, it appears as though the object's inertia is increasing, so as to produce a smaller acceleration in response to the same force.
+To use Newton's third law of motion, both forces must be defined as the rate of change of momentum with respect to the same time coordinate.
+Even without considerations of causality, there are other strong reasons why faster-than-light travel is forbidden by special relativity.
+Now the transformation of the contravariant components of the position 4-vector can be compactly written as:
+Following Einstein's original presentation of special relativity in 1905, many different sets of postulates have been proposed in various alternative derivations.
+* Experiments to test emission theory demonstrated that the speed of light is independent of the speed of the emitter.
+There is also the stress–energy tensor for the electromagnetic field, namely the electromagnetic stress–energy tensor.
+Special relativity, contrary to some outdated descriptions, is capable of handling accelerated frames of reference.
+This is described by:
+Special relativity implies a wide range of consequences, which have been experimentally verified, including length contraction, time dilation, relativistic mass, mass–energy equivalence, a universal speed limit and relativity of simultaneity.
+As such, the Newtonian mass of an object, which is the ratio of the momentum to the velocity for slow velocities, is equal to ''E''/''c''2.
+According to Misner, Thorne and Wheeler (1971, §2.3), ultimately the deeper understanding of both special and general relativity will come from the study of the Minkowski metric (described below) and to take , rather than a "disguised" Euclidean metric using ''ict'' as the time coordinate.
+This will be used below in the section on electromagnetism.
+The inconsistency of Newtonian mechanics with Maxwell’s equations of electromagnetism and the lack of experimental confirmation for a hypothesized luminiferous aether led to the development of special relativity, which corrects mechanics to handle situations involving motions nearing the speed of light.
+To emit electromagnetic waves, all you have to do is shake a charged particle, and this is clearly doing work, so that the emission is of energy.
+Let's call this reference frame ''S''.
+Maxwell's equations in the 3D form are already consistent with the physical content of special relativity, although they are easier to manipulate in a manifestly covariant form, i.e.
+where  is the reciprocal matrix of .
+Experimental results which appear to contradict it are not reproducible and are thus widely believed to be due to experimental errors.
+Galileo Galilei had already postulated that there is no absolute and well-defined state of rest (no privileged reference frames), a principle now called Galileo's principle of relativity.
+Whereas general relativity incorporates noneuclidean geometry in order to represent gravitational effects as the geometric curvature of spacetime, special relativity is restricted to the flat spacetime known as Minkowski space.
+* Ives–Stilwell experiment – testing relativistic Doppler effect and time dilation
+Although this in itself won't give rise to a paradox, one can show that faster than light signals can be sent back into one's own past.
+Conversely, the ''magnetic'' field generated by a moving charge disappears and becomes a purely ''electrostatic'' field in a comoving frame of reference.
+However, some "things" can still move faster than light.
+Just as Euclidean space uses a Euclidean metric, so spacetime uses a Minkowski metric.
+* Hughes–Drever experiment – testing isotropy of space and mass
+In the Lorentzian case, one can then obtain relativistic interval conservation and a certain finite limiting speed.
+However, the spacetime interval will be the same for all observers.
+* The Trouton–Noble experiment (1903) showed that the torque on a capacitor is independent of position and inertial reference frame.

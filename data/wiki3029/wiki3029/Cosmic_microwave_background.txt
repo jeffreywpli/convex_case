@@ -1,0 +1,200 @@
+This is often taken as the "time" at which the CMB formed.
+Isocurvature density perturbations produce a series of peaks whose angular scales (''l'' values of the peaks) are roughly in the ratio 1:3:5:..., while adiabatic density perturbations produce peaks whose locations are in the ratio 1:2:3:... Observations are consistent with the primordial density perturbations being entirely adiabatic, providing key support for inflation, and ruling out many models of structure formation involving, for example, cosmic strings.
+That is, if at one place there is 1% more energy in baryons than average, then at that place there is also 1% more energy in photons (and 1% more energy in neutrinos) than average.
+Measurements of the CMB have made the inflationary Big Bang theory the Standard Model of Cosmology.
+Since decoupling, the temperature of the background radiation has dropped by a factor of roughly 1,100 due to the expansion of the universe.
+The team received the Nobel Prize in physics for 2006 for this discovery.
+:''T''r = 2.725(1 + ''z'')
+Two of the greatest successes of the Big Bang theory are its prediction of the almost perfect black body spectrum and its detailed prediction of the anisotropies in the cosmic microwave background.
+The CMB dipole as well as aberration at higher multipoles have been measured, consistent with galactic motion.
+The angular scale of the first peak determines the curvature of the universe (but not the topology of the universe).
+The cosmic microwave background radiation is an emission of uniform, black body thermal energy coming from all parts of the sky.
+* the finite depth of the last scattering surface (LSS), which causes the mean free path to increase rapidly during decoupling, even while some Compton scattering is still occurring.
+Collisionless damping is caused by two effects, when the treatment of the primordial plasma as fluid begins to break down:
+With a traditional optical telescope, the space between stars and galaxies (the ''background'') is completely dark.
+E-modes were first seen in 2002 by the Degree Angular Scale Interferometer (DASI).
+This motion results in an anisotropy of the data (CMB appearing slightly warmer in the direction of movement than in the opposite direction).
+The standard interpretation of this temperature variation is a simple velocity red shift and blue shift due to motion relative to the CMB, but alternative cosmological models can explain some fraction of the observed dipole temperature distribution in the CMB.
+Although WMAP provided very accurate measurements of the large scale angular fluctuations in the CMB (structures about as broad in the sky as the moon), it did not have the angular resolution to measure the smaller scale fluctuations which had been observed by former ground-based interferometers.
+In older literature, the CMB is also variously known as cosmic microwave background radiation (CMBR) or "relic radiation".
+As the universe expanded, both the plasma and the radiation filling it grew cooler.
+Harrison, Peebles, Yu and Zel'dovich realized that the early universe would have to have inhomogeneities at the level of 10−4 or 10−5.
+By this measure, decoupling took place over roughly 115,000 years, and when it was complete, the universe was roughly 487,000 years old.
+These effects contribute about equally to the suppression of anisotropies at small scales and give rise to the characteristic exponential damping tail seen in the very small angular scale anisotropies.
+From a theoretical point of view, the existence of a CMB rest frame breaks Lorentz invariance even in empty space far away from any galaxy.
+The high degree of uniformity throughout the observable universe and its faint but measured anisotropy lend strong support for the Big Bang model in general and the ΛCDM ("Lambda Cold Dark Matter") model in particular.
+Increasingly stringent limits on the anisotropy of the cosmic microwave background were set by ground based experiments during the 1980s.
+The '''cosmic microwave background''' ('''CMB''') is the thermal radiation left over from the time of recombination in Big Bang cosmology.
+Inspired by the COBE results, a series of ground and balloon-based experiments measured cosmic microwave background anisotropies on smaller angular scales over the next decade.
+The third peak can be used to get information about the dark-matter density.
+The fine-scale structure is superimposed on the raw CMBR data but is too small to be seen at the scale of the raw data.
+Recent observations with the Planck telescope, which is very much more sensitive than WMAP and has a larger angular resolution, confirm the observation of the axis of evil.
+That is, a perturbation where at some spot there is 1% more energy in baryons than average, 1% more energy in photons than average, and 2% ''less'' energy in neutrinos than average, would be a pure isocurvature perturbation.
+The mainstream astronomical community, however, was not intrigued at the time by cosmology.
+The spectral radiance dEν/dν peaks at 160.23&nbsp;GHz, in the microwave range of frequencies.
+Raw CMBR data from the space vehicle (i.e.
+They ruled out cosmic strings as a major component of cosmic structure formation and suggested cosmic inflation was the right theory of structure formation.
+When the universe cooled enough, protons and electrons combined to form neutral hydrogen atoms.
+These measurements were able to rule out cosmic strings as the leading theory of cosmic structure formation, and suggested cosmic inflation was the right theory.
+Density of energy for CMB is  () or (400–500&nbsp;photons/cm3).
+This recombination event happened when the temperature was around 3000&nbsp;K or when the universe was approximately 379,000&nbsp;years old.
+The pressure of the photons tends to erase anisotropies, whereas the gravitational attraction of the baryons, moving at speeds much slower than light, makes them tend to collapse to form overdensities.
+The E-modes arise naturally from Thomson scattering in a heterogeneous plasma.
+* the increasing mean free path of the photons as the primordial plasma becomes increasingly rarefied in an expanding universe,
+The team reported that POLARBEAR's measured B-mode polarization was of cosmological origin (and not just due to dust) at a 97.2% confidence level.
+The time following the emission of the cosmic microwave background—and before the observation of the first stars—is semi-humorously referred to by cosmologists as the dark age, and is a period which is under intense study by astronomers (See 21 centimeter radiation).
+The locations of the peaks also give important information about the nature of the primordial density perturbations.
+The B-modes are not sourced by standard scalar type perturbations.
+From the CMB data it is seen that the Local Group (the galaxy group that includes the Milky Way galaxy) appears to be moving at  relative to the reference frame of the CMB (also called the CMB rest frame, or the frame of reference in which there is no motion through the CMB) in the direction of galactic longitude ''l'' = , ''b'' = .
+WMAP used symmetric, rapid-multi-modulated scanning, rapid switching radiometers to minimize non-sky signal noise.
+A number of ground-based interferometers provided measurements of the fluctuations with higher accuracy over the next three years, including the Very Small Array, Degree Angular Scale Interferometer (DASI), and the Cosmic Background Imager (CBI).
+In the Big Bang model for the formation of the universe, Inflationary Cosmology predicts that after about 10−37 seconds the nascent universe underwent exponential growth that smoothed out nearly all irregularities.
+In 1964, Arno Penzias and Robert Woodrow Wilson at the Crawford Hill location of Bell Telephone Laboratories in nearby Holmdel Township, New Jersey had built a Dicke radiometer that they intended to use for radio astronomy and satellite communication experiments.
+A meeting between the Princeton and Crawford Hill groups determined that the antenna temperature was indeed due to the microwave background.
+The second type of B-modes was discovered in 2013 using the South Pole Telescope with help from the Herschel Space Observatory.
+The dipole anisotropy and others due to Earth's annual motion relative to the Sun and numerous microwave sources in the galactic plane and elsewhere must be subtracted out to reveal the extremely tiny variations characterizing the fine-scale structure of the CMBR background.
+Subsequent to the discovery of the CMB, hundreds of cosmic microwave background experiments have been conducted to measure and characterize the signatures of the radiation.
+In particular, these foregrounds are dominated by galactic emissions such as Bremsstrahlung, synchrotron, and dust that emit in the microwave band; in practice, the galaxy has to be removed, resulting in a CMB map that is not a full-sky map.
+The first results from this mission, disclosed in 2003, were detailed measurements of the angular power spectrum at a scale of less than one degree, tightly constraining various cosmological parameters.
+The first peak in the anisotropy was tentatively detected by the Toco experiment and the result was confirmed by the BOOMERanG and MAXIMA experiments.
+The CMB is a cosmic background radiation that is fundamental to observational cosmology because it is the oldest light in the universe, dating to the epoch of recombination.
+Since the CMB came into existence, it has apparently been modified by several subsequent physical processes, which are collectively referred to as late-time anisotropy, or secondary anisotropy.
+; Isocurvature density perturbations: In each place the sum (over different types of particle) of the fractional additional densities is zero.
+The discovery of the CMB in the mid-1960s curtailed interest in alternatives such as the steady state theory.
+Its detectors were trialled in the Antarctic Viper telescope as ACBAR (Arcminute Cosmology Bolometer Array Receiver) experiment—which has produced the most precise measurements at small angular scales to date—and in the Archeops balloon telescope.
+The first published recognition of the CMB radiation as a detectable phenomenon appeared in a brief paper by Soviet astrophysicists A. G. Doroshkevich and Igor Novikov, in the spring of 1964.
+The maximum of the PVF (the time when it is most likely that a given CMB photon last scattered) is known quite precisely.
+These include DASI, WMAP, BOOMERanG, QUaD, Planck spacecraft, Atacama Cosmology Telescope, South Pole Telescope and the QUIET telescope.
+Inspired by the initial COBE results of an extremely isotropic and homogeneous background, a series of ground- and balloon-based experiments quantified CMB anisotropies on smaller angular scales over the next decade.
+(Alternatively, if spectral radiance is defined as dEλ/dλ, then the peak wavelength is 1.063&nbsp;mm.)
+; Adiabatic density perturbations: The fractional additional density of each type of particle (baryons, photons ...) is the same.
+There are two fundamental types of density perturbations called ''adiabatic'' and ''isocurvature''.
+Additional ground-based instruments such as the South Pole Telescope in Antarctica and the proposed Clover Project, Atacama Cosmology Telescope and the QUIET telescope in Chile will provide additional data not available from satellite observations, possibly including the B-mode polarization.
+Before the formation of stars and planets (after 10−6 seconds), the early universe was smaller, much hotter, and filled with a uniform glow from its white-hot fog of interacting plasma of photons, electrons, and baryons.
+The results are broadly consistent with those expected from cosmic inflation as well as various other competing theories, and are available in detail at NASA's data bank for Cosmic Microwave Background (CMB) (see links below).
+The remaining irregularities were caused by quantum fluctuations in the inflaton field that caused the inflation event.
+The photons that existed at the time of photon decoupling have been propagating ever since, though growing fainter and less energetic, since the expansion of space causes their wavelength to increase over time (and wavelength is inversely proportional to energy according to Planck's relation).
+When the CMB photons became free to travel unimpeded, ordinary matter in the universe was mostly in the form of neutral hydrogen and helium atoms.
+The most famous experiment is probably the NASA Cosmic Background Explorer (COBE) satellite that orbited in 1989–1996 and which detected and quantified the large scale anisotropies at the limit of its detection capabilities.
+The CMB spectrum can distinguish between these two because these two types of perturbations produce different peak locations.
+Constraints on many cosmological parameters can be obtained from their effects on the power spectrum, and results are often calculated using Markov Chain Monte Carlo sampling techniques.
+The peaks contain interesting physical signatures.
+As the universe expands, the CMB photons are redshifted, causing them to decrease in energy.
+However, if the IGM was ionized at very early times when the universe was still denser, then there are two main effects on the CMB:
+Ultimately, due to the foregrounds and the cosmic variance problem, the greatest modes will never be as well measured as the small angular scale modes.
+Most of the radiation energy in the universe is in the cosmic microwave background, making up a fraction of roughly  of the total density of the universe.
+The intensity of the radiation also corresponds to black-body radiation at 2.726&nbsp;K because red-shifted black-body radiation is just like black-body radiation at a lower temperature.
+However, observations of galaxies today seem to indicate that most of the volume of the intergalactic medium (IGM) consists of ionized material (since there are few absorption lines due to hydrogen atoms).
+Rashid Sunyaev later calculated the observable imprint that these inhomogeneities would have on the cosmic microwave background.
+It is the result of three things: inflationary expansion of space itself, reheating after inflation, and turbulent fluid mixing of matter and radiation.
+It may have included starlight from the very first population of stars (population III stars), supernovae when these first stars reached the end of their lives, or the ionizing radiation produced by the accretion disks of massive black holes.
+There are two types of polarization, called E-modes and B-modes.
+and on 19 September 2014 new results of the Planck experiment reported that the results of BICEP2 can be fully attributed to cosmic dust.
+In 1964, David Todd Wilkinson and Peter Roll, Dicke's colleagues at Princeton University, began constructing a Dicke radiometer to measure the cosmic microwave background.
+The temperature of this radiation stays inversely proportional to a parameter that describes the relative expansion of the universe over time, known as the scale length.
+Although many different processes might produce the general form of a black body spectrum, no model other than the Big Bang has yet explained the fluctuations.
+The glow is very nearly uniform in all directions, but the tiny residual variations show a very specific pattern, the same as that expected of a fairly uniformly distributed hot gas that has expanded to the current size of the universe.
+This implies a period of reionization during which some of the material of the universe was broken into hydrogen ions.
+The WMAP team finds that the PVF is greater than half of its maximal value (the "full width at half maximum", or FWHM) over an interval of 115,000 years.
+Either such coherence is acausally fine-tuned, or cosmic inflation occurred.
+WMAP) contain foreground effects that completely obscure the fine-scale structure of the cosmic microwave background.
+Based on the 2013 data, the universe contains 4.9% ordinary matter, 26.8% dark matter and 68.3% dark energy.
+Precise measurements of the CMB are critical to cosmology, since any proposed model of the universe must explain this radiation.
+During the 1990s, the first peak was measured with increasing sensitivity and by 2000 the BOOMERanG experiment reported that the highest power fluctuations occur at scales of approximately one degree.
+The interpretation of the cosmic microwave background was a controversial issue in the 1960s with some proponents of the steady state theory arguing that the microwave background was the result of scattered starlight from distant galaxies.
+Moreover, the fluctuations are coherent on angular scales that are larger than the apparent cosmological horizon at recombination.
+According to the map, subtle fluctuations in temperature were imprinted on the deep sky when the cosmos was about 370,000 years old.
+The 1948 results of Alpher and Herman were discussed in many physics settings through about 1955, when both left the Applied Physics Laboratory at Johns Hopkins University.
+This was largely because new measurements at a range of frequencies showed that the spectrum was a thermal, black body spectrum, a result that the steady state model was unable to reproduce.
+This function is defined so that, denoting the PVF by ''P''(''t''), the probability that a CMB photon last scattered between time ''t'' and  is given by ''P''(''t'')&thinsp;''dt''.
+Models of cosmic inflation predict that such gravitational waves should appear; thus, their detection supports the theory of inflation, and their strength can confirm and exclude different models of inflation.
+The CMB is well explained as radiation left over from an early stage in the development of the universe, and its discovery is considered a landmark test of the Big Bang model of the universe.
+According to the Big Bang model, the radiation from the sky we measure today comes from a spherical surface called ''the surface of last scattering''.
+The latter is caused by the peculiar velocity of the Earth relative to the comoving cosmic rest frame as the planet moves at some 371&nbsp;km/s towards the constellation Leo.
+This represents the set of locations in space at which the decoupling event is estimated to have occurred and at a point in time such that the photons from that distance have just reached observers.
+The depth of the LSS refers to the fact that the decoupling of the photons and baryons does not happen instantaneously, but instead requires an appreciable fraction of the age of the universe up to that era.
+In October 2014, a measurement of the B-mode polarization at 150&nbsp;GHz was published by the POLARBEAR experiment.
+For details about the reasoning that the radiation is evidence for the Big Bang, see Cosmic background radiation of the Big Bang.
+They predicted the CMB.
+The acoustic oscillations arise because of a conflict in the photon–baryon plasma in the early universe.
+It took another 15 years for Penzias and Wilson to stumble into discovering that the microwave background was actually there.
+The CMB photons are scattered by free charges such as electrons that are not bound in atoms.
+The CMB has a thermal black body spectrum at a temperature of .
+Although computing a power spectrum from a map is in principle a simple Fourier transform, decomposing the map of the sky into spherical harmonics, in practice it is hard to take the effects of noise and foreground sources into account.
+Had this been confirmed it would have provided strong evidence of cosmic inflation and the Big Bang,
+Even in the COBE map, it was observed that the quadrupole (''l'' = 2, spherical harmonic) has a low amplitude compared to the predictions of the Big Bang.
+A number of groups have suggested that this could be the signature of new physics at the greatest observable scales; other groups suspect systematic errors in the data.
+This is a very active field of study, with scientists seeking both better data (for example, the Planck spacecraft) and better interpretations of the initial conditions of expansion.
+Cosmologists predict two types of B-modes, the first generated during cosmic inflation shortly after the big bang,  and the second generated by gravitational lensing at later times.
+The estimates would yield very different predictions if Earth happened to be located elsewhere in the universe.
+In particular, the quadrupole and octupole (''l'' = 3) modes appear to have an unexplained alignment with each other and with both the ecliptic plane and equinoxes, an alignment sometimes referred to as the ''axis of evil''.
+The peaks correspond, roughly, to resonances in which the photons decouple when a particular mode is at its peak amplitude.
+The second peak was tentatively detected by several experiments before being definitively detected by WMAP, which has also tentatively detected the third peak.
+The map suggests the universe is slightly older than researchers thought.
+The most prominent of the foreground effects is the dipole anisotropy caused by the Sun's motion relative to the CMBR background.
+The first-year WMAP results put the time at which ''P''(''t'') has a maximum as 372,000 years.
+The imprint reflects ripples that arose as early, as the existence of the universe, as the first nonillionth of a second.
+Two other effects which occurred between reionization and our observations of the cosmic microwave background, and which appear to cause anisotropies, are the Sunyaev–Zel'dovich effect, where a cloud of high-energy electrons scatters the radiation, transferring some of its energy to the CMB photons, and the Sachs–Wolfe effect, which causes photons from the Cosmic Microwave Background to be gravitationally redshifted or blueshifted due to changing gravitational fields.
+The cosmic microwave background radiation and the cosmological redshift-distance relation are together regarded as the best available evidence for the Big Bang theory.
+Apparently, these ripples gave rise to the present vast cosmic web of galaxy clusters and dark matter.
+After receiving a telephone call from Crawford Hill, Dicke famously quipped: "Boys, we've been scooped."
+In the late 1940s Alpher and Herman reasoned that if there was a big bang, the expansion of the universe would have stretched and cooled the high-energy radiation of the very early universe into the microwave region of the electromagnetic spectrum, and down to a temperature of about 5&nbsp;K. They were slightly off with their estimate, but they had exactly the right idea.
+On 21 March 2013, the European-led research team behind the Planck cosmology probe released the mission's all-sky map ( 565x318 jpeg,  3600x1800 jpeg) of the cosmic microwave background.
+Since two different instruments recorded the same anomaly, instrumental error (but not foreground contamination) appears to be ruled out.
+Together with other cosmological data, these results implied that the geometry of the universe is flat.
+Cosmologists refer to the time period when neutral atoms first formed as the ''recombination epoch'', and the event shortly afterwards when photons started to travel freely through space rather than constantly being scattered by electrons and protons in plasma is referred to as photon decoupling.
+The primary goal of these experiments was to measure the angular scale of the first acoustic peak, for which COBE did not have sufficient resolution.
+As a result, most cosmologists consider the Big Bang model of the universe to be the best explanation for the CMB.
+Scientists are using data from the Planck mission by the European Space Agency,  to gain a better understanding of these waves.
+# Small scale anisotropies are erased.
+These measurements demonstrated that the geometry of the universe is approximately flat, rather than curved.
+Later analyses have pointed out that these are the modes most susceptible to foreground contamination from synchrotron, dust, and Bremsstrahlung emission, and from experimental uncertainty in the monopole and dipole.
+The next peak—ratio of the odd peaks to the even peaks—determines the reduced baryon density.
+When it originated some 380,000 years after the Big Bang—this time is generally known as the "time of last scattering" or the period of recombination or decoupling—the temperature of the universe was about 3000&nbsp;K. This corresponds to an energy of about 0.25&nbsp;eV, which is much less than the 13.6 eV ionization energy of hydrogen.
+The analyses were performed on two maps that have had the foregrounds removed as far as possible: the "internal linear combination" map of the WMAP collaboration and a similar map prepared by Max Tegmark and others.
+A full Bayesian analysis of the WMAP power spectrum demonstrates that the quadrupole prediction of Lambda-CDM cosmology is consistent with the data at the 10% level and that the observed octupole is not remarkable.
+Next, they depend on our being at a special spot at the edge of the Milky Way galaxy and they did not suggest the radiation is isotropic.
+These two effects compete to create acoustic oscillations, which give the microwave background its characteristic peak structure.
+# The physics of how photons are scattered by free electrons (Thomson scattering) induces polarization anisotropies on large angular scales.
+The CMB essentially confirms the Big Bang theory.
+The accidental discovery of the CMB in 1964 by American radio astronomers Arno Penzias and Robert Wilson was the culmination of work initiated in the 1940s, and earned the discoverers the 1978 Nobel Prize.
+A general density perturbation is a mixture of both, and different theories that purport to explain the primordial density perturbation spectrum predict different mixtures.
+The cosmic microwave background was first predicted in 1948 by Ralph Alpher, and Robert Herman.
+They have been measured in detail, and match what would be expected if small thermal variations, generated by quantum fluctuations of matter in a very tiny space, had expanded to the size of the observable universe we see today.
+The color temperature of the ensemble of decoupled photons has continued to diminish ever since; now down to , it will continue to drop as the universe expands.
+The temperature ''T''r of the CMB as a function of redshift, ''z'', can be shown to be proportional to the temperature of the CMB as observed in the present day (2.725&nbsp;K or 0.235 meV):
+A third space mission, the ESA (European Space Agency) Planck Surveyor, was launched in May 2009 and performed an even more detailed investigation until it was shut down in October 2013.
+Planck employs both HEMT radiometers and bolometer technology and will measure the CMB at a smaller scale than WMAP.
+Alpher and Herman were able to estimate the temperature of the cosmic microwave background to be 5&nbsp;K, though two years later they re-estimated it at 28&nbsp;K.  This high estimate was due to a mis-estimate of the Hubble constant by Alfred Behr, which could not be replicated and was later abandoned for the earlier estimate.
+The cosmic microwave background is polarized at the level of a few microkelvin.
+(Just as when looking at an object through fog, details of the object appear fuzzy.)
+The primary goal of these experiments was to measure the scale of the first acoustic peak, which COBE did not have sufficient resolution to resolve.
+As the universe expanded, adiabatic cooling caused the energy density of the plasma to decrease until it became favorable for electrons to combine with protons, forming hydrogen atoms.
+Penzias and Wilson received the 1978 Nobel Prize in Physics for their discovery.
+Primordial gravitational waves are gravitational waves that could be observed in the polarisation of the cosmic microwave background and having their origin in the early universe.
+With the increasingly precise data provided by WMAP, there have been a number of claims that the CMB exhibits anomalies, such as very large scale anisotropies, anomalous alignments, and non-Gaussian distributions.
+Today these free charges are at sufficiently low density in most of the volume of the universe that they do not measurably affect the CMB.
+The detailed provenance of this early ionizing radiation is still a matter of scientific debate.
+This is in analogy to electrostatics, in which the electric field (''E''-field) has a vanishing curl and the magnetic field (''B''-field) has a vanishing divergence.
+The ''surface of last scattering'' refers to the set of points in space at the right distance from us so that we are now receiving photons originally emitted from those points at the time of photon decoupling.
+DASI made the first detection of the polarization of the CMB and the CBI provided the first E-mode polarization spectrum with compelling evidence that it is out of phase with the T-mode spectrum.
+RELIKT-1, a Soviet cosmic microwave background anisotropy experiment on board the Prognoz 9 satellite (launched 1 July 1983) gave upper limits on the large-scale anisotropy.
+This broad angle polarization is correlated with the broad angle temperature perturbation.
+Alpher and Herman's prediction was rediscovered by Yakov Zel'dovich in the early 1960s, and independently predicted by Robert Dicke at the same time.
+Although there were several previous estimates of the temperature of space, these suffered from two flaws.
+As of 2010, several experiments to improve measurements of the polarization and the microwave background on small angular scales are ongoing.
+Using this model, and based on the study of narrow absorption line features in the spectra of stars, the astronomer Andrew McKellar wrote in 1941: "It can be calculated that the 'rotational temperature' of interstellar space is 2&nbsp;K." However, during the 1970s the consensus was established that the cosmic microwave background is a remnant of the big bang.
+When the universe was young, before the formation of stars and planets, it was denser, much hotter, and filled with a uniform glow from a white-hot fog of hydrogen plasma.
+This peak corresponds to large scale density variations in the early universe that are created by gravitational instabilities, resulting in acoustical oscillations in the plasma.
+This discovery may help  test theories on the origin of the universe.
+This glow is strongest in the microwave region of the radio spectrum.
+The CMB spectrum has become the most precisely measured black body spectrum in nature.
+The NASA COBE mission clearly confirmed the primary anisotropy with the Differential Microwave Radiometer instrument, publishing their findings in 1992.
+Cosmic strings would produce mostly isocurvature primordial perturbations.
+Compared to BICEP2, POLARBEAR focuses on a smaller patch of the sky and is less susceptible to dust effects.
+As photons did not interact with these electrically neutral atoms, the former began to travel freely through space, resulting in the decoupling of matter and radiation.
+Detecting the B-modes is extremely difficult, particularly as the degree of foreground contamination is unknown, and the weak gravitational lensing signal mixes the relatively strong E-mode signal with the B-mode signal.
+Coincidence is a possible explanation, chief scientist from WMAP, Charles L. Bennett suggested coincidence and human psychology were involved, ''"I do think there is a bit of a psychological effect; people want to find unusual things."''
+The CMB gives a snapshot of the universe when, according to standard cosmology, the temperature dropped enough to allow electrons and protons to form hydrogen atoms, thereby making the universe nearly transparent to radiation because light was no longer being scattered off free electrons.
+In June 2001, NASA launched a second CMB space mission, WMAP, to make much more precise measurements of the large scale anisotropies over the full sky.
+The most longstanding of these is the low-''l'' multipole controversy.

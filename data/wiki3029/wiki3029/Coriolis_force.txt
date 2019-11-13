@@ -1,0 +1,200 @@
+This was repeated and the results averaged to make sure the effect was real.
+Then, the turntable revolves an angle ω ''tf'' in this time.
+This is known as geostrophic flow.
+In meteorology and oceanography, it is convenient to postulate a rotating frame of reference wherein the Earth is stationary.
+In 1856, William Ferrel proposed the existence of a circulation cell in the mid-latitudes with air being deflected by the Coriolis force to create the prevailing westerly winds.
+In one with anticlockwise rotation, the force acts to the right.
+The inertial frame of reference provides one way to handle the question: calculate the time to interception, which is ''tf'' = ''R'' / ''v'' .
+This is what the Coriolis term accounts for on the previous paragraph.
+Though recognized previously by others, the mathematical expression for the Coriolis force appeared in an 1835 paper by French scientist Gaspard-Gustave de Coriolis, in connection with the theory of water wheels.
+An atmospheric system moving at ''U''&nbsp;=&nbsp; occupying a spatial distance of ''L''&nbsp;=&nbsp;, has a Rossby number of approximately 0.1.
+When a path curves away from radial, however, centrifugal force contributes significantly to deflection.
+On the left, two arrows locate the ball relative to the ball-thrower.
+The Coriolis force acts in a direction perpendicular to the rotation axis and to the velocity of the body in the rotating frame and is proportional to the object's speed in the rotating frame.
+This force is greater (by 0.34%) than the force that the passengers and the train experience when at rest (rotating along with Earth).
+The minus sign arises from the traditional definition of the cross product (right hand rule), and from the sign convention for angular velocity vectors.
+Hence, the only force acting on it is gravity and the reaction from the track.
+Analysis and observation of circular motion in the rotating frame is a simplification compared to analysis or observation of elliptical motion in the inertial frame.
+The traced ground path of a freely moving body travelling from one point to another therefore bends the opposite way, clockwise, which is conventionally labeled as "right," where it will be if the direction of motion is considered "ahead," and "down" is defined naturally.
+The figure illustrates a ball tossed from 12:00 o'clock toward the center of a counter-clockwise rotating carousel.
+Within each circle, plotted dots show the same time points.
+The report noted that the vortex rotated, "about 30,000 times faster than the effective rotation of the Earth in 42° North (the experiment's location)".
+By setting ''vn'' = 0, it can be seen immediately that (for positive φ and ω) a movement due east results in an acceleration due south.
+These additional forces are termed inertial forces, fictitious forces or ''pseudo forces''.
+From an analytical viewpoint, to use Newton's second law in a rotating system, the Coriolis force is mathematically necessary, but it disappears in a non-accelerating, inertial frame of reference.
+If the westward train in the above example increases speed, part of the force of gravity that pushes against the track accounts for the centripetal force needed to keep it in circular motion on the inertial frame.
+Because the Rossby number is low, the force balance is largely between the pressure gradient force acting towards the low-pressure area and the Coriolis force acting away from the center of the low pressure.
+Then, a vortex appeared and consistently began to rotate in an anticlockwise direction (the experiment was performed in Boston, Massachusetts, in the Northern Hemisphere).
+The Coriolis force minutely changes the trajectory of a bullet, curving the path of the projectile into a more arched 'semi-circle' shape.
+An important case where the Coriolis force is observed is the rotating Earth.
+In low-pressure systems, centrifugal force is negligible and balance is between Coriolis and pressure forces.
+(Those fired in the Southern Hemisphere landed to the left.)
+In long-range gunnery, sight corrections for the Earth's rotation are based upon the Coriolis force.
+The remaining force, as measured by a scale, makes the train and passengers "lighter" than in the previous case.
+The vibration, though not completely circular, provides the rotating reference frame that gives rise to the Coriolis effect.
+Early in the 20th century, the term ''Coriolis force'' began to be used in connection with meteorology.
+The force is proportional to the angular velocity (which determines the relative speed of two different points in the rotating frame of reference), and to the component of the velocity of the object in a plane perpendicular to the axis of rotation (which determines how quickly it moves between those points).
+Air within low-pressure systems rotates in the opposite direction, so that the Coriolis force is directed radially outward and nearly balances an inwardly radial pressure gradient.
+The Rossby number is the ratio of inertial to Coriolis forces.
+Coriolis divided these supplementary forces into two categories.
+In a manner of speaking, the Earth is analogous to such a turntable.
+Such features are in geostrophic balance, meaning that the Coriolis and ''pressure gradient'' forces balance each other.
+From the non-thrower's perspective, deflection is to the left.
+where  is the Coriolis parameter , introduced above (where  is the latitude).
+This causes a Coriolis force to act on the rim in such a way as to tilt the gyroscope at right angles to the direction that the external torque would have tilted it.
+The ''Coriolis effect'' is the behavior added by the ''Coriolis acceleration''.
+The centrifugal force acts outwards in the radial direction and is proportional to the distance of the body from the axis of the rotating frame.
+Newton's laws of motion describe the motion of an object in an inertial (non-accelerating) frame of reference.
+Straight-line paths are followed because the ball is in free flight, so this observer requires that no net force is applied.
+Note that the geostrophic balance is thus very different from the case of "inertial motions" (see below), which explains why mid-latitude cyclones are larger by an order of magnitude than inertial circle flow would be.
+For some angles of launch, a path has portions where the trajectory is approximately radial, and Coriolis force is primarily responsible for the apparent deflection of the ball (centrifugal force is radial from the center of rotation, and causes little deflection on these segments).
+Flies (Diptera) and some moths (Lepidoptera) exploit the Coriolis effect in flight with specialized appendages and organs that relay information about the angular velocity of their bodies.
+where  is called the Coriolis parameter.
+If a low-pressure area forms in the atmosphere, air tends to flow in towards it, but is deflected perpendicular to its velocity by the Coriolis force.
+Perhaps the most important impact of the Coriolis effect is in the large-scale dynamics of the oceans and the atmosphere.
+This effect is responsible for the rotation of large cyclones (see Coriolis effects in meteorology).
+Long-range shells in the Northern Hemisphere landed close to, but to the right of, where they were aimed until this was noted.
+There are other components of the Coriolis effect.
+The subject was later popularized in a famous 1962 article in the journal ''Nature'', which described an experiment in which all other forces to the system were removed by filling a  tank with  of water and allowing it to settle for 24 hours (to allow any movement due to filling the tank to die away), in a room where the temperature had stabilized.
+Similarly, setting ''ve'' = 0, it is seen that a movement due north results in an acceleration due east.
+Their relative importance is determined by the applicable Rossby numbers.
+A somewhat more complex situation is the idealized example of flight routes over long distances, where the centrifugal force of the path and aeronautical lift are countered by gravitational attraction.
+At position 2 the ball strikes the rail, and at position 3 the ball returns to the tosser.
+Once the train doubles its westward speed at 930&nbsp;m/s that centripetal force becomes equal to the force the train experiences when it stops.
+Any rotation around the plug hole that is initially present accelerates as water moves inward.
+The second category contained a force that arises from the cross product of the angular velocity of a coordinate system and the projection of a particle's velocity into a plane perpendicular to the system's axis of rotation.
+A centripetal force of this form causes the elliptical motion.
+This also gives a term .
+Thus, the force is the same cancelling completely the Eötvös effect.
+This shows that the small initial rotation due to the Earth is amplified by gravitational draining and conservation of angular momentum to become a rapid vortex and may be observed under carefully controlled laboratory conditions.
+Any object that moves westward at a speed above 930&nbsp;m/s experiences an upward force instead.
+The second is the change of velocity in space.
+In particular, besides the Coriolis acceleration, the centrifugal force plays an essential role.
+The image below illustrates the three cases in an inertial frame as observed from a fixed point above Earth along its axis of rotation:
+For example, in tornadoes, the Rossby number is large, in low-pressure systems it is low, and in oceanic systems it is around 1.
+In the right panel (stationary observer), the ball tosser (smiley face) is at 12 o'clock and the rail the ball bounces from is at position one (1).
+The spiraling wind pattern helps the hurricane form.
+Many of the ocean's largest currents circulate around warm, high-pressure areas called gyres.
+An object that is moving without being dragged along with this rotation travels in a straight motion over the turning Earth.
+Kinematics insists that a force (pushing to the ''right'' of the instantaneous direction of travel for a ''counter-clockwise'' rotation) must be present to cause this curvature, so the rotating observer is forced to invoke a combination of centrifugal and Coriolis forces to provide the net force required to cause the curved trajectory.
+Both forces are proportional to the mass of the object.
+On the carousel, instead of tossing the ball straight at a rail to bounce back, the tosser must throw the ball toward the right of the target and the ball then seems to the camera to bear continuously to the left of its direction of travel to hit the rail (''left'' because the carousel is turning ''clockwise'').
+The operating principle involves inducing a vibration of the tube through which the fluid passes.
+'', out) or downwards (''i.e.
+While specific methods vary according to the design of the flow meter, sensors monitor and analyze changes in frequency, phase shift, and amplitude of the vibrating flow tubes.
+The projections of the three-dimensional curved surface of the Earth to a two-dimensional surface (the map) necessarily results in distorted features.
+This additional force downwards should cause the train to be heavier while moving in that direction.
+One of these arrows is from the thrower to the center of the carousel (providing the ball-thrower's line of sight), and the other points from the center of the carousel to the ball.
+On a flat turntable, the inertia of a co-rotating object forces it off the edge.
+The most famous historical example was the Paris gun, used by the Germans during World War I to bombard Paris from a range of about .
+This force causes moving objects on the surface of the Earth to be deflected to the right (with respect to the direction of travel) in the Northern Hemisphere and to the left in the Southern Hemisphere.
+In addition, objects travelling upwards (''i.e.
+From the ball tosser's viewpoint, the ball seems to return more quickly than it went (because the tosser is rotating toward the ball on the return flight).
+If the rotating system is a parabolic turntable, then  is constant and the trajectories are exact circles.
+Of course, the Coriolis force does still impact the direction of the flow of water, but only minutely.
+Cyclones rarely form along the equator due to the weak Coriolis effect present in this region.
+where the vectors '''''i''''', '''''j''''', '''''k''''' are unit vectors in the ''x'', ''y'' and ''z'' directions.
+Coriolis referred to this force as the "compound centrifugal force" due to its analogies with the centrifugal force already considered in category one.
+The figure describes a more complex situation where the tossed ball on a turntable bounces off the edge of the carousel and then returns to the tosser, who catches the ball.
+Because ocean currents are driven by the movement of wind over the water's surface, the Coriolis force also affects the movement of  ocean currents and cyclones as well.
+A commonly encountered rotating reference frame is the Earth.
+The Coriolis parameter typically has a mid-latitude value of about 10−4 s−1; hence for a typical atmospheric speed of  the radius is , with a period of about 17&nbsp;hours.
+When Newton's laws are transformed to a rotating frame of reference, the Coriolis force and centrifugal force appear.
+: &nbsp; &nbsp; &nbsp;&nbsp;
+In moths, their antennae are responsible for the sensing of Coriolis forces in the similar manner as with the halteres in flies.
+An observer in a rotating frame, such as an astronaut in a rotating space station, very probably will find the interpretation of everyday life in terms of the Coriolis force accords more simply with intuition and experience than a cerebral reinterpretation of events from an inertial standpoint.
+The halteres oscillate in a plane at the same beat frequency as the main wings so that any body rotation results in lateral deviation of the halteres from their plane of motion.
+The figure shows a bird's-eye view based upon the same ball speed on forward and return paths.
+When an external torque is applied to a spinning gyroscope along an axis that is at right angles to the spin axis, the rim velocity that is associated with the spin becomes radially directed in relation to the external torque axis.
+The Coriolis effect can be considered in three cases: when the train travels west, when it is at rest, and when it travels east.
+In the Southern Hemisphere, the direction of movement is clockwise because the rotational dynamics is a mirror image there.
+The stability can result in orbits around just L4 or L5, known as Tadpole orbits, where trojans can be found.
+For an object to move in a straight line, it must accelerate so that its velocity changes from point to point by the same amount as the velocities of the frame of reference.
+The graph shows that the Eötvös effect is not symmetrical, and that the resulting downward force experienced by an object that travels west at high velocity is less than the resulting upward force when it travels east at the same speed.
+This leads to a mixing in molecular spectra between the rotational and vibrational levels, from which Coriolis coupling constants can be determined.
+From our rotating perspective on the planet, its direction of motion changes as it moves, bending in the opposite direction to our actual motion.
+Since vertical movement is usually of limited extent and duration, the size of the effect is smaller and requires precise instruments to detect.
+As a different case, consider equatorial motion setting φ = 0°.
+This tendency has the effect of keeping spinning bodies stably aligned in space.
+Tornadoes have high Rossby numbers, so, while tornado-associated centrifugal forces are quite substantial, Coriolis forces associated with tornadoes are for practical purposes negligible.
+* if the velocity is parallel to the rotation axis, the Coriolis acceleration is zero.
+On a rotating planet,  varies with latitude and the paths of particles do not form exact circles.
+The curved path demands this observer to recognize a leftward net force on the ball.
+Deflection of an object due to the Coriolis force is called the 'Coriolis effect'.
+In the left panel, from the camera's viewpoint at the center of rotation, the tosser (smiley face) and the rail both are at fixed locations, and the ball makes a very considerable arc on its travel toward the rail, and takes a more direct route on the way back.
+The Coriolis force is proportional to the rotation rate and the centrifugal force is proportional to its square.
+The drain plug was then very slowly removed, and tiny pieces of floating wood were used to observe rotation.
+This upward force makes the train seem lighter still than when at rest.
+These examples are described in more detail below.
+The force produced by this effect is similar to the horizontal component, but the much larger vertical forces due to gravity and pressure mean that it is generally unimportant dynamically.
+Contrary to popular misconception, water rotation in home bathrooms under ''normal'' circumstances is not related to the Coriolis effect or to the rotation of the Earth, and no consistent difference in rotation direction between toilet drainage in the Northern and Southern Hemispheres can be observed.
+In each case, the Coriolis effect can be calculated from the rotating frame of reference on Earth first, and then checked against a fixed inertial frame.
+This pattern of deflection, and the direction of movement, is called Buys-Ballot's law.
+'', in) are deflected to the west or east respectively.
+In both flies and moths, a collection of mechanosensors at the base of the appendage are sensitive to deviations at the beat frequency, correlating to rotation in the pitch and roll planes, and at twice the beat frequency, correlating to rotation in the yaw plane.
+The offset is because this argument uses the Earth's rotating frame of reference.
+On the right the ball is seen by an observer rotating with the carousel, so the ball-thrower appears to stay at 12:00 o'clock.
+Therefore, on the Earth's rotating frame the Coriolis term is pointed inwards towards the axis of rotation (down).
+A shifted version of the two arrows is shown dotted.
+As a result, in tornadoes the Coriolis force is negligible, and balance is between pressure and centrifugal forces.
+This effect is also the greatest near the equator.
+The effect of Coriolis force on its trajectory is shown again as seen by two observers: an observer (referred to as the "camera") that rotates with the carousel, and an inertial observer.
+For an ocean current with a typical speed of , the radius of an inertial circle is .
+As a result of the vibrations of the atoms, the atoms are in motion relative to the rotating coordinate system of the molecule.
+This also explains why high speed projectiles that travel west are deflected down, and those that travel east are deflected up.
+A system of equilibrium can then establish itself creating circular movement, or a cyclonic flow.
+As the Earth turns around its axis, everything attached to it turns with it (imperceptibly to our senses).
+A practical application of the Coriolis effect is the mass flow meter, an instrument that measures the mass flow rate and density of a fluid flowing through a tube.
+(See equatorial bulge.)
+In this case, because it moves in the direction of Earth's rotating frame, the Coriolis term is directed outward from the axis of rotation (up).
+The L4 and L5 points, although they correspond to maxima of the effective potential in the coordinate frame that rotates with the two large bodies, are stable due to the Coriolis effect.
+It is easy to get the impression from verbal discussions of the cannonball problem, which focus on displaying the Coriolis effect particularly, that the Coriolis force is the only factor that must be considered, but that is not so.
+To the stationary observer the ball follows a straight-line path, so there is no problem squaring this trajectory with zero net force.
+No discussion of Coriolis force can arrive at this solution as simply, so the reason to treat this problem is to demonstrate Coriolis formalism in an easily visualized situation.
+The other arrow of the pair locates the ball relative to the center of the carousel, providing the position of the ball as seen by the rotating observer.
+For example, consider two children on opposite sides of a spinning roundabout (Merry-go-round ), who are throwing a ball to each other.
+From the children's point of view, this ball's path is curved sideways by the Coriolis force.
+In polyatomic molecules, the molecule motion can be described by a rigid body rotation and internal vibration of atoms about their equilibrium position.
+However, the Coriolis force is a consequence of inertia, and is not attributable to an identifiable originating body, as is the case for electromagnetic or nuclear forces, for example.
+On the inertial frame, the bottom of the parabola is centered at the origin.
+The apparent curvature of the path is a consequence of the sphericity of the Earth and would occur even in a non-rotating frame.
+Imagine a train that travels through a frictionless railway line along the equator.
+Several science broadcasts and publications, including at least one college-level physics textbook, have also stated this.
+This aspect of the Coriolis effect is greatest near the equator.
+Air within high-pressure systems rotates in a direction such that the Coriolis force is directed radially inwards, and nearly balanced by the outwardly radial pressure gradient.
+As a result, air travels clockwise around high pressure in the Northern Hemisphere and anticlockwise in the Southern Hemisphere.
+By following this procedure for several positions, the trajectory in the rotating frame of reference is established as shown by the curved path in the right-hand panel.
+0.34% of the force of gravity provides the centripetal force needed to achieve the circular motion on that frame of reference.
+To get a view of the motions as seen from the reference frame rotating with the turntable, a video camera is attached to the turntable so as to co-rotate with the turntable, with results as shown in the figure.
+The time taken for the mass to complete a full circle is therefore .
+Only if the water is so still that the effective rotation rate of the Earth is faster than that of the water relative to its container, and if externally applied torques (such as might be caused by flow over an uneven bottom surface) are small enough, the Coriolis effect may indeed determine the direction of the vortex.
+In meteorology, a rotating frame (the Earth) with its Coriolis force provides a more natural framework for explanation of air movements than a non-rotating, inertial frame without Coriolis forces.
+The effects of the Coriolis force on ballistic trajectories should not be confused with the curvature of the paths of missiles, satellites, and similar objects when the paths are plotted on two-dimensional (flat) maps, such as the Mercator projection.
+The Coriolis force exists only when one uses a rotating reference frame.
+Since the train and its passengers are at rest, that would be the only component in that frame explaining again why the train and the passengers are lighter than in the previous two cases.
+(This arrow gets shorter as the ball approaches the center.)
+Unless otherwise stated, directions of forces and motion apply to the Northern Hemisphere.
+''For a mathematical formulation see Mathematical derivation of fictitious forces.''
+The ball's path through the air is straight when viewed by observers standing on the ground (right panel).
+A turntable for which the Coriolis force ''is'' the only factor is the parabolic turntable.
+The ball appears to bear to the left from direction of travel on both inward and return trajectories.
+Such frame would be rotating at twice the angular velocity as Earth's rotating frame.
+However, in the case of large changes of momentum, such as a spacecraft being launched into orbit, the effect becomes significant.
+Accordingly, an eastward motion (that is, in the same direction as the rotation of the sphere) provides an upward acceleration known as the Eötvös effect, and an upward motion produces an acceleration due west.
+Rather than flowing directly from areas of high pressure to low pressure, as they would in a non-rotating system, winds and currents tend to flow to the right of this direction north of the equator and to the left of this direction south of it.
+The restriction of the above to the horizontal plane is (setting ''vu''&nbsp;=&nbsp;0):
+The Coriolis effect strongly affects the large-scale oceanic and atmospheric circulation, leading to the formation of robust features like jet streams and western boundary currents.
+Late in the 19th century, the full extent of the large scale interaction of pressure gradient force and deflecting force that in the end causes air masses to move 'along' isobars was understood.
+This vertical component of the Coriolis effect is called the Eötvös effect.
+A local coordinate system is set up with the ''x'' axis horizontally due east, the ''y'' axis horizontally due north and the ''z'' axis vertically upwards.
+Similarly, a bullet does not fly straight from the barrel to a target.
+In the right panel, which shows the viewpoint of the rotating frame, the inward gravitational force in the rotating frame (the same force as in the inertial frame) is balanced by the outward centrifugal force (present only in the rotating frame).
+These results also can be obtained directly by two time differentiations of '''rB''' ''(t)''.
+The rotation has caused the planet to settle on a spheroid shape, such that the normal force, the gravitational force and the centrifugal force exactly balance each other on a "horizontal" surface.
+This difference is what the Coriolis effect accounts for in the rotating frame of reference.
+In a reference frame with clockwise rotation, the force acts to the left of the motion of the object.
+At high altitudes, outward-spreading air rotates in the opposite direction.
+These inertial circles are clockwise in the Northern Hemisphere (where trajectories are bent to the right) and anticlockwise in the Southern Hemisphere.
+In this case, '''Ω''' is parallel to the north or ''n''-axis, and:
+The changes observed represent the mass flow rate and density of the fluid.
+The rotation vector, velocity of movement and Coriolis acceleration expressed in this local coordinate system (listing components in the order east (''e''), north (''n'') and upward (''u'')) are:

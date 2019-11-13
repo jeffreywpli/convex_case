@@ -1,0 +1,200 @@
+All clues for a given row or column are listed, against its number, as separate sentences.
+For example, in one puzzle by Mel Taub, the answer ''IMPORTANT'' is given the clue "To bring worker into the country may prove significant".
+"Senselessness" is solved by "e", because "e" is what remains after removing (less) "ness" from "sense".
+Similarly, "Family members" would be a valid clue for ''AUNTS'' but not ''UNCLE'', while "More joyful" could clue ''HAPPIER'' but not ''HAPPIEST''.
+In 1925, the ''New York Times'' noted, with approval, a scathing critique of crosswords by ''The New Republic''; but concluded that "Fortunately, the question of whether the puzzles are beneficial or harmful is in no urgent need of an answer.
+Depending on the puzzle creator or the editor, this might be represented either with a question mark at the end of the clue or with a modifier such as "maybe" or "perhaps".
+A black-square usage of 10% is typical; Georges Perec compiled many 9×9 grids for Le Point with four or even three black squares.
+Another unusual theme requires the solver to use the answer to a clue as another clue.
+In more difficult puzzles, the indicator may be omitted, increasing ambiguity between a literal meaning and a wordplay meaning.
+Published under various trade names (including Code Breakers, Code Crackers, and Kaidoku), and not to be confused with cryptic crosswords (ciphertext puzzles are commonly known as cryptograms), a '''cipher crossword''' replaces the clues for each entry with clues for each white cell of the grid – an integer from 1 to 26 inclusive is printed in the corner of each.
+Even cipher crosswords have a Japanese equivalent, although pangrammaticity does not apply.
+The solutions given by the two lists may be different, in which case the solver must decide at the outset which list they are going to follow, or the solutions may be identical, in which case the straight clues offer additional help for a solver having difficulty with the cryptic clues.
+The solver is prompted to fold a page in half, showing the grid and the hard clues; the easy clues are tucked inside the fold, to be referenced if the solver gets stuck.
+An '''acrostic''' is a type of word puzzle, in eponymous acrostic form, that typically consists of two parts.
+Crossword puzzles became a regular weekly feature in the ''World,'' and spread to other newspapers; the ''Pittsburgh Press,'' for example, was publishing them at least as early as 1916 and the ''Boston Globe'' by 1917.
+Backwards words can be indicated by words like "climbing", "retreating", or "ascending" (depending on whether it is an across clue or a down clue) or by directional indicators such as "going North" (meaning upwards) or "West" (right-to-left); letters can be replaced or removed with indicators such as "nothing rather than excellence" (meaning replace E in a word with O); the letter ''I'' can be indicated by "me" or "one;" the letter ''O'' can be indicated by "nought", "nothing", "zero", or "a ring" (since it visually resembles one); the letter ''X'' might be clued as "a cross", or "ten" (as in the Roman numeral), or "an illiterate's signature", or "sounds like your old flame" (homophone for "ex").
+These programs, although they cannot create themes and cannot distinguish between "good" fill (fun, interesting words vs. dull obscurity), do speed up the process and will allow the constructor to realize if he or she has hit a dead end.
+Crosswords in England during the 19th century were of an elementary kind, apparently derived from the word square, a group of words arranged so the letters read alike vertically and horizontally, and printed in children's puzzle books and various periodicals.
+Determining which clue is to be applied to which grid is part of the puzzle.
+* Subtraction themes, the reverse of the above, where letters are removed to make a new word or phrase.
+This is similar to the notation used in the aforementioned ''Daily Mail Blankout'' puzzles.
+= ''CRITICAL MASSE'' (formed by taking the phrase "critical mass" and adding an "e" on the end.
+Also in 1925, ''Time Magazine'' noted that nine Manhattan dailies and fourteen other big newspapers were carrying crosswords, and quoted opposing views as to whether "This crossword craze will positively end by June!"
+* Compound themes, where the starts or ends of the theme entries can all precede or follow another word, which is given elsewhere in the puzzle.
+This ensures a proper name can have its initial capital letter checked with a non-capitalizable letter in the intersecting clue.
+In ''The New Yorker''s first issue, released in 1925, the "Jottings About Town" section wrote, "Judging from the number of solvers in the subway and "L" trains, the crossword puzzle bids fair to become a fad with New Yorkers."
+* Roman numerals, and arithmetic involving them, frequently appear as well; the clue "IV times III" (4×3) would yield ''XII'' (12).
+Sometimes newspapers publish one grid that can be filled by solving either of two lists of clues – usually a straight and a cryptic.
+Modern Hebrew is normally written with only the consonants; vowels are either understood, or entered as diacritical marks.
+By the 1920s, the crossword phenomenon was starting to attract notice.
+Cipher crosswords were invented in Germany in the 19th century.
+The answer is written in the clue: "maDE A Dug-out".
+Arrows indicate in which direction the clues have to be answered, vertical or horizontal.
+The objective, as any other crossword, is to determine the proper letter for each cell; in a cipher crossword, the 26 numbers serve as a cipher for those letters: cells that share matching numbers are filled with matching letters, and no two numbers stand for the same letter.
+Since the grid will typically have 180-degree rotational symmetry, the answers will need to be also: thus a typical 15×15 square American puzzle might have two 15-letter entries and two 13-letter entries that could be arranged appropriately in the grid (e.g., one 15-letter entry in the third row, and the other symmetrically in the 13th row; one 13-letter entry starting in the first square of the 6th row and the other ending in the last square of the 10th row).
+* The lowest word count in a published weekday-size 15x15 puzzle is the January 21, 2005 ''New York Times'' crossword by Frank Longo, with just 52 words, and was believed by ''Times'' crossword editor Will Shortz to be the world record for this type of puzzle.
+"What is it you're so keen about?"
+The odd number of squares on a side ensures that achieving symmetry is easier; with even-numbered puzzles the central block of four squares makes constructing a symmetrical puzzle considerably more difficult.
+Capitalization of answer letters is conventionally ignored; crossword puzzles are typically filled in, and their answer sheets are almost universally published in all caps, except in the rare cases of ambigrams.
+In cryptic crosswords (often called "cryptics"; in the UK, simply, "crosswords"), the clues are puzzles in themselves.
+The shaded squares are used to separate the words or phrases.
+Cryptics often include anagrams, as well.
+There are numerous other forms of wordplay found in cryptic clues.
+as the foundation of the combination of illustrated clues and other blocks of clues.
+Crossword grids elsewhere, such as in Britain, South Africa, India and Australia, have a lattice-like structure, with a higher percentage of shaded squares, leaving up to half the letters in an answer unchecked.
+Initially, some viewed the crossword puzzle with alarm, and some expected (even hoped)  that it would be a short-lived fad.
+The clue "Bigotry aside, I'd take him (9)" is solved by ''APARTHEID''.
+In most forms of the puzzle, the first letters of each correct clue answer, read in order from clue A on down the list, will spell out the author of the quote and the title of the work it is taken from; this can be used as an additional solving aid.
+= ''WRESTLING MATE''—"wrestling mat" with an "e" added on).
+Later, the name of the puzzle was changed to "crossword".
+Besides "cooked", other common hints that the clue contains an anagram are words such as "scrambled", "mixed up", "confused", "baked", or "twisted".
+The straight definition is "add up", meaning "totalize".
+Similarly, a clue such as "Right on the map" means ''EAST''.
+The ''Daily Mail Weekend'' magazine used to feature crossnumbers under the misnomer ''Number Word''.
+Crossword puzzle payments for standard 15×15 puzzles from the major outlets range from $50 (''GAMES Magazine'') to $200 (''The New York Times'') while payments for 21×21 puzzles range from $150 (''Newsday'') to $1,000 (''The New York Times'').
+For example, if the top row has an answer running all the way across, there will be no across answers in the second row.
+On May 14, 2007, he published his 66,666th crossword, equivalent to 2 million clues.
+Around the turn of the millennium, approximately half a dozen Swedish magazine publishers produced specialised crossword magazines, totaling more than twenty titles, often published on a monthly basis.
+Airoldi's puzzle was a four-by-four grid with no shaded squares; it included horizontal and vertical clues.
+They need not be symmetric and two-letter words are allowed, unlike in most English-language puzzles.
+The larger Sunday puzzle is approximately the same level of difficulty as a weekday-size Thursday puzzle.
+A variant of Italian crosswords does not use shaded squares: words are delimited by thickening the grid.
+A five volume set of his puzzles was released in February 2008.
+This is the only type of cryptic clue without wordplay—both parts of the clue are a straight definition.
+''ROMA'' could be clued as "Italia's capital", whereas the clue "Italy's capital" would indicate the English spelling ''Rome''.
+This puzzle is frequently cited as the first crossword puzzle, and Wynne as the inventor.
+"1 Horizontal" and "1 Vertical" and the like were names for the clues, the cross words, or the grid locations, interchangeably.
+This clue also takes advantage of the fact that in American-style crosswords, the initial letter of a clue is always capitalized, whether or not it is a proper noun.
+", with the abbreviation in the clue indicating that the answer is to be similarly abbreviated.
+For example, a puzzle with theme entries that begin with ''PAPER'', ''BALL'', and ''WATER'' and elsewhere in the puzzle, the word ''BOY'' clued as "Word that can follow the start of theme entries".
+All resultant entries must be valid words.
+Shaded cells are often replaced by boxes with clues – such crosswords are called Swedish puzzles or Swedish-style crosswords.
+In 1925, the New York Public Library reported that "The latest craze to strike libraries is the crossword puzzle," and complained that when "the puzzle 'fans' swarm to the dictionaries and encyclopedias so as to drive away readers and students who need these books in their daily work, can there be any doubt of the Library's duty to protect its legitimate readers?"
+In principle, each cryptic clue is usually sufficient to define its answer uniquely, so it should be possible to answer each clue without use of the grid.
+The term crossword first appeared in a dictionary in 1930.
+Fill-in crosswords may often have longer word length than regular crosswords to make the crossword easier to solve, and symmetry is often disregarded.
+He is one of only four setters to have provided cryptic puzzles to ''The Times'', ''The Daily Telegraph'', ''The Guardian'', the ''Financial Times'' and ''The Independent''.
+For example, "'''Dimmer, Allies'''" would make "'''Demoralise'''" or "'''You, ill, never, walk, alone'''" would become "'''You'll never walk alone'''".
+If a clue is in the past tense, so is the answer: thus "Traveled on horseback" would be a valid clue for the solution ''RODE'', but not for ''RIDE''.
+This kind of puzzle should not be confused with a different puzzle that the ''Daily Mail'' refers to as ''Cross Number''.
+The goal is to fill the white squares with letters, forming words or phrases, by solving clues which lead to the answers.
+Certain signs indicate different forms of wordplay.
+*Generally, most American puzzles are 15×15 squares; if another size, they typically have an odd number of rows and columns: e.g., 21×21 for "Sunday-size" puzzles; ''GAMES Magazine'' will accept 17×17 puzzles, Simon & Schuster accepts both 17×17 and 19×19 puzzles, and the ''New York Times'' requires diagramless puzzles to be 17×17.
+Other words relating to sound or hearing can be used to signal the presence of a homophone clue (e.g., "aloud", "audibly", "in conversation", etc.
+Often, a straight clue is not in itself sufficient to distinguish between several possible answers, either because multiple synonymous answers may fit or because the clue itself is a homonym (e.g., "Lead" as in to be ahead in a contest or "Lead" as in the element), so the solver must make use of ''checks'' to establish the correct answer with certainty.
+On December 21, 1913, Arthur Wynne, a journalist from Liverpool, England, published a "word-cross" puzzle in the ''New York World'' that embodied most of the features of the genre as we know it.
+A '''crossword''' is a word puzzle that normally takes the form of a square or a rectangular grid of white and black shaded squares.
+Additionally, nearly all newspapers publish crosswords of some kind, and at weekends often devote specialised sections in the paper to crosswords and similar type of pastime material.
+A '''fill-in crossword''' (also known as '''crusadex''' or '''cruzadex''') features a grid and the full list of words to be entered in that grid, but does not give explicit clues for where each word goes.
+Enthusiasts have compiled a number of record-setting achievements for the ''New York Times'' crossword, the most prestigious American-style crossword.
+I'll look up all the words starting with an 'M-U...' mus-musi-mur-murd—Hot Dog!
+In October 1922, newspapers published a comic strip by Clare Briggs entitled "Movie of a Man Doing the Cross-Word Puzzle," with an enthusiast muttering "87 across 'Northern Sea Bird'
+The title for the world's first crossword puzzle is disputed.
+Hm-m-m starts with an 'M', second letter is 'U'...
+For example, ''ETE'' (''été'', French for "summer") might be clued as "Summer, in the Sorbonne".
+The designer usually includes a hint to the metapuzzle.
+Rather than numbering the individual clues, the rows and columns are numbered as on a chessboard.
+In addition, it is considered advisable to minimize the number of so-called "cheater" black squares, i.e., black squares whose removal would not change the word count of the puzzle but which make it easier to fill by shortening the length of the words therein.
+In Great Britain and throughout much of the Commonwealth, cryptics of varying degrees of difficulty are featured in many newspapers.
+Two of the common ones are ''barred crosswords'', which use bold lines between squares (instead of shaded squares) to separate answers, and ''circular'' designs, with answers entered either radially or in concentric circles.
+Until 2006, the ''Atlantic Monthly'' regularly featured a cryptic crossword "puzzler" by Emily Cox and Henry Rathvon, which combines cryptic clues with diabolically ingenious variations on the construction of the puzzle itself.
+* "Before and after" clues feature one word that is part of two phrases, often designated with parentheses and brackets, e.g., ''(Doing ____) keeper'' = ''TIME''.
+The first editor of the ''New York Times'' crossword was Margaret Farrar, who was editor from 1942 to 1969.
+He also holds the record for the longest word ever used in a published crossword – the 58-letter Welsh town Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch clued as an anagram.
+The straight definition is "bigotry", and the wordplay explains itself, indicated by the word "take" (since one word "takes" another): "aside" means APART and I'd is simply ID, so APART and ID "take" HE (which is, in cryptic crossword usage, a perfectly good synonym for "him").
+* Non-dictionary phrases are also allowed in answers.
+The ''New York Times'' puzzles also set a common pattern for American crosswords by increasing in difficulty throughout the week: the Monday puzzles are the easiest and the puzzles get harder until Saturday.
+Originally Petherbridge called the two dimensions of the cross-word puzzle "Horizontal" and "Vertical".
+"Rosetta Stone", by Sam Bellotto Jr., incorporates a Caesar cipher cryptogram as the theme; the key to breaking the cipher is the answer to 1 Across.
+A variation is the ''Blankout'' puzzle in the ''Daily Mail Weekend'' magazine.
+A typical clue contains both a definition at the beginning or end of the clue and wordplay, which provides a way to manufacture the word indicated by the definition, and which may not parse logically.
+Some crossword clues, called ''straight'' or ''quick clues'', are simple definitions of the answers.
+Further, since Hebrew is written from right to left, but Roman numerals are used and written from left to right, there can be an ambiguity in the description of lengths of entries, particularly for multi-word phrases.
+It has been called the most popular word puzzle in many European countries, and is often called the Scandinavian crossword, as it is believed to have originated in Sweden.
+* "Pay addition", taken literally, clues ''BONUS''.
+The craze evidently is dying out fast and in a few months it will be forgotten."
+Both major evening dailies (''Aftonbladet'' and ''Expressen'') publish a weekly crossword supplement, named ''Kryss & Quiz'' and ''Korsord'' respectively.
+In such a puzzle one might see phrases such as ''WHAT'S UP'', ''AS IF'', or ''WHADDYA WANT''.
+Given the existing entries, '''SEED MONEY''' would also be unacceptable, as all the other theme entries ''end'' in the part of a tree as opposed to beginning with it, though the puzzle could certainly be changed to have a mix of words in different positions.
+Compilers strive to minimize use of shaded squares.
+Thus, the clue "Mocked" could result in the grid entry ''LAUGHED AT''.
+For example, the answer to the clue "PC key" for a three-letter answer could be ''ESC'', ''ALT'', ''TAB'', ''DEL'', or ''INS'', so until a ''check'' is filled in, giving at least one of the letters, the correct answer cannot be determined.
+In this clue, the initial capitalization further obscures whether the clue is referring to "nice" as in "pleasant" or "Nice" as in the French city.
+In the Japanese language crossword; because of the writing system, one syllable (typically katakana) is entered into each white cell of the grid rather than one letter, resulting in the typical solving grid seeming small in comparison to those of other languages.
+In cryptics, as fewer of the letters are typically checked and as there is usually no theme, grid construction is far easier, and the constructor focuses instead on the difficult task of creating clues that contain a straight definition, a cryptic definition, and a "surface" meaning (each clue must parse as a phrase).
+As these puzzles are closer to codes than quizzes, they require a different skillset; many basic cryptographic techniques, such as determining likely vowels, are key to solving these.
+The original series ended in 2007 after 258 volumes.
+Any second Yōon character is treated as a full syllable and is rarely written with a smaller character.
+"This odd-looking book with a pencil attached to it" was an instant hit and crossword puzzles became the craze of 1924.
+* The record for most crosswords published in the ''New York Times'' is held by Manny Nosowsky, who has had 241 puzzles in that outlet.
+Many puzzles feature clues involving wordplay which are to be taken metaphorically or in some sense other than their literal meaning, requiring some form of lateral thinking.
+In Poland, crosswords typically use British-style grids, but some do not have shaded cells.
+Here, "significant" is the straight definition (appearing here at the end of the clue), "to bring worker into the country" is the wordplay definition, and "may prove" serves to link the two.
+Crosswords with kanji to fill in are also produced, but in far smaller number as it takes far more effort to construct one.
+This generally aids solvers in that if they have one of the words then they can attempt to guess the phrase.
+Cryptics usually give the length of their answers in parentheses after the clue, which is especially useful with multi-word answers.
+There are also numerical fill-in crosswords.
+Most puzzle designs also require that all white cells be orthogonally contiguous (that is, connected in one mass through shared sides, to form a single polyomino).
+A '''crossnumber''' (also known as a cross-figure) is the numerical analogy of a crossword, in which the solutions to the clues are numbers instead of words.
+Similarly, '''FAMILY TREE''' would not be appropriate unless it were used as a ''revealer'' for the theme (frequently clued with a phrase along the lines "''...and a hint to...''").
+Diacritical markings in foreign loanwords (or foreign-language words appearing in English-language puzzles) are ignored for similar reasons.
+In both cases, no two puzzles are alike in construction, and the intent of the puzzle authors is to entertain with novelty, not to establish new variations of the crossword genre.
+In the hands of any but the most skilled constructors, the constraints of the American-style grid (in which every letter is checked) usually require a fair number of answers not to be dictionary words.
+The clues are not individually numbered, but given in terms of the rows and columns of the grid, which has rectangular symmetry.
+Crossword grids such as those appearing in most North American newspapers and magazines feature solid areas of white squares.
+Some of these puzzles follow the traditional symmetry rule, others have left-right mirror symmetry, and others have greater levels of symmetry or outlines suggesting other shapes.
+The list of clues gives hints of the locations of some of the shaded squares even before one starts solving them, e.g.
+Fitting together several long words is easier than fitting together several short words because there are fewer possibilities for how the long words intersect together.
+''Free form'' crosswords (''criss-cross'' puzzles), which have simple, asymmetric designs, are often seen on school worksheets, kids' menus, and other entertainment for children.
+This style of grid is used in several countries other than Sweden, usually in magazines with pages of A4 or similar size, but also in the daily newspapers, covering entire pages.
+Some clue examples:
+For example, "Made a dug-out, buried, and passed away (4)" is solved by ''DEAD''.
+In a vast majority of Polish crosswords, nouns are the only allowed words.
+The phrase "cross word puzzle" was first written in 1862 by Our Young Folks in the United States.
+Since 1993, they have been edited by Will Shortz, the fourth crossword editor in ''Times''.
+In practice, the use of checks is an important aid to the solver.
+Another type of wordplay used in cryptics is the use of homophones.
+The compensation structure of crosswords generally entails authors selling all rights to their puzzles upon publication, and as a result receiving no royalties from republication of their work in books or other forms.
+Ignoring all punctuation, "Ned T.'s seal" is an anagram for ''NEEDS SALT''.
+* A. N. Prahlada Rao, based in Bangalore, has composed some 30,000 crossword puzzles in the language Kannada, including 7,500 crosswords based on films made in Kannada, with a total of 1000,000 (Ten lakhs) clues.3334 His name has recorded in LIMCA BOOK OF RECORDS-2015 for creating highest crosswords in the Indian Regional Languages.His name has continued in the LIMCA BOOK OF RECORDS-2016 also.35
+The oldest extant crossword magazine published in Swedish is ''Krysset'' (from Bonnier), founded in 1957.
+For example, many weekday puzzles (such as the American ''New York Times'' crossword puzzle) are 15×15 squares, while weekend puzzles may be 21×21, 23×23, or 25×25.
+Later in the Times these terms commonly became "Across" and "Down" and notations for clues could either use the words or the letters "A" and "D", with or without hyphens.
+* "Half a dance" could clue ''CAN'' (half of ''CANCAN'') or ''CHA'' (half of ''CHACHA'').
+Every letter is checked, and usually each answer is required to contain at least three letters.
+The website Cruciverb.com provides numerous resources for constructors, including forums to discuss puzzles with other constructors, construction advice from experienced constructors, and specifications from the major publishers on how to submit puzzles to them and what their specific puzzle requirements are.
+Another crossword puzzle appeared on September 14, 1890, in the Italian magazine ''Il Secolo Illustrato della Domenica''.
+They can be clued as simply "Compass point", where the desired answer is determined by a combination of logic—since the third letter can be only E or W, and the second letter can be only N or S— and a process of elimination using checks.
+These puzzles usually have no symmetry in the grid and instead often rely on a common theme (literature, music, nature, geography, events of a special year, etc.)
+There are several types of wordplay used in cryptics.
+Nouns (including surnames) and the infinitive or past participle of verbs are allowed, as are abbreviations; in larger crosswords, it is customary to put at the center of the grid phrases made of two to four words, or forenames and surnames.
+The double meaning is commonly used as another form of wordplay.
+The solution to the meta is a similar phrase in which the middle word is "or": "FIGHT OR FLIGHT".
+Cryptics have a steeper learning curve than standard crosswords, as learning to interpret the different types of cryptic clues can take some practice.
+* Abbreviations, the use of a foreign language, variant spellings, or other unusual word tricks are indicated in the clue.
+The most prestigious (and among the most difficult to solve) are the ''New York Times'' puzzles.
+Puzzles are often one of several standard sizes.
+Numbers are almost never repeated; numbered cells are labeled consecutively, usually from left to right across each row, starting with the top row and proceeding downward.
+Some crossword designers have started including a metapuzzle, or "meta" for short: a second puzzle within the completed puzzle.
+Among various numbering schemes, the standard became that in which only the start squares of each word were numbered, from left to right and top to bottom.
+Most desirable are clues that are clean but deceptive, with a smooth ''surface reading'' (that is, the resulting clue looks as natural a phrase as possible).
+Note that in a cryptic clue, there is almost always only one answer that fits both the definition and the wordplay, so that when one sees the answer, one knows that it is the right answer—although it can sometimes be a challenge to figure out ''why'' it is the right answer.
+Another common clue type is the "hidden clue" or "container", where the answer is hidden in the text of the clue itself.
+Another variant starts with a blank grid: the solver must insert both the answers and the shaded squares, and Across and Down clues are either ordered by row and column or not ordered at all.
+In the United Kingdom, the ''Sunday Express'' was the first newspaper to publish a crossword on November 2, 1924, a Wynne puzzle adapted for the UK.
+Theme entries related to Jobs' life included ''MACINTOSH'', ''PIXAR'', ''THINK DIFFERENT'', ''CREATIVE GENIUS'', ''STEVE JOBS'', and ''APPLE''.
+In the 'Quick' crossword in the ''Daily Telegraph'' newspaper (Sunday and Daily, UK), it has become a convention also to make the first few words (usually two or three, but can be more) into a phrase.
+This is not a game at all, and it hardly can be called a sport... solvers get nothing out of it except a primitive form of mental exercise, and success or failure in any given attempt is equally irrelevant to mental development."
+For example, "(3,5)" after a clue indicates that the answer is composed of a three-letter word followed by a five-letter word.
+The grid often has one or more photos replacing a block of squares as a clue to one or several answers, for example, the name of a pop star, or some kind of rhyme or phrase that can be associated with the photo.
+The first is a set of lettered clues, each of which has numbered blanks representing the letters of the answer.
+Despite Japanese having three writing forms, hiragana, katakana and kanji, they are rarely mixed in a single crossword puzzle.
+or "The crossword puzzle is here to stay!"
+If the symmetry of the grid is given, the solver can use it to his/her advantage.
+As in France, they usually are not symmetrical; two-letter words are allowed; and the number of shaded squares is minimized.
+A crossword creator might choose to clue the answer ''SEN'' (as in the abbreviation for "senator") as "Washington bigwig: Abbr."
+Nicholas'', published since 1873.
+The "Swedish-Style" grid (picture crosswords) uses no clue numbers, as the clues are contained in the cells which would normally be shaded in other countries.
+In Italy, crosswords are usually oblong and larger than French ones, 13×21 being a common size.
+A variant of the double-clue list is commonly called ''Siamese Twins'': two matching grids are provided, and the two clue lists are merged such that the two clues for each entry are displayed together in random order.

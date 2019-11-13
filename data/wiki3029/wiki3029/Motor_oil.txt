@@ -1,0 +1,200 @@
+From there, this clean "base stock" is blended with some virgin base stock and a new additives package to make a finished lubricant product that can be just as effective as lubricants made with all-virgin oil.
+Note, if any VIIs are used however, then that oil cannot be labeled as a single grade.
+PTFE is a very soft material, thus its friction coefficient becomes worse than that of hardened steel-to-steel mating surfaces under common loads.
+Also, in many vehicles engine "sludge" from longer oil change intervals has become a problem and led to very costly repairs sometimes including complete engine overhauls.
+API and ILSAC, which represents most of the world's major automobile/engine manufacturers, state API SM/ILSAC GF-4 is fully backwards compatible, and it is noted that one of the engine tests required for API SM, the Sequence IVA, is a sliding tappet design to test specifically for cam wear protection.
+Calcium sulfonates additives are also added to protect motor oil from oxidative breakdown and to prevent the formation of sludge and varnish deposits.
+The use of synthetic lubricants widened through the 1950s and 1960s owing to a property at the other end of the temperature spectrum, the ability to lubricate aviation engines at temperatures that caused mineral-based lubricants to break down.
+The API oil classification structure has eliminated specific support for wet-clutch motorcycle applications in their descriptors, and API SJ and newer oils are referred to be specific to automobile and light truck use.
+In modern vehicle engines, the oil pump takes oil from the oil pan and sends it through the oil filter into oil galleries, from which the oil lubricates the main bearings holding the crankshaft up at the main journals and camshaft bearings operating the valves.
+Test results indicate satisfactory performance from the oils tested.
+Such particles could circulate in the oil and grind against the part surfaces causing wear.
+All previous service designations are obsolete, although motorcycle oils commonly still use the SF/SG standard.
+Currently there are ashless oil lubricants without these additives, which can only fulfill the qualities of the previous generation with more expensive basestock and more expensive organic or organometallic additive compounds.
+The oil then drips back down into the oil pan.
+There is controversy as to the actual effectiveness of these products, as they can coagulate and clog the oil filter and tiny oil passages in the engine.
+Should the reserve alkalinity decline to zero, those acids form and corrode the engine.
+The rapid growth of non-Newtonian multigraded oils has rendered kinematic viscosity as a nearly useless parameter for characterising "real" viscosity in critical zones of an engine...
+The International Lubricant Standardization and Approval Committee (ILSAC) also has standards for motor oil.
+The development of canola-based motor oils began in 1996 in order to pursue environmentally friendly products.
+Another class of base oils suited for engine oil are the polyalkylene glycols.
+This is still an active debate within the industry however and service technicians still recommend 3000 or 5000 miles service intervals in the conservative North American market, as it suits the customer to have their vehicle inspected regularly in order to prevent larger problems from developing (for example slight coolant leaks left unnoticed could lead to an overheat condition).
+The bulk of a typical motor oil consists of hydrocarbons with between 18 and 34 carbon atoms per molecule.
+The longer it takes, the higher the viscosity and thus higher SAE code.
+Larger two-stroke engines used in boats and motorcycles may have a more economical oil injection system rather than oil pre-mixed into the gasoline.
+Group III base stocks are produced by further hydrocracking of either Group II base stocks or hydroisomerized slack wax (a Group I and II dewaxing process by-product).
+Another aspect for after-treatment devices is the deposition of oil ash, which increases the exhaust back pressure and reduces fuel economy over time.
+Synthetic oils are derived from either Group III, Group IV, or some Group V bases.
+Engine oil which has been tested and meets the API standards may display the API Service Symbol (also known as the "Donut") with the service designation on containers sold to oil users.
+The motor oil and especially the additives also undergo thermal and mechanical degradation, which reduce the viscosity and reserve alkalinity of the oil.
+Higher purity and therefore better property control theoretically means synthetic oil has better mechanical properties at extremes of high and low temperatures.
+In anticipation of new lower engine oil viscosity grades, to avoid confusion with the "winter" grades of oil the SAE adopted SAE 16 as a standard to follow SAE 20 instead of SAE 15.
+For example, in API SG rated oils, this was at the 1200-1300 ppm level for zinc and phosphorus, where the current SM is under 600 ppm.
+Oil of this nature, just sitting in an engine, can cause problems.
+), GM 3.8 L V-6 at , 3,600&nbsp;rpm, and 150&nbsp;°C (300&nbsp;°F) oil temperature for 100 hours.
+There are three main ways that motor oil affects plants: contaminating water supplies, contaminating soil, and poisoning plants.
+Some manufacturers address this (for example, BMW and VW with their respective long-life standards), while others do not.
+Finally, the wax is subjected to a catalytic process that alters the wax's molecular structure, leaving a clear oil.
+That oil cannot be labeled as either 0W or 10W.
+The plastic is melted and then pumped into a furnace.
+The same SAE system for designating motor oil viscosity also applies to synthetic oils.
+Engine oils bearing the API starburst symbol since 2005 are ILSAC GF-4 compliant.
+There are other additives available commercially which can be added to the oil by the user for purported additional benefit.
+Motor oil may also serve as a cooling agent.
+But in the vast majority of vehicle applications, mineral oil based lubricants, fortified with additives and with the benefit of over a century of development, continue to be the predominant lubricant for most internal combustion engine applications.
+Synthetic lubricants were first synthesized, or man-made, in significant quantities as replacements for mineral lubricants (and fuels) by German scientists in the late 1930s and early 1940s because of their lack of sufficient quantities of crude for their (primarily military) needs.
+The SN standard refers to a group of laboratory and engine tests, including the latest series for control of high-temperature deposits.
+In fact, it is the norm for all diesel rated engine oils to carry the "corresponding" gasoline specification.
+He eventually abandoned the medical practice to devote his time to the development of an all-petroleum, high viscosity lubricant for steam engines – then using inefficient combinations of petroleum and animal and vegetable fats.
+Due to its high viscosity, motor oil is not always the preferred oil for certain applications.
+* EP additives, like zinc dialkyldithiophosphate (ZDDP) additives and sulfonates, preferably calcium sulfonates, are available to consumers for additional protection under extreme-pressure conditions or in heavy duty performance situations.
+Biodegradable Motor Oils based on esters or hydrocarbon-ester blends appeared in the 1990s followed by formulations beginning in 2000 which respond to the bio-no-tox-criteria of the European preparations directive (EC/1999/45).
+An example is lubricating oil for four-stroke or four-cycle internal combustion engines such as those used in portable electricity generators and "walk behind" lawn mowers.
+There are those who are disappointed that the twelve-year effort has not resulted in a redefinition of the SAE J300 Engine Oil Viscosity Classification document so as to express high-temperature viscosity of the various grades ...
+Main advantage was very low price and wide availability (sulfonates were originally waste byproducts).
+The JASO T904-MA and MA2 standards are designed to distinguish oils that are approved for wet clutch use, with MA2 lubricants delivering higher friction performance.
+Most commercial oils have a minimal amount of zinc dialkyldithiophosphate as an anti-wear additive to protect contacting metal surfaces with zinc and other compounds in case of metal to metal contact.
+The ''pour point'' defined first this property of motor oil, as defined by ASTM D97 as "...&nbsp;an index of the lowest temperature of its utility&nbsp;..." for a given application, but the "cold cranking simulator" (CCS, see ASTM D5293-08) and "Mini-Rotary Viscometer" (MRV, see ASTM D3829-02(2007), ASTM D4684-08) are today the properties required in motor oil specs and define the SAE classifications.
+For single non-winter grade oils, the kinematic viscosity is measured at a temperature of 100&nbsp;°C (212&nbsp;°F) in units of mm2/s (millimeter squared per second) or the equivalent older non-SI units, centistokes (abbreviated cSt).
+In diesel engines the top ring can expose the oil to temperatures over 315&nbsp;°C (600&nbsp;°F).
+Working with the USDA, a California-based company Biosynthetic Technologies has developed a high performance “drop-in” biosynthetic oil using Estolide technology for use in motor oils and industrial lubricants.
+Not everyone is in agreement with backwards compatibility, and in addition, there are special situations, such as "performance" engines or fully race built engines, where the engine protection requirements are above and beyond API/ILSAC requirements.
+The United States Environmental Protection Agency (EPA) defines re-refined products as containing at least 25% re-refined base stock, but other standards are significantly higher.
+The SAE designation for multi-grade oils includes two viscosity grades; for example, ''10W-30'' designates a common multi-grade oil.
+For example, API CJ-4 will almost always list either SL or SM, API CI-4 with SL, API CH-4 with SJ, and so on.
+It also wears away those parts, which could lead to lower efficiency and degradation of the engine.
+Lubricant base stocks are categorized into five groups by the API.
+To bring the difference in viscosities closer together, special polymer additives called viscosity index improvers, or VIIs are added to the oil.
+Distribution to larger users (such as drive-through oil change shops) is often in bulk, by tanker truck or in  drums.
+A modern typical application would be Honda motor's use of 5W-20 (and on their newest vehicles, 0W-20) viscosity oil for 12,000&nbsp;km (7,500&nbsp;mi).
+The viscosity index is a measure of how much the oil's viscosity changes as temperature changes.
+Group V is a catch-all group for any base stock not described by Groups I to IV.
+The JASO T904-MB standard denotes oils not suitable for wet clutch use, and are therefore used in scooters equipped with continuously variable transmissions.
+To help consumers recognize that an oil meets the ILSAC requirements, API developed a "starburst" certification mark.
+This enables one type of oil to be used all year.
+This increases fuel consumption, decreases power output, and can lead to engine failure.
+The first number '10W' is the viscosity of the oil at cold temperature and the second number is the viscosity at 100&nbsp;°C (212&nbsp;°F).
+It is possible for an oil to conform to both the gasoline and diesel standards.
+Also, if an oil does not contain any VIIs, and can pass as a multi-grade, that oil can be labelled with either of the two SAE viscosity grades.
+The oil in a motor oil product does break down and burns as it is used in an engine&nbsp;— it also gets contaminated with particles and chemicals that make it a less effective lubricant.
+The USDA National Center for Agricultural Utilization Research developed an Estolide lubricant technology made from vegetable and animal oils.
+One gallon of used oil can create an eight-acre slick on surface water, threatening fish, waterfowl and other aquatic life.
+Many manufacturers have varying requirements and have designations for motor oil they require to be used.
+The API sets minimum for performance standards for lubricants.
+On top of that many manufactures are now using turbochargers and lack of proper lubrication is the primary cause of premature turbo failure.
+The oil is able to trap soot from combustion in itself, rather than leaving it deposited on the internal surfaces.
+Environmental legislation for leisure marine applications, especially in Europe, encouraged the use of ester-based two cycle oil.
+Motor oil is used for the lubrication, cooling, and cleaning of internal combustion engines.
+The numbers 0, 5, 10, 15 and 25 are suffixed with the letter W, designating they are "winter" (not "weight") or cold-start viscosity, at lower temperature.
+PTFE is used in composition of sliding bearings where it improves lubrication under relatively light load until the oil pressure builds up to full hydrodynamic lubricating conditions.
+In petrol (gasoline) engines, the top piston ring can expose the motor oil to temperatures of 160&nbsp;°C (320&nbsp;°F).
+The IIIG test is about 50% more difficult than the previous IIIF test, used in GF-3 and API SL oils.
+All the current gasoline categories (including the obsolete SH) have placed limitations on the phosphorus content for certain SAE viscosity grades (the xW-20, xW-30) due to the chemical poisoning that phosphorus has on catalytic converters.
+Lubricating oil creates a separating film between surfaces of adjacent moving parts to minimize direct contact between them, decreasing heat caused by friction and reducing wear, thus protecting the engine.
+the oil has to reach its designed temperature range before it can protect the engine under high load.
+Cold weather has a thickening effect on conventional oil, and this is one reason lighter weight oils are manufacturer recommended in places with cold winters.
+Non-smoking two-stroke oils are composed of esters or polyglycols.
+In general, unless specified by the manufacturer, heavier weight oils are not necessarily better than lighter weight oils; heavy oils tend to stick longer to parts between two moving surfaces, and this degrades the oil faster than a lighter weight oil that flows better, allowing fresh oil in its place sooner.
+Some applications make use of lighter products such as WD-40, when a lighter oil is desired, or honing oil if the desired viscosity needs to be mid-range.
+In fact, when multi-grades were initially developed, they were frequently described as ''all-season oil''.
+Lubrizol, a supplier of additives to nearly all motor oil companies, hosts a Relative Performance Tool which directly compares the manufacturer and industry specs.
+Estolides have shown great promise in a wide range of applications, including engine lubricants.
+These numbers are often referred to as the "weight" of a motor oil, and single-grade motor oils are often called "straight-weight" oils.
+So, periodic oil and filter changes should still be done with synthetic oil; but some synthetic oil suppliers suggest that the intervals between oil changes can be longer, sometimes as long as 16,000-24,000&nbsp;km (10,000–15,000&nbsp;mi) primarily due to reduced degradation by oxidation.
+Lower viscosity oils are common in newer vehicles.
+Some manufacturers continue to use obsolete designations such as CC for small or stationary diesel engines.
+Reserve alkalinity is the ability of the oil to resist formation of acids.
+A new process to break down polyethylene, a common plastic product found in many consumer containers, is used to make a paraffin-like wax with the correct molecular properties for conversion into a lubricant, bypassing the expensive Fischer-Tropsch process.
+Both were the main basis of additive packages used by lubricant manufacturers up until the 1990s when the need for ashless additives arose.
+Used motor oil dumped on land reduces soil productivity.
+Most engines built before 1985 have the flat/cleave bearing style systems of construction, which is sensitive to reducing zinc and phosphorus.
+Coating metal parts with oil also keeps them from being exposed to oxygen, inhibiting oxidation at elevated operating temperatures preventing rust or corrosion.
+The higher numbers of a gear oil (e.g., 75W-140) do not mean that it has higher viscosity than an engine oil.
+In addition to the viscosity index improvers, motor oil manufacturers often include other additives such as detergents and dispersants to help keep the engine clean by minimizing sludge buildup, corrosion inhibitors, and alkaline additives to neutralize acidic oxidation products of the oil.
+The viscosity of a liquid can be thought of as its "thickness" or a measure of its resistance to flow.
+He made his breakthrough when he developed an oil that worked effectively in high temperatures.
+This lack of lubrication can be caused by sludge build up in the oil lines causing restriction of flow and/or simply low oil levels.
+Motor oil may be composed of a lubricant base stock only in the case of non-detergent oil, or a lubricant base stock plus additives to improve the oil's detergency, extreme pressure performance, and ability to inhibit corrosion of engine parts.
+Many motor oils also have detergents and dispersants added to help keep the engine clean and minimize oil sludge build-up.
+Based on the coldest temperature the oil passes at, that oil is graded as SAE viscosity grade 0W, 5W, 10W, 15W, 20W, or 25W.
+Tests show that fully synthetic oil is superior in extreme service conditions to conventional oil, and may perform better for longer under standard conditions.
+By far, the greatest cause of motor oil pollution in our oceans comes from drains and urban street runoff, much of which is from improper disposal of engine oil.
+Phosphorus is a key anti-wear component in motor oil and is usually found in motor oil in the form of zinc dithiophosphate (ZDDP).
+The base oils of some high-performance motor oils contain up to 20% by weight of esters.
+Examples of group V base stocks include polyolesters (POE), polyalkylene glycols (PAG), and perfluoropolyalkylethers (PFPAEs).
+A key new test for GF-4, which is also required for API SM, is the Sequence IIIG, which involves running a 3.8&nbsp;L (232&nbsp;c.i.d.
+In use, motor oil transfers heat through convection as it flows through the engine by means of air flow over the surface of the oil pan, an oil cooler and through the buildup of oil gases evacuated by the Positive Crankcase Ventilation (PCV) system.
+SAE J300 has established eleven viscosity grades, of which six are considered Winter-grades and given a W designation.
+The 11 viscosity grades are 0W, 5W, 10W, 15W, 20W, 25W, 20, 30, 40, 50, and 60.
+Corrosion inhibitors may also be added to the motor oil.
+The oil filter removes many of the particles and sludge, but eventually the oil filter can become clogged, if used for extremely long periods.
+The NOACK volatility (ASTM D-5800) Test determines the physical evaporation loss of lubricants in high temperature service.
+This reduction in anti-wear chemicals in oil has caused premature failures of camshafts and other high pressure bearings in many older automobiles and has been blamed for premature failure of the oil pump drive/cam position sensor gear that is meshed with camshaft gear in some modern engines.
+In 1873 Ellis officially renamed the company to Valvoline after the steam engine valves the product lubricated.
+On the other hand, if a car is driven just for very short distances, the oil is not allowed to fully heat-up, and contaminants such as water accumulates in the oil, due to lack of sufficient heat to boil off the water.
+The resulting quantity is determined as mg KOH/ (gram of lubricant).
+These additives are used to make the oil a ''multi-grade'' motor oil, though it is possible to have a multi-grade oil without the use of VIIs.
+For GF-4, a Sequence VIB Fuel Economy Test (ASTM D6837) is required that is not required in API service category SM.
+Some of these additives include:
+In engines, there is some exposure of the oil to products of internal combustion, and microscopic coke particles from black soot accumulate in the oil during operation.
+Thus, although the viscosity still decreases as temperature increases, these synthetic motor oils have a higher viscosity index over the traditional petroleum base.
+The oil properties will vary according to the individual needs of these devices.
+The difference in viscosities for most single-grade oil is too large between the extremes of temperature.
+They are the Cold Cranking Simulator (ASTMD5293) and the Mini-Rotary Viscometer (ASTM D4684).
+This remains a problem, although it has encouraged many vintage car owners to investigate newer technology oil seals for their engines so that they can take advantage of the properties of synthetic oils.
+From these holes in the main journals, the oil moves through passageways inside the crankshaft to exit holes in the rod journals to lubricate the rod bearings and connecting rods.
+Some new oils are not formulated to provide the level of protection of previous generations to save manufacturing costs.
+The heat of the furnace breaks down the molecular chains of polyethylene into wax.
+The latest API service standard designation is SN for gasoline automobile and light-truck engines.
+Due to its chemical composition, world-wide dispersion and effects on the environment, used motor oil is considered a serious environmental problem.
+The temperature range the oil is exposed to in most vehicles can be wide, ranging from cold temperatures in the winter before the vehicle is started up, to hot operating temperatures when the vehicle is fully warmed up in hot summer weather.
+This biosynthetic oil American Petroleum Institute (API) has the potential to greatly reduce environmental challenges associated with petroleum.
+These are much more severe conditions than any API-specified oil was designed for: cars which typically push their oil temperature consistently above 100&nbsp;°C (212&nbsp;°F) are most turbocharged engines, along with most engines of European or Japanese origin, particularly small capacity, high power output.
+Motor oils are derived from petroleum-based and non-petroleum-synthesized chemical compounds.
+Other tests include zinc, phosphorus, or sulfur content, and testing for excessive foaming.
+The viscosity must be high enough to maintain a lubricating film, but low enough that the oil can flow around the engine parts under all conditions.
+Groups I and II are commonly referred to as mineral oils, group III is typically referred to as synthetic (except in Germany and Japan, where they must not be called synthetic) and group IV is a synthetic oil.
+Another manipulated property of motor oil is its Total base number (TBN), which is a measurement of the reserve alkalinity of an oil, meaning its ability to neutralize acids.
+A single-grade engine oil, as defined by SAE J300, cannot use a polymeric Viscosity Index Improver (also referred to as Viscosity Modifier) additive.
+The number 20 comes with or without a W, depending on whether it is being used to denote a cold or hot viscosity grade.
+The engine user can, in replacing the oil, adjust the viscosity for the ambient temperature change, thicker for summer heat and thinner for the winter cold.
+The quantity of zinc dialkyldithiophosphate is limited to minimize adverse effect on catalytic converters.
+The Society of Automotive Engineers (SAE) has established a numerical code system for grading motor oils according to their viscosity characteristics.
+In addition, for SAE grades 20, 30, and 1000, a minimum viscosity measured at 150&nbsp;°C (302&nbsp;°F) and at a high-shear rate is also required.
+It is a combination of this, and some singeing that turns used oil black after some running.
+They offer zero-ash, bio-no-tox properties and lean burn characteristics.
+This has led to a campaign by the California EPA against the 3,000 mile myth, promoting vehicle manufacturer's recommendations for oil change intervals over those of the oil change industry.
+In the crankcase of a vehicle engine, motor oil lubricates rotating or sliding surfaces between the crankshaft journal bearings (main bearings and big-end bearings), and rods connecting the pistons to the crankshaft.
+Accordingly, motorcycle oils are subject to their own unique standards.
+In engines, there are parts which move against each other, and the friction wastes otherwise useful power by converting the kinetic energy to heat.
+Owners of cars, especially older and vintage automobiles, found that their cars, that did not leak using conventional oils, suddenly had leaks all over with the synthetic oils.
+Over 40% of the pollution in America's waterways is from used motor oil.
+However, they still fill up with particulate matter, although the matter better suspends within the oil, and the oil filter still fills and clogs up over time.
+By the mid-1980s, recommended viscosities had moved down to 10W-30, primarily to improve fuel efficiency.
+Bio-based oils existed prior to the development of petroleum-based oils in the 19th century.
+Most motor oils are made from a heavier, thicker petroleum hydrocarbon base stock derived from crude oil, with additives to improve certain properties.
+In some small engines such as lawn mower engines, dippers on the bottoms of connecting rods dip into the oil at the bottom and splash it around the crankcase as needed to lubricate parts inside.
+In the view of this writer, this redefinition did not occur because the automotive lubricant market knows of no field failures unambiguously attributable to insufficient HTHS oil viscosity.
+For four-stroke gasoline engines, the JASO T904 standard is used, and is particularly relevant to motorcycle engines.
+Group V base oils are so diverse that there is no catch-all description.
+Motor oil can have an incredibly detrimental effect on the environment, particularly to plants that depend on healthy soil to grow.
+One element of the JASO-MA standard is a friction test designed to determine suitability for wet clutch usage.
+Each new API category has placed successively lower phosphorus and zinc limits, and thus has created a controversial issue of obsolescent oils needed for older engines, especially engines with sliding (flat/cleave) tappets.
+An oil pump, a vane or gear pump powered by the engine, pumps the oil throughout the engine, including the oil filter.
+Group II base stocks are composed of fractionally distilled petroleum that has been hydrocracked to further refine and purify it.
+Toxic effects of used oil on freshwater and marine organisms vary, but significant long-term effects have been found at concentrations of 310 ppm in several freshwater fish species and as low as 1 ppm in marine life forms.
+The API service classes have two general classifications: ''S'' for "service/spark ignition" (typical passenger cars and light trucks using gasoline engines), and ''C'' for "commercial/compression ignition" (typical diesel equipment).
+As discussed above, motorcycle oils commonly still use the obsolescent SF/SG standard.
+A common problem encountered when people began switching to synthetic oils was leakage.
+This oil film also serves as a seal between the piston rings and cylinder walls to separate the combustion chamber in the cylinder head from the crankcase.
+* Some molybdenum disulfide containing additives to lubricating oils are claimed to reduce friction, bond to metal, or have anti-wear properties.
+This slope representing the change with temperature depends on the nature and amount of the additives to the base oil.
+In addition, API created a separated CI-4 PLUS designation in conjunction with CJ-4 and CI-4 for oils that meet certain extra requirements, and this marking is located in the lower portion of the API Service Symbol "Donut".
+Engine designs are evolving to allow the use of low-viscosity oils without the risk of excessive metal-to-metal abrasion, principally in the cam and valve mechanism, new 0W-16 oils are also being developed and some are already on sale, on April 1, 2013  the Society of Automotive Engineers (SAE) introduced the 16 viscosity rating, various 0W-16 oils are being developed and some are already in the market, the main and only purpose of this new viscosity rating is further increasing fuel economy standards.
+They have become the subject of renewed interest with the advent of bio-fuels and the push for green products.
+The molecules are made large and "soft" enough to retain good viscosity at higher temperatures, yet branched molecular structures interfere with solidification and therefore allow flow at lower temperatures.
+Also, Teflon alone has little to no ability to firmly stick on a sheared surface, unlike molybdenum disulfide, for example.
+A review on the status of bio-based motor oils and base oils globally, as well as in the U.S, shows how bio-based lubricants show promise in augmenting the current petroleum-based supply of lubricating materials, as well as replacing it in many cases.
+Oils marketed as motorcycle-specific will carry the JASO-MA label.
+Motor oil is a lubricant used in internal combustion engines, which power cars, motorcycles,  lawnmowers, engine-generators, and many other machines.
+A maximum of 14% evaporation loss is allowable to meet API SL and ILSAC GF-3 specifications.

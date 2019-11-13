@@ -1,0 +1,200 @@
+Wave optics was successfully unified with electromagnetic theory by James Clerk Maxwell in the 1860s.
+The ancient Romans and Greeks filled glass spheres with water to make lenses.
+where ''n'' is the index of refraction and ''c'' is the speed of light in a vacuum.
+With many propagators including Democritus, Epicurus, Aristotle and their followers, this theory seems to have some contact with modern theories of what vision really is, but it remained only speculation lacking any experimental foundation.
+Light waves are now generally treated as electromagnetic waves except when quantum mechanical effects have to be considered.
+Examples of the application of Huygens–Fresnel principle can be found in the sections on diffraction and Fraunhofer diffraction.
+Because the magnification of a telescope is equal to the focal length of the objective divided by the focal length of the eyepiece, smaller focal-length eyepieces cause greater magnification.
+In 1815 and 1818, Augustin-Jean Fresnel firmly established the mathematics of how wave interference can account for diffraction.
+Non-birefringent methods, to rotate the linear polarization of light beams, include the use of prismatic polarization rotators which use total internal reflection in a prism set designed for efficient collinear transmission.
+The closer the object is to the lens, the closer the virtual image is to the lens.
+Rainbows are the result of a combination of internal reflection and dispersive refraction of light in raindrops.
+A condition known as astigmatism results when the cornea is not spherical but instead is more curved in one direction.
+The image size is the same as the object size.
+''Elliptical polarization''
+He also commented on the parity reversal of mirrors in ''Timaeus''.
+As people age, the lens becomes less flexible and the near point recedes from the eye, a condition known as presbyopia.
+The appearance of thin films and coatings is directly affected by interference effects.
+where  is the distance from the object to the lens,  is the distance from the lens to the image, and  is the focal length of the lens.
+Cognitive illusions include some which result from the unconscious misapplication of certain optical principles.
+The same general optical considerations apply to reflecting telescopes that applied to refracting telescopes, namely, the larger the primary mirror, the more light collected, and the magnification is still equal to the focal length of the primary mirror divided by the focal length of the eyepiece.
+Geometrical optics can be viewed as an approximation of physical optics that applies when the wavelength of the light used is much smaller than the size of the optical elements in the system being modelled.
+In contrast to the microscope, the objective lens of the telescope was designed with a large focal length to avoid optical aberrations.
+This is the lens's front focal point.
+The word ''optics'' comes from the ancient Greek word  (''optikē''), meaning "appearance, look".
+A major subfield of modern optics, quantum optics, deals with specifically quantum mechanical properties of light.
+The term ''laser'' is an acronym for ''Light Amplification by Stimulated Emission of Radiation''.
+This phenomenon is called total internal reflection and allows for fibre optics technology.
+The field of view that the lens will provide changes with the focal length of the lens.
+If the first material is air or vacuum,  is the refractive index of the second material.
+If there is partial correlation between the emitters, the light is ''partially polarised''.
+This illusion so confounded Ptolemy that he incorrectly attributed it to atmospheric refraction when he described it in his treatise, ''Optics''.
+For a person with normal vision, the far point is located at infinity.
+In the limit of Thomson scattering, in which the wavelike nature of light is evident, light is dispersed independent of the frequency, in contrast to Compton scattering which is frequency-dependent and strictly a quantum mechanical process, involving the nature of light as particles.
+Combining a number of mirrors, prisms, and lenses produces compound optical instruments which have practical uses.
+It was this effect that provided the first discovery of polarization, by Erasmus Bartholinus in 1669.
+For presbyopia and hyperopia, a converging lens provides the extra curvature necessary to bring the near point closer to the eye while for myopia a diverging lens provides the curvature necessary to send the far point to infinity.
+The most common of these, geometric optics, treats light as a collection of rays that travel in straight lines and bend when they pass through or reflect from surfaces.
+Plato first articulated the emission theory, the idea that visual perception is accomplished by rays emitted by the eyes.
+When considering light's particle-like properties, the light is modelled as a collection of particles called "photons".
+The oscillations may be oriented in a single direction (linear polarization), or the oscillation direction may rotate as the wave travels (circular or elliptical polarization).
+The first application of lasers visible in the daily lives of the general population was the supermarket barcode scanner, introduced in 1974.
+Rod cells are sensitive to the intensity of light over a wide frequency range, thus are responsible for black-and-white vision.
+These practical developments were followed by the development of theories of light and vision by ancient Greek and Indian philosophers, and the development of geometrical optics in the Greco-Roman world.
+:and ''θi'' is the angle between the light's initial polarization direction and the axis of the polariser.
+In this special case, the electric vector traces out a circle in the plane, so this polarization is called circular polarization.
+Images formed from reflection in two (or any even number of) mirrors are not parity inverted.
+A vector model must also be used to model polarised light.
+For a thin lens in air, the location of the image is given by the simple equation
+This differed substantively from the ancient Greek emission theory.
+In such situations, Snell's Law describes the resulting deflection of the light ray:
+In contrast, cone cells are less sensitive to the overall intensity of light, but come in three varieties that are sensitive to different frequency-ranges and thus are used in the perception of colour and photopic vision.
+In the study of these devices, quantum optics often overlaps with quantum electronics.
+For example, the Ames room, Hering, Müller-Lyer, Orbison, Ponzo, Sander, and Wundt illusions all rely on the suggestion of the appearance of distance by using converging and diverging lines, in the same way that parallel light rays (or indeed any set of parallel lines) appear to converge at a vanishing point at infinity in two-dimensionally rendered images with artistic perspective.
+Gaussian beam propagation thus bridges the gap between geometric and physical optics.
+Geometric optics is often simplified by making the paraxial approximation, or "small angle approximation".
+He rejected the "emission theory" of Ptolemaic optics with its rays being emitted by the eye, and instead put forward the idea that light reflected in all directions in straight lines from all points of the objects being viewed and then entered the eye, although he was unable to correctly explain how the eye captured the rays.
+The electric field vector of a plane wave may be arbitrarily divided into two perpendicular components labeled ''x'' and ''y'' (with '''z''' indicating the direction of travel).
+There are three basic classifications based on the relationship to the diagonal size of the film or sensor size of the camera to the focal length of the lens:
+Material dispersion is often characterised by the Abbe number, which gives a simple measure of dispersion based on the index of refraction at three specific wavelengths.
+Other research focuses on the phenomenology of electromagnetic waves as in singular optics, non-imaging optics, non-linear optics, statistical optics, and radiometry.
+The Huygens–Fresnel equation is one such model.
+Since the average value of  is 1/2, the transmission coefficient becomes
+When light reflects from a thin film on a surface, interference between the reflections from the film's surfaces can produce polarization in the reflected and transmitted light.
+The objective lens is essentially a magnifying glass and was designed with a very small focal length while the eyepiece generally has a longer focal length.
+Double rainbows are produced by two internal reflections with angular size of 50.5° to 54° with violet on the outside.
+Historically, the ray-based model of light was developed first, followed by the wave model of light.
+In 1690, Christiaan Huygens proposed a wave theory for light based on suggestions that had been made by Robert Hooke in 1664.
+Rays from an object at finite distance are associated with a virtual image that is closer to the lens than the focal point, and on the same side of the lens as the object.
+Optics began with the development of lenses by the ancient Egyptians and Mesopotamians.
+Physical optics is a more comprehensive model of light, which includes wave effects such as diffraction and interference that cannot be accounted for in geometric optics.
+Professional telescopes generally do not have eyepieces and instead place an instrument (often a charge-coupled device) at the focal point instead.
+He based his work on Plato's emission theory wherein he described the mathematical rules of perspective and described the effects of refraction qualitatively, although he questioned that a beam of light from the eye could instantaneously light up the stars every time someone blinked.
+''Monochromatic aberrations'' occur because the geometry of the lens does not perfectly direct rays from each object point to a single point on the image, while chromatic aberration occurs because the index of refraction of the lens varies with the wavelength of the light.
+The Michelson interferometer was a famous instrument which used interference effects to accurately measure the speed of light.
+Well known manifestations of this effect appear in optical wave plates/retarders (linear modes) and in Faraday rotation/optical rotation (circular modes).
+The incident and reflected rays and the normal lie in a single plane, and the angle between the reflected ray and the surface normal is the same as that between the incident ray and the normal.
+The existence of electromagnetic waves was predicted in 1865 by Maxwell's equations.
+For example, this is the case with macroscopic crystals of calcite, which present the viewer with two offset, orthogonally polarised images of whatever is viewed through them.
+Optical materials with varying index of refraction are called gradient-index (GRIN) materials.
+Some of these fields overlap, with nebulous boundaries between the subjects terms that mean slightly different things in different parts of the world and in different areas of industry.
+Practical optics is usually done using simplified models.
+Diffraction effects limit the ability for an optical detector to optically resolve separate light sources.
+Taking this into account, Snell's Law can be used to predict how a prism will disperse light into a spectrum.
+The law also implies that mirror images are parity inverted, which we perceive as a left-right inversion.
+One may then describe the light in terms of the degree of polarization, and the parameters of the polarization ellipse.
+Quantum optics deals with the application of quantum mechanics to optical systems.
+Hooke himself publicly criticised Newton's theories of light and the feud between the two lasted until Hooke's death.
+The rotation direction in the circle depends on which of the two phase relationships exists and corresponds to ''right-hand circular polarization'' and ''left-hand circular polarization''.
+The separation of colours by a prism is an example of normal dispersion.
+The most common type of long focus lens is the telephoto lens, a design that uses a special ''telephoto group'' to be physically shorter than its focal length.
+When a ray of light hits the boundary between two transparent materials, it is divided into a reflected and a refracted ray.
+Quantum optics is not just theoretical; some modern devices, such as lasers, have principles of operation that depend on quantum mechanics.
+In specular reflection, the direction of the reflected ray is determined by the angle the incident ray makes with the surface normal, a line perpendicular to the surface at the point where the ray hits.
+This process is known as accommodation.
+This is shown in the above figure on the right.
+For example, the propagation of light through a prism results in the light ray being deflected depending on the shape and orientation of the prism.
+Ciliary muscles around the lens allow the eye's focus to be adjusted.
+Related, but not strictly illusions, are patterns that occur due to the superimposition of periodic structures.
+The mathematical behaviour then becomes linear, allowing optical components and systems to be described by simple matrices.
+Other common applications of lasers include laser printers and laser pointers.
+:The law of reflection says that the reflected ray lies in the plane of incidence, and the angle of reflection equals the angle of incidence.
+The earliest known lenses, made from polished crystal, often quartz, date from as early as 700&nbsp;BC for Assyrian lenses such as the Layard/Nimrud lens.
+*Wide-angle lens: angle of view wider than 60° and focal length shorter than a normal lens.
+For a uniform medium, the group velocity is
+Fibre-optic communication relies on lasers to transmit large amounts of information at the speed of light.
+Light-emitting diodes and photovoltaic cells, too, cannot be understood without quantum mechanics.
+The reflections from these surfaces can only be described statistically, with the exact distribution of the reflected light depending on the microscopic structure of the material.
+For flat mirrors, the law of reflection implies that images of objects are upright and the same distance behind the mirror as the objects are in front of the mirror.
+In 1704, Newton published ''Opticks'' and, at the time, partly because of his success in other areas of physics, he was generally considered to be the victor in the debate over the nature of light.
+Most optical phenomena can be accounted for using the classical electromagnetic description of light.
+Media that reduce the amplitude of certain polarization modes are called ''dichroic'', with devices that block nearly all of the radiation in one mode known as ''polarizing filters'' or simply "polarisers".
+If the polarization is consistent across the spectrum of the source, partially polarised light can be described as a superposition of a completely unpolarised component, and a completely polarised one.
+Conversely, people who cannot increase the focal length of their lens enough to allow for distant objects to be imaged on the retina suffer from myopia and have a far point that is considerably closer than infinity.
+Progress in electromagnetic theory in the 19th century led to the discovery that light waves were in fact electromagnetic radiation.
+Part of the wave is transmitted and part is reflected, with the ratio depending on angle of incidence and the angle of refraction.
+In the early 11th century, Alhazen (Ibn al-Haytham) wrote the ''Book of Optics'' (''Kitab al-manazir'') in which he explored reflection and refraction and proposed a new system for explaining vision and light based on observation and experiment.
+For instance, the behaviour of a light wave interacting with a metal surface is quite different from what happens when it interacts with a dielectric material.
+Specialty areas of optics research include the study of how light interacts with specific materials as in crystal optics and metamaterials.
+Diffraction is the process by which light interference is most commonly observed.
+For lenses that correct for astigmatism as well, three numbers are given: one for the spherical power, one for the cylindrical power, and one for the angle of orientation of the astigmatism.
+where  is a constant for any two materials and a given colour of light.
+These effects are treated by the Fresnel equations.
+The laserdisc player, introduced in 1978, was the first successful consumer product to include a laser, but the compact disc player was the first laser-equipped device to become truly common in consumers' homes, beginning in 1982.
+The information gathered by the eye is processed in the brain to give a percept that differs from the object being imaged.
+Detailed mathematics of polarization is done using Jones calculus and is characterised by the Stokes parameters.
+The human eye functions by focusing light onto a layer of photoreceptor cells called the retina, which forms the inner lining of the back of the eye.
+He used this law to compute optimum shapes for lenses and curved mirrors.
+Optometrists, ophthalmologists, and opticians usually consider an appropriate near point to be closer than normal reading distance—approximately 25&nbsp;cm.
+Newtonian optics was generally accepted until the early 19th century when Thomas Young and Augustin-Jean Fresnel conducted experiments on the interference of light that firmly established light's wave nature.
+After the invention of the telescope Kepler set out the theoretical basis on how they worked and described an improved version, known as the ''Keplerian telescope'', using two convex lenses to produce higher magnification.
+Generally, an additional source of illumination is used since magnified images are dimmer due to the conservation of energy and the spreading of light rays over a larger surface area.
+Antireflective coatings use destructive interference to reduce the reflectivity of the surfaces they coat, and can be used to minimise glare and unwanted reflections.
+With diverging lenses, incoming parallel rays diverge after going through the lens, in such a way that they seem to have originated at a spot one focal length in front of the lens.
+Alhazen's work was largely ignored in the Arabic world but it was anonymously translated into Latin around 1200 A.D. and further summarised and expanded on by the Polish monk Witelo making it a standard text on optics in Europe for the next 400 years.
+Both kinds of dispersion cause changes in the group characteristics of the wave, the features of the wave packet that change with the same frequency as the amplitude of the electromagnetic wave.
+Lasers are also used in holograms, bubblegrams, laser light shows, and laser hair removal.
+In all other cases, where the two components either do not have the same amplitudes and/or their phase difference is neither zero nor a multiple of 90°, the polarization is called elliptical polarization because the electric vector traces out an ellipse in the plane (the ''polarization ellipse'').
+''Modern optics'' encompasses the areas of optical science and engineering that became popular in the 20th century.
+Electronic image sensors, such as CCDs, exhibit shot noise corresponding to the statistics of individual photon events.
+The wavelength of visible light waves varies between 400 and 700&nbsp;nm, but the term "light" is also often applied to infrared (0.7–300&nbsp;μm) and ultraviolet radiation (10–400&nbsp;nm).
+Young showed that his results could only be explained if the two slits acted as two unique sources of waves rather than corpuscles.
+Glossy surfaces can give both specular and diffuse reflection.
+This partial polarization of scattered light can be taken advantage of using polarizing filters to darken the sky in photographs.
+In this case, one component is zero when the other component is at maximum or minimum amplitude.
+The following figures show some examples of the evolution of the electric field vector (blue), with time (the vertical axes), at a particular point in space, along with its ''x'' and ''y'' components (red/left and green/right), and the path traced by the vector in the plane (purple): The same evolution would occur when looking at the electric field at a particular time while evolving the point in space, along the direction opposite to propagation.
+Likewise, since cone cells are in the fovea, central vision (including the vision needed to do most reading, fine detail work such as sewing, or careful examination of objects) is done by cone cells.
+There are, however, twenty times more rod cells than cone cells in the retina because the rod cells are present across a wider area.
+Some phenomena depend on the fact that light has both wave-like and particle-like properties.
+At the surfaces of the prism, Snell's law predicts that light incident at an angle θ to the normal will be refracted at an angle arcsin(sin (θ) / ''n'').
+Explanation of these effects requires quantum mechanics.
+This was the start of the optical industry of grinding and polishing lenses for these "spectacles", first in Venice and Florence in the thirteenth century, and later in the spectacle making centres in both the Netherlands and Germany.
+Refractive processes take place in the physical optics limit, where the wavelength of light is similar to other distances, as a kind of scattering.
+This model predicts phenomena such as interference and diffraction, which are not explained by geometric optics.
+The unique optical properties of the atmosphere cause a wide range of spectacular optical phenomena.
+As light travels down an optical fibre, it undergoes total internal reflection allowing for essentially no light to be lost over the length of the cable.
+Rainbows and mirages are examples of optical phenomena.
+In wavelength ranges where a medium has significant absorption, the index of refraction can increase with wavelength.
+Early photography used media that had very low light sensitivity, and so exposure times had to be long even for very bright shots.
+Additionally, many plastics that are not normally birefringent will become so when subject to mechanical stress, a phenomenon which is the basis of photoelasticity.
+More rigorous models, involving the modelling of both electric and magnetic fields of the light wave, are required when dealing with the detailed interaction of light with materials where the interaction depends on their electric and magnetic properties.
+It was this effect that allowed the mathematician Étienne-Louis Malus to make the measurements that allowed for his development of the first mathematical models for polarised light.
+Grosseteste's most famous disciple, Roger Bacon, wrote works citing a wide range of recently translated optical and philosophical works, including those of Alhazen, Aristotle, Avicenna, Averroes, Euclid, al-Kindi, Ptolemy, Tideus, and Constantine the African.
+Thus, blue light, with its higher refractive index, is bent more strongly than red light, resulting in the well-known rainbow pattern.
+The simplest physical models of diffraction use equations that describe the angular separation of light and dark fringes due to light of a particular wavelength (λ).
+These areas of optical science typically relate to the electromagnetic or quantum properties of light but do include other topics.
+The ubiquity of visual systems in biology indicates the central role optics plays as the science of one of the five senses.
+Because light is an electromagnetic wave, other forms of electromagnetic radiation such as X-rays, microwaves, and radio waves exhibit similar properties.
+Numerical modeling techniques such as the finite element method, the boundary element method and the transmission-line matrix method can be used to model the propagation of light in systems which cannot be solved analytically.
+Brillouin scattering occurs when the frequency of light changes due to local changes with time and movements of a dense material.
+In the late 1660s and early 1670s, Isaac Newton expanded Descartes' ideas into a corpuscle theory of light, famously determining that white light was a mix of colours which can be separated into its component parts with a prism.
+Dispersion occurs when different frequencies of light have different phase velocities, due either to material properties (''material dispersion'') or to the geometry of an optical waveguide (''waveguide dispersion'').
+If two waves of the same wavelength and frequency are ''in phase'', both the wave crests and wave troughs align.
+where ''θ'' is the angular resolution, ''λ'' is the wavelength of the light, and ''D'' is the diameter of the lens aperture.
+The wave model can be used to make predictions about how an optical system will behave without requiring an explanation of what is "waving" in what medium.
+The simplest case of refraction occurs when there is an interface between a uniform medium with index of refraction  and another medium with index of refraction .
+The waves are only exactly out of phase for one wavelength, which would typically be chosen to be near the centre of the visible spectrum, around 550&nbsp;nm.
+Specular reflection describes the gloss of surfaces such as mirrors, which reflect light in a simple, predictable way.
+Bacon was able to use parts of glass spheres as magnifying glasses to demonstrate that light reflects from objects rather than being released from them.
+The focal length of a simple lens in air is given by the lensmaker's equation.
+All of the results from geometrical optics can be recovered using the techniques of Fourier optics which apply many of the same mathematical and analytical techniques used in acoustic engineering and signal processing.
+For light rays travelling from a material with a high index of refraction to a material with a low index of refraction, Snell's law predicts that there is no  when  is large.
+Incoming parallel rays are focused by a converging lens onto a spot one focal length from the lens, on the far side of the lens.
+Defects in vision can be explained using optical principles.
+As with mirrors, upright images produced by a single lens are virtual, while inverted images are real.
+Diffuse reflection describes non-glossy materials, such as paper or rock.
+There are two types of photoreceptor cells, rods and cones, which are sensitive to different aspects of light.
+The pulse therefore becomes ''positively chirped'', or ''up-chirped'', increasing in frequency with time.
+This interaction of waves to produce a resulting pattern is generally termed "interference" and can result in a variety of outcomes.
+The first wearable eyeglasses were invented in Italy around 1286.
+When first invented, they were called "a solution looking for a problem".
+Since cone cells are not as sensitive to dim light as rod cells, most night vision is limited to rod cells.
+The most famous compound optical instruments in science are the microscope and the telescope which were both invented by the Dutch in the late 16th century.
+If ''D'' is greater than zero, the medium has ''negative dispersion''.
+Since crafting large lenses is much more difficult than crafting large mirrors, most modern telescopes are ''reflecting telescopes'', that is, telescopes that use a primary mirror rather than an objective lens.
+The optical power of corrective lenses is measured in diopters, a value equal to the reciprocal of the focal length measured in metres; with a positive focal length corresponding to a converging lens and a negative focal length corresponding to a diverging lens.
+To see diffraction patterns, x-rays with similar wavelengths to that spacing are passed through the crystal.
+Polarization occurs when light is scattered in the atmosphere.
+Astigmatism is corrected with a cylindrical surface lens that curves more strongly in one direction than in another, compensating for the non-uniformity of the cornea.
+In the middle figure, the two orthogonal components have the same amplitudes and are 90° out of phase.
+In the sign convention used here, the object and image distances are positive if the object and image are on opposite sides of the lens.

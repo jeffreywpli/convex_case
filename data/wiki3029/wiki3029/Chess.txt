@@ -1,0 +1,200 @@
+In the previous informal system of World Championships, the current champion decided which challenger he would play for the title and the challenger was forced to seek sponsors for the match.
+Since the 1990s, computer analysis has contributed significantly to chess theory, particularly in the endgame.
+The tradition of awarding such titles was continued by the World Chess Federation (FIDE), founded in 1924 in Paris.
+It was won by the German Adolf Anderssen, who was hailed as the leading chess master.
+Generalized chess (played on n x n board, without 50-move drawing rule) is EXPTIME-complete.
+The role of practice and talent in the development of chess and other domains of expertise has led to a lot of research recently.
+In September 2007, he lost the title to Viswanathan Anand of India, who won the championship tournament in Mexico City.
+The leading finishers in these Interzonals would go on the "Candidates" stage, which was initially a tournament, and later a series of knockout matches.
+FIDE is a member of the International Olympic Committee, but the game of chess has never been part of the Olympic Games; chess does have its own Olympiad, held every two years as a team event.
+The two most important French masters were François-André Danican Philidor, a musician by profession, who discovered the importance of pawns for chess strategy, and later Louis-Charles Mahé de La Bourdonnais, who won a famous series of matches with the Irish master Alexander McDonnell in 1834.
+Usually, the pawn is chosen to be promoted to a queen, but in some cases another piece is chosen; this is called underpromotion.
+The middlegame is the part of the game which starts after the opening.
+In quiet positions with many possibilities on both sides, a deep calculation is more difficult and may not be practical, while in "tactical" positions with a limited number of forced variations, strong players can calculate long sequences of moves.
+The possible depth of calculation depends on the player's ability.
+Chess problems became a regular part of 19th-century newspapers; Bernhard Horwitz, Josef Kling, and Samuel Loyd composed some of the most influential problems.
+The most powerful piece is the queen and the least powerful piece is the pawn.
+Chess composition is a distinct branch of chess sport, and tournaments (or ''tourneys'') exist for both the composition and solving of chess problems.
+Internet Chess Servers allow people to find and play opponents all over the world.
+There are many types of chess problems; the two most important are:
+For example, Fernand Gobet and colleagues have shown that stronger players started playing chess at a young age and that experts born in the Northern Hemisphere are more likely to have been born in late winter and early spring.
+The level of defense was poor and players did not form any deep plan.
+The most basic step in evaluating a position is to count the total value of pieces of both sides.
+There were correspondence matches between cities; for example, the London Chess Club played against the Edinburgh Chess Club in 1824.
+If a player's time runs out before the game is completed, the game is automatically lost (provided his opponent has enough pieces left to deliver checkmate).
+The knyght ought to be made alle armed upon an hors in suche wyse that he haue an helme on his heed and a spere in his ryght hande/ and coueryd wyth his sheld/ a swerde and a mace on his lyft syde/ Cladd wyth an hawberk and plates to fore his breste/ legge harnoys on his legges/ Spores on his heelis on his handes his gauntelettes/ his hors well broken and taught and apte to bataylle and couerid with his armes/ whan the knyghtes ben maad they ben bayned or bathed/ that is the signe that they shold lede a newe lyf and newe maners/ also they wake alle the nyght in prayers and orysons vnto god that he wylle gyue hem grace that they may gete that thynge that they may not gete by nature/ The kynge or prynce gyrdeth a boute them a swerde in signe/ that they shold abyde and kepe hym of whom they take theyr dispenses and dignyte.
+Until the end of the Soviet Union, there was only one non-Soviet champion, American Bobby Fischer (champion 1972–75).
+The Association for Computing Machinery (ACM) held the first major chess tournament for computers, the North American Computer Chess Championship, in September 1970.
+Simple one-move or two-move tactical actions – threats, exchanges of material, and double attacks – can be combined into more complicated combinations, sequences of tactical maneuvers that are often forced from the point of view of one or both players.
+Therfore in this I beleave there happeneth a very rare thing, namely, that the meane is more commendable, then the excellency.
+* ''Pawn structure'': Players strive to avoid the creation of pawn weaknesses such as isolated, doubled, or backward pawns, and pawn islands – and to force such weaknesses in the opponent's position.
+With huge databases of past games and high analytical ability, computers can help players to learn chess and prepare for matches.
+The romantic era was characterized by opening gambits (sacrificing pawns or even pieces), daring attacks, and brazen sacrifices.
+These new rules quickly spread throughout western Europe.
+American Paul Morphy, an extraordinary chess prodigy, won against all important competitors (except Howard Staunton, who refused to play), including Anderssen, during his short chess career between 1857 and 1863.
+Chess strategy consists of setting and achieving long-term positioning advantages during the game – for example, where to place different pieces – while tactics concentrate on immediate maneuver.
+From then until 2006, there were two simultaneous World Champions and World Championships: the PCA or Classical champion extending the Steinitzian tradition in which the current champion plays a challenger in a series of many games, and the other following FIDE's new format of many players competing in a tournament to determine the champion.
+* The knight moves to any of the closest squares that are not on the same rank, file, or diagonal, thus the move forms an "L"-shape: two squares vertically and one square horizontally, or two squares horizontally and one square vertically.
+Chess games may also be played with a time control, mostly by club and professional players.
+The computer IBM Deep Blue was the first machine to overcome a reigning World Chess Champion in a match when it defeated Garry Kasparov in 1997.
+These basic values are then modified by other factors like position of the piece (for example, advanced pawns are usually more valuable than those on their initial squares), coordination between pieces (for example, a pair of bishops usually coordinate better than a bishop and a knight), or the type of position (knights are generally better in closed positions with many pawns while bishops are more powerful in open positions).
+Botvinnik again regained the title in a rematch in 1961.
+The pieces took on their current powers in Spain in the late 15th century; the rules were finally standardized in the 19th century.
+For example, J. K. Rowling's Harry Potter plays "Wizard's Chess", while the characters of ''Star Trek'' prefer "Tri-Dimensional Chess".
+His brilliant, energetic attacking style was typical for the time.
+In 1975, however, Fischer refused to defend his title against Soviet Anatoly Karpov when FIDE did not meet his demands, and Karpov obtained the title by default.
+Similar to FM, but with a FIDE rating of at least 2200.
+Steinitz was the first to break a position down into its components.
+Prague-born Wilhelm Steinitz beginning in 1873 described how to avoid weaknesses in one's own position and how to create and exploit such weaknesses in the opponent's position.
+When a pawn advances two squares from its starting position and there is an opponent's pawn on an adjacent file next to its destination square, then the opponent's pawn can capture it ''en passant'' (in passing), and move to the square the pawn passed over.
+In 1993, Garry Kasparov and Nigel Short broke with FIDE to organize their own match for the title and formed a competing Professional Chess Association (PCA).
+a dubious move not easily refuted.
+More recent research has focused on chess as mental training; the respective roles of knowledge and look-ahead search; brain imaging studies of chess masters and novices; blindfold chess; the role of personality and intelligence in chess skill; gender differences; and computational models of chess expertise.
+When a pawn makes a capture, the file from which the pawn departed is used in place of a piece initial, and ranks may be omitted if unambiguous.
+The pieces are set out as shown in the diagram and photo, with each queen on a square of its own color, the white queen on a light square and the black queen on a dark.
+Chess was included in the 2006 and 2010 Asian Games.
+(Similarly, there is no clear transition from the middlegame to the endgame; see start of the endgame.)
+Grandmaster Lothar Schmid owned the world's largest private collection of chess books and memorabilia.
+Many elaborate and beautiful but unsound move sequences called 'combinations' were played by the masters of the time.
+Previously Black strove for equality, to neutralize White's first-move advantage.
+Note that castling ''is'' permissible if the rook is attacked, or if the rook crosses a square that is attacked.
+Some sources state that in 1914 the title of chess Grandmaster was first formally conferred by Tsar Nicholas II of Russia to Lasker, Capablanca, Alekhine, Tarrasch, and Marshall, but this is a disputed claim.
+The first generally recognized World Chess Champion, Wilhelm Steinitz, claimed his title in 1886.
+In the 18th century, the center of European chess life moved from the Southern European countries to France.
+Castling consists of moving the king two squares along the first rank toward a rook (which is on the player's first rank) and then placing the rook on the last square the king has just crossed.
+De Groot showed that chess masters can memorize positions shown for a few seconds almost perfectly.
+Rather, it is the ability to recognize patterns, which are then memorized, which distinguished the skilled players from the novices.
+Alternately, some contend that chess arose from Chinese chess or one of its predecessors, although this has been contested.
+The solution is a diagonal advance, which brings the king to ''both'' pawns simultaneously:
+Chess has a very extensive literature.
+The term "master" may refer to a formal title or may be used more loosely for any skilled player.
+They are catalogued in reference works such as the ''Encyclopaedia of Chess Openings''.
+Many of the elaborate chess sets used by the aristocracy have been lost, but others partially survive, such as the Lewis chessmen.
+The next championship, the so-called Match of the Century, saw the first non-Soviet challenger since World War II, American Bobby Fischer, who defeated his Candidates opponents by unheard-of margins and clearly won the world championship match.
+Weaknesses in the pawn structure, such as isolated, doubled, or backward pawns and holes, once created, are often permanent.
+In addition to his theoretical achievements, Steinitz founded an important tradition: his triumph over the leading German master Johannes Zukertort in 1886 is regarded as the first official World Chess Championship.
+It is truely an honest kynde of enterteynmente and wittie, quoth Syr Friderick.
+In the diagram on the right, the pawn on c7 can be advanced to the eighth rank and be promoted to an allowed piece.
+* The king moves one square in any direction.
+However, this can only be done on the very next move, otherwise the right to do so is forfeit.
+The creator is known as a chess composer.
+Theoreticians describe many elementary tactical methods and typical maneuvers; for example, pins, forks, skewers, batteries, discovered attacks (especially discovered checks), zwischenzugs, deflections, decoys, sacrifices, underminings, overloadings, and interferences.
+Chess is often depicted in the arts; significant works where chess plays a key role range from Thomas Middleton's ''A Game at Chess'' to ''Through the Looking-Glass'' by Lewis Carroll to ''The Royal Game'' by Stefan Zweig and Vladimir Nabokov's ''The Defense''.
+One of the most important mathematical challenges of chess is the development of algorithms that can play chess.
+The rules concerning stalemate were finalized in the early 19th century.
+At the end of the game, "1–0" means "White won", "0–1" means "Black won", and "½–½" indicates a draw.
+* ''Grandmaster'' (shortened as GM; sometimes ''International Grandmaster'' or IGM is used) is awarded to world-class chess masters.
+Karpov defended his title twice against Viktor Korchnoi and dominated the 1970s and early 1980s with a string of tournament successes.
+Recent research indicates that factors other than practice are also important.
+These usually involve positions which would be highly unlikely to occur in an actual game, and are intended to illustrate a particular "theme", usually requiring a surprising or counter-intuitive "key move".
+A profound belief that chess merit resided in the players' genius rather than inherent in the position on the board pervaded chess practice.
+* ''Candidate Master'' (shortened as CM).
+Kasparov lost his Classical title in 2000 to Vladimir Kramnik of Russia.
+A champion defeated in a match had a right to play a rematch a year later.
+Since pawns are the least mobile of the chess pieces, the pawn structure is relatively static and largely determines the strategic nature of the position.
+Arpad Elo thought of a player's true skill as the average of that player's performance random variable, and showed how to estimate the average from results of player's games.
+His successor was Russian-French Alexander Alekhine, a strong attacking player who died as the World champion in 1946.
+Although the link between performance in chess and general intelligence is often assumed, researchers have largely failed to confirm its existence.
+A correctly timed castling can often enhance this.
+Most players and theoreticians consider that White, by virtue of the first move, begins the game with a small advantage.
+FIDE also organizes the Women's World Championship, the World Junior Championship, the World Senior Championship, the  Blitz and Rapid World Championships and the Chess Olympiad, a popular competition among teams from different nations.
+* There must be no pieces between the king and the rook.
+He briefly lost the title to Dutch player Max Euwe in 1935 and regained it two years later.
+Middlegame combinations are often connected with an attack against the opponent's king; some typical patterns have their own names; for example, the Boden's Mate or the Lasker–Bauer combination.
+Many chess clubs, chess books, and chess journals appeared.
+Invitation-only tournaments regularly attract the world's strongest players.
+Basic checkmates are positions in which one side has only a king and the other side has one or two pieces and can checkmate the opposing king, with the pieces working together with their king.
+After the death of Alekhine, a new World Champion was sought.
+A player cannot "pass"; at each turn they have to make a legal move (this is the basis for the finesse called zugzwang).
+The oldest archaeological artifacts, ivory chess pieces, were excavated in ancient Afrasiab, today's Samarkand, in Uzbekistan, central Asia, and date to about 760, with some of them possibly older.
+Another important factor in the evaluation of chess positions is the pawn structure (sometimes known as the pawn skeleton), or the configuration of pawns on the chessboard.
+Pieces are moved to either an unoccupied square or one occupied by an opponent's piece, which is captured and removed from play.
+The letter ''P'' indicating a pawn is not used, so that '''e4''' means "pawn moves to the square e4".
+Botvinnik participated in championship matches over a period of fifteen years.
+As of August 2011, there are 1363 active grandmasters and 3153 international masters in the world.
+The game structure and nature of chess are related to several branches of mathematics.
+Professional players spend years studying openings and continue doing so throughout their careers, as opening theory continues to evolve.
+The king is more valuable than all of the other pieces combined, since its checkmate loses the game.
+Lucena and later masters like Portuguese Pedro Damiano, Italians Giovanni Leonardo Di Bona, Giulio Cesare Polerio and Gioachino Greco, and Spanish bishop Ruy López de Segura developed elements of openings and started to analyze simple endgames.
+Introduced into the Iberian Peninsula by the Moors in the 10th century, it was described in a famous 13th-century manuscript covering shatranj, backgammon, and dice named the ''Libro de los juegos''.
+By the year 1000, it had spread throughout Europe.
+Gentlemen are "to be meanly seene in the play at Chestes", says the overview at the beginning of Baldassare Castiglione's ''The Book of the Courtier'' (1528, English 1561 by Sir Thomas Hoby), but chess should not be a gentleman's main passion.
+Castling is permissible under the following conditions:
+:Now the white king comes just in time to support his pawn, or catch the black one.
+Other competitions for individuals include the World Junior Chess Championship, the European Individual Chess Championship, and the National Chess Championships.
+The number of legal positions in chess is estimated to be about 1043, and is provably less than 1047, with a game-tree complexity of approximately 10123.
+The eastern migration of chess, into China and Southeast Asia, has even less documentation than its migration west.
+* The queen combines the power of the rook and bishop and can move any number of squares along rank, file, or diagonal, but it may not leap over other pieces.
+Along with information on official chess tournaments, the rules are described in the ''FIDE Handbook'', Laws of Chess section.
+Steinitz lost his crown in 1894 to a much younger player, the German mathematician Emanuel Lasker, who maintained this title for 27 years, the longest tenure of all World Champions.
+Chaturanga is also the likely ancestor of the Eastern strategy games xiangqi, janggi and shogi.
+Black usually strives to neutralize White's advantage and achieve equality, or to develop dynamic counterplay in an unbalanced position.
+This is a lost manuscript, but referenced in later works.
+Chess moves can be annotated with punctuation marks and other symbols.
+The presence of computers and modern communication tools have raised concerns regarding cheating during games, most notably the "bathroom controversy" during the 2006 World Championship.
+David Hooper and Kenneth Whyld write that, "Since then there has been a steady increase year by year of the number of new chess publications.
+In casual games it is common to announce "check" when putting the opponent's king in check, however this is not required by the rules of the game, and is not usually done in tournaments.
+Specific plans or strategic themes will often arise from particular groups of openings which result in a specific type of pawn structure.
+Morphy's success stemmed from a combination of brilliant attacks and sound strategy; he intuitively knew how to prepare attacks.
+The duration of a game ranges from long games played up to seven hours to shorter rapid chess games, usually lasting 30 minutes or one hour per game.
+The game was played more for art than theory.
+* '''Studies''': orthodox problems in which the stipulation is that white to play must win or draw.
+A response to a check is a legal move if it results in a position where the king is no longer under direct attack (that is, not in check).
+With the sole exception of ''en passant'', all pieces capture by moving to the square that the opponent's piece occupies.
+If the piece makes a capture, "x" is inserted before the destination square.
+Endgames can be classified according to the type of pieces that remain on board.
+There is an extensive scientific literature on chess psychology.
+Examples include Spain's Linares event, Monte Carlo's Melody Amber tournament, the Dortmund Sparkassen meeting, Sofia's M-tel Masters, and Wijk aan Zee's Tata Steel tournament.
+The idea of creating a chess-playing machine dates to the 18th century; around 1769, the chess-playing automaton called The Turk became famous before being exposed as a hoax.
+But me think it hath a fault, whiche is, that a man may be to couning at it, for who ever will be excellent in the playe of chestes, I beleave he must beestowe much tyme about it, and applie it with so much study, that a man may assoone learne some noble scyence, or compase any other matter of importaunce, and yet in the ende in beestowing all that laboure, he knoweth no more but a game.
+The player with the white pieces always moves first.
+Brilliant combinations – such as those in the Immortal Game – are considered beautiful and are admired by chess lovers.
+An example is the minority attack, which is the attack of queenside pawns against an opponent who has more pawns on the queenside.
+When the positions of the pieces were taken from an actual game, the masters had almost total positional recall.
+Apart from World Champion, Grandmaster is the highest title a chess player can attain.
+When recording captures, the captured piece is named rather than the square on which it is captured (except to resolve ambiguities).
+His successor, Boris Spassky from Russia (champion 1969–72), won games in both positional and sharp tactical style.
+For example, a 2006 study found no differences in fluid intelligence, as measured by Raven's Progressive Matrices, between strong adult chess players and regular people.
+Zermelo's theorem states that it is possible to solve chess, i.e.
+* ''International Master'' (shortened as IM).
+And what say you to the game at chestes?
+Before FIDE will confer the title on a player, the player must have an Elo chess rating (see below) of at least 2500 at one time and three favorable results (called norms) in tournaments involving other grandmasters, including some from countries other than the applicant's.
+Until about 1980, the majority of English language chess publications used a form of descriptive notation.
+A common type of chess exercise, aimed at developing players' skills, is showing players a position where a decisive combination is available and challenging them to find it.
+Serious trials based on automata, such as El Ajedrecista, were too complex and limited to be useful.
+Many combinatorical and topological problems connected to chess have been known of for hundreds of years.
+Karpov's reign finally ended in 1985 at the hands of Garry Kasparov, another Soviet player from Baku, Azerbaijan.
+The fundamental strategic aims of most openings are similar:
+Chess players are more likely to be non-right-handed, though they found no correlation between handedness and skill.
+In addition to checkmate, the game can be won by voluntary resignation by the opponent, which typically occurs when too much material is lost, or if checkmate appears unavoidable.
+The oldest known chess manual was in Arabic and dates to 840–850, written by al-Adli ar-Rumi (800–870), a renowned Arab chess player, titled ''Kitab ash-shatranj'' (Book of the chess).
+The World Chess Championship 2006, in which Kramnik beat the FIDE World Champion Veselin Topalov, reunified the titles and made Kramnik the undisputed World Chess Champion.
+For example, one variant of a simple trap known as the Scholar's mate (see animated diagram) can be recorded:
+* The king may not be in check, nor may the king pass through squares that are under attack by enemy pieces, nor move to a square where it is in check.
+After the first move, players alternately move one piece per turn (except for castling, when two pieces are moved).
+Besides these prestigious competitions, there are thousands of other chess tournaments, matches, and festivals held around the world every year catering to players of all levels.
+As the 19th century progressed, chess organization developed quickly.
+Chess is featured in films like Ingmar Bergman's ''The Seventh Seal'' and Satyajit Ray's ''The Chess Players''.
+In 2013, Magnus Carlsen beat Anand in the 2013 World Chess Championship.
+Once in every game, each king is allowed to make a special move, known as ''castling''.
+To this end, a player's pieces are used to attack and capture the opponent's pieces, while supporting their own.
+These are often referred to as "mate in ''n''" – for example "mate in three" (a ''three-mover''); two and three move problems are the most common.
+Castling, derived from the 'kings leap' usually in combination with a pawn or rook move to bring the king to safety, was introduced.
+The earliest evidence of chess is found in the nearby Sassanid Persia around 600, where the game came to be known by the name ''chatrang''.
+File:Chess party with live figures, 1924.jpg|A chess party with live figures (in Bitola, 1924)
+A move that places the opponent's king in check usually has the notation "+" added.
+Abbreviated (or short) algebraic notation generally records moves in the format "abbreviation of the piece moved – file where it moved – rank where it moved".
+Since 1948, the World Championship has been controlled by FIDE, the game's international governing body; the current World Champion is the Norwegian Magnus Carlsen.
+The US Chess Federation implemented Elo's suggestions in 1960, and the system quickly gained recognition as being both fairer and more accurate than older systems; it was adopted by FIDE in 1970.
+In 1960, he lost the title to the 23-year-old Latvian prodigy Mikhail Tal, an accomplished tactician and attacking player.
+There is also a Correspondence Chess World Championship and a World Computer Chess Championship.
+to determine with certainty the outcome of a perfectly played game (either white can force a win, or black can force a win, or both sides can force at least a draw).
+In descriptive notation, files are named according to the piece which occupies the back rank at the start of the game, and each square has two different names depending on whether it is from White's or Black's point of view.
+:Or 2...h3 3.Ke7 and the white king can support its pawn.
+These two parts of the chess-playing process cannot be completely separated, because strategic goals are mostly achieved through tactics, while the tactical opportunities are based on the previous strategy of play.
+Following the 1961 event, FIDE abolished the automatic right of a deposed champion to a rematch, and the next champion, Armenian Tigran Petrosian, a player renowned for his defensive and positional skills, held the title for two cycles, 1963–69.
+When a pawn advances to the eighth rank, as a part of the move it is ''promoted'' and must be exchanged for the player's choice of queen, rook, bishop, or knight of the same color.
+Pawn Sacrifice starring Tobey Maguire as Bobby Fischer and Liev Schreiber as Boris Spassky depicts the 1972 World Chess Championship in Iceland during the Cold War and Fischer's subsequent descent into madness.
+This is one of the most famous chess studies; it was published by Richard Réti 4 December 1921.
+an interesting move that may not be best, or "?!"
+This system operated on a three-year cycle.

@@ -1,0 +1,200 @@
+For example, the elements might be computer data words, where the first combining operation is exclusive or and the second is logical conjunction.
+At an exhibition at the 1964 World's Fair devoted to Modern Mathematicians, Noether was the only woman represented among the notable mathematicians of the modern world.
+Groups are frequently studied through ''group representations''.
+Although it recognized the importance of her work, the position still provided no salary.
+Traditionally, elimination theory is concerned with eliminating one or more variables from a system of polynomial equations, usually by the method of resultants.
+The chain condition often is "inherited" by sub-objects.
+An important example is the fundamental theorem of arithmetic, which says that every positive integer can be factored uniquely into prime numbers.
+Noether also supervised Max Deuring, who distinguished himself as an undergraduate and went on to contribute significantly to the field of arithmetic geometry; Hans Fitting, remembered for Fitting's theorem and the Fitting lemma; and Zeng Jiongzhi (also rendered "Chiungtze C. Tsen" in English), who proved Tsen's theorem.
+A field is defined as a commutative division ring.
+This attitude caused her problems in Germany, culminating in her eviction from a pension lodging building, after student leaders complained of living with "a Marxist-leaning Jewess".
+After all, we are a university, not a bath house."
+Noether showed a devotion to her subject and her students that extended beyond the academic day.
+A common joke is that a topologist cannot distinguish a donut from a coffee mug, since they can be continuously deformed into one another.
+of a set ''S'' is usually said to be ''ascending'', if each is a subset of the next
+In this paper Noether also introduced the ''Noether normalization lemma'', showing that a finitely generated domain ''A'' over a field ''k'' has a set  of algebraically independent elements such that ''A'' is integral over .
+Noether observed that her idea of a Betti group makes the Euler–Poincaré formula simpler to understand, and Hopf's own work on this subject "bears the imprint of these remarks of Emmy Noether".
+For example, finite direct sums of Noetherian rings are Noetherian, as is the ring of formal power series over a Noetherian ring.
+According to the account of Alexandrov, Noether attended lectures given by Heinz Hopf and by him in the summers of 1926 and 1927, where "she continually made observations which were often deep and subtle" and he continues that,
+It may or may not be commutative; this means that the result of applying the operation to a first and a second element is the same as to the second and first—the order of the elements does not matter.
+Several of her colleagues attended her lectures, and she allowed some of her ideas, such as the crossed product (''verschränktes Produkt'' in German) of associative algebras, to be published by others.
+After a series of negotiations with the Rockefeller Foundation, a grant to Bryn Mawr was approved for Noether and she took a position there, starting in late 1933.
+This pleased her immensely.
+Noether accepted the decision calmly, providing support for others during this difficult time.
+Noether was not paid for her lectures until she was appointed to the special position of ''Lehrbeauftragte für Algebra'' a year later.
+Noether and Fischer shared lively enjoyment of mathematics and would often discuss lectures long after they were over; Noether is known to have sent postcards to Fischer continuing her train of mathematical thoughts.
+Unlike most mathematicians, she did not make abstractions by generalizing from known examples; rather, she worked directly with the abstractions.
+On 2 January 1935, a few months before her death, mathematician Norbert Wiener wrote that
+This paper also contains the Skolem–Noether theorem which states that any two embeddings of an extension of a field ''k'' into a finite-dimensional central simple algebra over ''k'', are conjugate.
+Briefly, Noether subsumed the structure theory of associative algebras and the representation theory of groups into a single arithmetic theory of modules and ideals in rings satisfying ascending chain conditions.
+Although it had been well received, Noether later described her thesis as "crap".
+Each root can move to another root, however, so transformation determines a permutation of the ''n'' roots among themselves.
+Words such as "element" and "combining operation" are very general, and can be applied to many real-world and abstract situations.
+It satisfies the descending chain condition if any descending sequence becomes constant after a finite number of steps.
+Much of Noether's work lay in determining what properties ''do'' hold for all rings, in devising novel analogs of the old integer theorems, and in determining the minimal set of assumptions required to yield certain properties of rings.
+During the operation they discovered an ovarian cyst "the size of a large cantaloupe".
+Their effort to recruit her, however, was blocked by the philologists and historians among the philosophical faculty: women, they insisted, should not become ''privatdozent''.
+Her first name was "Amalie", after her mother and paternal grandmother, but she began using her middle name at a young age.
+In the summer of 1934 she briefly returned to Germany to see Emil Artin and her brother Fritz before he left for Tomsk.
+In 1924, Dutch mathematician B. L. van der Waerden joined her circle and soon became the leading expositor of Noether's ideas: her work was the foundation for the second volume of his influential 1931 textbook, ''Moderne Algebra''.
+Noether showed how to exploit such conditions, however, to maximum advantage: for example, how to use them to show that every set of sub-objects has a maximal/minimal element or that a complex object can be generated by a smaller number of elements.
+They met regularly and enjoyed discussions about the intersections of algebra and topology.
+An algebra consists of a choice of two rings and an operation which takes an element from each ring and returns an element of the second ring.
+She officially reentered the university on 24 October 1904, and declared her intention to focus solely on mathematics.
+In 1934, Noether began lecturing at the Institute for Advanced Study in Princeton upon the invitation of Abraham Flexner and Oswald Veblen.
+There may or may not be choices of ''x'', which make this polynomial evaluate to zero.
+In his 1935 memorial address, Alexandrov named Emmy Noether "the greatest woman mathematician of all time".
+Noether's result was later extended by William Haboush to all reductive groups by his proof of the Mumford conjecture.
+Her ''habilitation'' was approved in 1919, allowing her to obtain the rank of ''Privatdozent''.
+In collaboration with W. Schmeidler, she then published a paper about the theory of ideals in which they defined left and right ideals in a ring.
+A ''ring'' likewise, has a set of elements, but now has ''two'' operations.
+Students who disliked her style often felt alienated.
+When one of her students appeared in the uniform of the Nazi paramilitary organization ''Sturmabteilung'' (SA), she showed no sign of agitation and, reportedly, even laughed about it later.
+In 1910 and 1911 she published an extension of her thesis work from three variables to ''n'' variables.
+In this epoch, Noether became famous for her deft use of ascending (''Teilerkettensatz'') or descending (''Vielfachenkettensatz'') chain conditions.
+In 1931 he published ''Moderne Algebra'', a central text in the field; its second volume borrowed heavily from Noether's work.
+(There are no invariants under the general linear group of all invertible linear transformations because these transformations can be multiplication by a scaling factor.
+This is called an invariant because it is unchanged by linear substitutions ''x''→''ax'' + ''by'', ''y''→''cx'' + ''dy'' with determinant ''ad'' − ''bc'' = 1.
+One of only two women students in a university of 986, Noether was only allowed to audit classes rather than participate fully, and required the permission of individual professors whose lectures she wished to attend.
+Although she sometimes acted rudely toward those who disagreed with her, she nevertheless gained a reputation for constant helpfulness and patient guidance of new students.
+To remedy this, classical invariant theory also considered ''relative invariants'', which were forms invariant up to a scale factor.)
+In particular, she developed a completely new theory of ideals in rings, generalizing earlier work of Richard Dedekind.
+* A series of high school workshops and competitions are held in her honor in May of each year since 2001, originally hosted by a subsequent woman mathematics Privatdozent of the University of Göttingen.
+Noether's paper, ''Idealtheorie in Ringbereichen'' (''Theory of Ideals in Ring Domains'', 1921), is the foundation of general commutative ring theory, and gives one of the first general definitions of a commutative ring.
+In 1919 the University of Göttingen allowed Noether to proceed with her ''habilitation'' (eligibility for tenure).
+Helmut Hasse dedicated an article to her in the ''Mathematische Annalen'', wherein he confirmed her suspicion that some aspects of noncommutative algebra are simpler than those of commutative algebra, by proving a noncommutative reciprocity law.
+In 1924 a young Dutch mathematician, B. L. van der Waerden, arrived at the University of Göttingen.
+The chain condition also may be inherited by combinations or extensions of a Noetherian object.
+Her solution shows that the ring of invariants is generated by homogeneous invariants whose degree is less than, or equal to, the order of the finite group; this is called '''Noether's bound'''.
+She had three younger brothers.
+Its activities includes local research projects, conferences, short-term visitors, post-doc fellowships, and the Emmy Noether lectures (an annual series of distinguished lectures).
+Noether proved that in a ring which satisfies the ascending chain condition on ideals, every ideal is finitely generated.
+The youngest, Gustav Robert, was born in 1889.
+In their most general form, these consist of a choice of group, a set, and an ''action'' of the group on the set, that is, an operation which takes an element of the group and an element of the set and returns an element of the set.
+Often the first ring is a field.
+Such conditions and the theory of ideals enabled Noether to generalize many older results and to treat old problems from a new perspective, such as elimination theory and the algebraic varieties that had been studied by her father.
+In the first epoch (1907–19), Noether dealt primarily with differential and algebraic invariants, beginning with her dissertation under Paul Gordan.
+When World War I ended, the German Revolution of 1918–19 brought a significant change in social attitudes, including more rights for women.
+Any set of things that obeys all the rules for one (or two) operation(s) is, by definition, a group (or ring), and obeys all theorems about groups (or rings).
+In addition to her own publications, Noether was generous with her ideas and is credited with several lines of research published by other mathematicians, even in fields far removed from her main work, such as algebraic topology.
+Instead, she used her lectures as a spontaneous discussion time with her students, to think through and clarify important cutting-edge problems in mathematics.
+In physics, Noether's theorem explains the connection between symmetry and conservation laws.
+The significance of the Galois group derives from the fundamental theorem of Galois theory, which proves that the fields lying between the ground field and the splitting field are in one-to-one correspondence with the subgroups of the Galois group.
+As another example, if a physical experiment has the same outcome at any place and at any time, then its laws are symmetric under continuous translations in space and time; by Noether's theorem, these symmetries account for the conservation laws of linear momentum and energy within this system, respectively.
+This was an unconventional decision; two years earlier, the Academic Senate of the university had declared that allowing mixed-sex education would "overthrow all academic order".
+In fiction, Emmy Nutter, the physics professor in "The God Patent" by Ransom Stephens, is based on Emmy Noether.
+A colleague later described her this way: "Completely unegotistical and free of vanity, she never claimed anything for herself, but promoted the works of her students above all."
+Galois theory concerns transformations of number fields that permute the roots of an equation.
+In her 1915 paper, Noether found a solution to the finite basis problem for a finite group of transformations ''G'' acting on a finite-dimensional vector space over a field of characteristic zero.
+(She first mentioned this problem in a 1913 paper, where she attributed the problem to her colleague Fischer.)
+On 14 April she fell unconscious, her temperature soared to , and she died.
+The Lasker–Noether theorem can be viewed as a generalization of the fundamental theorem of arithmetic which states that any positive integer can be expressed as a product of prime numbers, and that this decomposition is unique.
+The old guard at Göttingen should take some lessons from Miss Noether!
+For example, all subspaces of a Noetherian space, are Noetherian themselves; all subgroups and quotient groups of a Noetherian group are likewise, Noetherian; and, ''mutatis mutandis'', the same holds for submodules and quotient modules of a Noetherian module.
+Noether's suggestion that topology be studied algebraically was adopted immediately by Hopf, Alexandrov, and others, and it became a frequent topic of discussion among the mathematicians of Göttingen.
+Noether used these sorts of symmetries in her work on invariants in physics.
+The real utility of modules is that the kinds of modules that exist and their interactions, reveal the structure of the ring in ways that are not apparent from the ring itself.
+Mathematicians of previous centuries had worked on practical methods for solving specific types of equations, e.g., cubic, quartic, and quintic equations, as well as on the related problem of constructing regular polygons using compass and straightedge.
+One can ask for all polynomials in ''A'', ''B'', and ''C'' that are unchanged by the action of ''SL''2; these are called the invariants of binary quadratic forms, and turn out to be the polynomials in the discriminant.
+Noether's groundbreaking work in algebra began in 1920.
+Noether's work ''Abstrakter Aufbau der Idealtheorie in algebraischen Zahl- und Funktionenkörpern'' (''Abstract Structure of the Theory of Ideals in Algebraic Number and Function Fields'', 1927) characterized the rings in which the ideals have unique factorization into prime ideals as the Dedekind domains: integral domains that are Noetherian, 0 or 1-dimensional, and integrally closed in their quotient fields.
+The integers do not form a division ring, because the second operation cannot always be inverted; there is no integer ''a'' such that 3&nbsp;×&nbsp;''a''&nbsp;=&nbsp;1.
+Perimeter Institute is also home to the Emmy Noether Council, a group of volunteers made up of international community, corporate and philanthropic leaders work together to increase the number of women in physics and mathematical physics at Perimeter Institute.
+*Perimeter Institute for Theoretical Physics annually awards Emmy Noether Visiting Fellowships  to outstanding female theoretical physicists.
+There were 420 official participants and twenty-one plenary addresses presented.
+Examples of noncommutative rings include matrices and quaternions.
+Her life and work remain a tremendous inspiration".
+Continuing the previous example, if the field is enlarged to the complex numbers, then the polynomial gains two roots, ''i'' and −''i'', where ''i'' is the imaginary unit, that is, .
+Van der Waerden later said that her originality was "absolute beyond comparison".
+The first operation must make the set a group, and the second operation is associative and distributive with respect to the first operation.
+At Bryn Mawr, Noether met and befriended Anna Wheeler, who had studied at Göttingen just before Noether arrived there.
+His first proof caused some controversy because it did not give a method for constructing the generators, although in later work he made his method constructive.
+Noted algebraist Irving Kaplansky called this work "revolutionary"; the publication gave rise to the term "Noetherian ring" and the naming of several other mathematical objects as ''Noetherian''.
+Hermann Weyl and Richard Brauer traveled from Princeton and spoke with Wheeler and Taussky about their departed colleague.
+For example, there is a group which represents the rigid rotations of space.
+For illustration, suppose that a new physical phenomenon is discovered.
+''Monatshefte für Mathematik und Physik'' (1936) '''44''', 203–24.
+From 1913 to 1916 Noether published several papers extending and applying Hilbert's methods to mathematical objects such as fields of rational functions and the invariants of finite groups.
+One way of proving a statement about the objects of ''S'' is to assume the existence of a counterexample and deduce a contradiction, thereby proving the contrapositive of the original statement.
+Noether showed early proficiency in French and English.
+The physical system itself need not be symmetric; a jagged asteroid tumbling in space conserves angular momentum despite its asymmetry.
+In the third epoch (1927–35), Noether focused on noncommutative algebra, linear transformations, and commutative number fields.
+In Göttingen, Noether supervised more than a dozen doctoral students; her first was Grete Hermann, who defended her dissertation in February 1925.
+In April 1933 Noether received a notice from the Prussian Ministry for Sciences, Art, and Public Education which read: "On the basis of paragraph 3 of the Civil Service Code of 7 April 1933, I hereby withdraw from you the right to teach at the University of Göttingen."
+The archetypal example of an invariant is the discriminant ''B''2 − 4''AC'' of a binary quadratic form ''Ax''2 + ''Bxy'' + ''Cy''2.
+She was especially happy to see Soviet advancements in the fields of science and mathematics, which she considered indicative of new opportunities made possible by the Bolshevik project.
+During her first years teaching at Göttingen she did not have an official position and was not paid; her family paid for her room and board and supported her academic work.
+Worried about complications from surgery, they ordered two days of bed rest first.
+A collection of subsets of a given set satisfies the ascending chain condition if any ascending sequence becomes constant after a finite number of steps.
+In 1932 Emmy Noether and Emil Artin received the Ackermann–Teubner Memorial Award for their contributions to mathematics.
+A sequence of non-empty subsets ''A''1, ''A''2, ''A''3, etc.
+As one of the leading mathematicians of her time, she developed the theories of rings, fields, and algebras.
+Techniques such as Hilbert's original non-constructive solution to the finite basis problem could not be used to get quantitative information about the invariants of a group action, and furthermore, they did not apply to all group actions.
+Nevertheless, her colleagues expressed frustration at the fact that she was not elected to the Göttingen ''Gesellschaft der Wissenschaften'' (academy of sciences) and was never promoted to the position of ''Ordentlicher Professor'' (full professor).
+In the winter of 1928–29 Noether accepted an invitation to Moscow State University, where she continued working with P. S. Alexandrov.
+Rather, the symmetry of the ''physical laws'' governing the system is responsible for the conservation law.
+In order to prove the original statement, therefore, it suffices to prove something seemingly much weaker: For any counterexample, there is a smaller counterexample.
+Noether and a small team of students worked quickly through van der Waerden's 1930 book ''Moderne Algebra I'' and parts of Erich Hecke's ''Theorie der algebraischen Zahlen'' (''Theory of algebraic numbers'').
+Although Noether did not seek recognition, he included as a note in the seventh edition "based in part on lectures by E. Artin and E. Noether".
+The prize carried a monetary reward of 500&nbsp;Reichsmarks and was seen as a long-overdue official recognition of her considerable work in the field.
+After teaching there for seven years, he took a position in the Bavarian city of Erlangen, where he met and married Ida Amalia Kaufmann, the daughter of a prosperous merchant.
+In his obituary, fellow algebraist BL van der Waerden says that her mathematical originality was "absolute beyond comparison", and Hermann Weyl said that Noether "changed the face of algebra by her work".
+Later, after she had been dismissed by the Third Reich, she invited students into her home to discuss their plans for the future and mathematical concepts.
+* The German Research Foundation (Deutsche Forschungsgemeinschaft) operates the ''Emmy Noether Programme'', providing funding to early-career researchers to rapidly qualify for a leading position in science and research by leading an independent junior research group.
+The congress was attended by 800 people, including Noether's colleagues Hermann Weyl, Edmund Landau, and Wolfgang Krull.
+He regained mobility, but one leg remained affected.
+She originally planned to teach French and English after passing the required examinations, but instead studied mathematics at the University of Erlangen, where her father lectured.
+By definition, a Noetherian ring satisfies an ascending chain condition on its left and right ideals, whereas a Noetherian group is defined as a group in which every strictly ascending chain of subgroups is finite.
+Much of Noether's work in the first epoch of her career was associated with invariant theory, principally algebraic invariant theory.
+"It is possible that there was some form of unusual and virulent infection, which struck the base of the brain where the heat centers are supposed to be located."
+Suppose that ''S'' is a partially ordered set.
+In her 1926 paper, Noether extended Hilbert's theorem to representations of a finite group over any field; the new case that did not follow from Hilbert's work is when the characteristic of the field divides the order of the group.
+Noether's advisor, Paul Gordan, was known as the "king of invariant theory", and his chief contribution to mathematics was his 1870 solution of the finite basis problem for invariants of homogeneous polynomials in two variables.
+* Consistent with her dedication to her students, the University of Siegen houses its mathematics and physics departments in buildings on ''the Emmy Noether Campus''.
+Later, after she had turned to more abstract methods, Noether called her thesis ''Mist'' (crap) and ''Formelngestrüpp'' (a jungle of equations).
+"Outsiders" who occasionally visited Noether's lectures usually spent only 30&nbsp;minutes in the room before leaving in frustration or confusion.
+The Galois group of a polynomial is the set of all ways of transforming the splitting field, while preserving the ground field and the roots of the polynomial.
+Antisemitic attitudes created a climate hostile to Jewish professors.
+She sometimes allowed her colleagues and students to receive credit for her ideas, helping them develop their careers at the expense of her own.
+Any pair of integers can be added or multiplied, always resulting in another integer, and the first operation, addition, is commutative, i.e., for any elements a and b in the ring, ''a''&nbsp;+&nbsp;''b'' = ''b''&nbsp;+&nbsp;''a''.
+The Brauer–Noether theorem gives a characterization of the splitting fields of a central division algebra over a field.
+In addition to her mathematical insight, Noether was respected for her consideration of others.
+At about the same time Noether's father retired and her brother joined the German Army to serve in World War I.
+She developed a close circle of colleagues and students who thought along similar lines and tended to exclude those who did not.
+Despite these obstacles, on 14 July 1903 she passed the graduation exam at a ''Realgymnasium'' in Nuremberg.
+Its main topics are Algebraic Geometry, Group theory and Complex Function Theory.
+Noether spoke quickly—reflecting the speed of her thoughts, many said—and demanded great concentration from her students.
+She made elegant use of the ascending chain condition, and objects satisfying it are named ''Noetherian'' in her honor.
+Although politics was not central to her life, Noether took a keen interest in political matters and, according to Alexandrov, showed considerable support for the Russian Revolution (1917).
+For example, the discriminant gives a finite basis (with one element) for the invariants of binary quadratic forms.
+The degrees of generators need not satisfy Noether's bound when the characteristic of the field divides the |''G''|, but Noether was not able to determine whether this bound was correct when the characteristic of the field divides |''G''|!
+When Adolf Hitler became the German ''Reichskanzler'' in January 1933, Nazi activity around the country increased dramatically.
+She tried to arrange for him to obtain a position at Göttingen as a regular professor, but was only able to help him secure a scholarship from the Rockefeller Foundation.
+As a girl, Noether was well liked.
+For illustration, if a physical system behaves the same, regardless of how it is oriented in space, the physical laws that govern it are rotationally symmetric; from this symmetry, Noether's theorem shows the angular momentum of the system must be conserved.
+For the next seven years (1908–15) she taught at the University of Erlangen's Mathematical Institute without pay, occasionally substituting for her father when he was too ill to lecture.
+From 1926 to 1930 Russian topologist Pavel Alexandrov lectured at the university, and he and Noether quickly became good friends.
+Her performance qualified her to teach languages at schools reserved for girls, but she chose instead to continue her studies at the University of Erlangen.
+Gordan retired in the spring of 1910, but continued to teach occasionally with his successor, Erhard Schmidt, who left shortly afterward for a position in Breslau.
+He proved this by giving a constructive method for finding all of the invariants and their generators, but was not able to carry out this constructive approach for invariants in three or more variables.
+Meanwhile, her brother, Fritz accepted a position at the Research Institute for Mathematics and Mechanics in Tomsk, in the Siberian Federal District of Russia, after losing his job in Germany.
+Although many of her former colleagues had been forced out of the universities, she was able to use the library as a "foreign scholar".
+She seems to know her stuff."
+Noether is credited with fundamental ideas that led to the development of algebraic topology from the earlier combinatorial topology, specifically, the idea of homology groups.
+Noether was contacted by representatives of two educational institutions, Bryn Mawr College in the United States and Somerville College at the University of Oxford in England.
+Emmy's father, Max Noether, was descended from a family of wholesale traders in Germany.
+The underlying set of the module and its operation must form a group.
+* The crater Nöther on the far side of the Moon is named after her.
+In 1969, R. G. Swan found a counter-example to Noether's problem, with  and ''G'' a cyclic group of order 47 (although this group can be realized as a Galois group over the rationals in other ways).
+In her classic paper ''Idealtheorie in Ringbereichen'' (''Theory of Ideals in Ring Domains'', 1921) Noether developed the theory of ideals in commutative rings into a tool with wide-ranging applications.
+She also worked closely with Wolfgang Krull, who greatly advanced commutative algebra with his ''Hauptidealsatz'' and his dimension theory for commutative rings.
+If every non-zero element has a multiplicative inverse (an element x such that ax = xa = 1), the ring is called a division ring.
+For illustration, a system of equations often can be written in the form of a matrix ''M'' (missing the variable ''x'') times a vector ''v'' (having only different powers of ''x'') equaling the zero vector, .
+However, she remarked about Princeton University that she was not welcome at the "men's university, where nothing female is admitted".
+Integer numbers, and the operations of addition and multiplication, are just one example.
+This single work by Noether was of fundamental importance for the development of modern algebra.
+Noether left for Göttingen in late April; two weeks later her mother died suddenly in Erlangen.
+During the 1903–04 winter semester, she studied at the University of Göttingen, attending lectures given by astronomer Karl Schwarzschild and mathematicians Hermann Minkowski, Otto Blumenthal, Felix Klein, and David Hilbert.
+Very little is known about his life; he suffered from chronic illness and died in 1928.
+Hilbert had observed that the conservation of energy seemed to be violated in general relativity, because gravitational energy could itself gravitate.
+In the spring of 1915, Noether was invited to return to the University of Göttingen by David Hilbert and Felix Klein.

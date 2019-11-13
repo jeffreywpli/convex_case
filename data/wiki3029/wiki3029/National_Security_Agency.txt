@@ -1,0 +1,200 @@
+This was corroborated by the NSA Director, General Keith Alexander, before it was revealed that the XKeyscore program collects the contents of millions of emails from US citizens without warrant, as well as "nearly everything a user does on the Internet".
+The first thing he added, was more presidential directive and oversight so that privacy and basic rights are not violated.
+Alexander later admitted that "content" is collected, but stated that it is simply stored and never analyzed or searched unless there is "a nexus to al-Qaida or other terrorist groups".
+In 2011 the same court noted that the "volume and nature" of the NSA's bulk foreign Internet intercepts was "fundamentally different from what the court had been led to believe".
+As part of the latter, historically ''EPQs'' or "embarrassing personal questions" about sexual behavior had been included in the NSA polygraph.
+COMSEC remained in Washington, D.C., until its new building was completed in 1968.
+It means that an employee could be discharged and disgraced on the basis of anonymous allegations without the slightest opportunity to defend himself."
+According to the papers of the late General William Odom, the INDRA facility was upgraded in 1986 with a new British-made PUSHER CDAA antenna as part of an overall upgrade of NSA and Thai SIGINT facilities whose objective was to spy on the neighboring communist nations of Vietnam, Laos, and Cambodia.
+This memo appears to give credence to previous speculation by cryptographers at Microsoft Research.
+In the aftermath of the September 11 attacks, the NSA created new IT systems to deal with the flood of information from new technologies like the Internet and cellphones.
+Previously, the NSA paid billions of dollars to telecommunications companies in order to collect data from them.
+As part of the National Security Presidential Directive 54/Homeland Security Presidential Directive 23 (NSPD 54), signed on January 8, 2008 by President Bush, the NSA became the lead agency to monitor and protect all of the federal government's computer networks from cyber-terrorism.
+The NSA has also spied extensively on the European Union, the United Nations and numerous governments including allies and trading partners in Europe, South America and Asia.
+On March 30, 2015, shortly before 9&nbsp;am, a stolen sports utility vehicle approached an NSA police vehicle blocking the road near the gate of Fort Meade, after it was told to leave the area.
+For example, every keystroke is logged, activities are audited at random and downloading and printing of documents from NSANet are recorded.
+After Edward Snowden revealed his identity in 2013, the NSA began requiring polygraphing of employees once per quarter.
+Additionally, the NSA Director simultaneously serves as the Commander of the United States Cyber Command and as Chief of the Central Security Service.
+_NSAKEY was a variable name discovered in Microsoft's Windows NT 4 Service Pack 5 (which had been released unstripped of its symbolic debugging data) in August 1999 by Andrew D. Fernandes of Cryptonym Corporation.
+In November 3, 1999 the BBC reported that they had confirmation from the Australian Government of the existence of a powerful "global spying network" code-named Echelon, that could "eavesdrop on every single phone call, fax or e-mail, anywhere on the planet" with Britain and the United States as the chief protagonists.
+It is likely that the NSA presence at Khon Kaen is relatively small, and that most of the work is done by civilian contractors.
+Some NSA whistleblowers complained internally about major problems surrounding Trailblazer.
+SCS collection tactics allegedly encompass "close surveillance, burglary, wiretapping, breaking and entering".
+Because of weaknesses and key length restrictions in SHA-1, NIST deprecates its use for digital signatures, and approves only the newer SHA-2 algorithms for such applications from 2013 on.
+However, if the Patent Office receives an application for an identical patent from a third party, they will reveal NSA's patent and officially grant it to NSA for the full term on that date.
+The United States Senate Select Committee on Intelligence reviewed NSA's involvement, and concluded that while the agency had provided some assistance, it had not tampered with the design.
+This "collect it all" strategy introduced by NSA director, Keith B. Alexander, is believed by Glenn Greenwald of ''The Guardian'' to be the model for the comprehensive world-wide mass archiving of communications which NSA is engaged in as of 2013.
+According to a report in ''The Washington Post'' in July 2014, relying on information provided by Snowden, 90% of those placed under surveillance in the U.S. are ordinary Americans, and are not the intended targets.
+These groups were divided in units designated by an additional number, like unit A5 for breaking Soviet codes, and G6, being the office for the Middle East, North Africa, Cuba, Central and South America.
+The widely used SHA-1 and SHA-2 hash functions were designed by NSA.
+Signals Intelligence Directive 18 of President George Bush, was the Highlander Project undertaken for the National Security Agency by the U.S. Army 513th Military Intelligence Brigade.
+In 1998, NSANet, along with NIPRNET and SIPRNET, had "significant problems with poor search capabilities, unorganized data and old information".
+Although many of NSA's programs rely on "passive" electronic collection, the agency is authorized to accomplish its mission through active clandestine means, among which are physically bugging electronic systems and allegedly engaging in sabotage through subversive software.
+In 2011, NSA at Ft. Meade was Maryland's largest consumer of power.
+Snowden claims he suggested such a rule in 2009.
+As part of these streamlining responsibilities, the agency has a co-located organization called the Central Security Service (CSS), which was created to facilitate cooperation between NSA and other U.S. military cryptanalysis components.
+In 1961, NSA had 59,000 military and civilian employees, which grew to 93,067 in 1969, of which 19,300 worked at the headquarters at Fort Meade.
+There is also a PUSHER-type circularly-disposed antenna array (CDAA) array just north of the ops compound.
+The visitor center includes a painting of the NSA seal.
+They threatened to resign over the matter, but ultimately the NSA's programs continued.
+While it is assumed that foreign transmissions terminating in the U.S. (such as a non-U.S. citizen accessing a U.S. website) subject non-U.S. citizens to NSA surveillance, recent research into boomerang routing has raised new concerns about the NSA's ability to surveil the domestic Internet traffic of foreign countries.
+The eagle represents the agency's national mission.
+The station is approximately 40 ha (100 acres) in size and consists of a large 3,700–4,600 m2 (40,000–50,000&nbsp;ft2) operations building on the west side of the ops compound and four radome-enclosed parabolic antennas.
+The lawsuit challenged the National Security Agency's (NSA's) surveillance of people within the U.S., including the interception of CCR emails without securing a warrant first.
+"I cannot imagine a more 'indiscriminate' and 'arbitrary invasion' than this systematic and high tech collection and retention of personal data on virtually every single citizen for purposes of querying and analyzing it without prior judicial approval...Surely, such a program infringes on 'that degree of privacy' that the founders enshrined in the Fourth Amendment".
+It is a classified network, for information up to the level of TS/SCI to support the use and sharing of intelligence data between NSA and the signals intelligence agencies of the four other nations of the Five Eyes partnership.
+The proposal was strongly opposed and key escrow requirements ultimately went nowhere.
+In the months leading to April 2009, the NSA intercepted the communications of American citizens, including a Congressman, although the Justice Department believed that the interception was unintentional.
+The four NSA buildings became known as the "Big Four."
+The sender, recipient, and subject line of emails can be included, but the content of the messages or of phone calls are not.
+NSA's infrastructure deteriorated in the 1990s as defense budget cuts resulted in maintenance deferrals.
+On January 24, 2000, NSA headquarters suffered a total network outage for three days caused by an overloaded network.
+It was originally reported to be a program to develop a system of sensors to detect cyber attacks on critical infrastructure computer networks in both the private and public sector through a network monitoring system named ''Einstein''.
+David Kahn criticized the NSA's tactics of concealing its doings as smug and the Congress' blind faith in the agency's right-doing as shortsighted, and pointed out the necessity of surveillance by the Congress to prevent abuse of power.
+They were established by the French and British governments to read the letters of targeted individuals, employing a variety of techniques to surreptitiously open, copy, and reseal correspondence before forwarding it to unsuspecting recipients.
+Investigations by the House Un-American Activities Committee and a special subcommittee of the United States House Committee on Armed Services revealed severe cases of ignorance in personnel security regulations, prompting the former personnel director and the director of security to step down and leading to the adoption of stricter security practices.
+The video, ten minutes long, is titled "The Truth About the Polygraph" and was posted to the Web site of the Defense Security Service.
+That year, the NSA founded the NSA Hall of Honor, a memorial at the National Cryptologic Museum in Fort Meade, Maryland.
+The espionage group named the Equation Group, described by discoverers Kaspersky Labs as one of the most advanced (if not the most advanced) in the world as of 2015, and connected to over 500 malware infections in at least 42 countries over many years, is suspected of being a part of NSA.
+However, NSA's Fortezza hardware-based encryption cards, created for the Clipper project, are still used within government, and NSA ultimately declassified and published the design of the Skipjack cipher used on the cards.
+There are also "special access examination" polygraphs for employees who wish to work in highly sensitive areas, and those polygraphs cover counterintelligence questions and some questions about behavior.
+According to NSA's Tailored Access Operations (TAO) group implant catalog, after implanting Cottonmouth, the NSA can establish Bridging (networking) "that allows the NSA to load exploit software onto modified computers as well as allowing the NSA to relay commands and data between hardware and software implants."
+Indeed, I have little doubt that the author of our Constitution, James Madison, who cautioned us to beware 'the abridgement of freedom of the people by gradual and silent encroachments by those in power,' would be aghast."
+BoundlessInformant employs big data databases, cloud computing technology, and Free and Open Source Software (FOSS) to analyze data collected worldwide by the NSA.
+The name refers to the "red badge" which is worn by someone without a security clearance.
+In addition, some argued that FISA was implicitly overridden by a subsequent statute, the Authorization for Use of Military Force, although the Supreme Court's ruling in Hamdan v. Rumsfeld deprecates this view.
+President Obama made a speech on January 17, 2014 where he defended the national security measures, including the NSA, and their intentions for keeping the country safe through surveillance.
+The thousands of Top Secret internal NSA documents that were taken by Edward Snowden in 2013 were stored in "a file-sharing location on the NSA's intranet site" so they could easily be read online by NSA personnel.
+In September 2008, the Electronic Frontier Foundation (EFF) filed a class action lawsuit against the NSA and several high-ranking officials of the Bush administration, charging an "illegal and unconstitutional program of dragnet communications surveillance," based on documentation provided by former AT&T technician Mark Klein.
+Its breast features a shield with bands of red and white, taken from the Great Seal of the United States and representing Congress.
+The '''National Security Agency''' ('''NSA''') is an intelligence organization of the United States government, responsible for global monitoring, collection, and processing of information and data for foreign intelligence and counterintelligence purposes, a discipline known as signals intelligence (SIGINT).
+Increments II and III are expected to be completed by 2030, and would quadruple the space, covering  with 60 buildings and 40 parking garages.
+The NSA also spies on influential Muslims to obtain information that could be used to discredit them, such as their use of pornography.
+The two, dressed in women's clothing after a night of partying at a motel with the man they'd stolen the SUV from that morning, "attempted to drive a vehicle into the National Security Agency portion of the installation without authorization", according to an NSA statement.
+mentioned in 'Recommendation 30' on page 37, "...that the National Security Council staff should manage an interagency process to review on a regular basis the activities of the US Government regarding attacks that exploit a previously unknown vulnerability in a computer application."
+NSA/CSS has, at times, attempted to restrict the publication of academic research into cryptography; for example, the Khufu and Khafre block ciphers were voluntarily withheld in response to an NSA request to do so.
+NSA was reported in 2008 to use its computing capability to analyze "transactional" data that it regularly acquires from other government agencies, which gather it under their own jurisdictional authorities.
+The president would look over requests on behalf of American citizens to make sure that their personal privacy is not violated by the data that is being requested.
+The number of exemptions from legal requirements has been criticized.
+NSA has been involved in debates about public policy, both indirectly as a behind-the-scenes adviser to other departments, and directly during and after Vice Admiral Bobby Ray Inman's directorship.
+In 1997, Lotus negotiated an agreement with the NSA that allowed export of a version that supported stronger keys with 64 bits, but 24 of the bits were encrypted with a special key and included in the message to provide a "workload reduction factor" for the NSA.
+Yet, the bill was accepted by an overwhelming majority.
+The new ruling made by the Second District Court of Appeals now retroactively dismisses the findings of the FISC on this program.
+On March 11, 2004, President Bush signed a new authorization for mass surveillance of Internet records, in addition to the surveillance of phone records.This allowed the president to be able to override laws such as the Foreign Intelligence Surveillance Act, which protected civilians from mass surveillance.
+The NSA tagged Zazi as a possible threat because he was contacting people affiliated with terrorist activity through emails, which the NSA was able to obtain through one of PRISM's dragnets.
+The very same day, an NSA clerk-messenger committed suicide as ongoing investigations disclosed that he had sold secret information to the Soviets on a regular basis.
+As of May 7, 2015, the U.S. Court of Appeals for the Second Circuit ruled that the interpretation of Section 215 of the Patriot Act was wrong and that the NSA program that has been collecting Americans' phone records in bulk is illegal.
+He said that it is difficult to determine where the line should be drawn between what is too much surveillance and how much is needed for national security because technology is ever changing and evolving.
+Ft. Meade is about  southwest of Baltimore, and  northeast of Washington, DC.
+A dedicated unit of the NSA locates targets for the CIA for extrajudicial assassination in the Middle East.
+It cost 3.2&nbsp;billion and covers .
+In 2013, a new Consolidated Intelligence Center, also to be used by NSA, is being built at the headquarters of the United States Army Europe in Wiesbaden, Germany.
+It is located at NSA headquarters.
+The DoD Computer Security Center was founded in 1981 and renamed the National Computer Security Center (NCSC) in 1985.
+Surely, such a program infringes on 'that degree of privacy' that the Founders enshrined in the Fourth Amendment.
+Because of concerns that widespread use of strong cryptography would hamper government use of wiretaps, NSA proposed the concept of key escrow in 1993 and introduced the Clipper chip that would offer stronger protection than DES but would allow access to encrypted data by authorized law enforcement officials.
+NSA employees must be retired for more than fifteen years to qualify for the memorial.
+The specific requirements for domestic surveillance operations are contained in the Foreign Intelligence Surveillance Act of 1978 (FISA), which does not extend protection to non-U.S. citizens located outside of U.S. territory.
+Data gathered include email, video and voice chat, videos, photos, VoIP chats such as Skype, and file transfers.
+Some universities that do highly sensitive research are allowed to connect to it.
+Unlike the Defense Intelligence Agency (DIA) and the Central Intelligence Agency (CIA), both of which specialize primarily in foreign human espionage, NSA does not unilaterally conduct human-source intelligence gathering, despite often being portrayed so in popular culture.
+A new hash standard, SHA-3, has recently been selected through the competition concluded October 2, 2012 with the selection of Keccak as the algorithm.
+NSA's United States Signals Intelligence Directive 18 (USSID 18) strictly prohibited the interception or collection of information about "... U.S. persons, entities, corporations or organizations...." without explicit written legal permission from the United States Attorney General when the subject is located abroad, or the Foreign Intelligence Surveillance Court when within U.S. borders.
+NSA held a groundbreaking ceremony at Ft. Meade in May 2013 for its High Performance Computing Center 2, expected to open in 2016.
+The NSA has specified Suite A and Suite B cryptographic algorithm suites to be used in U.S. government systems; the Suite B algorithms are a subset of those previously specified by NIST and are expected to serve for most information protection purposes, while the Suite A algorithms are secret and are intended for especially high levels of protection.
+Regarding the necessity of these NSA programs, Alexander stated on June 27 that the NSA's bulk phone and Internet intercepts had been instrumental in preventing 54 terrorist "events", including 13 in the US, and in all but one of these cases had provided the initial tip to "unravel the threat stream".
+Zazi called off the attacks after receiving a tip about law-enforcement inquiries and was later arrested.
+Linus Torvalds, the founder of Linux kernel, joked during a LinuxCon keynote on September 18, 2013 that the NSA, who are the founder of SELinux, wanted a backdoor in the kernel.
+NSA's partnership with Bundesnachrichtendienst (BND), the German foreign intelligence service, was confirmed by BND president Gerhard Schindler.
+NSA is the largest employer in the U.S. state of Maryland, and two-thirds of its personnel work at Ft. Meade.
+This would give phone companies the freedom to dispose the records in an 18-month period.
+The White House argued that this new ruling validated President Obama's support of the government being extracted from bulk data collection and giving power to the telecommunications companies.
+Ultimately they compromised on a 56-bit key."
+On July 18, 2013, Greenwald said that Snowden held "detailed blueprints of how the NSA does what they do", thereby sparking fresh controversy.
+In 2010 the NSA produced a video explaining its polygraph process.
+Retired cyber security expert Richard A. Clarke was a group member and stated on April 11 that NSA had no advance knowledge of Heartbleed.
+President Barack Obama has asked lawyers and his national security team to look at the tactics that are being used by the NSA.
+Dozens of journalists were corralled into a parking lot blocks away from the scene, and were barred from photographing the area.
+In 1963 the new headquarters building, nine stories tall, opened.
+At that point, the unit consisted of Yardley and two civilian clerks.
+MI-8 also operated the so-called "Black Chamber".
+The involvement of NSA in the selection of a successor to Data Encryption Standard (DES), the Advanced Encryption Standard (AES), was limited to hardware performance testing (see AES competition).
+The origins of the National Security Agency can be traced back to April 28, 1917, three weeks after the U.S. Congress declared war on Germany in World War I.
+NSA relayed telephone (including cell phone) conversations obtained from ground, airborne, and satellite monitoring stations to various U.S. Army Signal Intelligence Officers, including the 201st Military Intelligence Battalion.
+On July 5, 1917, Herbert O. Yardley was assigned to head the unit.
+George W. Bush, president during the 9/11 terrorist attacks, approved the Patriot Act shortly after the attacks to take anti-terrorist security measures.
+In 2009, to protect its assets and to access more electricity, NSA sought to decentralize and expand its existing facilities in Ft. Meade and Menwith Hill, the latter expansion expected to be completed by 2015.
+Jointly supported by the State Department and the War Department, the chamber persuaded Western Union, the largest U.S. telegram company, to allow government officials to monitor private communications passing through the company's wires.
+However, these protections do not apply to non-U.S. persons located outside of U.S. borders, so the NSA's foreign surveillance efforts are subject to far fewer limitations under U.S. law.
+This access is tightly controlled and monitored.
+NCSC was responsible for computer security throughout the federal government.
+Restrictions on export were reduced but not eliminated in 1996.
+Domestically, the NSA collects and stores metadata records of phone calls, including over 120 million US Verizon subscribers, as well as Internet communications, relying on a secret interpretation of the Patriot Act whereby the entirety of US communications may be considered "relevant" to a terrorism investigation if it is expected that even a tiny minority may relate to terrorism.
+Moreover, NSA maintains physical presence in a large number of countries across the globe, where its Special Collection Service (SCS) inserts eavesdropping devices in difficult-to-reach places.
+Since President Truman's memo was a classified document, the existence of the NSA was not known to the public at that time.
+It has since been reported that the NSA violated its own rules on data access thousands of times a year, many of these violations involving large-scale data interceptions; and that NSA officers have even used data intercepts to spy on love interests.
+On April 25, 2013, the NSA obtained a court order requiring Verizon's Business Network Services to provide metadata on all calls in its system to the NSA "on an ongoing daily basis" for a three-month period, as reported by ''The Guardian'' on June 6, 2013.
+World War I ended on November 11, 1918, and MI-8 moved to New York City on May 20, 1919, where it continued intelligence activities as the Code Compilation Company under the direction of Yardley.
+He and his defenders claim that he was actually being persecuted for challenging the Trailblazer Project.
+The building is covered with one-way dark glass, which is lined with copper shielding in order to prevent espionage by trapping in signals and sounds.
+The network allows NSA personnel and civilian and military intelligence analysts anywhere in the world to have access to the agency's systems and databases.
+Sometimes applicants in the polygraph process confess to committing felonies such as murder, rape, and selling of illegal drugs.
+SAIC, Boeing, CSC, IBM, and Litton worked on it.
+It has since been observed that the S-boxes in DES are particularly resilient against differential cryptanalysis, a technique which was not publicly discovered until the late 1980s, but which was known to the IBM DES team.
+Called Site M, the center has a 150 megawatt power substation, 14 administrative buildings and 10 parking garages.
+The reluctance of Congressional houses to look into these affairs had prompted a journalist to write, "If a similar series of tragic blunders occurred in any ordinary agency of Government an aroused public would insist that those responsible be officially censured, demoted, or fired."
+United States Attorney General Eric Holder resumed the program according to his understanding of the Foreign Intelligence Surveillance Act amendment of 2008, without explaining what had occurred.
+Conversely, NSA tried to convince IBM to reduce the length of the key from 64 to 48 bits.
+However, later, Linus' father, a Member of the European Parliament (MEP), revealed that the NSA actually did this.
+In August 2013 it was revealed that a 2005 IRS training document showed that NSA intelligence intercepts and wiretaps, both foreign and domestic, were being supplied to the Drug Enforcement Administration (DEA) and Internal Revenue Service (IRS) and were illegally used to launch criminal investigations of US citizens.
+Turbulence started in 2005.
+A code and cipher decryption unit was established as the Cable and Telegraph Section which was also known as the ''Cipher Bureau''.
+Alleged Echelon-related activities, including its use for motives other than national security, including political and industrial espionage, received criticism from countries outside the UKUSA alliance.
+A 2013 advisory group for the Obama administration, seeking to reform NSA spying programs following the revelations of documents released by Edward J. Snowden.
+XKeyscore rules (as specified in a file xkeyscorerules100.txt, sourced by German TV stations NDR and WDR, who claim to have excerpts from its source code) reveal that the NSA tracks users of privacy-enhancing software tools, including Tor; an anonymous email service provided by the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) in Cambridge, Massachusetts; and readers of the ''Linux Journal''.
+The NSA headquarters includes a cafeteria, a credit union, ticket counters for airlines and entertainment, a barbershop, and a bank.
+The Foreign Intelligence Surveillance Court for example held in October 2011, citing multiple Supreme Court precedents, that the Fourth Amendment prohibitions against unreasonable searches and seizures applies to the contents of all communications, whatever the means, because "a person's private communications are akin to personal papers."
+Both NIST and RSA are now officially recommending against the use of this PRNG.
+Conversations of citizens of the U.S. were intercepted, along with those of other nations.
+Federal agents are then instructed to "recreate" the investigative trail via parallel construction.
+NSA officers fired on the SUV, killing the 27-year-old driver, Ricky Hall (a transgender person also known as Mya), and seriously injuring his 20-year-old male passenger.
+This small modification was suggested by NSA two years later, with no justification other than the fact that it provides additional security.
+This was designed to limit the practice of mass surveillance in the United States.
+The methods used to deploy the tools demonstrated "surgical precision", going so far as to exclude specific countries by IP and allow targeting of specific usernames on discussion forums.
+The USA Freedom Act forbids the NSA to collect metadata and content of phone calls unless it has a warrant for terrorism investigation.
+In December 1951, President Harry S. Truman ordered a panel to investigate how AFSA had failed to achieve its goals.
+On July 6, 2007 the 6th Circuit Court of Appeals vacated the decision on the grounds that the ACLU lacked standing to bring the suit.
+A small amount of cocaine was found in the SUV.
+These changes potentially undermine the cryptanalysis performed during the competition and reduce the security levels of the algorithm.
+The process to select SHA-3 was similar to the one held in choosing the AES, but some doubts have been cast over it, since fundamental modifications have been made to Keccak in order to turn it into a standard.
+One is at the US Embassy in Bangkok, a joint NSA-CIA Special Collection Service (SCS) unit.
+NSANet is a highly secured computer network consisting of fiber-optic and satellite communication channels which are almost completely separated from the public Internet.
+Edward Snowden claims that the NSA often bypasses encryption altogether by lifting information before it is encrypted or after it is decrypted.
+They confirmed that Menwith Hill was "linked directly to the headquarters of the US National Security Agency (NSA) at Fort Meade in Maryland".
+Its secure government communications work has involved the NSA in numerous technology areas, including the design of specialized communications hardware and software, production of dedicated semiconductors (at the Ft. Meade chip fabrication plant), and advanced cryptography research.
+According to the leaked documents, the NSA intercepts the communications of over a billion people worldwide, many of whom are American citizens, and tracks the movement of hundreds of millions of people using cellphones.
+In 2013 ''Der Spiegel'' stated that the NSA had 40,000 employees.
+The management of NSANet has been delegated to the Central Security Service Texas (CSSTEXAS).
+That variable contained a 1024-bit public key.
+Since then, it has become one of the largest U.S. intelligence organizations in terms of personnel and budget, operating as part of the Department of Defense and simultaneously reporting to the Director of National Intelligence.
+The utility of such a massive metadata collection in preventing terrorist attacks is disputed.
+It is expected to be operational by September 2013.
+It is made of black granite, and has 171 names carved into it,  .
+It stated that Section 215 cannot be clearly interpreted to allow government to collect national phone data and, as a result, expired on June 1, 2015.
+NSA surveillance has been a matter of political controversy on several occasions, such as its spying on anti-Vietnam war leaders or economic espionage.
+The Justice Department then took action to correct the issues and bring the program into compliance with existing laws.
+This led to investigations by Congress and the NSA and DoD Inspectors General.
+Computers seized by the NSA due to interdiction are often modified with a physical device known as Cottonmouth Cottonmouth is a device that can be inserted in the USB port of a computer in order to establish remote access to the targeted machine.
+The key is taken from the emblem of Saint Peter and represents security.
+One such report, released by the New America Foundation concluded that after an analysis of 225 terrorism cases, the NSA  "had no discernible impact on preventing acts of terrorism."
+The new bill getting passed later in May taking its place is known as the U.S.A. Freedom Act, which will enable the NSA to continue hunting for terrorists by analyzing telephone links between callers but "keep the bulk phone records in the hands of phone companies."
+In 1999, a multi-year investigation by the European Parliament highlighted the NSA's role in economic espionage in a report entitled 'Development of Surveillance Technology and Risk of Abuse of Economic Information'.
+Research at the University of Toronto has suggested that approximately 25% of Canadian domestic traffic may be subject to NSA surveillance activities as a result of the boomerang routing of Canadian Internet service providers.
+However, the project turned out to be controversial, and an internal review by the NSA concluded that its Minaret program was "disreputable if not outright illegal".
+After the Church Committee hearings, the Foreign Intelligence Surveillance Act of 1978 was passed into law.
+When the NSA was created, the agency had no emblem and used that of the Department of Defense.
+At the entrance, a white pentagonal structure, visitor badges are issued to visitors and security clearances of employees are checked.
+Most of the disclosures were leaked by former NSA contractor, Edward Snowden.
+It has also managed to weaken much of the encryption used on the Internet (by collaborating with, coercing or otherwise infiltrating numerous technology companies), so that the majority of Internet privacy is now vulnerable to the NSA and other attackers.
+Although no public patent exists, NSA is reported to have used a similar locating technology called trilateralization that allows real-time tracking of an individual's location, including altitude from ground level, using data obtained from cellphone towers.
+The Real Time Regional Gateway is a data collection program introduced in 2005 in Iraq by NSA during the Iraq War that consisted of gathering all electronic communication, storing it, then searching and otherwise analyzing it.

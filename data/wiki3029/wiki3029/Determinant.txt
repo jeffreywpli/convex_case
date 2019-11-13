@@ -1,0 +1,200 @@
+Unfortunately this interesting method does not always work in its original form.
+The Jacobian also occurs in the inverse function theorem.
+Expressed in terms of the entries of ''A'', these are
+It computes more products than the determinant definition requires, but some of these products cancel and the sum of these products can be computed more efficiently.
+Thus, for complex matrices ,
+In particular, if ''A'' is invertible, we have
+Thus the totally antisymmetric Levi-Civita symbol  extends the signature of a permutation, by setting  for any permutation σ of ''n'', and  when no permutation σ exists such that  for  (or equivalently, whenever some pair of indices are equal).
+# Viewing an  matrix as being composed of ''n'' rows, the determinant is an ''n''-linear function.
+Properties 1, 7 and 9 — which all follow from the Leibniz formula — completely characterize the determinant; in other words the determinant is the unique function from  matrices to scalars that is ''n''-linear alternating in the columns, and takes the value 1 for the identity matrix (this characterization holds even if scalars are taken in any given commutative ring).
+It can be viewed as the scaling factor of the transformation described by the matrix.
+Due to the sine this already is the signed area, yet it may be expressed more conveniently using the cosine of the complementary angle to a perpendicular vector, e.g.
+In this he used the word '''''determinant''''' in its present sense, summarized and simplified what was then known on the subject, improved the notation, and gave the multiplication theorem with a proof more satisfactory than Binet's.
+one with the same number of rows and columns.
+The absolute value of the determinant together with the sign becomes the ''oriented area'' of the parallelogram.
+It is sometimes useful to extend the Leibniz formula to a summation in which not only permutations, but all sequences of ''n'' indices in the  range  occur, ensuring that the contribution of a sequence will be zero unless it denotes a permutation.
+Sylvester's criterion asserts that this is equivalent to the determinants of the submatrices
+Laplace's formula expresses the determinant of a matrix in terms of its minors.
+For example, for , ,  and , respectively,
+(See determinant identities.)
+(Here it is understood that an eigenvalue with algebraic multiplicities   occurs  times in this list.)
+Similarly, adding a scalar multiple of one row to another row leaves the determinant unchanged.
+There are various equivalent ways to define the determinant of a square matrix ''A'', i.e.
+An algorithm of Mahajan and Vinay, and Berkowitz is based on closed ordered walks (short ''clow'').
+for any column vectors ''v''1, …, ''v''''n'', and ''w'' and any scalars (elements of ''K'') ''a'' and ''b''.
+Examples include the LU decomposition, the QR decomposition or the Cholesky decomposition (for positive definite matrices).
+This scheme for calculating the determinant of a  matrix does not carry over into higher dimensions.
+where the sum is taken over the set of all integers ''kl'' ≥ 0 satisfying the equation
+The same sort of procedure can be used to find the determinant of a 4 × 4 matrix, the determinant of a 5 × 5 matrix, and so forth.
+See the Wronskian and linear independence.
+Over non-commutative rings, there is no reasonable notion of a multilinear form (existence of a nonzero bilinear form with a regular element of ''R'' as value on some pair of arguments implies that ''R'' is commutative).
+The determinant of the (upper) triangular matrix ''D'' is the product of its entries on the main diagonal: .
+(''n'' factorial) for an  matrix ''M''.
+For example, in the Leibniz formula, an infinite sum (all of whose terms are infinite products) would have to be calculated.
+This fact also implies that every other ''n''-linear alternating function  satisfies
+More generally, if the determinant of ''A'' is positive, ''A'' represents an orientation-preserving linear transformation (if ''A'' is an orthogonal  or  matrix, this is a rotation), while if it is negative, ''A'' switches the orientation of the basis.
+The Fredholm determinant defines the determinant for operators known as trace class operators by an appropriate generalization of the formula
+If it can be shown that the Wronskian is zero everywhere on an interval then, in the case of analytic functions, this implies the given functions are linearly dependent.
+Axisymmetric determinants have been studied by Lebesgue, Hesse, and Sylvester; persymmetric determinants by Sylvester and Hankel; circulants by Catalan, Spottiswoode, Glaisher, and Scott; skew determinants and Pfaffians, in connection with the theory of orthogonal transformation, by Cayley; continuants by Sylvester; Wronskians (so called by Muir) by Christoffel and Frobenius; compound determinants by Sylvester, Reiss, and Picquet; Jacobians and Hessians by Sylvester; and symmetric gauche determinants by Trudi.
+The special case where , the identity matrix, yields
+The object known as the ''bivector'' is related to these ideas.
+In the language of category theory, the determinant is a natural transformation between the two functors GL''n'' and (⋅)×.
+The permanent of a matrix is defined as the determinant, except that the factors sgn(σ) occurring in Leibniz's rule are omitted.
+Let   be an arbitrary  matrix of complex numbers with eigenvalues , , … .
+This identity is used in describing the tangent space of certain matrix Lie groups.
+between the group of invertible  matrices with entries in ''R'' and the multiplicative group of units in ''R''.
+For example, a matrix ''A'' with entries in '''Z''', the integers, is invertible (in the sense that there exists an inverse matrix with integer entries) if the determinant is +1 or −1.
+''C'' is obtained from ''B'' by adding the first to the third row, so that .
+The final algorithm looks very much like an iterated product of triangular matrices.
+The determinant of such a matrix determines whether the orientation of the basis is consistent with or opposite to the orientation of the standard basis.
+These methods are of order O(''n''3), which is a significant improvement over O(''n''!)
+The study of special forms of determinants has been the natural result of the completion of the general theory.
+To show that  is the signed area, one may consider a matrix containing two vectors  and  representing the parallelogram's sides.
+Nonetheless, explicitly calculating determinants is required in some situations, and different methods are available to do so.
+It has recently been shown that Cramer's rule can be implemented in O(''n''3) time, which is comparable to more common methods of solving systems of linear equations, such as LU, QR, or singular value decomposition.
+# Adding a scalar multiple of one column to ''another'' column does not change the value of the determinant.
+More generally, any permutation of the rows or columns multiplies the determinant by the sign of the permutation.
+The determinant of ''A'' is given by
+For matrices with an infinite number of rows and columns, the above definitions of the determinant do not carry over directly.
+Both these approaches are extremely inefficient for large matrices, though, since the number of required operations grows very quickly: it is of order ''n''!
+An important arbitrary  dimension   identity can be obtained from the  Mercator series expansion of the logarithm when
+In the case of a 2 × 2 matrix, the specific formula for the determinant:
+For matrices over non-commutative rings, properties 7 and 8 are incompatible for , so there is no good definition of the determinant in this setting.
+If we write an  matrix ''A'' in terms of its column vectors
+As a consequence, if  is the linear map represented by the matrix ''A'', and ''S'' is any measurable subset of '''R'''''n'', then the volume of ''f''(''S'') is given by |det(''A'')| times the volume of ''S''.
+Determinants are mainly used as a theoretical tool.
+The volume of any tetrahedron, given its vertices '''a''', '''b''', '''c''', and '''d''', is , or any other combination of pairs of vertices that would form a spanning tree over the vertices.
+or, for real matrices   ,
+The set of all such permutations (also known as the symmetric group on ''n'' elements) is denoted S''n''.
+If two matrices of order ''n'' can be multiplied in time ''M''(''n''), where  for some , then the determinant can be computed in time O(''M''(''n'')).
+This is a consequence of properties 7 and 9 in the following way: by property&nbsp;7 the determinant changes by a multiple of the determinant of a matrix with two equal columns, which determinant is 0 by property&nbsp;9.
+Another way to define the determinant is expressed in terms of the columns of the matrix.
+We call this scalar the determinant of ''T''.
+For example, the determinant of the complex conjugate of a complex matrix (which is also the determinant of its conjugate transpose) is the complex conjugate of its determinant, and for integer matrices: the reduction modulo&nbsp;''m'' of the determinant of such a matrix is equal to the determinant of the matrix reduced modulo&nbsp;''m'' (the latter determinant being computed using modular arithmetic).
+Such expressions are deducible from combinatorial arguments, Newton's identities, or the Faddeev–LeVerrier algorithm.
+Immediately following, Lagrange (1773) treated determinants of the second and third order and applied it to questions of elimination theory; he proved many special cases of general identities.
+Cayley-Hamilton theorem.
+The minor ''M''''i'',''j'' is defined to be the determinant of the -matrix that results from ''A'' by removing the ''i''th row and the ''j''th column.
+The Bareiss Algorithm, on the other hand, is an exact-division method based on Sylvester's identity is also of order ''n''3, but the bit complexity is roughly the bit size of the original entries in the matrix times ''n''.
+Assume ''A'' is a square matrix with ''n'' rows and ''n'' columns, so that it can be written as
+For example, switching two columns changes the sign of the determinant; likewise, permuting the vectors in the exterior product  to , say, also changes its sign.
+If the determinant is +1, the basis has the same orientation.
+Like Lagrange, he made much use of determinants in the theory of numbers.
+where  is the identity matrix.
+In the general case, this may also be obtained from
+For example, the determinant of a  matrix ''A'' () is
+Here, ''B'' is obtained from ''A'' by adding −1/2×the first row to the second, so that .
+For example, the determinant of
+Therefore, more involved techniques have been developed for calculating determinants.
+In linear algebra, the '''determinant''' is a useful value that can be computed from the elements of a square matrix.
+Here the sum is computed over all permutations σ of the set  A permutation is a function that reorders this set of integers.
+The determinants of ''L'' and ''U'' can be quickly calculated, since they are the products of the respective diagonal entries.
+(The parallelogram formed by the columns of ''A'' is in general a different parallelogram, but since the determinant is symmetric with respect to rows and columns, the area will be the same.)
+If it is −1, the basis has the opposite orientation.
+For example, Leibniz's formula requires calculating ''n''!
+Second, ''D'' is an alternating function: for any matrix ''A'' with two identical columns .
+using big O notation.
+As pointed out above, the absolute value of the determinant of real vectors is equal to the volume of the parallelepiped spanned by those vectors.
+Thus, the set of such matrices (of fixed size ''n'') form a group known as the special linear group.
+where ''b'' and ''c'' are scalars, ''v'' is any vector of size ''n'' and ''I'' is the identity matrix of size ''n''.
+In America, Hanus (1886), Weld (1893), and Muir/Metzler (1933) published treatises.
+The use of determinants in calculus includes the Jacobian determinant in the change of variables rule for integrals of functions of several variables.
+Thus the determinant is a ''multiplicative map''.
+The determinant det(''A'') of a matrix ''A'' is non-zero if and only if ''A'' is invertible or, yet another equivalent statement, if its rank equals the size of the matrix.
+For this reason, the highest non-zero exterior power Λ''n''(''V'') is sometimes also called the determinant of ''V'' and similarly for more involved objects such as vector bundles or chain complexes of vector spaces.
+Since the definition of the determinant does not need divisions, a question arises: do fast algorithms exist that do not need divisions?
+When the entries of the matrix are taken from a field (like the real or complex numbers), it can be proven that any matrix has a unique inverse if and only if its determinant is nonzero.
+The next contributor of importance is Binet (1811, 1812), who formally stated the theorem relating to the product of two matrices of ''m'' columns and ''n'' rows, which for the special case of  reduces to the multiplication theorem.
+The determinant of ''A'' is then
+By calculating the volume of the tetrahedron bounded by four points, they can be used to identify skew lines.
+This is especially interesting for matrices over rings.
+Finally, ''D'' is obtained from ''C'' by exchanging the second and third row, so that .
+The determinant can be thought of as assigning a number to every sequence of ''n'' vectors in '''R'''''n'', by using the square matrix whose columns are the given vectors.
+This definition can also be extended where ''K'' is a commutative ring ''R'', in which case a matrix is invertible if and only if its determinant is a invertible element in ''R''.
+The trace tr(''A'') is by definition the sum of the diagonal entries of  and also equals the sum of the eigenvalues.
+A Hermitian matrix is positive definite if all its eigenvalues are positive.
+More generally, the word "special" indicates the subgroup of another matrix group of matrices of determinant one.
+Naive methods of implementing an algorithm to compute the determinant include using the Leibniz formula or Laplace's formula.
+The signed area can be expressed as  for the angle ''θ'' between the vectors, which is simply base times height, the length of one vector times the perpendicular component of the other.
+Adding yet another layer of abstraction, this is captured by saying that the determinant is a morphism of algebraic groups, from the general linear group to the multiplicative group,
+This follows from properties 7 and 9 (it is a general property of multilinear alternating maps).
+As mentioned above, the determinant of a matrix (with real or complex entries, say) is zero if and only if the column vectors (or the row vectors) of the matrix are linearly dependent.
+terms), so it will first be given explicitly for the case of  matrices and  matrices, followed by the rule for arbitrary size matrices, which subsumes these two cases.
+Similarly, suppose we have a 3 × 3 matrix ''A'', and we want the specific formula for its determinant |''A''|:
+Here ''I''''n'' is the identity matrix.
+Charles Dodgson (i.e.
+The adjugate matrix adj(''A'') is the transpose of the matrix consisting of the cofactors, i.e.,
+For example, given two linearly independent vectors ''v''1, ''v''2 in '''R'''3, a third vector ''v''3 lies in the plane spanned by the former two vectors exactly if the determinant of the  matrix consisting of the three vectors is zero.
+where now each ''ir'' and each ''jr'' should be summed over .
+Its determinant, the Jacobian determinant, appears in the higher-dimensional version of integration by substitution: for suitable functions ''f'' and an open subset ''U'' of '''R'''''n'' (the domain of ''f''), the integral over ''f''(''U'') of some other function  is given by
+where adj(''A'') denotes the adjugate of ''A''.
+He introduced the word '''''determinant''''' (Laplace had used ''resultant''), though not in the present signification, but rather as applied to the discriminant of a quantic.
+The next important figure was Jacobi (from 1827).
+where the right-hand side is the continued product of all the differences that can be formed from the ''n''(''n''−1)/2 pairs of numbers taken from ''x''1, ''x''2, …, ''x''''n'', with the order of the differences taken in the reversed order of the suffixes that are involved.
+Determinants occur throughout mathematics.
+The LU decomposition expresses ''A'' in terms of a lower triangular matrix ''L'', an upper triangular matrix ''U'' and a permutation matrix ''P'':
+Examples include the special orthogonal group (which if ''n'' is 2 or 3 consists of all rotation matrices), and the special unitary group.
+If the matrix entries are real numbers, the matrix ''A'' can be used to represent two linear maps:  one that maps the standard basis vectors to the rows of ''A'', and one that maps them to the columns of ''A''.
+To each linear transformation ''T'' on ''V'' we associate a linear transformation ''T''′ on ''W'', where for each ''w'' in ''W'' we define .
+This property is a consequence of the characterization given above of the determinant as the unique ''n''-linear alternating function of the columns with value&nbsp;1 on the identity matrix, since the function  that maps  can easily be seen to be ''n''-linear and alternating in the columns of ''M'', and takes the value det(''A'') at the identity.
+It is non-zero (for some ''x'') in a specified interval if and only if the given functions and all their derivatives up to order ''n''−1 are linearly independent.
+Nevertheless, various notions of non-commutative determinant have been formulated, which preserve some of the properties of determinants, notably quasideterminants and the Dieudonné determinant.
+Gauss (1801) made the next advance.
+This formula can also be used to find the determinant of a matrix  with multidimensional indices  and .
+The determinant for an  matrix can then be expressed using an ''n''-fold summation as
+(See Cauchy–Binet formula.)
+For the example  matrix
+The vector space ''W'' of all alternating multilinear ''n''-forms on an ''n''-dimensional vector space ''V'' has dimension one.
+is notation for the product of the entries at positions , where ''i'' ranges from 1 to ''n'':
+Such techniques are referred to as decomposition methods.
+However, Laplace expansion is efficient for small matrices only.
+The value in the ''i''th position after the reordering σ is denoted σ''i''.
+Various other theorems can be proved as well, including that the determinant of a product of matrices is always equal to the product of determinants; and, the determinant of a Hermitian matrix is always real.
+For example, a matrix is often used to represent the coefficients in a system of linear equations, and the determinant can be used to solve those equations, although more efficient techniques are actually used, some of which are determinant-revealing and consist of computationally effective ways of computing the determinant itself.
+The immanant generalizes both by introducing a character of the symmetric group S''n'' in Leibniz's rule.
+This follows from the characterization of the determinant given above.
+Yet another equivalent formulation is
+Functional analysis provides different extensions of the determinant for such infinite-dimensional situations, which however only work for particular kinds of operators.
+The oriented area is the same as the usual area, except that it is negative when the angle from the first to the second vector defining the parallelogram turns in a clockwise direction (which is opposite to the direction one would get for the identity matrix).
+The product of all non-zero eigenvalues is referred to as pseudo-determinant.
+Algorithms can also be assessed according to their bit complexity, i.e., how many bits of accuracy are needed to store intermediate values occurring in the computation.
+The formula can be expressed in terms of the complete exponential Bell polynomial of ''n'' arguments ''s''''l'' = - (''l'' – 1)!
+This expression grows rapidly with the size of the matrix (an  matrix contributes ''n''!
+Moreover, the decomposition can be chosen such that ''L'' is a unitriangular matrix and therefore has determinant&nbsp;1, in which case the formula further simplifies to
+For example, here is the result for a 4 × 4 matrix:
+These properties mean that the determinant is an alternating multilinear function of the columns that maps the identity matrix to the underlying unit scalar.
+The same idea is also used in the theory of differential equations: given ''n'' functions ''f''1(''x''), …, ''f''''n''(''x'') (supposed to be  times differentiable), the Wronskian is defined to be
+The determinant of ''P'' is just the sign  of the corresponding permutation (which is +1 for an even number of permutations and is −1 for an uneven number of permutations).
+Given a matrix ''A'', some methods compute its determinant by writing ''A'' as a product of matrices whose determinants can be more easily computed.
+:(c) For a column and row vector as above, .
+In particular, products and inverses of matrices with determinant one still have this property.
+The determinant of ''A'' is denoted as det(''A''), or it can be denoted directly in terms of the matrix entries by writing enclosing bars instead of brackets:
+Laplace expansion along the second column (, the sum runs over ''i'') yields:
+Finally, ''D''(''I''''n'') = 1.
+Laplace (1772)  gave the general method of expanding a determinant in terms of its complementary minors: Vandermonde had already given a special case.
+Sometimes, determinants are used merely as a compact notation for expressions that would otherwise be unwieldy to write down.
+It was Vandermonde (1771) who first recognized determinants as independent functions.
+These inequalities can be proved by bringing the matrix ''A'' to the diagonal form.
+where ω''j'' is an ''n''th root of 1.
+A meaning can be given to the Leibniz formula provided that the order for the product is specified, and similarly for other ways to define the determinant, but non-commutativity then leads to the loss of many fundamental properties of the determinant, for instance the multiplicative property or the fact that the determinant is unchanged under transposition of the matrix.
+For each permutation σ, sgn(σ) denotes the signature of σ, a value that is +1 whenever the reordering given by σ can be achieved by successively interchanging two entries an even number of times, and −1 whenever it can be achieved by an odd number of such interchanges.
+Secondly, given a ring homomorphism , there is a map  given by replacing all entries in ''R'' by their images under ''f''.
+The absolute value of  is the area of the parallelogram, and thus represents the scale factor by which areas are transformed by ''A''.
+The rule of Sarrus is a mnemonic for the  matrix determinant: the sum of the products of three diagonal north-west to south-east lines of matrix elements, minus the sum of the products of three diagonal south-west to north-east lines of elements, when the copies of the first two columns of the matrix are written beside it as in the illustration.
+can be computed using the following matrices:
+Lewis Carroll of Alice's Adventures in Wonderland fame) invented a method for computing determinants called Dodgson condensation.
+where the  are vectors of size ''n'', then the determinant of ''A'' is defined so that
+for some finite-dimensional vector space ''V'' is defined to be the determinant of the matrix describing it, with respect to an arbitrary choice of basis in ''V''.
+For instance, an orthogonal matrix with entries in '''R'''''n'' represents an orthonormal basis in Euclidean space.
+This definition agrees with the more concrete coordinate-dependent definition.
+By permutation, it is meant viewing each row as a vector '''R'''''i'' (equivalently each column as '''C'''''i'') and reordering the rows (or columns) by interchange of '''R'''''j'' and '''R'''''k'' (or '''C'''''j'' and '''C'''''k''), where ''j'',''k'' are two indices chosen from 1 to ''n'' for an  square matrix.
+The determinant defines a mapping
+This means that whenever two columns of a matrix are identical, or more generally some column can be expressed as a linear combination of the other columns (i.e.
+When the determinant is equal to one, the linear mapping defined by the matrix is equi-areal and orientation-preserving.
+Conversely, determinants can be used to find the eigenvalues of the matrix : they are the solutions of the characteristic equation
+The parallelogram defined by the rows of the above matrix is the one with vertices at , , , and , as shown in the accompanying diagram.
+This means, for example, that an O(''n''2.376) algorithm exists based on the Coppersmith–Winograd algorithm.
+Since it respects the multiplication in both groups, this map is a group homomorphism.
+being positive, for all  between 1 and .
+While less technical in appearance, this characterization cannot entirely replace the Leibniz formula in defining the determinant, since without it the existence of an appropriate function is not clear.
+These determinants are either 0 (by property&nbsp;8) or else ±1 (by properties 1 and&nbsp;11 below), so the linear combination gives the expression above in terms of the Levi-Civita symbol.

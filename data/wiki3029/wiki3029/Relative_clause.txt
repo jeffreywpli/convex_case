@@ -1,0 +1,200 @@
+:'''' ("This is a table '''on which''' you can put a lot of things")
+That’s the man who I saw yesterday.
+Its usage has two specific rules: it agrees with the antecedent in gender, number and case, and it is used only if the antecedent is definite.
+Note that the shared noun can either be repeated entirely in the main clause or reduced to a pronoun.
+It is "correlative" because of the corresponding "which ... that ..." demonstratives or "which ... she/he/it ..." pronouns, which indicate the respective nouns being equated.
+(relative pronoun present)
+Chinese and Japanese both using gapping in conjunction with an indeclinable complementizer).
+If the antecedent is indefinite, no relative pronoun is used.
+In some languages, more than one of these mechanisms may be possible.
+If it is the direct object, then it is usually suppressed, though it is also correct to leave it in.
+That’s the man I was talking about.
+That's the man I saw yesterday.
+*Relative clause following the head noun, as in English, French or Arabic.
+"I saw the man who is my friend", but also (in progressively less accessible positions cross-linguistically, according to the ''accessibility hierarchy'' described below) "... who I know", "... who I gave a book to", "... who I spoke with", "... who I run slower than".
+A '''restrictive''', or '''defining''', relative clause modifies the meaning of its head word (restricts its possible referent), whereas a '''non-restrictive''' or '''non-defining''' relative clause merely provides supplementary information.
+The rules of suppression in Arabic are identical to those of Hebrew: obligatory suppression in the case that the pronoun is the subject of the relative clause, obligatory retention in the case that the pronoun is the object of a preposition, and at the discretion of the speaker if the pronoun is the direct object.
+:"The boy I saw in class yesterday is missing today".
+*For a non-human antecedent in a non-restrictive clause, only "which" is used ("The tree, ''which'' fell, is over there"); while either "which" or "that" may be used in a restrictive clause ("The tree ''which'' fell is over there", "The tree ''that'' fell is over there")but some styles and prescriptive grammars require the use of "that" in the restrictive context.
+These languages might form an equivalent sentence by passivization:
+Note that these passivized sentences get progressively more ungrammatical in English as they move down the accessibility hierarchy; the last two, in particular, are so ungrammatical as to be almost unparsable by English speakers.
+::The house in which I live is very old.
+Rank or the Relational Hierarchy.
+(''The '''cities''', '''which''' I saw, were large.'')
+in many Austronesian languages, such as Tagalog, all relative clauses must have the shared noun serving the subject role in the embedded clause.
+Case-marked relative pronouns in the strict sense are almost entirely confined to European languages, where they are widespread except among the Celtic family and Indo-Aryan family.
+'', "The-chair is to-hand-your.")
+With omitted relative pronoun
+These languages have the relative clause completely outside the main clause, and use a correlative structure to link the two.
+:'''' ("I spoke with a woman whose son I work with."
+That’s the man whom I saw yesterday.
+Whereas Israeli ''she-'' functions both as complementizer and relativizer, ''ashér'' can only function as a relativizer."
+Some other examples:
+In many European languages, relative clauses are introduced by a special class of pronouns called ''relative pronouns'', such as ''who'' in the example just given.
+That’s the man who I gave the letter to.
+'', "The-chair '''that'''-is-to-hand-your is broken.")
+In this type, the position relativized is indicated by means of a personal pronoun in the same syntactic position as would ordinarily be occupied by a noun phrase of that type in the main clause—known as a ''resumptive pronoun''.
+:'''''Urbēs''', '''quās''' vīdī, erant magnae.''
+It is equivalent to saying "The man who I saw him yesterday went home".
+English, for example, is generally head-first, but has adjectives preceding their head nouns, and genitive constructions with both preceding and following modifiers ("the friend of my father" vs. "my father's friend").
+One motivation for the different treatment of "that" is that there are differences between "that" and "which" (e.g., one can say "in which" but not "in that", etc.
+With obliques and genitives, non-verb-final languages that do not have politeness restrictions on pronoun use tend to use pronoun retention.
+for pronominal reflexes.
+In Modern Standard and Classical Arabic there is a relative pronoun (in Arabic:  ) ''allaḏī'' (masculine singular), feminine singular ''allatī'', masculine plural ''allaḏīna'', feminine plural ''allawātī'', masculine dual ''allaḏānī'' (nominative) / ''allaḏayni'' (accusative and genitive), feminine dual ''allatānī'' (nom.)
+*Of the relative pronoun pair "who" and "whom", the ''subjective'' case form ("who") is used if it is the subject of the relative clause ("He is the policeman who saw me"); and, in formal usage, the ''objective'' case form ("whom") if it is the object of the verb or preposition in the relative clause ("He is the policeman whom I saw", "He is the policeman whom I talked to", "He is the policeman to whom I talked"); but in informal usage "whom" is often replaced by "who".
+(An alternative analysis is that the free relative clause has zero as its antecedent.)
+Lexical Functional Grammar where it is known as Syntactic
+John knows the girl I wrote a letter to.
+*"I met two women yesterday, one with a thick French accent and one with a mild Italian one.
+The status of "that" as a relative pronoun is not universally agreed.
+In the latter example, both are still feminine and plural, and ''urbēs'' is still in the nominative case, but ''quae'' has been replaced by ''quās'', its accusative-case counterpart, to reflect its role as the direct object of ''vīdī''.
+When the pronoun is left in, ''she-'' might more properly be called a relativizer than a relative pronoun.
+In Latin, relative clauses follow the noun phrases they modify, and are always introduced using relative pronouns.
+They also occur in deeply embedded positions in English, as in "That's the girl that I don't know what she did", although this is sometimes considered non-standard.
+("The chair, '''which''' you are sitting on, is broken.")
+Similar hierarchies have been proposed in other circumstances, e.g.
+*''The cat was allowed on the bed, '''which annoyed the dog'''.''
+Various possibilities for ordering are:
+In these languages, relative clauses with shared nouns serving "disallowed" roles can be expressed by passivizing the embedded sentence, thereby moving the noun in the embedded sentence into the subject position.
+**The girl whom I gave a rose to came to visit.
+Resumptive pronouns are common in non-verb-final languages of Africa and Asia, and also used by the Celtic languages of northwest Europe and Romanian ("Omul pe care l-am văzut ieri a mers acasă"/"The man who I saw him yesterday went home").
+Instead, '''', which usually means "what", is used.
+("The chair '''that''' you are sitting on is broken.")
+For example, ''Ha-kise adom'' means "The chair is red," while ''Ha-kis'e ha-adom shavur'' means "The red chair is broken"—literally, "The chair the red is broken.")
+The hierarchy also figures in
+In English, as in some other languages (such as French; see below), non-restrictive relative clauses are set off with commas, but restrictive ones are not:
+Except for the simple adjective-phrase clauses described above, these speakers set off all relative clauses, restrictive or not, with commas:
+**The girl whom I like came to visit.
+However, it is sometimes said these languages have no relative clauses at all, since the sentences of this form can equally well translate as  "I saw the man who was going home yesterday" or "I saw the man yesterday when/while he was going home".
+**The girl whom I watched a movie with came to visit.
+:'''' ("That's a man '''about whom''' I believe that he must make a lot of money.")
+In non-verb-final languages, apart from languages like Thai and Vietnamese with very strong politeness distinctions in their grammars, gapped relative clauses tend however to be restricted to positions high up in the accessibility hierarchy.
+These languages are said to have nonreduced relative clauses.
+:Isn't it they who saw him there?
+Further, because Hebrew does not generally use its word for ''is'', ''she-'' is used to distinguish adjective phrases used in epithet from adjective phrases used in attribution:
+"the poncho he is dancing with"
+The positioning of a relative clause before or after a head noun is related to the more general concept of branching in linguistics.
+*Relative clause preceding the head noun, as in Turkish, Japanese, or Chinese.
+The girl who came late is my sister.
+Since 1994, the official rules of Modern Hebrew (as determined by the Academy of the Hebrew Language) have stated that relative clauses are to be punctuated in Hebrew the same way as in English (described above).
+:''Ha-kise, '''she-'''ata yoshev alav, shavur.''
+The only difference from Hebrew is that, in the case of the direct object, it is preferable to retain the pronoun rather than suppress it.
+:''Das Haus, in dem ich wohne, ist sehr alt.''
+Languages which cannot relativize directly on noun phrases low in the accessibility hierarchy can sometimes use alternative voices to "raise" the relevant noun phrase so that it can be relativized.
+That’s the man to whom I gave the letter.
+This (''who lives in this house'') is a restrictive relative clause, modifying the meaning of ''man'', and essential to the sentence (if the clause were omitted, it would no longer be known which man is being referred to).
+An example of a non-finite relative clause in English is the infinitive clause ''on whom to rely'', in the sentence "She is the person on whom to rely".
+This construction is also used in non-possessive cases where the pronoun replaces an object marked by '''':
+"food", or "those who eat".
+*The girl who was been taller than by me came to visit.
+in explanations of binding facts.
+A further example is languages that can relativize only subjects and direct objects.
+These languages have a structure equivalent to "I saw the man yesterday went home".
+This is the most common type of relative clause, especially in verb-final languages with prenominal relative clauses, but is also widespread among languages with postnominal externally headed relative clauses.
+Generally, languages such as this "conspire" to implement general relativization by allowing passivization from ''all'' positions — hence a sentence equivalent to "The man who is run slower than by me" is grammatical.
+When the pronoun is to act as the object of a preposition (other than when '''' is used), '''' is generally used, though '''' can be used if the antecedent is human.
+(This use of ''she-'' does not occur with simple adjectives, as Hebrew has a different way of making that distinction.
+*The girl who I gave a rose came to visit.
+:'''''Urbēs''', '''quae''' sunt magnae, videntur.
+However many languages do not distinguish the two types of relative clause in this way.
+:There's one other girl she no can stay still
+Dialects of some European languages, such as Italian, do use the nonreduction type in forms that could be glossed in English as "The man just passed us by, he introduced me to the chancellor here."
+the order of elements on the ''subcat'' list, and interacts with other principles
+The relative pronoun ''dem'' is neuter singular to agree with ''Haus'', but dative because it follows a preposition in its own clause.
+The first person I can't run faster than will win a million dollars.
+In Persian and Classical Arabic, for example, resumptive pronouns are required when the embedded role is other than the subject or direct object, and optional in the case of the direct object.
+*The girl who was liked by me came to visit.
+:''al-waladu (a)lladhi ra’aytuhu fī (a)ṣ-ṣaffi ’amsi ġā’ibun al-yawma''
+Instead, the relative clause itself takes the place of an argument in the matrix clause.
+To reuse the prior example:
+:'''' ("This is obviously something '''that '''he has thought a lot '''about '''.")
+("The chair next to you is broken."—''lit.
+There may or may not be any marker used to join the relative and main clauses.
+Turkish and Japanese are prototypical languages of this sort.
+:''C'est manifestement quelque chose à laquelle il a beaucoup réfléchi.''
+The preposition always appears before the pronoun, and the prepositions '''' and '''' (at/to) contract with '''' to form '''' and '''', or with '''' to form '''' and ''''.
+Here, the context of the sentence (presumably) indicates that ''which'' refers not to the bed or the cat but to the entire proposition expressed in the main clause, namely the circumstance that the cat was allowed on the bed.
+(Nonetheless, it is possible for the pronoun and antecedent to be in the same case.)
+It is generally indicated by a relative pronoun at the start of the clause, although sometimes simply by word order.
+This is used, for example, in Navajo, which uses a special relative verb (as with some other Native American languages).
+The influence of Spanish has led to their adaption by a very small number of Native American languages, of which the best-known are the Keresan languages.
+The girl whose father died told me she was sad.
+As with bound relative clauses, ambiguity may arise; for example, 吃的 ''chī de'' "eat (particle)" may mean "that which is eaten", i.e.
+That’s the man I gave the letter to.
+In general, however, nonreduction is restricted to verb-final languages, though it is more common among those that are head-marking.
+'', "The chair, '''which''' you are sitting '''on it''', is broken.")
+("The chair '''that''' you are sitting on is broken," ''or'' "The chair, '''which''' you are sitting on, is broken.")
+Usually, languages with gapping disallow it beyond a certain level in the accessibility hierarchy, and switch to a different strategy at this point.
+If it is the object of a preposition, it must be left in, because in Hebrew—unlike in English—a preposition cannot appear without its object.
+In German, all relative clauses are marked with commas.
+On the same basis, it would be possible to substitute the pronoun ''welchem''.
+Semitic *''‘athar'') Alternatively, Hebrew ''‘asher'' derived from ''she-'', or it was a convergence of Proto-Semitic ''dhu'' (cf.
+Traditional grammars treat "that" as a relative pronoun, but not all contemporary grammars do: e.g.
+In meaning, the two are interchangeable; they are used regardless of whether the clause is modifying a human, regardless of their grammatical case in the relative clause, and regardless of whether the clause is restrictive.
+The former is called ''jumlat sila'' (conjunctive sentence) while the latter is called ''jumlat sifa'' (descriptive sentence).
+Here are some examples of the NP and relative clause usage from English:
+There exists a further complication when the antecedent is a non-human indefinite pronoun.
+Note that the shared argument need not fulfill the same role in both clauses; in this example the same man is referred to by the subject of the matrix clause, but the direct object of the relative clause.
+:''Ha-kise l'-yad-kha.''
+In this strategy, there is simply a gap in the relative clause where the shared noun would go.
+However, those languages with severe restrictions on which roles can be relativized are precisely those that can passivize almost any position, and hence the last two sentences would be normal in these languages.
+In the nonreduction type, unlike the other three, the shared noun occurs as a ''full-fledged noun phrase'' in the embedded clause, which has the form of a full independent clause.
+:''Ha-kise '''she-'''ata yoshev alav shavur.''
+Note also that gapping is often used in conjunction with case-marked relative pronouns (since the relative pronoun indicates the case role in the embedded clause), but this is not necessary (e.g.
+:''Ha-kise, '''she-'''ata yoshev '''alav''', shavur.''
+This is a non-restrictive relative clause, since it provides supplementary information about the mayor, but is not essential to the sentence – if the clause were omitted, it would still be known which mayor is meant.
+These languages often allow an oblique object to be moved to the direct object slot by the use of the so-called ''applicative voice'', similar to how the passive voice moves an oblique object to the subject position.
+This order is referred to as the '''accessibility hierarchy'''.
+*The girl who likes me came to visit.
+'', "I spoke with a woman ''of whom'' the son is my colleague.")
+I found the rock which the robbers had hit John over the head with.
+See Relative pronouns in the Spanish pronouns article.
+A '''free relative clause''', on the other hand, does not have an explicit antecedent external to itself.
+The Hebrew relativizer ''she-'' ‘that’ "might be a shortened form of the Hebrew relativizer ''‘asher'' ‘that’, which is related to Akkadian ''‘ashru'' ‘place’ (cf.
+Relative clauses may be either finite clauses (as in the examples above) or non-finite clauses.
+Classical Arabic in fact has "relative pronouns" which are case-marked, but which agree in case with the ''head'' noun.
+Modern grammars may use the accessibility hierarchy to order productions—e.g.
+In Biblical Hebrew, relative clauses were headed with the word ''asher'', which could be either a relative pronoun or a relativizer.
+In later times, ''asher'' became interchangeable with the prefix ''she-'' (which is also used as a conjunction, with the sense of English ''that''), and in Modern Hebrew, this use of ''she-'' is much more common than ''asher'', except in some formal, archaic, or poetic writing.
+They take their gender and number from the noun which they modify, but the case from their function in their own clause.
+Pronoun retention is very frequently used for relativization of inaccessible positions on the accessibility hierarchy.
+More specifically, if this pronoun is the subject of the relative clause, it is always suppressed.
+Another difference in English is that only restrictive relative clauses may be introduced with ''that'' or use the "zero" relative pronoun (see English relative clauses for details).
+The above examples expressed in an applicative voice might be similar to the following (in not necessarily grammatical English):
+This strategy is equivalent to saying "Which girl you see over there, she is my daughter" or "Which knife I killed my friend with, the police found that knife".
+**The girl whose father I know came to visit.
+*The girl who was watched a movie with by me came to visit.
+**The girl whom I am taller than came to visit.
+(''equivalent to previous'')
+The Greek definite article ὁ, ἡ, τό (''ho, hē, tó'') has a different origin, since it is related to Sanskrit ''sa, sā'' and Latin ''is-tud''.
+*For a human antecedent, "who", "whom", or "that" is usually used ("He is the person ''who'' saw me", "He is the person ''whom'' I saw", "He is the person ''that'' I saw").
+:"This is a boy I saw in class yesterday".
+Note also that there is no need to front the shared noun in such a sentence.
+*Head noun ''within'' the relative clause (an ''internally headed'' relative clause).
+Only a very small number of languages, of which the best known is Yoruba, have pronoun retention as their sole grammatical type of relative clause.
+If the relative pronoun is the object of the verb in the relative clause, it comes at the beginning of the clause even though it would come at the end of an independent clause ("He is the man ''whom'' I saw", not "He is the man I saw ''whom''").
+That is, non-restrictive clauses are to be set off with commas, while restrictive clauses are not:
+That’s the man who ran away.
+The sentence is equivalent to the following two sentences: "I saw a man yesterday.
+These languages are said to have ''internally headed'' relative clauses, which would be similar to the (ungrammatical) English structure "You see the girl over there is my friend" or "I took you see the girl over there out on a date".
+In the former example, ''urbēs'' and ''quae'' both function as subjects in their respective clauses, so both are in the nominative case; and due to gender and number agreement, both are feminine and plural.
+That’s the man whose sister I know.
+Chinese has the ''VO'' order, with verb preceding object, but otherwise is generally head-final.
+:'''' ("He told me to get lost, '''to which''' I replied that ...")
+Typically, it is the head noun in the main clause that is reduced or missing.
+*The girl who was given a rose by me came to visit.
+:''Ha-kise, '''she-'''ata yoshev alav, shavur.''
+literally: "'''on whom''' one can depend"
+Such constructions are discouraged in formal usage and in texts written for nonnative speakers because of the potential for ambiguity in parsing; a construction more accepted in formal usage would be ''The cat's being ''or ''having been'' ''allowed on the bed annoyed the dog.''
+*Adjoined relative clause.
+A second strategy is the ''correlative''-clause strategy used by Hindi and other Indo-Aryan languages, as well as Bambara.
+The woman ''who had the thick French accent'' was very pretty."
+English is unusual in that ''all'' roles in the embedded clause can be indicated by gapping: e.g.
+Another example is Warlpiri, which constructs relative clauses of a form similar to "I saw the man yesterday, which he was going home".
+In other languages, relative clauses may be marked in different ways: they may be introduced by a special class of conjunctions called ''relativizers''; the main verb of the relative clause may appear in a special morphological variant; or a relative clause may be indicated by word order alone.
+the Cambridge Grammar of the English Language (pp.&nbsp;1056–7) makes a case for treating "that" as a subordinator instead of a relative pronoun; and the British National Corpus treats "that" as a subordinating conjunction even when it introduces relative clauses.
+For example, in the English sentence "I like what I see", the clause ''what I see'' is a free relative clause, because it has no antecedent, but itself serves as the object of the verb ''like'' in the main clause.
+That’s the man about whom I was talking.
+Relative pronouns, like other pronouns in Latin, agree with their antecedents in gender and number, but not in case: a relative pronoun's case reflects its role in the relative clause it introduces, while its antecedent's case reflects the antecedent's role in the clause that contains the relative clause.
+In speaking it is natural to make slight pauses around non-restrictive clauses, and in English this is shown in writing by commas (as in the examples).
+The man went home."

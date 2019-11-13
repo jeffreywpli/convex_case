@@ -1,0 +1,200 @@
+The 3'-UTR also may have silencer regions that bind repressor proteins that inhibit the expression of a mRNA.
+This is often the case when assembling networks from large expression data sets.
+Among all regulatory motifs within the 3'-UTRs (e.g.
+Poly(A) tail is bound by multiple poly(A)-binding proteins (PABP) necessary for mRNA export and translation re-initiation.
+In certain cases, some introns or exons can be either removed or retained in mature mRNA.
+MREs are sequences to which miRNAs bind.
+In eukaryotes, RNA is stabilised by certain post-transcriptional modifications, particularly the 5' cap and poly-adenylated tail.
+Notably this includes all RNA types involved in protein synthesis.
+In genetics, gene expression is the most fundamental level at which the genotype gives rise to the phenotype, i.e.
+Each protein exists as an unfolded polypeptide or random coil when translated from a sequence of mRNA into a linear chain of amino acids.
+In general epigenetic effects alter the accessibility of DNA to proteins and so modulate transcription.
+The production of the RNA copy of the DNA is called transcription, and is performed in the nucleus by RNA polymerase, which adds one RNA nucleotide at a time to a growing RNA strand.
+However, in eukaryotes there is a great variety of different targeting processes to ensure the protein arrives at the correct organelle.
+An advantage of tag-based methods is the "open architecture", allowing for the exact measurement of any transcript, with a known or unknown sequence.
+Another modification is 3' ''cleavage and polyadenylation''.
+Other experiments show that a single miRNA may repress the production of hundreds of proteins, but that this repression often is relatively mild (less than 2-fold).
+Assisting protein folding is one of the main roles of the endoplasmic reticulum in eukaryotes.
+Once protein synthesis is complete, the level of expression of that protein can be reduced by protein degradation.
+SnoRNAs associate with proteins, forming snoRNPs.
+By binding to specific sites within the 3'-UTR, miRNAs can decrease gene expression of various mRNAs by either inhibiting translation or directly causing degradation of the transcript.
+Proteins that are supposed to be expressed at the endoplasmic reticulum are recognised part-way through the translation process.
+More generally, gene regulation gives the cell control over all structure and function, and is the basis for cellular differentiation, morphogenesis and the versatility and adaptability of any organism.
+Secretory proteins of eukaryotes or prokaryotes must be translocated to enter the secretory pathway.
+miRNAs were predicted to have an average of about four hundred target mRNAs (affecting expression of several hundred genes).
+Extensive RNA processing may be an evolutionary advantage made possible by the nucleus of eukaryotes.
+In the case of transfer RNA (tRNA), for example, the 5' sequence is removed by RNase P, whereas the 3' end is removed by the tRNase Z enzyme and the non-templated 3' CCA tail is added by a nucleotidyl transferase.
+A gene is a stretch of DNA that encodes information.
+Not all proteins remain within the cell and many are exported, for example, digestive enzymes, hormones and extracellular matrix proteins.
+It is important to note that by fusing a target protein to a fluorescent reporter the protein's behavior, including its cellular localization and expression level, can be significantly changed.
+This is governed by the signal recognition particle—a protein that binds to the ribosome and directs it to the endoplasmic reticulum when it finds a signal peptide on the growing (nascent) amino acid chain.
+Several steps in the gene expression process may be modulated, including the transcription, RNA splicing, translation, and post-translational modification of a protein.
+Their bases are methylated or pseudouridinilated by a group of small Cajal body-specific RNAs (scaRNAs), which are structurally similar to snoRNAs.
+They occur if polyadenylation signal sequence (5'- AAUAAA-3') is present in pre-mRNA, which is usually between protein-coding sequence and terminator.
+The efficiency of protein secretion in eukaryotes is very dependent on the signal peptide which has been used.
+DNA methylation is a widespread mechanism for epigenetic influence on gene expression and is seen in bacteria and eukaryotes and has roles in heritable transcription silencing and transcription regulation.
+mRNA can be detected with a suitably labelled complementary mRNA strand and protein can be detected via labelled antibodies.
+The most commonly used method is to perform a Western blot against the protein of interest—this gives information on the size of the protein in addition to its identity.
+In prokaryotes, transcription and translation happen together, whilst in eukaryotes, the nuclear membrane separates the two processes, giving time for RNA processing to occur.
+The resulting three-dimensional structure is determined by the amino acid sequence (Anfinsen's dogma).
+By replacing the gene with a new version fused to a green fluorescent protein (or similar) marker, expression may be directly quantified in live cells.
+More recently it has become apparent that there is a significant influence of non-DNA-sequence specific effects on translation.
+The pre-rRNA is cleaved and modified (2′-O-methylation and pseudouridine formation) at specific sites by approximately 150 different small nucleolus-restricted RNA species, called snoRNAs.
+Three prime untranslated regions (3'UTRs) of messenger RNAs (mRNAs) often contain regulatory sequences that post-transcriptionally influence gene expression.
+In some cases RNAs are additionally transported to a specific part of the cytoplasm, such as a synapse; they are then towed by motor proteins that bind through linker proteins to specific sequences (called "zipcodes") on the RNA.
+The radiolabeled RNA is then detected by an autoradiograph.
+In eukaryotes the export pathway is well developed and the main mechanism for the export of these proteins is translocation to the endoplasmic reticulum, followed by transport via the Golgi apparatus.
+This is done by imaging using a fluorescence microscope.
+As of 2014, the miRBase web site, an archive of miRNA sequences and annotations, listed 28,645 entries in 233 biologic species.
+This is normally a protein although may also be RNA, such as tRNA or a ribozyme.
+A single array or "chip" may contain probes to determine transcript levels for every known gene in the genome of one or more organisms.
+Amino acids are then chained together by the ribosome according to the order of triplets in the coding region.
+Protein synthesis inhibitors include the antibiotic neomycin and the toxin ricin.
+The majority of eukaryotic pre-mRNAs consist of alternating segments called exons and introns.
+In eukaryotes translation can occur in a variety of regions of the cell depending on where the protein being written is supposed to be.
+Gene regulation may also serve as a substrate for evolutionary change, since control of the timing, location, and amount of gene expression can have a profound effect on the functions (actions) of the gene in a cell or in a multicellular organism.
+Many allergies are caused by the folding of the proteins, for the immune system does not produce antibodies for certain protein structures.
+Several neurodegenerative and other diseases are believed to result from the accumulation of ''misfolded'' proteins.
+RNA polymerase III transcribes 5S rRNA, transfer RNA (tRNA) genes, and some small non-coding RNAs (e.g., 7SK).
+The antibody can either be conjugated to a fluorophore or to horseradish peroxidase for imaging and/or quantification.
+Pol II includes a C-terminal domain (CTD) that is rich in serine residues.
+The source of variation can be either experimental or natural (observational).
+Profiles like these are found for almost all proteins listed in Wikipedia.
+Newly synthesized proteins are directed to the eukaryotic Sec61 or prokaryotic SecYEG translocation channel by signal peptides.
+In the broadest sense this includes every living cell but the term is more normally used to refer to expression as a laboratory tool.
+In eukaryotes most mature RNA must be exported to the cytoplasm from the nucleus.
+*A '''facultative gene''' is a gene only transcribed when needed as opposed to a constitutive gene.
+The coding region carries information for protein synthesis encoded by the genetic code to form triplets.
+In prokaryotes translation generally occurs at the point of transcription (co-transcriptionally), often using a messenger RNA that is still in the process of being created.
+There are major protein degradation pathways in all prokaryotes and eukaryotes, of which the proteasome is a common component.
+Each triplet of nucleotides of the coding region is called a codon and corresponds to a binding site complementary to an anticodon triplet in transfer RNA.
+A sample (often cellular lysate) is separated on a polyacrylamide gel, transferred to a membrane and then probed with an antibody to the protein of interest.
+These are prevalent motifs within 3'-UTRs.
+Levels of mRNA can be quantitatively measured by northern blotting, which provides size and sequence information about the mRNA molecules.
+Although NGS is comparatively time-consuming, expensive, and resource-intensive, it can identify single-nucleotide polymorphisms, splice-variants, and novel genes, and can also be used to profile expression in organisms for which little or no sequence information is available.
+Inhibition of protein translation is a major target for toxins and antibiotics, so they can kill a cell by overriding its normal gene expression control.
+Another approach for measuring mRNA abundance is RT-qPCR.
+The housekeeping gene's products are typically needed for maintenance of the cell.
+In prokaryotes, transcription is carried out by a single type of RNA polymerase, which needs a DNA sequence called a Pribnow box as well as a sigma factor (σ factor) to start transcription.
+This term is normally used in the case where a gene or set of genes is switched on under well defined conditions, for example, the simple repressor switch expression system in Lambda phage and the lac operator system in bacteria.
+Control of expression is vital to allow a cell to produce the gene products it needs when it needs them; in turn, this gives cells the flexibility to adapt to a variable environment, external signals, damage to the cell, etc.
+It is very difficult to clone a GFP-fused protein into its native location in the genome without affecting expression levels so this method often cannot be used to measure endogenous gene expression.
+Viruses are an excellent example where they replicate by using the host cell as an expression system for the viral proteins and genome.
+The probed sample is then observed by microscopy to identify where the mRNA or protein is.
+With a carefully constructed standard curve, qPCR can produce an absolute measurement of the number of copies of original mRNA, typically in units of copies per nanolitre of homogenized tissue or copies per cell.
+measures of transcript abundance).
+Such 3'-UTRs often contain both binding sites for microRNAs (miRNAs) as well as for regulatory proteins.
+Enzymes called chaperones assist the newly formed protein to attain (fold into) the 3-dimensional structure it needs to function.
+*Cyclin expression levels control progression through the eukaryotic cell cycle.
+It is, however, widely used to measure the expression of a gene artificially introduced into the cell, for example via an expression vector.
+Because the use of radioactive reagents makes the procedure time consuming and potentially dangerous, alternative labeling and detection methods, such as digoxigenin and biotin chemistries, have been developed.
+On the other hand, the additional mRNA size information from the Northern blot allows the discrimination of alternately spliced transcripts.
+This RNA is complementary to the template 3' → 5' DNA strand, which is itself complementary to the coding 5' → 3' DNA strand.
+The gel-based nature of this assay makes quantification less accurate, but it has the advantage of being able to identify later modifications to the protein, for example proteolysis or ubiquitination, from changes in size.
+In the case of ribosomal RNAs (rRNA), they are often transcribed as a pre-rRNA that contains one or more rRNAs.
+In addition to these biological tools, certain naturally observed configurations of DNA (genes, promoters, enhancers, repressors) and the associated machinery itself are referred to as an expression system.
+Examples include actin, GAPDH and ubiquitin.
+Several natural expression systems are directly used or modified and used for artificial expression systems such as the Tet-on and Tet-off expression system.
+Expression of a gene coding for a protein is only possible if the messenger RNA carrying the code survives long enough to be translated.
+Similarly, RNA chaperones help RNAs attain their functional shapes.
+Environmental stimuli or endocrine signals may cause modification of regulatory proteins eliciting cascades of intracellular signals, which result in regulation of gene expression.
+In eukaryotes the structure of chromatin, controlled by the histone code, regulates access to DNA with significant impacts on the expression of genes in euchromatin and heterochromatin areas.
+These effects are referred to as epigenetic and involve the higher order structure of DNA, non-sequence specific DNA binding proteins and chemical modification of DNA.
+The cDNA template is then amplified in the quantitative step, during which the fluorescence emitted by labeled hybridization probes or intercalating dyes changes as the DNA amplification process progresses.
+*Control of insulin expression so it gives a signal for blood glucose regulation.
+The stability of the final gene product, whether it is RNA or protein, also contributes to the expression level of the gene—an unstable product results in a low expression level.
+In this technique, reverse transcription is followed by quantitative PCR.
+Weighted correlation network analysis involves weighted networks defined by soft-thresholding the pairwise correlations among variables (e.g.
+In the case of micro RNA (miRNA), miRNAs are first transcribed as primary transcripts or pri-miRNA with a cap and poly-A tail and processed to short, 70-nucleotide stem-loop structures known as pre-miRNA in the cell nucleus by the enzymes Drosha and Pasha.
+A sample of RNA is separated on an agarose gel and hybridized to a radioactively labeled RNA probe that is complementary to the target sequence.
+The mechanisms for regulating transcription are very varied, from blocking key binding sites on the DNA for RNA polymerase to acting as an activator and promoting transcription by assisting RNA polymerase binding.
+Translation is the communication of the meaning of a source-language text by means of an equivalent target-language text
+These profiles indicate the level of DNA expression (and hence RNA produced) of a certain protein in a certain tissue, and are color-coded accordingly in the images located in the Protein Box on the right side of each Wikipedia page.
+Ideally, measurement of expression is done by detecting the final gene product (for many genes, this is the protein); however, it is often easier to detect one of the precursors, typically mRNA and to infer gene-expression levels from these measurements.
+The enzyme-linked immunosorbent assay works by using antibodies immobilised on a microtiter plate to capture proteins of interest from samples added to the well.
+Such phenotypes are often expressed by the synthesis of proteins that control the organism's shape, or that act as enzymes catalysing specific metabolic pathways characterising the organism.
+Using a detection antibody conjugated to an enzyme or fluorophore the quantity of bound protein can be accurately measured by fluorometric or colourimetric detection.
+The rRNA and RNA processing factors form large aggregates called the nucleolus.
+This so-called alternative splicing creates series of different transcripts originating from a single gene.
+mRNA carrying a single protein sequence (common in eukaryotes) is monocistronic whilst mRNA carrying multiple protein sequences (common in prokaryotes) is known as polycistronic.
+Many proteins are destined for other parts of the cell than the cytosol and a wide range of signalling sequences or (signal peptides) are used to direct proteins to where they are supposed to be.
+An expression system is a system specifically designed for the production of a gene product of choice.
+*A '''constitutive gene''' is a gene that is transcribed continually as opposed to a facultative gene, which is only transcribed when needed.
+Similarly, the analysis of the location of protein expression is a powerful tool, and this can be done on an organismal or cellular scale.
+The effects of miRNA dysregulation of gene expression seem to be important in cancer.
+If an mRNA molecule has a complementary sequence to a small interfering RNA then it is targeted for destruction via the RNA interference pathway.
+Direct interaction with DNA is the simplest and the most direct method by which a protein changes transcription levels.
+The detection process is very similar to that of a Western blot, but by avoiding the gel steps more accurate quantification can be achieved.
+For some RNA (non-coding RNA) the mature RNA is the final gene product.
+Covariation and correlation of expression is computed across a large sample of cases and measurements (often transcriptome or proteome data).
+Investigation of localization is particularly important for the study of development in multicellular organisms and as an indicator of protein function in single cells.
+An expression system consists of a gene, normally encoded by DNA, and the molecular machinery required to transcribe the DNA into mRNA and translate the mRNA into protein using the reagents provided.
+This polypeptide lacks any developed three-dimensional structure (the left hand side of the neighboring figure).
+Major locations are the cytoplasm for soluble cytoplasmic proteins and the membrane of the endoplasmic reticulum for proteins that are for export from the cell or insertion into a cell membrane.
+(Perhaps surprisingly, the "coding strand" is not physically involved in the coding process because it is the "template strand" that is read during transcription.)
+RNA degradation has particular importance in regulation of expression in eukaryotic cells where mRNA has to travel significant distances before being translated.
+Therefore, the resulting 5' → 3' RNA strand is identical to the coding DNA strand with the exception that thymines (T) are replaced with uracils (U) in the RNA.
+*A ''housekeeping gene'' is typically a constitutive gene that is transcribed at a relatively constant level.
+Additional information can be found by searching their databases (for an example of the GLUT4 transporter pictured here, see citation).
+Expression systems are, however, a fundamentally natural process.
+Because these transcripts can be potentially translated into different proteins, splicing extends the complexity of eukaryotic gene expression.
+For expression profiling, or high-throughput analysis of many genes within a sample, quantitative PCR may be performed for hundreds of genes simultaneously in the case of low-density arrays.
+Regulation of gene expression is thus critical to an organism's development.
+In general gene expression is regulated through changes in the number and type of interactions between molecules that collectively influence transcription of DNA and translation of RNA.
+*X chromosome inactivation in female mammals to prevent an "overdose" of the genes it contains.
+A second approach is the hybridization microarray.
+While some RNAs function in the nucleus, many RNAs are transported through the nuclear pores and into the cytosol.
+A very important modification of eukaryotic pre-mRNA is ''RNA splicing''.
+Gene networks can also be constructed without formulating an explicit causal model.
+The 3'-UTR often contains microRNA response elements (MREs).
+A coding DNA strand reading "ATG" is indirectly transcribed through the non-coding strand as "AUG" in RNA.
+Intentional degradation of mRNA is used not just as a defence mechanism from foreign RNA (normally from viruses) but also as a route of mRNA ''destabilisation''.
+RNA polymerase II (Pol II) transcribes all protein-coding genes but also some non-coding RNAs (e.g., snRNAs, snoRNAs or long non-coding RNAs).
+Genes often have several protein binding sites around the coding region with the specific function of regulating transcription.
+The nuclear membrane in eukaryotes allows further regulation of transcription factors by the duration of their presence in the nucleus, which is regulated by reversible changes in their structure and by binding of other proteins.
+In prokaryotes this is normally a simple process due to limited compartmentalisation of the cell.
+Next-generation sequencing (NGS) such as RNA-Seq is another approach, producing vast quantities of sequence data that can be matched to a reference genome.
+Alternatively, "tag based" technologies like Serial analysis of gene expression (SAGE) and RNA-Seq, which can provide a relative measure of the cellular concentration of different mRNAs, can be used.
+An expression system is therefore often artificial in some manner.
+The genetic code stored in DNA is "interpreted" by gene expression, and the properties of the expression give rise to the organism's phenotype.
+Some simple examples of where gene expression is important are:
+In a typical cell, an RNA molecule is only stable if specifically protected from degradation.
+Reverse transcription first generates a DNA template from the mRNA; this single-stranded template is called cDNA.
+Numerous terms are used to describe types of genes depending on how they are regulated; these include:
+*An '''inducible gene''' is a gene whose expression is either responsive to environmental change or dependent on the position in the cell cycle.
+While snoRNA part basepair with the target RNA and thus position the modification at a precise site, the protein part performs the catalytical reaction.
+It is generally assumed that their expression is unaffected by experimental conditions.
+In the case of messenger RNA (mRNA) the RNA is an information carrier coding for the synthesis of one or more proteins.
+qPCR is very sensitive (detection of a single mRNA molecule is theoretically possible), but can be expensive depending on the type of reporter used; fluorescently labeled oligonucleotide probes are more expensive than non-specific intercalating fluorescent dyes.
+Each mRNA molecule is translated into many protein molecules, on average ~2800 in mammals.
+Every mRNA consists of three parts: a 5' untranslated region (5'UTR), a protein-coding region or open reading frame (ORF), and a 3' untranslated region (3'UTR).
+With respect to a gene, the two strands may be labeled the "template strand," which serves as a blueprint for the production of an RNA transcript, and the "coding strand," which includes the DNA version of the transcript sequence.
+In eukaryotes, in particular a snoRNP called RNase, MRP cleaves the 45S pre-rRNA into the 28S, 5.8S, and 18S rRNAs.
+These changes influence a transcription factor's ability to bind, directly or indirectly, to promoter DNA, to recruit RNA polymerase, or to favor elongation of a newly synthesized RNA molecule.
+There are several ways to construct gene expression networks, but one common approach is to compute a matrix of all pair-wise correlations of expression across conditions, time points, or individuals and convert the matrix (after thresholding at some cut-off value) into a graphical representation in which nodes represent genes, transcripts, or proteins and edges connecting these nodes represent the strength of association (see ).
+including silencer regions), MREs make up about half of the motifs.
+The effects of miRNA dysregulation of gene expression also seem to be important in neuropsychiatric disorders, such as schizophrenia, bipolar disorder, major depression, Parkinson's disease, Alzheimer's disease and autism spectrum disorders.
+They are generated by organizations such as the Genomics Institute of the Novartis Research Foundation and the European Bioinformatics Institute.
+The pre-mRNA is first cleaved and then a series of ~200 adenines (A) are added to form poly(A) tail, which protects the RNA from degradation.
+The correct three-dimensional structure is essential to function, although some parts of functional proteins may remain unfolded Failure to fold into the intended shape usually produces inactive proteins with different properties including toxic prions.
+Transcription ends when the polymerase encounters a sequence called the terminator.
+After being exported, it is then processed to mature miRNAs in the cytoplasm by interaction with the endonuclease Dicer, which also initiates the formation of the RNA-induced silencing complex (RISC), composed of the Argonaute protein.
+Of these, 1,881 miRNAs were in annotated human miRNA loci.
+Regulation of gene expression refers to the control of the amount and timing of appearance of the functional product of a gene.
+When these residues are phosphorylated, the CTD binds to various protein factors that promote transcript maturation and modification.
+For instance, in gastrointestinal cancers, nine miRNAs have been identified as epigenetically altered and effective in down regulating DNA repair enzymes.
+Gene regulation gives the cell control over structure and function, and is the basis for cellular differentiation, morphogenesis and the versatility and adaptability of any organism.
+The activity of transcription factors is further modulated by intracellular signals causing protein post-translational modification including phosphorylated, acetylated, or glycosylated.
+Direct experiments show that a single miRNA can reduce the stability of hundreds of unique mRNAs.
+RNA polymerase I is responsible for transcription of ribosomal RNA (rRNA) genes.
+Genomic DNA consists of two antiparallel and reverse complementary strands, each having 5' and 3' ends.
+Transfer RNAs with the same anticodon sequence always carry an identical type of amino acid.
+During the process of splicing, an RNA-protein catalytical complex known as spliceosome catalyzes two transesterification reactions, which remove an intron and release it in form of lariat structure, and then splice neighbouring exons together.
+estimate that >45,000 miRNA target sites within human mRNA 3'UTRs are conserved above background levels, and >60% of human protein-coding genes have been under selective pressure to maintain pairing to miRNAs.
+Analysis of expression is not limited to quantification; localisation can also be determined.
+The ribosome helps transfer RNA to bind to messenger RNA and takes the amino acid from each transfer RNA and makes a structure-less protein out of it.
+Perceived disadvantages of Northern blotting are that large quantities of RNA are required and that quantification may not be completely accurate, as it involves measuring band strength in an image of a gel.
+Doxycycline is also used in "Tet-on" and "Tet-off" tetracycline controlled transcriptional activation to regulate transgene expression in organisms and cell cultures.
+Any step of gene expression may be modulated, from the DNA-RNA transcription step to post-translational modification of a protein.
+Amino acids interact with each other to produce a well-defined three-dimensional structure, the folded protein (the right hand side of the figure) known as the native state.
+There are many classes of regulatory DNA binding sites known as enhancers, insulators and silencers.

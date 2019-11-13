@@ -1,0 +1,200 @@
+* the annual variation
+Lines of constant tidal phase are called ''cotidal lines'', which are analogous to contour lines of constant altitude on topographical maps.
+A flow proceeding up a curved channel is the same flow, even though its direction varies continuously along the channel.
+Extremely small tides also occur for the same reason in the Gulf of Mexico and Sea of Japan.
+These bodies have strong gravitational fields that diminish with distance and act to alter the shape of an equipotential surface on the Earth.
+Atmospheric tides are negligible at ground level and aviation altitudes, masked by weather's much more important effects.
+The phase  of the first harmonic for the moon term is called the lunitidal interval or high water interval.
+The value of his tidal theory is disputed.
+Cook Strait's nautical chart offers tidal current information.
+This is because cotidal lines 180° around the amphidromes are in opposite phase, for example high water across from low water at each end of Cook Strait.
+Approximately twice a month, around new moon and full moon when the Sun, Moon, and Earth form a line (a condition known as syzygy), the tidal force due to the sun reinforces that due to the Moon.
+An arrow on the tidal chart indicates the direction and the average flow speed (usually in knots) for spring and neap tides.
+In order to make these maps consistent, he hypothesized the existence of amphidromes where co-tidal lines meet in the mid-ocean.
+Also, although a water channel's center is the most useful measuring site, mariners object when current-measuring equipment obstructs waterways.
+(The strong currents through the Euripus Strait and the Strait of Messina puzzled Aristotle.)
+Special care is needed when assessing the size of a "weather surge" by subtracting the astronomical tide from the observed tide.
+Given that for any  and
+Near Cape Terawhiti in the middle of Cook Strait the tidal height variation is almost nil while the tidal current reaches its maximum, especially near the notorious Karori Rip.
+The graph of Cook Strait's tides shows separately the high water and low water height and time, through November 2007; these are ''not'' measured values but instead are calculated from tidal parameters derived from years-old measurements.
+In Europe around 730 AD, the Venerable Bede described how the rising tide on one coast of the British Isles coincided with the fall on the other and described the time progression of high water along the Northumbrian coast.
+The tide's range is then at its maximum; this is called the '''''spring tide'''''.
+The resulting amplitudes and phases can then be used to predict the expected tides.
+He hoped to provide mechanical proof of the Earth's movement.
+Philostratus discussed tides in Book Five of ''The Life of Apollonius of Tyana''.
+To calculate the actual water depth, add the charted depth to the published tide height.
+The atmosphere is much more fluid and compressible so its surface moves kilometers, in the sense of the contour level of a particular low pressure in the outer atmosphere.
+These depths are relative to a "chart datum", which is typically the water level at the lowest possible astronomical tide (although other datums are commonly used, especially historically, and tides may be lower or higher for meteorological reasons) and are therefore the minimum possible water depth during the tidal cycle.
+These multiples are called ''harmonics'' of the fundamental frequency, and the process is termed harmonic analysis.
+The exception is at Cook Strait where the tidal currents periodically link high to low water.
+When the tidal equipotential changes, the ocean surface is no longer aligned with it, so the apparent direction of the vertical shifts.
+The daily inequality is not consistent and is generally small when the Moon is over the equator.
+There is one term for the moon and a second term for the sun.
+This analysis can be done using only the knowledge of the forcing ''period'', but without detailed understanding of the mathematical derivation, which means that useful tidal tables have been constructed for centuries.
+This deformation has a fixed spatial orientation relative to the influencing body.
+The changing distance separating the Moon and Earth also affects tide heights.
+Yet, although the tidal surge normally flows in one direction for six hours and in the reverse direction for six hours, a particular surge might last eight or ten hours with the reverse surge enfeebled.
+File:High tide sun moon same side end.png|''Spring tide:'' Sun and Moon at the same side (end of cycle)
+The distance the tide moves the boat along this line is computed by the tidal speed, and this gives an "estimated position" or EP (traditionally marked with a dot in a triangle).
+Similarly, the two low waters each day are the ''higher low water'' and the ''lower low water''.
+Simon Stevin in his 1608 ''De spiegheling der Ebbenvloet'', The theory of ebb and flood, dismissed  a large number of misconceptions that still existed about ebb and flood.
+In other words, the harmonies are multiples of many fundamental frequencies, not just of the fundamental frequency of the simpler Fourier series approach.
+However, the best currents may be unavailable because the turbines would obstruct ships.
+There are some extreme cases; the Bay of Fundy, on the east coast of Canada, is often stated to have the world's highest tides because of its shape, bathymetry, and its distance from the continental shelf edge.
+The moment that the tidal current ceases is called slack water or slack tide.
+Because the oscillation modes of the Mediterranean Sea and the Baltic Sea do not coincide with any significant astronomical forcing period, the largest tides are close to their narrow connections with the Atlantic Ocean.
+Replace it then by  where A is another sinusoid, similar to the cycles and epicycles of Ptolemaic theory.
+This approximation presumes that the increase in depth in the six hours between low and high water is: first hour — 1/12, second — 2/12, third — 3/12, fourth — 3/12, fifth — 2/12, sixth — 1/12.
+Conversely, cycles of days, months, or years are referred to as ''long period'' constituents.
+The tidal forces affect the entire earth, but the movement of the solid Earth is only centimeters.
+This is analogous to the minute hand on a watch crossing the hour hand at 12:00 and then again at about 1:05½ (not at 1:00).
+The first known sea-level record of an entire spring–neap cycle was made in 1831 on the Navy Dock in the Thames Estuary.
+Spring tides result in high waters that are higher than average, low waters that are lower than average, 'slack water' time that is shorter than average, and stronger tidal currents than average.
+Likewise, eddies may form in only one flow direction.
+Variations with periods of less than half a day are called ''harmonic constituents''.
+Tidal ranges generally increase with increasing distance from amphidromic points.
+In the southern hemisphere this direction is clockwise.
+Maclaurin was the first to write about the Earth's rotational effects on motion.
+The resulting theory, however, was incorrect as he attributed the tides to the sloshing of water caused by the Earth's movement around the sun.
+For example, in the U.S., the East coast has predominantly semi-diurnal tides, as do Europe's Atlantic coasts, while the West coast predominantly has mixed tides.
+Whilst she was being repaired in the mouth of the Endeavour River Cook observed the tides over a period of seven weeks.
+Overexploitation can damage intertidals directly.
+The broadest classifications are based on substrates — rocky shore or soft bottom.
+File:High tide sun moon same side beginning.png|''Spring tide:'' Sun and Moon on the same side (zero degree)
+The lunar day is longer than the Earth day because the Moon orbits in the same direction the Earth spins.
+Assuming (as a crude approximation) that the deceleration rate has been constant, this would imply that 70 million years ago, day length was on the order of 1% shorter with about 4 more days per year.
+As the moon moves around its orbit it changes from north of the equator to south of the equator.
+In 1740, the Académie Royale des Sciences in Paris offered a prize for the best theoretical essay on tides.
+In the North Atlantic, because the cotidal lines circulate counterclockwise around the amphidromic point, the high tide passes New York Harbor approximately an hour ahead of Norfolk Harbor.
+Humans use intertidal regions for food and recreation.
+Medieval understanding of the tides was primarily based on works of Muslim astronomers, which became available through Latin translation starting from the 12th century.
+The standard procedure to counteract tidal effects on navigation is to (1) calculate a "dead reckoning" position (or DR) from travel distance and direction, (2) mark the chart (with a vertical cross like a plus sign) and (3) draw a line from the DR in the tide's direction.
+For tides, then, ''harmonic analysis'' is not limited to harmonics of a single frequency.
+The semi-diurnal range (the difference in height between high and low waters over about half a day) varies in a two-week cycle.
+Accordingly, the value of  is not a constant but also varying with time, slightly, about some average figure.
+Semi-diurnal tides dominated coastline, but some areas such as the South China Sea and the Gulf of Mexico are primarily diurnal.
+Tides vary on timescales ranging from hours to years due to a number of factors.
+The tide then reverses direction and is said to be turning.
+Other phenomena unrelated to tides but using the word ''tide'' are rip tide, storm tide, hurricane tide, and black or red tides.
+Daniel Bernoulli, Leonhard Euler, Colin Maclaurin and Antoine Cavalleri shared the prize.
+This causes a variation in the tidal force and theoretical amplitude of about ±18% for the moon and ±5% for the sun.
+William Whewell first mapped co-tidal lines ending with a nearly global chart in 1836.
+The times and amplitude of tides at a locale are influenced by the alignment of the Sun and Moon, by the pattern of tides in the deep ocean, by the amphidromic systems of the oceans,  and the shape of the coastline and near-shore bathymetry (see ''Timing'').
+Surprisingly, flood and ebb flows are often not in opposite directions.
+which is to say an average value  with a sinusoidal variation about it of magnitude , with frequency  and phase .
+'''Slack water''' usually occurs near high water and low water.
+Tides produce oscillating currents known as tidal streams.
+Tidal energy can be extracted by two means: inserting a water turbine into a tidal current, or building ponds that release/admit water through a turbine.
+The time when the crest of the wave reaches a port then gives the time of high water at the port.
+Newton and others before Pierre-Simon Laplace worked the problem from the perspective of a static system (equilibrium theory), that provided an approximation that described the tides that would occur in a non-inertial ocean evenly covering the whole Earth.
+Every  lunations (the full cycles from full moon to new to full), perigee coincides with either a new or full moon causing perigean spring tides with the largest ''tidal range''.
+Tides are commonly ''semi-diurnal'' (two high waters and two low waters each day), or ''diurnal'' (one tidal cycle per day).
+Since the orbits of the Earth about the sun, and the moon about the Earth, are elliptical, tidal amplitudes change somewhat as a result of the varying Earth–sun and Earth–moon distances.
+Some shorelines experience a semi-diurnal tide - two nearly equal high and low tides each day.
+(Three, not two terms, since the whole expression is .)
+In the ''M''2 plot above, each cotidal line differs by one hour from its neighbors, and the thicker lines show tides in phase with equilibrium at Greenwich.
+Measurements made in November 1998 at Burntcoat Head in the Bay of Fundy recorded a maximum range of  and a highest predicted extreme of .
+Galileo rejected Kepler's explanation of the tides.
+Portland has double low waters for the same reason.
+It is not named after the season, but, like that word, derives from the meaning "jump, burst forth, rise", as in a natural spring.
+Intertidal organisms experience a highly variable and often hostile environment, and have adapted to cope with and even exploit these conditions.
+As a result, tidal patterns vary.
+Likewise for the low tides.
+One easily visible feature is vertical zonation, in which the community divides into distinct horizontal bands of specific species at each elevation above low water.
+In the semi-diurnal areas, the primary constituents ''M''2&nbsp;(lunar) and ''S''2&nbsp;(solar) periods differ slightly, so that the relative phases, and thus the amplitude of the combined tide, change fortnightly (14&nbsp;day period).
+Precise astronomical angular measurements require knowledge of the Earth's rotation rate and nutation, both of which are influenced by Earth tides.
+Even at its most powerful this force is still weak causing tidal differences of inches at most.
+The lines rotate around the amphidromic points counterclockwise in the northern hemisphere so that from Baja California Peninsula to Alaska and from France to Ireland the ''M''2 tide propagates northward.
+s. The curved arcs around the amphidromic points show the direction of the tides, each indicating a synchronized 6-hour period.
+William Thomson (Lord Kelvin) led the first systematic harmonic analysis of tidal records starting in 1867.
+Depth for other times can be derived from tidal curves published for major ports.
+While some generation is possible for most of the tidal cycle, in practice turbines lose efficiency at lower operating rates.
+(The rare exception occurs when the tide encircles an island, as it does around New Zealand, Iceland and Madagascar.)
+Each tidal constituent has a different pattern of amplitudes, phases, and amphidromic points, so the ''M''2 patterns cannot be used for other tide components.
+With a careful choice of the basic astronomical frequencies, the Doodson Number annotates the particular additions and differences to form the frequency of each simple cosine term.
+William Thomson, 1st Baron Kelvin, rewrote Laplace's equations in terms of vorticity which allowed for solutions describing tidally driven coastally trapped waves, known as Kelvin waves.
+While tides are usually the largest source of short-term sea-level fluctuations, sea levels are also subject to forces such as wind and barometric pressure changes, resulting in storm surges, especially in shallow seas and near coasts.
+Now consider the effect of massive external bodies such as the Moon and Sun.
+The next step is to accommodate the harmonic terms due to the elliptical shape of the orbits.
+A.T. Doodson extended their work, introducing the ''Doodson Number'' notation to organise the hundreds of resulting terms.
+In most locations, the largest constituent is the "principal lunar semi-diurnal", also known as the ''M2'' (or ''M''2) tidal constituent.
+When the Moon is at first quarter or third quarter, the sun and Moon are separated by 90° when viewed from the Earth, and the solar tidal force partially cancels the Moon's.
+Gauges ignore variations caused by waves with periods shorter than minutes.
+Although it may seem that tides could be predicted via a sufficiently detailed knowledge of the instantaneous astronomical forcings, the actual tide at a given location is determined by astronomical forces accumulated over many days.
+Semi-diurnal and long phase constituents are measured from high water, diurnal from maximum flood tide.
+It was "programmed" by resetting gears and chains to adjust phasing and amplitudes.
+The first tide table in China was recorded in 1056 AD primarily for visitors wishing to see the famous tidal bore in the Qiantang River.
+To make accurate records, tide gauges at fixed stations measure the water level over time.
+It was originally mentioned in Ptolemy's Tetrabiblos as having derived from ancient observation.
+Flood velocities are given positive sign, and ebb velocities negative sign.
+Pierre-Simon Laplace formulated a system of partial differential equations relating the ocean's horizontal flow to its surface height, the first major dynamic theory for water tides.
+When the Earth, moon, and sun are in line (sun–Earth–moon, or sun–moon–Earth) the two main influences combine to produce spring tides; when the two forces are opposing each other as when the angle moon–Earth–sun is close to ninety degrees, neap tides result.
+It is based on the principle that the astronomical theories of the motions of sun and moon determine a large number of component frequencies, and at each frequency there is a component of force tending to produce tidal motion, but that at each place of interest on the Earth, the tides respond at each frequency with an amplitude and phase peculiar to that locality.
+But there are locations where the moments of slack tide differ significantly from those of high and low water.
+Tide tables list each day's high and low water heights and times.
+There is about a seven-day interval between springs and neaps.
+The tide-generating force (or its corresponding potential) is still relevant to tidal theory, but as an intermediate quantity (forcing function) rather than as a final result; theory must also consider the Earth's accumulated dynamic tidal response to the applied forces, which response is influenced by ocean depth, the Earth's rotation, and other factors.
+Day length has increased by about 2 hours in the last 600 million years.
+Attempts were made to refloat her on the following tide which failed, but the tide after that lifted her clear with ease.
+When there are two high tides each day with different heights (and two low tides also of different heights), the pattern is called a ''mixed semi-diurnal tide''.
+These are continuum mechanical phenomena.
+The tidal forces due to the Moon and Sun generate very long  waves which travel all around the ocean following the paths shown in co-tidal charts.
+it is clear that a compound term involving the product of two cosine terms each with their own frequency is the same as ''three'' simple cosine terms that are to be added at the original frequency and also at frequencies which are the sum and difference of the two frequencies of the product term.
+In 1744 Jean le Rond d'Alembert studied tidal equations for the atmosphere which did not include rotation.
+This approach has been the international standard ever since, and the complications arise as follows: the tide-raising force is notionally given by sums of several terms.
+South of Cape Hatteras the tidal forces are more complex, and cannot be predicted reliably based on the North Atlantic cotidal lines.
+* the difference between the first and second tide of a day
+However, with multiple ponds, power can be generated at chosen times.
+Organisations quoting a "highest astronomical tide" for some location may exaggerate the figure as a safety factor against analytical uncertainties, distance from the nearest measurement point, changes since the last observation time, ground subsidence, etc., to avert liability should an engineering work be overtopped.
+The time taken for the wave to travel around the ocean also means that there is a delay between the phases of the moon and their effect on the tide.
+These are usually dominated by the constituents near 12&nbsp;hours (the ''semi-diurnal'' constituents), but there are major constituents near 24&nbsp;hours (''diurnal'') as well.
+Also, changes to local conditions (sandbank movement, dredging harbour mouths, etc.)
+When the Moon is closest, at perigee, the range increases, and when it is at apogee, the range shrinks.
+A flow has both a magnitude and a direction, both of which can vary substantially with depth and over short distances due to local bathymetry.
+Venus has the largest effect of the other planets, at 0.000113 times the solar effect.
+For a semi-diurnal tide the amphidromic point can be thought of roughly like the center of a clock face, with the hour hand pointing in the direction of the high water cotidal line, which is directly opposite the low water cotidal line.
+The tide heights are expected to follow the tidal force, with a constant amplitude and phase delay for each component.
+The solid Earth deforms a bit, but ocean water, being fluid, is free to move much more in response to the tidal force, particularly horizontally.
+If both the sun and moon were at their closest positions and aligned at new moon, the theoretical amplitude would reach .
+Tidal stage is also measured in degrees, with 360° per tidal cycle.
+The first two take place in fluids.
+When confronted by a periodically varying function, the standard approach is to employ Fourier series, a form of analysis that uses sinusoidal functions as a ''basis'' set, having frequencies that are zero, one, two, three, etc.
+The ''Naturalis Historia'' of Pliny the Elder collates many tidal observations, e.g., the spring tides are a few days after (or before) new and full moon and are highest around the equinoxes, though Pliny noted many relationships now regarded as fanciful.
+In addition to oceanic tides, large lakes can experience small tides and even planets can experience ''atmospheric tides'' and ''Earth tides''.
+''Galactic tides'' are the tidal forces exerted by galaxies on stars within them and satellite galaxies orbiting them.
+Since the power available from a flow is proportional to the cube of the flow speed, the times during which high power generation is possible are brief.
+The moment of highest tide is not necessarily when the Moon is nearest to zenith or nadir, but the period of the forcing still determines the time between high tides.
+The two high waters on a given day are typically not the same height (the daily inequality); these are the ''higher high water'' and the ''lower high water'' in tide tables.
+Atmospheric tides are both gravitational and thermal in origin and are the dominant dynamics from about , above which the molecular density becomes too low to support fluid behavior.
+Elsewhere, as along the southern coast of Australia, low tides can be due to the presence of a nearby amphidrome.
+Tidal motion generally lessens moving away from continental coasts, so that crossing the cotidal lines are contours of constant ''amplitude'' (half the distance between high and low water) which decrease to zero at the amphidromic point.
+Stevin pleaded for the idea that the attraction of the Moon was responsible for the tides and spoke in clear terms about ebb, flood, spring tide and neap tide, stressing that further research needed to be made.
+Such parallels at least hint at the common descent of all animals from a marine ancestor.
+The two peaks are not equal.
+Strong currents result, with almost zero tidal height change in the strait's center.
+Abu Ma'shar (d. circa 886), in his ''Introductorium in astronomiam'', taught that ebb and flood tides were caused by the moon (although earlier in Europe, Bede (d. 736) also reckoned that the moon is involved).
+The surface then experiences a down slope, in the direction that the equipotential has risen.
+Abu Ma'shar discussed the effects of wind and moon's phases relative to the sun on the tides.
+In the second, the impoundment dams are expensive to construct, natural water cycles are completely disrupted, ship navigation is disrupted.
+Tide waves move around these points, generally counterclockwise in the N. Hemisphere and clockwise in the S. Hemisphere |alt=Map showing relative tidal magnitudes of different ocean areas
+File:Low tide sun moon 270 degrees.png|''Neap tide:'' Sun and Moon at 270 degrees
+The tidal patterns are decomposed into many sinusoids having many fundamental frequencies, corresponding (as in the lunar theory) to many different combinations of the motions of the Earth, the moon, and the angles that define the shape and location of their orbits.
+If the basis set of sinusoidal functions suit the behaviour being modelled, relatively few harmonic terms need to be added.
+Careful Fourier data analysis over a nineteen-year period (the ''National Tidal Datum Epoch'' in the U.S.) uses frequencies called the ''tidal harmonic constituents''.
+The alternation in high tide heights becomes smaller, until they are the same (at the lunar equinox, the moon is above the equator), then redevelop but with the other polarity, waxing to a maximum difference and then waning again.
+Thus the simple term is now the product of two cosine factors:
+Other locations experience a diurnal tide - only one high and low tide each day.
+In more complex situations, the main ebb and flood flows do not dominate.
+Longer term constituents are 14&nbsp;day or ''fortnightly'', monthly, and semiannual.
+The theoretical amplitude of oceanic tides caused by the moon is about  at the highest point, which corresponds to the amplitude that would be reached if the ocean possessed a uniform depth, there were no landmasses, and the Earth were rotating in step with the moon's orbit.
+times the frequency of a particular fundamental cycle.
+Southampton in the United Kingdom has a double high water caused by the interaction between the ''M''2 and ''M''4 tidal constituents.
+High water rotates about the amphidromic point once every 12 hours in the direction of rising cotidal lines, and away from ebbing cotidal lines.
+Isaac Newton's theory of gravitation first enabled an explanation of why there were generally two tides a day, not one, and offered hope for detailed understanding.
+Tidal flow timings and velocities appear in ''tide charts'' or a tidal stream atlas.
+Isaac Newton (1642–1727) was the first person to explain tides as the product of the gravitational attraction of astronomical masses.
+At low water, the intertidal zone is exposed (or ''emersed''), whereas at high water, it is underwater (or ''immersed'').
+In 1770 James Cook's barque HMS ''Endeavour'' grounded on the Great Barrier Reef.
+The tides' influence on current flow is much more difficult to analyse, and data is much more difficult to collect.
+The ''M''4 tide is found all along the south coast of the United Kingdom, but its effect is most noticeable between the Isle of Wight and Portland because the ''M''2 tide is lowest in this region.
+The rule of twelfths can suffice if an accurate curve is not available.

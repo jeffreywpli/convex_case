@@ -1,0 +1,200 @@
+American companies that are also very active in this field are Nightforce, U.S.
+The LRS 2-12x50 sight can measure ranges up to .
+* By making the objective lens of the telescopic sight adjustable so the telescopic sight can compensate parallax errors.
+There are two main methods to achieve this.
+The NATO Accessory Rail is backwards-compatible with the STANAG 2324 or MIL-STD 1913 Picatinny rail.
+However, it is important to take into consideration whether or not a gun is particularly hard to mount.
+There are, however, (military) Mil-dot equipped telescopic sights that use coarser or finer reticle adjustment increments.
+The SAM has different sensors integrated (temperature, air pressure, shooting angle) and calculates the actual ballistic compensation.
+Scope base and mounting systems are also manufactured in Europe.
+This ease of placement helps avoid vignetting, which is a darkened or obscured view that occurs when the light path is partially blocked.
+On fixed power telescopic sights there is no significant difference, but on variable power telescopic sights a first focal plane reticle expands and shrinks along with the rest of the image as the magnification is adjusted, while a second focal plane reticle would appear the same size and shape to the user as the target image grows and shrinks.
+Some long range target and military style telescopic sights without parallax compensation may be adjusted to be parallax free at ranges up to 300&nbsp;yd/m to make them better suited for aiming at 300&nbsp;yd/m+ ranges.
+Some companies offer adjustable bases, while others offer tapered bases with a given amount of elevation built in (commonly listed in MOA).
+Confusingly, some older telescopic sights, mainly of German or other European manufacture, have a different classification where the second part of the designation refers to 'light gathering power.'
+This illumination method can be used to provide both daytime and low-light conditions reticle illumination.
+Since the 1990s many other armed forces have adopted optical devices for general issue to infantry units and the rate of adoption has increased as the cost of manufacture has fallen.
+A typical scope mounting system consists of two parts, the scope base and the scope rings.
+To eliminate parallax induced aiming errors, telescopic sights can be equipped with a parallax compensation mechanism which basically consists of a movable optical element that enables the optical system to project the picture of objects at varying distances and the reticle crosshairs pictures together in exactly the same optical plane.
+An integrated ballistic computer/riflescope system known as BORS has been developed by the Barrett Firearms Company and became commercially available around 2007.
+The rings must be of the proper size to fit the scope; common sizes are 3/4&nbsp;inch (19.05&nbsp;mm), 22&nbsp;mm, 1&nbsp;inch (25.4&nbsp;mm), 26&nbsp;mm, 30&nbsp;mm and 34&nbsp;mm.
+This would denote 10 times magnification with a 50&nbsp;mm objective lens.
+Several high end optics manufacturers are constantly adapting and improving their telescopic sights to fulfill specific demands of military organizations.
+In these cases, a 4×81 (4× magnification) sight would be presumed to have a brighter sight picture than a 2.5×70 (2.5× magnification), but the objective lens diameter would not bear any direct relation to picture brightness, as brightness is affected also by the magnification factor.
+In the more expensive and high-end contemporary telescopic sights, etched reticles dominate the market.
+Rings that are out of round, misaligned in the bases, or tightened unevenly can warp or crush the body of the scope.
+The Canadian Forces standard C7 rifle has a 3.4× Elcan C79 optical sight.
+The syntax for variable sights is the following: minimal magnification – maximum magnification × objective lens, for example, 3–9×40.
+An etched reticle will stay fully opaque (black) if backlit.
+An early practical refractor telescope based telescopic sight was built in 1880 by August Fiedler (Stronsdorf, Austria), forestry commissioner of Prince Reuss.
+The dual combat sighting system weighs  due to a housing made out of glass fibre reinforced polyamide.
+A reticle that is too bright will cause glare in the operator's eye, interfering with his ability to see in low-light conditions.
+Telescopic sights based on refracting telescopes using image erector lenses to present the user with an upright image have two planes of focus where a reticle can be placed: at the focal plane between the objective and the image erector lens system (the First Focal Plane (FFP)), or the focal plane between the image erector lens system and the eyepiece (the Second Focal Plane (SFP)).
+Variable power telescopic sights with FFP reticles have no problems with point of impact shifts.
+Since the proportion between the reticle and the target is dependent on selected magnification, such reticles only work properly at one magnification level, typically the highest power.
+Sight alignment with telescopic sights is a matter of making the field of vision circular to minimize parallax error.
+The amount of magnification depends upon the application the telescopic sight is designed for.
+Once that's done, the range be read from the scale printed on the magnification adjustment ring.
+Many modern reticles are designed for (stadiametric) rangefinding purposes.
+Optics Inc. and Leupold.
+The German Army G36 assault rifles have a more or less built in dual combat sighting system consisting of a ZF 3x4° telescopic sight combined with an unmagnified electronic red dot sight.
+Other ranges can be similarly estimated accurately in an analog fashion for known target sizes through proportionality calculations.
+Also, adjustable bases are considerably more expensive, as well.
+These may adjust down as far as .
+Two European companies that are active this field are Schmidt & Bender and Zeiss/Hensoldt.
+Variable sights offer more flexibility regarding shooting at varying ranges, targets and light conditions and offer a relative wide field of view at lower magnification settings.
+The American high-end telescopic sight manufacturer U.S.
+Most illuminated reticles provide adjustable brightness settings to adjust the reticle precisely to the ambient light.
+Bullet Drop Compensation (BDC) (sometimes referred to as ballistic elevation) is a feature available on some rifle scopes.
+Lower magnifications lead to less susceptibility to shaking.
+By picking the appropriate combination of scope base to fit the firearm and scope rings to fit the scope, a wide range of scopes may be mounted to most firearms.
+With the appropriate combination of adjustable scope bases and scope rings it is also possible to mount several telescopic sights on the same gun to make the gun more versatile.
+Ring height is chosen to place the scope high enough to clear the firearm, and at a height comfortable for the shooter.
+Trijicon uses fiber optics combined with other low-light conditions illumination methods in their AccuPoint telescopic sights and some of their ACOG sights models.
+Telescopic sights have both advantages and disadvantages relative to iron sights.
+If the same scope was used at 10&nbsp;m the target-picture would be (1000&nbsp;m /&nbsp;10&nbsp;m) / 100&nbsp;mm = 1&nbsp;mm projected behind the reticle plane.
+Snipers rely on stealth and concealment to get close to their target.
+An early example of a man portable telescopic sight for low visibility/night use is the ''Zielgerät'' (aiming device) 1229 (ZG 1229), also known by its code name Vampir.
+It is usually expressed in millimeters.
+Etched reticles are images of the desired reticle layout that are etched on an optic element.
+For example, with a typical Leupold brand duplex 16 Minute of Angle (MOA) reticle (of a type as shown in image B) on a fixed power scope, the distance from post to post (that is, between the heavy lines of the reticle spanning the center of the scope picture) is approximately  at , or, equivalently, approximately  from the center to any post at 200 yards.
+A totally different approach has been applied in the ELCAN DigitalHunter Digital Rifle Scope series which combines CCD and LCD technology with electronic ballistics compensation, automatic video capture, 4 field selectable reticles and customizable reticles.
+Some SFP scopes take advantage of this aspect by having the shooter adjust magnification until the target fits a certain way inside the reticle and then extrapolate the range based on the power adjustment.
+At 10&times; magnification the error would be 10 &times; 0.1&nbsp;mm = 1&nbsp;mm at the ocular.
+These models are often called ''AO'' or ''A/O'' models, for adjustable objective.
+Those parameters are:
+Marksmen can be trained to understand the main forces acting on the projectile and their effect on their particular gun and ammunition and the effects of external factors at longer ranges to counter these errors.
+The higher the magnification, the narrower the field of view in the sight, and the more area is hidden.
+To avoid drilling the scope rail, the propriety rail mounting systems have special shape connections machined in the inside of the rail.
+These shape connections prevent ever showing any exterior damage from mounting work on the rifle scope.
+The only difference between the Picatinny rail and the Weaver rail is the size and spacing of the slots, although almost all rail-grabber-mounted accessories are manufactured such that they can mounted on either type of rail.
+Training and practice will enable a user to measure the range to objects of known size, the size of objects at known distances, and compensate for both bullet drop and wind drift at known ranges with reasonable accuracy.
+The most commonly encountered mounting systems are the 3/8&nbsp;inch (9.5&nbsp;mm) and the 11&nbsp;mm dovetail mounts (sometimes called tip-off mounts), commonly found on rimfires and air guns, the Weaver type base and the STANAG 2324 (MIL-STD-1913 "Picatinny rail") base.
+Use of too few rings can result not only in the scope moving under recoil, but also excessive torque on the scope tube as the gun rolls up under recoil.
+Scopes for airguns that are commonly used at short ranges are very often found with adjustable parallax, usually in the form of an adjustable objective, or AO.
+The famous Finnish sniper Simo Häyhä preferred to use iron sights rather than telescopic sights to present less of a target.
+They get around impermissible impact shifts by laboriously hand-adjusting every military grade telescopic sight.
+Red is the most common colour used, as it least impedes the shooter's natural night vision.
+This is generally caused by long term lack of movement in the lubricated turret mechanisms.
+Variable power telescopic sights with SFP reticles can have slight point-of-impact shifts through their magnification range, caused by the positioning of the reticle in the mechanical zoom mechanism in the rear part of the telescopic sight.
+Perhaps the most popular and well-known ranging reticle is the "Mil-dot" reticle, which consists of duplex crosshairs with small dots at milliradian (Mil or 1/1000 of a radian) intervals in the field of view.
+Still other telescopic rifle sights of the same period were the Davidson and the Parker Hale.
+If the same scope is used at 100&nbsp;m the target-picture would be projected (1000&nbsp;m / 100&nbsp;m) / 100&nbsp;mm = 0.1&nbsp;mm behind the reticle plane.
+When magnified ten times the error would be 10&nbsp;mm at the ocular.
+Ruger uses a proprietary scope base system, though adapters are available to convert the Ruger bases into Weaver type bases.
+Wire reticles are the oldest type of reticles and are made out of metal wire or thread.
+It's challenging to design a reticle that is visible through the entire range of magnification: a reticle that looks fine and crisp at 24x magnification may be very difficult to see at 6x .
+They are equipped with some form of graphic image pattern (a reticle) mounted in an optically appropriate position in their optical system to give an accurate aiming point.
+This optical effect causes parallax induced aiming errors that can make a telescopic sight user miss a small target at a distance for which the telescopic sight was not parallax adjusted.
+Since the usage of standardized ammunition is an important prerequisite to match the BDC feature to the external ballistic behaviour of the employed projectiles, telescopic sights with BDC are generally intended to assist with field shooting at targets at varying medium to longer ranges rather than precise long range shots.
+'''Magnification''' — The ratio of the focal length of the eyepiece divided into the focal length of the objective gives the linear magnifying power of telescopes.
+For comfort, ease of use, and flexibility in applications, larger telescopic sights with larger exit pupils are satisfying choices even if their capability is not fully used by day.
+Telescopic sights are usually designed for the specific application for which they are intended.
+Some Leupold hunting scopes with duplex reticles allow range estimation to a Whitetail Buck deer by adjusting magnification until the area between the backbone and the brisket fits between the crosshairs and the top thick post of the reticle.
+The British army fields the SA80 rifle with the SUSAT 4× optical sight as standard issue.
+The Israeli military began widespread use of telescopic sights by ordinary infantrymen to increase hit probability (especially in dim light) and extend effective range of standard issue infantry rifles.
+A magnification of factor 10, for example, produces an image as if one were 10 times closer to the object.
+Typical options for military telescopic sights are reticle illumination for use under adverse light circumstances and the presentation of scope settings or ballistic relevant environmental measurements data to the operator through the sights ocular.
+Other range finding reticle variations like Schmidt & Bender's P4L (Fine) reticule, which uses mil-hash marks instead of mil-dots for ranging purposes, also were developed on request of active snipers and other long-range field shooters.
+The (radioactive) tritium light source has to be replaced every 8–12 years, since it gradually loses its brightness due to radioactive decay.
+A narrow exit pupil telescopic sight may also be fatiguing because the instrument must be held exactly in place in front of the eyes to provide a useful image.
+Shooting in low light conditions also tends to require either illumination or a bold reticle, along with lower magnification to maximize light gathering.
+'''Field of view''' — The field of view of a telescopic sight is determined by its optical design.
+Specialized manufacturers like Ernst Apel GmbH offer an elaborate program of mounting solutions for many different guns.
+It memorizes up to 4 different ballistics and 4 different firing tables.
+It is usually notated in a linear value, such as how many meters (feet) in width will be seen at , or in an angular value of how many degrees can be viewed.
+Either type of reticle can be illuminated for use in low-light or daytime conditions.
+Telescopic sights are used with all types of systems that require accurate aiming but are most commonly found on firearms, particularly rifles.
+When backlit through the ocular, a wire reticle will reflect incoming light and not present a fully opaque (black) reticle with high contrast.
+The magnification can be varied by manually operating a zoom mechanism.
+Probably the best known rail interface system is the Picatinny rail or STANAG 2324 rail or MIL-STD-1913 rail used by NATO forces and other official and civil users.
+The propriety rail systems use matching slide-in mount fasteners to connect the riflescope to the gun.
+Standard doctrine with iron sights is to focus the eye on the front sight and align it with the resulting blur of the target and the rear sight; most shooters have difficulty doing this, as the eye tends to be drawn to the target, blurring both sights.
+Most contemporary telescopic sights offer the first three adjustment controls.
+There are also telescopic sights with variable magnification.
+With any illuminated low-light reticle, it is essential that its brightness can be adjusted.
+With fiber optics ambient (day)light can be collected and directed to an illuminated daytime reticle.
+Some of the European mounting solutions are virtually unknown and hence rarely applied in America.
+Malcolm's and those made by L. M. Amidon of Vermont were the standard during the Civil War.
+Some long-range shooters and military snipers use fixed-power scopes to eliminate this potential for error.
+Telescopic sights designed for military use like the ACOG or PSO-1 featuring BDC reticles or elevation turrets with range markings are fairly common, though commercial manufacturers offer the option to install a BDC reticle or elevation turret as long as the customer supplies the necessary ballistic data.
+In practice, these issues tend to significantly reduce the available magnification range on FFP scopes compared to SFP, and FFP scopes are much more expensive compared to SFP models of similar quality.
+Trijicon Corporation uses tritium in their combat and hunting-grade firearm optics, including the ACOG.
+These rails are an integral part of the scope body and can not be removed.
+Chapman gave James the concepts and some of the design, whereupon they produced the Chapman-James sight.
+Holdover, for estimating vertical point of aim offset required for bullet drop compensation on level terrain, and horizontal windage offset (for estimating side to side point of aim offsets required for wind effect corrections) can similarly be compensated for through using approximations based on the wind speed (from observing flags or other objects) by a trained user through using the reticle marks.
+The base is attached to the rifle, usually with screws, and is often designed to have a low profile, and to allow use of the iron sights if the scope is not present.
+Older telescopic sights often did not offer windage and elevation adjustments in the scope, but rather used adjustable mounts to provide adjustment.
+filling from scope center to post), then the distance to target is approximately .
+Though they had been used as early as the 1850s on rifles, and even earlier for other tasks, until the 1980s, when optical device and assault rifle combinations such as the Austrian Steyr AUG and the British SUSAT mounted on the SA80, became standard issue, military use of telescopic sights was restricted to snipers because of the fragility and expense of optical components.
+For maximum effective light-gathering and brightest image, the exit pupil should equal the diameter of the fully dilated iris of the human eye — about 7&nbsp;mm, reducing with age.
+'''Objective lens''' '''diameter''' – The diameter of the objective lens determines how much light can be gathered to form an image.
+Harsh climate can also cause problems for telescopic sights as they are less rugged than iron sights.
+Snipers generally used moderate to high magnification scopes with special reticles that allow them to estimate range to the target.
+Equipment is available to mount scopes on most production firearms.
+The PSO-1 basic design and stadiametric rangefinder are also found in the POSP and other telescopic sight models.
+Scopes for rimfire guns, shotguns, and muzzleloaders that are rarely fired at 100&nbsp;yd/m+ ranges will have shorter parallax settings, commonly 50&nbsp;yd/m for rimfire scopes and 100&nbsp;yd/m for shotguns and muzzleloaders.
+The former Warsaw Pact members produce military telescopic sights for their designated marksmen and developed a range finding reticle based on the height of an average human.
+By means of a mathematical formula – (width or height of the target/ number of mil of dots) x 1000 = distance – the user can measure the range to a target.
+A rather common problem with the elevation and windage adjustment controls is that once smooth working adjustment turrets 'get stuck' over the years.
+In general, the majority of modern variable-power scopes are SFP unless stated otherwise.
+For maximum effective light-gathering and brightest image, the exit pupil should equal the diameter of the fully dilated iris of the human eye — about 7&nbsp;mm, reducing with age.
+In sights like the SUSAT or Elcan C79 Optical Sight tritium-illuminated reticles are used for low-light condition aiming.
+Telescopic sights are classified in terms of the optical magnification and the objective lens diameter, e.g.
+And, it means that the image can be quickly found which is important when aiming at game animals that move rapidly.
+With a target of a diameter of 16&nbsp;inches that fills the entire sight picture from post to post, the range is approximately 100 yards.
+Also, loose manufacturing tolerances may result in base mounting holes being less than perfectly aligned with the bore.
+These models are often called ''side focus'' or ''sidewheel'' models.
+* Swarovski Optik SR
+The mounting rail permits the riflescope to be securely and tension-free mounted at the preferred height and correct distance from the shooter's eye and on different guns.
+A historic example of a telescopic sight with a long eye relief is the German ZF41 which was used during World War II on Karabiner 98k rifles.
+If the cone of light streaming out of the eyepiece is ''larger'' than the pupil it is going into, any light larger than the pupil is wasted in terms of providing information to the eye.
+The longer the focal length of the eyepiece, the greater the eye relief.
+Additionally the glass lenses are prone to breakage, and environmental conditions such as condensation, precipitation, dirt, and mud obscure external lenses.
+Some modern mounts also allow for adjustment, but it is generally intended to supplement the scope adjustments.
+Rapid fire target shooters use reflex sights, which have no magnification; this gives them the best field of view while maintaining the single focal plane of a telescopic sight.
+Some manufacturers provide integral bases on many of their firearms; an example of such a firearm is the Ruger Super Redhawk revolver.
+In this case, rather than adjusting the scope to the extremes of its elevation adjustment, the scope mount can be adjusted.
+Alternately a scout rifle type mount can be used, which places a long-eye-relief scope forward of the action.
+The eye of an eyeglass wearer is typically further from the eye piece which necessitates a longer eye relief in order to still see the entire field of view.
+In general terms, larger objective lens diameters, due to their ability to gather larger amounts of light, provide a larger exit pupil and hence provide a brighter image at the eyepiece.
+Telescopic sights with relatively long eye relief are favourable to avoid recoil induced facial and eye injuries and use in instances where it is difficult to hold the eyepiece steady.
+Another commercially available rail interface system is the Weaver rail mount from Weaver Optics.
+'''Eye relief''' — Eye relief is the distance from the rear eyepiece lens to the exit pupil or eye point.
+Rings are also available in a variety of heights and materials.
+These high end sighting components generally cost €1500 / $2000 or more.
+All indications are displayed in the ocular.
+Telescopic sights provide some tactical disadvantages.
+In 1855, William Malcolm of Syracuse, NY began producing his own sight.
+If the user sees an object of 1.8 m tall for example as three mil dots tall through the riflescope the object is at 600 m distance – (1.8 / 3) x 1000 = 600.
+The more recent propriety systems mainly offer aesthetic advantages for people who have problems with redundant drill holes in sight in case the riflescope is used on different guns.
+The BORS module is in essence an electronic Bullet Drop Compensation (BDC) sensor/calculator package intended for long-range sniping out to  for some telescopic sight models made by Leupold and Nightforce.
+Telescopic sights are expensive and require additional training to align.
+This stadiametric rangefinder reticle was originally used in the Russian PSO-1 4×24 rifle scope and is calibrated for ranging a 1.7 m tall target from 200 m to 1000 m. The target base has to be lined up on the horizontal line of the range-finding scale and the target top point has to touch the upper (dotted) line of the scale without clearance.
+A '''telescopic sight''', commonly called a '''scope''', is a sighting device that is based on an optical refracting telescope.
+It is the distance the observer must position his or her eye behind the eyepiece in order to see an unvignetted image.
+The heaviest-recoiling firearms, such as Thompson Center Arms Contender pistols in heavy-recoiling calibers, will use three rings for maximum support of the scope.
+The issuing of the ZG 1229 Vampir system to the military started in 1944 and it was used on a small scale in combat from February 1945 until the final stages of World War II.
+This, combined with telescopic magnification, clarifies the target and makes it stand out against the background.
+This method is technically more complicated to build, but generally more liked by parallax adjustable telescopic sight users—unlike AO models, which are read from the top, the sidewheel's setting can be read with minimal movement of the head.
+Radioactive isotopes can also be used as a light source, to provide an illuminated reticle for low-light condition aiming.
+Other types of sights are iron sights, reflector (reflex) sights, and laser sights.
+Some propriety rails also offer the possibility to tilt the scope up to 1° to the left or right.
+As very few firearms come with built-in telescopic sights (military designs such as the Steyr AUG, SAR 21 and the H&K G36 being exceptions) mounting a scope to a firearm requires additional equipment.
+The ZG 1229 Vampir was a Generation 0 active infrared night vision device developed for the ''Wehrmacht'' for the StG 44 assault rifle, intended primarily for night use.
+The less-commonly used holdunder, used for shooting on sloping terrain, can even be estimated by an appropriately-skilled user with a reticle-equipped scope, once both the slope of the terrain and the slant range to target are known.
+European telescopic sight manufacturers often offer the option to have mounting rails underneath the riflescope to provide for mounting solutions that do not use scope rings or a single scope ring around the objective of the scope.
+The SAM (Shooter-supporting Attachment Module) measures and provides aiming and ballistic relevant data and displays this to the user in the ocular of the Zeiss 6-24x72 telescopic sight it is developed for.
+The optical components may be combined with optoelectronics to form a night scope.
+With increasing range inevitable BDC induced errors will occur when the environmental and meteorological circumstances deviate from the predefined circumstances for which the BDC was calibrated.
+Malcolm used an original design incorporating achromatic lenses like those used in telescopes, and improved the windage and elevation adjustments.
+In 1997 Swarovski Optik introduced the LRS series telescopic sight, the first riflescope on the civilian market with an integrated laser rangefinder.
+Typical telescopic sights may have eye relief ranging from  to over , but telescopic sights intended for scout rifles or handguns need much longer eye relief to present an unvignetted image.
+There are several mounting rail systems offered:
+They were between three and twenty magnification (possibly more).
+Those different designs create certain optical parameters.
+In cheaper telescopic sights, wire reticles are still often mounted to avoid a rather specialized and costly production step.
+Both Austria and Australia field variants of the Austrian Steyr AUG which has built an integral 1.5× optical sight since its deployment in the late 1970s.
+Usually this results in the scope being offset to one side (to the left for right-handed people, right for left-handed) to allow the shell to clear the scope.
+In addition to needing the right type of connector to attach to the desired base, scope rings must be used to hold the scope to the mount.
+The traditional standard prism mounting rail system requires to have the scope rail drilled from the side for fixture screws.

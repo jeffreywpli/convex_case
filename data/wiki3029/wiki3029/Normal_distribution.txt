@@ -1,0 +1,200 @@
+When the mean ''μ'' is not zero, the plain and absolute moments can be expressed in terms of confluent hypergeometric functions 1''F''1 and ''U''.
+Gauss used ''M'', ,  to denote the measurements of some unknown quantity&nbsp;''V'', and sought the "most probable" estimator: the one that maximizes the probability  of obtaining the observed experimental results.
+The mean, variance and third central moment of this distribution have been determined
+In other words, the posterior distribution has the form of a product of a normal distribution over ''p''(''μ''&nbsp;|&nbsp;''σ''2) times an inverse gamma distribution over ''p''(σ2), with parameters that are the same as the update equations above.
+Since this must hold for any small δ''f''(''x''), the term in brackets must be zero, and solving for ''f(x)'' yields:
+These are given as two separate hyperparameters so that the variance (aka the confidence) of the two priors can be controlled separately.
+This function is symmetric around ''x''=0, where it attains its maximum value ; and has inflection points at +1 and −1.
+Starting from these principles, Gauss demonstrates that the only law that rationalizes the choice of arithmetic mean as an estimator of the location parameter, is the normal law of errors:
+A complex vector  is said to be normal if both its real and imaginary components jointly possess a 2''k''-dimensional multivariate normal distribution.
+Therefore, the joint prior is
+The independence between  and ''s'' can be employed to construct the so-called ''t-statistic'':
+''μ''4 + 6''μ''2''σ''2 + 3''σ''4
+* Gaussian processes are the normally distributed stochastic processes.
+# This suggests that we create a ''conditional prior'' of the mean on the unknown variance, with a hyperparameter specifying the mean of the pseudo-observations associated with the prior, and another parameter specifying the number of pseudo-observations.
+* The Ratio method is a rejection method.
+The split normal distribution is most directly defined in terms of joining scaled sections of the density functions of different normal distributions and rescaling the density to integrate to one.
+The prior for the variance also has two hyperparameters, one specifying the sum of squared deviations of the pseudo-observations associated with the prior, and another specifying once again the number of pseudo-observations.
+a weighted average of the data mean and the prior mean, each weighted by the associated total precision.
+Note that each of the priors has a hyperparameter specifying the number of pseudo-observations, and in each case this controls the relative variance of that prior.
+In his notation ''φΔ'' is the probability law of the measurement errors of magnitude ''Δ''.
+where '''i''' is the imaginary unit.
+The formulas for the non-linear-regression cases are summarized in the conjugate prior article.
+Some approximate methods are described in  and in the erf article.
+In this method ''U'' and ''V'' are drawn from the uniform (−1,1) distribution, and then ''S'' = ''U''2 + ''V''2 is computed.
+The following table gives the multiple ''n'' of ''σ'' such that ''X'' will lie in the range  with a specified probability ''p''.
+The priors are normally defined as follows:
+** Binomial random variables, associated with binary response variables;
+It was Laplace who first posed the problem of aggregating several observations in 1774, although his own solution led to the Laplacian distribution.
+This number serves as a scaling parameter on the variance, making it possible to control the overall variance of the mean relative to the actual variance parameter.
+''Approximately'' normal distributions occur in many situations, as explained by the central limit theorem.
+** Shapiro-Wilk test employs the fact that the line in the Q-Q plot has the slope of ''σ''.
+The same formulas can be written in terms of variance by reciprocating all the precisions, yielding the more ugly formulas
+Gauss defined the standard normal as having variance , that is
+where ''f''(''x'') log ''f''(''x'') is understood to be zero whenever ''f''(''x'') = 0.
+One of the main practical uses of the Gaussian law is to model the empirical distributions of many different random variables encountered in practice.
+This result is known as '''Cramér's decomposition theorem''', and is equivalent to saying that the convolution of two distributions is normal if and only if both are normal.
+Some more approximations can be found at: Error function#Approximation with elementary functions.
+This can be shown more easily by rewriting the variance as the precision, i.e.
+''μ''8 + 28''μ''6''σ''2 + 210''μ''4''σ''4 + 420''μ''2''σ''6 + 105''σ''8
+The approximate formulas in the display above were derived from the asymptotic distributions of  and ''s''2.
+* The multivariate normal distribution describes the Gaussian law in the ''k''-dimensional Euclidean space.
+In practice, another estimator is often used instead of the .
+The difference between ''s''2 and  becomes negligibly small for large ''n'''s.
+Hoel (1947) "''Introduction to mathematical statistics''" and A.M.
+In particular, the most popular value of , results in .
+If the null hypothesis is true, the plotted points should approximately lie on a straight line.
+The algorithms listed below all generate the standard normal deviates, since a  can be generated as , where ''Z'' is standard normal.
+His works remained largely unnoticed by the scientific community, until in 1871 they were "rediscovered" by Abbe.
+The first of these expressions shows that the variance of ''s''2 is equal to , which is slightly greater than the ''σσ''-element of the inverse Fisher information matrix .
+When the outcome is produced by many small effects acting ''additively and independently'', its distribution will be close to normal.
+In finite samples both ''s''2 and  have scaled chi-squared distribution with  degrees of freedom:
+** Generate two independent uniform deviates ''U'' and ''V'';
+* '''Moment tests''':
+Stigler goes even further, defining the standard normal with variance  :
+denotes the double factorial, that is, the product of every number from ''n'' to&nbsp;1 that has the same parity as&nbsp;''n''.
+The likelihood function from the section above with known variance is:
+A general upper bound for the approximation error in the central limit theorem is given by the Berry–Esseen theorem, improvements of the approximation are given by the Edgeworth expansions.
+''μ''5 + 10''μ''3''σ''2 + 15''μσ''4
+Other definitions of the ''Q''-function, all of which are simple transformations of , are also used occasionally.
+A random variable with a Gaussian distribution is said to be '''normally distributed''' and is called a '''normal deviate'''.
+* Complex normal distribution deals with the complex normal vectors.
+In 1809 Gauss published his monograph "''Theoria motus corporum coelestium in sectionibus conicis solem ambientium''" where among other things he introduces several important statistical concepts, such as the method of least squares, the method of maximum likelihood, and the ''normal distribution''.
+The formula for the distribution then becomes
+By Cochran's theorem, for normal distributions the sample mean  and the sample variance ''s''2 are independent, which means there can be no gain in considering their joint distribution.
+The examples of such extensions are:
+The above is also a scaled inverse chi-squared distribution where
+In computer simulations, especially in applications of the Monte-Carlo method, it is often desirable to generate values that are normally distributed.
+Since this is a quadratic polynomial in ''t'', only the first two cumulants are nonzero, namely the mean&nbsp;''μ'' and the variance&nbsp;''σ''2.
+* Integer arithmetic can be used to sample from the standard normal distribution.
+:will both have the standard normal distribution, and will be independent.
+Therefore, it may not be an appropriate model when one expects a significant fraction of outliers—values that lie many standard deviations away from the mean—and least squares and other statistical inference methods that are optimal for normally distributed variables often become highly unreliable when applied to such data.
+This makes logical sense if the precision is thought of as indicating the certainty of the observations: In the distribution of the posterior mean, each of the input components is weighted by its certainty, and the certainty of this distribution is the sum of the individual certainties.
+In finite samples it is distributed normally:
+The expectation of ''X'' conditioned on the event that ''X'' lies in an interval ''a,b'' is given by
+result:=0.5+(sum/sqrt(2*pi))*exp(-(x*x)/2);
+Its antiderivative (indefinite integral)  is .
+It was Laplace who first calculated the value of the integral  in 1782, providing the normalization constant for the normal distribution.
+The multivariate normal distribution is a special case of the elliptical distributions.
+** Poisson random variables, associated with rare events;
+It is often the case that we don't know the parameters of the normal distribution, but instead want to estimate them.
+This definition can be analytically extended to a complex-value parameter ''t''.
+These expressions remain valid even if ''p'' is not integer.
+For normally distributed data this plot should lie on a 45° line between (0,&nbsp;0) and&nbsp;(1,&nbsp;1).
+The standard approach to this problem is the maximum likelihood method, which requires maximization of the ''log-likelihood function'':
+For a set of i.i.d.
+* Gaussian q-distribution is an abstract mathematical construction that represents a "q-analogue" of the normal distribution.
+In this form, the mean value ''μ'' is −''b''/(2''a''), and the variance ''σ''2 is −1/(2''a'').
+''μ''6 + 15''μ''4''σ''2 + 45''μ''2''σ''4 + 15''σ''6
+# This leads immediately to the normal-inverse-gamma distribution, which is the product of the two distributions just defined, with conjugate priors used (an inverse gamma distribution over the variance, and a normal distribution over the mean, ''conditional'' on the variance) and with the same four parameters just defined.
+Not knowing what the function ''φ'' is, Gauss requires that his method should reduce to the well-known answer: the arithmetic mean of the measured values.
+The normal approximation will not be valid if the effects act multiplicatively (instead of additively), or if there is a single external influence that has a considerably larger magnitude than the rest of the effects.
+*  is ''mean'' or ''expectation'' of the distribution (and also its median and mode).
+The prior for σ2 is as follows:
+A function with two Lagrange multipliers is defined:
+The approximate formulas become valid for large values of ''n'', and are more convenient for the manual calculation since the standard normal quantiles ''zα/2'' do not depend on ''n''.
+''μ''7 + 21''μ''5''σ''2 + 105''μ''3''σ''4 + 105''μσ''6
+* Rectified Gaussian distribution a rectified version of normal distribution with all the negative elements reset to 0
+The variance-covariance structure of ''X'' is described by two matrices: the ''variance'' matrix&nbsp;Γ, and the ''relation'' matrix&nbsp;''C''.
+The two are equivalent except for having different parameterizations.
+Also the reciprocal of the standard deviation  might be defined as the ''precision'' and the expression of the normal distribution becomes
+** P-P plot— similar to the Q-Q plot, but used much less frequently.
+''F''(''μ'' + ''nσ'') − ''F''(''μ'' − ''nσ'')
+The terms Gaussian function and Gaussian bell curve are also ambiguous because they sometimes refer to multiples of the normal distribution that cannot be directly interpreted in terms of probabilities.
+The prior distributions are
+In truth, the distribution will be Irwin–Hall, which is a 12-section eleventh-order polynomial approximation to the normal distribution.
+There is also a converse theorem: if in a sample the sample mean and sample variance are independent, then the sample must have come from the normal distribution.
+First, the likelihood function is (using the formula above for the sum of differences from the mean):
+The normal distribution is useful because of the central limit theorem.
+This is exactly the sort of operation performed by the harmonic mean, so it is not surprising that  is one-half the harmonic mean of ''a'' and ''b''.
+Cramér's theorem implies that a linear combination of independent non-Gaussian variables will never have an exactly normal distribution, although it may approach it arbitrarily closely.
+This method consists of plotting the points (Φ(''z''(''k'')), ''pk''), where .
+* The Generalized normal distribution, also known as the exponential power distribution, allows for distribution tails with thicker or thinner asymptotic behaviors.
+Gauss himself apparently coined the term with reference to the "normal equations" involved in its applications, with normal having its technical meaning of orthogonal rather than "usual".
+value:=(value*x*x/(2*i+1));
+The result is the kernel of a normal distribution, with mean  and precision , i.e.
+The probability density of the normal distribution is:
+** Jarque–Bera test
+From the standpoint of the asymptotic theory,  is consistent, that is, it converges in probability to ''μ'' as ''n'' → ∞.
+In practice, the latter dependence is relatively unimportant: Shifting the actual mean shifts the generated points by an equal amount, and on average the squared deviations will remain the same.
+The last formula is valid also for any non-integer .
+The precision is normally defined as the reciprocal of the variance, 1/''σ''2.
+** Optional: if ''X''2 ≥ 4''e''−1.35/''U'' + 1.4 then reject ''X'' and start over from step 1;
+See also generalized Hermite polynomials.
+In finite samples however, the motivation behind the use of ''s''2 is that it is an unbiased estimator of the underlying parameter ''σ''2, whereas  is biased.
+This fact is widely used in determining sample sizes for opinion polls and the number of trials in Monte Carlo simulations.
+Also, by the Lehmann–Scheffé theorem the estimator ''s''2 is uniformly minimum variance unbiased (UMVU), which makes it the "best" estimator among all unbiased ones.
+The variance structure of such Gaussian random element can be described in terms of the linear ''covariance  ''.
+** Ornstein–Uhlenbeck process.
+More generally, if ''X''1, …, ''Xn'' are independent random variables, then two distinct linear combinations ∑''akXk'' and ∑''bkXk'' will be independent if and only if all ''Xk'''s are normal and , where  denotes the variance of ''Xk''.
+A random variable ''x'' has a two piece normal distribution if it has a distribution
+Among English speakers, both "normal distribution" and "Gaussian distribution" are in common use, with different terms preferred by different communities.
+Several Gaussian processes became popular enough to have their own names:
+The normal distribution is sometimes informally called the '''bell curve'''.
+* Marsaglia polar method is a modification of the Box–Muller method algorithm, which does not require computation of functions sin() and cos().
+This is not the case, however, with the total variance of the mean: As the unknown variance increases, the total variance of the mean will increase proportionately, and we would like to capture this dependence.
+These steps can be greatly improved so that the logarithm is rarely evaluated.
+* The ziggurat algorithm is faster than the Box–Muller transform and still exact.
+The graph of the standard normal CDF  has 2-fold rotational symmetry around the point (0,1/2); that is, .
+The normal distribution is symmetric about its mean, and is non-zero over the entire real line.
+This functional can be maximized, subject to the constraints that the distribution is properly normalized and has a specified variance, by using variational calculus.
+The Gaussian distribution belongs to the family of stable distributions which are the attractors of sums of independent, identically distributed distributions whether or not the mean or variance is finite.
+The new mean hyperparameter is once again a weighted average, this time weighted by the relative numbers of observations.
+It gives the probability that the value of a standard normal random variable ''X'' will exceed ''x''.
+normally distributed data points '''X''' of size ''n'' where each individual point ''x'' follows  with known mean μ, the conjugate prior of the variance has an inverse gamma distribution or a scaled inverse chi-squared distribution.
+** Optional: if ''X''2 ≤ 5 − 4''e''1/4''U'' then accept ''X'' and terminate algorithm;
+The plain and absolute moments of a variable ''X'' are the expected values of ''Xp'' and |''X''|''p'',respectively.
+The ½ in the exponent ensures that the distribution has unit variance (and therefore also unit standard deviation).
+where ''μ'' is the mean and ''σ''1 and ''σ''2 are the standard deviations of the distribution to the left and right of the mean respectively.
+*  is standard deviation
+More generally, any linear combination of independent normal deviates is a normal deviate.
+Then if  and  we proceed as follows.
+In practice people usually take , resulting in the 95% confidence intervals.
+where  denotes the double factorial.
+Mood (1950) "''Introduction to the theory of statistics''".
+The posterior precision is simply the sum of the prior and likelihood precisions, and the posterior mean is computed through a precision-weighted average, as described above.
+* An easy to program approximate approach, that relies on the central limit theorem, is as follows: generate 12 uniform ''U''(0,1) deviates, add them all up, and subtract 6 – the resulting random variable will have approximately standard normal distribution.
+where ''h'' is "the measure of the precision of the observations".
+The value of the normal distribution is practically zero when the value ''x'' lies more than a few standard deviations away from the mean.
+The term "standard normal", which denotes the normal distribution with zero mean and unit variance came into general use around the 1950s, appearing in the popular textbooks by P.G.
+#  This shows that this factor can be thought of as resulting from a situation where the reciprocals of quantities ''a'' and ''b'' add directly, so to combine ''a'' and ''b'' themselves, it's necessary to reciprocate, add, and reciprocate the result again to get back into the original units.
+Since its introduction, the normal distribution has been known by many different names: the law of error, the law of facility of errors, Laplace's second law, Gaussian law, etc.
+All these algorithms rely on the availability of a random number generator ''U'' capable of producing uniform random variates.
+** If ''X''2 ≤ −4 ln''U'' then accept ''X'', otherwise start over the algorithm.
+* The cumulative distribution function (CDF) of the standard normal distribution can be expanded by Integration by parts into a series:
+** Anderson–Darling test
+Typically the null hypothesis ''H''0 is that the observations are distributed normally with unspecified mean ''μ'' and variance ''σ''2, versus the alternative ''Ha'' that the distribution is arbitrary.
+Note however that in reality, the total variance of the mean depends on the unknown variance, and the sum of squared deviations that goes into the variance prior (appears to) depend on the unknown mean.
+This method is exact in the sense that it satisfies the conditions of ''ideal approximation''; i.e., it is equivalent to sampling a real number from the standard normal distribution and rounding this to the nearest representable floating point number.
+This formulation arises because for a bivariate normal random vector (''X'', ''Y'') the squared norm  will have the chi-squared distribution with two degrees of freedom, which is an easily generated exponential random variable corresponding to the quantity −2ln(''U'') in these equations; and the angle is distributed uniformly around the circle, chosen by the random variable ''V''.
+Furthermore, if '''A''' is symmetric, then the form
+Peirce (one of those authors) once defined "normal" thus: "...the 'normal' is not the average (or any other kind of mean) of what actually occurs, but of what ''would'', in the long run, occur under certain circumstances."
+* the q-Gaussian is an analogue of the Gaussian distribution, in the sense that it maximises the Tsallis entropy, and is one type of Tsallis distribution.
+The algorithm proceeds as follows:
+Except for the Gaussian which is a limiting case, all stable distributions have heavy tails and infinite variance.
+Reparameterizing in terms of an inverse gamma distribution, the result is:
+A random element  is said to be normal if for any constant  the scalar product  has a (univariate) normal distribution.
+Soon after this, in year 1915, Fisher added the location parameter to the formula for normal distribution, expressing it in the way it is written nowadays:
+* Matrix normal distribution describes the case of normally distributed matrices.
+The estimator  is called the ''sample variance'', since it is the variance of the sample (''x''1, …, ''xn'').
+In regression analysis, lack of normality in residuals simply indicates that the model postulated is inadequate in accounting for the tendency in the data and needs to be augmented; in other words, normality in residuals can always be achieved given a properly constructed model.
+where ''f(x)'' and ''F(x)'' respectively are the density and the cumulative distribution function of ''X''.
+In about 97% of all cases it uses only two random numbers, one random integer and one random uniform, one multiplication and an if-test.
+The two estimators are also both asymptotically normal:
+In this regard a series of Hadamard transforms can be combined with random permutations to turn arbitrary data sets into a normally distributed data.
+where ''a'' is negative and ''c'' is .
+This quantity ''t'' has the Student's t-distribution with  degrees of freedom, and it is an ancillary statistic (independent of the value of the parameters).
+** Q-Q plot— is a plot of the sorted values from the data set against the expected values of the corresponding quantiles from the standard normal distribution.
+* The Box–Muller method uses two independent random numbers ''U'' and ''V'' distributed uniformly on (0,1).
+The statistic  is complete and sufficient for ''μ'', and therefore by the Lehmann–Scheffé theorem,  is the uniformly minimum variance unbiased (UMVU) estimator.
+Although Gauss was the first to suggest the normal distribution law, Laplace made significant contributions.
+A normal random variable ''X'' will exceed ''μ'' + ''σzp'' with probability 1 − ''p''; and will lie outside the interval ''μ'' ± ''σzp'' with probability 2(1 − ''p'').
+* Pearson distribution— a four-parametric family of probability distributions that extend the normal law to include different skewness and kurtosis values.
+That is, to combine ''n'' data points with total precision of ''n''τ (or equivalently, total variance of ''n''/σ2) and mean of values , derive a new total precision simply by adding the total precision of the data to the prior total precision, and form a new mean through a ''precision-weighted average'', i.e.
+Writing it in terms of variance rather than precision, we get:
+# To handle the case where both mean and variance are unknown, we could place independent priors over the mean and variance, with fixed estimates of the average mean, total variance, number of data points used to compute the variance prior, and sum of squared deviations.
+This can be written as a set of Bayesian update equations for the posterior parameters in terms of the prior parameters:
+Therefore, the posterior is (dropping the hyperparameters as conditioning factors):
+For the standard normal distribution, ''a'' is −1/2, ''b'' is zero, and ''c'' is .
+However, by the end of the 19th century some authors had started using the name ''normal distribution'', where the word "normal" was used as an adjective&nbsp;– the term now being seen as a reflection of the fact that this distribution was seen as typical, common&nbsp;– and thus "normal".
+In the above derivation, we used the formula above for the sum of two quadratics and eliminated all constant factors not involving&nbsp;''μ''.

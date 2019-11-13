@@ -1,0 +1,200 @@
+Therefore, if a classical field theory has a gauge symmetry, then its quantized version (i.e.
+The basic idea was that in QFT the electromagnetic field should be represented by matrices in the same way that position and momentum were represented in QM by matrices in matrix mechanics.
+Most of the theoreticians believed that QED would break down at high energies.
+The perturbation expansions did not converge to a finite sum and even most individual terms were divergent.
+Perturbation theory gives well-defined predictions only in renormalizable quantum field theories, and luckily QED, the first fully developed QFT, belonged to this class of renormalizable theories.
+Quantum field theory uses this same Lagrangian procedure to determine the equations of motion for quantum fields.
+For more on this topic, see Haag's theorem.
+and then applies the Euler–Lagrange equation, one obtains the equation of motion
+For instance, the fundamental observables associated with the motion of a single quantum mechanical particle are the position and momentum operators  and .
+It was soon realized that supersymmetry has other interesting properties: its gauged version is an extension of general relativity (Supergravity), and it is a key ingredient for the consistency of string theory.
+P. Jordan introduced creation and annihilation operators for fields obeying Fermi–Dirac statistics.
+QED, the quantum field-theoretic description of the electromagnetic field, approximately reproduces Maxwell's theory of electrodynamics in the low-energy limit, with small non-linear corrections to the Maxwell equations required due to virtual electron–positron pairs.
+Quantum field theory started with a theoretical framework that was built in analogy to quantum mechanics.
+This has the effect of replacing continuous space by a structure where very short wavelengths do not exist, as on a lattice.
+where  stands for the Dirac delta function.
+They can be shown to obey the commutation relation
+This involved the work of Leo Kadanoff (1966) and Michael Fisher (1973), which led to the seminal reformulation of quantum field theory by Kenneth G. Wilson in 1975.
+This is called  Haag's theorem, but most particle physicists relying on QFT largely shrug it off.
+On a lattice, every quantity is finite but depends on the spacing.
+The diagrams provide an effective way to organize and visualize the various terms in the perturbation series, and they seem to display the flow of electrons and photons during the scattering process.
+Classical field theory does not, however, account for the quantum-mechanical aspects of such physical phenomena.
+These are precisely the relations obeyed by the ladder operators for an infinite set of independent quantum harmonic oscillators, one for each single-particle state.
+The latter of these is pursued in this article.
+This is a ''quantum field''.
+The field's elementary degrees of freedom are the occupation numbers, and each occupation number is indexed by a number  indicating which of the single-particle states  it refers to:
+where  and  denotes the bosonic creation and annihilation operators,  and  denotes the fermionic creation and annihilation operators, and  is a parameter that describes the strength of the interaction.
+A set of graphical rules can be derived so that the probability of a specific scattering process can be calculated by drawing a diagram of that process and then using the diagram to write down the mathematical expressions for calculating its amplitude.
+Infinitesimal gauge transformations are the gauge group generators.
+In fact most topics in the early development of quantum theory (the so-called old quantum theory, 1900–25) were related to the interaction of radiation and matter and thus should be treated by quantum field theoretical methods.
+The field operator is not the same thing as a single-particle wavefunction.
+In ordinary quantum mechanics, there is not much theoretical motivation for using symmetric (bosonic) or antisymmetric (fermionic) states, and the need for such states is simply regarded as an empirical fact.
+In the perturbative approach to quantum field theory, the full field interaction terms are approximated as a perturbative expansion in the number of particles involved.
+Important work was done in this area in the 1970s by Segal, Glimm, Jaffe and others.
+From the point of view of the philosophy of science, it is remarkable that these divergences did not give enough reason to discard the theory.
+Feynman himself was not particularly interested in ontological questions.
+These proposals included changes in the basic concepts e.g.
+On the other side and, from a theoretical point of view more threatening, calculations of higher orders of the perturbation series led to infinite results.
+On the other side, there are spin 1 particles (thus bosons) that mediate the interaction between elementary particles and the fundamental forces, namely the photon for electromagnetic interaction, two W and one Z-boson for weak interaction, and the gluon for strong interaction.
+It is worth noting that by Noether's theorem, for every such symmetry there exists an associated conserved current.
+The diagrams are part of Feynman's very efficient and elegant algorithm for computing the probability of scattering processes.
+The research aimed at a more comprehensive theory of matter and in the end at a ''unified theory of all interactions''.
+In quantum field theory, quantum mechanical interactions between particles are described by interaction terms between the corresponding underlying quantum fields.
+It is not immediately clear ''how'' to write down such a quantum field, since quantum mechanics has a structure very unlike a field theory.
+Whenever the Hamiltonian operates on a state, each particle destroyed by an annihilation operator  is immediately put back by the creation operator .
+Single-particle states are usually enumerated in terms of their momenta (as in the particle in a box problem.)
+General arguments against a particle interpretation of QFT clearly exclude that the diagrams represent paths of particles in the interaction area.
+In the beginning of the 1950s, QED had become a reliable theory which no longer counted as preliminary.
+Ordinary quantum mechanical systems have a fixed number of particles, with each particle having a finite number of degrees of freedom.
+For example, the general quantum state of a system of  bosons is written as
+Originally, his principal motivation was to explain the thermodynamics of radiation.
+According to the standard model there are, on the one side, six types of leptons (e.g.
+In its most general formulation, quantum mechanics is a theory of abstract operators (observables) acting on an abstract state space (Hilbert space), where the observables represent physically observable quantities and the state space represents the possible states of the system under study.
+The main impact of axiomatic topological quantum field theory has been on mathematics, with important applications in representation theory, algebraic topology, and differential geometry.
+Many of the proposed theories to describe gravity as a QFT postulate the existence of a graviton particle that mediates the gravitational force.
+Alternatively, the Heisenberg picture can be used where the time dependence is in the operators rather than in the states.
+An ''N''-particle state belongs to a space of states describing systems of ''N'' particles.
+Quantum field theory thus provides a unified framework for describing "field-like" objects (such as the electromagnetic field, whose excitations are photons) and "particle-like" objects (such as electrons, which are treated as excitations of an underlying electron field), so long as one can treat interactions as "perturbations" of free fields.
+Some difficult problems concerning commutation relations, statistics, and Lorentz invariance were eventually solved.
+Thus, the question "why are all electrons identical?"
+if we are describing a gas of atoms sealed in a box.
+Here  is the particle's mass and  is the applied potential.
+Many physicists prefer to take the converse interpretation, which is that ''quantum field theory explains what identical particles are''.
+The next step is to combine the individual ''N''-particle state spaces into an extended state space, known as Fock space, which can describe systems of any number of particles.
+In quantum electrodynamics, the theory is also invariant under a ''local'' change of phase, that is – one may shift the phase of all wave functions so that the shift may be different at every point in space-time.
+Because such fields can in principle take on distinct values at each point in space, they are said to have infinite degrees of freedom.
+They are analogous to ladder operators in the quantum harmonic oscillator problem, which added and subtracted energy quanta.
+Ordinarily, QM cannot give an account of photons which constitute the prime case of relativistic ‘particles’.
+The first pillar is the quantization of the electromagnetic field, i.e., it is about photons as the quantized excitations or 'quanta' of the electromagnetic field.
+These attempts fall into two broad classes.
+Many of the defining characteristics of a superfluid arise from the notion that its quantum state is a superposition of states with different particle numbers.
+Various historical and conceptual studies of the standard model are gathered in Hoddeson et al.
+Hopefully, by allowing the constants to vary with the lattice spacing, all the results at long distances become insensitive to the lattice, defining a continuum limit.
+The first step in second quantization is to express such quantum states in terms of '''occupation numbers''', by listing the number of particles occupying each of the single-particle states  etc.
+In 1949 Freeman Dyson showed that the two approaches are in fact equivalent.
+The energy carried by a single electron&mdash;its self-energy&mdash;is not simply the bare value, but also includes the energy contained in its electromagnetic field, its attendant cloud of photons.
+In general, a QFT is called renormalizable, if all infinities can be absorbed into a redefinition of a finite number of coupling constants and masses.
+To this end, we can define ''field operators'' that create or destroy a particle at a particular point in space.
+The Standard Model of particle physics is perturbatively renormalizable, and so are its component theories (quantum electrodynamics/electroweak theory and quantum chromodynamics).
+Quantum electrodynamics rests on two pillars, see e.g., the short and lucid “Historical Introduction” of .
+The inception of QFT is usually considered to be Dirac's famous 1927 paper on “The quantum theory of the emission and absorption of radiation”.
+This formalism is analogous to the Lagrangian formalism used in classical mechanics to solve for the motion of a particle under the influence of a field.
+Over the past several decades, there have been many attempts to put quantum field theory on a firm mathematical footing by formulating a set of axioms for it.
+This is achieved by using a Slater determinant as the wavefunction of a fermionic system (and a Slater permanent for a bosonic system), which is equivalent to an element of the symmetric or antisymmetric subspace of a tensor product.
+number of generators forming a basis).
+According to the Pauli exclusion principle, fermions cannot share quantum states, so their occupation numbers ''Ni'' can only take on the value 0 or 1.
+Some physicists tried to circumvent the infinities by more-or-less arbitrary prescriptions, others worked on transformations and improvements of the theoretical framework.
+The business of ''quantum'' field theory is to write down a field that is, like a classical field, a function defined over space and time, but which also accommodates the observations of quantum mechanics.
+These differ from the corresponding operators for Bose&ndash;Einstein statistics in that the former satisfy ''anti-commutation relations'' while the latter satisfy commutation relations.
+Fermi and Dirac, as well as Fock and Podolsky, presented different formulations which played a heuristic role in the following years.
+The simplest models of this breaking require that the energy of the superpartners not be too high; in these cases, supersymmetry is expected to be observed by experiments at the Large Hadron Collider.
+The first class of axioms, first proposed during the 1950s, include the Wightman, Osterwalder–Schrader, and Haag–Kastler systems.
+In addition, the concept of a coherent state (used to model the laser and the BCS ground state) refers to a state with an ill-defined particle number but a well-defined phase.
+Similarly, intermediate vector bosons mediate the weak force and gluons mediate the strong force in QCD.
+The "second quantization" procedure that we have outlined in the previous section takes a set of single-particle quantum states as a starting point.
+The renormalization procedure only works for a certain class of quantum field theories, called ''renormalizable quantum field theories''.
+The way supersymmetry protects the hierarchies is the following: since for every particle there is a superpartner with the same mass, any loop in a radiative correction is cancelled by the loop corresponding to its superpartner, rendering the theory UV finite.
+The number of fermions, however, is conserved in this case.
+This heuristics, based on Huygen's principle, is useful for concrete calculations and actually give the correct particle propagators as derived more rigorously.
+where the indices ''i'' and ''j'' run over all particles, then the field theory Hamiltonian (in the non-relativistic limit and for negligible self-interactions) is
+The bosonic annihilation operator  and creation operator  are easily defined in the occupation number representation as having the following effects:
+This new theory for matter fields could be applied a decade later when new particles, pions, were detected.
+On three famous conferences, the Shelter Island Conference 1947, the Pocono Conference 1948, and the 1949 Oldstone Conference, developments in theoretical physics were confronted with relevant new experimental results.
+Quantum electrodynamics (QED) has one electron field and one photon field; quantum chromodynamics (QCD) has one field for each type of quark; and, in condensed matter, there is an atomic displacement field that gives rise to phonon particles.
+and are therefore not proper symmetry transformations.
+These transformations are together described by a mathematical object known as a gauge group.
+Dirac supplied a systematic procedure for transferring the characteristic quantum phenomenon of discreteness of physical quantities from the quantum-mechanical treatment of particles to a corresponding treatment of fields.
+Writing coordinates (''t'', '''x''')&nbsp;= (''x''0, ''x''1, ''x''2, ''x''3) = ''x''μ, this form of the Euler–Lagrange equation is
+Because the fields are continuous quantities over space, there exist excited states with arbitrarily large numbers of particles in them, providing QFT systems with effectively an infinite number of degrees of freedom.
+This cut-off procedure is successful if, after taking the limit Λ → ∞, the resulting quantities are independent of Λ.
+It is also a curse, because once a renormalizable theory like the standard model is found to work, it gives very few clues to higher energy processes.
+During the same period, Kadanoff (1969) introduced an operator algebra formalism for the two-dimensional Ising model, a widely studied mathematical model of ferromagnetism in statistical physics.
+Since photons have rest mass zero, and correspondingly travel in the vacuum at the speed ''c'', a non-relativistic theory such as ordinary QM cannot give even an approximate description.
+This is another example of second quantization.
+Many physicists tried to avoid the divergences by formal tricks (truncating the integrals at some value of momentum, or even ignoring infinite terms) but such rules were not reliable, violated the requirements of relativity and were not considered as satisfactory.
+This is simply another way of labelling the states.
+This looks remarkably like an expression for the expectation value of the energy, with  playing the role of the wavefunction.
+In that case, the quantum state is trapped in the ''N''-particle subspace of the total Fock space, and the situation could equally well be described by ordinary ''N''-particle quantum mechanics.
+All the fundamental interactions in nature are described by gauge theories.
+It took two decades from writing down the first equations until QFT could be applied to interesting physical problems in a systematic way.
+For free (non-interacting) quantum fields, the quantum field theories obtained in this way have the same properties as those obtained using second quantization, such as well-defined creation and annihilation operators obeying commutation or anticommutation relations.
+(In fact, this type of Hamiltonian is used to describe the interaction between conduction electrons and phonons in metals.
+One way is to cut off the integrals in the calculations at a certain value Λ of the momentum which is large but finite.
+The first comprehensive account of a general theory of quantum fields, in particular, the method of canonical quantization, was presented by Heisenberg & Pauli in 1929.
+The solution to the problem, presciently suggested by Stueckelberg, independently by Bethe after the crucial experiment by Lamb, implemented at one loop by Schwinger, and systematically extended to all loops by Feynman and Dyson, with converging work by Tomonaga in isolated postwar Japan, comes from recognizing that all the infinities in the interactions of photons and electrons can be isolated into redefining a finite number of quantities in the equations by replacing them with the observed values: specifically the electron's mass and charge: this is called renormalization.
+The energy in a field of a spherical source diverges in both classical and quantum mechanics, but as discovered by Weisskopf with help from Furry, in quantum mechanics the divergence is much milder, going only as the logarithm of the radius of the sphere.
+However, most of the physically relevant quantum field theories, such as the Standard Model, are not topological quantum field theories; the quantum field theory of the fractional quantum Hall effect is a notable exception.
+One thing to notice here is that even if we start out with a fixed number of bosons, we will typically end up with a superposition of states with different numbers of bosons at later times.
+External lines in the diagrams represent incoming and outgoing particles, internal lines are connected with virtual particles and vertices with interactions.
+The preceding description of quantum field theory follows the spirit in which most physicists approach the subject.
+For instance, for a field of free (non-interacting) bosons, the total energy of the field is found by summing the energies of the bosons in each energy eigenstate.
+In contrast, the excited states of a quantum field can represent any number of particles.
+the corresponding quantum field theory) will have this symmetry as well.
+For example, we can see that the free boson Hamiltonian described above conserves particle number.
+The change of local gauge of variables is termed gauge transformation.
+Examples are the scattering of radiation by free electrons, Compton scattering, the collision between relativistic electrons or the production of electron-positron pairs by photons.
+One of these was discovered by Richard Feynman, the other one (based on an operator formalism) by Julian Schwinger and independently by Sin-Itiro Tomonaga.
+Edward Witten describes QFT as "by far" the most difficult theory in modern physics – "so difficult that nobody fully believed it for 25 years."
+These equations of motion are then supplemented by commutation relations derived from the canonical quantization procedure described below, thereby incorporating quantum mechanical effects into the behavior of the field.
+Often one is interested in the case where  particles are all of the same type (for example, the 18 electrons orbiting a neutral argon nucleus).
+Presumably, the as yet unknown correct quantum field-theoretic treatment of the gravitational field will behave like Einstein's general theory of relativity in the low-energy limit.
+linear operators acting on the Fock space.
+The fermionic annihilation operators ''c'' and creation operators  are defined by their actions on a Fock state thus
+The gauge bosons are eight gluons.
+As Weinberg points out the “photon is the only particle that was known as a field before it was detected as a particle” so that it is natural that QED began with the analysis of the radiation field.
+Finding the proper axioms for quantum field theory is still an open and difficult problem in mathematics.
+This basically involves choosing a way to index the quantum mechanical degrees of freedom in the space of multiple identical-particle states.
+For example, in every quantum theory the global phase of the wave function is arbitrary and does not represent something physical.
+Further applications of QFT outside of quantum electrodynamics succeeded in nuclear physics with the strong interaction.
+Although there was no unique and fully developed theory, quantum field theoretical tools could be applied to concrete processes.
+The degrees of freedom in quantum field theory are local fluctuations of the fields.
+From a mathematically rigorous perspective, there exists no interaction picture in a Lorentz-covariant quantum field theory.
+Field theory, in contrast, treats ''x'' as a way to index the field rather than as an operator.
+These obey an anticommutation relation:
+For instance, the above 3-particle state is denoted as
+It turns out that such inconsistencies arise from relativistic wavefunctions not having a well-defined probabilistic interpretation in position space, as probability conservation is not a relativistically covariant concept.
+The particles are described by a wavefunction , which is governed by an extended version of the Schrödinger equation.
+Albert Einstein in 1905, attributed "particle-like" and discrete exchanges of momenta and energy, characteristic of "field quanta", to the electromagnetic field.
+In classical field theory, one writes down a Lagrangian density, , involving a field, φ('''x''',''t''), and possibly its first derivatives (∂φ/∂''t'' and ∇φ), and then applies a field-theoretic form of the Euler–Lagrange equation.
+Adding or removing bosons from each state is, therefore, analogous to exciting or de-exciting a quantum of energy in a harmonic oscillator.
+However, quantum mechanics as formulated by Dirac, Heisenberg, and Schrödinger in 1926–27 started from atomic spectra and did not focus much on problems of radiation.
+for the applications to phenomena in physics.
+arises from mistakenly regarding individual electrons as fundamental objects, when in fact it is only the electron field that is fundamental.
+Most theories in standard particle physics are formulated as ''relativistic quantum field theories'', such as QED, QCD, and the Standard Model.
+In quantum field theory the excitations of fields represent particles.
+Nevertheless, the transformed field equations describe correctly the physical laws in the presence of the newly generated field strengths.
+the Dirac equation, the Klein&ndash;Gordon equation and the Maxwell equations.
+However, these operators literally create and annihilate particles of a given quantum state.
+It was introduced in order to solve the so-called Hierarchy Problem, that is, to explain why particles not protected by any symmetry (like the Higgs boson) do not receive radiative corrections to its mass driving it to the larger scales (GUT, Planck...).
+There is currently no complete quantum theory of the remaining fundamental force, gravity.
+Despite the feeling that QFT was imperfect and lacking rigor, its methods were extended to new areas of applications.
+Later, there developed the idea that a finite number of generating operators could represent all the correlation functions of the Ising model.
+Let us denote the mutually orthogonal single-particle states which are possible in the system by  and so on.
+In other words, a gauge symmetry cannot have a quantum anomaly.
+New theoretical concepts had to be introduced, mainly connected with non-Abelian gauge theories (the effort of developing such theories started in 1954 with the work of Yang and Mills) and spontaneous symmetry breaking.
+The first chapter in  is a very good short description of the earlier history of QFT.
+States describing a definite number of particles are known as Fock states: a general element of Fock space will be a linear combination of Fock states.
+However, in order for a well-defined derivative operator to exist, one must introduce a new field, the gauge field, which also transforms in order for the local change of variables (the phase in our example) not to affect the derivative.
+One of the Millennium Prize Problems&mdash;proving the existence of a mass gap in Yang–Mills theory&mdash;is linked to this issue.
+Many of these problems are related to failures in classical electrodynamics that were identified but unsolved in the 19th century, and they basically stem from the fact that many of the supposedly "intrinsic" properties of an electron are tied to the electromagnetic field that it carries around with it.
+There are two common ways of developing a quantum field: the path integral formalism and canonical quantization.
+After the end of World War II more reliable and effective methods for dealing with infinities in QFT were developed, namely coherent and systematic rules for performing relativistic field theoretical calculations, and a general renormalization theory.
+One may notice from this that applying a fermionic creation operator twice gives zero, so it is impossible for the particles to share single-particle states, in accordance with the exclusion principle.
+Attempted replacements for the Schrödinger equation, such as the Klein–Gordon equation or the Dirac equation, have many unsatisfactory qualities; for instance, they possess energy eigenvalues that extend to &ndash;∞, so that there seems to be no easy definition of a ground state.
+In the 1980s, the existence of a much stronger symmetry for the scaling limit of two-dimensional critical systems was suggested by Alexander Belavin, Alexander Polyakov and Alexander Zamolodchikov in 1984, which eventually led to the development of conformal field theory, a special case of quantum field theory, which is presently employed successfully in different areas of particle physics and condensed matter physics.
+The renormalization group describes how renormalizable theories emerge as the long distance low-energy effective field theory for any given high-energy theory.
+We can construct field operators by applying the Fourier transform to the creation and annihilation operators for these states.
+However, they are closely related and are indeed commonly denoted with the same symbol.
+Each term in the expansion can be thought of as forces between particles being mediated by other particles.
+In particle physics, these operators turn out to be more convenient to work with, because they make it easier to formulate theories that satisfy the demands of relativity.
+Each of these graphical elements is associated with mathematical expressions that contribute to the amplitude of the respective process.
+In quantum electrodynamics, this gauge field is the electromagnetic field.
+There is a one-to-one correspondence between the occupation number representation and valid boson states in the Fock space.
+Unfortunately, it proved extraordinarily difficult to show that any realistic field theory, including the Standard Model, satisfied these axioms.
+In the previous part of the article, we described the most general features of quantum field theories.
+Physical information about the behavior of the particle is extracted from the wavefunction by constructing expected values for various quantities; for example, the expected value of the particle's position is given by integrating  over all space, and the expected value of the particle's momentum is found by integrating .
+The notion of a force-mediating particle comes from perturbation theory, and does not make sense in the context of non-perturbative approaches to QFT, such as with bound states.
+The years from 1930 to the beginning of World War II were characterized by a variety of attitudes towards QFT.
+The idea of particles traveling from one point to another was heuristically useful in constructing the theory.
+Supersymmetry assumes that every fundamental fermion has a superpartner that is a boson and vice versa.
+In 1933 Fermi's theory of the beta decay started with conceptions describing the emission and absorption of photons, transferred them to beta radiation and analyzed the creation and annihilation of electrons and neutrinos described by the weak interaction.

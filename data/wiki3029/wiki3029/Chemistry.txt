@@ -1,0 +1,200 @@
+A principal difference between solid phases is the crystal structure, or arrangement, of the atoms.
+Most chemists specialize in one or more sub-disciplines.
+Cations and anions can form a crystalline lattice of neutral salts, such as the Na+ and Cl− ions forming sodium chloride, or NaCl.
+English scientist John Dalton proposed the modern theory of atoms; that all substances are composed of indivisible 'atoms' of matter and that different atoms have varying atomic weights.
+Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule.
+A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them.
+Physical chemistry is a distinct discipline from chemical physics, but again, there is very strong overlap.
+In this scheme each chemical substance is identifiable by a number known as its CAS registry number.
+Physical chemistry has large overlap with molecular physics.
+The periodic table is arranged in groups, or columns, and periods, or rows.
+Davy discovered nine new elements including the alkali metals by extracting them from their oxides with electric current.
+Organic chemistry was developed by Justus von Liebig and others, following Friedrich Wöhler's synthesis of urea which proved that living organisms were, in theory, reducible to chemistry.
+It can be symbolically depicted through a chemical equation, which usually involves atoms as subjects.
+The transfer of energy from one chemical substance to another depends on the ''size'' of energy quanta emitted from one substance.
+This definition further evolved until, in 1947, it came to mean the science of substances: their structure, their properties, and the reactions that change them into other substances - a characterization accepted by Linus Pauling.
+A chemical reaction is a transformation of some substances into one or more different substances.
+Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur.
+the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
+The number of atoms on the left and the right in the equation for a chemical transformation is equal.
+There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
+Different kinds of spectra are often used in chemical spectroscopy, e.g.
+The phase of matter is defined by the ''phase transition'', which is when energy put into or taken out of the system goes into rearranging the structure of the system, instead of changing the bulk conditions.
+In a covalent bond, one or more pairs of valence electrons are shared by two atoms: the resulting electrically neutral group of bonded atoms is termed a molecule.
+One of the main characteristics of a molecule is its geometry often called its structure.
+The chemistry laboratory stereotypically uses various forms of laboratory glassware.
+An alchemist was called a 'chemist' in popular speech, and later the suffix "-ry" was added to this to describe the art of the chemist as "chemistry".
+The "inert" or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way.
+The type of chemical reactions a substance may undergo and the energy changes that may accompany it are constrained by certain basic rules, known as chemical laws.
+A ''molecule'' is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances.
+Each of these kinds of bonds is ascribed to some potential.
+Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
+When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion.
+Theoretical chemistry has large overlap with (theoretical and experimental) condensed matter physics and molecular physics.
+* Nuclear chemistry is the study of how subatomic particles come together and make nuclei.
+In 50 BC, the Roman philosopher Lucretius expanded upon the theory in his book ''De rerum natura'' (On The Nature of Things).
+It is often seen as linked to the quest to turn lead or another common starting material into gold.
+It is usually associated with quantum chemistry and theoretical chemistry.
+The mass number is the sum of the number of protons and neutrons in a nucleus.
+Biochemistry and organic chemistry are closely related, as in medicinal chemistry or neurochemistry.
+A collection of substances is called a mixture.
+Other disciplines within chemistry are traditionally grouped by the type of matter being studied or the kind of study.
+These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system.
+Other fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, electrochemistry, environmental chemistry, femtochemistry, flavor chemistry, flow chemistry, geochemistry, green chemistry, histochemistry, history of chemistry, hydrogenation chemistry, immunochemistry, marine chemistry, materials science, mathematical chemistry, mechanochemistry, medicinal chemistry, molecular biology, molecular mechanics, nanotechnology, natural product chemistry, oenology, organometallic chemistry, petrochemistry, pharmacology, photochemistry, physical organic chemistry, phytochemistry, polymer chemistry, radiochemistry, solid-state chemistry, sonochemistry, supramolecular chemistry, surface chemistry, synthetic chemistry, thermochemistry, and many others.
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number.
+These other types of substances, such as ionic compounds and network solids, are organized in such a way as to lack the existence of identifiable molecules ''per se''.
+Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH−) and phosphate (PO43−).
+Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond.
+In addition to the specific chemical properties that distinguish different chemical classifications, chemicals can exist in several phases.
+In 1837, Jean-Baptiste Dumas considered the word "chemistry" to refer to the science concerned with the laws and effects of molecular forces.
+Prior to his work, though, many important discoveries had been made, specifically relating to the nature of 'air' which was discovered to be composed of many different gases.
+In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure.
+When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds.
+The ''speed'' of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor  - that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation.
+The inert gases, later called the noble gases were discovered by William Ramsay in collaboration with Lord Rayleigh at the end of the century, thereby filling in the basic structure of the table.
+The number of entities per mole is known as the Avogadro constant, and is determined empirically to be approximately 6.022 mol−1.
+Alternately, ''al-kīmīā'' may derive from χημεία, meaning "cast together".
+Thus the concept describes the state in which the parameters such as chemical composition remain unchanged over time.
+Sometimes the distinction between phases can be continuous instead of having a discrete boundary, in this case the matter is considered to be in a supercritical state.
+More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
+A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force.
+* Organic chemistry is the study of the structure, properties, composition, mechanisms, and reactions of organic compounds.
+Many more specialized disciplines have emerged in recent years, e.g.
+Less familiar phases include plasmas, Bose–Einstein condensates and fermionic condensates and the paramagnetic and ferromagnetic phases of magnetic materials.
+For example, there are three phases of solid iron (alpha, gamma, and delta) that vary based on temperature and pressure.
+The interactions, reactions and transformations that are studied in chemistry are usually the result of interactions between atoms, leading to rearrangements of the chemical bonds which hold atoms together.
+* Biochemistry is the study of the chemicals, chemical reactions and chemical interactions that take place in living organisms.
+In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+An ''ion'' is a charged species, an atom or a molecule, that has lost or gained one or more electrons.
+They can be analyzed using the tools of chemical analysis, e.g.
+A ''phase'' is a set of states of a chemical system that have similar bulk structural properties, over a range of conditions, such as pressure or temperature.
+Analytical chemistry incorporates standardized experimental methods in chemistry.
+Alchemy, which was practiced around 330, is the study of the composition of waters, movement, growth, embodying, disembodying, drawing the spirits from bodies and bonding the spirits within bodies (Zosimos).
+Inorganic compounds are named according to the inorganic nomenclature system.
+* Analytical chemistry is the analysis of material samples to gain an understanding of their chemical composition and structure.
+The field is a new breadth of study in graduate programs, and it integrates elements from all classical areas of chemistry with a focus on fundamental issues that are unique to materials.
+Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
+A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
+For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
+The nucleus is dense; the mass of a nucleon is 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.
+His work on atomic structure was improved on by his students, the Danish physicist Niels Bohr and Henry Moseley.
+Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved.
+The atoms/molecules in a higher energy state are said to be excited.
+Biochemistry is also associated with molecular biology and genetics.
+It was an initiative of the International Union of Pure and Applied Chemistry, and of the United Nations Educational, Scientific, and Cultural Organization and involves chemical societies, academics, and institutions worldwide and relied on individual initiatives to organize local and regional activities.
+Under the influence of the new empirical methods propounded by Sir Francis Bacon and others, a group of chemists at Oxford, Robert Boyle, Robert Hooke and John Mayow began to reshape the old alchemical traditions into a scientific discipline.
+The term "chymistry", in the view of noted scientist Robert Boyle in 1661, meant the subject of the material principles of mixed bodies.
+In retrospect, the definition of chemistry has changed over time, as new discoveries and theories add to the functionality of the science.
+This matter can be studied in solid, liquid, or gas states, in isolation or in combination.
+At the turn of the twentieth century the theoretical underpinnings of chemistry were finally understood due to a series of remarkable discoveries that succeeded in probing and discovering the very nature of the internal structure of atoms.
+While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz.
+A ''compound'' is a pure chemical substance composed of more than one element.
+Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes.
+Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.
+Instead, these substances are discussed in terms of formula units or unit cells as the smallest repeating structure within the substance.
+Many substances exhibit multiple solid phases.
+A. R. Newlands devised an early table of elements, which was then developed into the modern periodic table of elements in the 1860s by Dmitri Mendeleev and independently by several other scientists including Julius Lothar Meyer.
+While most familiar phases deal with three-dimensional systems, it is also possible to define analogs in two-dimensional systems, which has received attention for its relevance to systems in biology.
+These methods may be used in all subdisciplines of chemistry, excluding purely theoretical chemistry.
+Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+The mole is defined as the number of atoms found in exactly 0.012 kilogram (or 12&nbsp;grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state.
+Thus, molecules exist as electrically neutral units, unlike ions.
+The phase of a substance is invariably determined by its energy and the energy of its surroundings.
+There are several different theories which explain acid-base behavior.
+Traditional chemistry starts with the study of elementary particles, atoms, molecules,  substances,  metals, crystals and other aggregates of matter.
+(When the number of atoms on either side is unequal, the transformation is referred to as a nuclear reaction or radioactive decay.)
+Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy.
+Many physical chemists specialize in exploring and proposing the mechanisms of various chemical reactions.
+The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
+Primary systems of study include the chemistry of condensed phases (solids, liquids, polymers) and interfaces between different phases.
+The term chemical energy is often used to indicate the potential of a chemical substance to undergo a transformation through a chemical reaction or to transform other chemical substances.
+Several empirical rules, like the Woodward–Hoffmann rules often come in handy while proposing a mechanism for a chemical reaction.
+According to this theory, the crucial things being exchanged are charges.
+That is, substances with a higher Ka are more likely to donate hydrogen ions in chemical reactions than those with lower Ka values.
+For the most part, the chemical classifications are independent of these bulk phase classifications; however, some more exotic phases are incompatible with certain chemical properties.
+Spectroscopy is also used to identify the composition of remote objects - like stars and distant galaxies - by analyzing their radiation spectra.
+A chemical substance is a kind of matter with a definite composition and set of properties.
+A basic chemical hypothesis first emerged in Classical Greece with the theory of four elements as propounded definitively by Aristotle stating that fire, air, earth and water were the fundamental elements from which everything is formed as a combination.
+When three states meet based on the conditions, it is known as a triple point and since this is invariant, it is a convenient way to define a set of conditions.
+When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion.
+Energy and entropy considerations are invariably important in almost all chemical studies.
+However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer.
+Oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
+Scientists engaged in chemical research are known as chemists.
+Since the end of the Second World War, the development of computers has allowed a systematic development of computational chemistry, which is the art of developing and applying computer programs for solving chemical problems.
+A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse.
+For example, sodium (Na), a metal, loses one electron to become an Na+ cation while chlorine (Cl), a non-metal, gains this electron to become Cl−.
+The theory of phlogiston (a substance at the root of all combustion) was propounded by the German Georg Ernst Stahl in the early 18th century and was only overturned by the end of the century by the French chemist Antoine Lavoisier, the chemical analogue of Newton in physics; who did more than any other to establish the new science on proper theoretical footing, by elucidating the principle of conservation of mass and developing a new system of chemical nomenclature used to this day.
+Unlike modern concepts of science, Greek atomism was purely philosophical in nature, with little concern for empirical observations and no concern for chemical experiments.
+The development of the electrochemical theory of chemical combinations occurred in the early 19th century as the result of the work of two scientists in particular, J. J. Berzelius and Humphry Davy, made possible by the prior invention of the voltaic pile by Alessandro Volta.
+It results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels—often laboratory glassware.
+Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry.
+It consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud.
+Scholars disagree about the etymology of the word ''chemistry''.
+The periodic table is useful in identifying periodic trends.
+This may have  Egyptian origins since ''al-kīmīā'' is derived from the Greek χημία, which is in turn derived from the word '''Chemi''' or '''Kimi''', which is the ancient name of Egypt in Egyptian.
+However, not all substances or chemical compounds consist of discrete molecules, and indeed most of the solid substances that make up the solid crust, mantle, and core of the Earth are chemical compounds without molecules.
+An oxidant removes electrons from another substance.
+Another phase commonly encountered in the study of chemistry is the ''aqueous'' phase, which is the state of substances dissolved in aqueous solution (that is, in water).
+These include inorganic chemistry, the study of inorganic matter; organic chemistry, the study of organic (carbon-based) matter; biochemistry, the study of substances found in biological organisms; physical chemistry, the study of chemical processes using physical concepts such as thermodynamics and quantum mechanics; and analytical chemistry, the analysis of material samples to gain an understanding of their chemical composition and structure.
+The distinction between organic and inorganic disciplines is not absolute and there is much overlap, most importantly in the sub-discipline of organometallic chemistry.
+However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer.
+British William Prout first proposed ordering all the elements by their atomic weight as all atoms had a weight that was an exact multiple of the atomic weight of hydrogen.
+The history of chemistry can be traced to alchemy, which had been practiced for several millennia in various parts of the world.
+In 1663 the chemist Christopher Glaser described "chymistry" as a scientific art, by which one learns to dissolve bodies, and draw from them the different substances on their composition, and how to unite them again, and exalt them to a higher perfection.
+The simplest is Arrhenius theory, which states than an acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water.
+* Physical chemistry is the study of the physical and fundamental basis of chemical systems and processes.
+When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation.
+However glassware is not central to chemistry, and a great deal of experimental (as well as applied/industrial) chemistry is done without it.
+The atom is the basic unit of chemistry.
+An additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable.
+* Materials chemistry is the preparation, characterization, and understanding of substances with a useful function.
+Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom.
+Physical properties, such as density and refractive index tend to fall within values characteristic of the phase.
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred.
+Chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more smaller molecules, or rearrangement of atoms within or across molecules.
+Examples of mixtures are air and alloys.
+Other crucial 19th century advances were; an understanding of valence bonding (Edward Frankland in 1852) and the application of thermodynamics to chemistry (J. W. Gibbs and Svante Arrhenius in the 1870s).
+While the structure of diatomic, triatomic or tetra atomic molecules may be trivial, (linear, angular pyramidal etc.)
+The other measurement, based on the Brønsted–Lowry definition, is the acid dissociation constant (Ka), which measures the relative ability of a substance to act as an acid under the Brønsted–Lowry definition of an acid.
+Similarly, theories from classical physics can be used to predict many ionic structures.
+The basis of such a chemical transformation is the rearrangement of electrons in the chemical bonds between atoms.
+IR, microwave, NMR, ESR, etc.
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy.
+Such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e.
+Reaction mechanisms are proposed to explain the kinetics and the relative product mix of a reaction.
+The word ''chemistry'' comes from the word ''alchemy'' which was an earlier set of practices that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism and medicine.
+According to Brønsted–Lowry acid–base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+The global top 50 chemical producers in 2013 had sales of US$980.5 billion  with a profit margin of 10.3%.
+Alchemy was discovered and practised widely throughout the Arab world after the Muslim conquests,  and from there, diffused into medieval and Renaissance Europe through Latin translations.
+He formulated Boyle's law, rejected the classical "four elements" and proposed a mechanistic alternative of atoms and chemical reactions that could be subject to rigorous experiment.
+Chemical substances are classified in terms of their structure, phase, as well as their chemical compositions.
+In 1897, J. J. Thomson of Cambridge University discovered the electron and soon after the French scientist Becquerel as well as the couple Pierre and Marie Curie investigated the phenomenon of radioactivity.
+In particular the application of quantum mechanics to chemistry is called quantum chemistry.
+* Neurochemistry is the study of neurochemicals; including transmitters, peptides, proteins, lipids, sugars, and nucleic acids; their interactions, and the roles they play in forming, maintaining, and modifying the nervous system.
+The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus.
+B. van Helmont discovered carbon dioxide, or what Black called 'fixed air' in 1754; Henry Cavendish discovered hydrogen and elucidated its properties and Joseph Priestley and, independently, Carl Wilhelm Scheele isolated pure oxygen.
+The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them.
+In particular, the energetics and dynamics of such systems and processes are of interest to physical chemists.
+A reaction is feasible only if the total change in the Gibbs free energy is negative, ; if it is equal to zero the chemical reaction is said to be at equilibrium.
+The standard nomenclature of compounds is set by the International Union of Pure and Applied Chemistry (IUPAC).
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics.
+The mole is a unit of measurement that denotes an amount of substance (also called chemical amount).
+Chemical reactions usually involve the making or breaking of chemical bonds.
+These potentials create the interactions which hold atoms together in molecules or crystals.
+'microscopic chemical events').
+The most familiar examples of phases are solids, liquids, and gases.
+With more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used.
+In a neutral atom, the negatively charged electrons balance out the positive charge of the protons.
+A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds.
+Acid strength is commonly measured by two methods.
+Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+protons and neutrons.
+Atoms sticking together in molecules or crystals are said to be bonded with one another.
+The properties of a compound bear little similarity to those of its elements.
+The word ''alchemy'' in turn is derived from the Arabic word ''al-kīmīā'' (الکیمیاء).
+The electronic theory of chemical bonds and molecular orbitals was developed by the American scientists Linus Pauling and Gilbert N. Lewis.
+A ''chemical reaction'' is therefore a concept related to the "reaction" of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both.
+Important areas of study include chemical thermodynamics, chemical kinetics, electrochemistry, statistical mechanics, spectroscopy, and more recently, astrochemistry.

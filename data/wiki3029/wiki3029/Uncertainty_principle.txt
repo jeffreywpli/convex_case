@@ -1,0 +1,200 @@
+He pointed out that if the box were to be weighed, say by a spring and a pointer on a scale, "since the box must move vertically with a change in its weight, there will be uncertainty in its vertical velocity and therefore an uncertainty in its height above the table.
+Moreover, for , a choice , in angular momentum multiplets, ''ψ'' = |''j'', ''m'' 〉, bounds the Casimir invariant (angular momentum squared, ) from below and thus yields useful constraints such as ''j'' (''j'' + 1) ≥ ''m'' (''m'' + 1), and hence ''j'' ≥ ''m'', among others.
+If a small aperture is used, the accuracy of both resolutions is the other way around.
+When a state is measured, it is projected onto an eigenstate in the basis of the relevant observable.
+For a quantum system in a non-stationary state  and an observable ''B'' represented by a self-adjoint operator , the following formula holds:
+with  representing the amplitude of these modes and is called the wave function in momentum space.
+or taking the square root
+:An informal, heuristic meaning of the principle is the following: A state that only exists for a short time cannot have a definite energy.
+In this manner, said Einstein, one could measure the energy emitted and the time it was released with any desired precision, in contradiction to the uncertainty principle."
+The wave mechanics picture of the uncertainty principle is more visually intuitive, but the more abstract matrix mechanics picture formulates it in a way that generalizes more easily.
+The position of the particle is described by a wave function .
+The change of mass tells the energy of the emitted light.
+Einstein and Bohr debated the uncertainty principle for many years.
+The quantum entropic uncertainty principle is more restrictive than the Heisenberg uncertainty principle.
+These include, for example, tests of number–phase uncertainty relations in superconducting or quantum optics systems.
+Heisenberg's formulae are, beyond all doubt, derivable ''statistical formulae'' of the quantum theory.
+such that the uncertainty product can only increase with time as
+:&nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp;
+This means that the state is ''not'' a momentum eigenstate, however, but rather it can be represented  as a sum of multiple momentum basis eigenstates.
+where we have introduced a reference scale , with  describing the width of the distribution−−cf.
+In this statistical interpretation, a ''particular'' measurement may be made to arbitrary precision without invalidating the quantum theory.
+If this were true, then  one could write
+Popper proposed an experiment to falsify the uncertainty relations, although he later withdrew his initial version after discussions with Weizsäcker, Heisenberg, and Einstein; this experiment may have influenced the formulation of the EPR experiment.
+In practice, the Gabor limit limits the ''simultaneous'' time–frequency resolution one can achieve without interference; it is possible to achieve higher resolution, but at the cost of different components of the signal interfering with each other.
+If the state is allowed to evolve in free space, then the time-dependent momentum and position space wave functions are
+The Cauchy–Schwarz inequality asserts that
+This issue can be overcome by using a variational method for the proof., or by working with an exponentiated version of the canonical commutation relations.
+Consider, he said, an ideal box, lined with mirrors so that it can contain light indefinitely.
+The logarithm can alternatively be in any base, provided that it be consistent on both sides of the inequality.
+Suppose, for the sake of proof by contradiction, that  is also a right eigenstate of momentum, with constant eigenvalue .
+Heisenberg only proved relation () for the special case of Gaussian states.
+where , and ,  are the standard deviations of position and momentum.
+Note that the entropies will be functions of these chosen parameters.
+Fast-decaying states have a broad linewidth, while slow decaying states have a narrow linewidth.
+Finally, the normal distribution saturates the inequality, and it is the only distribution with this property, because it is the maximum entropy probability distribution among those with fixed variance (cf.
+The modulus squared of any complex number ''z'' can be expressed as
+Since the uncertainty principle is such a basic result in quantum mechanics, typical experiments in quantum mechanics routinely observe aspects of it.
+Second, recall the Shannon entropy has been used, ''not'' the quantum von Neumann entropy.
+Since the Robertson and Schrödinger relations are for general operators, the relations can be applied to any two observables to obtain specific uncertainty relations.
+But let us determine the momentum of the particle by measuring the recoil of the wall.
+If  is chosen to be , then
+A similar result would hold for ''any'' pair of conjugate variables.
+Heisenberg did not care to formulate the uncertainty principle as an exact limit (which is elaborated below), and preferred to use it instead, as a heuristic quantitative statement, correct up to small numerical factors, which makes the radically new noncommutativity of quantum mechanics inevitable.
+He believed the "natural basic assumption" that a complete description of reality, would have to predict the results of experiments from "locally changing deterministic quantities", and therefore, would have to include more information than the maximum possible allowed by the uncertainty principle.
+If, instead,   is chosen to be , then
+The slit introduces an uncertainty in momentum of approximately  because the particle passes through the wall.
+According to the de Broglie hypothesis, every object in the universe is a wave, i.e., a situation which gives rise to this phenomenon.
+If  and  are chosen to be unity in whatever system of units are being used, then
+Kennard in 1927 first proved the modern inequality:
+From the inverse logarithmic Sobolev inequalities
+"Through this chain of uncertainties, Bohr showed that Einstein's light box experiment could not simultaneously measure exactly both the energy of the photon and the time of its escape."
+For example, if a measurement of an observable  is performed, then the system is in a particular eigenstate  of that observable.
+In 1934, Popper published ''Zur Kritik der Ungenauigkeitsrelationen'' (''Critique of the Uncertainty Relations'') in ''Naturwissenschaften'', and in the same year ''Logik der Forschung'' (translated and updated by the author as ''The Logic of Scientific Discovery'' in 1959), outlining his arguments for the statistical interpretation.
+This example led Bohr to revise his understanding of the principle, concluding that the uncertainty was not caused by a direct interaction.
+where the logarithms may be in any base.
+It is a ''lifetime'' of the state  with respect to the observable ''B'': In other words, this is the ''time interval'' (''Δt'') after which the expectation value  changes appreciably.
+By the time–energy uncertainty principle, they do not have a definite energy, and, each time they decay, the energy they release is slightly different.
+In the case of position and momentum, the commutator is the canonical commutation relation
+Adding together all of these plane waves comes at a cost, namely the momentum has become less precise, having become a mixture of waves of many different momenta.
+This relation implies that unless all three components vanish together, only a single component of a system's angular momentum can be defined with arbitrary precision, normally the component parallel to an external (magnetic or electric) field.
+We can repeat this for momentum by interpreting the function  as a vector, but we can also take advantage of the fact that  and  are Fourier transforms of each other.
+But the photon scatters in a random direction, transferring a large and uncertain amount of momentum to the electron.
+with position and momentum each contributing an amount  in a "balanced" way.
+The length scale can be set to whatever is convenient, so we assign
+Thus, ''the uncertainty principle actually states a fundamental property of quantum systems, and is not a statement about the observational success of current technology''.
+:Problem 2 – If a large aperture is used for the microscope, the electron's location can be well resolved (see Rayleigh criterion); but by the principle of conservation of momentum, the transverse momentum of the incoming photon affects the electrons beamline momentum and hence, the new momentum of the electron resolves poorly.
+Proof of the Kennard inequality using wave mechanics
+Consider a wave function that is a sum of many waves, however, we may write this as
+A similar tradeoff between the variances of Fourier conjugates arises in all systems underlain by Fourier analysis, for example in sound waves: A pure tone is a sharp spike at a single frequency, while its Fourier transform gives the shape of the sound wave in the time domain, which is a completely delocalized sine wave.
+"We now know, explained Einstein, precisely the time at which the photon left the box."
+where  is interpreted as a dimensionless number equal to the value of Planck's constant in the chosen system of units.
+Note that the only ''physics'' involved in this proof was that  and  are wave functions for position and momentum, which are Fourier transforms of each other.
+This conjecture, also studied by Hirschman and proven in 1975 by Beckner and by Iwo Bialynicki-Birula and Jerzy Mycielski is that, for two normalized, dimensionless Fourier transform pairs  and  where
+A nonlocal theory of this sort predicts that a quantum computer would encounter fundamental obstacles when attempting to factor numbers of approximately 10,000 digits or more; a potentially achievable task in quantum mechanics.
+Let  be a right eigenstate of position with a constant eigenvalue .
+The precision of the position is improved, i.e.
+By definition, this means that  Applying the commutator to  yields
+which is only known if either  or  is convex.
+The uncertainty principle is not readily apparent on the macroscopic scales of everyday experience.
+Heisenberg wrote:It can be expressed in its simplest form as follows: One can never know with perfect accuracy both of those two important factors which determine the movement of one of the smallest particles—its position and its velocity.
+Another way of stating this is that σx and σp have an inverse relationship or are at least bounded from below.
+Copying the variances above and applying trigonometric identities, we can write the product of the standard deviations as
+Note that Hörmander–Beurling's version implies the case  in Hardy's Theorem while the version by Bonami–Demange–Jaming covers the full strength of Hardy's Theorem.
+The central premise was that the classical concept of motion does not fit at the quantum level, as electrons in an atom do not travel on sharply defined orbits.
+where Ω describes the width of the initial state but need not be the same as ω.
+Ironically this fact is one of the best pieces of evidence supporting Karl Popper's philosophy of invalidation of a theory by falsification-experiments.
+This is the uncertainty principle, the exact limit of which is the Kennard bound.
+Note that in the general form of the Robertson–Schrödinger uncertainty relation, there is no need to assume that the operators  and  are self-adjoint operators.
+Mathematically, in wave mechanics, the uncertainty relation between position and momentum arises because the expressions of the wavefunction in the two corresponding orthonormal bases in Hilbert space are Fourier transforms of one another (i.e., position and momentum are conjugate variables).
+Two alternative frameworks for quantum physics offer different explanations for the uncertainty principle.
+:The same linewidth effect also makes it difficult to specify the rest mass of unstable, fast-decaying particles in particle physics.
+Other examples include highly bimodal distributions, or unimodal distributions with divergent variance.
+For many distributions, the standard deviation is not a particularly natural way of quantifying the structure.
+As in the wave mechanics interpretation above, one sees a tradeoff between the respective precisions of the two, quantified by the uncertainty principle.
+Often the term  is called the momentum operator in position space.
+(The distinction between these two notions is generally glossed over in the physics literature, where the term ''Hermitian'' is used for either or both classes of operators.
+:: where ''i'', ''j'', ''k'' are distinct and ''J''''i'' denotes angular momentum along the ''x''''i'' axis.
+For the objections of Karl Popper to the Heisenberg inequality itself, see below.
+On the other hand, the standard deviation of the position is
+This directly contrasts with the Copenhagen interpretation of quantum mechanics, which is non-deterministic but lacks local hidden variables.
+It must be emphasized that ''measurement'' does not mean only a process in which a physicist-observer takes part, but rather any interaction between classical and quantum objects regardless of any observer.
+Bohr was present when Einstein proposed the thought experiment which has become known as Einstein's box.
+In quantum mechanics, the two key points are that the position of the particle takes the form of a matter wave, and momentum is its Fourier conjugate, assured by the de Broglie relation , where  is the wavenumber.
+Depending on one's choice of the  product, the expression may be written in many ways.
+Only in the endnote did he switch to the word, "Unsicherheit" ("uncertainty").
+After many cancelations, the probability densities reduce to
+For a pair of operators  and ,  one defines their commutator as
+Moreover, every squeezed coherent state also saturates the Kennard bound although the individual contributions of position and momentum need not be balanced in general.
+In fact, the Robertson uncertainty relation is false if  is an angle variable and  is the derivative with respect to this variable.
+With this inner product defined, we note that the variance for position can be written as
+:where σ''E'' is the standard deviation of the energy operator (Hamiltonian) in the state , σ''B'' stands for the standard deviation of ''B''.
+where  is  the identity operator.
+In matrix mechanics, observables such as position and momentum are represented by self-adjoint operators.
+The average energy of the outgoing photon has a peak at the theoretical energy of the state, but the distribution has a finite width called the ''natural linewidth''.
+He disagreed with the application of the uncertainty relations to individual particles rather than to ensembles of identically prepared particles, referring to them as "statistical scatter relations".
+Due to the Fourier transform relation between the position wave function  and the momentum wavefuction , the above constraint can be written for the corresponding entropies as
+A few remarks on these inequalities.
+Karl Popper approached the problem of indeterminacy as a logician and metaphysical realist.
+:Problem 1 – If the photon has a short wavelength, and therefore, a large momentum, the position can be measured accurately.
+In March 1926, working in Bohr's institute, Heisenberg realized that the non-commutativity implies the uncertainty principle.
+That is to say, here Einstein's "basic assumption" became falsified by experiments based on Bell's inequalities.
+The standard view, however, is that this decoherence is  overcome by both screening and decoherence-free subspaces found in biological cells.
+:Consider a particle passing through a slit of width .
+In the case of the single-moded plane wave,  is a uniform distribution.
+To make it sensible, the assumption of nonlocal hidden variables is sometimes augmented by a second assumption—that the size of the observable universe puts a limit on the computations that these variables can do.
+Bohr spent a sleepless night considering this argument, and eventually realized that it was flawed.
+In 1982, he further developed his theory in ''Quantum theory and the schism in Physics'', writing:
+If a tempered distribution  is such that
+This gives us the simpler form
+where ''A''''n'' represents the relative contribution of the mode ''p''''n'' to the overall total.
+In matrix mechanics, the mathematical formulation of quantum mechanics, any pair of non-commuting self-adjoint operators representing observables are subject to similar uncertainty limits.
+We can define an inner product for a pair of functions ''u''(''x'') and ''v''(''x'') in this vector space:
+We are interested in the variances of position and momentum, defined as
+But they have been ''habitually misinterpreted'' by those quantum theorists who said that these formulae can be interpreted as determining some upper limit to the ''precision of our measurements''.original emphasis
+Some experiments within the first decade of the twenty-first century have cast doubt on  observer effect aspects of the uncertainty principle.
+The probability distribution functions associated with the position wave function  and the momentum wave function  have dimensions of inverse length and momentum respectively, but the entropies may be rendered dimensionless by
+We demonstrate this method on the ground state of the QHO, which as discussed above saturates the usual uncertainty based on standard deviations.
+are subject to the following constraint,
+We may take this a step further to the continuum limit, where the wave function is an integral over all possible modes
+If the photon has a long wavelength and low momentum, the collision does not disturb the electron's momentum very much, but the scattering will reveal its position only vaguely.
+Furthermore, the uncertainty about the elevation above the earth's surface will result in an uncertainty in the rate of the clock," because of Einstein's own theory of gravity's effect on time.
+According to the Copenhagen interpretation of quantum mechanics, there is no fundamental reality that the quantum state describes, just a prescription for calculating experimental results.
+For example, in spectroscopy, excited states have a finite lifetime.
+A similar analysis with particles diffracting through multiple slits is given by Richard Feynman.
+A full description of the case  as well as the following extension to Schwartz class distributions appears in ref.
+where  is Planck's constant.
+the Shannon information entropies
+* For the number of electrons in a superconductor and the phase of its Ginzburg–Landau order parameter
+While formulating the many-worlds interpretation of quantum mechanics in 1957, Hugh Everett III conjectured a stronger extension of the uncertainty principle based on entropic certainty.
+"Now, weigh the box again.
+One critique, however, is that apart from the basic role of quantum mechanics as a foundation for chemistry, nontrivial biological mechanisms requiring quantum mechanics are unlikely, due to the rapid decoherence time of quantum systems at room temperature.
+In his Chicago lecture he refined his principle:
+The Copenhagen interpretation of quantum mechanics and Heisenberg's Uncertainty Principle were, in fact, seen as twin targets by detractors who believed in an underlying determinism and realism.
+Entropic uncertainty of the normal distribution
+* For position and linear momentum, the canonical commutation relation  implies the Kennard inequality from above:
+Albert Einstein believed that randomness is a reflection of our ignorance of some fundamental property of reality, while Niels Bohr believed that the probability distributions are fundamental and irreducible, and depend on which measurements we choose to perform.
+where the asterisk denotes the complex conjugate.
+The Born rule states that this should be interpreted as a probability density amplitude function in the sense that the probability of finding the particle between ''a'' and ''b'' is
+Certain experiments, however, may deliberately test a particular form of the uncertainty principle as part of their main research program.
+In 1964, John Bell showed that this assumption can be falsified, since it would imply a certain inequality between the probabilities of different experiments.
+Through integration over the propagator, we can solve for the -dependent solution.
+See Chapter 9 of Hall's book for a detailed discussion of this important but technical distinction.)
+The faster the particle decays (the shorter its lifetime), the less certain is its mass (the larger the particle's width).
+(equivalently, from the fact that normal distributions maximize the entropy of all such with a given variance), it readily follows that this entropic uncertainty principle is ''stronger than the one based on standard deviations'', because
+we let  and  and substitute these into the equation above to get
+Since the Fourier components were not defined at the classical frequencies, they could not be used to construct an exact trajectory, so that the formalism could not answer certain overly precise questions about where the electron was or how fast it was going.
+an uncertainty relation similar to the Heisenberg original one, but valid both for ''systematic and statistical errors'':
+Nevertheless, in 1945, L. I. Mandelshtam and I. E. Tamm derived a non-relativistic '''''time–energy uncertainty relation''''', as follows.
+All that remains is to evaluate these inner products.
+It has since become clear, however, that the uncertainty principle is inherent in the properties of all wave-like systems, and that it arises in quantum mechanics simply due to the matter wave nature of all quantum objects.
+It is impossible to determine accurately ''both'' the position and the direction and speed of a particle ''at the same instant''.
+Bohr was compelled to modify his understanding of the uncertainty principle after another thought experiment by Einstein.
+In 1925, following pioneering work with Hendrik Kramers, Heisenberg developed matrix mechanics, which replaced the ad hoc old quantum theory with modern quantum mechanics.
+The box could be weighed before a clockwork mechanism opened an ideal shutter at a chosen instant to allow one single photon to escape.
+For example, if a particle's position is measured, then the state amounts to a position eigenstate.
+Applying Parseval's theorem, we see that the variance for momentum can be written as
+However, the particular eigenstate of the observable  need not be an eigenstate of another observable : If so, then it does not have a unique associated measurement for it, as the system is not in an eigenstate of that observable.
+Since  is a probability density function for position, we calculate its standard deviation.
+Experimental results confirm the predictions of quantum mechanics, ruling out Einstein's basic assumption that led him to the suggestion of his ''hidden variables''.
+For example, uncertainty relations in which one of the observables is an angle has little physical meaning for fluctuations larger than one period.
+Heisenberg showed that the commutation relation implies an uncertainty, or in Bohr's language a complementarity.
+First, the choice of base e is a matter of popular convention in physics.
+Rather, their motion is smeared out in a strange way: the Fourier transform of its time dependence only involves those frequencies that could be observed in the quantum jumps of their radiation.
+where  and  are some arbitrarily chosen length and momentum respectively, which render the arguments of the logarithms dimensionless.
+Measuring one particle, Einstein realized, would alter the probability distribution of the other, yet here the other particle could not possibly be disturbed.
+When considering pairs of observables,  an important quantity is the ''commutator''.
+In 1935, Einstein, Podolsky and Rosen (see EPR paradox) published an analysis of widely separated entangled particles.
+Historically, the uncertainty principle has been confused with a somewhat similar effect in physics, called the observer effect, which notes that measurements of certain systems cannot be made without affecting the systems, that is, without changing something in a system.
+Choosing a standard momentum of :
+An eigenstate of an observable represents the state of the wavefunction for a certain measurement value (the eigenvalue).
+* For two orthogonal components of the total angular momentum operator of an object:
+A nonzero function and its Fourier transform cannot both be sharply localized.
+where we have used the notation  to denote a normal distribution of mean μ and variance σ2.
+The many-worlds interpretation originally outlined by Hugh Everett III in 1957 is partly meant to reconcile the differences between Einstein's and Bohr's views by replacing Bohr's wave function collapse with an ensemble of deterministic and independent universes whose ''distribution'' is governed by wave functions and the Schrödinger equation.
+This precision may be quantified by the standard deviations,
+There is no way to say what the state of a system fundamentally is, only what the result of observations might be.
+A solution that overcomes these issues is an uncertainty based on entropic uncertainty instead of the product of variances.
+In other words, the particle position is extremely uncertain in the sense that it could be essentially anywhere along the wave packet.
+(A more general proof that does not make this assumption is given below.)
+The figures to the right show how with the addition of many plane waves, the wave packet can become more localized.

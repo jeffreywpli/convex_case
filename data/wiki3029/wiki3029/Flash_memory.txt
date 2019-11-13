@@ -1,0 +1,200 @@
+The outermost silicon dioxide cylinder acts as the gate dielectric, enclosing a silicon nitride cylinder that stores charge, in turn enclosing a silicon dioxide cylinder as the tunnel dielectric that surrounds a central rod of conducting polysilicon which acts as the conducting channel.
+There are also hybrid techniques such as hybrid drive and ReadyBoost that attempt to combine the advantages of both technologies, using flash as a high-speed non-volatile cache for files on the disk that are often referenced, but rarely modified, such as application and operating system executable files.
+microSD capacities range from 64&nbsp;MB to 256&nbsp;GB, as of May 2016.
+The two main types of flash memory are named after the NAND and NOR logic gates.
+While reading and programming is performed on a page basis, erasure can only be performed on a block basis.
+A memory management unit (MMU) in the system is helpful, but this can also be accomplished with overlays.
+*64 pages of 2,048+64 bytes each for a block size of 128&nbsp;kB
+Flash chips continue to be manufactured with capacities under or around 1&nbsp;MB, e.g., for BIOS-ROMs and embedded applications.
+For example, the microSD card has an area of just over 1.5&nbsp;cm2, with a thickness of less than 1&nbsp;mm.
+Each NOR flash cell is larger than a NAND flash cell — 10&nbsp;F2 vs 4&nbsp;F2 — even when using exactly the same semiconductor device fabrication and so each transistor, contact, etc.
+In single-level cell (SLC) devices, each cell stores only one bit of information.
+19&nbsp;nm (MLC, TLC)
+Most users will have slightly less capacity than this available for their files, due to the space taken by file system metadata.
+In older NOR devices not supporting bad block management, the software or device driver controlling the memory chip must correct for blocks that wear out, or the device will cease to work reliably.
+and a designation of megabytes (MB) or gigabytes (GB); e.g., 512&nbsp;MB, 8&nbsp;GB.
+Applied voltage or UV as in EPROM).
+On top is the control gate (CG), as in other MOS transistors, but below this there is a floating gate (FG) insulated all around by an oxide layer.
+For example, a nibble value may be erased to 1111, then written as 1110.
+Bit-level addressing suits bit-serial applications (such as hard disk emulation), which access only one bit at a time.
+Because erase cycles are slow, the large block sizes used in flash memory erasing give it a significant speed advantage over non-flash EEPROM when writing large amounts of data.
+In NOR flash, cells are connected in parallel to the bit lines, allowing cells to be read and programmed individually.
+Thus, an SSD marked as "64&nbsp;GB" is at least 64&nbsp;×&nbsp;1,0003 bytes (64&nbsp;GB).
+There remain some aspects of flash-based SSDs that make them unattractive.
+19-16&nbsp;nmV-NAND (24L)
+These are typically marked according to a specified bad block marking strategy.
+NOR flash may be programmed in a random-access manner similar to reading.
+NOR flash continues to be the technology of choice for embedded applications requiring a discrete non-volatile memory device.
+For NOR memory, reading and programming are random-access, and unlocking and erasing are block-wise.
+Its endurance may be from as little as 100 erase cycles for an on-chip flash memory, to a more typical 10,000 or 100,000 erase cycles, up to 1,000,000 erase cycles.
+This is known as read disturb.
+In multi-level cell (MLC) devices, including triple-level cell (TLC) devices, can store more than one bit per cell.
+*Many ASICs are pad-limited, meaning that the size of the die is constrained by the number of wire bond pads, rather than the complexity and number of gates used for the device logic.
+In practice, a 128 Gibit V-NAND chip with 24 layers of memory cells requires about 2.9 billion such holes.
+Even with these advances, it may be impossible to economically scale flash to smaller and smaller dimensions as the number of electron holding capacity reduces.
+In September 2005, Samsung Electronics announced that it had developed the world’s first 2&nbsp;GB chip.
+Programming of NOR cells, however, generally can be performed one byte or word at a time.
+Because the FG is electrically isolated by its insulating layer, electrons placed on it are trapped until they are removed by another application of electric field (e.g.
+When NOR flash was developed, it was envisioned as a more economical and conveniently rewritable ROM than contemporary EPROM and EEPROM memories.
+A joint development at Intel and Micron will allow the production of 32 layer 3.5 terabyte (TB) NAND flash sticks and 10 TB standard-sized SSDs.
+The vertical collection is electrically identical to the serial-linked groups in which conventional NAND flash memory is configured.
+This arrangement is called "NOR flash" because it acts like a NOR gate: when one of the word lines (connected to the cell's CG) is brought high, the corresponding storage transistor acts to pull the output bit line low.
+For sequential data writes, NOR flash chips typically have slow write speeds, compared with NAND flash.
+It has faster erases, sequential writes, and sequential reads.
+In flash memory, each memory cell resembles a standard MOSFET, except that the transistor has two gates instead of one.
+NOR-based flash has long erase and write times, but provides full address and data buses, allowing random access to any memory location.
+Updated ITRS Flash Roadmap
+Eliminating bond pads thus permits a more compact integrated circuit, on a smaller die; this increases the number of dies that may be fabricated on a wafer, and thus reduces the cost per die.
+The device includes 5 packages of 16 x 48 GB TLC dies, using a floating gate cell design.
+To erase a NOR flash cell (resetting it to the "1" state), a large voltage ''of the opposite polarity'' is applied between the CG and source terminal, pulling the electrons off the FG through quantum tunneling.
+To avoid the read disturb problem the flash controller will typically count the total number of reads to a block since the last erase.
+is exactly the same size—because NOR flash cells require a separate metal contact for each cell.
+The ONFI group is supported by major NAND flash manufacturers, including Hynix, Intel, Micron Technology, and Numonyx, as well as by major manufacturers of devices incorporating NAND flash chips.
+Erasure must happen a block at a time, and resets all the bits in the erased block back to one.
+Some MLC NAND flash chips internally generate the appropriate BCH error correction codes.
+Reed-Solomon codes and Bose-Chaudhuri-Hocquenghem codes are commonly used ECC for MLC NAND flash.
+To read data, first the desired group is selected (in the same way that a single transistor is selected from a NOR array).
+Flash memory stores information in an array of memory cells made from floating-gate transistors.
+NOR-based flash was the basis of early flash-based removable media; CompactFlash was originally based on it, though later cards moved to less expensive NAND flash.
+File systems designed for flash devices can make use of this capability, for example, to represent sector metadata.
+In addition, NAND flash is typically permitted to contain a certain number of faults (NOR flash, as is used for a BIOS ROM, is expected to be fault-free).
+However, it was expected that NOR flash ROM would be read much more often than written, so the write circuitry included was fairly slow and could erase only in a block-wise fashion.
+Successive writes to that nibble can change it to 1010, then 0010, and finally 0000.
+The series group will conduct (and pull the bit line low) if the selected bit has not been programmed.
+Also flash memory has a finite number of P/E&nbsp;cycles, but this seems to be currently under control since warranties on flash-based SSDs are approaching those of current hard drives.
+*Reducing the number of external pins also reduces assembly and packaging costs.
+Typical block sizes are 64, 128, or 256&nbsp;KiB.
+Compared to NOR flash, replacing single transistors with serial-linked groups adds an extra level of addressing.
+The FG is interposed between the CG and the MOSFET channel.
+This requires word-level addressing.
+12&nbsp;nmV-NAND (32L)
+The individual flash memory cells exhibit internal characteristics similar to those of the corresponding gates.
+In addition, deleted files on SSDs can remain for an indefinite period of time before being overwritten by fresh data; erasure or shred techniques or software that work well on magnetic hard disk drives have no effect on SSDs, compromising security and forensic examination.
+If the flash controller does not intervene in time, however, a '''read disturb''' error will occur with possible data loss if the errors are too numerous to correct with an error-correcting code.
+20&nbsp;nm (MLC + HKMG)
+Most commercially available flash products are guaranteed to withstand around 100,000 P/E&nbsp;cycles before the wear begins to deteriorate the integrity of the storage.
+Flash memory (both NOR and NAND types) was invented by Fujio Masuoka while working for Toshiba circa 1980.
+The vertical layers allow larger areal bit densities without requiring smaller individual cells.
+Flash drives are gaining traction as mobile device secondary storage devices; they are also used as substitutes for hard drives in high-performance desktop computers and some servers with RAID and SAN architectures.
+The floating gate may be conductive (typically polysilicon in most kinds of flash memory) or non-conductive (as in SONOS flash memory).
+This makes NAND flash unsuitable as a drop-in replacement for program ROM, since most microprocessors and microcontrollers require byte-level random access.
+For NAND memory, reading and programming are page-wise, and unlocking and erasing are block-wise.
+With the increasing speed of modern CPUs, parallel flash devices are often much slower than the memory bus of the computer they are connected to.
+NAND flash's designers realized that the area of a NAND chip, and thus the cost, could be further reduced by removing the external address and data bus circuitry.
+Flash memory does not have the mechanical limitations and latencies of hard drives, so a solid-state drive (SSD) is attractive when considering speed, noise, power consumption, and reliability.
+V-NAND wraps a planar charge trap cell into a cylindrical form.
+The goal of the group is to provide standard software and hardware programming interfaces for nonvolatile memory subsystems, including the "flash cache" device connected to the PCI Express bus.
+Anecdotal evidence suggests that the technology is reasonably robust on the scale of years.
+Execute-in-place applications, on the other hand, require every bit in a word to be accessed simultaneously.
+*64 pages of 4,096+128 bytes each for a block size of 256&nbsp;kB
+In other words, flash memory (specifically NOR flash) offers random-access read and programming operations, but does not offer arbitrary random-access rewrite or erase operations.
+Whereas NOR flash might address memory by page then word, NAND flash might address it by page, word and bit.
+NAND flash architecture was introduced by Toshiba in 1989.
+This makes it a suitable replacement for older read-only memory (ROM) chips, which are used to store program code that rarely needs to be updated, such as a computer's BIOS or the firmware of set-top boxes.
+An article from CMU in 2015 writes that "Today's flash devices, which do not require flash refresh, have a typical retention age of 1 year at room temperature."
+The data is then written to a different, good block, and the bad block map is updated.
+Another limitation is that flash memory has a finite number of program&ndash;erase cycles (typically written as P/E&nbsp;cycles).
+This interface isn't pin-to-pin compatible with the ONFI specification.
+The heavy competition among the top few manufacturers only adds to the aggressiveness in shrinking the design rule or process technology node.
+Besides its use as random-access ROM, NOR flash can also be used as a storage device, by taking advantage of random-access programming.
+Each block consists of a number of pages.
+*Smaller and lower pin-count packages occupy less PCB area.
+For portable consumer devices, these wearout management techniques typically extend the life of the flash memory beyond the life of the device itself, and some data loss may be acceptable in these applications.
+In 2012, the market was estimated at $26.8 billion.
+More recent flash drives (as of 2012) have much greater capacities, holding 64, 128, and 256&nbsp;GB.
+It offers higher densities, larger capacities, and lower cost.
+In NAND flash, cells are connected in series, resembling a NAND gate.
+ITRS Flash Roadmap 2011
+Thus random-access reading circuitry was necessary.
+It does not, by itself, prevent NAND cells from being read and programmed individually.
+Micron Technology and Sun Microsystems announced an SLC NAND flash memory chip rated for 1,000,000 P/E&nbsp;cycles on 17 December 2008.
+*a standard physical interface (pinout) for NAND flash in TSOP-48, WSOP-48, LGA-52, and BGA-63 packages
+For this reason, some systems will use a combination of NOR and NAND memories, where a smaller NOR memory is used as software ROM and a larger NAND memory is partitioned with a file system for use as a non-volatile data storage area.
+This includes SSDs marketed as hard drive replacements, in accordance with traditional hard drives, which use decimal prefixes.
+Consumer flash storage devices typically are advertised with usable sizes expressed as a small integer power of two (2, 4, 8, etc.)
+In June 2006, Samsung Electronics released the first flash-memory based PCs, the Q1-SSD and Q30-SSD, both of which used 32&nbsp;GB SSDs, and were at least initially available only in South Korea.
+The parallel connection of cells resembles the parallel connection of transistors in a CMOS NOR gate.
+For high reliability data storage, however, it is not advisable to use flash memory that would have to go through a large number of programming cycles.
+The guaranteed cycle count may apply only to block zero (as is the case with TSOP NAND devices), or to all blocks (as in NOR).
+It is considerably larger than the advertised capacity in order to allow for distribution of writes (wear leveling), for sparing, for error correction codes, and for other metadata needed by the device's internal firmware.
+If the channel does not conduct at the intermediate voltage, it indicates that the FG is charged, and hence, a logical "0" is stored in the gate.
+Starting with a freshly erased block, any location within that block can be programmed.
+SD cards, for example, include controller circuitry to perform bad block management and wear leveling.
+A solid-state drive was offered as an option with the first Macbook Air introduced in 2008, and from 2010 onwards, all Macbook Air laptops shipped with an SSD.
+If the ECC cannot correct the error during read, it may still detect the error.
+There are several reasons why a serial device, with fewer external pins than a parallel device, can significantly reduce overall cost:
+In addition to being non-volatile, flash memory offers fast read access times, although not as fast as static RAM or ROM.
+The series connections consume less space than parallel ones, reducing the cost of NAND flash.
+When incorporated into an embedded system, serial flash requires fewer wires on the PCB than parallel flash memories, since it transmits and receives data one bit at a time.
+However, the I/O interface of NAND flash does not provide a random-access external address bus.
+The smallest sectors typically found in an SPI flash are 4&nbsp;kB, but they can be as large as 64&nbsp;kB.
+Flash memory devices are typically much faster at reading than writing.
+The original block is as good as new after the erase.
+In any case, both bit and word addressing modes are possible with either NOR or NAND flash.
+SamsungSamsung 3D NAND
+Memory cells in different vertical layers do not interfere with each other, as the charges cannot move vertically through the silicon nitride storage medium, and the electric fields associated with the gates are closely confined within each layer.
+As the feature size of flash memory cells reaches the minimum limit, further flash density increases will be driven by greater levels of MLC, possibly 3-D stacking of transistors, and improvements to the manufacturing process.
+A typical ECC will correct a one-bit error in each 2048 bits (256 bytes) using 22 bits of ECC, or a one-bit error in each 4096 bits (512 bytes) using 24 bits of ECC.
+The low read latencies characteristic of NOR devices allow for both direct code execution and data storage in a single memory product.
+Since the SPI flash lacks an internal SRAM buffer, the complete page must be read out and modified before being written back, making it slow to manage.
+NAND devices also require bad block management by the device driver software, or by a separate controller chip.
+Example applications of both types of flash memory include personal computers, PDAs, digital audio players, digital cameras, mobile phones, synthesizers, video games, scientific instrumentation, industrial robotics, and medical electronics.
+Instead, external devices could communicate with NAND flash via sequential-accessed command and data registers, which would internally retrieve and output the necessary data.
+Counter-intuitively, placing electrons on the FG sets the transistor to the logical "0" state.
+The result is a chip that can be erased and rewritten over and over, even when it should theoretically break down.
+The ONFI specification version 1.0 was released on 28 December 2006.
+Its mechanical shock resistance helps explain its popularity over hard disks in portable devices, as does its high durability, ability to withstand high pressure, temperature and immersion in water, etc.
+This may permit a reduction in board space, power consumption, and total system cost.
+The erase operation can be performed only on a block-wise basis; all the cells in an erase segment must be erased together.
+By allowing some bad blocks, the manufacturers achieve far higher yields than would be possible if all blocks had to be verified good.
+Because of the series connection and removal of wordline contacts, a large grid of NAND flash memory cells will occupy perhaps only 60% of the area of equivalent NOR cells (assuming the same CMOS process resolution, for example, 130&nbsp;nm, 90&nbsp;nm, or 65&nbsp;nm).
+Datasheets of Atmel's flash-based "ATmega" microcontrollers typically promise retention times of 20 years at 85 °C and 100 years at 25 °C.
+Typical NOR flash does not need an error correcting code.
+The second type has larger sectors.
+Masuoka and colleagues presented the invention at the ''IEEE 1984 International Electron Devices Meeting'' (IEDM) held in San Francisco.
+The first NAND-based removable media format was SmartMedia in 1995, and many others have followed, including:
+For relational databases or other systems that require ACID transactions, even a modest amount of flash storage can offer vast speedups over arrays of disk drives.
+Once it is decided to read the firmware in as one big block it is common to add compression to allow a smaller flash chip to be used.
+Whereas EPROMs had to be completely erased before being rewritten, NAND-type flash memory may be written and read in blocks (or pages) which are generally much smaller than the entire device.
+NAND sacrifices the random-access and execute-in-place advantages of NOR.
+*128 pages of 4,096+128 bytes each for a block size of 512&nbsp;kB.
+This allows interoperability between conforming NAND devices from different vendors.
+This design choice made random-access of NAND flash memory impossible, but the goal of NAND flash was to replace mechanical hard disks, not to replace ROMs.
+Common flash devices such as USB flash drives and memory cards provide only a block-level interface, or flash translation layer (FTL), which writes to a different cell each time to wear-level the device.
+This prevents incremental writing within a block; however, it does not help the device from being prematurely worn out by intensive write patterns.
+Some manufacturers are now making X-ray proof SD and USB memory devices.
+In January 2008, SanDisk announced availability of their 16&nbsp;GB MicroSDHC and 32&nbsp;GB SDHC Plus cards.
+The threshold number of reads is generally in the hundreds of thousands of reads between intervening erase operations.
+Reading from NOR flash is similar to reading from random-access memory, provided the address and data bus are mapped correctly.
+And that temperature can lower the retention time exponentially.
+In order to read a value from the transistor, an intermediate voltage between the threshold voltages (VT1 & VT2) is applied to the CG.
+If the channel conducts at this intermediate voltage, the FG must be uncharged (if it were charged, we would not get conduction because the intermediate voltage is less than VT2), and hence, a logical "1" is stored in the gate.
+Even when the only change to manufacturing is die-shrink, the absence of an appropriate controller can result in degraded speeds.
+While the expected shrink timeline is a factor of two every three years per original version of Moore's law, this has recently been accelerated in the case of NAND flash to a factor of two every two years.
+In December 2012, Taiwanese engineers from Macronix revealed their intention to announce at the 2012 IEEE International Electron Devices Meeting that it has figured out how to improve NAND flash storage read/write cycles from 10,000 to 100 million cycles using a “self-healing” process that uses a flash chip with “onboard heaters that could anneal small groups of memory cells.” The built-in thermal annealing replaces the usual erase cycle with a local high temperature process that not only erases the stored charge, but also repairs the electron-induced stress in the chip, giving write cycles of at least 100 million.
+A new generation of memory card formats, including RS-MMC, miniSD and microSD, feature extremely small form factors.
+A group called the Open NAND Flash Interface Working Group (ONFI) has developed a standardized low-level interface for NAND flash chips.
+Associated with each page are a few bytes (typically 1/32 of the data size) that can be used for storage of an error correcting code (ECC) checksum.
+Typical block sizes include:
+Vertical NAND (V-NAND) memory stacks memory cells vertically and uses a charge trap flash architecture.
+This effect is mitigated in some chip firmware or file system drivers by counting the writes and dynamically remapping blocks in order to spread write operations between sectors; this technique is called wear leveling.
+Using an external serial flash device rather than on-chip flash removes the need for significant process compromise (a process that is good for high-speed logic is generally not good for flash and vice versa).
+NAND relies on ECC to compensate for bits that may spontaneously fail during normal device operation.
+The overall memory capacity gradually shrinks as more blocks are marked as bad.
+Next, most of the word lines are pulled up above the VT of a programmed bit, while one of them is pulled up to just over the VT of an erased bit.
+Next the hole's inner surface receives multiple coatings, first silicon dioxide, then silicon nitride, then a second layer of silicon dioxide.
+A group of vendors, including Intel, Dell, and Microsoft, formed a Non-Volatile Memory Host Controller Interface (NVMHCI) Working Group.
+When the count exceeds a target limit, the affected block is copied over to a new block, erased, then released to the block pool.
+One limitation of flash memory is that, although it can be read or programmed a byte or a word at a time in a random access fashion, it can be erased only a block at a time.
+In order to compute the longevity of the NAND flash, one must account for the size of the memory chip, the type of memory (e.g.
+There are two major SPI flash types.
+According to Toshiba, the name "flash" was suggested by Masuoka's colleague, Shōji Ariizumi, because the erasure process of the memory contents reminded him of the flash of a camera.
+In a multi-level cell device, which stores more than one bit per cell, the amount of current flow is sensed (rather than simply its presence or absence), in order to determine more precisely the level of charge on the FG.
+The pages are typically 512 or 2,048 or 4,096 bytes in size.
+*a mechanism for self-identification (comparable to the serial presence detection feature of SDRAM memory modules)
+Finally, the hole is filled with conducting (doped) polysilicon.
+Two major flash device manufacturers, Toshiba and Samsung, have chosen to use an interface of their own design known as Toggle Mode (and now Toggle V2.0).
+A serial device may be packaged in a smaller and simpler package than a parallel device.
+Serial flash is a small, low-power flash memory that uses a serial interface, typically Serial Peripheral Interface Bus (SPI), for sequential data access.
+In practice, flash file systems are used only for memory technology devices (MTDs), which are embedded flash memories that do not have a controller.
+Removable flash memory cards and USB flash drives have built-in controllers to perform wear leveling and error correction so use of a specific flash file system does not add any benefit.

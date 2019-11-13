@@ -1,0 +1,200 @@
+Some game theorists, following the work of John Maynard Smith and George R. Price, have turned to evolutionary game theory in order to resolve these issues.
+The extensive form can be viewed as a multi-player generalization of a decision tree.
+The normal (or strategic form) game is usually represented by a matrix which shows the players, strategies, and payoffs (see the example to the right).
+For example, the game pictured to the right is asymmetric despite having identical strategy sets for both players.
+It was first used to explain the evolution (and stability) of the approximate 1:1 sex ratios.
+This general strategy is a component of the general social contract view in political philosophy (for examples, see  and ).
+For some problems, different approaches to modeling stochastic outcomes may lead to different solutions.
+Games here are played on trees (as pictured here).
+Game theory experienced a flurry of activity in the 1950s, during which time the concepts of the core, the extensive form game, fictitious play, repeated games, and the Shapley value were developed.
+In addition, the first applications of game theory to philosophy and political science occurred during this time.
+It is argued that the assumptions made by game theorists are often violated when applied to real world situations.
+There is an ongoing debate regarding the importance of these experiments and whether the analysis of the experiments fully captures all aspects of the relevant situation.
+In particular, there are two types of strategies: the open-loop strategies are found using the Pontryagin maximum principle while the closed-loop strategies are found using Bellman's Dynamic Programming method.
+Therefore, the players maximize the mathematical expectation of the cost function.
+In 1967, John Harsanyi developed the concepts of complete information and Bayesian games.
+In short, the differences between sequential and simultaneous games are as follows:
+Despite the name, evolutionary game theory does not necessarily presume natural selection in the biological sense.
+As a method of applied mathematics, game theory has been used to study a wide variety of human and animal behaviors.
+using Markov decision processes (MDP).
+Each player has two strategies, which are specified by the number of rows and the number of columns.
+Originally, it addressed zero-sum games, in which one person's gains result in losses for the other participants.
+A related field of study, drawing from computational complexity theory, is game complexity, which is concerned with estimating the computational difficulty of finding optimal strategies.
+Thus while their assumptions do not always hold, they can treat game theory as a reasonable scientific ideal akin to the models used by physicists.
+Taking the simplest case of a monarchy, for example, the king, being only one person, does not and cannot maintain his authority by personally exercising physical control over all or even any significant number of his subjects.
+These methods address games with higher combinatorial complexity than those usually considered in traditional (or "economic") game theory.
+Some scholars would consider certain asymmetric games as examples of these games as well.
+A set of strategies is a Nash equilibrium if each represents a best response to the other strategies.
+The primary use of game theory is to describe and model how human populations behave.
+through credible threats).Cooperative game theory#cite note-1|1
+Simultaneous games are games where both players move simultaneously, or if they do not move simultaneously, the later players are unaware of the earlier players' actions (making them ''effectively'' simultaneous).
+However, the most common payoffs for each of these games are symmetric.
+Most commonly studied asymmetric games are games where there are not identical strategy sets for both players.
+Yao's principle is a game-theoretic technique for proving lower bounds on the computational complexity of randomized algorithms, especially online algorithms.
+There is no unified theory addressing combinatorial elements in games.
+Some scholars believe that by finding the equilibria of games they can predict how actual human populations will behave when confronted with situations analogous to the game being studied.
+If all the players are playing the strategies in a Nash equilibrium, they have no unilateral incentive to deviate, since their strategy is the best they can do given what others are doing.
+A symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them.
+Examples include chess and go.
+In 1950, the first mathematical discussion of the prisoner's dilemma appeared, and an experiment was undertaken by notable mathematicians Merrill M. Flood and Melvin Dresher, as part of the RAND Corporation's investigations into game theory.
+The theory of metagames is related to mechanism design theory.
+Hurwicz introduced and formalized the concept of incentive compatibility.
+This research usually focuses on particular sets of strategies known as "solution concepts" or "equilibria".
+Continuous games allow players to choose a strategy from a continuous strategy set.
+Individual decision problems with stochastic outcomes are sometimes considered "one-player games".
+For instance, a player may know that an earlier player did not perform one particular action, while he does not know which of the other available actions the first player actually performed.
+Early examples of game theory applied to political science are provided by Anthony Downs.
+This means that the altruistic individual, by ensuring that the alleles of its close relative are passed on, (through survival of its offspring) can forgo the option of having offspring itself because the same number of alleles are passed on.
+Following  game-theoretic account of conventions, Edna Ullmann-Margalit (1977) and Bicchieri (2006) have developed theories of social norms that define them as Nash equilibria that result from transforming a mixed-motive game into a coordination game.
+Other authors have attempted to use evolutionary game theory in order to explain the emergence of human attitudes about morality and corresponding animal behaviors.
+According to Maynard Smith, in the preface to ''Evolution and the Theory of Games'', "paradoxically, it has turned out that game theory is more readily applied to biology than to the field of economic behaviour for which it was originally designed".
+They may be modeled using similar tools within the related disciplines of decision theory, operations research, and areas of artificial intelligence, particularly AI planning (with uncertainty) and multi-agent system.
+Complete information requires that every player know the strategies and payoffs available to the other players but not necessarily the actions taken.
+A game is one of perfect information if, in extensive form, all players know the moves previously made by all other players.
+In addition, he first suggested that one can understand meaning in terms of signaling games.
+This foundational work contains the method for finding mutually consistent solutions for two-person zero-sum games.
+Other players however, usually use her naivety against her to follow strategies that serve self-preservation.
+This particular view of game theory has been criticized.
+In 2005, game theorists Thomas Schelling and Robert Aumann followed Nash, Selten and Harsanyi as Nobel Laureates.
+It is possible to transform any game into a (possibly asymmetric) zero-sum game by adding a dummy player (often called "the board") whose losses compensate the players' net winnings.
+Responding to two papers by ,  used game theory to develop a philosophical account of convention.
+The focus of attention is usually not so much on the best way to play such a game, but whether one player has a winning strategy.
+However, he concluded that this idea could not work because it would create a prisoner's dilemma to the nations.
+Games that involve imperfect or incomplete information may also have a strong combinatorial character, for instance backgammon.
+Metagames seek to maximize the utility value of the rule set developed.
+Differential games such as the continuous pursuit and evasion game are continuous games where the evolution of the players' state variables is governed by differential equations.
+These are games prevailing over all forms of society.
+The problem of finding an optimal strategy in a differential game is closely related to the optimal control theory.
+The player is specified by a number listed by the vertex.
+One example would be Peter John Wood's (2013) research when he looked into what nations could do to help reduce climate change.
+(It can be proven, using the axiom of choice, that there are gameseven with perfect information and where the only outcomes are "win" or "lose"for which ''neither'' player has a winning strategy.)
+In addition, the concepts of correlated equilibrium, trembling hand perfection, and common knowledge were introduced and analyzed.
+Sovereign control is instead explained by the recognition by each citizen that all other citizens expect each other to view the king (or other established government) as the person whose orders will be followed.
+as if two individuals were playing a normal game.
+These equilibrium strategies determine an equilibrium to the game—a stable state in which either one outcome occurs or a set of outcomes occur with known probability.
+In ethics, some authors have attempted to pursue Thomas Hobbes' project of deriving morality from self-interest.
+The existence of such strategies, for cleverly designed games, has important consequences in descriptive set theory.
+Similarly if it is considered that information other than that of a genetic nature (e.g.
+Recreational games of perfect information games include chess and checkers.
+In non-cooperative games, the most famous of these is the Nash equilibrium.
+Often, normal form is used to represent simultaneous games, while extensive form is used to represent sequential ones.
+All of these actions increase the overall fitness of a group, but occur at a cost to the individual.
+In 2012, Alvin E. Roth and Lloyd S. Shapley were awarded the Nobel Prize in Economics "for the theory of stable allocations and the practice of market design" and, in 2014, the Nobel went to game theorist Jean Tirole.
+In 2007, Leonid Hurwicz, together with Eric Maskin and Roger Myerson, was awarded the Nobel Prize in Economics "for having laid the foundations of mechanism design theory."
+In the accompanying example there are two players; one chooses the row and the other chooses the column.
+In so doing, he provided the first analysis of common knowledge and employed it in analyzing play in coordination games.
+For example, nuclear deterrence depends on the threat to retaliate catastrophically if a nuclear attack is detected.
+In 1965, Reinhard Selten introduced his solution concept of subgame perfect equilibria, which further refined the Nash equilibrium (later he would introduce trembling hand perfection as well).
+If players have some information about the choices of other players, the game is usually presented in extensive form.
+(See Black swan theory for more discussion on this kind of modeling issue, particularly as it relates to predicting and limiting losses in investment banking.)
+Since a strategy, corresponding to a Nash equilibrium of a game constitutes one's best response to the actions of the other players – provided they are in (the same) Nash equilibrium – playing a strategy that is part of a Nash equilibrium seems appropriate.
+Most cooperative games are presented in the characteristic function form, while the extensive and the normal forms are used to define noncooperative games.
+Wood thought this could be accomplished by making treaties with other nations to reduce green house gas emissions.
+Normally denoted by
+Pooling game theory emerges to formally recognize the interaction between optimal choice in one play and the emergence of forthcoming payoff table update path, identify the invariance existence and robustness, and predict variance over time.
+Suppose that Player 1 plays ''Up'' and that Player 2 plays ''Left''.
+This theory was developed extensively in the 1950s by many scholars.
+While it would thus be optimal to have all games expressed under a non-cooperative framework, in many instances insufficient information is available to accurately model the formal procedures available to the players during the strategic bargaining process, or the resulting model would be of too high complexity to offer a practical tool in the real world.
+The Danish mathematician Zeuthen proved that the mathematical model had a winning strategy by using Brouwer's fixed point theorem.
+In such games, the terminal time is a random variable with a given probability distribution function.
+In addition, the focus has been less on equilibria that correspond to a notion of rationality and more on ones that would be maintained by evolutionary forces.
+James Madison made what we now recognize as a game-theoretic analysis of the ways states can be expected to behave under different systems of taxation.
+The theory is based upon topological transformation classification of payoff table update over time to predict variance and invariance, and is also within the jurisdiction of the computational law of reachable optimality for ordered system.
+Today, game theory applies to a wide range of behavioral relations, and is now an umbrella term for the science of logical decision making in humans, animals, and computers.
+A particular case of differential games are the games with a random time horizon.
+In biology, game theory has been used as a model to understand many different phenomena.
+the players do not know at which point they are), or a closed line is drawn around them.
+Around this same time, John Nash developed a criterion for mutual consistency of players' strategies, known as Nash equilibrium, applicable to a wider variety of games than the criterion proposed by von Neumann and Morgenstern.
+This need not be perfect information about every action of earlier players; it might be very little knowledge.
+Game-theoretic arguments of this type can be found as far back as Plato.
+The payoffs are provided in the interior.
+Examples can be found in species ranging from vampire bats that regurgitate blood they have obtained from a night's hunting and give it to group members who have failed to feed, to worker bees that care for the queen bee for their entire lives and never mate, to vervet monkeys that warn group members of a predator's approach, even when it endangers that individual's chance of survival.
+In zero-sum games the total benefit to all players in the game, for every combination of strategies, always adds to zero (more informally, a player benefits only at the equal expense of others).
+With the Nobel Memorial Prize in Economic Sciences going to game theorist Jean Tirole in 2014, eleven game-theorists have now won the economics Nobel Prize.
+Evolutionary game theory has been used to explain many seemingly incongruous phenomena in nature.
+In economics, the same theory is intended to capture population changes because people play the game many times within their lifetime, and consciously (and perhaps rationally) switch strategies.
+One such phenomenon is known as biological altruism.
+The first known discussion of game theory occurred in a letter written by Charles Waldegrave, an active Jacobite, and uncle to James Waldegrave, a British diplomat, in 1713.
+The use of game theory in the social sciences has expanded, and game theory has been applied to political, sociological, and psychological behaviors as well.
+Downs first shows how the political candidates will converge to the ideology preferred by the median voter if voters are fully informed, but then argues that voters choose to remain rationally ignorant which allows for candidate divergence.
+There are, however, mathematical tools that can solve particular problems and answer general questions.
+Also, game theory provides a theoretical basis to the field of multi-agent systems.
+If the identities of the players can be changed without changing the payoff to the strategies, then a game is symmetric.
+Stochastic outcomes can also be modeled in terms of game theory by adding a randomly acting player who makes "chance moves" ("moves by nature").
+Game theorists usually assume players act rationally, but in practice, human behavior often deviates from this model.
+The second edition of this book provided an axiomatic theory of expected utility, which allowed mathematical statisticians and economists to treat decision-making under uncertainty.
+Then Player 1 gets a payoff of 4, and Player 2 gets 3.
+Perfect information is often confused with complete information, which is a similar concept.
+Nash, Selten and Harsanyi became Economics Nobel Laureates in 1994 for their contributions to economic game theory.
+The payoffs are specified at the bottom of the tree.
+Schelling worked on dynamic models, early examples of evolutionary game theory.
+These situations are not considered game theoretical by some authors.
+In his 1838 ''Recherches sur les principes mathématiques de la théorie des richesses'' (''Researches into the Mathematical Principles of the Theory of Wealth''), Antoine Augustin Cournot considered a duopoly and presents a solution that is a restricted version of the Nash equilibrium.
+Many card games are games of imperfect information, such as poker or contract bridge.
+Cooperative game theory provides a high-level approach as it only describes the structure, strategies and payoffs of coalitions, whereas non-cooperative game theory also looks at how bargaining procedures will affect the distribution of payoffs within each coalition.
+The transformation of extensive to normal form is one way, meaning that multiple extensive form games correspond to the same normal form.
+Game theory was later explicitly applied to biology in the 1970s, although similar developments go back at least as far as the 1930s.
+Strangelove'' satirizes game theoretic ideas about deterrence theory.
+The more closely related two organisms are causes the incidences of altruism to increase because they share many of the same alleles.
+The way this particular game is structured (i.e., with sequential decision making and perfect information), ''Player 1'' "moves" first by choosing either ''F'' or ''U'' (letters are assigned arbitrarily for mathematical purposes).
+The first number is the payoff received by the row player (Player 1 in our example); the second is the payoff for the column player (Player 2 in our example).
+The extensive form can be used to formalize games with a time sequencing of moves.
+Many concepts can be extended, however.
+Economists and business professors suggest two primary uses (noted above): ''descriptive'' and ''prescriptive''.
+through contract law).
+A game is ''non-cooperative'' if players cannot form alliances or if all agreements need to be self-enforcing (e.g.
+This work predates the name "game theory", but it shares many important features with this field.
+whereby a situation is framed as a strategic game in which stakeholders try to realise their objectives by means of the options available to them.
+Here each vertex (or node) represents a point of choice for a player.
+Borel conjectured that non-existence of mixed-strategy equilibria in two-person zero-sum games would occur, a conjecture that was proved false.
+Game theory did not really exist as a unique field until John von Neumann published a paper in 1928.
+These authors look at several games including the prisoner's dilemma, stag hunt, and the Nash bargaining game as providing an explanation for the emergence of attitudes about morality (see, e.g.,  and ).
+Helping a sibling for example (in diploid animals), has a coefficient of ½, because (on average) an individual shares ½ of the alleles in its sibling's offspring.
+Since games like the prisoner's dilemma present an apparent conflict between morality and self-interest, explaining why cooperation is required by self-interest is an important component of this project.
+In his 1938 book ''Applications aux Jeux de Hasard'' and earlier notes, Émile Borel proved a minimax theorem for two-person zero-sum matrix games only when the pay-off matrix was symmetric.
+Ants have also been shown to exhibit feed-forward behavior akin to fashion (see Paul Ormerod's ''Butterfly Economics'').
+A prototypical paper on game theory in economics begins by presenting a game that is an abstraction of a particular economic situation.
+Games in which the difficulty of finding an optimal strategy stems from the multiplicity of possible moves are called combinatorial games.
+Game theory has come to play an increasingly important role in logic and in computer science.
+An important subset of sequential games consists of games of perfect information.
+John Maynard Smith was awarded the Crafoord Prize for his application of game theory to biology.
+Myerson's contributions include the notion of proper equilibrium, and an important graduate text: ''Game Theory, Analysis of Conflict''.
+A typical game that has been solved this way is hex.
+Evolutionary game theory explains this altruism with the idea of kin selection.
+The first use of game-theoretic analysis was by Antoine Augustin Cournot in 1838 with his solution of the Cournot duopoly.
+For instance, the ultimatum game and similarly the dictator game have different strategies for each player.
+Other zero-sum games include matching pennies and most classical board games including Go and chess.
+Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science, biology and poker.
+For instance, Cournot competition is typically modeled with players' strategies being any non-negative quantities, including fractional quantities.
+It proved that the optimal chess strategy is strictly determined.
+Algorithmic game theory and within it algorithmic mechanism design combine computational algorithm design and analysis of complex systems with economic theory.
+In 1913 Ernst Zermelo published ''Über eine Anwendung der Mengenlehre auf die Theorie des Schachspiels''.
+One or more solution concepts are chosen, and the author demonstrates which strategy sets in the presented game are equilibria of the appropriate type.
+This equilibrium is sufficiently general to allow for the analysis of non-cooperative games in addition to cooperative ones.
+epigenetics, religion, science, etc.)
+Next in the sequence, ''Player 2'', who has now seen ''Player 1'''s move, chooses to play either ''A'' or ''R''.
+Informally, in non-zero-sum games, a gain by one player does not necessarily correspond with a loss by another.
+The term metagame analysis is also used to refer to a practical approach developed by Nigel Howard.
+The game pictured consists of two players.
+This player is not typically considered a third player in what is otherwise a two-player game, but merely serves to provide a roll of the dice where required by the game.
+In addition, computer scientists have used games to model interactive computations.
+His paper was followed by his 1944 book ''Theory of Games and Economic Behavior'' co-authored with Oskar Morgenstern.
+Although these fields may have different motivators, the mathematics involved are substantially the same, e.g.
+Subsequent developments have led to the formulation of confrontation analysis.
+Kansaki Nao's seemingly simple strategies that appear to be the product of her innocent good nature actually represent optimal  equilibrium solutions which Game Theory attempts to solve.
+Games of perfect information have been studied in combinatorial game theory, which has developed novel representations, e.g.
+'''Game theory''' is "the study of mathematical models of conflict and cooperation between intelligent rational decision-makers."
+Pooling games are repeated plays with changing payoff table in general over an experienced path and their equilibrium strategies usually take a form of evolutionary social convention and economic convention.
+Von Neumann's work in game theory culminated in this 1944 book.
+It is opposed to the traditional ''non-cooperative game theory'' which focuses on predicting individual players' actions and payoffs and analyzing Nash equilibriums.Cooperative game theory#cite note-2|2Cooperative game theory#cite note-3|3
+Additionally, biologists have used evolutionary game theory and the ESS to explain the emergence of animal communication.
+Game theory has been widely recognized as an important tool in many fields.
+Interesting examples of perfect-information games include the ultimatum game and centipede game.
+In a sense, each episode exhibits a Game Theory game and the strategies/ equilibria/ solutions provide the script which is coloured in by the actors.
+The standard representations of chicken, the prisoner's dilemma, and the stag hunt are all symmetric games.
+Coordinating communication among citizens to replace the sovereign is effectively barred, since conspiracy to replace the sovereign is generally punishable as a crime.
+The extensive form can also capture simultaneous-move games and games with imperfect information.
+More generally it can be represented by any function that associates a payoff for each player with every possible combination of actions.
+Constant-sum games correspond to activities like theft and gambling, but not to the fundamental economic situation in which there are potential gains from trade.
+In biology, this is intended to model (biological) evolution, where genetically programmed organisms pass along some of their strategy programming to their offspring.
+This is a situation in which an organism appears to act in a way that benefits other organisms and is detrimental to itself.

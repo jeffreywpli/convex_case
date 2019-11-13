@@ -1,0 +1,200 @@
+Therefore, this is the condition for the circle and parabola to coincide at and extremely close to the origin.
+Parabolic mirrors are used in most modern reflecting telescopes and in satellite dishes and radar receivers.
+'''The point&nbsp;F is the foot of the perpendicular from the point&nbsp;V to the plane of the parabola.'''
+The diagram represents a cone with its axis vertical.
+This includes the point F, which is not mentioned above.
+If tangents to the parabola are drawn through the endpoints of any of these chords, the two tangents intersect on this same line parallel to the axis of symmetry.
+Thus the equation of the first tangent is of the form , where  is a constant.
+This reflective property is the basis of many practical uses of parabolas.
+Correspondingly, since C is on the directrix, the -coordinates of F and C are equal in absolute value and opposite in sign.
+That, along with spin and air resistance, causes the curve swept out to deviate slightly from the expected perfect parabola.
+This cross-section is circular, but appears elliptical when viewed obliquely, as is shown in the diagram.
+Suppose a system of Cartesian coordinates is used such that the vertex of the parabola is at the origin, and the axis of symmetry is the -axis.
+By differentiating the equation of the parabola and setting the slope to 1, we find the -coordinate of P:
+Simplifying this gives .
+Huygens_%2B_Snell %2B van Ceulen_-_regular_polygon_doubling.svg|Image is inverted.
+We will call its radius&nbsp;.
+Its -coordinate is half that of E, D, and C, i.e.
+Parabolas have the property that, if they are made of material that reflects light, then light which travels parallel to the axis of symmetry of a parabola and strikes its concave side is reflected to its focus, regardless of where on the parabola the reflection occurs.
+Therefore,  is the tangent to the parabola at P. Since it bisects the angle ∠FPT, this proves the tangent bisection property.
+The 45-degree inclination causes the light to be turned 90 degrees by the reflection, so it travels from P to the focus along a line that is perpendicular to the axis of symmetry and to the -axis.
+This discussion started from the definition of a parabola as a conic section, but it has now led to a description as a graph of a quadratic function.
+Under the influence of a uniform load (such as a horizontal suspended deck), the otherwise catenary-shaped cable is deformed toward a parabola.
+Using the reflective property of a parabola, we know that light which is initially travelling parallel to the axis of symmetry is reflected at P toward the focus.
+At the positive  end of the chord,  and .
+See the article "The Quadrature of the Parabola".
+The area enclosed between a parabola and a chord (see diagram) is two-thirds of the area of a parallelogram which surrounds it.
+The focus is F, the vertex is A (the origin), and the line  (the -axis) is the axis of symmetry.
+This is similar to saying that a parabola is an ellipse, but with one focal point at infinity.
+Paraboloids are also observed in the surface of a liquid confined to a container and rotated around the central axis.
+They are in the plane of symmetry of the whole figure.
+The principle of the parabolic reflector may have been discovered in the 3rd century BC by the geometer Archimedes, who, according to a legend of debatable veracity, constructed parabolic mirrors to defend Syracuse against the Roman fleet, by concentrating the sun's rays to set fire to the decks of the Roman ships.
+The length of the semilatus rectum (half of the latus rectum) is the difference between the -coordinates of this point, which is considered as P in the above derivation of the coordinates of the focus, and of the focus itself.
+Another hypothetical situation in which parabolas might arise, according to the theories of physics described in the 17th and 18th centuries by Sir Isaac Newton, is in two-body orbits; for example the path of a small planetoid or other object under the influence of the gravitation of the Sun.
+Consider a point  on a circle of radius  and with centre at the point .
+is non-zero: that is, if .
+Sometimes, the noun ''parabola'' is also used to refer to these objects.
+The point of intersection of this axis and the parabola is called the vertex.
+The "latus rectum" is the chord of the parabola which is parallel to the directrix and passes through the focus.
+But if  is extremely close to the origin, since the -axis is a tangent to the circle,  is very small compared with , so  is negligible compared with the other terms.
+This shows that these two descriptions are equivalent.
+The focal length of a parabola is half of its radius of curvature at its vertex.
+By interchanging  and  the parabolas' axes of symmetry become parallel to the -axis.
+The product of the slopes of perpendicular lines is −1, assuming that both of the slopes are finite.
+Unlike an inelastic chain, a freely hanging spring of zero unstressed length takes the shape of a parabola.
+The slope of the other parallel sides is irrelevant to the area.
+This can be done with calculus, or by using a line that is parallel with the axis of symmetry of the parabola and passes through the midpoint of the chord.
+A parabola can also be obtained as the limit of the shape of an ellipse where one focus is kept fixed as the other is allowed to move arbitrarily far away in one direction.
+If the point is near the origin, the Pythagorean theorem shows that:
+There are other theorems that can be deduced simply from the above argument.
+The latus rectum is the chord that passes through the focus and is perpendicular to the axis of symmetry.
+Parabolas can open up, down, left, right, or in some other arbitrary direction.
+In this case, the centrifugal force causes the liquid to climb the walls of the container, forming a parabolic surface.
+which has its vertex at the origin, opens upward, and has focal length .
+An inclined cross-section of the cone, shown in pink, is inclined from the vertical by the same angle, , as the side of the cone.
+Comparing this with the last equation above shows that the focal length of the parabola in the cone is .
+Since  is the tangent to the parabola at E, the same reflection will be done by an infinitesimal arc of the parabola at E. Therefore, light that enters the parabola and arrives at E travelling parallel to the axis of symmetry of the parabola is reflected by the parabola toward its focus.
+The point where the slope of the parabola is 1 lies at one end of the latus rectum.
+An object following a parabolic orbit would travel at the exact escape velocity of the object it orbits; objects in elliptical or hyperbolic orbits travel at less or greater than escape velocity, respectively.
+In other words, the tangent to the parabola at any point bisects the angle between the lines joining the point to the focus, and perpendicularly to the directrix.
+Equations 1 and 2 are equivalent if .
+The parabola is the locus of points in that plane that are equidistant from both the directrix and the focus.
+The parabolic trajectory of projectiles was discovered experimentally by Galileo in the early 17th century, who performed experiments with balls rolling on inclined planes.
+Thus, the length of the semilatus rectum is
+The above proof, and the accompanying diagram, show that the tangent  bisects the angle ∠FEC.
+In general, the enclosed area can be calculated as follows.
+Consider the parabola .
+The distance between the vertex and the focus, measured along the axis of symmetry, is the "focal length".
+A theorem equivalent to this one, but different in details, was derived by Archimedes in the 3rd Century BCE.
+The coordinates of the vertex are calculated in the preceding section.
+The slopes of our tangents are  and , so , so .
+If light travels along the line , it moves parallel to the axis of symmetry and strikes the convex side of the parabola at E. It is clear from the above diagram that this light will be reflected directly away from the focus, along an extension of the segment .
+The whole assembly is rotating around a vertical axis passing through the centre.
+Parabolic orbits do not occur in nature; simple orbits most commonly resemble hyperbolas or ellipses.
+The point on the parabola that intersects the axis of symmetry is called the "vertex", and is the point where the parabola is most sharply curved.
+Two liquids of different densities completely fill a narrow space between two sheets of transparent plastic.
+Designs were proposed in the early to mid seventeenth century by many mathematicians including René Descartes, Marin Mersenne, and James Gregory.
+It is defined and discussed below, in the paragraph "Position of the focus".
+This means that a ray of light which enters the parabola and arrives at E travelling parallel to the axis of symmetry will be reflected by the line  so it travels along the line , as shown in red in the diagram (assuming that the lines can somehow reflect light).
+Galileo showed that the path of a projectile follows a parabola, a consequence of uniform acceleration due to gravity.
+The same effects occur with sound and other forms of energy.
+Therefore, the equation of the directrix is
+The light had a parabolic reflector.
+File:Celler de Sant Cugat lateral.JPG|Parabolic arches used in architecture
+The parabolic curve is therefore the locus of points where the equation is satisfied, which makes it a Cartesian graph of the quadratic function in the equation.
+The principle was applied to telescopes in the 17th century.
+Substituting this value of  in the equation of the parabola, we find the -coordinate of P, and also of the focus:
+Another consequence is that the universal parabolic constant is the same for all parabolas.
+At higher speeds, such as in ballistics, the shape is highly distorted and does not resemble a parabola.
+However, as shown in the last paragraph, the same adjective is commonly used for three-dimensional objects, such as parabolic reflectors, which are really paraboloids.
+The parabola is found in numerous situations in the physical world (see below).
+Though not perfectly correct, this usage is generally understood.
+In this diagram, F is the focus of the parabola, and T and U lie on its directrix.
+Then, using the formula given in the article "Distance from a point to a line", calculate the perpendicular distance from this point to the chord.
+He discovered a way to solve the problem of doubling the cube using parabolas.
+Since  is squared in the equation, the fact that D and E are on opposite sides of the -axis is unimportant.
+Image:Parabola shape in rotating layers of fluid.jpg|Parabolic shape formed by a liquid surface under rotation.
+It is shown elsewhere in this article that the equation of the parabola is , where  is the focal length.
+Measured along the axis of symmetry, the vertex is the midpoint between the focus and the directrix.
+The -coordinate of the focus is therefore also .
+A parabola spun about this axis in three dimensions traces out a shape known as a paraboloid of revolution.
+A third description is algebraic.
+All the labelled points, except D and E, are coplanar.
+Therefore, extremely close to the origin:
+The focal length, , of the parabola is given by:
+The earliest known work on conic sections was by Menaechmus in the fourth century BC.
+The focus does not lie on the directrix.
+Image:Bouncing ball strobe edit.jpg|A bouncing ball captured with a stroboscopic flash at 25 images per second.
+Since the length of  is , the distance of F from the vertex of the parabola is .
+Factoring the difference of squares, cancelling, and dividing by 2 gives .
+All points on the bisector  are equidistant from F and T, but Q is closer to F than to T. This means that Q is to the left of , i.e.
+First, locate the point on the parabola where its slope equals that of the chord.
+Angle VPF is complementary to , and angle PVF is complementary to angle VPF, therefore angle PVF is .
+It is proved in the preceding section that if a parabola has its vertex at the origin, and if it opens in the positive  direction, then its equation is , where  is its focal length.
+As a consequence of this, all parabolas are similar, meaning that while they can be different sizes, they are all the same shape.
+One side of the parallelogram is the chord, and the opposite side is a tangent to the parabola.
+Substituting this into one of the equations of the tangents gives an expression for the -coordinate of the intersection point: .
+It also directly implies, by the wave nature of light, that parallel light arriving along the lines QP will be reflected to converge at F. A linear wavefront along L is concentrated, after reflection, to the one point where all parts of it have travelled equal distances and are in phase, namely F. No consideration of angles is required.
+When Isaac Newton built the first reflecting telescope in 1668, he skipped using a parabolic mirror because of the difficulty of fabrication, opting for a spherical mirror.
+File:Solar Array.jpg|Array of parabolic troughs to collect solar energy
+The required point is where this line intersects the parabola.
+Other points and lines are irrelevant for this purpose.
+This means that the -coordinate of P must equal that of the focus.
+The parabola opens upward.
+Conversely, light that originates from a point source at the focus is reflected into a parallel ("collimated") beam, leaving the parabola parallel to the axis of symmetry.
+Clearly, &nbsp;>&nbsp;, so &nbsp;>&nbsp;.
+Analytically,  can also be raised to an irrational power (for positive values of ); the analytic properties are analogous to when  is raised to rational powers, but the resulting curve is no longer algebraic, and cannot be analyzed via algebraic geometry.
+File:Physicist Stephen Hawking in Zero Gravity NASA.jpg|Physicist Stephen Hawking in an aircraft flying a parabolic trajectory to simulate zero-gravity
+It is shown above that this distance equals the focal length of the parabola, which is the distance from the vertex to the focus.
+Without loss of generality, consider the parabola , .
+The gap between the sheets is closed at the bottom, sides and top.
+The blue orbit is the Earth's
+A parabola is a graph of a quadratic function, , for example.
+He also later proved this mathematically in his book ''Dialogue Concerning Two New Sciences''.
+Negative fractional powers correspond to the implicit equation , and are traditionally referred to as '''higher hyperbolas'''.
+By symmetry, F is on the axis of symmetry of the parabola.
+This calculation can be used for a parabola in any orientation.
+This can be useful, for example, in calculating the size of the material needed to make a parabolic reflector or parabolic trough.
+Parabola circle.svg|The radius of curvature at the vertex is twice the focal length.
+Let the line of symmetry intersect the parabola at point Q, and denote the focus as point F and its distance from point Q as .
+Reversing the sign of  reverses the signs of  and  without changing their absolute values.
+Another horizontal, circular cross-section of the cone is farther from the apex, A, than the one just described.
+B is the midpoint of FC, so its -coordinate is zero, so it lies on the -axis.
+The area, , of the parabolic segment enclosed by the parabola and the chord is therefore:
+Suspension-bridge cables are, ideally, purely in tension, without having to carry other, e.g.
+The parabolic arch is in compression, and carries the weight of the road.
+Conversely, two tangents which intersect on the directrix are perpendicular.
+The point E has no special characteristics.
+The reducible case, also called the degenerate case, gives a pair of parallel lines, possibly real, possibly imaginary, and possibly coinciding with each other.
+Paraboloids arise in several physical situations as well.
+The same would be true if Q were located anywhere else on the parabola (except at the point P), so the entire parabola, except the point P, is on the focus side of .
+Since all parabolas are similar, this simple case represents all others.
+Another chord, , is the perpendicular bisector of , and is consequently a diameter of the circle.
+Its centre is V, and  is a diameter.
+If the chord has length , and is perpendicular to the parabola's axis of symmetry, and if the perpendicular distance from the parabola's vertex to the chord is , the parallelogram is a rectangle, with sides of  and .
+He used the areas of triangles, rather than that of the parallelogram.
+They both define curves of exactly the same shape.
+The curve of the chains of a suspension bridge is always an intermediate curve between a parabola and a catenary, but in practice the curve is generally nearer to a parabola, and in calculations the second degree parabola is used.
+In the diagram above, the point&nbsp;V is the foot of the perpendicular from the vertex of the parabola to the axis of the cone.
+The parabola has many important applications, from a parabolic antenna or parabolic microphone to automobile headlight reflectors to the design of ballistic missiles.
+These two chords and the parabola's axis of symmetry, , all intersect at the point&nbsp;M.
+is perpendicular to the directrix, and the line  bisects angle ∠FPT.
+File:Ed_d21m.jpg|Edison's searchlight, mounted on a cart.
+We now use the fact that these tangents are perpendicular.
+In the following equations  and  are the coordinates of the vertex  of the parabola and  is the distance from the vertex to the focus and the vertex to the directrix.
+In parabolic microphones, a parabolic reflector that reflects sound, but not necessarily electromagnetic radiation, is used to focus sound onto a microphone, giving it highly directional performance.
+It has a chord , which joins the points where the parabola intersects the circle.
+File:Antenna 03.JPG|Parabolic antenna
+P is an arbitrary point on the parabola.
+The lengths of all paths QPF are the same, equalling the distance between the chord L and the directrix.
+Since triangles △FBE and △CBE are congruent,  is perpendicular to the tangent .
+L is an arbitrary chord of the parabola perpendicular to its axis of symmetry, which passes through V and F. (The ends of the chord are not shown here.)
+In the following proof, the fact that every point on the parabola is equidistant from the focus and from the directrix is taken as axiomatic.
+(See preceding sections of this article.)
+File:Laxmanjhula.jpg|The supporting cables of suspension bridges follow a curve which is intermediate between a parabola and a catenary.
+Note that the ball becomes significantly non-spherical after each bounce, especially after the first.
+This is also the equation of the directrix of this parabola, so the two perpendicular tangents intersect on the directrix.
+The name "parabola" is due to Apollonius who discovered many properties of conic sections.
+A concave mirror which is a small segment of a sphere behaves approximately like a parabolic mirror, focusing parallel light to a point which is midway between the centre and the surface of the sphere.
+Let the perpendicular to the line of symmetry, through the focus, intersect the parabola at a point T. Then (1) the distance from F to T is , and (2) a tangent to the parabola at point T intersects the line of symmetry at a 45° angle.
+The reflective property follows as shown previously.
+The idea that a parabolic reflector could produce an image was already well known before the invention of the reflecting telescope.
+Likewise, the equation of the other tangent is .
+Aircraft used to create a weightless state for purposes of experimentation, such as NASA's "Vomit Comet", follow a vertically parabolic trajectory for brief periods in order to trace the course of an object in free fall, which produces the same effect as zero gravity for most purposes.
+Suppose that two tangents contact this parabola at the points  and .
+The parabola is an inverse transform of a cardioid.
+The focus and the point&nbsp;F are therefore equally distant from the vertex, along the same line, which implies that they are the same point.
+In order to make the line pass through , the value of  must be , so the equation of this tangent is .
+Strictly, the adjective ''parabolic'' should be applied only to things that are shaped as a parabola, which is a two-dimensional shape.
+These correspond to the explicit formula  for a positive fractional power of .
+The presence of air resistance, for example, always distorts the shape, although at low speeds, the shape is a good approximation of a parabola.
+on the same side of it as the focus.
+According to the definition of a parabola as a conic section, the boundary of this pink cross-section, EPD, is a parabola.
+Parabola with focus and arbitrary line.svg|For description, see text below.
+The logic of the last paragraph can be applied to modify the above proof of the reflective property.
+To find the -coordinate of the focus, consider the point, P, located on the parabola where the slope is 1, so the tangent to the parabola at P is inclined at 45 degrees to the axis of symmetry.
+where  is the focal length.
+Similarly, the structures of parabolic arches are purely in compression.
+A parabola has a single axis of reflective symmetry, which passes through its focus and is perpendicular to its directrix.
+File:ParabolicMicrophone.jpg|Parabolic microphone with optically transparent plastic reflector, used to overhear referee conversations at an American college football game.
+Suppose a chord crosses a parabola perpendicular to its axis of symmetry.

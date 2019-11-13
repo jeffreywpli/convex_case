@@ -1,0 +1,200 @@
+The strict version of HTML is deployed in XHTML 1.1 through a set of modular extensions to the base XHTML 1.1 specification.
+The primary achievement in the move from XHTML 1.0 to XHTML 1.1 is the modularization of the entire specification.
+In January 2011, the WHATWG renamed its "HTML5" living standard to "HTML".
+Class attributes are used semantically in microformats.
+All of these data types are specializations of character data.
+These included extensions to control stylistic aspects of documents, contrary to the "belief of the academic engineering community that such things as text color, background texture, font size and font face were definitely outside the scope of a language when their only intent was to specify how a document would be organized."
+With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+Equivalently, the single-quote character ('), when not used to quote an attribute value, must also be escaped as &amp;#x27; or &amp;#39; (or as &amp;apos; in HTML5 or XHTML documents) when it appears within the attribute value itself.
+For example, the HTML markup, , will render the word " Wikipedia" as a hyperlink.
+can confuse a visitor with a hyperlink.)
+(see DTD section for further explanation).
+and width (Deprecated.
+The difference between  and  is that "br" breaks a line without altering the semantic structure of the page, whereas "p" sections the page into paragraphs.
+** underline (u)(Deprecated.
+; 2011&nbsp;HTML5 – Last Call
+For documents that are XHTML 1.0 and have been made compatible in this way, the W3C permits them to be served either as HTML (with a text/html MIME type), or as XHTML (with an application/xhtml+xml or application/xml MIME type).
+Presentational markup tags are deprecated in current HTML and XHTML recommendations and are illegal in HTML5.
+The latest standards surrounding HTML reflect efforts to overcome the sometimes chaotic development of the language and to create a rational foundation for building both meaningful and well-presented documents.
+Whether coding in HTML or XHTML it may just be best to always include the optional tags within an HTML document rather than remembering which tags can be omitted.
+As this list demonstrates, the loose versions of the specification are maintained for legacy support.
+), compact (Deprecated.
+However, contrary to popular misconceptions, the move to XHTML does not imply a removal of this legacy support.
+Berners-Lee considered HTML to be an application of SGML.
+The following steps can be applied to XHTML 1.0 documents only:
+list (no substitute, though unordered list is recommended)
+The result is still invalid markup, which makes the document less accessible to other browsers and to other user agents that may try to parse the document for search and indexing purposes for example.
+Browsers, on the other hand, do not implement HTML as an application of SGML and by consequence do not read the DTD.
+and bgcolor (Deprecated.
+Most graphical email clients allow the use of a subset of HTML (often ill-defined) to provide formatting and semantic markup not available with plain text.
+The first tag in such a pair is the ''start tag'', and the second is the ''end tag'' (they are also called ''opening tags'' and ''closing tags'').
+# '''Ensure that the document's MIME type is set to text/html.'''
+Structural markup does not denote any specific rendering, but most web browsers have default styles for element formatting.
+;Structural markup indicates the purpose of text: For example,  establishes "Golf" as a second-level heading.
+Frameset has all tags necessary to make frames on a page along with the tags included in transitional type.
+To translate from HTML to XHTML would also require the addition of any omitted opening or closing tags.
+Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages.
+It describes 18 elements comprising the initial, relatively simple design of HTML.
+The abbreviation element, abbr, can be used to demonstrate some of these attributes :
+attribute on a, client-side image-map (map), link, form and base elements
+If attributes are not mentioned, default values are used in each case.
+An example of an HTML 4 doctype
+Transitional type is the most inclusive, incorporating current tags as well as older or "deprecated" tags, with the Strict DTD excluding deprecated tags.
+The modularization also allows for separate features to develop on their own timetable.
+New features can be added but functionality will not be removed.
+In presentation, such elements might be gathered together and presented as footnotes on a page instead of appearing in the place where they occur in the HTML source.
+Since the late 1990s when Cascading Style Sheets were beginning to work in most browsers, web authors have been encouraged to avoid the use of presentational HTML markup with a view to the separation of presentation and content.
+Similarly, Dave Raggett's competing Internet-Draft, "HTML+ (Hypertext Markup Format)", from late 1993, suggested standardizing already-implemented features like tables and fill-out forms.
+It was formally defined as such by the Internet Engineering Task Force (IETF) with the mid-1993 publication of the first proposal for an HTML specification:  "Hypertext Markup Language (HTML)" Internet-Draft by Berners-Lee and Dan Connolly, which included an SGML Document Type Definition to define the grammar.
+** width attribute on pre element
+In addition to the above transitional differences, the frameset specifications (whether XHTML 1.0 or HTML 4.01) specify a different content model, with frameset replacing body, that contains either frame elements, or optionally noframes with a body.
+Tags such as  and  introduce content into the page directly.
+These rules are complex and not widely understood by most HTML coders.
+For instance, wikis and content management systems allow surfers to edit the Web pages they visit.
+The Transitional and Frameset versions allow for presentational markup, which is omitted in the Strict version.
+* '''Presentation related elements'''
+The first publicly available description of HTML was a document called "HTML Tags", first mentioned on the Internet by Tim Berners-Lee in late 1991.
+By contrast, XHTML requires all elements to have an opening tag and a closing tag.
+Though its creators originally conceived of HTML as a semantic language devoid of presentation details, practical uses pushed many presentational elements and attributes into the language, driven largely by the various browser vendors.
+** align (Deprecated.
+In conjunction, the HTML specification has slowly reined in the presentational elements.
+A link to Wikipedia!
+attributes on ol and ul elements
+:Initially code-named "Cougar", HTML 4.0 adopted many browser-specific element types and attributes, but at the same time sought to phase out Netscape's visual markup features by marking them as deprecated in favor of style sheets.
+(see Browser wars).
+* Use the empty-element syntax only for elements specified as empty in HTML.
+The XML-based specification is usually called XHTML to distinguish it clearly from the more traditional definition.
+Semantic HTML is a way of writing HTML that emphasizes the meaning of the encoded information over its presentation (look).
+For example, the ID "Attributes" in
+;Hypertext markup makes parts of a document into links to other documents: An anchor element creates a hyperlink in the document and its href attribute sets the link's target URL.
+both specifications are similar and mostly derived from each other, i.e., the work on HTML5 started with an older WHATWG draft, and later the WHATWG ''living standard'' was based on HTML5 drafts in 2011.
+To return HTML to its role as a semantic language, the W3C has developed style languages such as CSS and XSL to shoulder the burden of presentation.
+A well-formed XHTML document adheres to all the syntax requirements of XML.
+Likewise, someone looking for the loose (transitional) or frameset specifications will find similar extended XHTML 1.1 support (much of it is contained in the legacy or frame modules).
+In contrast with name-value pair attributes, there are some attributes that affect the element simply by their presence in the start tag of the element, like the ismap attribute for the img element.
+* Omit the XML declaration.
+An HTA runs as a fully trusted application and therefore has more privileges, like creation/editing/removal of files and Windows Registry entries.
+** background (Deprecated.
+Those are the main changes necessary to translate a document from XHTML 1.0 to HTML 4.01.
+# '''Remove the XML namespace (xmlns=URI).'''
+The Frameset version includes everything in the Transitional version, as well as the frameset element (used instead of body) and the frame element.
+To render an image as a hyperlink, an "img" element is inserted as content into the "a" element.
+In the ISO this standard falls in the domain of the ISO/IEC JTC1/SC34 (ISO/IEC Joint Technical Committee 1, Subcommittee 34&nbsp;– Document description and processing languages).
+Since 1996, the HTML specifications have been maintained, with input from commercial software vendors, by the World Wide Web Consortium (W3C).
+Most of the attributes of an element are name-value pairs, separated by "=" and written within the start tag of an element after the element's name.
+* The class attribute provides a way of classifying similar elements.
+A common abbreviation of this is .htm, which originated because some early operating systems and file systems, such as DOS and the limitations imposed by FAT data structure, limited file extensions to three letters.
+Many of the text elements are found in the 1988 ISO technical report TR 9537 ''Techniques for using SGML'', which in turn covers the features of early text formatting languages such as that used by the RUNOFF command developed in the early 1960s for the CTSS (Compatible Time-Sharing System) operating system: these formatting commands were derived from the commands used by typesetters to manually format documents.
+Since its inception, HTML and its associated protocols gained acceptance relatively quickly.
+For example, when a screen reader or audio browser can correctly ascertain the structure of a document, it will not waste the visually impaired user's time by reading out repeated or irrelevant information when it has been marked up correctly.
+), noshade (Deprecated.
+attributes for body (required element according to the W3C.)
+The W3C developed a comprehensive test suite to achieve broad interoperability for the full specification by 2014, which was the target date for recommendation.
+Others such as  surround and provide information about document text and may include other tags as sub-elements.
+To understand the subtle differences between HTML and XHTML, consider the transformation of a valid and well-formed XHTML 1.0 document that adheres to Appendix C (see below) into a valid HTML 4.01 document.
+The Transitional version allows the following parts of the vocabulary, which are not included in the Strict version:
+** align (Deprecated.
+list (no substitute, though unordered list is recommended)
+Most presentational markup elements have become deprecated under the HTML 4.0 specification in favor of using CSS for styling.
+This is a link in HTML.
+and start (Deprecated.
+** target (Deprecated in the map, link and form elements.)
+(Typically this is: ).
+HTML elements are delineated by ''tags'', written using angle brackets.
+HTML documents can be delivered by the same means as any other computer file.
+Note also that "br" is an ''empty element'' in that, although it may have attributes, it can take no content and it may not have an end tag.
+Comments can help  in the understanding of the markup and do not display in the webpage.
+Browser vendors, including Microsoft and Netscape at the time, chose to implement different subsets of HTML 3's draft features as well as to introduce their own extensions to it.
+HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+An HTML browser or other agent can infer the closure for the end of an element from the context and the structural rules defined by  the HTML standard.
+attribute on div, form, paragraph (p) and heading (h1...h6) elements
+Further development under the auspices of the IETF was stalled by competing interests.
+XHTML 1.0, ported this specification, as is, to the new XML defined specification.
+** font (Deprecated.
+; 2014&nbsp;HTML5 – Proposed Recommendation and Recommendation
+** dir (Deprecated.
+There are also the semantically neutral span and div tags.
+Because they operate outside the browser's security model, HTAs cannot be executed via HTTP, but must be downloaded (just like an EXE file) and executed from local file system.
+), size (Deprecated.
+:Initially code-named "Wilbur", HTML 3.2 dropped math formulas entirely, reconciled overlap among various proprietary extensions and adopted most of Netscape's visual markup tags.
+* '''Frame related entities'''
+:In July 2012, WHATWG and W3C decided on a degree of separation.
+* '''The language (Obsolete) attribute on script element''' (redundant with the type attribute).
+Because XHTML and HTML are closely related, they are sometimes documented in parallel.
+# '''The language for an element should be specified with a lang attribute rather than the XHTML xml:lang attribute.'''
+** Inline elements and plain text are allowed directly in: body, blockquote, form, noscript and noframes
+The name of an HTML element is the name used in the tags.
+Unicode character encodings such as UTF-8 are compatible with all modern browsers and allow direct access to almost all the characters of the world's writing systems.
+This declaration references the DTD for the "strict" version of HTML 4.01.
+In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a  system for CERN researchers to use and share documents.
+Like HTML 4.01, XHTML 1.0 has three sub-specifications: strict, transitional and frameset.
+HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages.
+** strike-through (s)
+HTML tags most commonly come in pairs like  and , although some represent ''empty elements'' and so are unpaired, for example .
+When delivered as XHTML, browsers should use an XML parser, which adheres strictly to the XML specifications for parsing the document's contents.
+HTML 4.01 was published in late 1999, with further errata published through 2001.
+Next, XHTML 1.1 takes advantage of the extensible nature of XML and modularizes the whole specification.
+However, HTTP is used to serve images, sound, and other content, in addition to HTML.
+Leaving attribute values unquoted is considered unsafe.
+** align (Deprecated.
+The W3C nevertheless continues its project to release HTML5.
+The href= attribute holds the URL address of the link.
+* Include both xml:lang and lang attributes on any elements assigning language.
+It offers the same three variations as HTML 4.0 and its last  errata were published on May 12, 2001.
+In the case of both  and , there are other elements that may have equivalent visual renderings but that are more semantic in nature, such as  and  respectively.
+One difference in the latest HTML specifications lies in the distinction between the SGML-based specification and the XML-based specification.
+However, they are most often delivered either by HTTP from a web server or by email.
+The most common filename extension for files containing HTML is .html.
+** applet (Deprecated.
+attribute on legend and caption elements
+The W3C recommendations state that XHTML 1.0 documents that follow guidelines set forth in the recommendation's Appendix C may be labeled with either MIME Type.
+Instead, cascading style sheets are encouraged to improve the presentation of HTML documents.
+:On 28 October 2014, HTML5 was released as a stable W3C Recommendation, meaning the specification process is complete.
+Aside from the different opening declarations for a document, the differences between an HTML 4.01 and XHTML 1.0 document—in each of the corresponding DTDs—are largely syntactic.
+Some HTML elements are defined as ''empty elements'' and take the form .
+; 2012&nbsp;HTML5 – Candidate Recommendation
+The main difference between these web application hybrids and Berners-Lee's semantic agents lies in the fact that the current aggregation and hybridization of information is usually designed in by web developers, who already know the web locations and the API semantics of the specific data they wish to mash, compare and combine.
+That year, Berners-Lee and CERN data systems engineer Robert Cailliau collaborated on a joint request for funding, but the project was not formally adopted by CERN.
+Sometimes Web services or browser manufacturers remedy these shortcomings.
+For example, the acute-accented e (é), a character typically found only on Western European and South American keyboards, can be written in any HTML document as the entity reference &amp;eacute; or as the numeric references &amp;#xE9; or &amp;#233;, using characters that are available on all keyboards and are supported in all character encodings.
+The Document Type Declaration  is for HTML5.
+Many such clients include both a GUI editor for composing HTML e-mail messages and a rendering engine for displaying them.
+XHTML uses XML's built in language-defining functionality attribute.
+HTML elements are the building blocks of HTML pages.
+:* Strict, in which deprecated elements are forbidden
+Appended to the URL of the page, it provides a globally unique identifier for the element, typically a sub-section of the page.
+The World Wide Web Consortium (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.
+SGML-based validators read the DTD in order to properly parse the document and to perform validation.
+In May 2011, the working group advanced HTML5 to "Last Call", an invitation to communities inside and outside W3C to confirm the technical soundness of the specification.
+The Strict version is intended for new documents and is considered best practice, while the Transitional and Frameset versions were developed to make it easier to transition documents that conformed to older HTML specification or didn't conform to any specification to a version of HTML 4.
+use the object element instead.)
+This is used to identify the element so that stylesheets can alter its presentational properties, and scripts may alter, animate or delete its contents or presentation.
+HTML 4 is an SGML application conforming to ISO 8879&nbsp;– SGML.
+; January 2008: HTML5 was published as a Working Draft ( link) by the W3C.
+Empty elements may enclose no content, for instance, the  tag or the inline  tag.
+For both HTML and XHTML, this comes from the HTTP Content-Type header sent by the server.
+HTML has included semantic markup from its inception, but has also included presentational markup, such as ,  and  tags.
+and bgcolor (Deprecated.
+The W3C intended XHTML 1.0 to be identical to HTML 4.01 except where limitations of XML over the more complex SGML require workarounds.
+Inclusion of CSS defines the look and layout of content.
+# '''Change the XML empty-element syntax to an HTML style empty element''' ( to ).
+If document authors overlook the need to escape such characters, some browsers can be very forgiving and try to use context to guess their intent.
+HTML has no facilities for namespaces.
+After the HTML and HTML+ drafts expired in early 1994, the IETF created an HTML Working Group, which in 1995 completed "HTML 2.0", the first HTML specification intended to be treated as a standard against which future implementations should be based.
+However, the root element name continues to be "html" even in the XHTML-specified HTML.
+A markup for mathematical formulas similar to that in HTML was not standardized until 14 months later in MathML.
+The ability to "escape" characters in this way allows for the characters &lt; and &amp; (when written as &amp;lt; and &amp;amp;, respectively) to be interpreted as character data, rather than markup.
+Most elements take the language-related attribute dir to specify text direction, such as with "rtl" for right-to-left text in, for example, Arabic, Persian or Hebrew.
+It is easier to see how an aural user agent should interpret the latter two elements.
+The original purpose of the doctype was to enable parsing and validation of HTML documents by SGML tools based on the Document Type Definition (DTD).
+** compact attribute on dl, dir and menu elements
+''(The text between  and  describes the web page, and the text between  and  is the visible page content.
+:In December 2012, W3C designated HTML5 as a Candidate Recommendation.
+There are several types of markup elements used in HTML:
+A valid document adheres to the content specification for XHTML, which describes the document structure.
+However, no clear standards existed in the early years of the language.
+:* Frameset, in which mostly only frame related elements are allowed.
+attributes on hr element
+; April 24, 1998: HTML 4.0 was reissued with minor edits without incrementing the version number.
+'''HyperText Markup Language''' ('''HTML''') is the standard markup language for creating web pages and web applications.
+However, they are not equivalent to their presentational counterparts: it would be undesirable for a screen-reader to emphasize the name of a book, for instance, but on a screen such a name would be italicized.

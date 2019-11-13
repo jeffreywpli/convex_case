@@ -1,0 +1,200 @@
+Using metadata removal tools to "clean" or redact documents can mitigate the risks of unwittingly sending sensitive data.
+A common example of (guide) metacontent is the bibliographic classification, the subject, the Dewey Decimal class number.
+Microformat follows XHTML and HTML standards but is not a standard in itself.
+Metadata of telecommunication activities including Internet traffic is very widely collected by various national governmental organizations.
+Some metadata is created by the camera and some is input by the photographer and/or software after downloading to a computer.
+Metadata is defined as the data providing information about one or more aspects of the data; it is used to summarize basic information about data which can make tracking and working with specific data easier.
+Metadata with a high granularity allows for deeper, more detailed, and more structured information and enables greater levels of technical manipulation.
+When troubleshooting the ETL or query process, this sort of data becomes valuable.
+The purpose of a data warehouse is to house standardized, structured, consistent, integrated, correct, "cleaned" and timely data, extracted from various operational systems in an organization.
+Most collecting institutions and museums use a relational database to categorize cultural works and their images.
+Structural metadata commonality is also of paramount importance in data model development and in database design.
+Each option has advantages and disadvantages:
+In this approach, metadata can be united with the content when information is transferred, for example in Streaming media; or can be referenced (for example, as a web link) from the transferred content.
+To classify an object as, for example, Dewey class number 514 (Topology) (i.e.
+A text document's metadata may contain information about how long the document is, who the author is, when the document was written, and a short summary of the document.
+All of these elements can be thought of as "vocabulary".
+Enterprise search startup Swiftype recognizes metadata as a relevance signal that webmasters can implement for their website-specific search engine, even releasing their own extension, known as Meta Tags 2.
+In the 2000s, the law does not allow access to content of people's messages, phone calls or email and web-browsing history, but these provisions could be changed by the government.
+A lower level of granularity means that metadata can be created for considerably lower costs but will not provide as detailed information.
+The original set of 15 classic metadata terms, known as the Dublin Core Metadata Element Set are endorsed in the following standards documents:
+(see ISO/IEC 11179).
+There are two sources in which video metadata is derived: (1) operational gathered metadata, that is information about the content produced, such as the type of equipment, software, date, and location; (2) human-authored metadata, to improve search engine visibility,  discoverability, audience engagement, and providing advertising opportunities to video publishers.
+As well, collecting institutions and museums use Controlled Vocabularies to describe cultural objects and artworks in their collections.
+For example, a web page may include metadata specifying what software language the page is written in (e.g., HTML), what tools were used to create it, what subjects the page is about, and where to find more information about the subject.
+Libraries employ metadata in library catalogues, most commonly as part of an Integrated Library Management System.
+* '''Business metadata''' is content from the data warehouse described in more user-friendly terms.
+Getty Vocabularies and the Library of Congress Controlled Vocabularies are reputable within the museum community and are recommended by CCO standards.
+The major impact of granularity is not only on creation and capture, but moreover on maintenance costs.
+While the metadata application is manifold, covering a large variety of fields, there are specialized and well-accepted models to specify types of metadata.
+Programmatic access to metadata is possible using APIs such as JDBC, or SchemaCrawler.
+Relational database structures are also beneficial within collecting institutions and museums because they allow for archivists to make a clear distinction between cultural objects and their images; an unclear distinction could lead to confusing and inaccurate searches.
+Administrative metadata refers to the technical information, including file type, or when and how the file was created.
+Hypermapping frequently applies to layering of geographical and geological information overlays.
+Filters can be used to analyze a specific set of photographs and create selections on criteria like rating or capture time.
+Data warehouses are designed to manage and store the data.
+''Descriptive metadata'' is typically used for discovery and identification, as information to search and locate an object, such as title, author, subjects, keywords, publisher.
+The metadata for compressed and uncompressed digital music is often encoded in the ID3 tag.
+Metadata was traditionally used in the card catalogs of libraries until the 1980s, when libraries converted their catalog data to digital databases.
+Meta elements also specify page description, key words, authors of the document, and when the document was last modified.
+Describing the contents and context of data or data files increases its usefulness.
+Hence granularity must take into account the effort to create the metadata as well as the effort to maintain it.
+Metadata may be included in the page's header or in a separate file.
+Beginning in the 1980s and 1990s, many libraries replaced these paper file cards with computer databases.
+Some examples include:
+Metadata can be stored either ''internally'', in the same file or structure as the data (this is also called ''embedded metadata''), or ''externally'', in a separate file or field from the described data.
+Metadata is used in data virtualization servers which are enterprise infrastructure components, alongside database and application servers.
+See Meta element article for further discussion.
+Metadata can be stored and managed in a database, often called a metadata registry or metadata repository.
+On the other hand, these formats are rarely optimized for storage capacity, communication time, and processing speed.
+The design of structural metadata commonality using a data modeling method such as entity relationship model diagramming is important in any data warehouse development effort.
+More recent and specialized instances of library metadata include the establishment of digital libraries including e-print repositories and digital image libraries.
+The first two elements of the triple (class, attribute) are pieces of some structural metadata having a defined semantic.
+As different digital audio formats were developed, it was agreed that a standardized and specific location would be set aside within the digital files where this information could be stored.
+Data virtualization has emerged in the 2000s as the new software technology to complete the virtualization "stack" in the enterprise.
+Courts have looked at various questions involving metadata, including the discoverability of metadata by parties.
+The reliance of metatags in web searches was decreased in the late 1990s because of "keyword stuffing".
+This includes start time, end time, CPU seconds used, disk reads, disk writes, and rows processed.
+This method creates redundancy (precluding normalization), and does not allow managing all of a system's metadata in one place.
+They detail metadata on each piece of data in the data warehouse.
+A binary metadata format enables efficiency in all these respects, but requires special libraries to convert the binary information into human-readable content.
+Data are structured in a way to serve the reporting and analytic requirements.
+Most major broadcast sport events like FIFA World Cup or the Olympic Games use this metadata to distribute their video content to TV stations through keywords.
+In all cases where the metadata schemata exceed the planar depiction, some type of hypermapping is required to enable display and view of metadata according to chosen aspect and to serve special views.
+* Means of creation of the data
+Metadata can be created either by automated information processing or by manual work.
+Two distinct types of metadata exist: '''structural metadata''' and '''descriptive metadata'''.
+There is always an implied statement in any "classification" of some object.
+The degree to which the data or metadata is structured is referred to as its "granularity".
+The technical metadata includes the system metadata, which defines the data structures such as tables, fields, data types, indexes and partitions in the relational engine, as well as databases, dimensions, measures, and data mining models.
+Document metadata have proven particularly important in legal environments in which litigation has requested metadata, which can include sensitive information detrimental to a certain party in court.
+Most digital cameras write metadata about model number, shutter speed, etc., and some enable you to edit it; this functionality has been available on most Nikon DSLRs since the Nikon D3, on most new Canon cameras since the Canon EOS 7D, and on most Pentax DSLRs since the Pentax K-3.
+Australian medical research pioneered the definition of metadata for applications in health care.
+* Creator or author of the data
+This metadata is recorded with the images and are entered by metadata operators (''loggers'') who associate in live metadata available in ''metadata grids'' through software (such as Multicam(LSM) or IPDirector used during the FIFA World Cup or Olympic Games).
+* External storage allows collocating metadata for all the contents, for example in a database, for more efficient searching and management.
+This data is used for the purposes of traffic analysis and mass surveillance.
+Description and keywords in meta tags are commonly used to describe the Web page's content.
+CDs such as recordings of music will carry a layer of metadata about the recordings such as dates, artists, songwriters, genre, copyright owner, etc.
+It has been revised to align with the current edition of Part 3, ISO/IEC 11179-3:2013 which extends the MDR to support registration of Concept Systems.
+As soon as the metadata structures become outdated, so too is the access to the referred data.
+The HTML format used to define web pages allows for the inclusion of a variety of types of metadata, from basic descriptive text, dates and keywords to further advanced metadata schemes such as the Dublin Core, e-GMS, and AGLS standards.
+Descriptive metadata uses individual instances of application data or the data content.
+Many search engines are cautious about using metadata in their ranking algorithms due to exploitation of metadata and the practice of search engine optimization, SEO, to improve rankings.
+* ISO Standard 15836-2009
+Collection Management Systems (CMS) and Digital Asset Management tools can be local or shared systems.
+Ralph Kimball describes metadata as the DNA of the data warehouse as metadata defines the elements of the data warehouse and how they work together.
+* Dublin Core (Dublin Core Metadata Initiative – DCMI)
+This typically means which organization or institution collected the data, what type of data, which date(s) the data was collected, the rationale for the data collection, and the methodology used for the data collection.
+Digital Humanities scholars note many benefits of interoperability between museum databases and collections, while also acknowledging the difficulties achieving such interoperability.
+* Location on a computer network where the data was created
+* NISO Standard Z39.85.
+The extracted data are integrated in the data warehouse environment to provide an enterprise-wide perspective.
+ISO/IEC 11179 Part 3 also has provisions for describing compound structures that are derivations of other data elements, for example through calculations, collections of one or more data elements, or other forms of derived data.
+According to Ralph Kimball metadata can be divided into 2 similar categories: technical metadata and business metadata.
+This class of metadata is described more fully on the geospatial metadata article.
+This metadata can automatically improve the reader's experience and make it easier for users to find the web page online.
+For example, a digital image may include metadata that describes how large the picture is, the color depth, the image resolution, when the image was created, the shutter speed, and other data.
+Problems involving metadata in litigation in the United States are becoming widespread.
+They include, but are not limited to:
+* '''Technical metadata''' defines the objects and processes in a DW/BI system, as seen from a technical point of view.
+Emphasis is on the impact a metadata registry can have in a statistical agency.
+''Rights management metadata'' explains intellectual property rights, while ''preservation metadata'' contains information to preserve and save a resource.
+Until the 1980s, many library catalogues used 3x5 inch cards in file drawers to display a book's title, author, subject matter, and an abbreviated alpha-numeric string (call number) which indicated the physical location of the book within the library's shelves.
+Much work is being accomplished in the national and international standards communities, especially ANSI (American National Standards Institute) and ISO (International Organization for Standardization) to reach consensus on standardizing metadata and registries.
+* IPTC Core Schema for XMP
+Tools such as controlled vocabularies, taxonomies, thesauri, data dictionaries, and metadata registries can be used to apply further standardization to the metadata.
+Standards for metadata in digital libraries include Dublin Core, METS, MODS, DDI, DOI, URN, PREMIS schema, EML, and OAI-PMH.
+Information on the times, origins and destinations of phone calls, electronic messages, instant messages and other modes of telecommunication, as opposed to message content, is another form of metadata.
+Metadata may be written into a digital photo file that will identify who owns it, copyright and contact information, what brand or model of camera created the file, along with exposure information (shutter speed, f-stop, etc.)
+Process metadata is the fact measurement when building and using a DW/BI system.
+Elementary metadata captured by computers can include information about when an object was created, who created it, when it was last updated, file size, and file extension.
+''Structural metadata'' describes how the components of an object are organized.
+An essential component of a data warehouse/business intelligence system is the metadata and tools to manage and retrieve the metadata.
+Metadata can be used to name, describe, catalogue and indicate ownership or copyright for a digital audio file, and its presence makes it much easier to locate a specific audio file within a group, typically through use of a search engine that accesses the metadata.
+The Long Form asks questions that are used to create demographic data to find patterns of distribution.
+Computer programs specialized in adding or modifying this information are called tag editors.
+Metadata should be generated in a format commonly used by the most relevant science community, such as Darwin Core, Ecological Metadata Language, or Dublin Core.
+Metadata within web pages can also contain descriptions of page content, as well as key words linked to the content.
+Kimball adds a third category, ''process metadata''.
+Structural metadata commonality is also important to support data virtualization.
+Metadata schemata are often two dimensional, or planar, where each element is completely discrete from other elements but classified according to two orthogonal dimensions.
+''Structural metadata'' describes the structure of database objects such as tables, columns, keys and indexes.
+Leading libraries in the world give hints on their metadata standards strategies.
+* Internal storage means metadata always travels as part of the data they describe; thus, metadata is always available with the data, and can be manipulated locally.
+Metadata in these servers is saved as persistent repository and describe business objects in various enterprise systems and applications.
+The established institutional cataloging practices, goals and expertise of cultural documentarians and database structure also influence the information ascribed to cultural objects, and the ways in which cultural objects are categorized.
+Metadata (metacontent) syntax refers to the rules created to structure the fields or elements of metadata (metacontent).
+A principal purpose of metadata is to help users find relevant information and discover resources.
+taxonomic classification fields, location fields, keywords or copyright statement.
+The term "metadata" was coined in 1968 by Philip Bagley, in his book "Extension of Programming Language Concepts" where it is clear that he uses the term in the ISO 11179 "traditional" sense, which is "structural metadata" i.e.
+An object's materiality, function and purpose, as well as the size (e.g., measurements, such as height, width, weight), storage requirements (e.g., climate-controlled environment) and focus of the museum and collection, influence the descriptive depth of the data attributed to the object by cultural documentarians.
+Metavist, Mercury: Metadata Search System, Morpho).
+In today's society most professional video editing software has access to metadata.
+* An electronic file such as a digital image, digital photo, electronic document, program file, database table, etc.
+Additionally, museums often employ standardized commercial collection management software that prescribes and limits the ways in which archivists can describe artworks and cultural objects.
+The medical community yet did not approve the need to follow metadata standards despite research that supported these standards.
+One advocate of microformats, Tantek Çelik, characterized a problem with alternative approaches:
+Technical metadata defines the data model and the way it is displayed for the users, with the reports, schedules, distribution lists, and user security rights.
+Controlled Vocabularies are beneficial within databases because they provide a high level of consistency, improving resource retrieval.
+* Exif – Exchangeable image file format, Maintained by CIPA (Camera & Imaging Products Association) and published by JEITA (Japan Electronics and Information Technology Industries Association)
+and descriptive information, such as keywords about the photo, making the file or image searchable on a computer and/or the Internet.
+After digital audio formats such as digital audio files and CDs superseded analogue music formats such as cassette tapes in the 1990s and 2000s, digital audio files could be labelled with more information than could be contained in just the file name.
+* IPTC Information Interchange Model IIM (International Press Telecommunications Council),
+The combination of the metadata and master data elements results in a statement which is a metacontent statement i.e.
+While this standard describes itself originally as a "data element" registry, its purpose is to support describing and registering metadata content independently of any particular application, lending the descriptions to being discovered and reused by humans or computers in developing new applications, databases, or for analysis of data collected in accordance with the registered metadata content.
+Metadata should describe provenance of the data (where they originated, as well as any transformations the data underwent) and how to give credit for (cite) the data products.
+Metadata is an important tool in how data is stored in data warehouses.
+This has enabled audiences who might not have had access to cultural objects due to geographic or economic barriers to have access to them.
+Some organizations make a living out of collecting and selling this sort of data to companies - in that case the process metadata becomes the business metadata for the fact and dimension tables.
+Although not a standard, Microformat (also mentioned in the section metadata on the internet below) is a web-based approach to semantic markup which seeks to re-use existing HTML/XHTML tags to convey metadata.
+The process indexes pages then matches text strings using its complex algorithm; there is no intelligence or "inferencing" occurring, just the illusion thereof.
+These computer databases make it much easier and faster for users to do keyword searches.
+The business metadata tells you what data you have, where they come from, what they mean and what their relationship is to other data in the data warehouse.
+This metadata can be linked to the video media thanks to the video servers.
+In these fields the word ''metadata'' is defined as "data about data".
+The early stages of standardization in archiving, description and cataloging within the museum community began in the late 1990s with the development of standards such as Categories for the Description of Works of Art (CDWA), Spectrum, the Conceptual Reference Model (CIDOC), Cataloging Cultural Objects (CCO) and the CDWA Lite XML schema.
+Studies show that search engines respond to web pages with metadata implementations, and Google has an announcement on its site showing the meta tags that its search engine understands.
+Another form of older metadata collection is the use by US Census Bureau of what is known as the "Long Form."
+But if given the context that this database is a log of a book collection, those 13-digit numbers may now be identified as ISBNs - information that refers to the book, but is not itself the information within the book.
+This process partially (see data remanence) protects law firms from potentially damaging leaking of sensitive data through electronic discovery.
+International standards apply to metadata.
+Metatags were being largely misused to trick search engines into thinking some websites had more relevance in the search than they really did.
+While this is the generally accepted definition, various disciplines have adopted their own more specific explanation and uses of the term.
+It is often the host broadcaster who is in charge of organizing metadata through its ''International Broadcast Centre'' and its video servers.
+These links are often called "Metatags", which were used as the primary factor in determining order for a web search until the late 1990s.
+Metadata structures, including controlled vocabularies, reflect the ontologies of the systems from which they were created.
+Such data helps classify, aggregate, identify, and locate a particular book, DVD, magazine or any object a library might hold in its collection.
+* '''Process metadata''' is used to describe the results of various operations in the data warehouse.
+''Technical metadata'' corresponds to internal metadata, and ''business metadata'' corresponds to external metadata.
+In the 2000s, as more museums have adopted archival standards and created intricate databases, discussions about Linked Data between museum databases have come up in the museum, archival and library science communities.
+"Granularity" refers to how much detail is provided.
+The SQL standard specifies a uniform means to access the catalog, called the information schema, but not all databases implement it, even if they implement other aspects of the SQL standard.
+Data warehouses differ from  business intelligence (BI) systems, because BI systems are designed to use data to create reports and analyze the information, to provide strategic guidance to management.
+Web page metadata helps search engines and users to find the types of web pages they are looking for.
+Metadata also helps to organize electronic resources, provide digital identification, and support the archiving and preservation of resources.
+This standard also prescribes the details for a metadata registry, and for registering and administering the information objects within a Metadata Registry.
+A CD may include metadata providing information about the musicians, singers and songwriters whose work appears on the disc.
+On the down side, the division of the metadata from the data content, especially in standalone files that refer to their source metadata elsewhere, increases the opportunity for misalignments between the two, as changes to either may not be reflected in the other.
+"data about the containers of data"; rather than the alternate sense "content about individual instances of data content" or metacontent, the type of data usually found in library catalogues.
+Photographic Metadata Standards are governed by organizations that develop the following standards.
+However, without context and a point of reference, it might be impossible to identify metadata just by looking at it.
+Metadata (metacontent) or, more correctly, the vocabularies used to assemble metadata (metacontent) statements, is typically structured according to a standardized concept using a well-defined metadata scheme, including: metadata standards and metadata models.
+In database terminology, this set of metadata is referred to as the catalog.
+This new law means that both security and policing agencies will be allowed to access up to two years of an individual's metadata, supposedly to make it easier to stop any terrorist attacks and serious crimes from happening.
+Common editors such as TagLib support MP3, Ogg Vorbis, FLAC, MPC, Speex, WavPack TrueAudio, WAV, AIFF, MP4, and ASF file formats.
+For example, Dublin Core may be expressed in plain text, HTML, XML, and RDF.
+For example: by itself, a database containing several numbers, all 13 digits long could be the results of calculations or a list of numbers to plug into an equation - without any other context, the numbers themselves can be perceived as the data.
+Finally, ''administrative metadata'' gives information to help manage the source.
+Redundancy can be avoided by normalizing the metadata's organization.
+Relational databases and metadata work to document and describe the complex relationships amongst cultural objects and multi-faceted works of art, as well as between objects and places, people and artistic movements.
+Descriptive metadata is most commonly used in museum contexts for object identification and resource recovery purposes.
+Technical metadata is primarily definitional, while business metadata and process metadata is primarily descriptive.
+Avid's MetaSync and Adobe's Bridge are two prime examples of this.
+* XMP – Extensible Metadata Platform (an ISO standard)
+Web pages often include metadata in the form of meta tags.
+Bulk collection of this call detail record metadata by intelligence agencies has proven controversial after disclosures by Edward Snowden Intelligence agencies such as the NSA are keeping online metadata of millions of internet user for up to a year, regardless of whether or not they are persons of interest to the agency.
+The purpose is to direct patrons to the physical or electronic location of items or areas they seek as well as to provide a description of the item/s in question.
+Scholars and professionals in the field note that the "quickly evolving landscape of standards and technologies" create challenges for cultural documentarians, specifically non-technically trained professionals.
+Since then the fields of information management, information science, information technology, librarianship, and GIS have widely adopted the term.
+The categories sometimes overlap.

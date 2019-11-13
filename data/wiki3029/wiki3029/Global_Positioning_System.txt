@@ -1,0 +1,200 @@
+Such an arrangement was shown to improve reliability and availability of the system, relative to a uniform system, when multiple satellites fail.
+More advanced navigation systems use additional sensors like a compass or an inertial navigation system to complement GPS.
+We do not intend, nor will we permit, the terrestrial component to become a stand-alone service."
+Least squares can estimate an overdetermined system.
+GPS developer Roger L. Easton received the National Medal of Technology on February 13, 2006.
+The IAF Honors and Awards Committee recognized the uniqueness of the GPS program and the exemplary role it has played in building international collaboration for the benefit of humanity.
+The P&nbsp;code can be encrypted as a so-called P(Y)&nbsp;code that is only available to military equipment with a proper decryption key.
+In typical GPS operation as a navigator, four or more satellites must be visible to obtain an accurate result.
+This approximately eliminates satellite clock errors.
+When the new measurements are collected, the receiver uses a weighting scheme to combine the new measurements with the tracker prediction.
+The orbital period is one-half a sidereal day, i.e., 11 hours and 58 minutes so that the satellites pass over the same locations or almost the same locations every day.
+was inducted into the U.S. Air Force Space and Missile Pioneers Hall of Fame at Lackland A.F.B., San Antonio, Texas, March 2, 2010 for his role in space technology development and the engineering design concept of GPS conducted as part of Project 621B.
+Receivers can interface with other devices using methods including a serial connection, USB, or Bluetooth.
+The solution space ''x, y, z, b'' can be seen as a four-dimensional geometric space.
+* Enables new modernized signals (L1C, L2C, and L5) and has M-code capability, which the legacy system is unable to do.
+This changed with President Bill Clinton signing a policy directive in 1996 to turn off Selective Availability in May 2000 to provide the same precision to civilians that was afforded to the military.
+In 1960, the Air Force proposed a radio-navigation system called MOSAIC (MObile System for Accurate ICBM Control) that was essentially a 3-D&nbsp;LORAN.
+The GPS project was launched in the United States in 1973 to overcome the limitations of previous navigation systems, integrating ideas from several predecessors, including a number of classified engineering design studies from the 1960s.
+A growing trade in various components exists, including GPS units from other countries.
+If  is a function of the three integer arguments, ''i, j,'' and ''k'' then it is a valid argument for the functions, :, with the values defined as
+CPGPS working to within 1% of perfect transition reduces this error to  of ambiguity.
+In December 2010, GPS receiver manufacturers expressed concerns to the FCC that LightSquared's signal would interfere with GPS receiver devices although the FCC's policy considerations leading up to the January 2011 order did not pertain to any proposed changes to the maximum number of ground-based LightSquared stations or the maximum power at which these stations could operate.
+Likewise, the satellite locations are known with great precision.
+If one variable is already known, a receiver can determine its position using only three satellites.
+However, the cost and complexity of the user equipment would increase significantly.
+In a simplified idealization in which the ranges are synchronized, these true ranges represent the radii of spheres, each centered on one of the transmitting satellites.
+This authorization was reviewed and approved by the U.S. Interdepartment Radio Advisory Committee, which includes the U.S. Department of Agriculture, U.S. Air Force, U.S. Army, U.S. Coast Guard, Federal Aviation Administration, National Aeronautics and Space Administration, Interior, and U.S. Department of Transportation.
+One usage is the enforcement of nuclear test ban treaties.
+In addition to GPS, other systems are in use or under development.
+Also we define three functions, :, which return differences between receivers, satellites, and time points, respectively.
+It is sometimes incorrectly said that the user location is at the intersection of three spheres.
+* Built on a flexible architecture that can rapidly adapt to the changing needs of today's and future GPS users allowing immediate access to GPS data and constellation status through secure, accurate and reliable information.
+The lack of corrections means that GPS time remains at a constant offset with International Atomic Time (TAI) (TAI − GPS = 19&nbsp;seconds).
+These signals are transmitted on two separate carrier frequencies that are common to all satellites in the network.
+As it detects each satellite's signal, it identifies it by its distinct C/A&nbsp;code pattern.
+To build public support of efforts to continue the 2004 FCC authorization of LightSquared's ancillary terrestrial component vs. a simple ground-based LTE service in the Mobile Satellite Service band, GPS receiver manufacturer Trimble Navigation Ltd. formed the "Coalition To Save Our GPS."
+It is also the reason for the ultra secrecy at that time.
+The message's transit time is , where ''si'' is the satellite time.
+GPS is owned and operated by the United States Government as a national resource.
+The additional satellites improve the precision of GPS receiver calculations by providing redundant measurements.
+However, most receivers lose accuracy in the interpretation of the signals and are only accurate to 100 nanoseconds.
+Each GPS satellite continuously broadcasts a ''navigation message'' on L1 C/A and L2 P/Y frequencies at a rate of 50 bits per second (see bitrate).
+The spacecraft broadcast ionospheric model parameters, but some errors remain.
+This filing (SAT-MOD-20101118-00239) amounted to a request to run several orders of magnitude more power in the same frequency band for terrestrial base stations, essentially repurposing what was supposed to be a "quiet neighborhood" for signals from space as the equivalent of a cellular network.
+The problems could also affect the Federal Aviation Administration upgrade to the air traffic control system, United States Defense Department guidance, and local emergency services including 911.
+Assuming the message traveled at the speed of light, ''c'', the distance traveled is .
+Since 1996, the FCC has authorized licensed use of the spectrum neighboring the GPS band of 1525 to 1559&nbsp;MHz to the Virginia company LightSquared.
+In that case each of the equations describes a spherical cone, with the cusp located at the satellite, and the base a sphere around the satellite.
+On February 14, 2012, the U.S. Federal Communications Commission (FCC) moved to bar LightSquared's planned national broadband network after being informed by the National Telecommunications and Information Administration (NTIA), the federal agency that coordinates spectrum uses for the military and other federal government entities, that "there is no practical way to mitigate potential interference at this time".
+This team combines researchers from the Naval Research Laboratory, the USAF, the Aerospace Corporation, Rockwell International Corporation, and IBM Federal Systems Company.
+Modernization of the satellite system has been an ongoing initiative by the U.S. Department of Defense through a series of satellite acquisitions to meet the growing needs of the military, civilians, and the commercial market.
+They can be solved by algebraic or numerical methods.
+The new capabilities provided by OCX will be the cornerstone for revolutionizing GPS's mission capabilities, and enabling Air Force Space Command to greatly enhance GPS operational services to U.S. combat forces, civil partners and myriad domestic and international users.
+It is accurate enough for real-time tracking of the very slow motions of tectonic plates, typically  per year.
+However, this technique is slow, so it is currently available only on specialized surveying equipment.
+This corrects the error that arises because the pulse transition of the PRN is not instantaneous, and thus the correlation (satellite–receiver sequence matching) operation is imperfect.
+On February 14, 2012, the FCC initiated proceedings to vacate LightSquared's Conditional Waiver Order based on the NTIA's conclusion that there was currently no practical way to mitigate potential GPS interference.
+The description above is representative of a receiver start-up situation.
+Limitations of these systems drove the need for a more universal navigation solution with greater accuracy.
+The Operation Control Segment (OCS) currently serves as the control segment of record.
+The user segment is composed of hundreds of thousands of U.S. and allied military users of the secure GPS Precise Positioning Service, and tens of millions of civil, commercial and scientific users of the Standard Positioning Service.
+Two different encodings are used: a public encoding that enables lower resolution navigation, and an encrypted encoding used by the U.S. military.
+The SECOR system included three ground-based transmitters from known locations that would send signals to the satellite transponder in orbit.
+Precise navigation would enable United States ballistic missile submarines to get an accurate fix of their positions before they launched their SLBMs.
+The first satellite navigation system, TRANSIT, used by the United States Navy, was first successfully tested in 1960.
+GPS receivers may include an input for differential corrections, using the RTCM SC-104 format.
+Such a reasonable estimate can be key to successful multidimensional root finding.
+In the 1970s, the ground-based OMEGA navigation system, based on phase comparison of signal transmission from pairs of stations, became the first worldwide radio navigation system.
+The L5 frequency band at 1.17645&nbsp;GHz was added in the process of GPS modernization.
+The updates are created by a Kalman filter that uses inputs from the ground monitoring stations, space weather information, and various other inputs.
+The GPS OCX program has missed major milestones and is pushing the GPS IIIA launch beyond April 2016.
+In this approach, determination of range signal can be resolved to a precision of less than .
+Announcements from Vice President Al Gore and the White House in 1998 initiated these changes.
+For military operations, the ground track repeat can be used to ensure good coverage in combat zones.
+The solution for the position of the receiver is then at the intersection of the surfaces of three of these spheres.
+The directive was proposed by the U.S. Secretary of Defense, William Perry, because of the widespread growth of differential GPS services to improve civilian accuracy and eliminate the U.S. military advantage.
+When there are two (usually the case), only one is a near-Earth sensible solution.
+GPS can be thought of as an evolution of the SECOR system where the ground-based transmitters have been migrated into orbit.
+* OCX will have the ability to control and manage GPS legacy satellites as well as the next generation of GPS III satellites, while enabling the full array of military signals.
+To increase the survivability of ICBMs, there was a proposal to use mobile launch platforms (such as Russian SS-24 and SS-25) and so the need to fix the launch position had similarity to the SLBM situation.
+The GPS equations can be solved by numerical and analytical methods.
+Error sources include signal arrival time measurements, numerical calculations, atmospheric effects (ionospheric/tropospheric delays), ephemeris and clock data, multipath signals, and natural and artificial interference.
+The '''Global Positioning System''' ('''GPS'''), also known as '''Navstar''', is a global navigation satellite system (GNSS) that provides location and time information in all weather conditions, anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.
+The satellite carrier total phase can be measured with ambiguity as to the number of cycles.
+Receivers with internal DGPS receivers can outperform those using external RTCM data.
+For example, a ship or aircraft may have known elevation.
+This frequency falls into an internationally protected range for aeronautical navigation, promising little or no interference under all circumstances.
+The satellite network uses a CDMA spread-spectrum technique where the low-bitrate message data is encoded with a high-rate pseudo-random (PRN) sequence that is different for each satellite.
+In general, GPS receivers are composed of an antenna, tuned to the frequencies transmitted by the satellites, receiver-processors, and a highly stable clock (often a crystal oscillator).
+However, as regulated under the FCC's Part 15 rules, GPS receivers are not warranted protection from signals outside GPS-allocated spectrum.
+Although LightSquared had applied for a license to operate in the 1525 to 1559 band as early as 2003 and it was put out for public comment, the FCC asked LightSquared to form a study group with the GPS community to test GPS receivers and identify issue that might arise due to the larger signal power from the LightSquared terrestrial network.
+Each complete message takes 750 seconds (12 1/2 minutes) to complete.
+Triple difference results can be used to estimate unknown variables.
+Triple differencing subtracts the receiver difference from time&nbsp;1 from that of time&nbsp;2.
+is a valid argument with values defined as
+The Soviet Union launched the first man-made satellite, Sputnik 1, in 1957.
+The GPS-UTC offset field can accommodate 255 leap seconds (eight bits).
+It was at this meeting that the real synthesis that became GPS was created.
+We do not intend, nor will we permit, the terrestrial component to become a stand-alone service."
+It used a constellation of five satellites and could provide a navigational fix approximately once per hour.
+The first subframe of each frame encodes the week number and the time within the week, as well as the data about the health of the satellite.
+Some GPS receivers may use additional clues or assumptions such as reusing the last known altitude, dead reckoning, inertial navigation, or including information from the vehicle computer, to give a (possibly degraded) position when fewer than four satellites are visible.
+This is typically in the form of an RS-232 port at 4,800&nbsp;bit/s speed.
+As of early 2015, high-quality, FAA grade, Standard Positioning Service (SPS) GPS receivers provide horizontal accuracy of better than 3.5 meters, although many factors such as receiver quality and atmospheric issues can affect this accuracy.
+To determine the current Gregorian date, a GPS receiver must be provided with the approximate date (to within 3,584&nbsp;days) to correctly translate the GPS date signal.
+Additionally, data for a few weeks following is uploaded in case of transmission updates that delay data upload.
+Roger L. Easton is widely credited as the primary inventor of GPS.
+However, GPS receiver manufacturers have argued that LightSquared's licensed spectrum of 1525 to 1559&nbsp;MHz was never envisioned as being used for high-speed wireless broadband based on the 2003 and 2004 FCC ATC rulings making clear that the Ancillary Tower Component (ATC) would be, in fact, ancillary to the primary satellite component.
+OCS will continue to be the ground control system of record until the new segment, Next Generation GPS Operation Control System (OCX), is fully developed and functional.
+The receiver uses messages received from satellites to determine the satellite positions and time sent.
+A conditional waiver has recently (2011-01-26) been granted to LightSquared to operate a terrestrial broadband service near the L1 band.
+The almanac is updated typically every 24&nbsp;hours.
+Most receivers have a track algorithm, sometimes called a ''tracker'', that combines sets of satellite measurements collected at different times—in effect, taking advantage of the fact that successive receiver positions are usually close to each other.
+This is done by assigning each satellite a unique binary sequence known as a Gold code.
+The GPS design originally called for 24&nbsp;SVs, eight each in three approximately circular orbits, but this was modified to six orbital planes with four satellites each.
+(2015) states that "Bancroft's (1985) solution is a very early, if not the first, closed-form solution."
+The GPS calculated positions would quickly drift into error, accumulating to 10 kilometers per day.
+As of July 2015, GPS time is 17 seconds ahead of UTC because of the leap second added to UTC on June 30, 2015.
+These three functions are defined below.
+The first Block IIF satellite that provides this signal was launched in 2010.
+GPS time was set to match UTC in 1980, but has since diverged.
+Each TDOA corresponds to a hyperboloid of revolution (see Multilateration).
+While most clocks derive their time from Coordinated Universal Time (UTC), the atomic clocks on the satellites are set to GPS time (GPST; see the page of United States Naval Observatory).
+Two American physicists, William Guier and George Weiffenbach, at Johns Hopkins's Applied Physics Laboratory (APL), decided to monitor Sputnik's radio transmissions.
+These limits only apply to units or components exported from the USA.
+The Russian Global Navigation Satellite System (GLONASS) was developed contemporaneously with GPS, but suffered from incomplete coverage of the globe until the mid-2000s.
+All users will then be able to perform dual-frequency measurements and directly compute ionospheric delay errors.
+For example, if the position of receiver&nbsp;1 is known but the position of receiver&nbsp;2 unknown, it may be possible to estimate the position of receiver&nbsp;2 using numerical root finding and least squares.
+Aviation Week magazine reports that the latest testing (June 2011) confirms "significant jamming" of GPS by LightSquared's system.
+Data is actually sent at a much lower rate, which limits the accuracy of the signal sent using RTCM.
+On September 14, 2011, the U.S. Air Force announced the completion of GPS OCX Preliminary Design Review and confirmed that the OCX program is ready for the next phase of development.
+Another important predecessor to GPS came from a different branch of the United States military.
+The next spring, Frank McClure, the deputy director of the APL, asked Guier and Weiffenbach to investigate the inverse problem&nbsp;— pinpointing the user's location, given that of the satellite.
+In those 2003 rules, the FCC stated "As a preliminary matter, terrestrial Commercial Mobile Radio Service (“CMRS”) and MSS ATC are expected to have different prices, coverage, product acceptance and distribution; therefore, the two services appear, at best, to be imperfect substitutes for one another that would be operating in predominately different market segments... MSS ATC is unlikely to compete directly with terrestrial CMRS for the same customer base...".
+Ten "Block I" prototype satellites were launched between 1978 and 1985 (an additional unit was destroyed in a launch failure).
+The relativistic time effect of the GPS clocks running faster than the clocks on earth was corrected for in the design of GPS.
+The flight paths of the satellites are tracked by dedicated U.S. Air Force monitoring stations in Hawaii, Kwajalein Atoll, Ascension Island, Diego Garcia, Colorado Springs, Colorado and Cape Canaveral, along with shared NGA monitor stations operated in England, Argentina, Ecuador, Bahrain, Australia and Washington DC.
+The control segment is composed of a master control station (MCS), an alternate master control station, and a host of dedicated and shared ground antennas and monitor stations.
+or in terms of ''pseudoranges'', , as
+Also if  are valid arguments for the three functions and ''a'' and ''b'' are constants then
+This triple difference is:
+Processing of the navigation message enables the determination of the time of transmission and the satellite position at this time.
+Some GPS applications use this time for display, or, other than for the basic position calculations, do not use it at all.
+This is why GPS operates next to the Mobile Satellite Service band, and also why the Mobile Satellite Service band operates next to GPS.
+After the satellite maneuver, engineers track the new orbit from the ground, upload the new ephemeris, and mark the satellite healthy again.
+The satellites carry very stable atomic clocks that are synchronized with one another and to ground clocks.
+In 2004, the FCC clarified that the ground-based towers would be ancillary, noting that "We will authorize MSS ATC subject to conditions that ensure that the added terrestrial component remains ancillary to the principal MSS offering.
+In 2002, the U.S. GPS Industry Council came to an out-of-band-emissions (OOBE) agreement with LightSquared to prevent transmissions from LightSquared's ground-based stations from emitting transmissions into the neighboring GPS band of 1559 to 1610&nbsp;MHz.
+* Bradford Parkinson, professor of aeronautics and astronautics at Stanford University, conceived the present satellite-based system in the early 1960s and developed it in conjunction with the U.S. Air Force.
+Parkinson served twenty-one years in the Air Force, from 1957 to 1978, and retired with the rank of colonel.
+Each 30-second frame begins precisely on the minute or half-minute as indicated by the atomic clock on each satellite.
+All satellites broadcast at the same frequencies, encoding signals using unique code division multiple access (CDMA) so receivers can distinguish individual satellites from each other.
+Let  denote the phase of the carrier of satellite ''j'' measured by receiver ''i'' at time .
+The tracking information is sent to the Air Force Space Command MCS at Schriever Air Force Base  ESE of Colorado Springs, which is operated by the 2nd Space Operations Squadron (2&nbsp;SOPS) of the U.S. Air Force.
+The Director of the APL gave them access to their UNIVAC to do the heavy calculations required.
+A receiver is often described by its number of channels: this signifies how many satellites it can monitor simultaneously.
+After that the National Space-Based Positioning, Navigation and Timing Executive Committee was established by presidential directive in 2004 to advise and coordinate federal departments and agencies on matters concerning the GPS and related systems.
+Subframes 4 and 5 are subcommutated 25 times each, so that a complete data message requires the transmission of 25 full frames.
+GPS makes corrections for receiver clock errors and other effects, but some residual errors remain uncorrected.
+The height may then be further converted to height relative to the geoid (e.g., EGM96) (essentially, mean sea level).
+The GPS OCX program represents a critical part of GPS modernization and provides significant information assurance improvements over the current GPS OCS program.
+There are significant performance benefits to the user carrying a clock synchronized with the satellites.
+In July 2010, the FCC stated that it expected LightSquared to use its authority to offer an integrated satellite-terrestrial service to "provide mobile broadband services similar to those provided by terrestrial mobile providers and enhance competition in the mobile broadband sector."
+GPS satellites continuously transmit their current time and position.
+Each carrier component is bi-phase shift key (BPSK) modulated by a separate bit train.
+Artificial errors may result from jamming devices and threaten ships and aircraft or from intentional signal degradation through selective availability, which limited accuracy to ~6–12 m, but has been switched off since May 1, 2000.
+Although this protocol is officially defined by the National Marine Electronics Association (NMEA), references to this protocol have been compiled from public records, allowing open source tools like gpsd to read the protocol without violating intellectual property laws.
+The GPS program cost at this point, not including the cost of the user equipment, but including the costs of the satellite launches, has been estimated at about USD$5 billion (then-year dollars).
+If this were part of the GPS system concept so that all users needed to carry a synchronized clock, then a smaller number of satellites could be deployed.
+The system uses two distinct CDMA encoding types: the coarse/acquisition (C/A) code, which is accessible by the general public, and the precise (P(Y)) code, which is encrypted so that only the U.S. military and other NATO nations who have been given access to the encryption code can access it.
+The receiver must be aware of the PRN codes for each satellite to reconstruct the actual message data.
+The second and the third subframes contain the ''ephemeris'' – the precise orbit for the satellite.
+The rule refers to operation at both the target altitude and speed, but some receivers stop operating even when stationary.
+Foremost is that only three satellites are needed to compute a position solution.
+Advances in technology and new demands on the existing system have now led to efforts to modernize the GPS and implement the next generation of GPS Block IIIA satellites and Next Generation Operational Control System (OCX).
+If the almanac information has previously been acquired, the receiver picks the satellites to listen for by their PRNs, unique numbers in the range&nbsp;1 through 32.
+Because all of the satellite signals are modulated onto the same L1 carrier frequency, the signals must be separated after demodulation.
+Accuracy within 1% of wavelength in detecting the leading edge reduces this component of pseudorange error to as little as 2&nbsp;millimeters.
+The difference is that GPS time is not corrected to match the rotation of the Earth, so it does not contain leap seconds or other corrections that are periodically added to UTC.
+The result of this objective is that the four satellites are not evenly spaced (90 degrees) apart within each orbit.
+The Navy and Air Force were developing their own technologies in parallel to solve what was essentially the same problem.
+In the future, additional civilian codes are expected to be transmitted on the L2 and L5&nbsp;frequencies (see GPS modernization).
+GPS satellites broadcast signals from space, and each GPS receiver uses these signals to calculate its three-dimensional location (latitude, longitude, and altitude) and the current time.
+With each combination of satellites, GDOP quantities can be calculated based on the relative sky directions of the satellites used.
+The largest remaining error is usually the unpredictable delay through the ionosphere.
+To obtain a lock, it is necessary that there be an unobstructed line of sight from the receiver to the satellite.
+Two GPS developers received the National Academy of Engineering Charles Stark Draper Prize for 2003:
+As indicated in the manuals of GPS-enabled devices sold in the United States, as a Part 15 device, it "must accept any interference received, including interference that may cause undesired operation."
+For the last 30 years, GPS receivers have operated next to the Mobile Satellite Service band, and have discriminated against reception of mobile satellite services, such as Inmarsat, without any issue.
+Ionospheric delay is a well-defined function of frequency and the total electron content (TEC) along the path, so measuring the arrival time difference between the frequencies determines TEC and thus the precise ionospheric delay at each frequency.
+Another method that is used in surveying applications is carrier phase tracking.
+Atmospheric delay and satellite ephemeris errors have been significantly reduced.
+This deterrent effect is why GPS was funded.
+In general terms, the angular difference between satellites in each orbit is 30, 105, 120, and 105 degrees apart, which sum to 360 degrees.
+Existence and uniqueness of GPS solutions are discussed by Abell and Chaffee.
+This is done by resolving the number of cycles that the signal is transmitted and received by the receiver by using a combination of differential GPS (DGPS) correction data, transmitting GPS signal phase information and ambiguity resolution techniques via statistical tests—possibly with processing in real-time (real-time kinematic positioning, RTK).
+* Supports higher volume near real-time command and control capabilities and abilities.
+New GPS units may not show the correct UTC time until after receiving the UTC offset message.
+The U.S. Air Force develops, maintains, and operates the space and control segments.
+In 1964, the United States Army orbited its first Sequential Collation of Range (SECOR) satellite used for geodetic surveying.

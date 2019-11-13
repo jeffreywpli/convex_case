@@ -1,0 +1,200 @@
+For this reason, international cycling organizations often ban disc wheels or limit their use to the rear wheel of a bicycle.
+When a nipple turns, it twists the spoke at first, until there is enough torsional stress in the spoke to overcome the friction in the threads between the spoke and the nipple.
+* an old French tire designation that was based on the approximate outer diameter of the inflated tire in millimeters: '''700×35 C'''.
+An advantage of this system is that the inner tube can be easily accessed in the case of a leak to be patched or replaced.
+Rear axles typically have diameters of 10 or 12&nbsp;mm.
+The common "26-inch" wheel used on mountain bikes and beach cruisers is an American size using a 559&nbsp;mm rim, traditionally with hooked edges.
+A double eyelet is a cup that is riveted into both walls of a double-walled rim.
+Increasingly common are tubeless tires conforming to the UST (Universal System Tubeless) standard pioneered by French wheel manufacturer Mavic in conjunction with tire manufacturers Hutchinson and Michelin.
+More importantly, the rims must be heavier when there are fewer spokes, as the unsupported span between spokes is greater.
+A compromise that reduces weight and improves cross wind performance has a small number (three or four) tension-compression spokes molded integral to the rim – also typically carbon fiber.
+Apart from tubeless wheels, which do not need them, tubed bicycle wheels require rim tapes or strips, a flexible but tough liner strip (usually rubber or woven nylon or similar material) attached to the inner circumference of the wheel to cover the ends of the nipples.
+Mountain bike wheels are described by the approximate outer diameter of the wheel plus a wide, ~2 inch tire.
+The ISO 5775-2 standard defines designations for bicycle rims.
+Nominally 20&nbsp;x&nbsp;1-1/8" or 20&nbsp;x&nbsp;1-3/8", with rim diameter 451&nbsp;mm.
+The optimum tension depends on the spoke length and spoke gauge (diameter).
+Some wheels (like the Full Speed Ahead RD-800) have an additional flange in the center of the hub.
+This is not always the case: for example if the hub used has harder, steel flanges like those on a vintage bicycle.
+Other wheels (like those from Velomax/Easton) have a threaded hub shell that the spokes thread into.
+The typical 26-inch rim has a diameter of 559&nbsp;mm (22.0") and an outside tire diameter of about .
+In practice, most tires (and inner tubes) sold today carry apart from the modern ISO 5775-1 designation also some historic size markings, for which no officially maintained definition currently exists, but which are still widely used:
+These are called ''bladed spokes''.
+Conventional metallic bicycle wheels for single rider bikes commonly have 28, 32 or 36 spokes, while wheels on tandems have as many as 40 or 48 spokes to support the weight of an additional rider.
+* '''For rims''' the ISO designation lists the rim diameter (where the tire sits) and the rim's inner width, both in millimeters and separated by a cross, along with a letter code for the rim type (e.g., "C" = Crochet-type): '''622x19C'''
+If a wheel is ridden with this torsional stress left in the spokes, they may untwist and cause the wheel to become out of true.
+* Thru axle - a removable axle with a threaded end that is inserted through a hole in one fork leg, through the hub, and then screwed into the other fork leg.
+A separate airtight inner tube enclosed by the rim supports the tire carcass and maintains the bead lock.
+Some hubs use serviceable "cup and cone" bearings, whereas some use pre-assembled replaceable "cartridge" bearings.
+Road Tubeless rims, like UST rims, have no spoke holes protruding to the air chamber of the rim.
+One end of each spoke is threaded for a specialized nut, called a nipple, which is used to connect the spoke to the rim and adjust the tension in the spoke.
+Conventionally laced 36- or 32-spoke wheels are most commonly built as a cross-3 or a cross-2, however other cross-numbers are also possible.
+The common practice for minimizing wind-up in round spokes is to turn the nipple past the desired orientation by about a quarter turn, and then turn it back that quarter turn.
+Touring, race, and cyclo-cross bicycles may have vastly different design goals for their wheels.
+Semi-aerodynamic and aerodynamic wheelsets are characterized by greater '''rim depth''', which is the radial distance between the outermost and the innermost surfaces of the rim; a triangular or pyramidal cross-section; and by fewer numbers of spokes, or no spokes at all—with blades molded of composite material supporting the rim.
+Aerodynamic performance and low weight are beneficial for road bicycles, while for cyclo-cross strength gains importance, and for touring bicycles, strength becomes more important again.
+The spokes are also often flattened in the rotational direction to reduce wind drag.
+“29-inch wheels”, which also conform to the popular 700C (622&nbsp;mm diameter clincher) wheel standard are becoming more popular for not only cyclocross bikes but also cross-country mountain bikes.
+A commonly recommended practice is to find the worst spot on the wheel, and bring it slightly more into true before moving on to the next worst spot on the wheel.
+* '''For wired-edge tires''' the ISO designation lists the width of the inflated tire and the diameter with which the tire sits on the rim, both in millimeters and separated by a hyphen: '''37-622'''
+"Rolling resistance increases in near proportion as wheel diameter is decreased for a given constant inflation pressure."
+Hub shells can be one-piece with press-in cartridge or free bearings or, in the case of older designs, the flanges may be affixed to a separate hub shell.
+Conventional wheels with spokes distributed evenly across the circumference of the rim are considered more durable and forgiving to poor maintenance.
+The double wall can make the rim stiffer.
+Freeride and downhill are available with 150&nbsp;mm spacing.
+Otherwise, the nipple ends wear a hole in the tube causing a flat tire.
+It rolls more easily than smaller diameter tires.
+It is also possible to true a wheel while it is mounted on the bike: brake pads or some other fixed point may be used as a reference mark, however this is less accurate.
+These tires have a wire or aramid (Kevlar or Twaron) fiber bead that interlocks with flanges in the rim.
+This type of hub can be easily disassembled for lubrication, but it must be adjusted correctly; incorrect adjustment can lead to premature wear or failure.
+The manufacturing tolerances, as well as seal quality, can be significantly superior to loose ball bearings.
+Most bicycle rims are "clincher" rims for use with '''clincher''' tires.
+Each flange has holes or slots to which spokes are affixed.
+If the inner part of the rim where the inner tube fits has spoke holes, they must be covered by a rim tape or strip, usually rubber, cloth, or tough plastic, to protect the inner tube.
+This is normally at the rim end.
+However, international triathlon federations were (and are still) less restrictive and is what led to the wheels' initial usage growth in popularity in the 1980s.
+The 28 x 2.00, ISO 50-622 onwards, as a marketing term for wide tires for mountain bikes, are known as 29 inch for their larger wheel diameter
+Traditional clincher rims were straight-sided.
+This is easiest to see with bladed or ovalized spokes, but occurs in round spokes as well.
+Original bicycle wheels used wooden spokes that could be loaded only in compression, modern bicycle wheels almost exclusively use spokes that can only be loaded in tension.
+The cross-section of a rim can have a wide range of geometry, each optimized for particular performance goals.
+Most adult mountain bikes use 26 inch wheels.
+'''Triple-wall''' rims have additional reinforcement inside the box-section.
+These rims are slightly larger in diameter than 700C wheels and are non-compatible with bicycle frames and tires designed for the 700C standard.
+While braking, leading spokes tighten and trailing spokes are relieved.
+The side of the wheel with less dish has slightly shorter but significantly higher-tensioned spokes than the side with more dish.
+Spokes are usually circular in cross-section, but high-performance wheels may use spokes of flat or oval cross-section, also known as bladed, to reduce aerodynamic drag.
+The bearings allow the hub shell (and the rest of the wheel parts) to rotate freely about the axle.
+These are intended for racing by lightweight riders, and sometimes referred to as "skinnies".
+''Double-butted'' spokes have reduced thickness over the center section and are lighter, more elastic, and more aerodynamic than spokes of uniform thickness.
+Another common method for making rough estimates of spoke tension involves plucking the spokes and listening to the audible tone of the vibrating spoke.
+These improvements have been made possible primarily through improved aluminium alloys for the rims.
+A full disc is usually heavier than traditional spoke wheels, and can be difficult to handle when ridden with a cross wind.
+Stainless steel spokes are favored by most manufacturers and riders for their durability, stiffness, damage tolerance, and ease of maintenance.
+The hub shell is the part of the hub to which the spokes (or disc structure) attach.
+Asymmetrical flange diameters, tried to mitigate the adverse effects of asymmetrical spacing and dish necessary on rear wheels with many sprockets, have also been with modest benefits.
+(found on higher end BMX hubs and some mountain bike hubs)
+Spoke tensiometers are tools which measure the tension in a spoke.
+650B is being promoted as a 'best of both worlds' size for mountain biking.
+Wheel builders also employ other exotic spoke lacing patterns (such as "crow's foot", which is essentially a mix of radial and tangential lacing) as well as innovative hub geometries.
+Aluminum rims are still the most common, but carbon fiber is also becoming popular.
+As with any structure, however, practical usefulness is not always agreed, and often nonstandard wheel designs may be opted for solely aesthetic reasons.
+Size 650B is 584&nbsp;mm and 650A is 590&nbsp;mm.
+Aluminium nipples save weight, but they are less durable than brass and more likely to corrode.
+Semi-aerodynamic and aerodynamic wheelsets are now commonplace for road bicycles.
+Finally, for best, long-lasting results, spoke wind-up should be minimized.
+It consists of an axle, bearings and a hub shell.
+Their rim diameter of 622&nbsp;mm (~24.5&nbsp;inch) is identical to most road, hybrid, and touring bicycle wheels, but they are typically reinforced for greater durability in off-road riding.
+A single eyelet reinforces the spoke hole much like a hollow rivet.
+The formerly popular (27&nbsp;inch) wheel size is now rare.
+An increased number of all-carbon rims, such as Campagnolo Hyperon Ultra Clincher, Viva v8 wheels, Bontrager's Carbon Clincher wheels, DT Swiss RRC1250, Corima Winium and Aero (also tubeless, see below) and Lightweight Standard C wheelsets are now available.
+A disc wheel may simply be a fairing that clips onto a traditional, spoke wheel, addressing the drag that the spokes generate by covering them; or the disc can be integral to the wheel with no spokes inside.
+Spokes are also available in titanium, aluminum, or carbon fiber.
+However, on the rear wheel, because most bicycles accommodate a rear sprocket (or group of them), the dishing will often be asymmetrical: it will be dished at a deeper angle on the non-drive side than on the drive side.
+"Truing stands" are mechanical devices for mounting wheels and truing them.
+The spokes still attach to the edge of the hub but not through visible holes.
+They have a low maximum tire pressure of 45&nbsp;psi (3bars or atmospheres).
+A truing stand or a dishing gauge, can be used to measure the position of the rim relative to the hub.
+See Bicycle performance for more detail.
+Some wheel designs also locate the spokes unequally into the rim, which requires a stiff rim hoop and correct tension of the spokes.
+The more general trend in wheel design suggests technological advancement in rim materials may result in further reduction in the number of spokes per wheel.
+Note however that rotational inertia is only a factor during acceleration (and deceleration/braking).
+Names for various lacing patterns are commonly referenced to the number of spokes that any one spoke crosses.
+The more vertical the spokes, the shallower the dish, and the less stiff the wheel will be laterally.
+This design can be much stronger than traditional axles, which are commonly only 8&nbsp;mm, 9&nbsp;mm, 9.5&nbsp;mm, or 10&nbsp;mm in diameter.
+In a "cartridge bearing" hub, the bearings are contained in a cartridge that is shaped like a hollow cylinder where the inner surface rotates with respect to the outer surface by the use of ball bearings.
+Too much tension leads to overstressed spokes which have a short life.
+A "cup and cone" hub contains loose balls that contact an adjustable 'cone' that is screwed onto the axle and a 'race' that is pressed permanently into the hub shell.
+Most of these designs take advantage of new high-strength materials or manufacturing methods to improve wheel performance.
+Wheels with fewer spokes have an aerodynamic advantage, as the aerodynamic drag from the spokes is reduced.
+Until recently there were only two types of nipples: brass and aluminum (often referred to as "alloy").
+27.5-inch mountain bike wheels (which some also refer to as 650B use a rim that has a diameter of 584 mm (23.0") with wide, knobby tires (~27.5 x 2.3 / ISO 58-584) are approximately the midway point between the 26-inch (ISO-559mm) and the 29-inch (ISO-622mm) standards.
+* an old British inch-based designation: '''597&nbsp;mm (26 × 1¼), 590&nbsp;mm (26 × 1⅜'''), '''630&nbsp;mm (27 × 1¼)''', and '''635&nbsp;mm (28 × 1½)'''
+Both surfaces are smooth to allow the bearings to roll with little friction.
+A spoke wheel with a disc cover may not be legal under UCI Union Cycliste Internationale rules because it is a non-structural fairing but are again acceptable under ITU International Triathlon Union rules.
+Bicycle wheels are typically designed to fit into the frame and fork via dropouts, and hold bicycle tires.
+They carry some of the advantages of both formats, with a smoother ride than a 26-inch wheel and more stiffness and durability than a 29" wheel.
+Wider touring or durable off-road tires require rims of 24&nbsp;mm wide or more.
+Others (like the some from Bontrager and Zipp) do not have a noticeable flange.
+"Dish" refers to the left-right centering of the plane of the rim between the lock nuts on the outside ends of the axle.
+The angle at which the spoke interfaces the hub is not solely determined by the cross-number; as spoke count and hub diameter will lead to significantly different spoke angles.
+ISO 47-622 (28 × 1.75) through ISO 60-622 (29 × 2.35).
+The 650C size has the ISO diameter size of 571&nbsp;mm.
+Due to the fact that wheels rotate as well as translate (move in a straight line) when a bicycle moves, more force is required to accelerate a unit of mass on the wheel than on the frame.
+Wheels that are not required to transfer any significant amount of torque from the hub to the rim are often laced radially.
+Diameters for front thru axles include 20&nbsp;mm, 15&nbsp;mm (most common), and 9&nbsp;mm.
+The hub shell of a spoked wheel generally has two flanges extending radially outward from the axle.
+In the latter case carbon fiber is the material of choice.
+Too little tension leads to a rim that is easily deformed by impact with rough terrain.
+Bladed and ovalized spokes may be held straight with an appropriate tool as the nipple is turned.
+In 2007, Mavic introduced their R-Sys, a new bicycle spoke technology that allows the spokes to be loaded in both tension and compression.
+However, this diameter of rim, identical in diameter to the "29er" rim, is by far the most common on these styles of bicycles.
+Aluminum rims are often reinforced with either single eyelets or double eyelets to distribute the stress of the spoke.
+Mountain bikes have adopted a 135&nbsp;mm rear hub width, which allows clearance to mount a brake disc on the hub or to decrease the wheel dish for a more durable wheel.
+Most thru axles are found on mountain bikes, although some cyclocross and road bikes are using them.
+On the other hand, the reduced number of spokes results in a larger section of the rim being unsupported, necessitating stronger and often heavier rims.
+On traditionally-spoked wheels, flange spacing affects the lateral stiffness of the wheel, with wider being stiffer, and flange diameter effects the torsional stiffness of the wheel and the number of spoke holes that the hub can accept, with larger diameter being stiffer and accepting more holes.
+A number of wheel manufacturers are now producing wheels with roughly half the spokes of the highest performance traditional wheel from the 1980s, with approximately the same rotational inertia and less total weight.
+If the part of the cross-section of the rim is hollow where the spokes attached, as in the Sprint rim pictured, it is described as '''box-section''' or '''double-wall''' to distinguish it from '''single-wall''' rims such as the Westwood rim pictured.
+''Triple-butted'' spokes also exist and are thickest at the hub, thinner at the threaded end, and thinnest in the middle.
+Hubs/wheels do not include axles, and the axle is generally supplied with the fork or frame.
+Here, the spokes leave the hub at perpendicular to the axle and go straight to the rim, without crossing any other spokes - e.g., "cross-0".
+Various "hook" (also called "crochet") designs emerged in the 1970s to hold the '''bead''' of the tire in place, allowing high (6–10&nbsp;bar, 80–150&nbsp;psi) air pressure.
+This plane is itself determined as an average of local deviations in the lateral truing.
+A nipple at the rim of a wheel usually protrudes from the rim towards the center of the wheel, but in racing wheels may be internal to the rim, offering a slight aerodynamic advantage.
+In addition to modified hub geometry, some rims have off-center spoke holes, and the mounting of common J-bend spokes at the hub flange can be altered "inboard" or "outboard".
+Brompton) through 20&nbsp;inches (e.g.
+"Lateral truing" refers to elimination of local deviations of the rim to the left or right of center.
+This system eliminates the need for a rim strip and inner tube.
+Some axles have integrated cam levers that compress axle elements against the fork leg to lock it in place, while others rely on pinch bolts on the fork leg to secure it.
+For a comprehensive equivalence table between old and new markings, see the ISO 5775 article, the table in Annex A of the ISO 5772 standard, as well as  Tire Sizing by Sheldon Brown.
+The hub shell typically has two machined metal flanges to which spokes can be attached.
+The cartridge is pressed into the hub shell and the axle rests against the inner race of the cartridge.
+A typical modern wheel has a metal hub, wire tension spokes and a metal or carbon fiber rim which holds a pneumatic rubber tire.
+The spokes on the vast majority of modern bicycle wheels are steel or stainless steel.
+Thermoplastic is commonly used for inexpensive BMX wheels.
+Wheel rims also come in a variety of widths to provide optimum performance for different uses.
+24-inch clincher tires (with inner tubes) are the most common wheel size for junior mountain bikes.
+Thus, a wide range of small bike wheels are still found, ranging from  diameter to .
+To accomplish this, wheel designs are employing lighter rim materials, moving the spoke nipples to the hub or using lighter nipples such as aluminum.
+These range from 16-inch diameter (e.g.
+When viewed in cross section, the spokes and hub form a triangle, a structure that is stiff both vertically and laterally.
+High performance road racing rims are narrow, 18&nbsp;mm or so.
+The rim is connected to the hub by several spokes under tension.
+Thru axles repeatable locate the wheel in the fork or frame, which is important to prevent misalignment of brake rotors when using disc brakes.
+Bike Friday) up to even 26&nbsp;inches.
+# Crochet-type (C) rims
+However, semi-aerodynamic and aerodynamic wheelsets tend to be heavier than more traditional spoked wheelsets due to the extra shapings of the rims and spokes.
+Bicycle wheels can be categorized by their primary use.
+The larger 700C (29 inch) wheels have enjoyed some recent popularity among off-road bicycle manufacturers.
+Carbon fiber is also finding use in hub shells to reduce weight; however, because of the hub's proximity to the center of rotation reducing the hub's weight has less inertial effect than reducing the rim's weight.
+Hubs that have previously been laced in any other pattern should not be used for radial lacing, as the pits and dents created by the spokes can be the weak points along which the hub flange may break.
+To accelerate a wheel, total wheel mass matters less than the moment of inertia, which describes the inertial effect of the mass resisting acceleration (inertia) based on its location with respect to the axis of rotation (the center of the wheel hub/axle).
+This technology is promised to allow for fewer spokes, lower wheel weight and inertia, increased wheel stiffness, with no loss of durability.
+The typical 24-inch rim has a diameter of 507&nbsp;mm (20.0") and an outside tire diameter of about 24" (about 610&nbsp;mm).
+Smaller wheel sizes are also found on folding bicycles to minimise the folded size.
+* Female axle - hollow center axle, typically 14, 15, 17, or 20&nbsp;mm in diameter made of chromoly and aluminum, with two bolts thread into on either side.
+Lowrider bicycles may have as many as 144 spokes per wheel.
+This lacing pattern can not transfer torque as efficiently as tangential lacing.
+Most road and racing bicycles today use 622&nbsp;mm diameter (700C) rims, though 650C rims are popular with smaller riders and triathletes.
+It distinguishes between
+It should be noted that in the real world, a properly trued wheel will not, in general, have a uniform tension across all spokes, due to variation among the parts from which the wheel is made.
+Several different techniques have been tried to minimize this spoke asymmetry.
+Most clincher carbon fiber wheelsets, such as those made by Zipp and Mavic, still use aluminum parts at the clinching part of the rim.
+The International Organization for Standardization (ISO) and the European Tyre and Rim Technical Organisation (ETRTO) define a modern, unambiguous system of sizing designations and measurement procedures for different types of tires and rims in international standard ISO 5775.
+When forward torque is applied (i.e., during acceleration ), the trailing spokes experience a higher tension, while leading spokes are relieved, thus forcing the rim to rotate.
+For climbing, total mass remains important.
+Some spokes are hollow tubes.
+Smaller youth mountain bikes use 24&nbsp;inch wheels.
+''Single-butted'' spokes are thicker at the hub and then taper to a thinner section all the way to the threads at the rim.
+Bicycle rims and tires came in many different types and sizes before efforts were made to standardize and improve wheel/tire compatibility.
+In wheel truing, all these factors must be incrementally brought into balance against each other.
+A wheel can be formed in one piece from a material such as thermoplastic (glass-filled nylon in this case), carbon fiber or aluminium alloy.
+While most manufacturers use the same lacing pattern on both left and right sides of a wheel, it is becoming increasingly common to find specialty wheels with different lacing patterns on each side.
+However, to efficiently transfer torque from the hub to the rim, as with driven wheels or wheels with drum or disc brakes, durability dictates that spokes be mounted at an angle to the hub flange up to a "tangential lacing pattern" to achieve maximum torque capability (but minimum vertical wheel stiffness).
+The cartridge bearing itself is generally not serviceable or adjustable; instead the entire cartridge bearing is replaced in case of wear or failure.
+For all common tension-spoke wheels with crossed spokes, a torque applied to the hub will result in one half of the spokes - called "leading spokes" tensioned to drive the rim, while other half - "trailing spokes" are tensioned only to counteract the leading spokes.
+In 2006, Shimano and Hutchinson introduced a tubeless system for road bikes.
+A hub is the center part of a bicycle wheel.
+Road wheels may be designed for tubular or clincher tires, commonly referred to as "700C" tires.
+French tire manufacturer Hutchinson has introduced a tubeless wheel system, Road Tubeless, that shares many similarities to the UST (Universal System Tubeless) that was developed in conjunction with Mavic and Michelin.
+There are a few companies making wheels with spokes that are used in both compression and tension.

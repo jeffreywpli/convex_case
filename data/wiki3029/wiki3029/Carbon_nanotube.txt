@@ -1,0 +1,200 @@
+As of 2016 the retail price of as-produced 75% by weight SWNTs were $2 per gram, cheap enough for widespread use.
+Because of their hydrophobic nature, carbon nanotubes tend to agglomerate hindering their dispersion is solvents or viscous polymer melts.
+Multi-walled nanotubes (MWNTs) consist of multiple rolled layers (concentric tubes) of graphene.
+* tips for atomic force microscope probes
+It can also be applied as an oscillator during theoretical investigations and predictions.
+Owing to the material's exceptional strength and stiffness, nanotubes have been constructed with length-to-diameter ratio of up to 132,000,000:1, significantly larger than for any other material.
+Cup-stacked carbon nanotubes (CSCNTs) differ from other quasi-1D carbon structures, which normally behave as quasi-metallic conductors of electrons.
+CNTs are not nearly as strong under compression.
+Many believe that Iijima's report in 1991 is of particular importance because it brought carbon nanotubes into the awareness of the scientific community as a whole.
+Unlike graphene, which is a two-dimensional semimetal, carbon nanotubes are either metallic or semiconducting along the tubular axis.
+In particular, their band gap can vary from zero to about 2 eV and their electrical conductivity can show metallic or semiconducting behavior.
+Intrinsic superconductivity has been reported, although other experiments found no evidence of this, leaving the claim a subject of debate.
+The discovery of nanotubes remains a contentious issue.
+have reported a novel radical initiated thermal crosslinking method to fabricate macroscopic, free-standing, porous, all-carbon scaffolds using single- and multi-walled carbon nanotubes as building blocks.
+As with any material, the existence of a crystallographic defect affects the material properties.
+* Easton-Bell Sports, Inc. have been in partnership with Zyvex Performance Materials, using CNT technology in a number of their bicycle components—including flat and riser handlebars, cranks, forks, seatposts, stems and aero bars.
+The data is still fragmentary and subject to criticism.
+As a result, carbon nanotubes are frequently referred to as one-dimensional conductors.
+Carbon nanotubes can be functionalized to attain desired properties that can be used in a wide variety of applications.
+Techniques have been developed to produce nanotubes in sizable quantities, including arc discharge, laser ablation, high-pressure carbon monoxide disproportionation, and chemical vapor deposition (CVD).
+Other current applications include:
+For a given (''n'',''m'') nanotube, if ''n'' = ''m'', the nanotube is metallic; if ''n'' − ''m'' is a multiple of 3, then the nanotube is semiconducting with a very small band gap, otherwise the nanotube is a moderate semiconductor.
+Under excessive tensile strain, the tubes will undergo plastic deformation, which means the deformation is permanent.
+It can possess interesting magnetic properties with heating and irradiation.
+Using TEM images and XRD patterns, the authors suggested that their “carbon multi-layer tubular crystals” were formed by rolling graphene layers into cylinders.
+Young's modulus (TPa)
+In addition, owing to their extraordinary thermal conductivity, mechanical, and electrical properties, carbon nanotubes find applications as additives to various structural materials.
+As of 2007, such research had just begun.
+Carbon nanotubes were found in Damascus steel from the 17th century, possibly helping to account for the legendary strength of the swords made of it.
+Retraction force that occurs to telescopic motion caused by the Lennard-Jones interaction between shells and its value is about 1.5&nbsp;nN.
+Its individual shells can be described as SWNTs, which can be metallic or semiconducting.
+Thus, a (5,0) SWCNT that should be semiconducting in fact is metallic according to the calculations.
+temperature and time) with their structure ranging from few layers of graphene (3 at high temperature, solid reaction, and solvothermal synthesis.
+However, larger-scale defects such as Stone Wales defects cause phonon scattering over a wide range of frequencies, leading to a greater reduction in thermal conductivity.
+In 1981, a group of Soviet scientists published the results of chemical and structural characterization of carbon nanoparticles produced by a thermocatalytical disproportionation of carbon monoxide.
+EExperimental observation; TTheoretical prediction
+Graphenated CNTs are a relatively new hybrid that combines graphitic foliates grown along the sidewalls of multiwalled or bamboo style CNTs.
+This discovery was largely unnoticed, as the article was published in Russian, and Western scientists' access to Soviet press was limited during the Cold War.
+A carbon peapod is a novel hybrid carbon material which traps fullerene inside a carbon nanotube.
+There are two models that can be used to describe the structures of multi-walled nanotubes.
+are semiconducting.
+DWNT synthesis on the gram-scale was first proposed in 2003 by the CCVD technique, from the selective reduction of oxide solutions in methane and hydrogen.
+If ''m'' = 0, the nanotubes are called '''zigzag''' nanotubes, and if ''n'' = ''m'', the nanotubes are called '''armchair''' nanotubes.
+He published a paper describing his discovery which initiated a flurry of excitement and could be credited by inspiring the many scientists now studying applications of carbon nanotubes.
+The strength and flexibility of carbon nanotubes makes them of potential use in controlling other nanoscale structures, which suggests they will have an important role in nanotechnology engineering.
+The rule regarding metallic versus semiconductor behavior has exceptions, because curvature effects in small diameter tubes can strongly influence electrical properties.
+Graphitic substitution of carbon atoms in the nanotube wall by boron or nitrogen dopants leads to p-type and n-type behavior, respectively, as would be expected in silicon.
+These sheets are rolled at specific and discrete ("chiral") angles, and the combination of the rolling angle and radius decides the nanotube properties; for example, whether the individual nanotube shell is a metal or semiconductor.
+The surface wettability of CNT is of importance for its applications in various settings.
+The two main methods of carbon nanotube functionalization are covalent and non-covalent modifications.
+There are significant challenges to be overcome, however, such as the much more resistive nanotube-to-nanotube junctions and impurities, all of which lower the electrical conductivity of the macroscopic nanotube wires by orders of magnitude, as compared to the conductivity of the individual nanotubes.
+Their name is derived from their long, hollow structure with the walls formed by one-atom-thick sheets of carbon, called graphene.
+Nanotube research accelerated greatly following the independent discoveries by Bethune at IBM and Iijima at NEC of ''single-walled'' carbon nanotubes and methods to specifically produce them by adding transition-metal catalysts to the carbon in an arc discharge.
+Bulk carbon nanotubes have already been used as composite fibers in polymers to improve the mechanical, thermal and electrical properties of the bulk product.
+However boron-doped nanotubes have been shown to make batteries with triple capacity.
+A defect in armchair-type tubes (which can conduct electricity) can cause the surrounding region to become semiconducting, and single monatomic vacancies induce magnetic properties.
+For instance, nanotubes form a tiny portion of the material(s) in some (primarily carbon fiber) baseball bats, golf clubs, car parts or damascus steel.
++ Comparison of mechanical properties
+SWNTs are forecast to make a large impact in electronics applications by 2020 according to the ''The Global Market for Carbon Nanotubes'' report.
+A logic gate requires both a p-FET and an n-FET.
+The highest tensile strength of an individual multi-walled carbon nanotube has been tested to be 63&nbsp;GPa.
+The first specimens observed would later come to be known as single-walled carbon nanotubes (SWNTs).
+Carbon nanotubes are thus being explored as conductivity enhancing components in composite materials and many groups are attempting to commercialize highly conducting electrical wire assembled from individual carbon nanotubes.
+Properties such as magnetic moment, thermal stability, etc.
+SWNTs are an important variety of carbon nanotube because most of their properties change significantly with the (''n'',''m'') values, and this dependence is non-monotonic (see Kataura plot).
+Defects can occur in the form of atomic vacancies.
+Because of the very small structure of CNTs, the tensile strength of the tube is dependent on its weakest segment in a similar manner to a chain, where the strength of the weakest link becomes the maximum strength of the chain.
+All nanotubes are expected to be very good thermal conductors along the tube, exhibiting a property known as "ballistic conduction", but good insulators lateral to the tube axis.
+XPS spectra of grown N-CNTs reveal nitrogen in five main components, pyridinic nitrogen, pyrrolic nitrogen, quaternary nitrogen, and nitrogen oxides.
+Phonon transport simulations indicate that substitutional defects such as nitrogen or boron will primarily lead to scattering of high-frequency optical phonons.
+In the case of DWNTs, only the outer wall is modified.
+This reduces the mean free path and reduces the thermal conductivity of nanotube structures.
+Likewise, zigzag and chiral SWCNTs with small diameters that should be metallic have a finite gap (armchair nanotubes remain metallic).
+This limitation has been recently addressed by applying high-energy electron irradiation, which crosslinks inner shells and tubes, and effectively increases the strength of these materials to ~60 GPa for multi-walled carbon nanotubes and ~17 GPa for double-walled carbon nanotube bundles.
+Most single-walled nanotubes (SWNTs) have a diameter of close to 1&nbsp;nanometer, and can be many millions of times longer.
+Nanotubes are categorized as single-walled nanotubes (SWNTs) and multi-walled nanotubes (MWNTs).
+These cylindrical carbon molecules have unusual properties, which are valuable for nanotechnology, electronics, optics and other fields of materials science and technology.
+vary widely depending on radius of the torus and radius of the tube.
+have reported a novel radical initiated thermal crosslinking method to fabricated macroscopic, free-standing, porous, all-carbon scaffolds using single- and multi-walled carbon nanotubes as building blocks.
+They speculated that by rolling graphene layers into a cylinder, many different arrangements of graphene hexagonal nets are possible.
+* Amroy Europe Oy manufactures Hybtonite carbon nanoepoxy resins where carbon nanotubes have been chemically activated to bond to epoxy, resulting in a composite material that is 20% to 30% stronger than other composite materials.
+Current use and application of nanotubes has mostly been limited to the use of bulk nanotubes, which is a mass of rather unorganized fragments of nanotubes.
+(3,3), (4,3) and (5,1) carbon nanotubes (all about 0.4&nbsp;nm in diameter) were unambiguously identified using aberration-corrected high-resolution transmission electron microscopy inside double-walled CNTs.
+Prices for single-walled nanotubes declined from around $1500 per gram as of 2000 to retail prices of around $50 per gram of as-produced 40–60% by weight SWNTs as of March 2010.
+N-CNTs can also be prepared by a CVD method of pyrolyzing melamine under Ar at elevated temperatures of 800–980&nbsp;°C.
+In composite materials, the attached fullerene molecules may function as molecular anchors preventing slipping of the nanotubes, thus improving the composite’s mechanical properties.
+In 2000, a multi-walled carbon nanotube was tested to have a tensile strength of .
+The material showed ohmic conductivity (lowest resistance ∼22 kΩ).
+It also increases capacity by providing more favorable bind of N-doped sites.
+CSCNTs exhibit semiconducting behaviors due to the stacking microstructure of graphene layers.
+For years, scientists assumed that Sumio Iijima of NEC had discovered carbon nanotubes in 1991.
+A SWNT has a room-temperature thermal conductivity across its axis (in the radial direction) of about 1.52 W·m−1·K−1, which is about as thermally conductive as soil.
+The true identity of the discoverers of carbon nanotubes is a subject of some controversy.
+Most of these processes take place in a vacuum or with process gases.
+A characterization of these fibers was given as well as hypotheses for their growth in a nitrogen atmosphere at low pressures.
+where ''a'' = 0.246&nbsp;nm.
+also reported a similar structure, namely "graphene-carbon nanotube hybrids", grown directly onto carbon fiber paper to form an integrated, binder free, high surface area conductive catalyst support for Proton Exchange Membrane Fuel Cells electrode applications with enhanced performance and durability.
+Parameters such as structure, size distribution, surface area, surface chemistry, surface charge, and agglomeration state as well as purity of the samples, have considerable impact on the reactivity of carbon nanotubes.
+One useful application of SWNTs is in the development of the first intermolecular field-effect transistors (FET).
+Though Iijima has been given much of the credit for discovering carbon nanotubes, it turns out that the timeline of carbon nanotubes goes back much further than 1991.
+Elongation at break (%)
+However, these new superhard phase nanotubes collapse at an even higher, albeit unknown, pressure.
+Recently, several studies have highlighted the prospect of using carbon nanotubes as building blocks to fabricate three-dimensional macroscopic (>100&nbsp;nm in all three dimensions) all-carbon devices.
+Because of statistical probability and restrictions on the relative diameters of the individual tubes, one of the shells, and thus the whole MWNT, is usually a zero-gap metal.
+Otherwise, they are called '''chiral'''.
+Crystallographic defects strongly affect the tube's thermal properties.
+Indeed, TEM observation of radial elasticity suggested that even the van der Waals forces can deform two adjacent nanotubes.
+The temperature stability of carbon nanotubes is estimated to be up to 2800&nbsp;°C in vacuum and about 750&nbsp;°C in air.
+The tubes averaged a height of 380&nbsp;nm and a mass density of 1.6 g cm−3.
+There is no consensus on some terms describing carbon nanotubes in scientific literature: both "-wall" and "-walled" are being used in combination with "single", "double", "triple" or "multi", and the letter C is often omitted in the abbreviation; for example, multi-walled carbon nanotube (MWNT).
+Nitrogen doping plays a pivotal role in lithium storage, as it creates defects in the CNT walls allowing for Li ions to diffuse into interwall space.
+The arc discharge technique was well-known to produce the famed Buckminster fullerene on a preparative scale, and these results appeared to extend the run of accidental discoveries relating to fullerenes.
+Preliminary results highlight the difficulties in evaluating the toxicity of this heterogeneous material.
+Because of its nanoscale cross-section, electrons propagate only along the tube's axis.
+The conference paper described carbon nanotubes as carbon fibers that were produced on carbon anodes during arc discharge.
+A common result is lowered conductivity through the defective region of the tube.
+These 3D all-carbon scaffolds/architectures may be used for the fabrication of the next generation of energy storage, supercapacitors, field emission transistors, high-performance catalysis, photovoltaics, and biomedical devices and implants.
+Already, this property has been utilized to create the world's smallest rotational motor.
+They suggested two possibilities of such arrangements: circular arrangement (armchair nanotube) and a spiral, helical arrangement (chiral tube).
+The three scientists have been the first ones to show images of a nanotube with a solitary graphene wall.
+In fact, they call it the “Endo-process”, out of respect for his early work and patents.
+The maximum electrical conductance of a single-walled carbon nanotube is 2''G''0, where ''G''0 = 2''e''2/''h'' is the conductance of a single ballistic quantum channel.
+Researchers suggested that it can be either (5,1) or (4,2) SWCNT, but the exact type of carbon nanotube remains questionable.
+Although the strength of individual CNT shells is extremely high, weak shear interactions between adjacent shells and tubes lead to significant reduction in the effective strength of multi-walled carbon nanotubes and carbon nanotube bundles down to only a few GPa.
+Carbon nanobuds are a newly created material combining two previously discovered allotropes of carbon: carbon nanotubes and fullerenes.
+Bulk nanotube materials may never achieve a tensile strength similar to that of individual tubes, but such composites may, nevertheless, yield strengths sufficient for many applications.
+Maximum pressures measured using current experimental techniques are around 55 GPa.
+* Zyvex Technologies has also built a 54' maritime vessel, the Piranha Unmanned Surface Vessel, as a technology demonstrator for what is possible using CNT technology.
+This strength results from the covalent sp2 bonds formed between the individual carbon atoms.
+The interlayer distance in multi-walled nanotubes is close to the distance between graphene layers in graphite, approximately 3.4 Å.
+This is especially important when it is necessary to graft chemical functions to the surface of the nanotubes (functionalization) to add properties to the CNT.
+Because of their hollow structure and high aspect ratio, they tend to undergo buckling when placed under compressive, torsional, or bending stress.
+Thus all armchair (''n'' = ''m'') nanotubes are metallic, and nanotubes (6,4), (9,1), etc.
+Before they came to be known as carbon nanotubes, in 1976, Morinobu Endo of CNRS observed hollow tubes of rolled up graphite sheets synthesised by a chemical vapour-growth technique.
+The telescopic motion ability of inner shells and their unique mechanical properties will permit the use of multi-walled nanotubes as main movable arms in coming nanomechanical devices.
+Crystallographic defects also affect the tube's electrical properties.
+Furthermore, synthesis temperature affects the type of nitrogen configuration.
+In the ''Russian Doll'' model, sheets of graphite are arranged in concentric cylinders, e.g., a (0,8) single-walled nanotube (SWNT) within a larger (0,17) single-walled nanotube.
+These scaffolds possess macro-, micro-, and nano- structured pores and the porosity can be tailored for specific applications.
+Single-walled nanotubes are likely candidates for miniaturizing electronics.
+The surface of the carbon nanotubes can be modified to reduce the hydrophobicity and improve interfacial adhesion to a bulk polymer through chemical attachment.
+Further studies, such as one conducted in 2008, revealed that individual CNT shells have strengths of up to ~, which is in agreement with quantum/atomistic models.
+Applied quantum chemistry, specifically, orbital hybridization best describes chemical bonding in nanotubes.
+Double-walled carbon nanotubes (DWNTs) form a special class of nanotubes because their morphology and properties are similar to those of SWNTs but they are more resistant to chemicals.
+The resulting SWNT acts as a ''not'' logic gate with both p and n-type FETs in the same molecule.
+Large quantities of nanotubes can be synthesized by these methods; advances in catalysis and continuous growth are making CNTs more commercially viable.
+The integers ''n'' and ''m'' denote the number of unit vectors along two directions in the honeycomb crystal lattice of graphene.
+The ''thinnest'' carbon nanotube is the armchair (2,2) CNT with a diameter of 0.3&nbsp;nm.
+The ''thinnest freestanding'' single-walled carbon nanotube is about 0.43&nbsp;nm in diameter.
+Tensile strength (GPa)
+However, available data clearly show that, under some conditions, nanotubes can cross membrane barriers, which suggests that, if raw materials reach the organs, they can induce harmful effects such as inflammatory and fibrotic reactions.
+It has been used for wind turbines, marine paints and variety of sports gear such as skis, ice hockey sticks, baseball bats, hunting arrows, and surfboards.
+The most basic building block of these systems is the electric wire, and SWNTs with diameters of an order of a nanometer can be excellent conductors.
+'''Carbon nanotubes''' ('''CNTs''') are allotropes of carbon with a cylindrical nanostructure.
+The diameter of an ideal nanotube can be calculated from its (n,m) indices as follows
+These 3D all-carbon scaffolds/architectures maybe used for the fabrication of the next generation of energy storage, supercapacitors, field emission transistors, high-performance catalysis, photovoltaics, and biomedical devices and implants.
+Assigning of carbon nanotube type was done by a combination of high-resolution transmission electron microscopy (HRTEM), Raman spectroscopy and density functional theory (DFT) calculations.
+The way the graphene sheet is wrapped is represented by a pair of indices (''n'',''m'').
+In particular, they have been found to be exceptionally good field emitters.
+This appears to be the observation of multi-walled carbon nanotubes at the center of the fiber.
+In theory, a nanotorus is a carbon nanotube bent into a torus (doughnut shape).
+further reported on similar structures formed on carbon fiber paper, also for use in supercapacitor applications.
+There is also ongoing research in using carbon nanotubes as a scaffold for diverse microfabrication techniques.
+These bonds, which are stronger than the ''sp''3 bonds found in alkanes and diamond, provide nanotubes with their unique strength.
+Carbon nanotubes are not semimetallic because the degenerate point (that point where the π bonding band meets the π* anti-bonding band, at which the energy goes to zero) is slightly shifted away from the ''K'' point in the Brillouin zone due to the curvature of the tube surface, casing hybridization between the σ* and π* anti-bonding bands, modifying the band dispersion.
+Future applications such as a gigahertz mechanical oscillator are also envisioned.
+The ''highest density'' of CNTs was achieved in 2013, grown on a conductive titanium-coated copper surface that was coated with co-catalysts cobalt and molybdenum at lower than typical temperatures of 450&nbsp;°C.
+Since carbon nanotubes have a low density for a solid of 1.3 to 1.4&nbsp;g/cm3, its specific strength of up to 48,000&nbsp;kN·m·kg−1 is the best of known materials, compared to high-carbon steel's 154&nbsp;kN·m·kg−1.
+These scaffolds possess macro-, micro-, and nano- structured pores and the porosity can be tailored for specific applications.
+* in tissue engineering, carbon nanotubes can act as scaffolding for bone growth
+This is one of the first true examples of molecular nanotechnology, the precise positioning of atoms to create useful machines.
+By contrast, π-electron acceptors such as FeCl3 or electron-deficient metallocenes function as p-type dopants since they draw π-electrons away from the top of the valence band.
+Such defects lead to phonon scattering, which in turn increases the relaxation rate of the phonons.
+The structure of a SWNT can be conceptualized by wrapping a one-atom-thick layer of graphite called graphene into a seamless cylinder.
+They then undergo a transformation to superhard phase nanotubes.
+(For illustration, this translates into the ability to endure tension of a weight equivalent to  on a cable with cross-section of .)
+In 1987, Howard G. Tennent of Hyperion Catalysis was issued a U.S. patent for the production of "cylindrical discrete carbon fibrils" with a "constant diameter between about 3.5 and about 70&nbsp;nanometers..., length 102 times the diameter, and an outer region of multiple essentially continuous layers of ordered carbon atoms and a distinct inner core...."
+By applying a low voltage as low as 1.3V, the extreme water repellant surface can be switched into superhydrophilic.
+Standard single-walled carbon nanotubes can withstand a pressure up to 25 GPa without plastic/permanent deformation.
+Endo, in his early review of vapor-phase-grown carbon fibers (VPCF), also reminded us that he had observed a hollow tube, linearly extended with parallel carbon layer faces near the fiber core.
+This nanotube was grown inside a multi-walled carbon nanotube.
+In 1952 L. V. Radushkevich and V. M. Lukyanovich published clear images of 50 nanometer diameter tubes made of carbon in the Soviet ''Journal of Physical Chemistry''.
+Nanotori are predicted to have many unique properties, such as magnetic moments 1000 times larger than previously expected for certain specific radii.
+CNTs help improve the structural performance of the vessel, resulting in a lightweight 8,000&nbsp;lb boat that can carry a payload of 15,000&nbsp;lb over a range of 2,500 miles.
+However synthesis by CVD of melamine results in the formation of bamboo-structured CNTs.
+An important example is the Stone Wales defect, which creates a pentagon and heptagon pair by rearrangement of the bonds.
+Measurements show that a SWNT has a room-temperature thermal conductivity along its axis of about 3500 W·m−1·K−1; compare this to copper, a metal well known for its good thermal conductivity, which transmits 385 W·m−1·K−1.
+Carbon nanotubes are the strongest and stiffest materials yet discovered in terms of tensile strength and elastic modulus respectively.
+Iijima's discovery of multi-walled carbon nanotubes in the insoluble material of arc-burned graphite rods in 1991 and Mintmire, Dunlap, and White's independent prediction that if single-walled carbon nanotubes could be made, then they would exhibit remarkable conducting properties helped create the initial buzz that is now associated with carbon nanotubes.
+The resulting nanotube bundles or aggregates reduce the mechanical performance of the final composite.
+The bulk modulus of superhard phase nanotubes is 462 to 546 GPa, even higher than that of diamond (420 GPa for single diamond crystal).
+Covalent functionalization of SWNTs will break some C=C double bonds, leaving "holes" in the structure on the nanotube, and thus modifying both its mechanical and electrical properties.
+Individual nanotubes naturally align themselves into "ropes" held together by van der Waals forces, more specifically, pi-stacking.
+The foliate density can vary as a function of deposition conditions (e.g.
+N-CNTs are also much more reactive to metal oxide nanoparticle deposition which can further enhance storage capacity, especially in anode materials for Li-ion batteries.
+In 1979, John Abrahamson presented evidence of carbon nanotubes at the 14th Biennial Conference of Carbon at Pennsylvania State University.
+reported on "chemically bonded graphene leaves" growing along the sidewalls of CNTs.
+described these structures as "graphenated CNTs" and reported in their use for enhanced supercapacitor performance.
+The mass-produced MWCNTs today are strongly related to the VPGCF developed by Endo.
+Recently, several studies have highlighted the prospect of using carbon nanotubes as building blocks to fabricate three-dimensional macroscopic (>1mm in all three dimensions) all-carbon devices.

@@ -1,0 +1,200 @@
+A single or twin screw auger, powered by an electric motor, or a ram, driven by hydraulic pressure (often used for steel and titanium alloys), oil pressure (for aluminium), or in other specialized processes such as rollers inside a perforated drum for the production of many simultaneous streams of material.
+Usually plain carbon steel is extruded, but alloy steel and stainless steel can also be extruded.
+Aluminium can be hot or cold extruded.
+This limits the amount of change which can be performed in one step, so it is limited to simpler shapes, and multiple stages are usually needed.
+Forward (ram and billet move in the same direction) and backward (ram and billet move in the opposite direction) microextrusion were first introduced, with forward rod-backward cup and double cup extrusion methods developing later.
+*An even flow of material.
+Mixing elements or convey elements are used in various formations.
+Another breakthrough in lubrication is the use of phosphate coatings.
+Because the billet moves with the container the frictional forces are eliminated.
+A fixed mandrel, also known as a German type, means it is integrated into the dummy block and stem.
+The temperature during compression causes melting of the surface of bricks, making it more solid, which is important for the transportation of briquettes.
+They can deliver over 35 MPa (5000 psi).
+For reference, the die is  in diameter.
+The die is held in place by a "stem" which has to be longer than the container length.
+With the advent of industrial manufacturing, extrusion found application in food processing of instant foods and snacks, along with its already known uses in plastics and metal fabrication.
+Thicker sections generally need an increased section size.
+During extrusion the metal divides, flows around the legs, then merges, leaving weld lines in the final product.
+In 1820 Thomas Burr implemented that process for lead pipe, with a hydraulic press (also invented by Joseph Bramah).
+Instead, the die assumes the shape of a block with depth, beginning first with a shape profile that supports the center section.
+*The billet is used more uniformly so extrusion defects and coarse grained peripherals zones are less likely.
+Pressures range from , therefore lubrication is required, which can be oil or graphite for lower temperature extrusions, or glass powder for higher temperature extrusions.
+There are several methods for forming internal cavities in extrusions.
+Accumulator water drives are more expensive and larger than direct-drive oil presses, and they lose about 10% of their pressure over the stroke, but they are much faster, up to 380&nbsp;mm/s (15 ips).
+Afterward the extrusion is stretched in order to straighten it.
+Pelletizers can also create this tension while pulling extruded strands in to be cut.
+In the extrusion process, raw materials are first ground to the correct particle size.
+1000–1200 (1900–2200)
+The wall thickness of the extrusion is .
+Because of this they are used when extruding steel.
+Drawing is a similar process, which uses the tensile strength of the material to pull it through the die.
+If it is hot extruded it is heated to 575 to 1100&nbsp;°F (300 to 600&nbsp;°C).
+* '''Titanium''' (1100 to 1825&nbsp;°F (600 to 1000&nbsp;°C)) aircraft components including seat tracks, engine rings, and other structural parts.
+In 1797, Joseph Bramah patented the first extrusion process for making pipe out of soft metals.
+A thick solid glass ring that is 0.25 to 0.75 in (6 to 18&nbsp;mm) thick is placed in the chamber on the die to lubricate the extrusion as it is forced through the die.
+The main independent parameters during extrusion cooking are feed rate, particle size of the raw material, barrel temperature, screw speed and moisture content.
+This is needed to form a seal at the beginning of the cycle.
+*This process isn't as versatile as direct extrusions because the cross-sectional area is limited by the maximum size of the stem.
+The process starts by heating the materials to the extruding temperature and then rolling it in glass powder.
+The extruding process can induce both protein denaturation and starch gelatinization, depending on inputs and parameters.
+The resulting fuel briquettes do not include any of the binders, but one natural – the lignin contained in the cells of plant wastes.
+The preconditioned mix is then passed through an extruder, where it is forced through a die and cut to the desired length.
+600–1100 (1200–2000)
+*No friction between the container and the billet reduces force requirements.
+{403 forbidden link 12Jul15}
+The caterpillar haul-off must provide a consistent pull; otherwise, variation in cut lengths or distorted product will result.
+*Containing the fluid under high pressures can be difficult.
+# The type of load applied, either conventional (variable) or hydrostatic.
+This leads to the following advantages:
+Several microextrusion processes have been developed since microforming was envisioned in 1990.
+For use in pharmaceutical products, extrusion through nano-porous, polymeric filters is being used to produce suspensions of lipid vesicles liposomes or transfersomes with a particular size of a narrow size distribution.
+# The type of drive, either hydraulic or mechanical.
+Additionally, as Fu and Chan pointed out in a 2013 state-of-the-art technology review, several issues must still be resolved before microextrusion and other microforming technologies can be implemented more widely, including deformation load and defects, forming system stability, mechanical properties, and other size-related effects on the crystallite (grain) structure and boundaries.
+Warm extrusion is done above room temperature, but below the recrystallization temperature of the material the temperatures ranges from 800 to 1800&nbsp;°F (424 to 975&nbsp;°C).
+The glass melts and forms a thin film, 20 to 30 mils (0.5 to 0.75&nbsp;mm), in order to separate it from chamber walls and allow it to act as a lubricant.
+Minimum cross-section cm² (sq.
+The Ugine-Sejournet, or Sejournet, process is now used for other materials that have melting temperatures higher than steel or that require a narrow range of temperatures to extrude, such as the platinum-iridium alloy used to make kilogram mass standards.
+Temperature °C (°F)
+The cooking process takes place within the extruder where the product produces its own friction and heat due to the pressure generated (10–20&nbsp;bar).
+These defects ruin the piece if it needs to be anodized or the aesthetics are important.
+It is usually used to achieve the proper balance of required forces, ductility and final extrusion properties.
+The extrusion ratio is defined as the starting cross-sectional area divided by the cross-sectional area of the final extrusion.
+*Large billets and large cross-sections can be extruded.
+Usually the entire billet needs to be machined to remove any surface defects.
+In order to get around this the billets may be wire brushed, machined or chemically cleaned before being used.
+* '''Copper''' (1100 to 1825&nbsp;°F (600 to 1000&nbsp;°C)) pipe, wire, rods, bars, tubes, and welding electrodes.
+Often more than 100 ksi (690 MPa) is required to extrude copper.
+*A billet remnant or a plug of a tougher material must be left at the end of the extrusion to prevent a sudden release of the extrusion fluid.
+Drawing is the main way to produce wire.
+Many modern bricks are also manufactured using a brick extrusion process.
+Regardless of method, one of the greatest challenges of creating a successful microextrusion machine is the manufacture of the die and ram.
+It works by placing the billet in a heavy walled container.
+The end of the billet (called the butt end) is not used for this reason.
+The anti-cancer drug Doxorubicin in liposome delivery system is formulated by extrusion, for example.
+#''Constant-rate extrusion'': A ram or plunger is used to pressurize the fluid inside the container.
+A "caterpillar haul-off" (called a "puller" in the US) is used to provide tension on the extrusion line which is essential for overall quality of the extrudate.
+The biggest disadvantage of this process is its cost for machinery and its upkeep.
+In order for the material to flow properly legs should not be more than ten times longer than their thickness.
+* '''Zinc''' (400 to 650&nbsp;°F (200 to 350&nbsp;°C)) rods, bar, tubes, hardware components, fitting, and handrails.
+The phosphate coat absorbs the liquid glass to offer even better lubricating properties.
+The polymer resin is heated to molten state by a combination of heating elements and shear heating from the extrusion screw.
+The major disadvantage of this process is that the force required to extrude the billet is greater than that needed in the indirect extrusion process because of the frictional forces introduced by the need for the billet to travel the entire length of the container.
+For example, a larger press can handle  diameter circumscribing circles for aluminium and 55&nbsp;cm (22&nbsp;in) diameter circles for steel and titanium.
+Because of this the greatest force required is at the beginning of process and slowly decreases as the billet is used up.
+A material is pushed through a die of the desired cross-section.
+Direct extrusion, also known as forward extrusion, is the most common extrusion process.
+The fluid can be pressurized two ways:
+"The small size of the die and ram, along with the stringent accuracy requirement, needs suitable manufacturing processes."
+* '''Steel''' (1825 to 2375&nbsp;°F (1000 to 1300&nbsp;°C)) rods and tracks.
+At that time the process was called "squirting".
+There is a reusable dummy block between the ram and the billet to keep them separated.
+Extrusion is common in the application of adding colorant to molten plastic thus creating specific custom color.
+If the cross-section is asymmetrical, adjacent sections should be as close to the same size as possible.
+or finely shredded wood waste (sawdust) under high pressure when heated from 160 to 350&nbsp;°C.
+With this process, in conjunction with glass lubrication, steel can be cold extruded.
+Castor oil is used because it has good lubricity and high pressure properties.
+A floating mandrel, also known as a French type, floats in slots in the dummy block and aligns itself in the die when extruding.
+#''Constant-pressure extrusion'': A pump is used, possibly with a pressure intensifier, to pressurize the fluid, which is then pumped to the container.
+There is a crossover point where roll forming becomes more economical.
+Twin-screw high shear extruders blend materials and simultaneously break up particles.
+The material flows around the supports and fuses together to create the desired closed shape.
+In some cases (such as fibre-reinforced tubes) the extrudate is pulled through a very long die, in a process called "pultrusion".
+The advantages of this process include:
+This process can be done hot, warm, or cold, however the temperature is limited by the stability of the fluid used.
+Molten lead may also be used in place of billets on vertical extrusion presses.
+In indirect extrusion, also known as backwards extrusion, the billet and container move together while the die is stationary.
+This ultimately allows for faster speeds, higher reduction ratios, and lower billet temperatures.
+Examples of products produced by this process are: collapsible tubes, fire extinguisher cases, shock absorber cylinders and gear blanks.
+*A 25 to 30% reduction of friction, which allows for extruding larger billets, increasing speed, and an increased ability to extrude smaller cross-sections
+*No billet residue is left on the container walls.
+Hot extrusion is a hot working process, which means it is done above the material's recrystallization temperature to keep the material from work hardening and to make it easier to push the material through the die.
+The extrusion process in metals may also increase the strength of the material.
+Products such as certain pastas, many breakfast cereals, premade cookie dough, some french fries, certain baby foods, dry or semi-moist pet food and ready-to-eat snacks are mostly manufactured by extrusion.
+The screw, or screws as the case with twin screw extrusion, forces the resin through a die, forming the resin into the desired shape.
+The disadvantages are:
+700–1200 (1300–2100)
+It involved preheating the metal and then forcing it through a die via a hand-driven plunger.
+A second advantage of this glass ring is its ability to insulate the heat of the billet from the die.
+One of the main advantages of the extrusion process is that this ratio can be very large while still producing quality parts.
+Most hot extrusions are done on horizontal hydraulic presses that range from .
+*The billets must be prepared by tapering one end to match the die entry angle.
+The configuration of the interior screws are a driving force dependent on the application.
+Magnesium is about as extrudable as aluminum.
+Commonly extruded materials include metals, polymers, ceramics, concrete, play dough, and foodstuffs.
+The process must be carried out in a sealed cylinder to contain the hydrostatic medium.
+The solid billet could also be used with a spider die, porthole die or bridge die.
+*Impurities and defects on the surface of the billet affect the surface of the extrusion.
+The die shape then internally changes along its length into the final shape, with the suspended center pieces supported from the back of the die.
+# The position of the press, either vertical or horizontal.
+Minimum thickness mm (in.)
+# Movement of the extrusion with relation to the ram.
+A dummy block is placed behind it where the ram then presses on the material to push it out of the die.
+The process begins by heating the stock material (for hot or warm extrusion).
+The resulting particle can be blended with compression aids and compressed into tablets or filled into unit dose capsules.
+Image:Aluminium extrusion die back.png|Back side of die.
+3.0–4.5 (0.45–0.70)
+The extrusion process can be done with the material hot or cold.
+The billet is pushed through the die by a ram or screw.
+It is also used to produce modified starch, and to pelletize animal feed.
+Extrusion may be continuous (theoretically producing indefinitely long material) or semi-continuous (producing many pieces).
+The extrusion will have a 1 mil thick layer of glass, which can be easily removed once it cools.
+The disadvantages are:
+*Usually the ductility of the material increases when high pressures are applied.
++ Hot extrusion temperature for various metals
+It also forms parts with an excellent surface finish.
+The process involves the application of heat, pressure and agitation to mix materials together and ‘extrude’ them through a die.
+Sharp corners should be avoided; for aluminium and magnesium the minimum radius should be 0.4&nbsp;mm (1/64&nbsp;in) and for steel corners should be  and fillets should be .
+All of these types of dies incorporate the mandrel in the die and have "legs" that hold the mandrel in place.
+Generally, high-temperature extrusion is used for the manufacture of ready-to-eat snacks, while cold extrusion is used for the manufacture of pasta and related products intended for later cooking and consumption.
+The extrusion process is generally economical when producing between several kilograms (pounds) and many tons, depending on the material being extruded.
+The following table lists the minimum cross-section and thickness for various materials.
+Terracotta extrusion is used to produce pipes.
+One way is to use a hollow billet and then use a fixed or floating mandrel.
+Hot melt extrusion has been shown to molecularly disperse poorly soluble drugs in a polymer carrier increasing dissolution rates and bioavailability.
+The products of extrusion are generally called "extrudates".
+'''Extrusion''' is a process used to create objects of a fixed cross-sectional profile.
+The disadvantage is that they are slow, between 50 and 200&nbsp;mm/s (2–8 ips).
+Sometimes, a catalyst is used, for example, when producing texturised vegetable proteins (TVP).
+Ceramic can also be formed into shapes via extrusion.
+It is then loaded into the container in the press.
+This diameter, in turn, controls the size of the die required, which ultimately determines if the part will fit in a given press.
+The maximum length of the extrusion is ultimately dictated by the column strength of the stem.
+Plastics extrusion commonly uses plastic chips or pellets, which are usually dried, to drive out moisture, in a hopper before going to the feed screw.
+Image:Aluminium extrusion die closeup.png|Close up of the shape cut into the die.
+Microextrusion is a microforming extrusion process performed at the submillimeter range.
+* '''Magnesium''' (575 to 1100&nbsp;°F (300 to 600&nbsp;°C)) aircraft parts and nuclear industry parts.
+They are also used on materials that must be heated to very hot temperatures for safety reasons.
+Hydrostatic extrusion presses usually use castor oil at pressure up to 1400 MPa (200 ksi).
+*The container liner will last longer due to less wear
+A multitude of polymers are used in the production of plastic tubing, pipes, rods, rails, seals, and sheets or films.
+1200–1300 (2200–2400)
+If a solid billet is used as the feed material then it must first be pierced by the mandrel before extruding through the die.
+The extrudate is cooled and solidified as it is pulled through the die or water tank.
+A special press is used in order to control the mandrel independently from the ram.
+If better properties are required then it may be heat treated or cold worked.
+Notice that the walls are drafted and that the back wall thickness varies.
+This affects the cost of tooling as well as the rate of production.
+Typical extrusion presses cost more than $100,000, whereas dies can cost up to $2000.
+Hollow cavities within extruded material cannot be produced using a simple flat extrusion die, because there would be no way to support the centre barrier of the die.
+At the end of the billet the force greatly increases because the billet is thin and the material must flow radially to exit the die.
+They supply a constant pressure throughout the whole billet.
+The complexity of an extruded profile can be roughly quantified by calculating the ''shape factor'', which is the amount of surface area generated per unit mass of extrusion.
+The dry mix is passed through a pre-conditioner, in which other ingredients may be added, and steam is injected to start the cooking process.
+* '''Brass''' is used to extrude corrosion free rods, automobile parts, pipe fittings, engineering parts.
+The processed products have low moisture and hence considerably higher shelf life, and provide variety and convenience to consumers.
+Image:Aluminium extrusion die front.png|Front side of a four family die.
+The two main advantages of this process over other manufacturing processes are its ability to create very complex cross-sections, and to work materials that are brittle, because the material only encounters compressive and shear stresses.
+The maximum size for an extrusion is determined by finding the smallest circle that will fit around the cross-section, this is called the ''circumscribing circle''.
+Metal bar and tube are also often drawn.
+Magnesium and aluminium alloys usually have a  RMS or better surface finish.
+Examples of products include profiles for tracks, frames, rails, mullions, and heat sinks.
+If the ram is held stationary and the die moves towards the ram it is called "indirect extrusion".
+Direct-drive oil presses are the most common because they are reliable and robust.
+3.00–4.75 (0.120–0.187)
+* '''Aluminium''' is the most commonly extruded material.
+The design of an extrusion profile has a large impact on how readily it can be extruded.
+*There is less of a tendency for extrusions to crack because there is no heat formed from friction
+The extrusion production technology of fuel briquettes is the process of extrusion screw wastes (straw, sunflower husks, buckwheat, etc.)
+In 1950, Ugine Séjournet, of France, invented a process which uses glass as a lubricant for extruding steel.
+In the hydrostatic extrusion process the billet is completely surrounded by a pressurized liquid, except where the billet contacts the die.
+Titanium and steel can achieve a  RMS.

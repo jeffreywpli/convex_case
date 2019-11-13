@@ -1,0 +1,200 @@
+The latter is impossible because ''a'' is a real number and the first equation would imply that .
+It also has the formulas
+Quaternions find uses in both theoretical and applied mathematics, in particular for calculations involving three-dimensional rotations such as in three-dimensional computer graphics, computer vision and crystallographic texture analysis.
+The image of a subgroup of versors  is a point group, and conversely, the preimage of a point group is a subgroup of versors.
+Points in space can be represented by their coordinates, which are triples of numbers, and for many years he had known how to add and subtract triples of numbers.
+In practical applications, they can be used alongside other methods, such as Euler angles and rotation matrices, or as an alternative to them, depending on the application.
+Like functions of a complex variable, functions of a quaternion variable suggest useful physical models.
+Even though every quaternion can be viewed as a vector in a four-dimensional vector space, it is common to define a '''vector''' to mean a pure imaginary quaternion.
+Conjugation of quaternions is analogous to conjugation of complex numbers and to transposition (also known as reversal) of elements of Clifford algebras.
+The real group ring of Q8 is a ring '''R'''Q8 which is also an eight-dimensional vector space over '''R'''.
+Therefore, the quaternions '''H''' are a non-commutative associative algebra over the real numbers.
+Important precursors to this work included Euler's four-square identity (1748) and Olinde Rodrigues' parameterization of general rotations by four parameters (1840), but neither of these writers treated the four-parameter rotations as an algebra.
+However, the representation of quaternions as skew-symmetric matrices is not unique.
+The group SU(2) is important for describing spin in quantum mechanics; see Pauli matrices.
+In this picture, quaternions correspond not to vectors but to bivectors – quantities with magnitude and orientations associated with particular 2D ''planes'' rather than 1D ''directions''.
+The unit quaternions can be thought of as a choice of a group structure on the 3-sphere S3 that gives the group Spin(3), which is isomorphic to SU(2) and also to the universal cover of SO(3).
+The axis of a "binary" (180°) rotation quaternion corresponds to the direction of the represented polar vector in such a case.
+In general, let ''p'' and ''q'' be quaternions (possibly non-imaginary), and write
+where ''ps'' and ''qs'' are the scalar parts, and  and  are the vector parts of ''p'' and ''q''.
+They were first described by Irish mathematician William Rowan Hamilton in 1843  and applied to mechanics in three-dimensional space.
+The continuity follows for vanishing ''a''.
+Vector analysis described the same phenomena as quaternions, so it borrowed some ideas and terminology liberally from the literature of quaternions.
+For example, , while .
+It has one basis vector for each element of Q8.
+It "shows how various physical covariance groups: SO(3), the Lorentz group, the general relativity group, the Clifford algebra SU(2), and the conformal group can be readily related to the quaternion group" in modern algebra.
+A feature of quaternions is that multiplication of two quaternions is noncommutative.
+Quaternions are generally represented in the form:
+Many operations on vectors can be defined in terms of quaternions, and this makes it possible to apply quaternion techniques wherever spatial vectors arise.
+The algebra '''H''' holds a special place in analysis since, according to the Frobenius theorem, it is one of only two finite-dimensional division rings containing the real numbers as a proper subring, the other being the complex numbers.
+(Thus the conjugate in the other sense is one of the conjugates in this sense.)
+Addition and multiplication are continuous in the metric topology.
+To satisfy the last three equations, either  or ''b'', ''c'', and ''d'' are all 0.
+Carl Friedrich Gauss had also discovered quaternions in 1819, but this work was not published until 1900.
+This method of commutative subrings is also used to profile the coquaternions and 2 × 2 real matrices.
+Using conjugation and the norm makes it possible to define the reciprocal of a non-zero quaternion.
+For instance, this is true in electrodynamics and 3D computer graphics.
+Rotations in such spaces using these generalisations of quaternions, called rotors, can be very useful for applications involving homogeneous coordinates.
+The advantages of quaternions are:
+The Frobenius theorem states that there are exactly three: '''R''', '''C''', and '''H'''.
+12 of his 1986 book, ''Rotations, Quaternions and Double Groups''.
+When the answer dawned on him, Hamilton could not resist the urge to carve the formula for the quaternions,
+This eliminates the need to change representations and to encode new data structures and methods (which is required when augmenting linear algebra with quaternions).
+Hamilton knew that the complex numbers could be interpreted as points in a plane, and he was looking for a way to do the same for points in three-dimensional space.
+* The norm of a quaternion (the square root of the product with its conjugate, as with complex numbers) is the square root of the determinant of the corresponding matrix.
+Using 4&thinsp;×&thinsp;4 real matrices, that same quaternion can be written as
+Choose a basis consisting of two elements 1 and ''j''.
+The product of two rotation quaternions will be equivalent to the rotation  followed by the rotation .
+He could not figure out how to calculate the quotient of the coordinates of two points in space.
+This representation has the following properties:
+Here the first term in each of the differences is one of the basis elements 1, ''i'', ''j'', and ''k'', and the second term is one of basis elements −1, −''i'', −''j'', and −''k'', not the additive inverses of 1, ''i'', ''j'', and ''k''.
+A possible visualisation was introduced by Andrew J. Hanson.
+# More compact (and faster) than matrices.
+For this reason, conjugation is sometimes called the ''spatial inverse''.
+For example, the same quaternion can also be represented as
+Alternatively it follows from the identity
+Only negative real quaternions have an infinite number of square roots.
+Multiplicativity is a consequence of the formula for the conjugate of a product.
+Similarly for the multiplication.
+This reasoning extends further.
+From the mid-1880s, quaternions began to be displaced by vector analysis, which had been developed by Josiah Willard Gibbs, Oliver Heaviside, and Hermann von Helmholtz.
+Indeed, for any scalar, positive ''a'' it holds
+The sum of two elements of '''H''' is defined to be their sum as elements of '''R'''4.
+The fact that quaternion multiplication is not commutative makes the quaternions an often-cited example of a strictly skew field.
+The basis element 1 will be the identity element of '''H''', meaning that multiplication by 1 does nothing, and for this reason, elements of '''H''' are usually written , suppressing the basis element 1.
+(where ''i'' denotes the usual imaginary unit) and hence from the multiplicative property of determinants of square matrices.
+# Nonsingular representation (compared with Euler angles for example).
+:''a'' + ''b'''i''''' + ''c'''j''''' + ''d'''k'''''
+# Pairs of unit quaternions represent a rotation in 4D space (see ''Rotations in 4-dimensional Euclidean space: Algebra of 4D rotations'').
+As with the 2&thinsp;×&thinsp;2 complex representation above, complex numbers can again be produced by constraining the coefficients suitably; for example, as block diagonal matrices with two 2&thinsp;×&thinsp;2 blocks by setting .
+The equation , for instance, has infinitely many quaternion solutions  with , so that these solutions lie on the two-dimensional surface of a sphere centered on zero in the three-dimensional subspace of quaternions with zero real part.
+(Hamilton called this quantity the ''tensor'' of ''q'', but this conflicts with modern meaning of "tensor").
+In terms of ''a'', ''b'', ''c'', and ''d'', this means
+* A rotor is universally applicable to any element of the algebra, not just vectors and other quaternions, but also lines, planes, circles, spheres, rays, and so on.
+Because it is possible to divide quaternions, they form a division algebra.
+The representations of rotations by quaternions are more compact and quicker to compute than the representations by matrices.
+* In the conformal model of Euclidean geometry, rotors allow the encoding of rotation, translation and scaling in a single element of the algebra, universally acting on any element.
+identify the following advantages for placing quaternions in this wider setting:
+He wrote in his essay ''If Hamilton had prevailed: quaternions in physics'': "My own interest as a graduate student was raised by the inspiring book by Silberstein".
+The quaternion-based proof uses Hurwitz quaternions, a subring of the ring of all quaternions for which there is an analog of the Euclidean algorithm.
+In the complex numbers, there are just two numbers, ''i'' and −''i'', whose square is −1 .
+This makes '''H''' into a metric space.
+From this perspective, quaternions are the result of applying the Cayley–Dickson construction to the complex numbers.
+Concerning general relativity, he expressed the Runge–Lenz vector.
+In the terminology of abstract algebra, these are injective homomorphisms from '''H''' to the matrix rings  and , respectively.
+Because the product of any two basis vectors is plus or minus another basis vector, the set  forms a group under multiplication.
+If a quaternion is divided up into a scalar part and a vector part, i.e.
+The preimage of a finite point group is called by the same name, with the prefix '''binary'''.
+xxv (1844), pp 489–95.
+Unlike the situation in the complex plane,
+In modern mathematical language, quaternions form a four-dimensional associative normed division algebra over the real numbers, and therefore also a domain.
+In fact, the quaternions were the first noncommutative division algebra to be discovered.
+The versor of the vector part of ''q'', , is a pure imaginary unit quaternion, so its square is −1.
+He cited five authors, beginning with Ludwik Silberstein, who used a potential function of one quaternion variable to express Maxwell's equations in a single differential equation.
+To define the product of two elements in '''H''' requires a choice of basis for '''R'''4.
+The '''conjugate''' of ''q'' is the quaternion .
+In this representation, the conjugate of a quaternion corresponds to the transpose of the matrix.
+But it is only in 3D that the number of basis bivectors equals the number of basis vectors, and each bivector can be identified as a pseudovector.
+The fourth power of the norm of a quaternion is the determinant of the corresponding matrix.
+For the remainder of this section, ''i'', ''j'', and ''k'' will denote both imaginary basis vectors of '''H''' and a basis for '''R'''3.
+These rings are also Euclidean Hurwitz algebras, of which quaternions are the largest associative algebra.
+In addition, unlike Euler angles they are not susceptible to gimbal lock.
+The term "conjugation", besides the meaning given above, can also mean taking an element ''a'' to ''rar''−1 where ''r'' is some non-zero element (quaternion).
+In fact, there exist 48 distinct representations of this form.
+This non-Abelian Group is called the quaternion group and is denoted Q8.
+For example, the original electric and magnetic fields described by Maxwell were functions of a quaternion variable.
+The relation to complex numbers becomes clearer, too: in 2D, with two vector directions σ1 and σ2, there is only one bivector basis element σ1σ2, so only one imaginary.
+It also has the formula
+Quaternions can be represented as pairs of complex numbers.
+There are at least two ways of representing quaternions as matrices in such a way that quaternion addition and multiplication correspond to matrix addition and matrix multiplication.
+A more personal view of quaternions was written by Joachim Lambek in 1995.
+In '''H''' there are infinitely many square roots of minus one: the quaternion solution for the square root of −1 is the unit sphere in '''R'''3.
+Conjugation can be used to extract the scalar and vector parts of a quaternion.
+the choice of ''a'' and ''b''.
+This gives the following expression:
+(Note that this is not the same as .)
+The great breakthrough in quaternions finally came on Monday 16 October 1843 in Dublin, when Hamilton was on his way to the Royal Irish Academy where he was going to preside at a council meeting.
+The set of all unit quaternions (versors) forms a 3-sphere ''S''3 and a group (a Lie group) under multiplication, double covering the group  of real orthogonal 3×3 matrices of determinant 1 since ''two'' unit quaternions correspond to every rotation under the above correspondence.
+In particular, this means that rotors can represent rotations around an arbitrary axis, whereas quaternions are limited to an axis through the origin.
+This is a generalization of the construction of the complex numbers as pairs of real numbers.
+He concluded by stating "I firmly believe that quaternions can supply a shortcut for pure mathematicians who wish to familiarize themselves with certain aspects of theoretical physics."
+This makes it possible to divide two quaternions ''p'' and ''q'' in two different ways (when q is non-zero).
+* By restriction this representation yields an isomorphism between the subgroup of unit quaternions and their image SU(2).
+Conjugation is an involution, meaning that it is its own inverse, so conjugating an element twice returns the original element.
+Because the vector part of a quaternion is a vector in '''R'''3, the geometry of '''R'''3 is reflected in the algebraic structure of the quaternions.
+If we write the elements of '''C'''2 as ordered pairs and quaternions as quadruples, then the correspondence is
+To see this, let  be a quaternion, and assume that its square is −1.
+In other words, a quaternion squares to −1 if and only if it is a vector (that is, pure imaginary) with norm 1.
+Hamilton's treatment is more geometric than the modern approach, which emphasizes quaternions' algebraic properties.
+By the Artin–Wedderburn theorem (specifically, Wedderburn's part), CSAs are all matrix algebras over a division algebra, and thus the quaternions are the only non-trivial division algebra over the reals.
+The scalar part of a quaternion is always real, and the vector part is always pure imaginary.
+A polar vector can be represented in calculations (for example, when rotated by a quaternion "similarity transform") by a pure imaginary quaternion, with no loss of information, but the two should not be confused.
+It is denoted by ''q''∗, , ''qt'', or .
+There was even a professional research association, the Quaternion Society, devoted to the study of quaternions and other hypercomplex number systems.
+Multiplication of quaternions is associative and distributes over vector addition, but it is not commutative.
+Just as complex numbers can be represented as matrices, so can quaternions.
+The set '''H''' of all quaternions is a vector space over the real numbers with dimension 4.
+where ''a'', ''b'', ''c'', and ''d'' are real numbers, and  '''''i''''', '''''j''''', and '''''k''''' are the fundamental ''quaternion units''.
+That is, their quotient can be either ''p q''−1 or ''q''−1''p''.
+The elements of this basis are customarily denoted as 1, ''i'', ''j'', and ''k''.
+Thus the multiplicative group of non-zero quaternions acts by conjugation on the copy of '''R'''3 consisting of quaternions with real part equal to zero.
+But in 3D, with three vector directions, there are three bivector basis elements σ1σ2, σ2σ3, σ3σ1, so three imaginaries.
+The fact that the quaternions are the only non-trivial CSA over the reals (up to equivalence) may be compared with the fact that the complex numbers are the only non-trivial field extension of the reals.
+However, vector analysis was conceptually simpler and notationally cleaner, and eventually quaternions were relegated to a minor role in mathematics and physics.
+Choose two imaginary quaternions  and .
+Multiplying a quaternion by a real number scales its norm by the absolute value of the number.
+Specifically, since two quaternions ''p'' and ''q'' commute () only if they lie in the same complex subplane of '''H''', the profile of '''H''' as a union of complex planes arises when one seeks to find all commutative subrings of the quaternion ring.
+For this reason, quaternions are used in computer graphics,''Tomb Raider'' (1996) is often cited as the first mass-market computer game to have used quaternions to achieve smooth three-dimensional rotations.
+Now the basis elements can be multiplied using the rules given above to get:
+* The conjugate of a quaternion corresponds to the conjugate transpose of the matrix.
+This is equal to the scalar parts of ''pq''∗, ''qp''∗, ''p''∗''q'', and ''q''∗''p''.
+Let '''C'''2 be a two-dimensional vector space over the complex numbers.
+Explicitly, the Brauer group of the reals consists of two classes, represented by the reals and the quaternions, where the Brauer group is the set of all CSAs, up to equivalence relation of one CSA being a matrix ring over another.
+This is a structure similar to a field except for the non-commutativity of multiplication.
+The quaternions are "essentially" the only (non-trivial) central simple algebra (CSA) over the real numbers, in the sense that every CSA over the reals is Brauer equivalent to either the reals or the quaternions.
+Then we have the formula
+Quaternions are also used in one of the proofs of Lagrange's four-square theorem in number theory, which states that every nonnegative integer is the sum of four integer squares.
+For the commutator, ''p'', ''q'' = ''pq'' − ''qp'', of two imaginary quaternions one obtains
+A side-effect of this transition is that  Hamilton's work is difficult to comprehend for many modern readers.
+The cross product of ''p'' and ''q'' relative to the orientation determined by the ordered basis ''i'', ''j'', and ''k'' is
+The quaternions are also an example of a composition algebra and of a unital Banach algebra.
+Hamilton's original definitions are unfamiliar and his writing style was wordy and difficult to understand.
+The notation  is ambiguous because it does not specify whether ''q'' divides on the left or the right.
+Quaternion algebra was introduced by Hamilton in 1843.
+At this time, quaternions were a mandatory examination topic in Dublin.
+A number of the form , where ''a'' is a real number, is called '''real''', and a number of the form , where ''b'', ''c'', and ''d'' are real numbers, and at least one of ''b'', ''c'' or ''d'' is nonzero, is called '''pure imaginary'''.
+In the Clifford algebra Cℓ4,0('''R'''), there are six bivector basis elements, since with four different basic vector directions, six different pairs and therefore six different linearly independent planes can be defined.
+All others have just two (or one in the case of 0).
+* Rotors are natural and non-mysterious in geometric algebra and easily understood as the encoding of a double reflection.
+For example, it is common for the attitude control systems of spacecraft to be commanded in terms of quaternions.
+Girard began by discussing group representations and by representing some space groups of crystallography.
+It can also be given by the Clifford algebra classifications .
+In 1999 he showed how Einstein's equations of general relativity could be formulated within a Clifford algebra that is directly linked to quaternions.
+If we define  and , then we can multiply two vectors using the distributive law.
+for any two quaternions ''p'' and ''q''.
+By definition, the set of all such vectors forms the unit sphere.
+He mentioned the Clifford biquaternions (split-biquaternions) as an instance of Clifford algebra.
+However, Hamilton had been stuck on the problem of multiplication and division for a long time.
+All elements that are conjugate to a given element (in this sense of the word conjugate) have the same real part and the same norm of the vector part.
+He founded a school of "quaternionists", and he tried to popularize quaternions in several books.
+The noncommutativity of multiplication has some unexpected consequences, among them that polynomial equations over the quaternions can have more distinct solutions than the degree of the polynomial.
+The square root of the product of a quaternion with its conjugate is called its '''norm''' and is denoted
+This norm makes it possible to define the '''distance'''  between ''p'' and ''q'' as the norm of their difference:
+More precisely, there are 48 sets of quadruples of matrices such that a function sending 1, ''i'', ''j'', and ''k'' to the matrices in the quadruple is a homomorphism, that is, it sends sums and products of quaternions to sums and products of matrices.
+Therefore, the above vector of complex numbers corresponds to the quaternion .
+Under this function,  is the image of the complex number .
+Let ''A'' be the set of quaternions of the form  where ''a'', ''b'', ''c'', and ''d'' are either all integers or all rational numbers with odd numerator and denominator 2.
+The last and longest of his books, ''Elements of Quaternions'', was 800 pages long; it was published shortly after his death.
+the conjugation of a quaternion can be expressed entirely with multiplication and addition:
+On the following day, Hamilton wrote a letter to his friend and fellow mathematician, John T. Graves, describing the train of thought that led to his discovery.
+Conjugation by a unit quaternion (a quaternion of absolute value 1) with real part cos(θ) is a rotation by an angle 2θ, the axis of the rotation being the direction of the imaginary part.
+into the stone of Brougham Bridge as he paused on it.
+'''H''' has three operations: addition, scalar multiplication, and quaternion multiplication.
+The distributive law makes it possible to expand the product so that it is a sum of products of basis elements.
+After Hamilton's death, his student Peter Tait continued promoting quaternions.
+The relationship of quaternions to each other within the complex subplanes of '''H''' can also be identified and expressed in terms of commutative subrings.
+Hamilton's carving is no longer visible.
+A vector in '''C'''2 can be written in terms of the basis elements 1 and ''j'' as
+Among the fifty references, Girard included Alexander Macfarlane and his ''Bulletin'' of the Quaternion Society.
+It is important to note, however, that the vector part of a quaternion is, in truth, an "axial" vector or "pseudovector", ''not'' an ordinary or "polar" vector, as was formally proven by S.L.
+For instance, the preimage of the icosahedral group is the binary icosahedral group.

@@ -1,0 +1,200 @@
+Resin is used to coat the fibers, sealing them together to form a sheet of Spectra cloth.
+Neoprene foam, EVA foam, sheet rubber
+A number of issues with the first versions of the tests needed to be addressed.
+Unfortunately, this means that ceramic plates become progressively less capable of stopping additional bullets, and may be rendered unusable after a certain number of hits have been taken.
+This plate saved Miller on two occasions; and it proved to be highly resistant to pistol bullets and shotguns.
+Ballistic testing has a number of sources of variability: the armor, test backing materials, bullet, casing, powder, primer and the gun barrel, to name a few.
+The para-aramids have not progressed beyond the limit of 23&nbsp;grams per denier in fiber tenacity.
+Officers who are either female or significantly overweight have more difficulty in getting accurately measured and having comfortable armor fabricated.
+The US National Institute of Justice ballistic and stab documents are examples of broadly accepted standards.
+This established a set of goals for military ballistic vest design.
+The drop mass was reduced from the “ice pick test” and a wrist-like soft linkage was engineered into the penetrator-sabot to create a more realistic test impact.
+The vest absorbs the energy from the deforming bullet, bringing it to a stop before it can completely penetrate the textile matrix.
+This multi-threat approach is common in the United Kingdom and other European countries and is less popular in the USA.
+It also provides protection against the threats mentioned in Types I, IIA, II, and IIIA.
+These three high stops and three low penetrations can then be used to calculate a ''v''50 velocity.
+Used in stab testing
+The allowable backface signature for body armor has been controversial from its introduction in the first NIJ test standard and the debate as to the relative importance of penetration-resistance vs. backface signature continues in the medical and testing communities.
+It is possible to segment the fragment output from a warhead into velocity groups.
+Even without penetration, modern pistol bullets contain enough energy to cause blunt force trauma under the impact point.
+Since the 1970s, several new fibers and construction methods for bulletproof fabric have been developed besides woven Kevlar, such as DSM's Dyneema, Honeywell's Gold Flex and Spectra, Teijin Twaron's Twaron, Pinnacle Armor's Dragon Skin, and Toyobo's Zylon.
+Vests that combined stab and ballistic protection were a significant innovation in the 1990s period of vest development.
+It also provides protection against the threats mentioned in Type I.
+This approach defines the test process under the 662F/2920 standard.
+Provides dynamic view of event.
+One important factor in test backing for armor is its hardness.
+For example, 95% of all fragments from a bomb blast under  have a velocity of  or less.
+In order for ballistic protection to be wearable the ballistic panels and hard rifle-resistant plates are fitted inside a special carrier.
+These new designs use two- and three-dimensional arrays of ceramic elements that can be rigid, flexible or semi-flexible.
+The current standard HOSDB Body Armour Standards for UK Police (2007) Part 3: Knife and Spike Resistance is harmonized with the US NIJ OO15 standard, use a drop test method and use a composite foam backing as a tissue simulant.
+One of the stated aims of Kelly was the establishment of a Republic in North East Victoria.
+There are many shops in Europe that sell ballistic vests and body armor, used or new.
+US military standard MIL-STD-662F V50 Ballistic Test define a commonly used procedure for this measurement.
+Upon impact, the projectiles deformed into a cone shape around the graphene before ultimately breaking through.
+In combination with more traditional woven fabrics and laminates a number of research efforts are working with ballistic felts.
+* 14.9 g (230 gr) .45 ACP Full Metal Jacketed (FMJ) bullets at a velocity of 259&nbsp;m/s ± 9.1&nbsp;m/s (850&nbsp;ft/s ± 30&nbsp;ft/s).
+The US and NATO military armor designs are tested using a standard set of test methods under ARMY MIL-STD-662F and STANAG 2920 Ed2.
+One novel approach is use of hook and loop fasteners to assemble the ceramic arrays.
+It also provides at least single hit protection against the threats mentioned in Types I, IIA, II, IIIA, and III.
+These jackets were made of nylon fabric and capable of stopping flak and shrapnel, but were not designed to stop bullets.
+By 2006, more than 2,000 documented police vest "saves" were recorded, validating the success and efficiency of lightweight able body armor as a standard piece of everyday police equipment.
+The multi-threat vests have areal densities are close to the sum of the two solutions separately.
+As a result, each law enforcement agency or para-military organization will have their own standard for armor performance if only to ensure that their armor protects them from their own weapons.
+In this early phase only titanium and steel plate offerings were successful in addressing this requirement.
+Its actual effectiveness was controversial at the time.
+Good simulant for human tissue, hard to use, expensive.
+The clay is used at a controlled temperature and verified for impact flow before testing.
+The carrier is the visible part of a ballistic vest.
+Real tissue is variable
+If the variability is known and the standard deviation can be calculated, one can rigorously set the V0 at a confidence interval.
+In Germany, Mehler Vario Systems developed hybrid vests of woven para-aramid and chainmail, and their solution was selected by London's Metropolitan Police Service.
+Measuring the ballistic performance of armor is based on determining the kinetic energy of a bullet at impact (''E''''k''&nbsp;= ½ ''mv''2).
+In addition to the stab standards, HOSDB has developed a standard for slash resistance (2006).
+The men used the armour to cover their torsos, upper arms, and upper legs, and was worn with a helmet.
+This armor was supplied to SHISBr (assault engineers) and to Tankodesantniki (infantry that rode on tanks) of some tank brigades.
+Tex Tech has been working on these materials.
+It should be noted that these textile materials do not have equal performance with cutting-edge threats and these certifications were only with ice pick and were not tested with knives.
+Failure of ceramic plates by cracking must also be controlled.
+United States law restricts possession of body armor for convicted violent felons.
+The military type of carrier, English police waistcoat carrier, or police tactical carrier most typically has a series of webbing, hook and loop, and snap type connectors on the front and back face.
+The British army medical services calculated towards the end of the War, that three quarters of all battle injuries could have been prevented if an effective armor had been issued.
+NIJ standards are used for law enforcement armors.
+An area of special activity pertaining to vests is the emerging use of small ceramic components.
+These early vests could absorb the impact of handgun rounds such as .22 Long Rifle, .25 ACP, .32 S&W Long, .32 S&W, .380 ACP, .38 Special and .45 ACP traveling at speeds of up to .
+The co-efficient of friction for ultra high molecular weigh polyethylene (UHMWPE) prevented its use in this application.
+The hardness of the ceramic prevents the penetration of the bullet while the tensile strength of the fiber backing helps prevent tensile failure.
+''v''0 is difficult to measure, so a second concept has been developed in ballistic testing called the ballistic limit (''v''50).
+Although harder and less deformable than human tissue, Roma represents a “worst case” backing material when plastic deformations in the oil/clay are low (less than 20&nbsp;mm).
+By the mid-to-late 1980s, an estimated 1/3 to 1/2 of police patrol officers wore able vests daily.
+Body armor may combine a ballistic vest with other items of protective clothing, such as a combat helmet.
+* 10.2 g (158 gr) .357 Magnum Jacketed Soft Point bullets at a velocity of 408&nbsp;m/s ±9.1&nbsp;m/s (1340&nbsp;ft/s ± 30&nbsp;ft/s).
+Conditioned armor protects against
+There are two major types of carriers: military or tactical carriers that are worn over the shirt, and covert law enforcement type carriers that are worn under the shirt.
+Ceramic materials, materials processing and progress in ceramic penetration mechanics are significant areas of academic and industrial activity.
+In this first version, the PSDB ’93 test also used oil/clay materials as the tissue simulant backing.
+These RCC Fragment Simulation Projectiles (FSPs) are tested as a group.
+A very useful concept in armor testing is the offset velocity between the ''v''0 and ''v''50.
+These vests may incorporate coated and laminated para-aramid textiles or metallic components.
+In practice this measurement of ''v''50 requires 1–2 vest panels and 10–20 shots.
+This protection from moisture cycling increases the useful life of the armor.
+Currently, there are a number of methods by which nanomaterials are being implemented into body armor production.
+In order to test at a representative velocity, an air cannon method was developed to propel the knife and sabot at the vest target using compressed air.
+While ceramic materials have some outstanding properties for ballistics they have poor fracture toughness.
+The Barrier Vest was the first police vest to gain wide use during high threat police operations.
+In 2005 an Israeli company, ApNano, developed a material that was always rigid.
+These designs were used extensively by the London Metropolitan Police Service and other agencies in the United Kingdom.
+The US military has developed body armor for the working dogs who aid GIs in battle.
+Because the energy of a bullet is a key factor in its penetrating capacity, velocity is used as the primary independent variable in ballistic testing.
+This system is currently implemented in the Netherlands.
+NIJ Standard-0101.06 has specific performance standards for bullet resistant vests used by law enforcement.
+* 15.6 g (240 gr) .44 Magnum Semi Jacketed Hollow Point (SJHP) bullets at a velocity of 408&nbsp;m/s ± 9.1&nbsp;m/s (1340&nbsp;ft/s ± 30&nbsp;ft/s).
+Five thousand sets were made and evaluated to almost unanimous approval - as well as providing adequate protection, the armor didn't severely impede the mobility of the soldier and were reasonably comfortable to wear.
+Ref (NIJ and HOSDB certification listings).
+Conditioned armor protects against
+The most recent offering from Kevlar, Protera, was released in 1996.
+To overcome these vests, law enforcement agents such as the FBI began using the newer and more powerful .38 Super, and later the .357 Magnum cartridge.
+In the three nanoseconds it held together however, the transferred energy traveled through the material at a speed of 22.2&nbsp;km (13.8&nbsp;mi) per second, faster than any other known material.
+* 6.2 g (95 gr) .380 ACP Full Metal Jacketed Round Nose (FMJ RN) bullets at a velocity of 322&nbsp;m/s (1055&nbsp;ft/s ± 30&nbsp;ft/s).
+Newer armor issued by the United States armed forces to large numbers of troops includes the United States Army's Improved Outer Tactical Vest and the United States Marine Corps  Modular Tactical Vest.
+The starting point for this development were the ballistic-only offerings of that time using NIJ Level 2A, 2, and 3A or HOSDB HG 1 and 2, with compliant ballistic vest products being manufactured with areal densities of between 5.5 and 6&nbsp;kg/m² (1.1 and 1.2&nbsp;lb/ft² or 18 and 20 oz/ft²).
+During the late 1920s through the early 1930s, gunmen from criminal gangs in the United States began wearing less-expensive vests made from thick layers of cotton padding and cloth.
+Beginning in the early 1990s, an optional test method was approved by California which permitted the use of 10% ballistic gelatin as a replacement for Roma clay.
+During the English Civil War Oliver Cromwell's Ironside cavalry were equipped with Capeline helmets and musket-proof cuirasses which consisted of two layers of armor plate (in later studies involving X-ray a third layer was discovered which was placed in between the outer and inner layer).
+These newer materials are advertised as being lighter, thinner and more resistant than Kevlar, although they are much more expensive.
+* 8 g (124 gr) 9&nbsp;mm FMJ RN bullets at a velocity of 355&nbsp;m/s ± 9.1&nbsp;m/s (1165&nbsp;ft/s ± 30&nbsp;ft/s)
+Moderate agreement with tissue, easy to use, low in cost.
+In 1561, Maximilian II, Holy Roman Emperor is recorded as testing his armor against gun-fire.
+Microscopic spherical silica "bullets" were fired at the sheets at speeds of up to 3&nbsp;km (1.9&nbsp;mi) per second, almost nine times the speed of sound.
+During the Korean War several new vests were produced for the United States military, including the M-1951, which made use of fibre-reinforced plastic or aluminium segments woven into a nylon vest.
+A scaled waistcoat of overlapping steel scales fixed to a leather lining was also designed; this armor weighed , fit close to the body, and was considered more comfortable.
+Monolithic plates also have limited multi hit capacity as a result of their large impact fracture zone These are the motivations for new types of armor plate.
+Like the 3D weaving, Tex Tech sees the advantage in the 3-axis fiber orientation.
+In addition to load carriage, this type of carrier may include pockets for neck protection, side plates, groin plates, and backside protection.
+The SN armor protected wearers from 9×19mm bullets fired by an MP 40 at around 100 meters, which made it useful in urban battles such as the Battle of Stalingrad.
+The second part of “Casualty Reduction” strategy is a study of velocity distributions of fragments from munitions.
+Their armour deflected many hits with none penetrating, but eventually was of no use as the suits lacked protection for the legs and hands.
+* 10.8 g (166 gr) .30-06 Springfield M2 armor-piercing (AP) bullets at a velocity of 878&nbsp;m/s ± 9.1&nbsp;m/s (2880&nbsp;ft/s ± 30&nbsp;ft/s).
+These "Chicken Plates" were made of either boron carbide, silicon carbide, or aluminium oxide.
+All of these systems are designed with the vest intended to provide protection from fragments and pistol rounds.
+A similar vest, made by Polish inventor Jan Szczepanik in 1901, saved the life of Alfonso XIII of Spain when he was shot by an attacker.
+The use of body armour while committing a crime is not an additional offense in itself, but may be interpreted as so under different laws such as resisting arrest.
+Armor is more easily penetrated in testing when backed by harder materials, and therefore harder materials, such as Roma clay, represent more conservative test methods.
+The ice pick has a 4&nbsp;mm (0.16&nbsp;in) diameter with a sharp tip with a 5.4&nbsp;m/s (17&nbsp;ft/s) terminal velocity in the test.
+The lightweight, able vest industry was launched and a new form of daily protection for the modern police officer was quickly adapted.
+The French also experimented with steel visors attached to the Adrian helmet and 'abdominal armor' designed by General Adrian.
+This test specified 109 joules (81&nbsp;ft·lb) of energy and a 7.3&nbsp;kg (16&nbsp;lb) drop mass with a drop height of 153&nbsp;cm (60&nbsp;in).
+Conditioned armor protects against
+The test equipment measures the force at the instant the blade tip produces a sustained slash through the vest.
+The California standard did not include knife or cutting edge weapons in the test protocol.
+The armor would be left badly dented but still serviceable.
+Hard vehicle armor is capable of stopping all fragments, but military personnel can only carry a limited amount of gear and equipment, so the weight of the vest is a limiting factor in vest fragment protection.
+Finer yarns and lighter woven fabrics have been a key factor in improved ballistic results.
+Vests that will be tested after ISO type water immersion tend to have heat sealed enclosures and those that are tested under NIJ type water spray methods tend to have water resistant enclosures.
+During the tests, the material proved to be so strong that after the impact the samples remained essentially unmarred.
+New armor protects against
+The plates were 2&nbsp;mm thick and weighed 3.5&nbsp;kg (7.7&nbsp;lb).
+This rates vests on the following scale against penetration and also blunt trauma protection (deformation):
+As was later shown by the work of the former British PSDB, this test over stated the capacity of human attackers.
+Rolls Royce Composites -Megit and Highmark produced metallic array systems to address this HOSDB standard.
+Team Engineering Inc is designing and weaving these multi layer materials.
+On 28 June 1914, Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary was fatally shot; despite owning a silk bulletproof vest, which tests by Britain's Royal Armouries indicate would likely have stopped a bullet of that era, and despite being aware of potential threats to his life including an attempted assassination of his uncle a few years earlier, Ferdinand was not wearing his on that fateful day.
+Taking the form of hexagonally-arranged atoms, its tensile strength is known to be 200 times greater than steel, but studies from Rice University have revealed it is also 10 times better than steel at dissipating energy, an ability that had previously not been thoroughly explored.
+In the mid-1970s, DuPont the company which employed Kwolek introduced Kevlar.
+Used for most standard testing
+Named TALOS, this new technology may be used in the future.
+The maker's stamp (Lennon Number 2 Type) was found inside several of the plates.
+The British company Wilkinson Sword began to produce flak jackets for bomber crew in 1943 under contract with the Royal Air Force.
+Variability reduces the predictive power of a determination of V0.
+* 8.1 g (125 gr) .357 SIG FMJ Flat Nose (FN) bullets at a velocity of 430&nbsp;m/s ± 9.1&nbsp;m/s (1410&nbsp;ft/s ± 30&nbsp;ft/s)
+In 1971, research chemist Stephanie Kwolek discovered a liquid crystalline polymer solution.
+Developed by Natick Laboratories and introduced in 1967, T65-2 plate carriers were the first vests designed to hold hard ceramic plates, making them capable of stopping 7 mm rifle rounds.
+They all contain a steel casing that is designed to burst into small steel fragments or shrapnel, when their explosive core detonates.
+The manufacture of array type systems with flex, consistent ballistic performance at edges of ceramic elements is an active area of research.
+In addition advanced ceramic processing techniques arrays require adhesive assembly methods.
+In 1887, he wrote an article titled ''Impenetrability of Silk to Bullets'' for the ''Southern California Practitioner'' documenting the first known instance of bulletproof fabric.
+At the Shot Show in 2008, a unique composite of interlocking steel plates and soft UHWMPE plate was exhibited by TurtleSkin.
+These "model" standards are usually adapted by other counties by incorporation of the basic test methodologies with modification of the bullets that are required for test.
+Vests of this type are still in service in US corrections facilities as of 2008.
+Similarly, in 1590 Sir Henry Lee expected his Greenwich armor to be "pistol proof".
+These ceramic-coated products do not have the flexibility and softness of un-coated textile materials.
+Warhead explosives have blast speeds of  to .
+The format of Ranger Body Armor (and more recent body armor issued to US special operations units) highlights the trade-offs between force protection and mobility that modern body armor forces organizations to address.
+For some ballistic fibers such as Kevlar the slip is a critical part of the system.
+Many U.S. states also have penalties for possession or use of body armor by felons.
+Pig or Sheep animal testing
+Graphene is manufactured from carbon and is the thinnest, strongest, and most conductive material on the planet.
+By 1900, gangsters were wearing $800 silk vests to protect themselves.
+Various ceramic materials types are in use, however: aluminum oxide, boron carbide and silicon carbide are the most common.
+Ballistic vests use layers of very strong fibers to "catch" and deform a bullet, mushrooming it into a dish shape, and spreading its force over a larger portion of the vest fiber.
+These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.
+In addition, special requirements can be defined under this process for armors for flexible rifle protection, fragment protection for the extremities, etc.
+Body armor standards are regional.
+Long chain silicone polymer
+In 1976, Richard Davis, founder of Second Chance Body Armor, designed the company's first all-Kevlar vest, the Model Y.
+Data suggests if the M5 material can be brought to market, its performance will be roughly equivalent to PBO.
+An improved version, the Infantrie-Panzer, was introduced in 1918, with hooks for equipment.
+Toronto has passed similar laws, but are not yet in force.
+To make Kevlar cloth, the Kevlar yarns are woven in the simplest pattern, plain or tabby weave.
+Slightly harder than gelatin
+Kim Gi-Doo and Gang Yoon found that cotton could protect against bullets if 10 layers of cotton fabric were used.
+A 'necklet' was successfully issued on a small scale (due to cost considerations), which protected the neck and shoulders from bullets traveling at 600 feet per second with interwoven layers of silk and cotton stiffened with resin.
+Three-dimensional weaving with fibers connecting flat wovens together into a 3D system are being considered for both hard and soft ballistics.
+Many programs specify full custom measurement and manufacturing of armor panels and carriers to ensure good fit and comfortable armor.
+In 1975 Richard A. Armellino, the founder of American Body Armor, marketed an all Kevlar vest called the K-15, consisting of 15 layers of Kevlar that also included a 5" × 8" ballistic steel "Shok Plate" positioned vertically over the heart and was issued US Patent #3,971,072 for this innovation.
+* 15.6 g (240 gr) .44 Magnum Semi Jacketed Hollow Point (SJHP) bullets at a velocity of 436&nbsp;m/s (1430&nbsp;ft/s ± 30&nbsp;ft/s).
+The trend in multi threat armor continues with requirements for needle protection in the  Draft ISO prEN ISO 14876 norm.
+Unlike Kevlar, the Spectra used in bulletproof vests is usually not woven.
+It is no longer part of the standard.
+* 11.7 g (180 gr) .40 S&W FMJ bullets at a velocity of 325&nbsp;m/s ± 9.1&nbsp;m/s (1065&nbsp;ft/s ± 30&nbsp;ft/s)
+These vests often have a ballistic plate inserted into the vest.
+See NIJ levels 3 and 4 for typical requirements for rifle resistant armor.
+The strike face is ceramic with the backface formed of laminated fiber and resin materials.
+The test method used the oil/clay (Roma Plastilena) tissue simulant as a test backing.
+In the mid-1980s the state of California Department of Corrections issued a requirement for a body armor using a commercial ice pick as the test penetrator.
+Required for FBI test methods
+The DOD and MOD armor programs-of-record (MTV for example) procure armor using these test standards.
+Each armor program can select a unique series of projectiles and velocities as required.
+These new standards created a focus on Level 1 at , Level 2 at  , Level 3 at  protection as tested with the new engineered knives defined in these test documents.
+American outlaw and gunfighter Jim Miller, was infamous for wearing a steel breastplate over his frock coat as a form of body armor.
+An insert to protect the spine is usually applied to the back, in case an explosion blasts the wearer.
+For the higher levels of protection L2 and L3, the very aggressive penetration of the small, thin P1 blade has resulted in the continued use of metallic components in stab armor.

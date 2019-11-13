@@ -1,0 +1,200 @@
+With the advent of computers, lever jams are no longer an issue, but nevertheless, QWERTY layouts were adopted for electronic keyboards because they were widely used.
+A common application today of the Esc key is as a shortcut key for the Stop button in many web browsers.
+The Home key is used to return the cursor to the beginning of the line where the cursor is located; the End key puts the cursor at the end of the line.
+A flat, non-reflective surface is also required for the keys to be projected.
+Numeric keyboards contain only numbers, mathematical symbols for addition, subtraction, multiplication, and division, a decimal point, and several function keys.
+In programming, especially old DOS-style BASIC, Pascal and C, Break is used (in conjunction with Ctrl) to stop program execution.
+By this time, text-only user interfaces with sparse graphics gave way to comparatively graphics-rich icons on screen.
+They may not have a numerical keypad, and the function keys may be placed in locations that differ from their placement on a standard, full-sized  keyboard.
+While it is used legally to measure employee productivity on certain clerical tasks, or by law enforcement agencies to find out about illegal activities, it is also used by hackers for various illegal or malicious acts.
+The Enter/Return key typically causes a command line, window form or dialog box to operate its default function, which is typically to finish an "entry" and begin the desired process.
+In the first electronic keyboards in the early 1970s, the key switches were individual switches inserted into holes in metal frames.
+Navigation keys or cursor keys include a variety of keys which move the cursor to different positions on the screen.
+Some chorded keyboards are also made for use in situations where fewer keys are preferable, such as on devices that can be used with only one hand, and on small mobile devices that don't have room for larger keyboards.
+However, for typing the keyboard must be resting on a hard surface.
+Most optical keyboards require at least 2 beams (most commonly vertical beam and horizontal beam) to determine the actuated key.
+Multifunctional keyboards provide additional function beyond the standard keyboard.
+Earlier models were developed separately by individuals such as Royal Earl House and Frederick G. Creed.
+The numeric characters become symbols or punctuation marks when the shift key is depressed.
+A key press generates a scancode which is interpreted as an alphanumeric character or control function.
+Until "monoblocks" came along, GE's "self-lubricating" Delrin was the only plastic material for keyboard switch plungers that could withstand the beating over tens of millions of cycles of lifetime use.
+Over time, less key travel was accepted in the market, finally landing on 0.110&nbsp;inches (2.79&nbsp;mm).
+Automatic form-filling programs can prevent keylogging entirely by not using the keyboard at all.
+Enabling a firewall does not stop keyloggers per se, but can possibly prevent transmission of the logged material over the net if properly configured.
+A thumb keyboard (thumb board) is used in some personal digital assistants such as the Palm Treo and BlackBerry and some Ultra-Mobile PCs such as the OQO.
+Microsoft Windows, Mac OS X, and some varieties of Linux include on-screen keyboards that can be controlled with the mouse.
+This became more acceptable, however, for use in computer terminals at the time, which began to see increasingly shorter model lifespans as they advanced.
+The Enter key is located: One in the alphanumeric keys and the other one is in the numeric keys.
+The Menu key or Application key is a key found on Windows-oriented computer keyboards.
+Desktop computer keyboards, such as the 101-key US traditional keyboards or the 104-key Windows keyboards, include alphabetic characters, punctuation symbols, numbers and a variety of function keys.
+Some keyboards have power management keys (e.g., power key, sleep key and wake key); Internet keys to access a web browser or E-mail; and/or multimedia keys, such as volume controls or keys that can be programmed by the user to launch a specified software or command like launching a game or minimize all windows.
+Switching to a much more ergonomic mouse, such as a vertical mouse or joystick mouse may provide relief.
+In word processing applications, pressing the enter key ends a paragraph and starts a new one.
+Speech recognition converts speech into machine-readable text (that is, a string of character codes).
+Another factor determining the size of a keyboard is the size and spacing of the keys.
+It is large enough so that a thumb from either hand can use it easily.
+Shift key: when one presses shift and a letter, it will capitalize the letter pressed with the shift key.
+Because the "keys" are simply projected images, they cannot be felt when pressed.
+Coincident with sublimation printing, which was first used in high volume by IBM on their keyboards, was the introduction by IBM of single-curved-dish keycaps to facilitate quality printing of key legends by having a consistently curved surface instead of a dish.
+To resolve this problem, the processor in a keyboard (or computer) "debounces" the keystrokes, by aggregating them across time to produce one "confirmed" keystroke.
+These keyboards cost from USD $80 to $120 and were used in mainframe data terminals.
+For example,  for  Mac, The Microsoft Keyboard Layout Creator and open-source Avro Keyboard for Windows provide the ability to customize the keyboard layout as desired.
+As most computer users no longer are concerned with the details of controlling their computer's peripherals, the task for which the escape sequences were originally designed, the escape key was appropriated by application programmers, most often to "escape" or back out of a mistaken command.
+The three differ somewhat in the placement of function keys, the control keys, the return key, and the shift key.
+Projection keyboards project an image of keys, usually with a laser, onto a flat surface.
+SUN) and other information sources (incl.
+Keystroke logging can be achieved by both hardware and software means.
+Many, but not all,computer keyboards have a numeric keypad to the right of the alphabetic keyboard which contains numbers, basic mathematical symbols (e.g., addition, subtraction, etc.
+A computer keyboard distinguishes each physical key from every other and reports all key presses to the controlling software.
+From the 1940s until the late 1960s, typewriters were the main means of data entry and output for computing, becoming integrated into what were known as computer terminals.
+The keyboard on the teleprinter played a strong role in point-to-point and point-to-multipoint communication for most of the 20th century, while the keyboard on the keypunch device played a strong role in data entry and storage for just as long.
+Other two-handed alternatives more akin to a game controller, such as the AlphaGrip, are also used to input data and text.
+Some optical keyboards use a special key structure that blocks the light in a certain pattern, allowing only one beam per row of keys (most commonly horizontal beam).
+Another function is to create a space for next paragraph.
+The QWERTZ layout is widely used in Germany and much of Central Europe.
+The first computer keyboards were for mainframe computer data terminals and used discrete electronic parts.
+Computer keyboards are similar to electric-typewriter keyboards but contain additional keys, such as the command or Windows keys.
+And now keyboards measure only about a half-inch thick.
+In 1978, Key Tronic Corporation introduced keyboards with capacitive-based switches, one of the first keyboard technologies to not use self-contained switches.
+The device then uses a camera or infrared sensor to "watch" where the user's fingers move, and will count a key as being pressed when it "sees" the user's finger touch the projected image.
+Modifier keys are special keys that modify the normal action of another key, when the two are pressed in combination.
+Additionally, the flexibility allows the user to fold/roll the keyboard for better storage and transfer.
+The wireless aspect is achieved either by radio frequency (RF) or by infrared (IR) signals sent and received from both the keyboard and the unit attached to the computer.
+The Escape key (often abbreviated Esc) is used to initiate an escape sequence.
+An early example of a consumer wireless keyboard is that of the Olivetti Envision.
+The risks of injuries can be reduced by taking frequent short breaks to get up and walk around a couple of times every hour.
+On many notebook computer keyboards the key labeled Delete (sometimes Delete and Backspace are printed on the same key) serves the same purpose as a Backspace key.
+While most keyboard keys produce letters, numbers or signs (characters), other keys or simultaneous key presses can produce actions or execute computer commands.
+The Break key can be used by software in several different ways, such as to switch between multiple login sessions, to terminate a program, or to interrupt a modem connection.
+On the click of a letter, the software writes the respective letter on the respective spot.
+The main difference between it and QWERTY is that Y and Z are swapped, and most special characters such as brackets are replaced by diacritical characters.
+In contrast, pressing just  will probably do nothing, unless assigned a specific function in a particular program.
+The keyboard driver also tracks the Shift, alt and control state of the keyboard.
+Alternative layouts such as the Dvorak Simplified Keyboard are not in widespread use.
+Optical character recognition (OCR) is preferable to rekeying for converting existing text that is already written down but not in machine-readable format (for example, a Linotype-composed book from the 1940s).
+OCR technology has already reached an impressive state (for example, Google Book Search) and promises more for the future.
+These accessories typically present characters on a display, in a layout that provides fast access to the more frequently used characters or character combinations.
+In software keyboards, the mouse has to be maneuvered onto the on-screen letters given by the software.
+Greasing or oiling switch plungers was undesirable because it would attract dirt over time which would eventually affect the feel and even bind the key switches (although keyboard manufacturers would sometimes sneak this into their keyboards, especially if they could not control the tolerances of the key plungers and housings well enough to have a smooth key depression feel or prevent binding).
+Some low-quality keyboards also suffer problems with ''rollover'' (that is, when multiple keys pressed at the same time, or when keys are pressed so fast that multiple keys are down within the same milliseconds).
+These early keyboards had "n-key" rollover, which means any number of keys can be depressed and the keyboard will still recognize the next key depressed.
+Software keyboards have become very popular in touchscreen enabled cell phones, due to the additional cost and space requirements of other types of hardware keyboards.
+They are often used to facilitate data entry with smaller keyboards that do not have a numeric keypad, commonly those of laptop computers.
+As early as the 1870s, teleprinter-like devices were used to simultaneously type and transmit stock market text data from the keyboard across telegraph lines to stock ticker machines to be immediately copied and displayed onto ticker tape.
+In the beginning, keyboard keytops had a "dish shape" on top, like typewriters before them.
+In the Arab world, keyboards can often be switched between Arabic and Latin characters.
+However, the lack of privacy when issuing voice commands and dictation makes this kind of input unsuitable for many environments.
+The lock keys include Scroll lock, Num lock (which allows the use of the numeric keypad), and Caps lock.
+Responsible vendors of monitoring software support detection by anti-spyware programs, thus preventing abuse of the software.
+The Print screen command used to capture the entire screen and send it to the printer, but in the present it usually puts a screenshot in the clipboard.
+Illumination facilitates the use of the keyboard or keypad in dark environments.
+Anti-spyware applications are able to detect many keyloggers and cleanse them.
+However, keyboards remain central to human-computer interaction to the present, even as mobile personal computing devices such as smartphones and tablets adapt the keyboard as an optional virtual, touchscreen-based means of data entry.
+So, for the first electronic keyboards, the key legends were produced by two-shot (or double-shot, or two-color) molding, where either the key shell or the inside of the key with the key legend was molded first, and then the other color molded second.
+This is undesirable, especially for fast typing (hitting new keys before the fingers can release previous keys), and games (designed for multiple key presses).
+"They could even capture keystrokes from computers in nearby offices, but the technology wasn't sophisticated enough to focus in on any specific computer."
+Early "solid-state" keyswitch keyboards did not have this problem because the keyswitches are electrically isolated from each other, and early "direct-contact" keyswitch keyboards avoided this problem by having isolation diodes for every keyswitch.
+The digits 0 to 9 are on the same keys, but to be typed the shift key must be pressed.
+It differs from the QWERTY layout in that the A and Q are swapped, the Z and W are swapped, and the M is moved from the right of N to the right of L (where colon/semicolon is on a US keyboard).
+Some multifunctional keyboards are also used to directly and intuitively control video walls.
+Users have additional key functions as well as the standard functions and can typically use a single keyboard and mouse to access multiple sources.
+See also text entry interface.
+But, to save cost, other methods were explored, such as sublimation printing and laser engraving, both methods which could be used to print a whole keyboard at the same time.
+Since there are many combinations available, chorded keyboards can effectively produce more actions on a board with fewer keys.
+Most styles of keyboards have three LEDs indicating which locks are enabled, in the upper right corner above the numeric pad.
+The first electronic keyboards had a typewriter key travel distance of 0.187&nbsp;inches (4.75&nbsp;mm), keytops were a half-inch (12.7&nbsp;mm) high, and keyboards were about two inches (5&nbsp;cm) thick.
+Prices of $60 for keyboards were achieved and Key Tronic rapidly became the largest independent keyboard manufacturer.
+The use of any keyboard may cause serious injury (that is, carpal tunnel syndrome or other repetitive strain injury) to hands, wrists, arms, neck or back.
+The teleprinter, in its more contemporary form, was developed from 1907 to 1910 by American mechanical engineer Charles Krum and his son Howard, with early contributions by electrical engineer Frank Pearne.
+Reduction is limited by the practical consideration that the keys must be large enough to be easily pressed by fingers.
+The Backspace key deletes the preceding character.
+On MIT computer keyboards, the Meta key is used as a modifier and for Windows keyboards, there is a Windows key.
+Keyboards are also known to emit electromagnetic signatures that can be detected using special spying equipment to reconstruct the keys pressed on the keyboard.
+The key's symbol is usually a small icon depicting a cursor hovering above a menu.
+The most popular switch types were reed switches (contacts enclosed in a vacuum in a glass capsule, affected by a magnet mounted on the switch plunger).
+In normal usage, the keyboard is used as a text entry interface to type text and numbers into a word processor, text editor or other programs.
+This can be a concern when using shared keyboards; the keyboards can serve as vectors for pathogens that cause the cold, flu, and other communicable diseases easily spread by indirect contact.
+Arrow keys are programmed to move the cursor in a specified direction; page scroll keys, such as the Page Up and Page Down keys, scroll the page up and down.
+When released, they bounce some more until they revert to the uncontacted state.
+A command-line interface is a type of user interface operated entirely through a keyboard, or another device doing the job of one.
+The unshifted positions are used for accented characters.
+Thomson Reuters FXT/Eikon, Bloomberg, EBS, etc.)
+The vast majority of flexible keyboards in the market are made from silicone; this material makes them water and dust proof, a very pleasant feature especially in hospitals where keyboards are subjected to frequent washing.
+The keyboard remained the primary, most integrated computer peripheral well into the era of personal computing until the introduction of the mouse as a consumer device in 1984.
+The switch mechanism for a laptop keyboard is more likely to be a scissor switch than a rubber dome; this is opposite the trend for full-size keyboards.
+When we calculate, we use these numeric keys to type numbers.
+If the computer were watching for each pulse, it would see many keystrokes for what the user thought was just one.
+Lock keys lock part of a keyboard, depending on the settings selected.
+When inputting at the keyboard, a person should keep the shoulders relaxed with the elbows at the side, with the keyboard and mouse positioned so that reaching is not necessary.
+Keytops are an important element of keyboards.
+But when three keys are pressed (electrically closed) at the same time in a "direct contact" keyswitch matrix that doesn't have isolation diodes, the keyboard electronics can see a fourth "phantom" key which is the intersection of the X and Y lines of the three keys.
+The quotation mark will only appear if both the required key and the Shift key are pressed.
+Chorded keyboards are less desirable in many cases because it usually takes practice and memorization of the combinations to become proficient.
+In addition to this, Linux and variants, as well as many DOS programs, treat this combination the same as Ctrl+C.
+), and a few function keys.
+are used to integrate external devices.
+However, as plastic molding advanced in maintaining tight tolerances, and as key travel length reduced from 0.187-inch to 0.110-inch (4.75&nbsp;mm to 2.79&nbsp;mm), single-part keytop/plungers could be made of ABS, with the keyboard monolocks also made of ABS.
+The alphabetical, numeric, and punctuation keys can also have other functions when they are pressed at the same time as some modifier keys.
+Some adaptive technology ranging from special keyboards, mouse replacements and pen tablet interfaces to speech recognition software can reduce the risk of injury.
+This technology came from flat-panel switch membranes, where the switch contacts are printed inside of a top and bottom layer, with a spacer layer in between, so that when pressure is applied to the area above, a direct electrical contact is made.
+Depending on operating systems, various application programs are available to create, add and switch among keyboard layouts.
+Its origins go back to teleprinter users, who wanted a key that would temporarily interrupt the communications line.
+Wireless keyboards have become popular for their increased user freedom.
+Most projection keyboards are made for use with PDAs and smartphones due to their small form factor.
+Some lower-quality keyboards have multiple or false key entries due to inadequate electrical designs.
+In the mid-1970s, lower-cost direct-contact key switches were introduced, but their life in switch cycles was much shorter (rated ten million cycles) because they were open to the environment.
+Japanese layout keyboards can be switched between various Japanese input methods and the Latin alphabet by signaling the operating system's input interpreter of the change, and some operating systems (namely the Windows family) interpret the character "\" as "¥" for display purposes without changing the bytecode which has led some keyboard makers to mark "\" as "¥" or both.
+Many of these keys will produce different symbols when modifier keys or shift keys are pressed.
+Alphabetical, numeric, and punctuation keys are used in the same fashion as a typewriter keyboard to enter their respective symbol into a word processing program, text editor, data spreadsheet, or other program.
+Multifunctional keyboards may also permit users to share access to PCs and other information sources.
+For example, the GKOS keyboard has been designed for small wireless devices.
+The enter key in this keys indicate the equal sign.
+A keyboard with few keys is called a keypad.
+Wireless solar keyboards charge their batteries from small solar panels using sunlight or standard artificial lighting.
+Earlier, Herman Hollerith developed the first keypunch devices, which soon evolved to include keys for text and number entry akin to normal typewriters by the 1930s.
+An existing keyboard layout can be edited, and a new layout can be created using this type of software.
+This technology has also reached an advanced state and is implemented in various software products.
+It is used to launch a context menu with the keyboard rather than with the usual right mouse button.
+Many are programmable, configurable computer keyboards and some control multiple PCs, workstations (incl.
+As well, users should vary tasks throughout the day, to avoid overuse of the hands and wrists.
+Most commonly the emitters and sensors are located in the perimeter, mounted on a small PCB.
+Compact keyboard layouts often use a Fn key.
+Three final mechanical technologies brought keyboards to where they are today, driving the cost well under $10:
+But one problem with sublimation or laser printing was that the processes took too long and only dark legends could be printed on light-colored keys.
+Meanwhile, IBM made their own keyboards, using their own patented technology: Keys on older IBM keyboards were made with a "buckling spring" mechanism, in which a coil spring under the key buckles under pressure from the user's finger, triggering a hammer that presses two plastic sheets (membranes) with conductive traces together, completing a circuit.
+This might have made their manufacturing of different keyboard layouts more flexible, but the reason for doing this was that the plastic material that needed to be used for sublimation printing was different from standard ABS keytop plastic material.
+On another note, IBM was unique in using separate shells, or "keycaps", on keytop bases.
+Because of the limitations of terminals based upon printed text in comparison to the growth in data storage, processing and transmission, a general move toward video-based computer terminals was effected by the 1970s, starting with the Datapoint 3300 in 1967.
+Multiple interfaces (serial, USB, audio, Ethernet, etc.)
+The membrane layers can be printed by very-high volume, low-cost "reel-to-reel" printing machines, with each keyboard membrane cut and punched out afterwards.
+"Dead keys" allow placement of a diacritic mark, such as an accent, on the following letter (e.g., the Compose key).
+Keyboards on laptops and notebook computers usually have a shorter travel distance for the keystroke, shorter over travel distance, and a reduced set of keys.
+Handheld ergonomic keyboards are designed to be held like a game controller, and can be used as such, instead of laid out flat on top of a table surface.
+Some gaming keyboards have lighted keys, to make it easier for gamers to find command keys while playing in a dark room.
+A keyboard typically has characters engraved or printed on the keys (buttons) and each press of a key typically corresponds to a single written symbol.
+Projection keyboards can simulate a full size keyboard from a very small projector.
+These keys are collectively known as a numeric pad, numeric keys, or a numeric keypad, and it can consist of the following types of keys: Arithmetic operators, numbers, arrow keys, Navigation keys, Num Lock and Enter key.
+The SysRq and Print screen commands often share the same key.
+However, to produce some symbols requires pressing and holding several keys simultaneously or in sequence.
+When pressing a keyboard key, the key contacts may "bounce" against each other for several milliseconds before they settle into firm contact.
+Software keyboards or on-screen keyboards often take the form of computer programs that display an image of a keyboard on the screen.
+A wireless keyboard may use an industry standard RF, called Bluetooth.
+The Delete key discards the character ahead of the cursor's position, moving all following characters one position "back" towards the freed place.
+Typically handheld keyboards hold all the alphanumeric keys and symbols that a standard keyboard would have, yet only be accessed by pressing two sets of keys at once; one acting as a function key similar to a 'Shift' key that would allow for capital letters on a standard keyboard.
+There are actually three different PC keyboard: the original PC keyboard with 84 keys, the AT keyboard also with 84 keys and the enhanced keyboard with 101 keys.
+Alternatively a tool is used for pressing small keys.
+For certain uses (e.g., transcription of medical or legal dictation; journalism; writing essays or novels) speech recognition is starting to replace the keyboard.
+The common QWERTY-based layout was designed early in the era of mechanical typewriters, so its ergonomics were compromised to allow for the mechanical limitations of the typewriter.
+The character code produced by any key press is determined by the keyboard driver software.
+In computer games and other applications the key has myriad uses in addition to its normal purpose in typing, such as jumping and adding marks to check boxes.
+Standard alphanumeric keyboards have keys that are on three-quarter inch centers (0.750&nbsp;inches, 19.05&nbsp;mm), and have a key travel of at least 0.150&nbsp;inches (3.81&nbsp;mm).
+Many programs are available, some of which are language specific.
+Plastic materials played a very important part in the development and progress of electronic keyboards.
+An optical keyboard technology utilizes light emitting devices and photo sensors to optically detect actuated keys.
+One test for whether the computer has crashed is pressing the caps lock key.
+Coincident with this, Key Tronic was the first company to introduce a keyboard which was only about one inch thick.
+All the other indicator lights work in a similar way.
+Keyboards in many parts of Asia may have special keys to switch between the Latin character set and a completely different typing system.
+Flexible keyboards are a junction between normal type and laptop type keyboards: normal from the full arrangement of keys, and laptop from the short key distance.
+As the letter-keys were attached to levers that needed to move freely, inventor Christopher Sholes developed the QWERTY layout to reduce the likelihood of jamming.
+When one worked something on their computer and wanted to do something with their work, pressing the enter key would do the command they ordered.

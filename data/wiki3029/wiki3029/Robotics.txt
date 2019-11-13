@@ -1,0 +1,200 @@
+One of the earliest descriptions of automata appears in the ''Lie Zi'' text, on a much earlier encounter between King Mu of Zhou (1023–957 BC) and a mechanical engineer known as Yan Shi, an 'artificer'.
+Some researchers have tried to create more complex wheeled robots with only one or two wheels.
+First general-purpose digital computer
+Bionics and biomimetics apply the physiology and methods of locomotion of animals to the design of robots.
+In its simplest manifestation it consists of just two fingers which can open and close to pick up and let go of a range of small objects.
+Form follows function.
+As the robot falls to one side, it would jump slightly in that direction, in order to catch itself.
+Sensors give information about the environment or the robot itself (e.g.
+The Aqua Penguin, designed and built by Festo of Germany, copies the streamlined shape and propulsion by front "flippers" of penguins.
+Programs are the core essence of a robot, it could have excellent mechanical and electrical construction, but if its program is poorly constructed its performance will be very poor (or it may not perform at all).
+Cognitive models try to represent the robot, the world, and how they interact.
+The word ''robotics'' was derived from the word ''robot'', which was introduced to the public by Czech writer Karel Čapek in his play ''R.U.R.
+A great many systems have been developed to recognize human hand gestures.
+This has developed from a hobby in the 1990s to several TV series worldwide.
+predates that of "Runaround" by ten months, so the former is generally cited as the word's origin.
+It was the first robotic fish capable of outperforming real carangiform fish in terms of average maximum velocity (measured in body lengths/ second) and endurance, the duration that top speed is maintained.
+The movement is the same as that of a person on a pogo stick.
+Robots that use artificial intelligence interact with their environment on their own without a control source, and can determine reactions to objects and problems they encounter using their preexisting programming.
+China's ''Technology Daily'' reported on November 15, 2008 that Dr. Li Hiu Yeung and his research group of New Concept Aircraft (Zhuhai) Co., Ltd. had successfully developed a bionic gecko robot named "Speedy Freelander".
+Current approaches and technical standards
+At present mostly (lead–acid) batteries are used as a power source.
+* Solar power (using the sun's energy and converting it into electrical power)
+Most robot arms have replaceable effectors, each allowing them to perform some small range of tasks.
+However, such designs are often mechanically complex and need fuel, require heat dissipation and are relatively heavy.
+He wrote a short letter in reference to an etymology in the ''Oxford English Dictionary'' in which he named his brother Josef Čapek as its actual originator.
+In particular unforeseen events (e.g.
+For example, many robots are designed for assembly work, which may not be readily adaptable for other applications.
+Several attempts have been made in robots that are completely inside a spherical ball, either by spinning a weight inside the ball, or by rotating the outer shells of the sphere.
+The vast majority of robots use electric motors, often brushed and brushless DC motors in portable robots or AC motors in industrial robots and CNC machines.
+Several robots have been made which can walk reliably on two legs, however none have yet been made which are as robust as a human.
+Aim of the projects is a social robot learns task goals from human demonstrations without prior knowledge of high-level concepts.
+The world’s first microcomputer controlled electric industrial robot, IRB 6 from ASEA, was delivered to a small mechanical engineering company in southern Sweden.
+Created early humanoid automata, programmable automaton band
+Some robots are specifically designed for heavy load manipulation, and are labelled as "heavy duty robots."
+EAPs or EPAMs are a new plastic material that can contract substantially (up to 380% activation strain) from electricity, and have been used in facial muscles and arms of humanoid robots, and to enable new robots to float, fly, swim or walk.
+That power comes in the form of electricity, which will have to travel through a wire and originate from a battery, a basic electrical circuit.
+Generators, often some type of internal combustion engine, can also be used.
+There are lots of competitions all around the globe.
+Boris is a robot that can load a dishwasher.
+Nevertheless, researchers are trying to create robots which appear to have a personality: i.e.
+Throughout history, it has been frequently assumed that robots will one day be able to mimic human behavior and manage tasks in a human-like fashion.
+According to Dr. Li, the gecko robot could rapidly climb up and down a variety of building walls, navigate through ground and wall fissures, and walk upside-down on the ceiling.
+Descriptions of more than 100 machines and automata, including a fire engine, a wind organ, a coin-operated machine, and a steam-powered engine, in ''Pneumatica'' and ''Automata'' by Heron of Alexandria
+Because of the long, thin shape and ability to maneuver in tight spaces, they have the potential to function better than other robots in environments with people.
+The image data can take many forms, such as video sequences and views from cameras.
+Robots have become a popular educational tool in some middle and high schools, particularly in parts of the USA, as well as in numerous youth summer camps, raising interest in programming, artificial intelligence and robotics among students.
+Mapping techniques can be used to build maps of the world.
+the position of its joints or its end effector).
+Encompassing jaws cradle the object in place, using less friction.
+The idea of this specific competition is that kids start developing knowledge and getting into robotics while playing with Legos since they are 9 years old.
+Some major programs for afterschool robotics include FIRST Robotics Competition, Botball and B.E.S.T.
+The prosthesis has sensors which enable the patient to sense real feeling in its fingertips.
+Jacques de Vaucanson
+The absence of defects in carbon nanotubes enables these filaments to deform elastically by several percent, with energy storage levels of perhaps 10&nbsp;J/cm3 for metal nanotubes.
+Commercial and industrial robots are widespread today and used to perform jobs more cheaply, more accurately and more reliably, than humans.
+Walking is a difficult and dynamic problem to solve.
+The mechanical structure of a robot must be controlled to perform tasks.
+Other flying robots include cruise missiles, the Entomopter, and the Epson micro helicopter robot.
+Potential power sources could be:
+However, this design does come with the drawback of constantly having a cable connected to the robot, which can be difficult to manage.
+The concept of creating machines that can operate autonomously dates back to classical times, but research into the functionality and potential uses of robots did not grow substantially until the 20th century.
+There is a subfield within computer vision where artificial systems are designed to mimic the processing and behavior of biological system, at different levels of complexity.
+Rossum's Universal Robots
+Notable examples are the Essex University Computer Science Robotic Fish G9, and the Robot Tuna built by the Institute of Field Robotics, to analyze and mathematically model thunniform motion.
+This has the advantage of saving weight and space by moving all power generation and storage components elsewhere.
+The machine will create and complete all its tasks without human interaction.
+Whether the person is happy, frightened, or crazy-looking affects the type of interaction expected of the robot.
+Recent alternatives to DC motors are piezo motors or ultrasonic motors.
+The same word, spoken by the same person may sound different depending on local acoustics, volume, the previous word, whether or not the speaker has a cold, etc..
+William Grey Walter
+In the auto industry they can amount for more than half of the "labor".
+Designs for a humanoid robot
+Artificial emotions can also be generated, composed of a sequence of facial expressions and/or gestures.
+They have been used for some small robot applications.
+These presets could possibly be transferred for use in real-life robots.
+Even petrol powered machines that get their power mainly from petrol still require an electric current to start the combustion process which is why most petrol powered machines like cars, have batteries.
+Thus the "hands" of a robot are often referred to as ''end effectors'', while the "arm" is referred to as a ''manipulator''.
+built by IFREMER and ENSTA-Bretagne.
+Elastic nanotubes are a promising artificial muscle technology in early-stage experimental development.
+Robots such as the Air Penguin, Air Ray, and Air Jelly have lighter-than-air bodies, propelled by paddles, and guided by sonar.
+* Agricultural robots  (AgRobots,).
+Also, self-controlled cars, Ernst Dickmanns' driverless car, and the entries in the DARPA Grand Challenge, are capable of sensing the environment well and subsequently making navigational decisions based on this information.
+Pick and place robots for electronic components and for large objects like car windscreens, often use very simple vacuum grippers.
+Other common forms of sensing in robotics use lidar, radar and sonar.
+It is calculated that when swimming some fish can achieve a propulsive efficiency greater than 90%.
+Friction jaws use all the force of the gripper to hold the object in place using friction.
+The first build, ''iSplash''-I (2014) was the first robotic platform to apply a full-body length carangiform swimming motion which was found to increase swimming speed by 27% over the traditional approach of a posterior confined wave form.
+Many other robots have been built that walk on more than two legs, due to these robots being significantly easier to construct.
+Many schools across the country are beginning to add robotics programs to their after school curriculum.
+This decreased the amount of time needed to make the film.
+Robotics engineers design robots, maintain them, develop new applications for them, and conduct research to expand the potential of robotics.
+Initially, a robot with only one leg, and a very small foot, could stay upright simply by hopping.
+Higher levels of autonomy do not necessarily require more complex cognitive capabilities.
+* Domestic robots, cleaning and caring for the elderly
+Its flexibility and speed were comparable to a natural gecko.
+While the Segway is not commonly thought of as a robot, it can be thought of as a component of a robot, when used as such Segway refer to them as RMP (Robotic Mobility Platform).
+For example, a planner may figure out how to achieve a task without hitting obstacles, falling over, etc.
+These can have certain advantages such as greater efficiency and reduced parts, as well as allowing a robot to navigate in confined places that a four-wheeled robot would not be able to.
+Like human eyes, robots' "eyes" must also be able to focus on a particular area of interest, and also adjust to variations in light intensities.
+# An autonomous robot may go for extended periods of time without human interaction.
+Actuators are the "muscles" of a robot, the parts which convert stored energy into movement.
+For example, the German Federal Institute for Occupational Safety and Health (BAuA) organises annual workshops on the topic “human-robot collaboration”.
+This information can be used to improve the control algorithms of a robot.
+They are typically powered by compressed air (pneumatic actuator) or an oil (hydraulic actuator).
+Scientists from several European countries and Israel developed a prosthetic hand in 2009, called SmartHand, which functions like a real one—allowing patients to write with it, type on a keyboard, play piano and perform other fine movements.
+Another robot, Plen, can use a miniature skateboard or roller-skates, and skate across a desktop.
+This technique was recently demonstrated by Anybots' Dexter Robot, which is so stable, it can even jump.
+Karel Čapek himself did not coin the word.
+The Japanese ACM-R5 snake robot can even navigate both on land and in water.
+They are also employed in some jobs which are too dirty, dangerous, or dull to be suitable for humans.
+First commercial robot, from the Unimation company founded by George Devol and Joseph Engelberger, based on Devol's patents
+# Robots have electrical components which power and control the machinery.
+The study of motion can be divided into kinematics and dynamics.
+Some can even fire on targets under command.
+Balancing robots generally use a gyroscope to detect how much a robot is falling and then drive the wheels proportionally in the same direction, to counterbalance the fall at hundreds of times per second, based on the dynamics of an inverted pendulum.
+Likewise, robots like Kismet and the more recent addition, Nexi can produce a range of facial expressions, allowing it to have meaningful social exchanges with humans.
+Some have a fixed manipulator which cannot be replaced, while a few have one very general purpose manipulator, for example a humanoid hand.
+If robots are to work effectively in homes and other non-industrial environments, the way they are instructed to perform their jobs, and especially how they will be told to stop will be of critical importance.
+An example of this is Capuchin, built by Dr. Ruixiang Zhang at Stanford University, California.
+Hybrid is a form of programming that incorporates both AI and RC functions.
+* Medical robots performing low-invasive surgery
+The advantages of robotics include heavy-duty jobs with precision and repeatability, whereas the advantages of humans include creativity, decision-making, flexibility and adaptability.
+Direct dynamics is used in computer simulations of the robot.
+Mechanical grippers can come in various types, including friction and encompassing jaws.
+In each area mentioned above, researchers strive to develop new concepts and strategies, improve existing ones, and improve the interaction between these areas.
+In this way, the two forces cancel out, leaving no moment (force causing the robot to rotate and fall over).
+# All robots contain some level of computer programming code.
+Some special aspects of kinematics include handling of redundancy (different possibilities of performing the same movement), collision avoidance, and singularity avoidance.
+It is perhaps more appropriate to view devices controlled primarily by human commands as falling in the discipline of automation rather than robotics.
+Tank tracks provide even more traction than a six-wheeled robot.
+The two main competitions of sailboat robots are WRSC, which takes place every year in Europe, and  Sailbot.
+The greatest OSH benefits stemming from the wider use of robotics should be substitution for people working in unhealthy or dangerous environments.
+Several one-wheeled balancing robots have been designed recently, such as Carnegie Mellon University's "Ballbot" that is the approximate height and width of a person, and Tohoku Gakuin University's "BallIP".
+If the robot is equipped with solar panels, the robot could theoretically navigate forever.
+The mechanical aspect is mostly the creator's solution to completing the assigned task and dealing with the physics of the environment around it.
+They can be smaller and lighter without a human pilot on board, and fly into dangerous territory for military surveillance missions.
+None can walk over rocky, uneven terrain.
+Hands that are of a mid-level complexity include the Delft hand.
+Other flying robots are uninhabited, and are known as unmanned aerial vehicles (UAVs).
+Science fiction authors also typically assume that robots will eventually be capable of communicating with humans through speech, gestures, and facial expressions, rather than a command-line interface.
+Today, robotics is a rapidly growing field, as technological advances continue; researching, designing, and building new robots serve various practical purposes, whether domestically, commercially, or militarily.
+By far the most popular actuators are electric motors that rotate a wheel or gear, and linear actuators that control industrial robots in factories.
+Also, some of the learning-based methods developed within computer vision have their background in biology.
+They are used for various forms of measurements, to give the robots warnings about safety or malfunctions, and to provide real time information of the task it is performing.
+A human controls each movement, each machine actuator change is specified by the operator.
+Muscle wire, also known as shape memory alloy, Nitinol® or Flexinol® wire, is a material which contracts (under 5%) when electricity is applied.
+A spring can be designed as part of the motor actuator, to allow improved force control.
+Programmable universal manipulation arm, a Unimation product
+* Robots such as HOSPI  are used as couriers in hospitals (hospital robot).
+These are highly dexterous manipulators, with as many as 20 degrees of freedom and hundreds of tactile sensors.
+Some of the methods which have been tried are:
+Those that perform worst are removed from the population, and replaced by a new set, which have new behaviors based on those of the winners.
+Current robotic and prosthetic hands receive far less tactile information than the human hand.
+To simplify this programming in the movie, presets were created together with a special software program.
+The word ''robot'' comes from the Slavic word ''robota'', which means labour.
+Archytas of Tarentum
+For example, robots in assembly plants are completely autonomous, but operate in a fixed pattern.
+Soon, the algorithm was generalised to two and four legs.
+First industrial robot with six electromechanically driven axes
+It has been used in various robots, particularly walking humanoid robots.
+Festo have also built the Aqua Ray and Aqua Jelly, which emulate the locomotion of manta ray, and jellyfish, respectively.
+Researchers use this method both to create better robots, and to explore the nature of evolution.
+There are different mechanisms of operation; one type uses the vibration of the piezo elements to step the motor in a circle or a straight line.
+The researchers expect that an important function of such artificial fingertips will be adjusting robotic grip on held objects.
+The people who interact with them may have little or no training in robotics, and so any interface will need to be extremely intuitive.
+Several snake robots have been successfully developed.
+Robotic faces have been constructed by Hanson Robotics using their elastic polymer called Frubber, allowing a large number of facial expressions due to the elasticity of the rubber facial coating and embedded subsurface motors (servos).
+Learning how to manipulate a robot often requires a close feedback between human to the robot, although there are several methods for remote manipulation of robots.
+The sensor array is constructed as a rigid core surrounded by conductive fluid contained by an elastomeric skin.
+It will probably be a long time before robots interact as naturally as the fictional C-3PO, or Data of Star Trek, Next Generation.
+The second is evolutionary robots.
+aiming to protect employees from the risk of working with collaborative robots will have to be revised.
+As a scientific discipline, computer vision is concerned with the theory behind artificial systems that extract information from images.
+* flywheel energy storage
+Some European countries are including robotics in their national programmes and trying to promote a safe and flexible co-operation between robots and operators to achieve better productivity.
+An immediate task (such as moving the gripper in a certain direction) is inferred from these estimates.
+Various types of linear actuators move in and out instead of by spinning, and often have quicker direction changes, particularly when very large forces are needed such as with industrial robotics.
+Another approach uses the specialized toe pad method of wall-climbing geckoes, which can run on smooth surfaces such as vertical glass.
+A one-wheeled balancing robot is an extension of a two-wheeled balancing robot so that it can move in any 2D direction using a round ball as its only wheel.
+Finally, motion planning and other artificial intelligence techniques may be used to figure out how to act.
+These new concepts are grounded from low-level continuous sensor data through unsupervised learning, and task goals are subsequently learned using a Bayesian approach.
+The state of the art in sensory intelligence for robots will have to progress through several orders of magnitude if we want the robots working in our homes to go beyond vacuum-cleaning the floors.
+These concepts can be used to transfer knowledge to future tasks, resulting in faster learning of those tasks.
+Such compact "muscle" might allow future robots to outrun and outjump humans.
+When the artificial skin touches an object the fluid path around the electrodes is deformed, producing impedance changes that map the forces received from the object.
+Another type uses the piezo elements to cause a nut to vibrate or to drive a screw.
+Ctesibius, Philo of Byzantium, Heron of Alexandria, and others
+This build attained swimming speeds of 11.6BL/s (i.e.
+The advantages of these motors are nanometer resolution, speed, and available force for their size.
+* It was demonstrated that a robot can perform a herding  task.
+Humanoid robot exhibited at the 1939 and 1940 World's Fairs
+In addition, youth summer robotics programs are frequently offered by celebrated museums such as the American Museum of Natural History and The Tech Museum of Innovation in Silicon Valley, CA, just to name a few.
+Hybrids too have been proposed in movies such as I, Robot, where they walk on 2 legs and switch to 4 (arms+legs) when going to a sprint.
+This happens without any direct programming of the robots by the researchers.
+Current and potential applications include:
+In the second case, the robot police officer would gesture to indicate "down the road, then turn right".
+It could also identify and circumvent obstacles automatically.
+Computer vision is the science and technology of machines that see.
+Several national summer camp programs include robotics as part of their core curriculum.
+First installed industrial robot.

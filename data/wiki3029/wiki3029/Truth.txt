@@ -1,0 +1,200 @@
+Many modern theorists have stated that this ideal cannot be achieved without analysing additional factors.
+In fact, this idea - manifested by the diagonal lemma - is the basis for Tarski's theorem that truth cannot be consistently defined.
+Consider the analogy between the sentence "Snow is white" and the character named Snow White, both of which can be true in some sense.
+Now I can compare the object with my cognition, however, only ''by cognizing it''.
+Modern developments in the field of philosophy, starting with the relatively modern notion that a theory being old does not necessarily imply that it is completely flawless, have resulted in the rise of a new thesis: that the term ''truth'' does not denote a real property of sentences or propositions.
+Georg Hegel distanced his philosophy from psychology by presenting truth as being an external self-moving object instead of being related to inner, subjective thoughts.
+This class of theories holds that the truth or the falsity of a representation is determined in principle entirely by how it relates to "things", by whether it accurately describes those "things."
+This historical progression will finally conclude itself when the Absolute Spirit understands its own infinite self at the very end of history.
+Proponents of several of the theories below have gone further to assert that there are yet other issues necessary to the analysis, such as interpersonal power struggles, community interactions, personal biases and other factors involved in deciding what is seen as truth.
+However, the substantive theories are not universally accepted.
+Giambattista Vico was among the first to claim that history and culture were man-made.
+More recently developed "deflationary" or "minimalist" theories of truth have emerged as competitors to the older substantive theories.
+Newer perspectives that take this discrepancy into account and work with sentence structures that are actually employed in common discourse can be broadly described:
+Judgments can have material, formal, transcendental, or metalogical truth.
+Crispin Wright argued in his 1992 book ''Truth and Objectivity'' that any predicate which satisfied certain platitudes about truth qualified as a truth predicate.
+Propositions about the physical world might be true by corresponding to the objects and properties they are about.
+Bertrand Russell is credited with noticing the existence of such paradoxes even in the best symbolic formations of mathematics in his day, in particular the paradox that came to be named after him, Russell's paradox.
+And actually the logicians were always reproached with this mistake by the sceptics, who observed that with this definition of truth it is just as when someone makes a statement before a court and in doing so appeals to a witness with whom no one is acquainted, but who wants to establish his credibility by maintaining that the one who called him as witness is an honest man.
+An example of correspondence theory is the statement by the thirteenth century philosopher/theologian Thomas Aquinas: ''Veritas est adaequatio rei et intellectus'' ("Truth is the equation or adequation of things and intellect"), a statement which Aquinas attributed to the ninth century neoplatonist Isaac Israeli.
+He thought that truth should be used as long as it promoted life and the ''will to power'', and he thought untruth was better than truth if it had this life enhancement as a consequence.
+Donald Davidson used it as the foundation of his truth-conditional semantics and linked it to radical interpretation in a form of coherentism.
+*as ''minimalist'' theories of truth.
+For example, making the assertion that "&nbsp;'Snow is white' is true" is equivalent to asserting "Snow is white".
+From this point of view, to assert that "'2 + 2 = 4' is true" is logically equivalent to asserting that "2 + 2 = 4", and the phrase "is true" is completely dispensable in this and every other context.
+Pierce take Truth to have some manner of essential relation to human practices for inquiring into and discovering Truth, with Pierce himself holding that Truth is what human inquiry would find out on a matter, if our practice of inquiry were taken as far as it could profitably go: "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth..."
+History is the Absolute Spirit moving toward a goal.
+Friedrich Nietzsche believed the search for truth, or 'the will to truth', was a consequence of the ''will to power'' of philosophers.
+The German word ''Zeitgeist'' is one such example: one who speaks or understands the language may "know" what it means, but any translation of the word apparently fails to accurately capture its full meaning (this is a problem with many abstract words, especially those derived in agglutinative languages).
+Coherence theories distinguish the thought of rationalist philosophers, particularly of Spinoza, Leibniz, and G.W.F.
+Several of the major theories of truth hold that there is a particular property the having of which makes a belief or proposition true.
+There are differing claims on such questions as what constitutes truth: what things are truthbearers capable of being true or false; how to define and identify truth; the roles that faith-based and empirically based knowledge play; and whether truth is subjective or objective, relative or absolute.
+Correspondence theory centres heavily around the assumption that truth is a matter of accurately copying what is known as "objective reality" and then representing it in thoughts, words and other symbols.
+Social constructivism holds that truth is constructed by social processes, is historically and culturally specific, and that it is in part shaped through the power struggles within a community.
+It is believed by constructivists that representations of physical and biological reality, including race, sexuality, and gender, are socially constructed.
+One must remember that though such examples seem extreme, such extremity is an important part of Baudrillard's theory.
+"Truth is its own self-movement within itself."
+A variant of redundancy theory is the disquotational theory which uses a modified form of Tarski's schema: To say that '"P" is true' is to say that P.  A version of this theory was defended by C. J. F. Williams in his book ''What is Truth?''.
+As he wrote in ''Beyond Good and Evil'', "The falseness of a judgment is to us not necessarily an objection to a judgment...
+Commonly, truth is viewed as the correspondence of language or thought to an independent reality, in what is sometimes called the correspondence theory of truth.
+This in turn led to new orders of difficulty regarding the precise natures of types and the structures of conceptually possible type systems that have yet to be resolved to this day.
+However, logic does not deal with truth in the absolute sense, as for instance a metaphysician does.
+Deflationary principles do not apply to representations that are not analogous to sentences, and also do not apply to many other things that are commonly judged to be true or otherwise.
+Kant holds that the definition of truth is merely nominal and, therefore, we cannot employ it to establish which judgements are true.
+As a result, Tarski held that the semantic theory could not be applied to any natural language, such as English, because they contain their own truth predicates.
+This passage makes use of his distinction between nominal and real definitions.
+Rather, perceptions of truth are viewed as contingent on convention, human perception, and social experience.
+On the whole, coherence theories have been rejected for lacking justification in their application to other areas of truth, especially with respect to assertions about the natural world, empirical data in general, assertions about practical matters of psychology and society, especially when used without support from the other major theories of truth.
+In the Abrahamic view, God can exercise divine judgment, judging the dead on the basis of perfect knowledge of their lives.
+Many human activities depend upon the concept, where its nature as a concept is assumed rather than being a subject of discussion; these include most (but not all) of the sciences, law, journalism, and everyday life.
+At best, these truths can only provide a severely narrowed perspective that has little to do with one's actual experience of life.
+His vision of optimal truth is described partly in "Man from Himself: An Inquiry into the Psychology of Ethics" (1947), from which excerpts are included below.
+Pragmatism and negative pragmatism are also closely aligned with the coherence theory of truth in that any testing should not be isolated but rather incorporate knowledge from all human endeavors and experience.
+Although he nowhere defines truth in terms of a thought's likeness to a thing or fact, it is clear that such a definition would fit well into his overall philosophy of mind.
+Thus Foucault's view shares much in common with the concepts of Nietzsche.
+The commonly understood opposite of truth is falsehood, which, correspondingly, can also take on a logical, factual, or ethical meaning.
+They argue that sentences like "That's true", when said in response to "It's raining", are prosentences, expressions that merely repeat the content of other expressions.
+Friedrich Nietzsche famously suggested that an ancient, metaphysical belief in the divinity of Truth lies at the heart of and has served as the foundation for the entire subsequent Western intellectual tradition: "But you will have gathered what I am getting at, namely, that it is still a ''metaphysical faith on which our faith in science rests--that even we knowers of today, we godless anti-metaphysicians still take ''our'' fire too, from the flame lit by the thousand-year old faith, the Christian faith which was also Plato's faith, that God is Truth; that Truth is ''''Divine''''..."
+A logical truth (also called an analytic truth or a necessary truth) is a statement which is true in all possible worlds or under all possible interpretations, as contrasted to a ''fact'' (also called a ''synthetic claim'' or a ''contingency'') which is only true in this world as it has historically unfolded.
+"Falsity" is also an arbitrary constant, which can be represented as "F" or "0".
+Hegel, along with the British philosopher F.H.
+Teleological truth moves itself in the three-step form of dialectical triplicity toward the final goal of perfect, final, absolute truth.
+Romance languages use terms following the Latin ''veritas'', while the Greek ''aletheia'', Russian ''pravda'' and South Slavic ''istina'' have separate etymological origins.
+They were trying to do something that is "impossible without qualification and for every man".
+The idea that some statements are more actions than communicative statements is not as odd as it may seem.
+Historically, with the nineteenth century development of Boolean algebra mathematical models of logic began to treat "truth", also represented as "T" or "1", as an arbitrary constant.
+Some philosophers view the concept of truth as basic, and unable to be explained in any terms that are more easily understood than the concept of truth itself.
+Most influential is his claim in ''De Interpretatione'' (16a3) that thoughts are "likenessess" (homoiosis) of things.
+:''Michael says, 'snow is white' and snow is white, or he says 'roses are red' and roses are red or he says ...
+These variations do not necessarily follow Ramsey in asserting that truth is ''not'' a property, but rather can be understood to say that, for instance, the assertion "P" may well involve a substantial truth, and the theorists in this case are minimizing only the redundancy or prosentence involved in the statement such as "that's true."
+Unlike Kripke's theory of truth, revision theory can be used with classical logic and can maintain the principle of bivalence.
+When one says 'It's true that it's raining,' one asserts no more than 'It's raining.'
+On this view, the conception of truth as correctness is a later derivation from the concept's original essence, a development Heidegger traces to the Latin term "Veritas."
+Among the current strong critics of consensus theory is the philosopher Nicholas Rescher.
+The question is to what extent it is life-advancing, life-preserving, species-preserving, perhaps even species-breeding..." (aphorism 4).
+Kant writes in the ''Critique of Pure Reason'': "The nominal definition of truth, namely that it is the agreement of cognition with its object, is here granted and presupposed".
+However, formal reasoners are content to contemplate axiomatically independent and sometimes mutually contradictory systems side by side, for example, the various alternative geometries.
+Though not widely known, a new variation of the pragmatic theory was defined and wielded successfully from the 20th century forward.
+Hence my cognition is supposed to confirm itself, which is far short of being sufficient for truth.
+Logicians use formal languages to express the truths which they are concerned with, and as such there is only truth under some interpretation or truth within some logical system.
+For Peirce, the idea of "... endless investigation would tend to bring about scientific belief ..." fits negative pragmatism in that a negative pragmatist would never stop testing.
+Michael Lynch, in a 2009 book ''Truth as One and Many'', argued that we should see truth as a functional property capable of being multiply manifested in distinct properties like correspondence or coherence.
+Kierkegaard agrees that objective truths for the study of subjects like mathematics, science, and history are relevant and necessary, but argues that objective truths do not shed any light on a person's inner relationship to existence.
+"(...) Truth, it is said, consists in the agreement of cognition with its object.
+Very often, though, coherence is taken to imply something more than simple logical consistency; often there is a demand that the propositions in a coherent system lend mutual inferential support to each other.
+In Hinduism, Truth is defined as "unchangeable", "that which has no distortion", "that which is beyond distinctions of time, space, and person", "that which pervades the universe in all its constancy".
+He took his cue from iconoclasts who he claims knew that images of God demonstrated that God did not exist.
+If a judgment has its reason (ground) in another judgment, its truth is called logical or ''formal''.
+In addition, from at least the time of Hilbert's program at the turn of the twentieth century to the proof of Gödel's incompleteness theorems and the development of the Church-Turing thesis in the early part of that century, true statements in mathematics were generally assumed to be those statements that are provable in a formal axiomatic system.
+Kant states in his logic lectures:
+The universe is a whole and integrated system, and testing should acknowledge and account for its diversity.
+Erich Fromm finds that trying to discuss truth as "absolute truth" is sterile and that emphasis ought to be placed on "optimal truth".
+If a judgment is to be an expression of knowledge, it must have a sufficient reason or ground by which the judgment could be called true.
+While objective truths are final and static, subjective truths are continuing and dynamic.
+So, for example, the completeness and comprehensiveness of the underlying set of concepts is a critical factor in judging the validity and usefulness of a coherent system.
+Essentially, what works may or may not be true, but what fails cannot be true because the truth always works.
+Robert Wicks discusses Nietzsche's basic view of truth as follows:
+The values, morals, and spiritual approaches a person adopts, while not denying the existence of objective truths of those beliefs, can only become truly known when they have been inwardly appropriated through subjective experience.
+Thus, some words add an additional parameter to the construction of an accurate truth predicate.
+Pluralist theories of truth assert that there may be more than one property that makes propositions true: ethical propositions might be true by virtue of coherence.
+In a religious context, perfect knowledge of all truth about all things (omniscience) is regarded by some religions, particularly Buddhism (source?)
+For example, language plays a role in that all languages have words to represent concepts that are virtually undefined in other languages.
+Whichever term is used, deflationary theories can be said to hold in common that "the predicate 'true' is an expressive convenience, not the name of a property requiring deep analysis."
+Socrates', Plato's and Aristotle's ideas about truth are seen by some as consistent with correspondence theory.
+However, it has been shown by Gödel that self-reference cannot be avoided naively, since propositions about seemingly unrelated objects can have an informal self-referential meaning; in Gödel's work, these objects are integer numbers, and they have an informal meaning regarding propositions.
+According to Kant, the ancient skeptics were critical of the logicians for holding that, by means of a merely nominal definition of truth, they can establish which judgements are true.
+Strawson holds that a similar analysis is applicable to all speech acts, not just illocutionary ones: "To say a statement is true is not to make a statement about a statement, but rather to perform the act of agreeing with, accepting, or endorsing a statement.
+A real definition describes the essence of certain objects and enable us to determine whether any given item falls within the definition.
+It has thus been claimed that Kripke's system indeed leads to contradiction: while its truth predicate is only partial, it does give truth value (true/false) to propositions such as the one built in Tarski's proof, and is therefore inconsistent.
+They are such that they could not be untrue.
+Some variants of coherence theory are claimed to describe the essential and intrinsic properties of formal systems in logic and mathematics.
+(It may, in turn, have a truth predicate that can be applied to sentences in still another language.)
+She is not ''describing'' herself as taking this man, but actually doing so (perhaps the most thorough analysis of such "illocutionary acts" is J. L. Austin, "How to Do Things With Words").
+Among the theoretical concerns of these views is to explain away those special cases where it ''does'' appear that the concept of truth has peculiar and interesting properties.
+Jean Baudrillard considered truth to be largely simulated, that is pretending to have something, as opposed to dissimulation, pretending to not have something.
+To resolve the incompletion, an "antithesis" occurs which opposes the "thesis."
+This theory is commonly attributed to Frank P. Ramsey, who held that the use of words like ''fact'' and ''truth'' was nothing but a roundabout way of asserting a proposition, and that treating these words as separate problems in isolation from judgment was merely a "linguistic muddle".
+For Marx, scientific and true knowledge is "in accordance with the dialectical understanding of history" and ideological knowledge is "an epiphenomenal expression of the relation of material forces in a given economic arrangement".
+They have found a resurgence also among several proponents of logical positivism, notably Otto Neurath and Carl Hempel.
+This contradicts the Principle of bivalence: every sentence must be either true or false.
+::The simulacrum is never that which conceals the truth—it is the truth which conceals that there is none.
+For a less extreme example, consider how movies usually end with the bad being punished, humiliated, or otherwise failing, thus affirming for viewers the concept that the good end happily and the bad unhappily, a narrative which implies that the status quo and established power structures are largely legitimate.
+Two examples of the latter can be found in Hilbert's problems.
+This assertion can also be succinctly expressed by saying: ''What Michael says is true''.
+In the same way that ''it'' means the same as ''my dog'' in the sentence ''My dog was hungry, so I fed it'', ''That's true'' is supposed to mean the same as ''It's raining'' — if you say the latter and I then say the former.
+There are many references, properties and explanations of truth by Hindu sages that explain varied facets of truth, such as the national motto of India: "Satyameva jayate" (Truth alone wins), as well as "Satyam muktaye" (Truth liberates), "Satya' is 'Parahit'artham' va'unmanaso yatha'rthatvam' satyam" (Satya is the benevolent use of words and the mind for the welfare of others or in other words responsibilities is truth too), "When one is firmly established in speaking truth, the fruits of action become subservient to him ( patanjali yogasutras, sutra number 2.36 ), "The face of truth is covered by a golden bowl.
+Whereas truth (the "trouthe" of ''Sir Gawain and the Green Knight'') was first "an ethical truth in which truth is understood to reside in persons", in Ricardian England it "transforms...into a political truth in which truth is understood to reside in documents".
+According to the redundancy theory of truth, asserting that a statement is true is completely equivalent to asserting the statement itself.
+Since these sentences are never assigned either truth or falsehood even if the process is carried out infinitely, Kripke's theory implies that some sentences are neither true nor false.
+The function of the statement 'It's true that...' is to agree with, accept, or endorse the statement that 'it's raining.'"
+A proposition such as "If p and q, then p" is considered to be a logical truth because of the meaning of the symbols and words in it and not because of any fact of any particular world.
+(Brhadaranyaka V 15 1-4 and the brief IIsa Upanisad 15-18), Truth is superior to silence (Manusmriti), etc.
+For since the object is outside me, the cognition in me, all I can ever pass judgement on is whether my cognition of the object agrees with my cognition of the object.
+According to a survey of professional philosophers and others on their philosophical views which was carried out in November 2009 (taken by 3226 respondents, including 1803 philosophy faculty members and/or PhDs and 829 philosophy graduate students) 44.9% of respondents accept or lean towards correspondence theories, 20.7% accept or lean towards deflationary theories and 13.8% epistemic theories.
+Notice that truth never gets defined for sentences like ''This sentence is false'', since it was not in the original subset and does not predicate truth of any sentence in the original or any subsequent set.
+Marx, like many critical theorists who followed, did not reject the existence of objective truth but rather distinguished between true knowledge and knowledge that has been distorted through power or ideology.
+Similarly, James and Dewey's ideas also ascribe truth to repeated testing which is "self-corrective" over time.
+Some of the pragmatic theories, such as those by Charles Peirce and William James, included aspects of correspondence, coherence and constructivist theories.
+''Truth is the reference of a judgment to something different from itself which is its sufficient reason (ground)''.
+In the view of some, then, it is equally reasonable to take either the continuum hypothesis or its negation as a new axiom.
+The Stanford Encyclopedia of Philosophy proceeds to say of Aristotle:
+''The ancients called such a circle in explanation a ''diallelon''.
+Some examples of simulacra that Baudrillard cited were: that prisons simulate the "truth" that society is free; scandals (e.g., Watergate) simulate that corruption is corrected; Disney simulates that the U.S. itself is an adult place.
+Objective truths are concerned with the facts of a person's being, while subjective truths are concerned with a person's way of being.
+According to Kitaro Nishida, "knowledge of things in the world begins with the differentiation of unitary consciousness into knower and known and ends with self and things becoming one again.
+He proposed the ''will to power'' as a truth only because, according to him, it was the most life-affirming and sincere perspective one could have.
+: the dichotomy between 'absolute = perfect' and 'relative = imperfect' has been superseded in all fields of scientific thought, where "it is generally recognized that there is no absolute truth but nevertheless that there are objectively valid laws and principles".
+He considers truth as stemming from the survival imperative of grasping one's environment physically and intellectually, whereby young children instinctively seek truth so as to orient themselves in "a strange and powerful world".
+Immanuel Kant endorses a definition of truth along the lines of the correspondence theory of truth.
+In propositional logic, these symbols can be manipulated according to a set of axioms and rules of inference, often given in the form of truth tables.
+As Kierkegaard claims, human truth is something that is continually occurring, and a human being cannot find truth separate from the subjective experience of one's own existing, defined by the values and fundamental essence that consist of one's way of life.
+*as ''deflationary'' theories of truth, since they attempt to deflate the presumed importance of the words "true" or ''truth'',
+There is controversy as to the truth value of a proposition made in bad faith self-deception, such as when a hypochondriac has a complaint with no physical symptom.
+He prefers not to use the term truth itself but "Regimes of Truth".
+Habermas maintains that truth is what would be agreed upon in an ideal speech situation.
+According to Hegel, the progression of philosophical truth is a resolution of past oppositions into increasingly more accurate approximations of absolute truth.
+In some discourses, Wright argued, the role of the truth predicate might be played by the notion of superassertibility.
+: As a result "the history of thought is the history of an ever-increasing approximation to the truth.
+Among the assortment of perspectives commonly regarded as coherence theory, theorists differ on the question of whether coherence entails many possible true systems of thought or only a single absolute system.
+In his historical investigations he found truth to be something that was itself a part of, or embedded within, a given power structure.
+and the Abrahamic religions (Christianity, Islam, and Judaism), as an attribute of a divine being.
+''Unveil it, O Pusan (Sun), so that I who have truth as my duty (satyadharma) may see it!''"
+Yet another version of deflationism is the prosentential theory of truth, first developed by Dorothy Grover, Joseph Camp, and Nuel Belnap as an elaboration of Ramsey's claims.
+By this, James meant that truth is a ''quality'', the value of which is confirmed by its effectiveness when applying concepts to practice (thus, "pragmatic").
+This "synthesis" thereby becomes a "thesis," which will again necessitate an "antithesis," requiring a new "synthesis" until a final state is reached as the result of reason's historical movement.
+This type of theory stresses a relationship between thoughts or statements on one hand, and things or objects on the other.
+The reason for his restriction was that languages that contain their own truth predicate will contain paradoxical sentences such as, "This sentence is not true".
+For Arthur Schopenhauer, a judgment is a combination or separation of two or more concepts.
+Once we have identified the truth predicate's formal features and utility, deflationists argue, we have said all there is to be said about truth.
+Constructivism views all of our knowledge as "constructed," because it does not reflect any external "transcendent" realities (as a pure correspondence theory might hold).
+These things (beings; reality) are the foundation of the truth that is found in the human mind, when it acquires knowledge of things, first through the senses, then through the understanding and the judgement done by reason.
+"(...) Some scholars regard Nietzsche's 1873 unpublished essay, "On Truth and Lies in a Nonmoral Sense" ("Über Wahrheit und Lüge im außermoralischen Sinn") as a keystone in his thought.
+The logical progression or connection of this line of thought is to conclude that truth can lie, since half-truths are deceptive and may lead to a false conclusion.
+Very similar statements can also be found in Plato (Cratylus 385b2, Sophist 263b).
+The works of Kurt Gödel, Alan Turing, and others shook this assumption, with the development of statements that are true but cannot be proven within the system.
+The idea of the oath, which was so much part and parcel of for instance Romance literature, changes from a subjective concept to a more objective one (in Derek Pearsall's summary).
+Thus, these beings possess the light of intelligibility and are knowable.
+Only the solution of the indicated problem is impossible without qualification and for every man.
+The concept of truth is discussed and debated in several contexts, including philosophy, art, and religion.
+The accusation was grounded, too.
+Redundancy theorists infer from this premise that truth is a redundant concept; that is, it is merely a word that is traditionally used in conversation or writing, generally for emphasis, but not a word that actually equates to anything in reality.
+Minimalist reasoning realises ''truth'' as a label utilised in general discourse to express agreement, to stress claims, or to form general assumptions.
+saying "Snow is white is true" is the same as saying "Snow is white," but to say "Snow White is true" is ''not'' the same as saying "Snow White."
+In Kripke's terms, these are "ungrounded."
+: In that respect, "a scientifically or rationally valid statement means that the power of reason is applied to all the available data of observation without any of them being suppressed or falsified for the sake of a desired result".
+The history of science is "a history of inadequate and incomplete statements, and every new insight makes possible the recognition of the inadequacies of previous propositions and offers a springboard for creating a more adequate formulation."
+Baudrillard wrote in "Precession of the Simulacra":
+Richard Feynman also ascribed to it: "We never are definitely right, we can only be sure we are wrong."
+Absolute Spirit will then be the complete expression of an infinite God.
+Hegel and Marx were among the other early proponents of the premise that truth is, or can be, socially constructed.
+Fromm furthermore notes that "different cultures have emphasized various aspects of the truth" and that increasing interaction between cultures allows for these aspects to reconcile and integrate, increasing further the approximation to the truth.
+Such unification takes form not only in knowing but in the valuing (of truth) that directs knowing, the willing that directs action, and the feeling or emotive reach that directs sensing."
+Minimalist reasoning centres around the notion that the application of a term like ''true'' to a statement does not assert anything significant about it, for instance, anything about its ''nature''.
+Logician and philosopher Alfred Tarski developed the theory for formal languages (such as formal logic).
+Truth, says Michel Foucault, is problematic when any attempt is made to see truth as an "objective" quality.
+Aquinas also said that real things participate in the act of being of the Creator God who is Subsistent Being, Intelligence, and Truth.
+Since this principle is a key premise in deriving the Liar paradox, the paradox is dissolved.
+For coherence theories in general, truth requires a proper fit of elements within a whole system.
+Attributed to P. F. Strawson is the performative theory of truth which holds that to say "'Snow is white' is true" is to perform the speech act of signaling one's agreement with the claim that snow is white (much like nodding one's head in agreement).
+A nominal definition explains the meaning of a linguistic expression.
+Correspondence theories emphasise that true beliefs and true statements correspond to the actual state of affairs.

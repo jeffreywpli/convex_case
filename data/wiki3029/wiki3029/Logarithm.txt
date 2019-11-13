@@ -1,0 +1,200 @@
+Hence, the intermediate value theorem ensures that the equation ''f''(''x'') = ''y'' has a solution.
+: Greater accuracy can be obtained by interpolation.
+converges (i.e., gets arbitrarily close) to a number known as the Euler–Mascheroni constant.
+Tedious multi-digit multiplication steps can be replaced by table look-ups and simpler addition because of the fact — important in its own right — that the logarithm of a product is the sum of the logarithms of the factors:
+When the logarithm of a random variable has a normal distribution, the variable is said to have a log-normal distribution.
+Binary logarithms are also used in computer science, where the binary system is ubiquitous, in music theory, where a pitch ratio of two (the octave) is ubiquitous and the cent is the binary logarithm (scaled by 1200) of the ratio between two adjacent equally-tempered pitches, and in photography to measure exposure values.
+Moreover, ''p''''i'' is the probability that the state ''i'' is attained and ''k'' is the Boltzmann constant.
+On the other hand,  logarithms are easy to use for manual calculations in the decimal number system:
+Such a number can be visualized by a point in the complex plane, as shown at the right.
+In the context of finite groups exponentiation is given by repeatedly multiplying one group element ''b'' with itself.
+Auditors examine deviations from Benford's law to detect fraudulent accounting.
+This theorem states that a continuous function that produces two values ''m'' and ''n'' also produces any value that lies between ''m'' and ''n''.
+For example, with  the third approximation yields 0.4167, which is about 0.011 greater than .
+The product ''cd'' or quotient ''c''/''d'' came from looking up the antilogarithm of the sum or difference, also via the same table:
+This is this very simple formula that motivated to qualify as "natural" the natural logarithm; this is also one of the main reasons of the importance of the constant ''e''.
+Another logarithm-based notion of dimension is obtained by counting the number of boxes needed to cover the fractal in question.
+Using trigonometric functions sine and cosine, or the complex exponential, respectively, ''r'' and φ are such that the following identities hold:
+Thus, about 30% of the data can be expected to have 1 as first digit, 18% start with 2, etc.
+This series can be derived from the above Taylor series.
+A function ''f''(''x'') is said to grow logarithmically if ''f''(''x'') is (exactly or approximately) proportional to the logarithm of ''x''.
+It is obtained by repeatedly calculating the average (x+y)/2 (arithmetic mean) and sqrt(x*y) (geometric mean) of x and y then let those two numbers become the next x and y.
+This angle is called the argument of ''z''.
+This locus is called a branch cut.
+This asymmetry has important applications in public key cryptography, such as for example in the Diffie–Hellman key exchange, a routine that allows secure exchanges of cryptographic keys over unsecured information channels.
+This is a consequence of the fundamental theorem of calculus and the fact that derivative of ln(''x'') is 1/''x''.
+Benford's law describes the occurrence of digits in many data sets, such as heights of buildings.
+The equality (1) splits the integral into two parts, while the equality (2) is a change of variable ().
+When ''x'' approaches zero, log''b''(''x'') goes to minus infinity for  (plus infinity for , respectively).
+It is based on the common logarithm of ratios—10 times the common logarithm of a power ratio or 20 times the common logarithm of a voltage ratio.
+The principal argument of any positive real number ''x'' is 0; hence Log(''x'') is a real number and equals the real (natural) logarithm.
+The antiderivative of the natural logarithm ln(''x'') is:
+In that case, log''b''(''x'')  is an increasing function.
+Scientific quantities are often expressed as logarithms of other quantities, using a ''logarithmic scale''.
+The discontinuity, that is, the jump in the hue at the negative part of the ''x''- or real axis, is caused by the jump of the principal argument there.
+For example, as , then:
+'''Corresponding number of cents'''
+As a consequence, the probability that a randomly chosen number between 1 and ''x'' is prime is inversely proportional to the number of decimal digits of ''x''.
+A larger ''m'' makes the ''M''(x,y) calculation take more steps (the initial x and y are farther apart so it takes more steps to converge) but gives more precision.
+the logarithm of ''z'' is:
+For , log''b''(''x'') tends to minus infinity instead.
+For example, ''b''−1 is the reciprocal of ''b'', that is, .
+The quick convergence for ''z'' close to 1 can be taken advantage of in the following way: given a low-accuracy approximation  and putting
+Prior to Napier's invention, there had been other techniques of similar scopes, such as the prosthaphaeresis or the use of tables of progressions, extensively developed by Jost Bürgi around 1600.
+to insure the required precision.
+Moreover, as the derivative of ''f''(''x'') evaluates to ln(''b'')''b''''x'' by the properties of the exponential function, the chain rule implies that the derivative of log''b''(''x'') is given by
+A complex number is commonly represented as ''z = x + iy'', where ''x'' and ''y'' are real numbers and ''i'' is the imaginary unit.
+The right hand side of this equation can serve as a definition of the natural logarithm.
+From the perspective of group theory, the identity  expresses a group isomorphism between positive reals under multiplication and reals under addition.
+It is closely tied to the natural logarithm: as ''n'' tends to infinity, the difference,
+mathematics, physics, chemistry,statistics, economics, information theory, and some engineering fields
+Then the argument of ''z'' and, consequently, its logarithm become multi-valued functions.
+This can be verified by showing that it has the same value at , and the same derivative.
+Both the natural logarithm and the logarithm to base two are used in information theory, corresponding to the use of nats or bits as the fundamental units of information, respectively.
+The second equality uses a change of variables (integration by substitution), .
+is called the harmonic series.
+Computing ''f''(''x'') by means of the derivative of ln(''f''(''x'')) is known as logarithmic differentiation.
+For example, logarithms appear in the analysis of algorithms that solve a problem by dividing it into two similar smaller problems and patching their solutions.
+For example, for ''z'' = 1.5, the first three terms of the second series approximate ln(1.5) with an error of about .
+''A'' can be calculated using the exponential series, which converges quickly provided ''y'' is not too large.
+The two numbers quickly converge to a common limit which is the value of ''M''(x,y).
+Finally, for any base ''b'',  and , since  and , respectively.
+Speaking of a number as requiring so many figures is a rough allusion to common logarithm, and was referred to by Archimedes as the "order of a number".
+For such a model, the likelihood function depends on at least one parameter that must be estimated.
+Using look-up tables, CORDIC-like methods can be used to compute logarithms if the only available operations are addition and bit shifts.
+Because ''f'' takes arbitrarily large and arbitrarily small positive values, any number  lies between ''f''(''x''0) and ''f''(''x''1) for suitable ''x''0 and ''x''1.
+log(''x'')(in mathematics  and many programming languages)
+This makes the Hausdorff dimension of this structure ln(3)/ln(2) ≈ 1.58.
+Exponentiation occurs in many areas of mathematics and its inverse function is often referred to as the logarithm.
+Almost all real numbers are transcendental.
+The common logarithm of a number is the index of that power of ten which equals the number.
+provided that ,  and  are all positive and .
+If the logarithm of a large integer  is known, then this series yields a fast converging series for log(''n''+1).
+Logarithms are related to musical tones and intervals.
+The activity of hydronium ions in neutral water is 10−7&nbsp;mol·L−1, hence a pH of 7.
+::"...an admirable artifice which, by reducing to a few days the labour of many months, doubles the life of the astronomer, and spares him the errors and disgust inseparable from long calculations."
+Among all choices for the base, three are particularly common.
+However, the above formulas for logarithms of products and powers do ''not'' generalize to the principal value of the complex logarithm.
+It is the Taylor series of the natural logarithm at ''z'' = 1.
+Moreover, the binary logarithm algorithm calculates lb(''x'') recursively based on repeated squarings of ''x'', taking advantage of the relation
+Such systems are chaotic in a deterministic way, because small measurement errors of the initial state predictably lead to largely different final states.
+In such graphs, exponential functions of the form ''f''(''x'') = ''a'' · ''b''''x'' appear as straight lines with slope equal to the logarithm of ''b''.
+Inverse functions are closely related to the original functions.
+In equal temperament, the frequency ratio depends only on the interval between two tones, not on the specific frequency, or pitch, of the individual tones.
+The logarithm is an example of a transcendental function.
+There are infinitely many of them, in contrast to the uniquely defined real logarithm.
+The strength of an earthquake is measured by taking the common logarithm of the energy emitted at the quake.
+This is used in the moment magnitude scale or the Richter magnitude scale.
+The present-day notion of logarithms comes from Leonhard Euler, who connected them to the exponential function in the 18th century.
+Lyapunov exponents use logarithms to gauge the degree of chaoticity of a dynamical system.
+Related formulas, such as antiderivatives of logarithms to other bases can be derived from this equation using the change of bases.
+The signal-to-noise ratio describing the amount of unwanted noise in relation to a (meaningful) signal is also measured in decibels.
+A proof of that fact requires the intermediate value theorem from elementary calculus.
+The logarithm to base  (that is ) is called the common logarithm and has many applications in science and engineering.
+Similarly, the merge sort algorithm sorts an unsorted list by dividing the list into halves and sorting these first before merging the results.
+Logarithms have many applications inside and outside mathematics.
+Some of these methods used tables derived from trigonometric identities.
+The resulting complex number is again ''z'', as illustrated at the right.
+The "ISO notation" column lists designations suggested by the International Organization for Standardization (ISO 31-11).
+''m'' is chosen such that
+In psychophysics, the Weber–Fechner law proposes a logarithmic relationship between stimulus and sensation such as the actual vs. the perceived weight of an item a person is carrying.
+That is, the slope of the tangent touching the graph of the  logarithm at the point  equals .
+Another example is the ''p''-adic logarithm, the inverse function of the ''p''-adic exponential.
+The non-sliding logarithmic scale, Gunter's rule, was invented shortly after Napier's invention.
+This relation aids in analyzing the performance of algorithms such as quicksort.
+Moreover, because the logarithmic function log(''x'') grows very slowly for large ''x'', logarithmic scales are used to compress large-scale scientific data.
+Fractals are geometric objects that are self-similar: small parts reproduce, at least roughly, the entire global structure.
+log(''x''), log10(''x'')(in engineering, biology, astronomy)
+Logarithms are also linked to self-similarity.
+Moreover, Li''s''(1) equals the Riemann zeta function ζ(''s'').
+This extends the scope of logarithm tables: given a table listing log10(''x'') for all integers ''x'' ranging from 1 to 1000, the logarithm of 3542 is approximated by
+It is used to quantify the loss of voltage levels in transmitting electrical signals, to describe power levels of sounds in acoustics, and the absorbance of light in the fields of spectrometry and optics.
+The following table lists these identities with examples.
+Calculations of powers and roots are reduced to multiplications or divisions and look-ups by
+The third power of some number ''b'' is the product of three factors of ''b''.
+A function is a rule that, given one number, produces another number.
+Sliding the upper scale appropriately amounts to mechanically adding logarithms.
+Zech's logarithm is related to the discrete logarithm in the multiplicative group of non-zero elements of a finite field.
+Vinegar typically has a pH of about 3.
+The function log''b''(''x'') is essentially characterized by the above product formula
+If a message recipient may expect any one of ''N'' possible messages with equal likelihood, then the amount of information conveyed by any one such message is quantified as log2(''N'') bits.
+More generally, raising ''b'' to the  power, where ''n'' is a natural number, is done by multiplying ''n'' factors of ''b''.
+For example, log10(1430) is approximately 3.15.
+says that first taking the logarithm and then exponentiating gives back ''y''.
+For example, the base  logarithm of  is , as  to the power  is  (); the multiplication is repeated three times.
+(For further details, including the formula , see exponentiation or  for an elementary treatise.)
+(An alternative normalization is .)
+where ''x'' is an element of the group.
+Thus, the two possible ways of combining (or composing) logarithms and exponentiation give back the original number.
+A maximum of the likelihood function occurs at the same parameter-value as a maximum of the logarithm of the likelihood (the "''log&nbsp;likelihood''"), because the logarithm is an increasing function.
+The logarithm is denoted "log''b''(''x'')" (pronounced as "the logarithm of ''x'' to base ''b''" or  "the  logarithm of ''x''").
+For example, the decibel is a unit quantifying signal power log-ratios and amplitude log-ratios (of which sound pressure is a common example).
+Increasing education shifts this to a linear estimate (positioning 1000 10x as far away) in some circumstances, while logarithms are used when the numbers to be plotted are difficult to plot linearly.
+Log-log graphs scale both axes logarithmically, which causes functions of the form ''f''(''x'') = ''a'' · ''x''''k'' to be depicted as straight lines with slope equal to the exponent ''k''.
+offset logarithmic integral function Li(''x''), defined by
+For example, to find a number in a sorted list, the binary search algorithm checks the middle entry and proceeds with the half before or after the middle entry if the number is still not found.
+A key tool that enabled the practical use of logarithms before calculators and computers was the ''table of logarithms''.
+These are ''b''&nbsp;=&nbsp;10, ''b''&nbsp;=&nbsp;''e'' (the irrational mathematical constant ≈ 2.71828), and ''b''&nbsp;=&nbsp;2.
+The Erdős–Kac theorem describing the number of distinct prime factors also involves the natural logarithm.
+Real numbers that are not algebraic are called transcendental; for example,  and ''e'' are such numbers, but  is not.
+The polar form encodes a non-zero complex number ''z'' by its absolute value, that is, the distance ''r'' to the origin, and an angle between the ''x'' axis and the line passing through the origin and ''z''.
+The method of logarithms was publicly propounded by John Napier in 1614, in a book titled ''Mirifici Logarithmorum Canonis Descriptio'' (''Description of the Wonderful Rule of Logarithms'').
+A deeper study of logarithms requires the concept of a ''function''.
+As a consequence, log''b''(''x'') diverges to infinity (gets bigger than any given number) if ''x'' grows to infinity, provided that ''b'' is greater than one.
+Moving it appropriately, the area fits the graph of the function  again.
+However, exactly one argument φ satisfies  and .
+in the sense that the ratio of (''x'') and that fraction approaches 1 when ''x'' tends to infinity.
+A third example: log10(150) is approximately 2.176, which lies between 2 and 3, just as 150 lies between  and .
+Fitts's law predicts that the time required to rapidly move to a target area is a logarithmic function of the distance to and the size of the target.
+Logarithms are commonplace in scientific formulae, and in measurements of the complexity of algorithms and of geometric objects called fractals.
+Rescaling the left hand blue area vertically by the factor ''t'' and shrinking it by the same factor horizontally does not change its size.
+Pierre-Simon Laplace called logarithms
+For any integer ''x'', the quantity of prime numbers less than or equal to ''x'' is denoted (''x'').
+Many disciplines write log(''x'') instead of log''b''(''x''), when the intended base can be determined from the context.
+The base of the logarithm is not specified here, because the result only changes by a constant factor when another base is used.
+In the same way as the logarithm reverses exponentiation, the complex logarithm is the inverse function of the exponential function applied to complex numbers.
+The unique solution ''x'' is the logarithm of ''y'' to base ''b'', log''b''(''y'').
+The discrete logarithm is another variant; it has uses in public-key cryptography.
+The log-likelihood is easier to maximize, especially for the multiplied likelihoods for independent random variables.
+Thus, as ''f''(''x'') = ''b''''x'' is a continuous and differentiable function, so is log''b''(''y'').
+In other words, ln(''t'') equals the area between the ''x'' axis and the graph of the function 1/''x'', ranging from  to  (figure at the right).
+'''Interval'''(the two tones are played at the same time)
+The logarithm of a product is the sum of the logarithms of the numbers being multiplied; the logarithm of the ratio of two numbers is the difference of the logarithms.
+Some of these occurrences are related to the notion of scale invariance.
+Archimedes had written The Quadrature of the Parabola in the third century BC, but a quadrature for the hyperbola eluded all efforts until Saint-Vincent published his results in 1647.
+Newton's method, an iterative method to solve equations approximately, can also be used to calculate the logarithm, because its inverse function, the exponential function, can be computed efficiently.
+Psychological studies found that individuals with little mathematics education tend to estimate quantities logarithmically, that is, they position a number on an unmarked line according to its logarithm, so that 10 is positioned as close to 100 as 100 is to 1000.
+In the equation ''y'' = log''b''(''x''), the value ''y'' is the answer to the question "To what power must ''b'' be raised, in order to yield ''x''?".
+The polylogarithm is the function defined by
+Here ''M''(x,y) denotes the arithmetic–geometric mean of x and y.
+Carrying out the exponentiation can be done efficiently, but the discrete logarithm is believed to be very hard to calculate in some groups.
+Many logarithm tables give logarithms by separately providing the characteristic and mantissa of ''x'', that is to say, the integer part and the fractional part of log10(''x'').
+For example, a 5.0 earthquake releases 32 times (101.5) and a 6.0 releases 1000 times (103) the energy of a 4.0.
+The logarithm of ''n'' factorial, ''n''!
+The function that assigns to ''y'' its logarithm is called ''logarithm function'' or ''logarithmic function'' (or just ''logarithm'').
+They were rapidly adopted by navigators, scientists, engineers, and others to perform computations more easily, using slide rules and logarithm tables.
+It converges more quickly than the Taylor series, especially if ''z'' is close to 1.
+A function is ''continuous'' if it does not "jump", that is, if its graph can be drawn without lifting the pen.
+At least one Lyapunov exponent of a deterministically chaotic system is positive.
+The derivative with a generalised functional argument ''f''(''x'') is
+The first real logarithms were heuristic methods to turn multiplication into addition, thus facilitating rapid computation.
+The Gelfond–Schneider theorem asserts that logarithms usually take transcendental, i.e., "difficult" values.
+The logarithm of  to ''base'' , denoted , is the unique real number  such that
+Natural logarithms are closely linked to counting prime numbers (2, 3, 5, 7, 11, ...), an important topic in number theory.
+Moreover, there is only one solution to this equation, because the function ''f'' is strictly increasing (for ), or strictly decreasing (for ).
+Logarithmic scales reduce wide-ranging quantities to tiny scopes.
+Analytic properties of functions pass to their inverses.
+Logarithms are used for maximum-likelihood estimation of parametric statistical models.
+computer science, information theory, music theory, photography
+Logarithmic functions are the only continuous isomorphisms between these groups.
+The first such table was compiled by Henry Briggs in 1617, immediately after Napier's invention.
+The derivative of ln(''x'') is 1/''x''; this implies that ln(''x'') is the unique antiderivative of 1/''x'' that has the value 0 for ''x'' =1.
+As the function  is the inverse function of log''b''(''x''), it has been called the '''antilogarithm'''.
+It follows that the logarithm of 8 with respect to base 2 is 3, so log2&nbsp;8&nbsp;=&nbsp;3.
+Another critical application was the slide rule, a pair of logarithmically divided scales used for calculation, as illustrated here:
+Any such ''a'' is called a complex logarithm of ''z''.
+The prime number theorem asserts that (''x'') is approximately given by
+Logarithms were introduced by John Napier in the early 17th century as a means to simplify calculations.
+An example is the function producing the  power of ''b'' from any real number ''x'', where the base ''b'' is a fixed number.
+For example, any natural number ''N'' can be represented in binary form in no more than  bits.
+Invention of the function now known as natural logarithm began as an attempt to perform a quadrature of a rectangular hyperbola by Gregoire de Saint Vincent, a Belgian Jesuit residing in Prague.

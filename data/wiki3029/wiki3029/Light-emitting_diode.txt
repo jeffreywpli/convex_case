@@ -1,0 +1,200 @@
+This avoids the typical costly sapphire substrate in relatively small 100- or 150-mm wafer sizes.
+A ring of LEDs around a video camera, aimed forward into a retroreflective background, allows chroma keying in video productions.
+This allows precise dynamic color control.
+Modern LEDs are available across the visible, ultraviolet, and infrared wavelengths, with very high brightness.
+Thus the energy level of the holes will be lesser than the energy levels of the electrons.
+As more effort is devoted to investigating this method, multi-color LEDs should have profound influence on the fundamental method that we use to produce and control light color.
+In addition to power and ground, these provide connections for data-in, data-out, and sometimes a clock or strobe signal.
+Using LEDs has styling advantages because LEDs can form much thinner lights than incandescent lamps with parabolic reflectors.
+These devices built in the early 1970s had too little light output to be of practical use and research into gallium nitride devices slowed.
+NASA has even sponsored research for the use of LEDs to promote health for astronauts.
+A new style of wafers composed of gallium-nitride-on-silicon (GaN-on-Si) is being used to produce white LEDs using 200-mm silicon wafers.
+Recent developments in LEDs permit them to be used in environmental and task lighting.
+LEDs are used in mining operations, as cap lamps to provide light for miners.
+For comparison, a conventional incandescent light bulb of 60–100 watts emits around 15&nbsp;lm/W, and standard fluorescent lights emit up to 100&nbsp;lm/W.
+The combination of that yellow with remaining blue light appears white to the eye.
+One type consists of two dies connected to the same two leads antiparallel to each other.
+Bi-color LEDs contain two different LED emitters in one case.
+Researchers at the University of Washington have invented the thinnest LED.
+The small size sets a natural upper boundary on power consumption due to heat caused by the high current density and need for a heat sink.
+:* 2.9 to 4.2&nbsp;V for violet, pink, purple and white
+Thus, light extraction in LEDs is an important aspect of LED production, subject to much research and development.
+In the 1970s commercially successful LED devices at less than five cents each were produced by Fairchild Optoelectronics.
+Currently, in the area of phosphor LED development, much effort is being spent on optimizing these devices to higher light output and higher operation temperatures.
+Replacing lights that spend the most time lit results in the most savings, so LED lights in infrequently used locations bring a smaller return on investment.
+LEDs constitute a nearly ideal light source for machine vision systems for several reasons:
+A four-lead arrangement is typical with one common lead (anode or cathode) and an additional lead for each color.
+* The size of the illuminated field is usually comparatively small and machine vision systems are often quite expensive, so the cost of the light source is usually a minor concern.
+LEDs are often used for this purpose, and this is likely to remain one of their major uses until the price drops low enough to make signaling and illumination uses more widespread.
+This provides more color options and better color rendering than white LEDs since the emission spectrum is much narrower, characteristic of quantum confined states.
+The first blue-violet LED using magnesium-doped gallium nitride was made at Stanford University in 1972 by Herb Maruska and Wally Rhines, doctoral students in materials science and engineering.
+The same process is reversed here (i.e.
+They were soon packaged into numeric readouts in the form of seven-segment displays, and were commonly seen in digital clocks.
+The wavelength of the light emitted, and thus its color, depends on the band gap energy of the materials forming the ''p-n junction''.
+Light-emitting diodes (as well as semiconductor lasers) are used to send data over many types of fiber optic cable, from digital audio over TOSLINK cables to the very high bandwidth fiber links that form the Internet backbone.
+Due to the relative cheapness of low output LEDs, they are also used in many temporary uses such as glowsticks, throwies, and the photonic textile Lumalive.
+If un-alloyed GaN is used in this case to form the active quantum well layers, the device will emit near-ultraviolet light with a peak wavelength centred around 365&nbsp;nm.
+The emitted light was detected by a PbS diode some distance away.
+This setup presaged the use of LEDs for optical communication applications.
+The Nintendo Wii's sensor bar uses infrared LEDs.
+Usually they are packaged in a sealed enclosure with a shape similar to lamps they were designed to replace (e.g.
+Bare uncoated semiconductors such as silicon exhibit a very high refractive index relative to open air, which prevents passage of photons arriving at sharp angles relative to the air-contacting surface of the semiconductor due to total internal reflection.
+In February 2011 scientists at PlasmaChem GmbH were able to synthesize quantum dots for LED applications and build a light converter on their basis, which was able to efficiently convert light from blue to any other color for many hundred hours.
+Decorative-multicolor LEDs incorporate several emitters of different colors supplied by only two lead-out wires.
+: 20&nbsp;mA at approximately 2 or 4–5&nbsp;V, designed for viewing in direct sunlight
+* blue LED + green LED + red LED (color mixing; can be used as backlighting for displays)
+In 2002, Lumileds made five-watt LEDs available with luminous efficacy of 18–22 lumens per watt (lm/W).
+Because these need electronic circuits to control the blending and diffusion of different colors, and because the individual color LEDs typically have slightly different emission patterns (leading to variation of the color depending on direction) even if they are made as a single unit, these are seldom used to produce white lighting.
+Because of their long life, fast switching times, and their ability to be seen in broad daylight due to their high output and focus, LEDs have been used in brake lights for cars' high-mounted brake lights, trucks, and buses, and in turn signals for some time, but many vehicles now use LEDs for their rear light clusters.
+These LEDs can have either common positive or common negative leads.
+The first high-brightness blue LED was demonstrated by Shuji Nakamura of Nichia Corporation in 1994 and was based on InGaN.
+When this angle is exceeded, photons no longer escape the semiconductor but are instead reflected internally inside the semiconductor crystal as if it were a mirror.
+However, neither of these initial blue LEDs were very bright.
+The third feature helps to boost the light emission from the semiconductor by acting as a diffusing lens, allowing light to be emitted at a much higher angle of incidence from the light cone than the bare chip is able to emit alone.
+A layer of quantum dots is sandwiched between layers of electron-transporting and hole-transporting materials.
+The tunability of emission wavelengths and narrow bandwidth is also beneficial as excitation sources for fluorescence imaging.
+There are two types of these.
+There are several types of multi-color white LEDs: di-, tri-, and tetrachromatic white LEDs.
+The design and production of a light source or light fixture using a monochrome emitter with phosphor conversion is simpler and cheaper than a complex RGB system, and the majority of high-intensity white LEDs presently on the market are manufactured using phosphor light conversion.
+LEDs are usually built on an n-type substrate, with an electrode attached to the p-type layer deposited on its surface.
+Shorter-wavelength diodes, while substantially more expensive, are commercially available for wavelengths down to 240&nbsp;nm.
+In parallel, Isamu Akasaki and Hiroshi Amano in Nagoya were working on developing the important GaN nucleation on sapphire substrates and the demonstration of p-type doping of GaN.
+This effect is called electroluminescence, and the color of the light (corresponding to the energy of the photon) is determined by the energy band gap of the semiconductor.
+Many materials and biological systems are sensitive to, or dependent on, light.
+Digital-RGB LEDs are RGB LEDs that contain their own "smart" control electronics.
+One of the challenges is the development of more efficient green LEDs.
+Drawing the billions of overlapping cones is impossible, so this is a simplified diagram showing the extents of all the emission cones combined.
+LED street lights are employed on poles and in parking garages.
+A convoluted chip surface with angled facets similar to a jewel or fresnel lens can increase light output by allowing light to be emitted perpendicular to the chip surface while far to the sides of the photon emission point.
+LED strobe lights or camera flashes operate at a safe, low voltage, instead of the 250+ volts commonly found in xenon flashlamp-based lighting.
+The refractive index of silicon is 3.96 (at 590&nbsp;nm), while air is 1.0002926.
+Wavelength range (nm)
+The organic materials can be small organic molecules in a crystalline phase, or polymers.
+Correlated color temperature (CCT) dimming for LED technology is regarded as a difficult task, since binning, age and temperature drift effects of LEDs change the actual color value output.
+One uses photo excitation with a primary light source LED (typically blue or UV LEDs are used).
+Alternatively, the LED might be paired with a remote phosphor, a preformed polycarbonate piece coated with the phosphor material.
+LEDs usually operate at comparatively low working temperatures, simplifying heat management and dissipation.
+This scheme is commonly studied for quantum dot display.
+If the reverse current is sufficiently limited to avoid damage, the reverse-conducting LED is a useful noise diode.
+* LEDs come in several different colors and wavelengths, allowing easy use of the best color for each need, where different color may provide better visibility of features of interest.
+Both Moustakas and Nakamura were issued separate patents, which confused the issue of who was the original inventor (partly because although Moustakas invented his first, Nakamura filed first).
+However, it might not be easy to replace a broken light source placed within complex machinery, and here the long service life of LEDs is a benefit.
+The maximum angle of incidence is referred to as the critical angle.
+Polymer LEDs have the added benefit of printable and flexible displays.
+450 Indium gallium nitride (InGaN)Silicon carbide (SiC) as substrateSilicon (Si) as substrate—under development
+It is important to note that the 'whiteness' of the light produced is essentially engineered to suit the human eye, and depending on the situation it may not always be appropriate to think of it as white light.
+SiC-types were first commercially sold in the United States by Cree in 1989.
+Unlike dedicated-color LEDs, however, these obviously do not produce pure wavelengths.
+In general, a flat-surface uncoated LED semiconductor chip will emit light only perpendicular to the semiconductor's surface, and a few degrees to the side, in a cone shape referred to as the ''light cone'', ''cone of light'', or the ''escape cone''.
+While LEDs have the advantage over fluorescent lamps that they do not contain mercury, they may contain other hazardous metals such as lead and arsenic.
+:* 1.9 to 2.1&nbsp;V for red, orange, yellow, and traditional green
+In 1957, Braunstein further demonstrated that the rudimentary devices could be used for non-radio communication across a short distance.
+Others however, have only two leads (positive and negative) and have a built-in tiny electronic control unit.
+Due to the higher radiative output of the ultraviolet LEDs than of the blue ones, both methods offer comparable brightness.
+For each half-cycle, part of the LED emits light and part is dark, and this is reversed during the next half-cycle.
+These are connected in a daisy chain, with the data in of the first LED sourced by a microprocessor, which can control the brightness and color of each LED independently of the others.
+In 1971, the year after Maruska left for Stanford, his RCA colleagues Pankove and Ed Miller demonstrated the first blue electroluminescence from zinc-doped gallium nitride, though the subsequent device Pankove and Miller built, the first actual gallium nitride light-emitting diode, emitted green light.
+The Philips Lighting North America LED bulb won the first competition on August 3, 2011 after successfully completing 18 months of intensive field, lab, and product testing.
+Ultraviolet LEDs in a range of wavelengths are becoming available on the market.
+Quantum dots (QD) are semiconductor nanocrystals that possess unique optical properties.
+Such problems inhibit and may preclude industrial use.
+Moreover, such modules as commercially available are often not optimized for smooth color mixing.
+These devices employed compound semiconductor chips fabricated with the planar process invented by Dr. Jean Hoerni at Fairchild Semiconductor.
+Among the challenges being faced to improve the efficiency of LED-based white light sources is the development of more efficient phosphors.
+A hemispherical semiconductor would also work, with the flat back-surface serving as a mirror to back-scattered photons.
+His research was distributed in Soviet, German and British scientific journals, but no practical use was made of the discovery for several decades.
+The LED consists of a chip of semiconducting material doped with impurities to create a ''p-n junction''.
+Infrared LEDs are still frequently used as transmitting elements in remote-control circuits, such as those in remote controls for a wide variety of consumer electronics.
+Although LED forward voltage is far more current-dependent than a Zener diode, Zener diodes with breakdown voltages below 3&nbsp;V are not widely available.
+Alphanumeric LEDs are available in seven-segment, starburst and dot-matrix format.
+This could be used, for example, in a touchscreen that registers reflected light from a finger or stylus.
+The encapsulation may also be clear or tinted to improve contrast and viewing angle.
+the litigants who had not previously settled out of court) that had licensed Nakamura's patents for production in the United States had infringed Moustakas's prior patent, and ordered them to pay licensing fees of not less than 13 million USD.
+High-power LEDs (HP-LEDs) or high-output LEDs (HO-LEDs) can be driven at currents from hundreds of mA to more than an ampere, compared with the tens of mA for other LEDs.
+There are two types of schemes for QD excitation.
+Many commercial LEDs, especially GaN/InGaN, also use sapphire substrate.
+LEDs are also used as a light source for DLP projectors, and to backlight LCD televisions (referred to as LED TVs) and laptop displays.
+In February 2008, a luminous efficacy of 300 lumens of visible light per watt of radiation (not per electrical watt) and warm-light emission was achieved by using nanocrystals.
+Due to the simplicity of manufacturing the phosphor method is still the most popular method for making high-intensity white LEDs.
+Multi-color LEDs offer not merely another means to form white light but a new means to form light of different colors.
+One is to use individual LEDs that emit three primary colors—red, green, and blue—and then mix all the colors to form white light.
+LEDs are often ideal as a light source due to the requirements of the sensors.
+Pulse oximeters use them for measuring oxygen saturation.
+LED development began with infrared and red devices made with gallium arsenide.
+This gives drivers behind more time to react.
+By varying the relative In/Ga fraction in the InGaN quantum wells, the light emission can in theory be varied from violet to amber.
+Often a simple rectifier and capacitive current limiting are employed to create a low-cost replacement for a traditional light bulb without the complexity of creating a low voltage, high current converter which is required by single die LEDs.
+The light emission zone is typically a two-dimensional plane between the wafers.
+* blue LED + yellow phosphor (two complementary colors combine to form white light; more efficient than first two methods and more commonly used)
+Nakamura, Akasaki and Amano were awarded the 2014 Nobel prize in physics for their work.
+Airbus has used LED lighting in its Airbus A320 Enhanced since 2007, and Boeing uses LED lighting in the 787.
+However, according to California regulations, excessive levels of copper (up to 3892 mg/kg; limit: 2500), lead (up to 8103 mg/kg; limit: 1000), nickel (up to 4797 mg/kg; limit: 2000), or silver (up to 721 mg/kg; limit: 500) render all except low-intensity yellow LEDs hazardous."
+An LED filament consists of multiple LED chips connected in series on a common longitudinal substrate that form a thin rod reminiscent of a traditional incandescent filament.
+Some even have refresh rates in the kHz range, allowing for basic video applications.
+In October 1962, TI announced the first commercial LED product (the SNX-100), which employed a pure GaAs crystal to emit a 890&nbsp;nm light output.
+Fluorescence near-field scanning optical microscopy
+LED companies shifting from using sapphire to silicon should be a minimal investment.
+LEDs are used as street lights and in other architectural lighting.
+LEDs have been developed by Seoul Semiconductor that can operate on AC power without the need for a DC converter.
+Remote phosphors provide more diffuse light, which is desirable for many applications.
+For example, the dichromatic white LEDs have the best luminous efficacy (120 lm/W), but the lowest color rendering capability.
+Nakamura, Hiroshi Amano and Isamu Akasaki were awarded the Nobel Prize in Physics in 2014 for the invention of the blue LED.
+The theoretical maximum for green LEDs is 683 lumens per watt but as of 2010 few green LEDs exceed even 100 lumens per watt.
+Because of metamerism, it is possible to have quite different spectra that appear white.
+In 2001 and 2002, processes for growing gallium nitride (GaN) LEDs on silicon were successfully demonstrated.
+In the late 1980s, key breakthroughs in GaN epitaxial growth and p-type doping ushered in the modern era of GaN-based optoelectronic devices.
+This is especially useful in cameras on mobile phones, where space is at a premium and bulky voltage-raising circuitry is undesirable.
+The blue and red LEDs get closer to their theoretical limits.
+LEDs have allowed new displays and sensors to be developed, while their high switching rates are also used in advanced communications technology.
+Large-area LED displays are used as stadium displays and as dynamic decorative displays.
+They have an active region consisting of one or more InGaN quantum wells sandwiched between thicker layers of GaN, called cladding layers.
+In this device a :Ce (known as "YAG") phosphor coating on the emitter absorbs some of the blue emission and produces yellow light through fluorescence.
+Some portion of the energy must be dissipated in order to recombine the electrons and the holes.
+Nitride-based LEDs have a fairly steep I/V curve and are useless for this purpose.
+Starburst displays can display all letters.
+If the semiconductor is translucent, the junction becomes the source of light as it is emitted, thus becoming a light-emitting diode, but when the junction is reverse biased no light will be produced by the LED and, on the contrary, the device may also be damaged.
+Assuming the average light bulb is on for 10 hours a day, a 40-watt bulb will cause  of  emission per year.
+The reduction in carbon emissions depends on the source of electricity.
+In 2015, a US court ruled that three companies (i.e.
+OLEDs have been used to make visual displays for portable electronic devices such as cellphones, digital cameras, and MP3 players while possible future uses include lighting and televisions.
+Some flatbed scanners use arrays of RGB LEDs rather than the typical cold-cathode fluorescent lamp as the light source.
+Readouts in calculators were so small that plastic lenses were built over each digit to make them legible.
+:* 3.0 to 3.4&nbsp;V for pure green and blue
+Each emitter is connected to a separate lead so they can be controlled independently.
+This can often be obtained with small, low-cost lenses and diffusers, helping to achieve high light densities with control over lighting levels and homogeneity.
+Charge-carriers—electrons and holes—flow into the junction from electrodes with different voltages.
+a bulb), and filled with inert nitrogen or carbon dioxide gas to remove heat efficiently.
+However, the high resistance of three-volt coin cells combined with the high differential resistance of nitride-based LEDs makes it possible to power such an LED from such a coin cell without an external resistor.
+With nitrides containing aluminium, most often AlGaN and AlGaInN, even shorter wavelengths are achievable.
+White LED headlamps are starting to be used.
+P-type substrates, while less common, occur as well.
+However, before this type of LED can play a role on the market, several technical problems must be solved.
+They are, however, significantly more energy efficient and, arguably, have less environmental concerns linked to their disposal
+A P-N junction can convert absorbed light energy into a proportional electric current.
+The other type consists of two dies with separate leads for both dies and another lead for common anode or cathode, so that they can be controlled independently.
+Having independent control of three illuminated colors allows the scanner to calibrate itself for more accurate color balance, and there is no need for warm-up.
+The efficacy of this type of HP-LED is typically 40 lm/W.
+This is especially useful in medical equipment where the signals from a low-voltage sensor circuit (usually battery-powered) in contact with a living organism must be electrically isolated from any possible electrical failure in a recording or monitoring device operating at potentially dangerous voltages.
+For example, the luminous efficacy of a typical YAG yellow phosphor based white LED ranges from 3 to 5 times the luminous efficacy of the original blue LED because of the human eye's greater sensitivity to yellow than to blue (as modeled in the luminosity function).
+Nakamura was awarded the 2006 Millennium Technology Prize for his invention.
+LEDs are used in aviation lighting.
+610 Gallium arsenide phosphide (GaAsP)Aluminium gallium indium phosphide (AlGaInP)  Gallium(III) phosphide (GaP)
+This energy is emitted in the form of heat and light.
+One of the key advantages of LED-based lighting sources is high luminous efficacy.
+Waterproof units can also easily be designed, allowing use in harsh or wet environments (food, beverage, oil industries).
+This trend is generally attributed to the parallel development of other semiconductor technologies and advances in optics and materials science, and has been called Haitz's law after Dr. Roland Haitz.
+Recent research has shown that commercially available UVA LEDs (365&nbsp;nm) are already effective disinfection and sterilization devices.
+The filaments require a rather high voltage to light to nominal brightness, allowing them to work efficiently and simply with mains voltages.
+''λ'' Boron nitride (215&nbsp;nm) Aluminium nitride (AlN) (210&nbsp;nm) Aluminium gallium nitride (AlGaN) Aluminium gallium indium nitride (AlGaInN)—down to 210&nbsp;nm
+There are two primary ways of producing white light-emitting diodes (WLEDs), LEDs that generate high-intensity white light.
+In a dual intensity circuit (rear markers and brakes) if the LEDs are not pulsed at a fast enough frequency, they can create a phantom array, where ghost images of the LED will appear if the eyes quickly scan across the array.
+Their emission color can be tuned from the visible throughout the infrared spectrum.
+Often daisy chained as used in LED tapes.
+There are three main methods of mixing colors to produce white light from an LED:
+This method is less efficient than blue LEDs with YAG:Ce phosphor, as the Stokes shift is larger, so more energy is converted to heat, but yields light with better spectral characteristics, which render color better.
+These include that this type of LED's emission power decays exponentially with rising temperature,
+2.8  '''Warm White:''' Blue diode with orange phosphor
+Phosphor-based LED efficiency losses are due to the heat loss from the Stokes shift and also other phosphor-related degradation issues.
+Manufacturing large sapphire material is difficult, while large silicon material is cheaper and more abundant.
+This includes remote controls, such as for TVs, VCRs, and LED Computers, where infrared LEDs are often used.
+This allows using plastic lenses, filters, and diffusers.

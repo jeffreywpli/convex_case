@@ -1,0 +1,200 @@
+If a conic section has one real and one imaginary point at infinity or it has two imaginary points that are not conjugated then it not a real conic section (its coefficients are complex).
+Thus, a polarity relates a point  with a line  and, following Gergonne,  is called the '''polar''' of  and  the '''pole''' of .
+Further extension, by expanding the real coordinates to admit complex coordinates provides the means to see this unification algebraically.
+In higher dimensions the Riemann curvature tensor is a more complicated object, but manifolds with constant sectional curvature are interesting objects of study, and have strikingly different properties, as discussed at sectional curvature.
+His work did not survive, not even the names he used for these curves, and is only known through secondary accounts.
+To distinguish the degenerate cases from the non-degenerate cases (including the empty set with the latter) using matrix notation, let  be the determinant of the 3&times;3 matrix of the conic section: that is,  and let  be the discriminant.
+The empty set may be the line at infinity considered as a double line, a (real) point is the intersection of two complex conjugate lines and the other cases as previously mentioned.
+Some of the other common features and/or parameters of conics are given below.
+Indeed, given any five points there is a conic passing through them, but if three of the points are collinear the conic will be degenerate (reducible, because it contains a line), and may not be unique; see further discussion.
+All the conic sections share a ''reflection property'' that can be stated as: All mirrors in the shape of a non-degenerate conic section reflect light coming from or going toward one focus toward or away from the other focus.
+In the case of the parabola, the second focus needs to be thought of as infinitely far away, so that the light rays going toward or coming from the second focus are parallel to each other.
+De Witt invented the term ''directrix''.
+Eccentricity classifications include:
+The degenerate conic is either: a point, when the plane intersects the cone only at the apex; a straight line, when the plane is tangent to the cone (it contains exactly one generator of the cone); or a pair of intersecting lines (two generators of the cone).
+The polar form of the equation of a conic is often used in dynamics; for instance, determining the orbits of objects revolving about the Sun.
+Let  denote the distance from the center to a vertex of an ellipse or hyperbola.
+This can be done for arbitrary projective planes, but to obtain the real projective plane as the extended Euclidean plane, some specific choices have to be made.
+In  analytic geometry, a conic may be defined as a plane algebraic curve of degree 2, that is, as the set of points whose coordinates satisfy a quadratic equation in two variables.
+This special case is called a '''rectangular''' or '''equilateral''' hyperbola.
+Other sections in this case are called ''cylindric sections''.
+Conic sections are important in astronomy: the orbits of two massive objects that interact according to Newton's law of universal gravitation are conic sections if their common center of mass is considered to be at rest.
+A geometric property that has been used defines a non-circular conic to be the set of those points whose distances to some particular point, called a ''focus'', and some particular line, called a ''directrix'', are in a fixed ratio, called the ''eccentricity''.
+These parameters are related as shown in the following table, where the standard position is assumed.
+In a projective plane defined over an algebraically closed field any two conics meet in four points (counted with multiplicity) and so, determine the pencil of conics based on these four points.
+This may account for why Apollonius considered circles a fourth type of conic section, a distinction that is no longer made.
+To obtain the extended Euclidean plane, the absolute line is chosen to be the line at infinity of the Euclidean plane and the absolute points are two special points on that line called the circular points at infinity.
+For a circle,  so .
+The Euclidean plane may be embedded in the real projective plane and the conics may be considered as objects in this projective geometry.
+The type of the conic is determined by the type of cone, that is, by the angle formed at the vertex of the cone: If the angle is acute then the conic is an ellipse; if the angle is right then the conic is a parabola; and if the angle is obtuse then the conic is a hyperbola (but only one branch of the curve).
+Formally, given any five points in the plane in general linear position, meaning no three collinear, there is a unique conic passing through them, which will be non-degenerate; this is true in both the Euclidean plane and its extension, the real projective plane.
+More technically, the set of points that are zeros of a quadratic form (in any number of variables) is called a quadric, and the irreducible quadrics in a two dimensional projective space (that is, having three variables) are traditionally called conics.
+When viewed from the perspective of the complex projective plane, the degenerate cases of a real quadric (i.e., the quadratic equation has real coefficients) can all be considered as a pair of lines, possibly coinciding.
+It has been mentioned that circles in the Euclidean plane can not be defined by the focus-directrix property.
+As multiplying all six coefficients by the same non-zero scalar yields an equation with the same set of zeros, one can consider conics, represented by  as points in the five-dimensional projective space
+A pencil of conics can represented algebraically in the following way.
+The vertices would have coordinates  and foci coordinates .
+If there exists at least one intersection point with multiplicity > 1, then the two conic sections are said to be tangent.
+The points of intersection,  for  will be points of the ellipse between  and .
+Define  by the equations  for an ellipse and  for a hyperbola.
+Fix an arbitrary line in a projective plane that shall be referred to as the '''absolute line'''.
+A '''polarity''', , of a projective plane, , is an involutory (i.e., of order two) bijection between the points and the lines of  that preserves the incidence relation.
+Apollonius's study of the properties of these curves made it possible to show that any plane cutting a fixed double cone (two napped), regardless of its angle, will produce a conic according to the earlier definition, leading to the definition commonly used today.
+This work, which uses Fermat's methodology and Descartes' notation has been described as the first textbook on the subject.
+In the remaining case, the figure is a ''hyperbola''.
+Generalizing the focus properties of conics to the case where there are more than two foci produces sets called generalized conics.
+The non-degenerate cylindrical sections are ellipses (or circles).
+A von Staudt conic in the real projective plane is equivalent to a Steiner conic.
+The '''focal parameter''' () is  the distance from the focus (or one of the two foci) to the directrix.
+A point on just one tangent line is on the conic.
+One of them is based on the converse of Pascal's theorem, namely, ''if the points of intersection of opposite sides of a hexagon are collinear, then the six vertices lie on a conic.''
+Specifically, to construct the ellipse with equation , first construct the rectangle  with vertices  and  .
+The '''semi-major axis''' is the value .
+The '''latus rectum''' is the chord parallel to the directrix and passing through the focus (or one of the two foci).
+In the real projective plane, since parallel lines meet at a point on the line at infinity, the parallel line case of the Euclidean plane can be viewed as intersecting lines.
+Pappus of Alexandria (died c. 350 CE) is credited with expounding on the importance of the concept of a conic's focus, and detailing the related concept of a directrix, including the case of the parabola (which is lacking in Apollonius's known works).
+Indeed, by the uniformization theorem every surface can be taken to be globally (at every point) positively curved, flat, or negatively curved.
+If there is only one intersection point, which has multiplicity 4, the two conic sections are said to be osculating.
+The '''linear eccentricity''' () is the distance between the center and the focus (or one of the two foci).
+Thus there is a 2-way classification: ellipse/hyperbola and parabola.
+where again  This has precisely one positive solution—the eccentricity— in the case of a parabola or ellipse, while in the case of a hyperbola it has two positive solutions, one of which is the eccentricity.
+Furthermore, each straight line intersects each conic section twice.
+By means of a change of coordinates (a rotation of axes and a translation of axes) these equations can be put into ''standard forms''.
+By varying the line through , we can construct as many additional points on the conic as desired.
+The eccentricity of an ellipse can be seen as a measure of how far the ellipse deviates from being circular.
+Thinking of , say, as a ternary quadratic form, then  is the equation of the "conic ".
+However, if one were to consider the line at infinity as the directrix, then by taking the eccentricity to be  a circle will have the focus-directrix property, but it is still not defined by that property.
+where  if the determinant of the 3×3 matrix above is negative and  if that determinant is positive.
+In all cases,  and  are positive.
+In the case that the factors are the same, the corresponding lines coincide and we refer to the line as
+We shall assume that the cone is a right circular cone for the purpose of easy description, but this is not required; any double cone with some circular cross-section will suffice.
+It follows dually that a line conic has two of its lines through every point and any envelope of lines with this property is a line conic.
+In the case of an ellipse the squares of the two semi-axes are given by the denominators in the canonical form.
+This concept generalizes a pencil of circles.
+In this case, the standard form is obtained by taking the asymptotes as the coordinate axes and the line  as the principal axis.
+The circle and the ellipse arise when the intersection of the cone and plane is a closed curve.
+Three types of cones were determined by their vertex angles (measured by twice the angle formed by the hypotenuse and the leg being rotated about in the right triangle).
+The association of lines of the pencils can be extended to obtain other points on the ellipse.
+Otherwise, assuming the equation represents either a non-degenerate hyperbola or ellipse, the eccentricity is given by
+Its length is denoted by .
+linear eccentricity ()
+Geometrically, this corresponds to intersecting the line at infinity in either 2 distinct points (corresponding to two asymptotes) or in 1 double point (corresponding to the axis of a parabola), and thus the real hyperbola is a more suggestive image for the complex ellipse/hyperbola, as it also has 2 (real) intersections with the line at infinity.
+Furthermore, the four base points determine three line pairs (degenerate conics through the base points, each line of the pair containing exactly two base points) and so each pencil of conics will contain at most three degenerate conics.
+Since the setting uses homogeneous coordinates in a projective plane, two concrete representations (either equations or matrices) give the same conic if they differ by a non-zero multiplicative constant.
+Thus knowing the center is equivalent to knowing two points on the conic for the purpose of determining the curve.
+with all coefficients real numbers and  not all zero.
+These correspond respectively to the limiting forms of an ellipse, parabola, and a hyperbola.
+The four common points are called the ''base points'' of the pencil.
+There are some authors who define a conic as a two-dimensional nondegenerate quadric.
+There are many distinguishing properties that the conic sections of the Euclidean plane have and many of these can, and have been, used as the basis for a definition of the conic sections.
+If  the conic is a parabola and its eccentricity equals 1 (provided it is non-degenerate).
+This is elaborated at cumulants of some discrete probability distributions.
+Unless otherwise stated, we shall assume that "conic" refers to a non-degenerate conic.
+An '''absolute point''' ('''line''') of a polarity is one which is incident with its polar (pole).
+René Descartes and Pierre Fermat both applied their newly discovered analytic geometry to the study of conics.
+the eccentricity can be written as a function of the coefficients of the quadratic equation.
+The following relations hold:
+This form is a specialization of the homogeneous form used in the more general setting of projective geometry (see below).
+;Second order PDEs: Partial differential equations (PDEs) of second order are classified at each point as elliptic, parabolic, or hyperbolic, accordingly as their second order terms correspond to an elliptic, parabolic, or hyperbolic quadratic form.
+If a conic in the Euclidean plane is being defined by the zeros of a quadratic equation (that is, as a quadric), then the degenerate conics are: the empty set, a point, or a pair of lines which may be parallel, intersect at a point, or coincide.
+The conic sections have been studied for thousands of years and have provided a rich source of interesting and beautiful results in Euclidean geometry.
+semi-latus rectum ()
+A special case of the hyperbola occurs when its asymptotes are perpendicular to each other.
+If they are bound together, they will both trace out ellipses; if they are moving apart, they will both follow parabolas or hyperbolas.
+Because every straight line intersects a conic section twice, each conic section has two points at infinity (the intersection points with the line at infinity).
+;Curvature: The Gaussian curvature of a surface describes the infinitesimal geometry, and may at each point be either positive – elliptic geometry, zero – Euclidean geometry (flat, parabola), or negative – hyperbolic geometry; infinitesimally, to second order the surface looks like the graph of   (or 0), or .
+The discriminant  of the conic section's quadratic equation (or equivalently the determinant  of the 2×2 matrix) and the quantity  (the trace of the 2×2 matrix) are invariant under arbitrary rotations and translations of the coordinate axes, as is the determinant of the 3×3 matrix above.
+Let  and  be two distinct conics in a projective plane defined over an algebraically closed field .
+Apollonius used the names ''ellipse'', ''parabola'' and ''hyperbola'' for these curves, borrowing the terminology from earlier Pythagorean work on areas.
+By extending the geometry to a projective plane (adding a line at infinity) this appearance disappears and the commonality becomes apparent.
+The foci would have coordinates  and .
+For the parabola, the standard form has the focus on the -axis at the point  and the directrix the line with equation .
+Apollonius's work was translated into Arabic and much of his work only survives through the Arabic version.
+It is believed that the first definition of a conic section is due to Menaechmus (died 320 BCE) as part of his solution of the Delian problem (Duplicating the cube).
+The definition used at that time differs from the one commonly used today.
+At every point of a point conic there is a unique tangent line, and dually, on every line of a line conic there is a unique point called a ''point of contact''.
+An ellipse and a hyperbola each have two foci and distinct directrices for each of them.
+This is important for many applications, such as aerodynamics, where a smooth surface is required to ensure laminar flow and to prevent turbulence.
+Pascal's theorem concerns the collinearity of three points that are constructed from a set of six points on any non-degenerate conic.
+After introducing Cartesian coordinates the focus-directrix property can be used to produce equations that the coordinates of the points of the conic section must satisfy.
+Recall that the ''principal axis is'' the line joining the foci of an ellipse or hyperbola, and the ''center'' in these cases is the midpoint of the line segment joining the foci.
+What should be considered as a '''degenerate case''' of a conic depends on the definition being used and the geometric setting for the conic section.
+Since five points determine a conic, a circle (which may be degenerate) is determined by three points.
+A point on no tangent line is said to be an '''interior point''' (or '''inner point''') of the conic, while a point on two tangent lines is an '''exterior point''' (or '''outer point''').
+The 4.2 meter Herschel optical telescope on La Palma, in the Canary islands, uses a primary parabolic mirror to reflect light towards a secondary hyperbolic mirror, which reflects it again to a focus behind the first mirror.
+Another method, based on Steiner's construction and which is useful in engineering applications, is the '''parallelogram method''', where a conic is constructed point by point by means of connecting certain equally spaced points on a horizontal line and a vertical line.
+The Euclidean plane  is embedded in the real projective plane by adjoining a line at infinity (and its corresponding points at infinity) so that all the lines of a parallel class meet on this line.
+represents a conic in the pencil determined by  and .
+A proof that the conic sections given by the focus-directrix property are the same as those given by planes intersecting a cone is facilitated by the use of Dandelin spheres.
+The greatest progress in the study of conics by the ancient Greeks is due to Apollonius of Perga (died  c. 190 BCE), whose eight-volume ''Conic Sections'' or ''Conics'' summarized and greatly extended existing knowledge.
+Then  meets  at the required point .
+On the side  label the upper endpoints  to  starting at  and going towards .
+This symbolic representation can be made concrete with a slight abuse of notation (using the same notation to denote the object as well as the equation defining the object.)
+The rectangular hyperbola, however, is instead symmetric about the lines  and .
+The midpoint of this line segment is called the '''center''' of the conic.
+These standard forms can be written parametrically as,
+A '''conic''' is the curve obtained as the intersection of a plane, called the ''cutting plane'', with the surface of a double cone (a cone with two ''nappes'').
+Such an envelope is called a '''line conic''' (or '''dual conic''').
+The line segment joining the vertices of a conic is called the '''major axis''', also called '''transverse axis''' in the hyperbola.
+The circle is a special case of the ellipse, and is of sufficient interest in its own right that it was sometimes called a fourth type of conic section.
+The circle is obtained when the cutting plane is parallel to the plane of the generating circle of the cone – for a right cone, see diagram, this means that the cutting plane is perpendicular to the symmetry axis of the cone.
+In the real projective plane, a point conic has the property that every line meets it in two points (which may coincide, or may be complex) and any set of points with this property is a point conic.
+Furthermore, a conic is determined by any combination of ''k'' points in general position that it passes through and 5–''k'' lines that are tangent to it, for 0≤''k''≤5.
+A parabola does not have a center.
+The two lines case occurs when the quadratic expression factors into two linear factors, the zeros of each giving a line.
+If these points are real, the conic section must be a hyperbola, if they are imaginary conjugated, the conic section must be an ellipse, if the conic section has one double point at infinity it is a parabola.
+Archimedes (died  c. 212 BCE) is known to have studied conics, having determined the area bounded by a parabola and a chord in ''Quadrature of the Parabola''.
+If the cutting plane is parallel to exactly one generating line of the cone, then the conic is unbounded and is called a ''parabola''.
+Planes that pass through the vertex of the cone will intersect the cone in a point, a line or a pair of intersecting lines.
+In mathematics, a '''conic section''' (or simply '''conic''') is a curve obtained as the intersection of the surface of a cone with a plane.
+For instance, given a line containing the points  and , the '''midpoint''' of line segment  is defined as the point  which is the projective harmonic conjugate of the point of intersection of  and the absolute line, with respect to  and .
+Metrical concepts of Euclidean geometry (concepts concerned with measuring lengths and angles) can not be immediately extended to the real projective plane.
+However, it was John Wallis in his 1655 treatise ''Tractatus de sectionibus conicis'' who first defined the conic sections as instances of equations of second degree.
+Then the conic section is non-degenerate if and only if .
+A parabolic mirror is used as the reflector, with a bulb at the focus, in a searchlight.
+His main interest was in terms of measuring areas and volumes of figures related to the conics and  part of this work survives in his book on the solids of revolution of conics, ''On Conoids and Spheroids''.
+Cones were constructed by rotating a right triangle about one of its legs so the hypotenuse generates the surface of the cone (such a line is called a generatrix).
+By the Principle of Duality in a projective plane, the dual of each point is a line, and the dual of a locus of points (a set of points satisfying some condition) is called an ''envelope'' of lines.
+Let  meet  in ,  meet  in  and let  meet  at .
+It can be proven that in the complex projective plane '''CP2''' two conic sections have four points in common (if one accounts for multiplicity), so there are never more than 4 intersection points and there is always one ''intersection point'' (possibilities: four distinct intersection points, two singular intersection points and one double intersection points, two double intersection points, one singular intersection point and 1 with multiplicity 3, 1 intersection point with multiplicity 4).
+In the Euclidean plane, the conic sections appear to be quite different from one another yet they share many similar properties.
+The first four of these forms are symmetric about both the -axis and -axis (for the circle, ellipse and hyperbola), or about either but not both (for the parabola).
+The three types of conic section are the hyperbola, the parabola, and the ellipse.
+If another diameter (and its conjugate diameter) are used instead of the major and minor axes of the ellipse, a parallelogram that is not a rectangle is used in the construction, giving the name of the method.
+On the side  label the left-hand endpoints of the segments with  to  starting at  and going towards .
+Over the complex numbers ellipses and hyperbolas are not distinct, since −1 is a square; precisely, the ellipse  becomes a hyperbola under the substitution  geometrically a complex rotation, yielding  – a hyperbola is simply an ellipse with an imaginary axis length.
+*Rectangular hyperbola:
+The distance from the center to a directrix is  while the distance from the center to a focus is .
+This equation may be written in matrix form and some geometric properties can be studied as algebraic conditions.
+Written earlier, but published later, Jan de Witt's ''Elementa curvarum'' starts with Kepler's kinematic construction of the conics and then develops the algebraic equations.
+Non-degenerate conic sections are always "smooth".
+On the other hand, starting with the real projective plane, a Euclidean plane is obtained by distinguishing some line as the line at infinity and removing it and all its points.
+One must be careful in this situation to correctly use the definition of eccentricity as the ratio of the distance of a point on the circle to the focus (length of a radius) to the distance of that point to the directrix (this distance is infinite) which gives the limiting value of zero.
+— and  is the determinant of the 3×3 matrix above, and  is again the determinant of the 2×2 matrix.
+The conic section was then determined by intersecting one of these cones with a plane drawn perpendicular to a generatrix.
+With this terminology there are no degenerate conics (only degenerate quadrics), but we shall use the more traditional terminology and avoid that definition.
+300 BCE) is said to have written four books on conics but these were lost as well.
+;Variance-to-mean ratio: The variance-to-mean ratio classifies several important families of discrete probability distributions: the constant distribution as circular (eccentricity 0), binomial distributions as elliptical, Poisson distributions as parabolic, and negative binomial distributions as hyperbolic.
+The theorem also holds for degenerate conics consisting of two lines, but in that case it is known as Pappus's  theorem.
+Select two distinct points on the absolute line and refer to them as '''absolute points'''.
+Just as two (distinct) points determine a line, five points determine a conic.
+However, as the point of intersection is the apex of the cone, the cone itself degenerates to a cylinder, i.e.
+a ''double'' line (a line with multiplicity 2) and this is the previous case of a tangent cutting plane.
+The conic sections have some very similar properties in the Euclidean plane and the reasons for this become clearer when the conics are viewed from the perspective of a larger geometry.
+If  and  have such concrete realizations then every member of the above pencil will as well.
+Through any point other than a base point, there passes a single conic of the pencil.
+For every pair  of elements of , not both zero, the expression:
+The labeling associates the lines of the pencil through  with the lines of the pencil through  projectively but not perspectively.
+A conic in a projective plane that contains the two absolute points is called a '''circle'''.
+Lines containing two points with real coordinates do not pass through the circular points at infinity, so in the Euclidean plane a circle, under this definition, is determined by three points that are not collinear.
+It can also be shown that the eccentricity is a positive solution of the equation
+If the points at infinity are (1,i,0) and (1,-i,0), the conic section is a circle (see circular points at infinity).
+In standard form the parabola will always pass through the origin.
+An important theorem states that the tangent lines of a point conic form a line conic, and dually, the points of contact of a line conic form a point conic.
+See two-body problem.
+;Möbius transformations: Real Möbius transformations (elements of PSL2('''R''') or its 2-fold cover, SL2('''R''')) are classified as elliptic, parabolic, or hyperbolic accordingly as their half-trace is   or  mirroring the classification by eccentricity.
+Various parameters are associated with a conic section.
+Four points in the plane in general linear position determine a unique conic passing through the first three points and having the fourth point as its center.
+This had the effect of reducing the geometrical problems of conics to problems in algebra.
+Using Steiner's definition of a conic (this locus of points will now be referred to as a ''point conic'') as the meet of corresponding rays of two related pencils, it is easy to dualize and obtain the corresponding envelope consisting of the joins of corresponding points of two related ranges (points on a line) on different bases (the lines the points are on).
+Specifically, given five points,  and a line passing through , say , we can construct a point  that lies on this line and is on the conic determined by the five points.

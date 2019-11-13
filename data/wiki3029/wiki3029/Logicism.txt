@@ -1,0 +1,200 @@
+Formally, my premisses are simply assumed; but the fact that they allow mathematics to be true, which most current philosophies do not, is surely a powerful argument in their favour."
+This supposes that "at the bottom" every single solitary "term" can be listed (specified by a "predicative" predicate) for any class, for any class of classes, for class of classes of classes, etc, but it introduces a new problem—a hierarchy of "types" of classes.
+To discuss the names of the children in these households requires 12 propositions asserting " ''childname'' is the name of a child in family Fn" applied this collection of households on the particular street of families with names F1, F2, .
+The bundles (equivalence classes) are shown below.
+", call it "S", between the various "numerals", for example ■ S 0, ❥ S ■, and so forth.
+Russell's solution was to define the notion of a class to be only those elements that satisfy the proposition, his argument being that, indeed, the arguments ''x'' do not belong to the propositional function aka "class" created by the function.
+logically; the extensional definition appears to be equally applicable to infinite classes, but practically, if we were to attempt it, Death would cut short our laudable endeavour before it had attained its goal.
+A man, a moment, a number, a class, a relation, a chimaera, or anything else that can be mentioned, is sure to be a term; and to deny that such and such a thing is a term must always be false" (Russell 1903:43)
+'''Russell and the paradox''': In 1902 Russell discovered a "vicious circle" (the so-called Russell's paradox) in Frege's ''Begriffsschrift'' and he was determined not to repeat it in his 1903 ''Principles of Mathematics''.
+Thus to some extent Dedekind's project was proved viable, but in the process the theory of sets and mappings came to be regarded as transcending pure logic.
+(Preface to Russell 1903:vi)"
+The net result, though, was a collapse of his theory.
+'''Dedekind's "free formations of the human mind" rebels against the strictures of Kronecker''': Dedekind's argument begins with "1.
+no elements satisfy the predicates that created this particular class/collection.
+So, if philosophic problems appear in the logistic attempt to derive the natural numbers, these problems will be sufficient to stop the program until these are fixed (see Criticisms, below).
+Hilbert dismissed logicism as a "false path": "Some tried to define the  numbers purely logically; others simply took the usual number-theoretic modes of inference to be self-evident.
+The natural numbers derive from ''ALL'' propositions (i.e.
+'''Step 8: For every equivalence class, create its successor''': Note that the smiley-face symbol must be inserted into every collection/class in a particular equivalence-class bundle, then by the relation of similarity ≈ each newly generated class-of-classes must be put into the equivalence class that defines n+1:
+:Questions that pertain to the foundations of mathematics, although treated by many in recent times, still lack a satisfactory solution.
+And in a similar manner, by use of the abbreviations set up above, for each numeral its successor is created:
+Russell picked the empty or ''null'' class of classes to fill this role.
+Some have children, some do not.
+We may, if we choose, represent this by a single symbol: thus ''x'' ε ''u'' will mean " ''x'' is one of the ''u'' 's."
+Frege gave up on the project after Russell recognized and communicated his paradox exposing an inconsistency in naive set theory.
+It is the first clause that "makes impredicative definitions impossible and thereby destroys the derivation of mathematics from logic, effected by Dedekind and Frege, and a good deal of mathematics itself".
+by a "propositional function" such as "x is a u" or "x is v".
+Mancosu states that Brouwer concluded that: "the classical laws or principles of logic are part of the perceived regularity in the symbolic representation; they are derived from the post factum record of mathematical constructions .
+In a few years he would "dispense with physical or material objects as basic bits of the furniture of the world.
+"real numbers defined by reference to all real numbers"), he concludes that what he has offered is "a proof that the vicious circle principle is false rather than that classical mathematics is false" (all quotes Gödel 1944:127).
+Russell arrived at this disheartening conclusion: that "the theory of ordinals and cardinals survives .
+This started a period of expansion of logicism, with Dedekind and Frege as its main exponents, which however was brought to a deep crisis with the discovery of the classical paradoxes of set theory (Cantor 1896, Zermelo and Russell 1900–1901).
+: ♦ *&* ☺ =  etc, etc
+'''Terms''': For Russell, "terms" are either "things" or "concepts": "Whatever may be an object of thought, or may occur in any true or false proposition, or can be counted as one, I call a ''term''.
+This and related ideas convinced him that arithmetic, algebra and analysis were reducible to the natural numbers plus a "logic" of sets; furthermore by 1872 he had concluded that the naturals themselves were reducible to sets and mappings.
+Thus we have the following definition:
+and only through the purely logical process of building up the science of numbers .
+This kind of neo-logicism is often referred to as neo-Fregeanism.
+To begin, devise a finite example.
+Hilbert called Kronecker a "''dogmatist'', to the extent that he accepts the integer with its essential properties as a dogma and does not look back" and equated his extreme constructivist stance with that of Brouwer's intuitionism, accusing both of "subjectivism": "It is part of the task of science to liberate us from arbitrariness, sentiment and habit and to protect us from the subjectivism that already made itself felt in Kronecker's views and, it seems to me, finds its culmination in intuitionism".
+In either case, when input α = 0, output ω = 1; when input α = 1, output ω = 0.
+However, that conclusion fails to acknowledge any distinction between theorems of mathematical logic and theorems of higher-order logic.
+Hilbert 1931:266-7, like Bernays, detects "something extra-logical" in mathematics: "Besides experience and thought, there is yet a third source of knowledge.
+the classes and concepts introduced in this way do not have all the properties required from their use in mathematics.
+From two questions -- acceleration and absolute motion in a "relational theory of space" I was led to a re-examination of the principles of Geometry, thence to the philosophy of continuity and infinity, and then, with a view to discovering the meaning of the word ''any'', to Symbolic Logic" (Preface 1903:vi-vii).
+This is a proposition, an assertion of Russell's belief to be tested against the "facts" of the outer world: "Minds do not ''create'' truth or falsehood.
+'''History''': Gödel 1944 summarized the historical background from Leibniz's in ''Characteristica universalis'', through Frege and Peano to Russell: "Frege was chiefly interested in the analysis of thought and used his calculus in the first place for deriving arithmetic from pure logic", whereas Peano "was more interested in its applications within mathematics".
+On both paths they encountered obstacles that proved to be insuperable."
+He submits the "vicious circle principle" to reexamination, tearing it apart into three phrases "definable only in terms of", "involving" and "presupposing".
+Rationalism would contribute the notion of ''a priori'' knowledge, while empiricism would contribute the role of experiential knowledge (induction from experience).
+To keep things simple all 26 letters of the alphabet are used up in this example, each letter representing the name of a particular child (in real life there could be repeats).
+:"Joe DiMaggio and the Yankees won the 1947 World Series".
+This deficiency led me to the idea of the present ideography.
+About same time as Carnap (1929), but apparently independently, Fraenkel (1928) used the word: "Without comment he used the name 'logicism' to characterise the Whitehead/Russell position (in the title of the section on p. 244, explanation on p. 263)" (G-G 2002:269).
+If the "discrete time-instant" crutch (ii) is dropped, the function-box's output (and input) is both 1 and 0 ''simultaneously''.
+This sentence can be decomposed into two clauses: "''x'' won the 1947 World Series" + "''y'' won the 1947 World Series".
+Its first purpose, therefore, is to provide us with the most reliable test of the validity of a chain of inferences and to point out every presupposition that tries to sneak in unnoticed" (Frege 1879 in van Heijenoort 1967:5).
+"matrices") are to be classified by their "order", where functions of individuals are of order 1, functions of functions (classes of classes) are of order 2, and so forth.
+The result has been in this case essentially negative; i.e.
+'''Frege 1879''' describes his intent in the Preface to his 1879 ''Begriffsschrift'': He started with a consideration of arithmetic: did it derive from "logic" or from "facts of experience"?
+: "For all ''childnames'': "''childname'' is the name of a child in family Fα".
+'''The axiom of reducibility''': The ''axiom of reducibility'' is the hypothesis that ''any'' function of ''any'' order can be reduced to (or replaced by) an equivalent ''predicative'' function of the appropriate order.
+:❥ *&* ☺  ≡┊┊h,i┊, ┊j,k┊, ┊q,r┊, ┊t,u┊┊ *&* ☺  → ┊┊h, i, ☺┊, ┊j, k, ☺┊, ┊q, r, ☺┊, ┊t, u, ☺┊, ┊a, b, c┊, ┊e, f, g┊┊ ≡ ✖, i.e.
+Some believe that the basic spirit of logicism remains valid because that theorem is proved with logic just like other theorems.
+This must not be taken as a relation of two terms, ''x'' and ''u'', because ''u'' as the numerical conjunction is not a single term .
+If logical inference is to be certain, then these objects must be completely surveyable in all their parts, and their presentation, their differences, their succeeding one another or their being arrayed next to one another is immediately and intuitively given to us, along with the objects, as something that neither can be reduced to anything else, nor needs such a reduction."
+classes-of-classes?
+After he discovered the paradox in Frege's ''Begriffsschrift'' he added Appendix A to his 1903 where through the analysis of the nature of the null and unit classes, he discovered the need for a "doctrine of types"; see more about the unit class, the problem of impredicative definitions and Russell's "vicious circle principle" below.
+This is the algebraic-logic equivalent of the symbolic-logical ω = NOT-α for truth values 1 and 0 rather than "true" and "false".
+'''Step 2: Collect "similar" classes into bundles (equivalence classes)''': These above collections can be put into a "binary relation" (comparing for) similarity by "equinumerosity", symbolized here by '''≈''', i.e.
+These constructions in what Gödel 1944 would call "nominalistic constructivism .
+:"a definition is 'predicative' and logically admissible only if it ''excludes'' all objects that are dependent upon the notion defined, that is, that can in any way be determined by it".
+To guarantee that impredicative expressions such as ''x'' ε ''x'' can be treated in his logic, Russell proposed, as a kind of working hypothesis, that all such impredicative definitions have predicative definitions.
+identify (equate) the input with (to) the output (at either the output or input, it does not matter):
+:''the successor of the number of terms in the class α is the number of terms in the class consisting of α together with x where x is not any term belonging to the class''."
+'''The notion of a "variable" subject appearing in a proposition''': "I shall speak of the ''terms'' of a proposition as those terms, however numerous, which occur in a proposition and may be regarded as subjects about which the proposition is.
+: ┊ ┊h, i┊, ┊j, k┊, ┊q, r┊, ┊t, u┊ ┊
+A careful reading of the first edition indicates that an nth order predicative function need not be expressed "all the way down" as a huge "matrix" or aggregate of individual atomic propositions.
+what are those inputs ''α'' (individuals?
+See more in "Gödel's criticism and suggestions" below.
+It is likely that other logicists, most importantly Frege, were also guided by the new theories of the real numbers published in the year 1872.
+so that a separate object denoted by the symbol appears as a mere fiction" (p.&nbsp;128).
+Carnap used a slightly different word 'Logistik'; Behmann complained about its use in Carnap's manuscript so Carnap proposed the word 'Logizismus', but he finally stuck to his word-choice 'Logistik' (G-G 2002:501).
+: "It remains to define "successor".
+and consequently there is no reason to distinguish between functions and classes .
+My initial step was to attempt to reduce the concept of ordering in a sequence to that of ''logical'' consequence, so as to proceed from there to the concept of number.
+But "It was only Russell's ''Principia Mathematica'' that full use was made of the new method for actually deriving large parts of mathematics from a very few logical concepts and axioms.
+:α0 → F(x) → 1-α0  → F(x) → (1 -(1-αo)) → F(x) → (1-(1-(1-αo))) → F(x) → ''ad nauseam''
+Theoretical logic  .
+are the simple theory of types .
+the claim of the logicists that mathematics is purely logical knowledge turns out to be blurred and misleading upon closer observation of theoretical logic.
+The order lies, not in the ''class'' of terms, but in a relation among the members of the class, in respect of which some appear as earlier and some as later."
+(Preface 1903:viii)
+There are no terms (names) that satisfy these particular predicates.
+completely unrestricted) in this and all other possible worlds, that can be uttered about ''ANY'' collection of entities whatsoever.
+:"THE present work has two main objects.
+This problem bedeviled Russell throughout his writing of 1903.
+'''Step 4: Assign a "numeral" to each bundle''': For purposes of abbreviation and identification, to each bundle assign a unique symbol (aka a "numeral").
+Indeed, this "no class" theory of Russell, Gödel concludes:
+Given Russell's insistence that classes are not singular objects-in-themselves, but only collected aggregates, the only correct way to symbolize the above listing is to eliminate the brackets.
+In other words, a "term" can be  place-holder that indicates (denotes) one or more things that can be put into the placeholder.
+Russell would credit Kant with the idea of "a priori" knowledge, but he offers an objection to Kant he deems "fatal": "The facts of the world must always conform to logic and arithmetic.
+The first two emphasize the fact that every term is one, while the third is derived from the fact that every term has being, i.e.
+''In the second place, the collections having a given number of terms themselves presumably form an infinite collection: it is to be presumed, for example, that there are an infinite collection of trios in the world'', for if this were not the case the total number of things in the world would be finite, which, though possible, seems unlikely.
+:"When we have decided that classes cannot be things of the same sort as their members, that they cannot be just heaps or aggregates, and also that they cannot be identified with propositional functions, it becomes very difficult to see what they can be, if they are to be more than ''symbolic fictions''.
+Note that this means that a "type" can be of mixed order, as the following example shows:
+¶ That is why it is of the utmost importance to examine attentively the very words we use.
+Dedekind's path to logicism had a turning point when he was able to reduce the theory of real numbers to the rational number system by means of set theory.
+He begins with "terms" in sentences that he decomposes as follows:
+He would strongly, unambiguously express support for the Platonic "universals" (cf 1912:91-118) and he would conclude that truth and falsity are "out there"; minds create ''beliefs'' and what makes a belief true is a fact, "and this fact does not (except in exceptional cases) involve the mind of the person who has the belief" (1912:130).
+To form her index-book I, she goes out and buys a book of 200 blank pages and labels it "I".
+Thus we shall say that "Socrates is human" is a proposition having only one term; of the remaining component of the proposition, one is the verb, the other is a predicate.. .
+As noted below, some commentators insist that impredicativity in commonsense versions is harmless, but as the examples show below there are versions which are not harmless.
+To begin with, "Russell was a realist about two key issues: universals and material objects" (Russell 1912:xi).
+: ┊a, b, c┊,  ┊d┊, ┊┊, ┊e, f, g┊, ┊h, i┊,  ┊j, k┊, ┊l, m, n, o, p┊, ┊┊, ┊q, r┊, ┊s┊, ┊t, u┊, ┊v, w, x, y, z┊
+But this is visually confusing, especially with regards to the null class, so a dashed vertical line at each end of the collection will be used to symbolize the collection-as-aggregate:
+'''Step 9: Order the numbers''': The process of creating a successor requires the relation " .
+that, when plugged into f(x), yield a meaningful output ω.
+'''Step 3: Define the null-class''': Notice that the third class-of-classes, ┊ ┊┊, ┊┊ ┊ , is special because its classes contain no elements, i.e.
+The * indicates a footnote where he states that:
+:"The viewpoint here is very different from that of Kronecker's supposition that 'God made the integers' plus Peano's axioms of number and mathematical induction, where we presupposed an intuitive conception of the natural number sequence, and elicited from it the principle that, whenever a particular property ''P'' of natural numbers is given such that (1) and (2), then any given natural number must have the property ''P''."
+And in this Russell's epistemology seems different from that of Dedekind's belief that "numbers are free creations of the human mind" (Dedekind 1887:31)
+He asserts that "the natural numbers are the ''posterity'' -- the "children", the inheritors of the "successor"—of 0 with respect to the relation "the immediate predecessor of (which is the converse of "successor") (1919:23).
+:"On fundamental questions of philosophy, my position, in all its chief features, is derived from Mr G. E. Moore.
+This is the course which the actual development of mathematical logic has been taking and which Russell himself has been forced to enter upon in the more constructive parts of his work.
+Thus a class of classes will be many many's; its constituents will each be only many, and cannot therefore in any sense, one might suppose, be single constituents.etc" (1903:516).
+the classes and concepts introduced this way do not have all the properties required for the use of mathematics" (Gödel 1944:132).
+'''Things are indicated by proper names; concepts are indicated by adjectives or verbs''': "Among terms, it is possible to distinguish two kinds, which I shall call respectively ''things'' and ''concepts''; the former are the terms indicated by proper names, the latter those indicated by all other words .
+And if we can find any way of dealing with them as ''symbolic fictions'', we increase the logical security of our position, since we avoid the need of assuming that there are classes without being compelled to make the opposite assumption that there are no classes.
+In an observation pertinent to Russell's brand of logicism, Perry remarks that Russell went through three phases of realism -- extreme, moderate and constructive (Perry 1997:xxv).
+But the axiom of reducibility proposes that ''in theory'' a reduction "all the way down" is possible.
+Today, the bulk of modern mathematics is believed to be reducible to a logical foundation using the axioms of Zermelo-Fraenkel set theory (or one of its extensions, such as ZFC), which has no known inconsistencies (although it remains possible that inconsistencies in it may still be discovered).
+By the relation of similarity '''≈''', this new class can be put into the equivalence class (the unit class) defined by ■:
+'''Step 7: Construct the successor of the null class''': For example into the null class Λ stick the smiley face.
+By this he meant that the class would designate only the elements that satisfied the propositional function (e.g.
+As described above, Both Frege's and Russell's construction of natural numbers begins with the formation of equinumerous classes-of-classes (bundles), then with an assignment of a unique "numeral" to each bundle, and then placing the bundles into an order via a relation S that is asymmetric: ''x'' S ''y'' ≠ ''y'' S ''x''.
+:"Kronecker not long ago (''Crelle's Journal'', Vol.
+Set theory, meanwhile had moved on with its reduction of relation to the ordered pair of sets.
+This supposition requires the notions of function-"orders" and argument-"types".
+Kleene 1952 states it this way: "Leibniz (1666) first conceived of logic as a science containing the ideas and principles underlying all other sciences.
+Thes particular predicates cannot be satisfied because families Fρ and Fσ are childless.
+It is easy to see, and not difficult to prove, that the relation "less than", so defined, is asymmetrical, transitive, and connected, and has the natural numbers for its field i.e.
+With respect to the ''philosophy'' that formed these foundations, Gödel would home in on Russell's "no-class theory", or what Gödel would call his "nominalistic kind of constructivism, such as that embodied in Russell's "no class theory" .
+In the case of the family with no children, "Smiley" is the only "term" that satisfies the predicate.
+334-336) has endeavored to impose certain limitations upon the free formation of concepts in mathematics which I do not believe to be justified" (p. 45).
+But, since the class ■ or 1 is a single object (unit) in its own right, it too must be included in the class-of-unit-classes as an additional class ■.
+Thus the composite-sentence has a (mixed) type of 2, mixed as to order (1 and 2).
+In the teeth of these, Russell would enunciate a strict prohibition—his "vicious circle principle":
+Russell tore the general notion down in the following manner.
+To make the function "impredicative", wrap around output ω to input α, i.e.
+In ''PM'' Russell says that "A class is said to ''exist'' when it has at least one member .
+are we prepared accurately to investigate our notions of space and time by bringing them into relation with this number-domain created in our mind" (Dedekind 1887 Dover republication 1963 :31).
+"We can suppose all couples in one bundle, all trios in another, and  so on.
+The derivation of the ''real'' numbers (rationals, irrationals) derives from the theory of Dedekind cuts on the continuous "number line".
+Gödel asserts, however, that this procedure seems to presuppose arithmetic in some form or other (p.&nbsp;134).
+And this inclusion results in an "infinite regress" (as Godel called it) of increasing "type" and increasing content:
+'''Step 6: Define the notion of "successor"''': Russell defined a new characteristic "hereditary", a property of certain classes with the ability to "inherit" a characteristic from another class (or class-of-classes) i.e.
+one-one correspondence of the elements, and thereby create Russellian classes of classes or what Russell called "bundles".
+On the other hand, Russell wrote ''The Principles of Mathematics'' in 1903 using the paradox and developments of Giuseppe Peano's school of geometry.
+To found it I do not need God, as does Kronecker .
+all functions of functions are extensional, .
+is the successor of .
+(Kleene's assumptions (1) and (2) state that 0 has property ''P'' and ''n''+1 has property ''P'' whenever ''n'' has property ''P''.)
+Evidence of the assertion of logicism was collected by Russell and Whitehead in their ''Principia Mathematica''.
+Suppose there are 12 families on a street.
+The doctrines just mentioned are, in my opinion, quite indispensable to any even tolerably satisfactory philosophy of mathematics, as I hope the following pages will show.
+husbands versus wives in the relation of married the relation holds between the first and the second or between the second and the first (not excluding the possibility that both may happen, though both cannot happen if the relation is asymmetrical).
+But he observes that "when he started on a concrete problem, the objects to be analyzed (e.g.
+For Dedekind, Frege and Russell, collections (classes) are aggregates of "things" specified by proper names, that come about as the result of propositions (utterances about something that asserts a fact about that thing or things).
+(The "stroke" is Sheffer's inconvenient logical NAND that Russell adopted for the 2nd edition—a single logical function that replaces logical OR and logical NOT).
+This Dedekind-Frege construction could be symbolized by a bracketing process similar to, but to be distinguished from, the symbolism of contemporary set theory { a, b, c }, i.e.
+between two terms x, and y: x S y ≠ y S x.
+"Here instead we presuppose the totality of all properties of cardinal numbers, as existing in logic, prior to the definition of the natural number sequence" (Kleene 1952:44).
+:"The class as many .
+'''Grattan-Guinness''': A complicated theory of relations continued to strangle Russell's explanatory 1919 ''Introduction to Mathematical Philosophy'' and his 1927 second edition of ''Principia''.
+All this is only a verification of the view defended above that logic and mathematics (just as physics) are built up on axioms with a real content which cannot be explained away" (p. 132)
+To prevent anything intuitive from penetrating here unnoticed I had to bend every effort to keep the chain of inferences free of gaps .
+:"is of great interest as one of the few examples, carried out in detail, of the tendency to eliminate assumptions about the existence of objects outside the "data" and to replace them by constructions on the basis of these data33.
+In the third place, we wish to define "number" in such a way that infinite numbers may be possible; thus we must be able to speak of the number of terms in an infinite collection, and such a collection must be defined by intension, i.e.
+Her task is not difficult.
+To keep the example abstract this will be abbreviated by the name "Smiley" ≡ ☺ (on the assumption that no one has ever actually named their child "Smiley").
+Next, he defines the "type" of a function's arguments (the function's "inputs") to be their "range of significance", i.e.
+the classes or propositions) soon for the most part turned into "logical fictions" .
+First, functions (and their classes-as-extensions, i.e.
+:α0 = '''0''' → F(x) → '''1''' → F(x) → '''0''' → F(x) → '''1''' → F(x) → ''ad nauseam''
+¶ It seems reasonable to suspect that it is this incomplete understanding of the foundations which is responsible for the fact that mathematical logic has up to now remained so far behind the high expectations of Peano and others .
+as the objects denoted by such and such concepts.
+:┊ ┊┊ ┊ *&* ☺ → ┊┊☺┊┊
+By Poincaré's definition, the librarian's index book is "impredicative" because the definition of I is dependent upon the definition of the totality I, Ά, β, and Γ.
+the class which has no members is called the "null class"  .
+This is Russell's "doctrine of types".
+Dedekind (1888) and Frege (1884, 1893, 1903) were engaged in defining mathematical notions in terms of logical ones, and Peano (1889, 1894–1908) in expressing mathematical theorems in a logical symbolism" (p.&nbsp;43); in the previous paragraph he includes Russell and Whitehead as exemplars of the "logicistic school", the other two "foundational" schools being the intuitionistic and the "formalistic or axiomatic school" (p.&nbsp;43).
+Gödel concluded that it wouldn't matter anyway because propositional functions of order ''n'' (any ''n'') must be described by finite combinations of symbols (cf all quotes and content derived from page 135).
+In ''general'' the logicism of Dedekind-Frege is similar to that of Russell, but with significant (and critical) differences in the particulars (see Criticisms, below).
+As a "fiction" a class cannot be considered to be a thing: an entity, a "term", a singularity, a "unit".
+More narrowly, it is defined as attempts to resurrect Frege's programme through the use of second order logic as applied to Hume's Principle.
+The children's names (''childname'') can be thought of as the x in a propositional function f(x), where the function is "name of a child in the family with name Fn".
+by a property common to all its members and peculiar to them."
+How did Russell arrive in this situation?
+While an example of how this is done is useful, it relies first on the derivation of the natural numbers.
+'''Step 5: Define "0"''': In order to "order" the bundles into the familiar number-line a starting point traditionally called "zero", is required.

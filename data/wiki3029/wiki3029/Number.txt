@@ -1,0 +1,200 @@
+It was soon realized that these formulas, even if one was only interested in real solutions, sometimes required the manipulation of square roots of negative numbers.
+Negative real numbers are written with a preceding minus sign: -123.456.
+The limit of a convergent sequence of rational numbers
+In common usage, ''number'' may refer to a symbol, a word, or a mathematical abstraction.
+Since the decimal neither ends nor eventually repeats forever (see: proof that pi is irrational) it cannot be written as a fraction, and is an example of an irrational number.
+The number system that results depends on what base is used for the digits: any base is possible, but a prime number base provides the best mathematical properties.
+An '''even number''' is an integer that is "evenly divisible" by two, that is divisible by two without remainder; an '''odd number''' is an integer that is not even.
+In abstract algebra, the complex numbers are an example of an algebraically closed field, meaning that every polynomial with complex coefficients can be factored into linear factors.
+Superreal and surreal numbers extend the real numbers by adding infinitesimally small numbers and infinitely large numbers, but still form fields.
+Other results concerning the distribution of the primes include Euler's proof that the sum of the reciprocals of the primes diverges, and the Goldbach conjecture, which claims that any sufficiently large even number is the sum of two primes.
+Complex numbers which are not algebraic are called transcendental numbers.
+Galois (1832) linked polynomial equations to group theory giving rise to the field of Galois theory.
+A modern geometrical version of infinity is given by projective geometry, which introduces "ideal points at infinity", one for each spatial direction.
+Equivalently, another way of defining an odd number is that it is an integer of the form  where ''k'' is an integer, and an even number has the form  where ''k'' is an integer.
+or  are sometimes used.
+In technical terms, the complex numbers lack the trichotomy property.
+The number five can be represented by digit "5" or by the Roman numeral "Ⅴ".
+Thus 123.456 is an approximation of any real number between  and  (rounding) or any real number between  and  (truncation).
+In set theory, which is capable of acting as an axiomatic foundation for modern mathematics, natural numbers can be represented by classes of equivalent sets.
+The computable numbers may be viewed as the real numbers that may be exactly represented in a computer: a computable number is exactly represented by its first digits and a program for computing further digits.
+In 1850 Victor Alexandre Puiseux took the key step of distinguishing between poles and branch points, and introduced the concept of essential singular points.
+Negative denominators are allowed, but are commonly avoided, as every rational number is equal to a fraction with positive denominator.
+and to Euler (1748) Euler's formula of complex analysis:
+One reason is that there is no algorithm for testing the equality of two computable numbers.
+Some number systems that are not included in the complex numbers may be constructed from the real numbers in a way that generalize the construction of the complex numbers.
+The concept of decimal fractions is closely linked with decimal place-value notation; the two seem to have developed in tandem.
+More precisely, there cannot exist any algorithm which takes any computable number as an input, and decides in every case if this number is equal to zero or not.
+Aristotle defined the traditional Western notion of mathematical infinity.
+But the next major advance in the theory was made by Georg Cantor; in 1895 he published a book about his new set theory, introducing, among other things, transfinite numbers and formulating the continuum hypothesis.
+Equivalent definitions can be given using μ-recursive functions, Turing machines or λ-calculus.
+The negative of a positive integer is defined as a number that produces&nbsp;0 when it is added to the corresponding positive integer.
+(the square root of 2, that is, the positive number whose square is 2).
+In mathematics, the notion of number has been extended over the centuries to include , negative numbers, rational numbers such as  and , real numbers such as  and , complex numbers, which extend the real numbers by including , and sometimes additional objects.
+The same term may also refer to number theory, the study of the properties of the natural numbers.
+Similarly, Babylonian math texts had always used sexagesimal (base&nbsp;60) fractions with great frequency.
+A rational number is a number that can be expressed as a fraction with an integer numerator and a positive integer denominator.
+The real numbers also have an important but highly technical property called the least upper bound property.
+European mathematicians, for the most part, resisted the concept of negative numbers until the 17th&nbsp;century, although Fibonacci allowed negative solutions in financial problems where they could be interpreted as debts (chapter&nbsp;13 of ''Liber Abaci'', 1202) and later as losses (in ).
+They are sometimes called hypercomplex numbers.
+The remaining digits are called significant digits.
+Numbers should be distinguished from '''numerals''', the symbols used to represent numbers.
+Goldbach and Riemann's conjectures remain unproven and unrefuted.
+By this time (the 7th&nbsp;century) the concept had clearly reached Cambodia as Khmer numerals, and documentation shows the idea later spreading to China and the Islamic world.
+The study of these questions is called number theory.
+3400&nbsp;BC) and the earliest known base&nbsp;10 system dates to 3100&nbsp;BC in Egypt.
+The computable numbers are stable for all usual arithmetic operations, including the computation of the roots of a polynomial, and thus form a real closed field that contains the real algebraic numbers.
+where ''a'' and ''b'' are integers and ''b'' is not 0
+On the other hand, the real number , the ratio of the circumference of any circle to its diameter, is
+Thus the real numbers are a subset of the complex numbers.
+The set of integers forms a ring with the operations addition and multiplication.
+The real numbers include all the measuring numbers.
+Today, different mathematicians use the term to describe both sets, including&nbsp;0 or not.
+As recently as the 18th century, it was common practice to ignore any negative results returned by equations on the assumption that they were meaningless, just as René Descartes did with negative solutions in a Cartesian coordinate system.
+For example,  and    (forever repeating 3s, otherwise written 0.).
+A finite decimal representation allows us to represent exactly only the integers and those rational numbers whose denominators have only prime factors which are factors of ten.
+Because it was used alone, not as just a placeholder, this Hellenistic zero was the first ''documented'' use of a true zero in the Old World.
+The original examples are the natural numbers , , , and so forth.
+The general acceptance of the theory of complex numbers is due to the labors of Augustin Louis Cauchy and Niels Henrik Abel, and especially the latter, who was the first to boldly use complex numbers with a success that is well known.
+In 1796, Adrien-Marie Legendre conjectured the prime number theorem, describing the asymptotic distribution of primes.
+The set of the ''p''-adic numbers contains the rational numbers, but is not contained in the complex numbers.
+The hyperreals, or nonstandard reals (usually denoted as *'''R'''), denote an ordered field that is a proper extension of the ordered field of real numbers '''R''' and satisfies the transfer principle.
+These medieval zeros were used by all future medieval computists (calculators of Easter).
+0&nbsp;elements, where&nbsp;0 is thus the smallest cardinal number) in the set of natural numbers.
+An example of a question that is still unanswered is whether every even number is the sum of two primes.
+Weierstrass, Cantor, and Heine base their theories on infinite series, while Dedekind founds his on the idea of a cut (Schnitt) in the system of real numbers, separating all rational numbers into two groups having certain characteristic properties.
+Hermite proved in 1873 that ''e'' is transcendental and Lindemann proved in 1882 that π is transcendental.
+For finite sets, both ordinal and cardinal numbers are identified with the natural numbers.
+Therefore, they are often regarded as numbers by number theorists.
+Two different fractions may correspond to the same rational number; for example  and  are equal, that is:
+The algebraic numbers that are solutions of a monic polynomial equation with integer coefficients are called algebraic integers.
+Today, number systems are considered important special examples of much more general categories such as rings and fields, and the application of the term "number" is a matter of convention, without fundamental significance.
+A relation number is defined as the class of relations consisting of all those relations that are similar to one member of the class.
+However Pythagoras believed in the absoluteness of numbers, and could not accept the existence of irrational numbers.
+Finally, Cantor showed that the set of all real numbers is uncountably infinite but the set of all algebraic numbers is countably infinite, so there is an uncountably infinite number of transcendental numbers.
+Gauss studied complex numbers of the form , where ''a'' and ''b'' are integral, or rational (and ''i'' is one of the two roots of ).
+This is often indicated by rounding or truncating a decimal, so that digits that suggest a greater accuracy than the measurement itself are removed.
+At the same time, the Chinese were indicating negative numbers by drawing a diagonal stroke through the right-most non-zero digit of the corresponding positive number's numeral.
+This led to expressions involving the square roots of negative numbers, and eventually to the definition of a new number: a square root of&nbsp;−1, denoted by ''i'', a symbol assigned by Leonhard Euler, and called the imaginary unit.
+Infinity was a popular topic of philosophical study among the Jain mathematicians c. 400&nbsp;BC.
+They include the quaternions '''H''', introduced by Sir William Rowan Hamilton, in which multiplication is not commutative, and the octonions, in which multiplication is not associative.
+Real numbers that are not rational numbers are called irrational numbers.
+The prime numbers have been widely studied for more than 2000 years and have led to many questions, only some of which have been answered.
+The use of 0 as a number should be distinguished from its use as a placeholder numeral in place-value systems.
+in the case when both ''a'' and ''b'' are negative even bedeviled Euler.
+For different methods of expressing numbers with symbols, such as the Roman numerals, see numeral systems.
+Other noteworthy contributions have been made by Druckenmüller (1837), Kunze (1857), Lemke (1870), and Günther (1872).
+The same number can be written in many different ways.
+In this base&nbsp;10 system, the rightmost digit of a natural number has a place value of&nbsp;1, and every other digit has a place value ten times that of the place value of the digit to its right.
+Numerology heavily influenced the development of Greek mathematics, stimulating the investigation of many problems in number theory which are still of interest today.
+(See imaginary number for a discussion of the "reality" of complex numbers.)
+Galileo Galilei's ''Two New Sciences'' discussed the idea of one-to-one correspondences between infinite sets.
+The Ancient Egyptians used their Egyptian fraction notation for rational numbers in mathematical texts such as the Rhind Mathematical Papyrus and the Kahun Papyrus.
+Numbers can be classified into sets, called '''number systems''', such as the natural numbers and the real numbers.
+For more examples, see Integer sequence.
+The incorrect use of this identity, and the related identity
+The symbol for the complex numbers is '''C''' or .
+He treated&nbsp;0 as a number and discussed operations involving it, including division.
+Therefore, almost all real numbers are non-computable.
+(The ancient Greeks even questioned whether&nbsp; was a number.)
+The first existence proofs of irrational numbers is usually attributed to Pythagoras, more specifically to the Pythagorean Hippasus of Metapontum, who produced a (most likely geometrical) proof of the irrationality of the square root of 2.
+Also in 1799, Gauss provided the first generally accepted proof of the fundamental theorem of algebra, showing that every polynomial over the complex numbers has a full set of solutions in that realm.
+During the 600s, negative numbers were in use in India to represent debts.
++ Main number systems
+A question that has been answered is whether every integer greater than one is a product of primes in only one way, except for a rearrangement of the primes.
+The abstract concept of negative numbers was recognized as early as 100 BC – 50 BC in China.
+Thus one half is 0.5, one fifth is 0.2, one tenth is 0.1, and one fiftieth is 0.02.
+During the 19th century, mathematicians began to develop many different abstractions which share certain properties of numbers and may be seen as extending the concept.
+When a real number represents a measurement, there is always a margin of error.
+The 16th century brought final European acceptance of negative integral and fractional numbers.
+For example, 123.456 represents , or, in words, one hundred, two tens, three ones, four tenths, five hundredths, and six thousandths.
+Each digit to the right of the decimal point has a place value one-tenth of the place value of the digit to its left.
+A '''prime number''' is an integer greater than 1 that is not the product of two smaller positive integers.
+The ''p''-adic numbers play an important role in this analogy.
+If the real and imaginary parts of a complex number are both integers, then the number is called a Gaussian integer.
+A '''computable number''', also known as ''recursive number'', is a real number such that there exists an algorithm which, given a positive number ''n'' as input, produces the first ''n'' digits of the computable number's decimal representation.
+A '''number''' is a mathematical object used to count, measure, and label.
+The set of all rational numbers includes the integers, since every integer can be written as a fraction with denominator&nbsp;1.
+It is likely that the concept of fractional numbers dates to prehistoric times.
+In 1872, the publication of the theories of Karl Weierstrass (by his pupil Kossak), Heine (''Crelle'', 74), Georg Cantor (Annalen, 5), and Richard Dedekind was brought about.
+The ''p''-adic numbers may have infinitely long expansions to the left of the decimal point, in the same way that real numbers may have infinitely long expansions to the right.
+Another true zero was used in tables alongside Roman numerals by 525 (first known use by Dionysius Exiguus), but as a word,  meaning ''nothing'', not as a symbol.
+Algebraic numbers are those that are a solution to a polynomial equation with integer coefficients.
+The mathematical symbol for the set of all natural numbers is '''N''', also written , and sometimes  or  when it is necessary to indicate whether the set should start with 0 or 1, respectively.
+When René Descartes coined the term "imaginary" for these quantities in 1637, he intended it as derogatory.
+Every real number corresponds to a point on the number line.
+A further source of confusion was that the equation
+When the set of negative numbers is combined with the set of natural numbers (including&nbsp;0), the result is defined as the set of integers, '''Z''' also written .
+In the 1960s, Abraham Robinson showed how infinitely large and infinitesimal numbers can be rigorously defined and used to develop the field of nonstandard analysis.
+Just as the same fraction can be written in more than one way, the same decimal may have more than one representation.
+In later Byzantine manuscripts of his ''Syntaxis Mathematica'' (''Almagest''), the Hellenistic zero had morphed into the Greek letter omicron (otherwise meaning&nbsp;70).
+The late Olmec people of south-central Mexico began to use a true zero (a shell glyph) in the New World possibly by the  but certainly by 40&nbsp;BC, which became an integral part of Maya numerals and the Maya calendar.
+Since it is impossible to write infinitely many digits, real numbers are commonly represented by rounding or truncating this sequence, or by establishing a pattern, such as 0.333..., with an ellipsis to indicate that the pattern continues.
+If the sides of a rectangle are measured as 1.23&nbsp;meters and 4.56&nbsp;meters, then multiplication gives an area for the rectangle of .
+where ''a'' and ''b'' are real numbers.
+The radix or base is the number of unique numerical digits, including zero, that a numeral system uses to represent numbers (for the decimal system, the radix is 10).
+Egyptians used the word ''nfr'' to denote zero&nbsp;balance in double entry accounting entries.
+Hyperreal numbers are used in non-standard analysis.
+The paradoxes of Zeno of Elea depend in large part on the uncertain interpretation of&nbsp;0.
+The first known system with place value was the Mesopotamian base&nbsp;60 system (ca.
+His student, Gotthold Eisenstein, studied the type , where ''ω'' is a complex root of  Other such classes (called cyclotomic fields) of complex numbers derive from the roots of unity  for higher values of ''k''.
+Like the real number system, the complex number system is a field and is complete, but unlike the real numbers, it is not ordered.
+Indian texts used a Sanskrit word  or  to refer to the concept of ''void''.
+The earliest known conception of mathematical infinity appears in the Yajur Veda, an ancient Indian script, which at one point states, "If you remove a part from infinity or add a part to infinity, still what remains is infinity."
+Every real number is either rational or irrational.
+In 1869, Méray had taken the same point of departure as Heine, but the theory is generally referred to the year 1872.
+When division produced&nbsp;0 as a remainder, , also meaning ''nothing'', was used.
+A real number, which is not rational, is called irrational.
+He distinguished between actual infinity and potential infinity—the general consensus being that only the latter had true value.
+For example, measurements with a ruler can seldom be made without a margin of error of at least 0.001&nbsp;meters.
+The real numbers are not, however, an algebraically closed field, because they do not include the square root of minus one.
+Though it is now regarded as pseudoscience, numerology, the belief in a mystical significance of numbers permeated ancient and medieval thought.
+This was doubly unsettling since they did not even consider negative numbers to be on firm ground at the time.
+Moving to a greater level of abstraction, the real numbers can be extended to the complex numbers.
+This is called fundamental theorem of arithmetic.
+They became more prominent when in the 16th&nbsp;century closed formulas for the roots of third and fourth degree polynomials were discovered by Italian mathematicians such as Niccolò Fontana Tartaglia and Gerolamo Cardano.
+This generalization is largely due to Ernst Kummer, who also invented ideal numbers, which were expressed as geometrical entities by Felix Klein in 1893.
+The fraction  represents ''m'' parts of a whole divided into ''n'' equal parts.
+Real numbers are usually represented by using decimal numerals, in which a decimal point is placed to the right of the digit with place value&nbsp;1.
+Sanchez in 1961 reported a base&nbsp;4, base&nbsp;5 "finger" abacus.
+An isolated use of their initial, N, was used in a table of Roman numerals by Bede or a colleague about 725, a true zero symbol.
+Notations used to represent numbers are discussed in the article numeral systems.
+Hence it was necessary to consider the wider set of algebraic numbers (all solutions to polynomial equations).
+That is, there is no meaning in saying that ''i'' is greater than&nbsp;1, nor is there any meaning in saying that ''i'' is less than&nbsp;1.
+However, in the 19th&nbsp;century, set theorists and other mathematicians started including&nbsp;0 (cardinality of the empty set, i.e.
+Greeks followed by mapping their counting numbers onto Ionian and Doric alphabets.
+''a'' + ''bi'' where ''a'' and ''b'' are real numbers and ''i'' is the square root of&nbsp;−1
+The natural numbers form a subset of the integers.
+Many subsets of the natural numbers have been the subject of specific studies and have been named, often after the first mathematician that has studied them.
+The first reference in a Western work was in the 3rd&nbsp;century AD in Greece.
+To represent the rest of the real numbers requires an infinite sequence of digits after the decimal point.
+Diophantus referred to the equation equivalent to  (the solution is negative) in ''Arithmetica'', saying that the equation gave an absurd result.
+The earliest known use of irrational numbers was in the Indian Sulba Sutras composed between 800 and 500&nbsp;BC.
+1.0 and 0.999... are two different decimal numerals representing the natural number&nbsp;1.
+Many ancient texts used&nbsp;0.
+which is valid for positive real numbers ''a'' and ''b'', and was also used in complex number calculations with one of ''a'', ''b'' positive and the other negative.
+leading to interesting philosophical and, by the Medieval period, religious arguments about the nature and existence of&nbsp;0 and the vacuum.
+Records show that the Ancient Greeks seemed unsure about the status of&nbsp;0 as a number: they asked themselves "how can 'nothing' be something?"
+Other irrational numbers include
+For instance, the number&nbsp;3 can be represented as the class of all sets that have exactly three elements.
+The set of computable numbers has the same cardinality as the natural numbers.
+The complex numbers consist of all numbers of the form
+Their study or usage is called arithmetic.
+He could not disprove their existence through logic, but he could not accept irrational numbers, so he sentenced Hippasus to death by drowning.
+This is called Goldbach's conjecture.
+By 130 AD, Ptolemy, influenced by Hipparchus and the Babylonians, was using a symbol for&nbsp;0 (a small circle with a long overbar) within a sexagesimal numeral system otherwise using alphabetic Greek numerals.
+If the real part of a complex number is&nbsp;0, then the number is called an imaginary number or is referred to as ''purely imaginary''; if the imaginary part is&nbsp;0, then the number is a real number.
+A notational symbol that represents a number is called a numeral.
+This eventually led to the concept of the extended complex plane.
+The symbol for the real numbers is '''R''', also written as .
+Classical Greek and Indian mathematicians made studies of the theory of rational numbers, as part of the general study of number theory.
+Here the letter Z comes .
+In the infinite case, many ordinal numbers correspond to the same cardinal number.
+By the 17th&nbsp;century, mathematicians generally used decimal fractions with modern notation.
+The 18th century saw the work of Abraham de Moivre and Leonhard Euler.
+It is not the case, however, that every real number is rational.
+The earliest fleeting reference to square roots of negative numbers occurred in the work of the mathematician and inventor Heron of Alexandria in the , when he considered the volume of an impossible frustum of a pyramid.
+This set of numbers arose historically from trying to find closed formulas for the roots of cubic and quartic polynomials.
+Because of this, complex numbers correspond to points on the complex plane, a vector space of two real dimensions.
+This principle allows true first-order statements about '''R''' to be reinterpreted as true first-order statements about *'''R'''.
+Among the first were the hypercomplex numbers, which consist of various extensions or modifications of the complex number system.

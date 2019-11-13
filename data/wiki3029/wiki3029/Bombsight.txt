@@ -1,0 +1,200 @@
+All of the calculations needed to predict the path of a bomb can be carried out by hand, with the aid of calculated tables of the bomb ballistics.
+Vector bombsights were useful for altitudes up to about 3,000&nbsp;m and speeds up to about 300&nbsp;km/h.
+The introduction of the British H2S radar further improved the bomber's abilities, allowing direct attack of targets without the need of remote radio transmitters, which had range limited to the line-of-sight.
+However, the ABS did not include stabilization of the sighting system, nor the Norden's autopilot system.
+This generated demand for a new generation of greatly improved bombsights that could be used by a single-crew aircraft and employed in fighter-like tactics, whether high-level, low-level, in a dive towards the target, or during hard maneuvering.
+Using simple trigonometry, 5&nbsp;degrees at 20,000&nbsp;feet is approximately 1,750&nbsp;feet, an error that would place the bombs far outside their lethal radius.
+This makes them useful both for level bombing, as in earlier generations, and tactical missions formerly bombed by eye.
+This was the case for the 1,500&nbsp;foot accuracy demanded of the B-70 Valkyrie, which lacked any sort of conventional bombsight.
+A specialist capability for toss bombing also developed in order to allow aircraft to escape the blast radius of their own nuclear weapons, something that required only middling accuracy but a very different trajectory that initially required a dedicated bombsight.
+During the same period, a separate line of development was leading to the first reliable mechanical computers.
+They suffered from an effect known as "Dutch roll" that made them more difficult to turn and tended to oscillate after levelling.
+That made them effectively useless against moving targets, like submarines and ships.
+This is normally accomplished using a common flying techniques known as crabbing or sideslip.
+The aim point was fed back to the sight, which automatically rotated the telescope to the correct angle to account for drift and aircraft movement, keeping the target still in the view.
+In the case of the Canberra, the optical system only existed due to delays in the radar system becoming available.
+The bomb aimer then watched the target in the sight until it crossed the pointer, and dropped the bombs.
+Thus when the US entered the Vietnam War, their weapon of choice was the Douglas A-26 Invader equipped with the Norden.
+Reaching terminal velocity tends to flatten the trajectory, keeping the bomb in the air longer, and thereby allowing the horizontal speed to act over a longer time, extending the range.
+In the case of Oboe, these calculations were carried out before the mission at the ground bases.
+A solution for attacking cross-wind was sorely needed.
+Gravity will accelerate the bomb downwards, and as its velocity increases, so too does the drag force.
+A 5% error in altitude at 20,000&nbsp;feet would be 1,000&nbsp;feet, so the aircraft might be anywhere from 19 to 21,000&nbsp;feet.
+Designs of the late-war era, like the Boeing B-47 Stratojet and English Electric Canberra retained their optical systems, but these were often considered secondary to the radar and radio systems.
+These systems quickly improved in accuracy, and eventually became accurate enough to handle the bomb dropping without the need for a separate bombsight.
+At the same time, the ever-increasing power levels of new jet engines led to fighter aircraft with bomb loads similar to heavy bombers of a generation earlier.
+As the use and roles for aircraft increased during the war, the need for better accuracy became pressing.
+A great upgrade to the basic concept was introduced by Harry Wimperis, better known for his later role in the development of radar in England.
+For instance, when dropped from very low altitudes, the effects of drag and wind during the fall will be so small that they can be ignored.
+In tests, accuracies of 3 to 4&nbsp;degrees were considered standard, and angles as high as 15&nbsp;degrees were not uncommon.
+There are additional factors such as changes in air density and wind that may be considered, but these are only a concern for bombs that spend a significant portion of a minute falling through the air.
+Additionally, as anti-aircraft artillery grew more effective, they would often pre-sight their guns along the wind line of the targets they were protecting, knowing that attacks would come from those directions.
+Early navigation systems generally measured it using a dead reckoning procedure that compares measured movement over the ground with the calculated movement using the aircraft instruments.
+If there was any sideways motion, the pilot could slip-turn to a new heading in an effort to cancel out the drift.
+All of these designs collectively became known as ''tachometric sights'', "tachometric" referring to the timing mechanisms which counted the rotations of a screw or gear that ran at a specified speed.
+The trail and range differ for different bombs due to their individual aerodynamics, and typically have to be measured on a bombing range.
+When post-war studies demonstrated that bomb accuracy was roughly equal when optically or radar guided, optical bombsights were generally removed and the role passed to dedicated '''radar bombsights'''.
+In 1916 he introduced the Drift Sight, which added a simple system for directly measuring the wind speed.
+After considerable testing, he was able to build a table of settings to use with these inputs.
+However, the bomber itself is also effected by the wind; the bomb will leave the aircraft with both the forward airspeed of the bomber, as well as any additional motion due to the wind.
+Although these developments were well known within the industry, only the US Army Air Corps and US Navy put any concerted effort into development.
+The CSBS was introduced into service in 1917 and quickly replaced earlier sights on aircraft that had enough room - the CSBS was fairly large.
+Analysis of the results of bombing attacks carried out using radio navigation or radar techniques demonstrated accuracy was essentially equal for the two systems - night time attacks with Oboe were able to hit targets that the Norden could not during the day.
+1A, introduced on the Handley Page O/400 heavy bomber.
+However, that 1.25&nbsp;mph error, or 1.8&nbsp;fps, would also be added to the aircraft's velocity.
+These effects can be minimized by reducing the fall time through low-level bombing or by increasing the speed of the bombs.
+In tests, these bombsights were able to generate fantastic accuracy.
+It was produced in such limited numbers that it was at first used only by the famed No.
+A 5% error in airspeed, 10&nbsp;mph, would cause an error of about 15 to 20&nbsp;feet.
+Although the US put the most effort into development of the tachometric concept, they were also being studied elsewhere.
+For a variety of reasons, the Army dropped their interest in the Sperry, and features from the Sperry and Norden bombsights were folded into new models of the Norden.
+In the pre-World War II era there had been a long debate about the relative merits of daylight versus night-time bombing.
+If anything changed during the bomb run, especially if the aircraft had to maneuver in order to avoid defences, everything had to be set up again.
+A 42&nbsp;km/h (25&nbsp;mph) wind would be expected to move the bomb about 91 m (300&nbsp;feet) during that time.
+With the exception of operational considerations - limited resolution of the radar and limited range of the navigation systems - the need for visual bombsights quickly disappeared.
+The time to fall is about 37 seconds.
+617 Squadron RAF, The Dambusters.
+The distance between the aircraft and target at that moment is the range, so this angle is often referred to as the ''range angle'', although ''dropping angle'', ''aiming angle'', ''bombing angle'' and similar terms are often used as well.
+In this direction the bomb will be subject to two primary forces, gravity and drag, the first constant, and the second varying with the square of velocity.
+A variety of solutions using dual optics or similar systems were suggested in the post-war era, but none of these became widely used.
+This was a simple device with inputs for airspeed and altitude which was hand-held while lying prone on the wing of the aircraft.
+These could be used to replace a complex table of numbers with a carefully shaped cam-like device, and the manual calculation though a series of gears or slip wheels.
+They also pointed out that many targets would not show up directly on the radar, so the bombsight would need the ability to drop at points relative to some landmark that did appear, the so-called "offset aiming points".
+Assuming errors of 5% in every major measurement, one can estimate those effects on accuracy based on the methodology and tables in the guide.
+The definition of bombsight is becoming blurred as "smart" bombs with in-flight guidance, such as laser-guided bombs or those using GPS replace "dumb" gravity bombs.
+Unless the target just happened to be travelling directly in line with the wind, their motion would carry the bomber away from the wind line as they approached.
+Generally the bomb will slow as it reaches lower altitudes where the air is denser, but the relationship is complex.
+In this case only the forward speed and altitude have any measurable effect.
+One of the earliest recorded examples of such a bombsight was built in 1911 by Lieutenant Riley E. Scott, of the U.S. Army Coast Artillery Corps.
+The impact point is a function of three factors, the aircraft's altitude, its forward speed, and the terminal velocity of the bomb.
+Against men standing in the open, the 500&nbsp;lbs has a lethal radius of about 107&nbsp;m (350&nbsp;feet), but much less than that against buildings, perhaps 27 m (90&nbsp;feet).
+As the forward motion slows, the drag force drops and this deceleration diminishes.
+In practice, drag means that the impact point is short of the vacuum range, and this real-world distance between dropping and impact is known simply as the ''range''.
+These "vector bombsights" all shared the basic vector calculator system and drift wires, differing primarily in form and optics.
+The Federal Aviation Administration's FAR Part 63 suggests 5 to 10% accuracy of these calculations, the US Air Force's AFM 51-40 gives 10%, and the US Navy's H.O.
+As "the bomber will always get through", these forces were strategic in nature, largely a deterrent to the other force's own bombers.
+Prior to the bomb run, the bomber would fly at right angles to the bomb line, and the bomb aimer would look past the rod to watch the motion of objects on the ground.
+Calculating the effects of an arbitrary wind on the path of an aircraft was already a well-understood problem in air navigation, one requiring basic vector mathematics.
+A later modification was added to calculate the difference between true and indicated airspeed, which grows with altitude.
+The bomb aimer would first dial in the altitude and airspeed of the aircraft.
+In spite of early examples like Scott's prior to the war, during the opening stages of the First World War bombing was almost always carried out by eye, dropping the small bombs by hand when the conditions looked right.
+The bombs are dropped when the target passes through the sights.
+The wind affects the accuracy of the bomb in two ways, pushing directly on the bomb while it falls, as well as changing the ground speed of the aircraft before the drop.
+In 1946 the US Army Air Force asked the Army Air Forces Scientific Advisory Group to study the problem of bombing from jet aircraft that would soon be entering service.
+In this case the error is simply the ground speed of the aircraft over this time, or about 30&nbsp;feet.
+Ballistic data on this bomb can be found in "Terminal Ballistic Data, Volume 1: Bombing".
+As the wind can operate in any direction, bombsights generally re-calculate the windage by converting it into the portions that act along the flight path and across it.
+A separate mechanical computer was used to calculate the aim point.
+After zeroing out sideways motion the sight was set to a pre-set angle and then an object was timed with a stopwatch until it was directly below the aircraft.
+He would then adjust the wind speed setting until the motion was directly along the rod.
+The later versions of the CSBS, eventually reaching the Mark X, included adjustments for different bombs, ways to attack moving targets, systems for more easily measuring winds, and a host of other options.
+At night the bomber is virtually invulnerable (until the introduction of radar) but finding its target was a major problem.
+In many early bombsights, the first two inputs were adjusted by separately setting the front and back sights of an iron sight, one for the altitude and the other for the speed.
+The ''measurement'' of the wind speed is a more serious concern.
+Since their first application prior to WWI, bombsights have gone though several major revisions.
+Both systems were generally similar; a bomb sight consisting of a small telescope was mounted on a stabilizing platform to keep the sighting head stable.
+In the case of the direct effects on the bomb, a measurement that has a 5% error, 1.25&nbsp;mph, that would cause a 5% error in the drift, which would be 17.5&nbsp;feet.
+Once set up, the bomb aimer would watch objects on the ground and compare their path to thin wires on either side of the sight.
+When the bomb aimer sighted through the telescope, he could see any residual drift and relay this to the pilot, or later, feed that information directly into the autopilot.
+A few attempts were typically all that was needed, at which point the aircraft was flying in the right direction to take it directly over the drop point, with zero sideways velocity.
+The earliest systems were iron sights that were pre-set to an estimated fall angle.
+The basic mechanism was almost identical to the Norden, but much smaller.
+Policy once again changed in favour of daylight attacks against military targets and factories, abandoning what was considered a cowardly and defeatist night-bombing policy.
+Finally, consider errors of the same 5% in the equipment itself, that is, an error of 5% in the setting of the range angle, or a similar 5% error in the levelling of the aircraft or bombsight.
+Now consider the horizontal motion.
+Although the solution outlined above returns a point in space, simple trigonometry can be used to convert this point into an angle relative to the ground.
+During the early 1930s the debate had been won by the night-bombing supporters, and the RAF and Luftwaffe started construction of large fleets of aircraft dedicated to the night mission.
+The bombsight is then set to indicate that angle.
+Similar bombsights were developed in France and England, notably the Michelin and Central Flying School Number Seven bombsight.
+The difference between the vacuum range and actual range is known as the ''trail'', because the bomb appears to trail behind the aircraft as it falls.
+All of these are well within the lethal radius of the bomb.
+At some point the force of drag will become equal to the force of gravity, and the bomb will reach terminal velocity.
+Later in World War II, tachometric bombsights were often combined with radar systems to allow accurate bombing through clouds or at night.
+Both the British and Germans would later introduce Norden-like sights of their own.
+The M65 will be dropped from a Boeing B-17 flying at 322&nbsp;km/h (200&nbsp;mph) at an altitude of 6096 m (20,000&nbsp;feet) in a 42&nbsp;km/h (25&nbsp;mph) wind.
+As bombers grew and multi-place aircraft became common, it was no longer possible for the pilot and bombardier to share the same instrument, and hand signals were no longer visible if the bombardier was below the pilot in the nose.
+Additionally, the introduction of monoplane bombers made the adjustment of the angles more difficult, because they were not able to slip-turn as easily as their earlier biplane counterparts.
+In the absence of wind, the bombsight problem is fairly simple.
+During the 1920s, the Navy funded development of the Norden bombsight while the Army funded development of the Sperry O-1.
+There are some effects that operate along the changing path of the bomb, but they are relatively minor and can be considered separately for a basic study.
+The forward speed is never reduced entirely to zero.
+The speed over the ground was then measured by timing the motion of objects between two given angles as seen through the sight.
+Eliminating this error through the direct measurement of ground speed (instead of calculating it) was a major advance in the tachometric bombsights of the 1930s and 40s.
+A bombsight has to estimate the path the bomb will take after release from the aircraft.
+XIV featured a stabilizing platform and aiming computer, but worked more like the CSBS in overall functionality - the bomb aimer would set the computer to move the sighting system to the proper angle, but the bombsight did not track the target or attempt to correct the aircraft path.
+For an aircraft flying straight and level, the initial vertical velocity of the bomb will be zero, which means it will also have zero vertical drag.
+The bomb aimer (or pilot in some aircraft) then sighted through the attached iron sights to time the drop.
+Compounding this inaccuracy is that it is made using the instrument's airspeed indication, and as the airspeed in this example is about 10 times that of the wind speed, its 5% error can lead to great inaccuracies in wind speed calculations.
+For their needs they developed a new vector bombsight, the Mk.
+For instance, the AN/APA-47 was used to combine the output from the AN/APQ-7 with the Norden, allowing the bomb aimer to easily check both images to compare the aim point.
+For bombsight use, such a calculator would allow the bomb aimer to dial in the basic aircraft parameters - speed, altitude, direction, and known atmospheric conditions -  and the bomb sight would automatically calculate the proper aim point in a few moments.
+The same calculations would work just as well for bomb trajectories, with some minor adjustments to account for the changing velocities as the bombs fell.
+These were useful for low altitudes and stationary targets, but as the nature of the air war expanded, the needs quickly outgrew these solutions as well.
+For simplicity, consider that 5% to be a 5&nbsp;degree angle.
+Even as the Drift Sight was being introduced, Wimperis was working on a new bombsight that helped solve these calculations and allow the effects of wind to be considered no matter the direction of the wind or the bomb run.
+Finally, consider the effects of wind.
+The RAF returned in force in early 1942 with similar systems of their own, and from that point on, radio navigation systems of increasing accuracy allowed bombing in any weather or operational conditions.
+A variety of bombing systems using one or both of these systems were considered throughout the 1920s and 30s.
+One important simplification was to ignore the terminal velocity of the bomb, and calculate its average speed as the square root of the altitude measured in feet.
+As mission range extended to thousands of miles, bombers started incorporating inertial guidance and star trackers to allow accurate navigation when far from land.
+This was in spite of the introduction of newer sighting systems with great advantages over the CSBS, and even newer versions of the CSBS that failed to be used for a variety of reasons.
+Variations on the design were common, like the US Estoppey bombsight.
+Through the 1950s and 1960s, radar bombing of this sort was common and the accuracy of the systems were limited to what was needed to support attacks by nuclear weapons - a circular error probable (CEP) of about 3,000&nbsp;feet was considered adequate.
+In January 1912, Scott won $5,000 for first place in the Michelin bombing competition at Villacoublay Airdrome in France, scoring 12 hits on a 125-by-375&nbsp;foot target with 15 bombs dropped from 800&nbsp;meters.
+To start with, consider only the vertical motion of a bomb.
+As electronics improved, these systems were able to be combined together, and then eventually with systems for aiming other weapons.
+Originally limited to fairly simple calculations consisting of additions and subtractions, by the 1930s they had progressed to the point where they were being used to solve differential equations.
+This makes understanding the motion of a bomb through the air much simpler.
+The two primary forces during its fall are gravity and air drag, which make the path of the bomb through the air roughly parabolic.
+Using visual sighting, the range at which the target is first sighted remains fixed, based on eyesight.
+Normally this was accomplished by flying the aircraft into the general direction of the wind and then observing motion of objects on the ground and adjusting the flight path side to side until any remaining sideways drift due to wind was eliminated.
+Bombsights are sighting devices that are pointed in a particular direction, or aimed.
+This revealed the ground speed, which was multiplied by the time taken to hit the ground, and then a pointer in the sight was set to an angle looked up on a table.
+Finally, especially from the 1960s on, fully '''computerized bombsights''' were introduced, which combined the bombing with long-range navigation and mapping.
+They concluded that at speeds over 1,000&nbsp;knots, optical systems would be useless - the visual range to the target would be less than the range of a bomb being dropped at high altitudes and speeds.
+In some cases these consisted of nothing more than a series of nails hammered into a convenient spar, lines drawn on the aircraft, or visual alignments of certain parts of the structure.
+These effects are combined in the dive bomber.
+If the bomb is released at low speeds, it will quickly turn vertical and the velocity will be defined largely by how long the bomb has been falling.
+As the air drag will also vary with air density, and thus altitude, the terminal velocity will vary as the bomb falls.
+In practice, only large targets such as cities could be attacked.
+For instance, a bomb dropped from 10,000&nbsp;feet would fall at an average rate of 400&nbsp;fps, allowing easy calculation of the time to fall.
+Development of tactical bombing systems, notably the ability to attack point targets with conventional weapons that had been the original goal of the Norden, was not considered seriously.
+In testing the ABS proved to be too difficult to use, requiring long bomb runs to allow the computer time to solve the aim point.
+Wind acts on the bomb through drag, and is thus a function of the wind speed.
+This has led to a series of increasingly sophisticated bombsight designs dedicated to high-altitude level bombing.
+As aircraft speeds increase, there is less time available after the initial spotting to carry out the calculations and correct the aircraft's flight path to bring it over the proper drop point.
+Such a solution was inadequate.
+Finally, the group noted that many of the functions in such a system would overlap formerly separate tools like the navigation systems.
+At the instant it leaves the shackles, the bomb carries the forward speed of the aircraft with it.
+According to the table, this would result in an error around 10 to 15&nbsp;feet.
+However, new engines introduced in the mid-1930s led to much larger bombers that were able to carry greatly improved defensive suites, while their higher operational altitudes and speeds would render them less vulnerable to the defences on the ground.
+If the bomb was not subject to drag, its path would be purely ballistic and it would impact at an easily calculable point, the ''vacuum range''.
+This was needed so the pilot would have enough time to accurately account for the effects of wind, and get the proper flight angle set up with some level of accuracy.
+The Oboe system, first used operationally in early 1943, offered real-world accuracies on the order of 35&nbsp;yards, much better than any optical bombsight.
+But as daylight visual bombing was still widely used, conversions and adaptations were quickly made to repeat the radar signal in the existing bombsights, allowing the bombsight calculator to solve the radar bombing problem.
+The strategic bombing role was following an evolution over time to ever-higher, ever-faster, ever-longer-ranged missions with ever-more-powerful weapons.
+During the day the bomber could use its bombsights to attack point targets, but only at the risk of being attacked by enemy fighters and anti-aircraft artillery.
+While useful, these sights required a time consuming setup period while the movement was timed.
+When RAF Bomber Command complained that even the CSBS had too long a run-in to the target, efforts to deploy the ABS ended.
+These were replaced by the earliest custom-designed systems, normally iron sights that could be set based on the aircraft's airspeed and altitude.
+In practice, some or all of these calculations are carried out using angles and not points in space, skipping the final conversion.
+Starting in the 1930s, mechanical computers with the performance needed to "solve" the equations of motion were incorporated into the new '''tachometric bombsights''', the most famous being the Norden.
+Facing a lack of production capability, Sperry was contracted to produce the Mk.
+The US carried out an active program in this area, including Estoppey sights mounted to weighted gimbals and Sperry Gyroscope's experiments with US versions of the CSBS mounted to what would today be called an inertial platform.
+During the early stages of bombsight development, the problem was addressed by reducing the allowable engagement envelope, thereby reducing the need to calculate marginal effects.
+At first this was accomplished by sighting off parts of the aircraft, such as struts and engine cylinders, or drawing lines on the side of the aircraft after test drops on a bombing range.
+They proposed a single system that would offer mapping, navigation, autopilot and bomb aiming, thereby reducing complexity, and especially the needed space.
+The advantage of this system was that it was dramatically faster to use, and could be used even while the aircraft was manoeuvring, only a few seconds of straight-line flying were needed before the drop.
+It is useful to consider a single example of a bomb being dropped on a typical mission.
+In terms of drop timing, errors on the order of one-tenth of a second might be considered the best possible.
+This led to the introduction of the pilot direction indicator, an electrically-driven pointer which the bomb aimer used to indicate corrections from a remote location in the aircraft.
+By 1943 these techniques were in widespread use by both the RAF and USAAF, leading to the H2X and then a series of improved versions like the AN/APQ-13 and AN/APQ-7 used on the Boeing B-29 Superfortress.
+It is a basic outcome of Newtonian mechanics that vertical and horizontal motion of a bomb can be considered separately.
+The Norden then equipped almost all US high-level bombers, most notably the B-17 Flying Fortress.
+Some of the traditional inputs, like airspeed and altitude, could even be taken directly from the aircraft instruments, eliminating operational errors.
+These early systems were replaced by the '''vector bombsights''', which added the ability to measure and adjust for winds.
+Given the seriousness of the problem, systems for automatic levelling of bombsights was a major area of study before WWII, especially in the US.
+One solution to this later problem had already been used for some time, the use of some sort of gimbal system to keep the bombsight pointed roughly downward during maneuvering or being blown around by wind gusts.
+For higher altitude drops, the effect of wind and bomb trajectory could no longer be ignored.
+Although the tachometric bombsights provided most of the features needed for accurate bombing, they were complex, slow, and limited to straight-line and level attacks.
+The result was the Course Setting Bomb Sight (CSBS), called "the most important bomb sight of the war".

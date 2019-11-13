@@ -1,0 +1,200 @@
+To overcome this, there are several designs of differentials that can either limit the amount of slip (these are called 'limited-slip' differentials) or temporarily lock the two output shafts together to ensure that engine power reaches all driven wheels equally.
+In 1968, Team Lotus raced cars in the Indy 500 and three years later in Formula 1 with the Lotus 56, that had both turbine engines and 4WD, as well as the 1969 4WD-Lotus 63 that had the standard 3-litre V8 Ford Cosworth engine.
+* Jeep Wrangler (Rubicon model has locking front and rear differentials)
+The drive to the other axle is disconnected.
+Earlier Suzuki versions were twin engined, from 1996 on the engine is a twin-turbocharged 2.0&nbsp;L V6, mated to a sequential 6-speed manual transmission.
+''4-wheeler'' (or ''four-wheeler'') is a related term applying to all-terrain vehicles, and not to be confused with four-wheel drive.
+This vehicle has a unique "crab crawl" capability, which allows it to rotate 360° in place.
+Since the driveline does not permit any speed differentiation between the axles and would cause driveline wind-up, this mode is recommended only for ‘part-time’ use in off-road or loose surface conditions where driveline wind-up is unlikely.
+However, because of the inherent characteristics of electric motors, torque can be negative, as seen in the Rimac Concept One and SLS AMG Electric.
+As a result, if a tire loses traction on acceleration, either because of a low-traction situation (e.g., - driving on gravel or ice) or the engine power overcomes available traction, the tire that is not slipping receives little or no power from the engine.
+Marmon-Herrington specialized in converting Ford trucks to four-wheel drive and got off to a successful start by procuring contracts for military aircraft refueling trucks, 4×4 chassis for towing light weaponry, commercial aircraft refueling trucks, and an order from the Iraqi Pipeline Company for what were the largest trucks ever built at the time.
+General Motors sold a 4×4 for model years 2005-2009.
+''Four Wheeler'' magazine concluded that the AMC Eagle was ''"The beginning of a new generation of cars."''
+It is designed for cars that are normally front-wheel drive, however the rear wheels are powered by electric motors.
+Not only was it technically innovative, with independent front suspension and the first automatic transmission coupled to 4WD, it was equipped and finished as a regular passenger automobile.
+4WD vehicles may also be more likely to drive on surfaces with reduced traction.
+Examples of these with two rear, one front axle are the 6-wheeled Pinzgauer, which is popular with defense forces around the globe, and 10-wheeled GMC CCKW made famous by the U.S. Army in World War II.
+So successful was the car that it dominated the Japanese circuit for the first years of production, going on to bigger and more impressive wins in Australia before weight penalties eventually levied a de facto ban on the car.
+Subaru introduced the category-expanding Leone in 1972, an inexpensive compact station wagon with a light-duty, part-time four-wheel drive system that could not be engaged on dry pavement.
+FWD would later produce around 15,000 of its four-wheel-drive Model B trucks for the British and American armies during World War I.
+Today in the United States the term is applied to both heavy vehicles as well as light passenger vehicles.
+These are vehicles that have no center differential.
+For example, the Mars rovers are 6-wheel IWD.
+While most 4WD systems split torque evenly, the Jensen split torque roughly 40% front, 60% rear by gearing the front and rear at different ratios.
+* Mercedes-Benz G-Class
+In addition to these basic modes, there could be implementations that combine these modes.
+The operating torque split ratio is 0:100.
+'''Four Wheel Drive (4WD) Mode''' - Here, depending on the nature of torque transfer to the axles, we can define three sub-modes (below).
+American Motors (AMC) acquired Kaiser's Jeep Division in 1970 and quickly upgraded and expanded the entire line of off-road 4WD vehicles.
+This problem can happen in both 2WD and 4WD vehicles, whenever a driven wheel is placed on a surface with little traction or raised off the ground.
+:'''Part-time Mode''' - The front and rear axle drives are rigidly coupled in the transfer case.
+* Dodge Power Wagon (a Ram version with front and rear differential locks)
+Drive to the front wheels is transmitted through two infinitely-variable clutch packs which are allowed to 'slip' to give the required road wheel speeds.
+Therefore, there is typically no mechanism to actively prevent wheel slip (i.e., you can't "lock the differential" in advance of wheel slip), rather the system is designed to expressly permit wheel slip to occur, and then attempt to send torque to the wheels with the best traction.
+Soviet civilian life did not allow the proliferation of civilian products such as the Jeep in the United States, but through the 1960s the technology of Soviet 4×4 vehicles stayed on par with British, German, and American models, even exceeding it in some aspects, and for military purposes just as actively developed, produced and used.
+The Super Duty trucks shared many parts between the light duty and medium duty, reducing production costs.
+With its added roadworthiness, the top range full-size Grand Wagoneer continued to compete with traditional luxury cars.
+Partially hand-built, it was relatively unchanged during its production through 1991, even after Chrysler's buyout of AMC.
+In the multi-plate clutch the vehicle's computer senses slippage and locks the shafts, causing a small jolt when it activates, which can disturb the driver or cause additional traction loss.
+50:50 torque split lock in Four High and Four Low.
+Early prototypes had separate gear levers and clutch systems for each engine.
+* Dodge Ram, Dakota
+In the case of the AWD model version of the Lexus RX400h (and its Toyota-branded counterpart, the Harrier hybrid), the front wheels can also receive drive power directly from the vehicle's gasoline engine as well as via the electric motors, whereas the rear wheels derive power only from the second electric motor.
+Audi also introduced a permanently all-wheel-driven road-going car, the Audi Quattro, in 1980.
+There is no universally accepted set of terminology to describe the various architectures and functions.
+* Isuzu i-series, Isuzu Wizard
+* Jeep Cherokee (Quadra-Trac 2)
+True '''6×6''' vehicles which have three powered axles, and are classified as 6×6s regardless of how many wheels they have.
+Simply by fitting a second engine/gearbox unit across the rear, a rudimentary 4×4 system could be produced.
+The torque modulation may be achieved by active electronic/hydraulic control systems, or by passive devices, based on wheel slip or wheel torque, as described in the section on traction control systems.
+Some in this category have varying degrees of control in the torque distribution between front and rear by allowing some of the clutches in a multi-plate clutch coupling to engage and slip varying amounts.
+Thanks to full-time AWD, which relieved the driver of getting out to lock hubs and having to manually select between 2WD and 4WD modes, it dominated all other makes in FIA rally competition.
+A system that operates permanently in the full-time mode is sometimes called the ‘All-the-Time 4WD’, 'All-Wheel-Drive' or ‘AWD’.
+In the Hyundais, the ITM 3e acts like a full-time AWD with 95:5 normal torque split.
+The development also incorporated Bramah's Pedrail wheel system in what was one of the first four-wheel-drive automobiles to display an intentional ability to travel on challenging road surfaces.
+This forced slowing emulates the function of a limited-slip differential, and, by using the brakes more aggressively to ensure wheels are being driven at the same speed, can also emulate a locking differential.
+Planetary differentials can provide asymmetric torque splits as needed.
+Ferguson Research Ltd. built the front-engine P99 Formula One car that actually won a non-World Championship race with Stirling Moss in 1961.
+The terms used by various manufactures often reflect marketing rather than engineering considerations or significant technical differences between systems.
+This was a true full-time system operating only in four-wheel drive without undue wear on suspension or driveline components.
+The Ferrari FF introduced in 2011 features a unique system called '''4RM''', which does away with the heavy center differential and instead attaches a smaller, second transaxle that draws power from the front of the engine.
+Some all wheel drive electric vehicles solve this challenge using one motor for each axle, thereby eliminating a mechanical differential between the front and rear axles.
+File:Ford SD medium duty 4x4 drive train.jpg|Ford medium-duty 4×4 drive train
+In 1987, Toyota also developed a car built for competition in rally campaigns.
+The Quad not only came with four-wheel drive and four-wheel brakes, but also featured four-wheel steering.
+By using near-spherical wheels with provision to tilt and turn each wheel co-ordinatively, the driven wheels maintain constant traction.
+The Marmon-Herrington Company was founded in 1931 to serve a growing market for moderately priced four-wheel-drive vehicles.
+* Toyota Tundra TRD
+'''Four wheel drive (4WD)''' refers to vehicles with two axles providing power to four wheel ends.
+Matra also raced a similar MS84, and McLaren entered their M9A in the British Grand Prix, while engine manufacturers Ford-Cosworth produced their own version which was tested but never raced.
+* Chevrolet ''Rounded-Line'' K Fleetside, K Stepside, K Blazer, and K Suburban - conventional four-wheel drive (1973-1987) or shift-on-the-move four-wheel drive (1981-1987) two-speed New Process 205 or 208 transfer case.
+This allows the vehicle to be driven ‘full-time’ in this mode, irrespective of the nature of the road surface, without fear of driveline wind-up.
+This is accomplished by driving the left wheels as a pair and right wheels as a pair, as opposed to driving the front and rear pairs.
+Mainstream luxury and near-luxury vehicles which can absorb the extra cost involved, and for which the fuel economy penalty of some 5% is not an issue, are offered with AWD (or "4×4" or "4WD") as a safety enhancement to meet owners' expectations for a full complement of up-to-date technology.
+* Toyota Tacoma (rear locking differential optional)
+This design does not provide for traction when one wheel is spinning freely, where there is no torque, but provides excellent handling in less extreme situations.
+The Dana 60 front axle is used on both medium- and light-duty Super Duty trucks.
+Nissan Motors has developed a system called E-4WD.
+The term "4WD" is typically designated for vehicles equipped with a transfercase which switches between 2WD and 4WD operating modes, either manually or automatically.
+In September AMC introduced Quadra Trac full-time AWD for the 1973 model year Jeep Cherokee and Wagoneer.
+Mercedes and BMW, in 1926, introduced a rather sophisticated four-wheel drive, the G1, the G4 and G4 following.
+Some of the earliest mid-engined four-wheel-drive cars were the various road-legal rally cars made for Group B homologation, such as the Ford RS200 made from 1984 to 1986.
+The term ''IWD'' can refer to a vehicle with any number of wheels.
+* Infiniti QX56 (All-mode 4WD) Auto-engages 4WD with slip
+The luxury Rambler or Buick V8s powered Super Wagoneer produced from 1966 to 1969 raised the bar even higher.
+Once it does slip, however, recovery is difficult.
+Locking differentials work by temporarily locking together a differential's output shafts, causing all wheels to turn at the same rate, providing torque in case of slippage.
+The connection between this gearbox and each front wheel is via independent haldex-type clutches, without a differential.
+In 1893, before the establishment of a modern automotive industry in Britain, English engineer Bramah Joseph Diplock patented a four-wheel-drive system for a traction engine, including four-wheel steering and three differentials, which was subsequently built.
+'''Individual-wheel drive (IWD)''' was coined to identify those electric vehicles whereby each wheel is driven by its own individual electric motor.
+Designs for four-wheel drive in the U.S., came from the Twyford Company of Brookville, Pennsylvania in 1905, six were made there around 1906; one still exists and is displayed annually.
+While a drivetrain that turns all wheels equally would normally fight the driver and cause handling problems, this is not a concern when wheels are slipping.
+The car itself operates primarily as a rear wheel drive vehicle, clutches in the front transaxle only engage when the rear wheels begin to slip.
+A four-wheeled vehicle with power supplied to both axles may sometimes be described as "all-wheel drive" (AWD).
+Due to the difference in ratios "the clutches continually slip" and only transmit, at most, 20% of the engine's torque.
+Mohan describes the modes as follows:
+It also has dual Hemi V8s.
+The Unimog is another Mercedes truck.
+'', was presented in 1903 by Dutch brothers Jacobus and Hendrik-Jan Spijker of Amsterdam.
+The '''4RM''' system used in the Ferrari FF is unique in that it uses two gearboxes, in addition to the traditional Ferrari rear transaxle behind the engine, the system also uses a smaller transaxle drawing power from the front of the engine, sending it to the front wheels as needed.
+Transfer of power is managed automatically by internal electronics based on traction conditions and need, making this an all-wheel-drive system.
+When referring to heavy vehicles the term is increasingly applied to mean "permanent multiple-wheel drive" on 2×2, 4×4, 6×6 or 8×8 drive train systems that include a differential between the front and rear drive shafts.
+This can have drastic effects, as in better handling in tight corners.
+The front transaxle itself only has 3 gears equivalent to 2nd, 4th and reverse in the rear transaxle (with gear ratios 6% taller than the corresponding ratios in the main gearbox), so the system is only active in 1st to 4th gears.
+An example of this is the dual motor variant of the Tesla Model S, which on a millisecond scale can control the power distribution electronically between its two motors.
+It stemmed from Bramagh's previous idea of developing an engine that would reduce the amount of damage to public roads.
+Ram Trucks began selling medium-duty trucks, 4×4 and 4×2, in 2008.
+* Chevrolet Tahoe, Trailblazer (LT1 and LT3 models only), Tracker, Suburban, Silverado, Avalanche, Colorado, S-10 series, K5 Blazer
+Note Rounded-Line "K" Pickups and Utilities were temporarily renamed to "V" for 1987
+All these F1 cars were considered inferior to their RWD counterparts, as the advent of aerodynamic downforce meant that adequate traction could be obtained in a lighter and more mechanically efficient manner, and the idea was discontinued, even though Lotus tried repeatedly.
+If the inter-axle differential is locked out, then the mode reverts to a ‘part-time mode’.
+In extreme conditions, the system can be locked in a 50:50 split via the 4WD LOCK button.
+Note: the above all function like 2WD when multi-plate clutch coupling is not engaged (with exception of Subaru models), and like 4WD highrange in a part-time 4WD system when the clutch is engaged (usually by computer although some allow manual control).
+The Eagle's monocoque body was reinforced for the conversion and had a steel targa bar with a removable fiberglass roof section.
+Unlike other 4×4 vehicles which use a conventional transfer case to drive the front and rear axle, the Sahara had two engines, each independently driving a separate axle, with the rear engine facing backwards.
+Note Rounded-Line "K" Pickups and Utilities were temporarily renamed to "V" for 1987
+Since a differential applies equal torque to each half-shaft, power is reduced at the other wheels, even if they have good traction.
+* Toyota 4Runner (only SR5 and pre 2010 Limited V6 models, 2010 Trail edition V6 models) (also locking rear differential on 2010 V6)
+This is often coupled with some sort of anti-slip technology, increasingly hydraulic-based, that allows differentials to spin at different speeds but still be capable of transferring torque from a wheel with poor traction to one with better.
+* Dodge Nitro (Quadra-Trac 2)
+AMC's Eagles came with the comfort and high-level appointments expected of regular passenger models and used the off-road technology for an extra margin of safety and traction.
+The All-Trac system was later available on serial production Toyota Camry, Toyota Corolla, and Toyota Previa models.
+They ushered a whole new product category of "sport-utility" or crossover SUV.
+The second U.S. four-wheel-drive vehicle was built in 1908 by (what became) the Four Wheel Drive Auto Company (FWD) of Wisconsin (not to be confused with the term "FWD" as an acronym for ''front-wheel drive'').
+American Motors introduced the innovative Eagle for the 1980 model year.
+Elements of the chassis were used in military vehicles such as the GAZ-64, GAZ-67, GAZ-69, and also the properly civilian GAZ-M-72 (based on the rear-wheel drive GAZ-20 "Victory" and built from 1955-1958).
+(This is similar to the system used on the Ford Escape Hybrid AWD.)
+Later versions sent for evaluation by the British Army had more user-friendly linked systems.
+With standard bevel gear differentials the torque split is 50:50.
+A third approach to limiting slippage is taken by a Torsen differential.
+* Land Rover Series I, II & III (except V8 models)
+File:4x4HD International Workstar.jpg|Heavy duty International Workstar
+"Civilian use" may be a bit of a misnomer, as most if not all were used by the Soviet government and military (as command cars), but the GAZ-61-73 version is the first four-wheel drive vehicle with a normal closed sedan body.
+Furthermore, the Big Three share/shared parts between the companies reducing costs.
+The described system handles extremely well, as it is able to accommodate various forces of movement and distribute power evenly and smoothly, making slippage unlikely.
+This is generally used for the center differential, which distributes power between the front and the rear axles.
+For example, the system could have a clutch across the center differential, capable of modulating the front axle torque from a Full-time mode with the 30:70 torque split of the center differential rather than from the 0:100 torque split of the 2WD mode
+The architecture of an AWD/4WD system can be described by describing its possible operating modes.
+File:C4500 GM 4x4 Medium duty trucks.jpg|GM 4×4 medium-duty trucks
+Some hybrid vehicles such as the Lexus RX400h provide power to an AWD system through a pair of electric motors, one to the front wheels and one to the rear.
+Ferdinand Porsche designed and built a four-wheel-driven electric vehicle for the ''k.
+The two most common factory-installed locking differentials use either a computer-controlled multi-plate clutch or viscous coupling unit to join the shafts, while other differentials more commonly used on off-road vehicles generally use manually operated locking devices.
+Only around 700 of these cars were built, and only 27 are known to exist today.
+During 1981 and 1982 a unique convertible was added to the line.
+A version of the BorgWarner ITM3e system is used on 2006 and up Porsche 911TT's.
+An ''Eaton Automatic Differential Lock'' was optional for the rear hypoid differential.
+50:50 torque split lock in Four High and Four Low.
+Its successor, Kaiser Jeep, introduced a revolutionary 4WD wagon called the Wagoneer in 1963.
+Volvo introduced the Model 646 four-wheel drive backhoe loader in 1977.
+With the acquisition of the "Jeep" name in 1950 Willys had cornered the brand.
+They were produced because of a government demand for a four-wheel-drive passenger vehicle.
+The similarly boxy, also inline-4 powered Land Rover appeared at the Amsterdam Motor Show in 1948.
+This system essentially has inherent characteristics that would be generally attributed to four-wheel drive systems like the distribution of the available power to the wheels.
+To prevent this the wheels are allowed to turn at different speeds using a mechanical or hydraulic differential.
+When used on slick surfaces, this is not a problem, but when turning on dry pavement, the tires grip, then are forced to slip, then grip again, and so on, until the turn is completed.
+* Suzuki Sidekick, Jimny,Vitara
+A manual transmission and a front axle-disconnect feature were also made available for greater fuel economy.
+The differential does this by distributing angular force (in the form of torque) evenly, while distributing angular velocity (turning speed) such that the average for the two output shafts is equal to that of the differential ring gear.
+Gene Henderson and Ken Pogue won the Press-on-Regardless Rally FIA championship with a Quadra Trac equipped Jeep in 1972.
+In effect, it was the ancestor of the modern SUV.
+The Audi Quattro system became a feature on production cars.
+In 1965, A. J. M. Chadwick patented a 4WD system, GB 1113068, that used hemispherical wheels for an all-terrain vehicle.
+Approximately 11,500 of the Jeffery or Nash Quad models (1913–1919) were similarly used.
+The first four-wheel-drive car, as well as hill-climb racer, with internal combustion engine, the ''Spyker 60 H.P.
+Jensen applied the ''Formula Ferguson'' (FF) full-time all-wheel-drive system to 318 units of their Jensen FF built from 1966 to 1971, marking the first time 4WD was used in a production GT sports car.
+Using an engaged part-time 4WD system on a hard surface is not recommended, as damage to the drive-line eventually occurs.
+Audi's dominance in the Trans-Am Series in 1988 was equally controversial as it led to a weight penalty mid season and to a rule revision banning all-AWD cars, its dominance in Super Touring eventually led to a FIA ban on AWD system in 1998.
+It should be noted that this technique normally requires wheel sensors to detect when a wheel is slipping, and only activates when wheel slip is detected.
+An example of a system like this is the BorgWarner i-Trac(TM) system.
+The above systems ending with "#" function by selectively using the traction control system (via ABS) to brake a slipping wheel.
+Combined with twin fuel tanks and twin batteries (which could be set up to run either or both engines), the redundancy of two separate drive trains meant that they could make it back to civilization even after major mechanical failures.
+Alternatively, a 6×4 vehicle has three axles, any two of which provide power to two wheel ends each.
+Although clumsily heavy, the vehicle proved a powerful sprinter and record-breaker in the hands of its owner E.W.
+A Torsen differential allows the output shafts to receive different amounts of torque.
+Daimler-Benz also has a history in four-wheel drive.
+Chrysler's Jeep Division debuted the twin engine,  Jeep Hurricane concept at the 2005 North American International Auto Show in Detroit.
+In the viscous coupling differentials the shear stress of high shaft speed differences causes a dilatant fluid in the differential to become solid, linking the two shafts.
+Originally conceived as a stop-gap product for the struggling Rover car company, despite chronic under-investment it succeeded far better than the passenger cars.
+4×4 medium-duty trucks became common after Ford Motor Company began selling Ford Super Duty trucks.
+Many differentials have no way of limiting the amount of engine power that gets sent to its attached output shafts.
+It is much less acceptable for 4WD vehicles, because 4WD vehicles have twice as many wheels with which to lose traction, increasing the likelihood that it may happen.
+Suzuki Motors introduced the Suzuki Escudo Pikes Peak Edition in 1996.
+Due to its unusual status the so-called ''Lohner-Porsche'' is not widely credited as the first four-wheel-driven automobile.
+Trucks with dual tires on the rear axle and two driven axles are designated as 4×4s despite having six wheels because the paired rear wheels behave as a single wheel for traction and classification purposes.
+However, since torque is divided amongst four wheels rather than two, each wheel receives approximately half the torque of a 2WD vehicle, reducing the potential for wheel slip.
+To save space and weight the front transaxle only has three forward speeds (and no reverse).
+* Jeep Cherokee (XJ), Jeep Comanche, Jeep Grand Cherokee (ZJ), Jeep Liberty (Command-Trac)
+* Nissan Terrano II
+0:100 torque split in Two High.
+* Ford Explorer (1991-1994) & Sport Trac
+This allows one driveshaft to independently drive two output shafts, axles that go from the differential to the wheel, at different speeds.
+Torque is transferred to the secondary axle ‘on-demand’ or as needed, by modulating the transfer clutch from ‘open’ to a rigidly coupled state, while avoiding any driveline wind-up.
+The Jeep, originally developed by American Bantam but mass-produced by Willys and Ford, became the best-known four-wheel-drive vehicle in the world during World War II.
+A fairly recent innovation in automobiles is electronic traction control.
+A single vehicle may have the ability to operate in multiple modes depending on driver selection.
+The first figure represents the total wheels (more precisely, axle ends), and the second, the number that are powered.
+BMC experimented with a twin-engine Mini Moke (dubbed the "Twini Moke") in the mid-1960s, but never put it into production.
+Most controversially was the win pulled off at the 1990 Macau Grand Prix where the car led from start to finish.
+The Dana 110 was also used on the General Motors 4×4s as well.
+If preventing all-wheel slip is a requirement, this is a limiting design.

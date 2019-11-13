@@ -1,0 +1,200 @@
+Incubation periods for viral diseases range from a few days to weeks, but are known for most infections.
+However, these latent viruses might sometimes be beneficial, as the presence of the virus can increase immunity against bacterial pathogens, such as ''Yersinia pestis''.
+This is often the case with herpes viruses.
+This membrane is studded with proteins coded for by the viral genome and host genome; the lipid membrane itself and any carbohydrates present originate entirely from the host.
+In 2011, researchers discovered the largest then known virus in samples of water collected from the ocean floor off the coast of Las Cruces, Chile.
+In 1906, Ross Granville Harrison invented a method for growing tissue in lymph, and, in 1913, E. Steinhardt, C. Israeli, and R. A. Lambert used this method to grow vaccinia virus in fragments of guinea pig corneal tissue.
+In addition, ssRNA viruses may be either sense (+) or antisense (−).
+Eastern European scientists have used phage therapy as an alternative to antibiotics for some time, and interest in this approach is increasing, because of the high level of antibiotic resistance now found in some pathogenic bacteria.
+Ebola Virus Disease has also caused intermittent outbreaks with high mortality rates since 1976 when it was first identified.
+These enable archaea to retain sections of viral DNA, which are then used to target and eliminate subsequent infections by the virus using a process similar to RNA interference.
+However, some viruses including those that cause AIDS and viral hepatitis evade these immune responses and result in chronic infections.
+zidovudine and lamivudine.
+The body's first line of defence against viruses is the innate immune system.
+A complete virus particle, known as a virion, consists of nucleic acid surrounded by a protective coat of protein called a capsid.
+The number of viruses in the oceans decreases further offshore and deeper into the water, where there are fewer host organisms.
+An example of the first type is HIV, which is a retrovirus.
+Because of their size, shape, and well-defined chemical structures, viruses have been used as templates for organising materials on the nanoscale.
+A viral genome, irrespective of nucleic acid type, is almost always either ''single-stranded'' or ''double-stranded''.
+As of September 2015, the NCBI Virus genome database has more than 75,000 complete genome sequences.
+When the adaptive immune system of a vertebrate encounters a virus, it produces specific antibodies that bind to the virus and often render it non-infectious.
+In 2007 there were 2.7 million new HIV infections and 2 million HIV-related deaths.
+However, they have characteristics that are common to several viruses and are often called subviral agents.
+Several highly lethal viral pathogens are members of the ''Filoviridae''.
+Infection by human T-lymphotropic virus can lead to tropical spastic paraparesis and adult T-cell leukaemia.
+In eukaryotes the viral genome must cross the cell's nuclear membrane to access this machinery, while in bacteria it need only enter the cell.
+Plant viruses tend to have single-stranded RNA genomes and bacteriophages tend to have double-stranded DNA genomes.
+The development of cancer is determined by a variety of factors such as host immunity and mutations in the host.
+Such quasispecies are a prime target for natural selection.
+''Virulent'', from Latin ''virulentus'' (poisonous), dates to c. 1400.
+The term ''virion'' (plural ''virions''), which dates from 1959, is also used to refer to a single, stable infective viral particle that is released from the cell and is fully capable of infecting other cells of the same type.
+The virus-first hypothesis contravened the definition of viruses in that they require host cells.
+Positive-sense viral RNA is in the same sense as viral mRNA and thus at least a part of it can be immediately translated by the host cell.
+The most effective medical approaches to viral diseases are vaccinations to provide immunity to infection, and antiviral drugs that selectively interfere with viral replication.
+All RNA viruses use their own RNA replicase enzymes to create copies of their genomes.
+The range of host cells that a virus can infect is called its "host range".
+The first images of viruses were obtained upon the invention of electron microscopy in 1931 by the German engineers Ernst Ruska and Max Knoll.
+Single-strand DNA viruses are an exception to this rule, however, as mutation rates for these genomes can approach the extreme of the ssRNA virus case.
+The well-studied tobacco mosaic virus is an example of a helical virus.
+Further concern was raised by the successful recreation of the infamous 1918 influenza virus in a laboratory.
+Viruses have different mechanisms by which they produce disease in an organism, which depends largely on the viral species.
+In the same year Friedrich Loeffler and Paul Frosch passed the first animal virus&nbsp;– agent of foot-and-mouth disease (aphthovirus)&nbsp;– through a similar filter.
+These vaccines use only the capsid proteins of the virus.
+Some filoviruses have a total length of up to 1400&nbsp;nm; their diameters are only about 80&nbsp;nm.
+For most viruses with RNA genomes and some with single-stranded DNA genomes, the single strands are said to be either positive-sense (called the ''plus-strand'') or negative-sense (called the ''minus-strand''), depending on if they are complementary to the viral messenger RNA (mRNA).
+A short time later, this virus was separated into protein and RNA parts.
+Viroids are important pathogens of plants.
+Thus, much of the modern human population has almost no established resistance to smallpox, and would be vulnerable to the virus.
+Replication involves synthesis of viral messenger RNA (mRNA) from "early" genes (with exceptions for positive sense RNA viruses), viral protein synthesis, possible assembly of viral proteins, then viral genome replication mediated by early or regulatory protein expression.
+However, at present only a small part of the total diversity of viruses has been studied, with analyses of samples from humans finding that about 20% of the virus sequences recovered have not been seen before, and samples from the environment, such as from seawater and ocean sediments, finding that the large majority of sequences are completely novel.
+A particular quality of viruses is that they can be tailored by directed evolution.
+Norovirus and rotavirus, common causes of viral gastroenteritis, are transmitted by the faecal–oral route and are passed from person to person by contact, entering the body in food or water.
+This system bases classification on phylum, class, order, family, genus, and species.
+It is, therefore, a defective virus.
+This classification places viruses into seven groups:
+Viruses are an established cause of cancer in humans and other species.
+It is important to find the source, or sources, of the outbreak and to identify the virus.
+In general, RNA viruses have smaller genome sizes than DNA viruses because of a higher error-rate when replicating, and have a maximum upper size limit.
+The dendritic cells process the dead cancer cells and present components of them to other cells of the immune system.
+When vaccines are not available, sanitation and disinfection can be effective.
+Once called "jumping genes", transposons are examples of mobile genetic elements and could be the origin of some viruses.
+They are susceptible to antiviral drugs that inhibit the reverse transcriptase enzyme, e.g.
+Since Dmitri Ivanovsky's 1892 article describing a non-bacterial pathogen infecting tobacco plants, and the discovery of the tobacco mosaic virus by Martinus Beijerinck in 1898, about 5,000 virus species have been described in detail, although there are millions of types.
+Viruses are important pathogens of livestock.
+This is called DNA chain termination.
+They can cause infections such as scrapie in sheep, bovine spongiform encephalopathy ("mad cow" disease) in cattle, and chronic wasting disease in deer; in humans, prionic diseases include Kuru, Creutzfeldt–Jakob disease, and Gerstmann–Sträussler–Scheinker syndrome.
+RNA viruses often exist as quasispecies or swarms of viruses of the same species but with slightly different genome nucleoside sequences.
+The rate or speed of transmission of viral infections depends on factors that include population density, the number of susceptible individuals, (i.e., those not immune), the quality of healthcare and the weather.
+Most enveloped viruses are dependent on the envelope for their infectivity.
+In 80% of people infected, the disease is chronic, and without treatment, they are infected for the remainder of their lives.
+Viruses are important to the study of molecular and cell biology as they provide simple systems that can be used to manipulate and investigate the functions of cells.
+Enveloped viruses (e.g., HIV) typically are released from the host cell by budding.
+Proteins associated with nucleic acid are known as nucleoproteins, and the association of viral capsid proteins with viral nucleic acid is called a nucleocapsid.
+This is also called the ''degeneracy hypothesis'', or ''reduction hypothesis''.
+Classification seeks to describe the diversity of viruses by naming and grouping them on the basis of similarities.
+The study of phages provided insights into the switching on and off of genes, and a useful mechanism for introducing foreign genes into bacteria.
+People chronically infected are known as carriers, as they serve as reservoirs of infectious virus.
+The virus has an outer envelope with a thick layer of protein studded over its surface.
+Merkel cell polyomavirus closely related to SV40 and mouse polyomaviruses that have been used as animal models for cancer viruses for over 50 years.
+; RNA viruses: Replication usually takes place in the cytoplasm.
+It shows promising use in the treatment of cancer and in gene therapy.
+Although they have genes, they do not have a cellular structure, which is often seen as the basic unit of life.
+Viral infections in animals provoke an immune response that usually eliminates the infecting virus.
+When they are infected, plants often produce natural disinfectants that kill viruses, such as salicylic acid, nitric oxide, and reactive oxygen molecules.
+However, nearly all plant viruses (such as tobacco mosaic virus) can also move directly from cell to cell, in the form of single-stranded nucleoprotein complexes, through pores called plasmodesmata.
+In 1983 Luc Montagnier's team at the Pasteur Institute in France, first isolated the retrovirus now called HIV.
+This causes persistent infections and the virus is often dormant for many months or years.
+The English plural is ''viruses'' (sometimes also ''viri'' or ''vira''), whereas the Latin word is a mass noun, which has no classically attested plural (however in Neo-Latin ''vīra'' is used).
+These viruses infect specific bacteria by binding to surface receptor molecules and then entering the cell.
+Over time, genes not required by their parasitism were lost.
+By the end of the 19th century, viruses were defined in terms of their infectivity, their ability to be filtered, and their requirement for living hosts.
+The study of viruses is known as virology, a sub-speciality of microbiology.
+Filoviruses are filament-like viruses that cause viral hemorrhagic fever, and include ebolaviruses and marburgviruses.
+That is, they contain all the necessary information to produce new viruses.
+:Order (-''virales'')
+To date, such analyses have not proved which of these hypotheses is correct.
+The capsid appears hexagonal under an electron microscope, therefore the capsid is probably icosahedral.
+Some viruses can cause lifelong or chronic infections, where the viruses continue to replicate in the body despite the host's defence mechanisms.
+Protein filaments measuring 100&nbsp;nm project from the surface.
+Although viruses cause disruption of healthy homeostasis, resulting in disease, they may exist relatively harmlessly within an organism.
+Some viruses that infect Archaea have complex structures that are unrelated to any other form of virus, with a wide variety of unusual shapes, ranging from spindle-shaped structures, to viruses that resemble hooked rods, teardrops or even bottles.
+, the full-length genome sequences of 3843 different viruses, including smallpox, are publicly available in an online database maintained by the National Institutes of Health.
+Reverse transcriptase, the enzyme that retroviruses use to make DNA copies of their RNA, was first described in 1970, independently by Howard Martin Temin and David Baltimore.
+Plants have a rigid cell wall made of cellulose, and fungi one of chitin, so most viruses can get inside these cells only after trauma to the cell wall.
+Bacteriophages are a common and diverse group of viruses and are the most abundant form of biological entity in aquatic environments&nbsp;– there are up to ten times more of these viruses in the oceans than there are bacteria, reaching levels of 250,000,000 bacteriophages per millilitre of seawater.
+Viruses are now recognised as ancient and as having origins that pre-date the divergence of life into the three domains.
+The 1918 flu pandemic, which lasted until 1919, was a category 5 influenza pandemic caused by an unusually severe and deadly influenza A virus.
+Viruses have been modified by scientists to reproduce in cancer cells and destroy them but not infect healthy cells.
+This can be a result of recombination or reassortment.
+Within the ''Herpesviridae'', Kaposi's sarcoma-associated herpesvirus causes Kaposi's sarcoma and body cavity lymphoma, and Epstein–Barr virus causes Burkitt's lymphoma, Hodgkin's lymphoma, B lymphoproliferative disorder, and nasopharyngeal carcinoma.
+This is sometimes called the ''vagrancy hypothesis'', or the ''escape hypothesis''.
+Many other viruses, including caliciviruses, herpesviruses, adenoviruses and parvoviruses, circulate in marine mammal populations.
+In multicellular organisms, if enough cells die, the whole organism will start to suffer the effects.
+One of the most effective is the presence of so-called resistance (R) genes.
+This may be followed, for complex viruses with larger genomes, by one or more further rounds of mRNA synthesis: "late" gene expression is, in general, of structural or virion proteins.
+The smallpox virus devastated numerous societies throughout history before its eradication.
+Viruses are an important natural means of transferring genes between different species, which increases genetic diversity and drives evolution.
+The word is from the Latin neuter ''vīrus'' referring to poison and other noxious liquids, from 'the same Indo-European base as Sanskrit ''viṣa'' poison, Avestan ''vīša'' poison, ancient Greek ''ἰός'' poison', first attested in English in 1398 in John Trevisa's translation of Bartholomeus Anglicus's ''De Proprietatibus Rerum''.
+Louis Pasteur was unable to find a causative agent for rabies and speculated about a pathogen too small to be detected using a microscope.
+This is because its surface protein, gp120, specifically interacts with the CD4 molecule&nbsp;– a chemokine receptor&nbsp;– which is most commonly found on the surface of CD4+ T-Cells.
+The viral genome is then known as a "provirus" or, in the case of bacteriophages a "prophage".
+; Cellular origin hypothesis : Some viruses may have evolved from bits of DNA or RNA that "escaped" from the genes of a larger organism.
+In similar manner, the sputnik virophage is dependent on mimivirus, which infects the protozoan ''Acanthamoeba castellanii''.
+Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells.
+On the basis of her pictures, Rosalind Franklin discovered the full structure of the virus in 1955.
+This is because these analogues lack the hydroxyl groups, which, along with phosphorus atoms, link together to form the strong "backbone" of the DNA molecule.
+A unified taxonomy (a universal system for classifying viruses) has been established.
+The viral genome is associated with proteins within a central disc structure known as a nucleoid.
+Because they possess some but not all such qualities, viruses have been described as "organisms at the edge of life", and as replicators.
+Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
+Cells such as the macrophage are specialists at this antigen presentation.
+These are normally insects, but some fungi, nematode worms, and single-celled organisms have been shown to be vectors.
+Viruses are by far the most abundant biological entities on Earth and they outnumber all the others put together.
+The second half of the 20th century was the golden age of virus discovery and most of the over 2,000 recognised species of animal, plant, and bacterial viruses were discovered during these years.
+; Co-evolution hypothesis : This is also called the ''virus-first hypothesis'' and proposes that viruses may have evolved from complex molecules of protein and nucleic acid at the same time as cells first appeared on Earth and would have been dependent on cellular life for billions of years.
+This genetic system provides bacteria with acquired immunity to infection.
+In the same year, Heinz Fraenkel-Conrat and Robley Williams showed that purified tobacco mosaic virus RNA and its protein coat can assemble by themselves to form functional viruses, suggesting that this simple mechanism was probably the means through which viruses were created within their host cells.
+When this happens with influenza viruses, pandemics might result.
+The relative ability of viruses to cause disease is described in terms of virulence.
+For many virus families the naked synthetic DNA or RNA (once enzymatically converted back from the synthetic cDNA) is infectious when introduced into a cell.
+Canine parvovirus is caused by a small DNA virus and infections are often fatal in pups.
+Viruses infect all cellular life and, although viruses occur universally, each cellular species has its own specific range that often infect only that species.
+Often, infected people are isolated from the rest of the community, and those that have been exposed to the virus are placed in quarantine.
+Viruses do not have their own metabolism, and require a host cell to make new products.
+A second defence of vertebrates against viruses is called cell-mediated immunity and involves immune cells known as T cells.
+Viruses must generate mRNAs from their genomes to produce proteins and replicate themselves, but different mechanisms are used to achieve this in each virus family.
+Bacteria, like plants, have strong cell walls that a virus must breach to infect the cell.
+; Envelope: Some species of virus envelop themselves in a modified form of one of the cell membranes, either the outer membrane surrounding an infected host cell or internal membranes such as nuclear membrane or endoplasmic reticulum, thus gaining an outer lipid bilayer known as a viral envelope.
+To increase the contrast between viruses and the background, electron-dense "stains" are used.
+The committee does not formally distinguish between subspecies, strains, and isolates.
+Antigenic shift occurs when there is a major change in the genome of the virus.
+Industrial processes have been recently developed using viral vectors and a number of pharmaceutical proteins are currently in pre-clinical and clinical trials.
+Both types use a reverse transcriptase, or RNA-dependent DNA polymerase enzyme, to carry out the nucleic acid conversion.
+The host range of some bacteriophages is limited to a single strain of bacteria and they can be used to trace the source of outbreaks of infections by a method called phage typing.
+Examples of common human diseases caused by viruses include the common cold, influenza, chickenpox, and cold sores.
+In 2013, the Pandoravirus genus was discovered in Chile and Australia, and has genomes about twice as large as Megavirus and Mimivirus.
+An example would include the ability of the herpes simplex virus, which causes cold sores, to remain in a dormant state within the human body.
+Viruses can have a lipid "envelope" derived from the host cell membrane.
+IgG antibody is measured when tests for immunity are carried out.
+His experiments showed that crushed leaf extracts from infected tobacco plants remain infectious after filtration.
+Rotaviruses have evolved to avoid this defence mechanism by not uncoating fully inside the cell, and releasing newly produced mRNA through pores in the particle's inner capsid.
+Virally coded protein subunits will self-assemble to form a capsid, in general requiring the presence of the virus genome.
+Capsomeres at the apices are surrounded by five other capsomeres and are called pentons.
+Most DNA viruses are entirely dependent on the host cell's DNA and RNA synthesising machinery, and RNA processing machinery.
+The origin of viruses is unclear because they do not form fossils, so molecular techniques have been used to compare the DNA or RNA of viruses and are a useful means of investigating how they arose.
+These include a process called antigenic drift where individual bases in the DNA or RNA mutate to other bases.
+Plants have elaborate and effective defence mechanisms against viruses.
+The influenza virus and HIV use this strategy.
+In this application, the virus particles separate the fluorescent dyes used for signalling to prevent the formation of non-fluorescent dimers that act as quenchers.
+Biotechnology and genetic engineering techniques are used to produce subunit vaccines.
+Vaccines were used to prevent viral infections long before the discovery of the actual viruses.
+In 1935, American biochemist and virologist Wendell Meredith Stanley examined the tobacco mosaic virus and found it was mostly made of protein.
+Like any organism, marine mammals are susceptible to viral infections.
+In addition, viral genetic material may occasionally integrate into the germline of the host organisms, by which they can be passed on vertically to the offspring of the host for many generations.
+The tobacco mosaic virus was the first to be crystallised and its structure could therefore be elucidated in detail.
+Double-stranded genomes consist of two complementary paired nucleic acids, analogous to a ladder.
+Viral genomes are ''circular'', as in the polyomaviruses, or ''linear'', as in the adenoviruses.
+Plant virus particles or virus-like particles (VLPs) have applications in both biotechnology and nanotechnology.
+They infect and destroy bacteria in aquatic microbial communities, and are the most important mechanism of recycling carbon in the marine environment.
+A teaspoon of seawater contains about one million viruses.
+However, at some point, the provirus or prophage may give rise to active virus, which may lyse the host cells.
+They lend support to this hypothesis, as their dependence on parasitism is likely to have caused the loss of genes that enabled them to survive outside a cell.
+A protein that is in cells, called TRIM21, can attach to the antibodies on the surface of the virus particle.
+Its role in immunity is complex; it eventually stops the viruses from reproducing by killing the infected cell and its close neighbours.
+Some viruses, called satellites, can replicate only within cells that have already been infected by another virus.
+In the early 20th century, the English bacteriologist Frederick Twort discovered a group of viruses that infect bacteria, now called bacteriophages (or commonly ''phages''), and the French-Canadian microbiologist Félix d'Herelle described viruses that, when added to bacteria on agar, would produce areas of dead bacteria.
+Provisionally named ''Megavirus chilensis'', it can be seen with a basic optical microscope.
+There are millions of different types of viruses, although only about 5,000 types have been described in detail.
+For example, HIV infects a limited range of human leucocytes.
+The production of interferon is an important host defence mechanism.
+Vaccination is a cheap and effective way of preventing infections by viruses.
+Viral cancers occur only in a minority of infected persons (or animals).
+; Icosahedral: Most animal viruses are icosahedral or near-spherical with chiral icosahedral symmetry.
+The study and use of viruses have provided valuable information about aspects of cell biology.
+Older estimates say it killed 40–50&nbsp;million people, while more recent research suggests that it may have killed as many as 100&nbsp;million people, or 5% of the world's population in 1918.
+The smallest viral genomes&nbsp;– the ssDNA circoviruses, family ''Circoviridae''&nbsp;– code for only two proteins and have a genome size of only two kilobases; the largest–the pandoraviruses–have genome sizes of around two megabases which code for about 2500 proteins.
+There are only two centres in the world that are authorised by the WHO to keep stocks of smallpox virus: the Vector Institute in Russia and the Centers for Disease Control and Prevention in the United States.
+Viruses that have been reprogrammed to kill cancer cells are called oncolytic viruses.
+Native American populations were devastated by contagious diseases, in particular, smallpox, brought to the Americas by European colonists.
+Fears that it may be used as a weapon may not be totally unfounded.
+However, it seems unlikely that all currently known viruses have a common ancestor, and viruses have probably arisen numerous times in the past by one or more mechanisms.

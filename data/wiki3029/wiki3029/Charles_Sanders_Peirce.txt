@@ -1,0 +1,200 @@
+No matter how traditional and needful it is to study the modes of inference in abstraction from one another, the integrity of inquiry strongly limits the effective modularity of its principal components.
+He learned philosophy mainly by reading, each day, a few pages of Kant's ''Critique of Pure Reason'', in the original German, while a Harvard undergraduate.
+All explanatory content of theories comes from abduction, which guesses a new or outside idea so as to account in a simple, economical way for a surprising or complicated phenomenon.
+1982–now: ''Writings of Charles S. Peirce, A Chronological Edition'' (W), Volumes 1–6 & 8, of a projected 30.
+Peirce died destitute in Milford, Pennsylvania, twenty years before his widow.
+Most important, each year from 1907 until James's death in 1910, James wrote to his friends in the Boston intelligentsia to request financial aid for Peirce; the fund continued even after James died.
+''Icon, index, symbol'': This typology, the best known one, classifies every sign according to the category of the sign's way of denoting its object—the icon (also called semblance or likeness) by a quality of its own, the index by factual connection to its object, and the symbol by a habit or rule for its interpretant.
+He was the son of Sarah Hunt Mills and Benjamin Peirce, himself a professor of astronomy and mathematics at Harvard University and perhaps the first serious research mathematician in America.
+Peirce used the word "determine" not in a strictly deterministic sense, but in a sense of "specializes," ''bestimmt'', involving variable amount, like an influence.
+He made major contributions to logic, but logic for him encompassed much of that which is now called epistemology and philosophy of science.
+Among Peirce's many sign typologies, three stand out, interlocked.
+In 1888, President Grover Cleveland appointed him to the Assay Commission.
+Peirce suffered from his late teens onward from a nervous condition then known as "facial neuralgia", which would today be diagnosed as trigeminal neuralgia.
+When "candid and disciplined minds" continue to disagree on a theoretical issue, even the theory's author should feel doubts about it.
+Edited by Carolyn Eisele, back in print.
+), he came in later years to regard himself as having wavered earlier as to just how positively real the modalities are.
+Most of his statistical writings promote the frequency interpretation of probability (objective ratios of cases), and many of his writings express skepticism about (and criticize the use of) probability when such models are not based on objective randomization.
+He was elected a resident fellow of the American Academy of Arts and Sciences in January 1867.
+The application was doomed; his nemesis Newcomb served on the Institution's executive committee, and its President had been the President of Johns Hopkins at the time of Peirce's dismissal.
+Over the years Peirce sought academic employment at various universities without success.
+He argued that, since all thought takes time, all thought is in signs and sign processes ("semiosis") such as the inquiry process.
+In the pragmatic way of thinking about conceivable practical implications, every thing has a purpose, and, as possible, its purpose should first be denoted.
+He said that overall he was a synechist, holding with reality of continuity, especially of space, time, and law.
+Reportedly the papers remain in unsatisfactory condition.
+In the second one, "How to Make Our Ideas Clear", Peirce discussed three grades of clearness of conception:
+In the categories one will discern, concentrated, the pattern that one finds formed by the three grades of clearness in "How To Make Our Ideas Clear" (1878 paper foundational to pragmatism), and in numerous other trichotomies in his work.
+For many years, the North American philosophy department most devoted to Peirce was the University of Toronto's, thanks in good part to the leadership of Thomas Goudge and David Savan.
+On Peirce and his contemporaries Ernst Schröder and Gottlob Frege, Hilary Putnam (1982) documented that Frege's work on the logic of quantifiers had little influence on his contemporaries, although it was published four years before the work of Peirce and his student Oscar Howard Mitchell.
+They also adopted and modified Peirce's notations, typographical variants of those now used.
+Both are current in singular and plural.
+In clearness's second grade (the "nominal" grade), he defined truth as a sign's correspondence to its object, and the real as the object of such correspondence, such that truth and the real are independent of that which you or I or any actual, definite community of inquirers think.
+Its ''Transactions'', an academic quarterly specializing in Peirce, pragmatism, and American philosophy, has appeared since 1965.
+Peirce proceeds to a critical theme in research practices and the shaping of theories:
+It trusts to "a single thread of inference depending often upon inconspicuous premisses" — when, instead, philosophy should, "like the successful sciences", proceed only from tangible, scrutinizable premisses and trust not to any one argument but instead to "the multitude and variety of its arguments" as forming, not a chain at least as weak as its weakest link, but "a cable whose fibers", soever "slender, are sufficiently numerous and intimately connected".
+In 1887 Peirce spent part of his inheritance from his parents to buy  of rural land near Milford, Pennsylvania, which never yielded an economic return.
+"It teaches that philosophy must begin in universal doubt" — when, instead, we start with preconceptions, "prejudices ... which it does not occur to us ''can'' be questioned", though we may find reason to question them later.
+Its general rationale is inductive: it succeeds often enough and it has no substitute in expediting us toward new truths.
+It is a method of sorting out conceptual confusions occasioned, for example, by distinctions that make (sometimes needed) formal yet not practical differences.
+The editors of those volumes, Charles Hartshorne and Paul Weiss, did not become Peirce specialists.
+The result is not 27 but instead ten classes of signs fully specified at this level of analysis.
+Peirce was a working scientist for 30 years, and arguably was a professional philosopher only during the five years he lectured at Johns Hopkins.
+Beginning in 1940, Alfred Tarski and his students rediscovered aspects of Peirce's larger vision of relational logic, developing the perspective of relation algebra.
+Peirce's philosophy includes (see below in related sections) a pervasive three-category system, belief that truth is immutable and is both independent from actual opinion (fallibilism) and discoverable (no radical skepticism), logic as formal semiotic on signs, on arguments, and on inquiry's ways—including philosophical pragmatism (which he founded), critical common-sensism, and scientific method&mdash;and, in metaphysics: Scholastic realism, e.g.
+He sometimes expounded the modes of inference by transformations of the categorical syllogism Barbara (AAA), for example in "Deduction, Induction, and Hypothesis" (1878).
+To refuse absolute theoretical certainty is the heart of ''fallibilism'', which Peirce unfolds into refusals to set up any of the listed barriers.
+Peirce was a Scholastic Realist, declaring for the reality of generals as early as 1868.
+His writings bear on a wide array of disciplines, including mathematics, logic, philosophy, statistics, astronomy, metrology, geodesy, experimental psychology, economics, linguistics, and the history and philosophy of science.
+For Peirce, First Philosophy, which he also called cenoscopy, is less basic than mathematics and more basic than the special sciences (of nature and mind).
+Peirce took years to write reports that he should have completed in months.
+This long-time standard edition drawn from Peirce's work from the 1860s to 1913 remains the most comprehensive survey of his prolific output from 1893 to 1913.
+At age 12, Charles read his older brother's copy of Richard Whately's ''Elements of Logic'', then the leading English-language text on the subject.
+Here he introduced that which he later called the pragmatic maxim.
+For example, because of the equation above, if a term's total amount of information stays the same, then the more that the term 'intends' or signifies about objects, the fewer are the objects to which the term 'extends' or applies.
+Peirce also did substantial mathematical calculations for Langley's research on powered flight.
+From 1890 on, he had a friend and admirer in Judge Francis C. Russell of Chicago, who introduced Peirce to editor Paul Carus and owner Edward C. Hegeler of the pioneering American philosophy journal ''The Monist'', which eventually published at least 14 articles by Peirce.
+It differs from the current looser sense that encompasses instinctive or anyway half-conscious inference.)
+Peirce was one of the founders of statistics.
+# Science of Review, as Ultimate Philosophy, arranges "...the results of discovery, beginning with digests, and going on to endeavor to form a philosophy of science".
+Influences radiate from points on parallel lines of inquiry in Aristotle's work, in such ''loci'' as: the basic terminology of psychology in ''On the Soul''; the founding description of sign relations in ''On Interpretation''; and the differentiation of inference into three modes that are commonly translated into English as ''abduction'', ''deduction'', and ''induction'', in the ''Prior Analytics'', as well as inference by analogy (called ''paradeigma'' by Aristotle), which Peirce regarded as involving the other three modes.
+Peirce's other published correspondence is largely limited to the 14 letters included in volume 8 of the ''Collected Papers'', and the 20-odd pre-1890 items included so far in the ''Writings''.
+These inextricably entangled questions of a dynamics of inquiry rooted in nature and nurture led him to develop his semiotic with very broadened conceptions of signs and inference, and, as its culmination, a theory of inquiry for the task of saying 'how science works' and devising research methods.
+An object either (i) is ''immediate'' to a sign and is the object as represented in the sign or (ii) is a ''dynamic'' object, the object as it really is, on which the immediate object is founded "as on bedrock".
+Some of the understanding needed by the mind depends on familiarity with the object.
+# Clearness in virtue of clearness of conceivable practical implications of the object's conceived effects, such as fosters fruitful reasoning, especially on difficult problems.
+Peirce elsewhere argues (1897) that logic's presupposition of fallibilism leads at length to the view that chance and continuity are very real (tychism and synechism).
+# Clearness of a conception familiar and readily used, even if unanalyzed and undeveloped.
+''Rule:'' All the beans from this bag are white.
+Influenced by his father Benjamin, Peirce argued that mathematics studies purely hypothetical objects and is not just the science of quantity but is more broadly the science which draws necessary conclusions; that mathematics aids logic, not vice versa; and that logic itself is part of philosophy and is the science ''about'' drawing conclusions necessary and otherwise.
+Living beyond their means soon led to grave financial and legal difficulties.
+In print and online.
+Peirce differed from James and the early John Dewey, in some of their tangential enthusiasms, in being decidedly more rationalistic and realistic, in several senses of those terms, throughout the preponderance of his own philosophical moods.
+), Spain (GEP), and Italy (CSP).
+Peirce in many writings holds that logic precedes metaphysics (ontological, religious, and physical).
+He saw logic as the formal branch of semiotics, of which he is a founder, and which foreshadowed the debate among logical positivists and proponents of philosophy of language that dominated 20th century Western philosophy; additionally, he defined the concept of abductive reasoning, as well as rigorously formulated mathematical induction and deductive reasoning.
+Qualitative Gradual Induction depends on estimating the relative evident weights of the various qualities of the subject class under investigation (CP 2.759; see also CP 7.114–20).
+Peirce said that a conception's meaning consists in "all general modes of rational conduct" implied by "acceptance" of the conception—that is, if one were to accept, first of all, the conception as true, then what could one conceive to be consequent general modes of rational conduct by all who accept the conception as true?—the whole of such consequent general modes is the whole meaning.
+There he also reviewed plausibility and inductive precision (issues of critique of arguments).
+The object determines the sign to determine another sign — the interpretant — to be related to the object ''as the sign is related to the object'', hence the interpretant, fulfilling its function as sign of the object, determines a further interpretant sign.
+Abduction, deduction, and induction make incomplete sense in isolation from one another but comprise a cycle understandable as a whole insofar as they collaborate toward the common end of inquiry.
+It equates any conception of an object to a conception of that object's effects to a general extent of the effects' conceivable implications for informed practice.
+1985: ''Historical Perspectives on Peirce's Logic of Science: A History of Science'', 2 volumes.
+Peirce agreed with Auguste Comte in regarding mathematics as more basic than philosophy and the special sciences (of nature and mind).
+# The method of the '''''a priori''''' — which promotes conformity less brutally but fosters opinions as something like tastes, arising in conversation and comparisons of perspectives in terms of "what is agreeable to reason."
+In recent years, U.S. Peirce scholars have clustered at Indiana University - Purdue University Indianapolis, home of the Peirce Edition Project (PEP), and the Pennsylvania State University.
+His writings have been translated into several languages, including German, French, Finnish, Spanish, and Swedish.
+It is more intellectual and respectable but, like the first two methods, sustains accidental and capricious beliefs, destining some minds to doubt it.
+He was productive in both (philosophical) logic and logic's mathematics, which were connected deeply in his work and thought.
+In 1903 he presented the following logical form for abductive inference:
+Early landmarks of the secondary literature include the monographs by Buchler (1939), Feibleman (1946), and Goudge (1950), the 1941 Ph.D. thesis by Arthur W. Burks (who went on to edit volumes 7 and 8), and the studies edited by Wiener and Young (1952).
+Borrowing a brace of concepts from Aristotle, Peirce examined three basic modes of inference — ''abduction'', ''deduction'', and ''induction'' — in his "critique of arguments" or "logic proper".
+''Case:'' These beans are beans from this bag.
+1931–58: ''Collected Papers of Charles Sanders Peirce'' (CP), 8 volumes, includes many published works, along with a selection of previously unpublished work and a smattering of his correspondence.
+Schiller's variant uses of the old name "pragmatism" and that he coined the new name because of the old name's growing use in "literary journals, where it gets abused".
+that was Harvard's first ''summa cum laude'' chemistry degree; and otherwise his academic record was undistinguished.
+He wrote many texts in James Mark Baldwin's ''Dictionary of Philosophy and Psychology'' (1901–5); half of those credited to him appear to have been written actually by Christine Ladd-Franklin under his supervision.
+From abduction, Peirce distinguishes induction as inferring, on the basis of tests, the proportion of truth in the hypothesis.
+Crude Induction, founded on experience in one mass (CP 2.759), presumes that future experience on a question will not differ utterly from all past experience (CP 2.756).
+# The method of '''authority''' — which overcomes disagreements but sometimes brutally.
+Peirce uses examples often from common experience, but defines and discusses such things as assertion and interpretation in terms of philosophical logic.
+2010: ''Philosophy of Mathematics: Selected Writings'' collects important writings by Peirce on the subject, many not previously in print.
+It defines three roles encompassing (1) the sign, (2) the sign's subject matter, called its ''object'', and (3) the sign's meaning or ramification as formed into a kind of effect called its ''interpretant'' (a further sign, for example a translation).
+Karl Popper viewed Peirce as "one of the greatest philosophers of all times".
+Putnam found that mathematicians and logicians learned about the logic of quantifiers through the independent work of Peirce and Mitchell, particularly through Peirce's "On the Algebra of Logic: A Contribution to the Philosophy of Notation" (1885), published in the premier American mathematical journal of the day, and cited by Peano and Schröder, among others, who ignored Frege.
+Peirce's nontenured position at Hopkins was the only academic appointment he ever held.
+Peirce argued that even to argue against the independence and discoverability of truth and the real is to presuppose that there is, about that very question under argument, a truth with just such independence and discoverability.
+He spent much of his last two decades unable to afford heat in winter and subsisting on old bread donated by the local baker.
+(Russell and Whitehead's ''Principia Mathematica'', published from 1910 to 1913, does not mention Peirce; Peirce's work was not widely known until later.)
+Peirce believed in God, and characterized such belief as founded in an instinct explorable in musing over the worlds of ideas, brute facts, and evolving habits — and it is a belief in God not as an ''actual'' or ''existent'' being (in Peirce's sense of those words), but all the same as a ''real'' being.
+(1997); and Randall Dipert's chapter in Cheryl Misak (2004).
+In 1903, Peirce called pragmatism "the logic of abduction".
+But this determination is not a succession of dyadic events, like a row of toppling dominoes; sign determination is triadic.
+This would be logic by the medieval definition taught for centuries: art of arts, science of sciences, having the way to the principles of all methods.
+Brent documents something Peirce never suspected, namely that his efforts to obtain academic employment, grants, and scientific respectability were repeatedly frustrated by the covert opposition of a major Canadian-American scientist of the day, Simon Newcomb.
+1975–87: ''Charles Sanders Peirce: Contributions to'' The Nation, 4 volumes, includes Peirce's more than 300 reviews and articles published 1869–1908 in ''The Nation''.
+Peirce's outline of the scientific method in §III–IV of "A Neglected Argument" is summarized below (except as otherwise noted).
+He formulated both pragmatism and statistical principles as aspects of scientific logic, in his "Illustrations of the Logic of Science" series of articles.
+The interpretant depends likewise on both the sign and the object — an object determines a sign to determine an interpretant.
+Peirce to symbolic logic are more numerous and varied than those of any other writer — at least in the nineteenth century."
+'''Inductive''' phase.
+# The method of '''tenacity''' (policy of sticking to initial belief) — which brings comforts and decisiveness but leads to trying to ignore contrary information and others' views as if truth were intrinsically private, not public.
+Yet he cited as causes, in a 1906 manuscript, his differences with James and Schiller and, in a 1908 publication, his differences with James as well as literary author Giovanni Papini's declaration of pragmatism's indefinability.
+He began but did not complete a number of books.
+Explicit deduction of consequences of the hypothesis as predictions about evidence to be found.
+Edited by Kenneth Laine Ketner, with commentary by Hilary Putnam, in print.
+For instance, a perturbation of Pluto's orbit is a sign about Pluto but ultimately not only about Pluto.
+Peirce's efforts may also have been hampered by a difficult personality; Brent conjectures as to further psychological difficulty.
+At Harvard, he began lifelong friendships with Francis Ellingwood Abbot, Chauncey Wright, and William James.
+* Philosophical algebraist William Kingdon Clifford and logician William Ernest Johnson, both British;
+Peirce held that, in practical affairs, slow and stumbling ratiocination is often dangerously inferior to instinct and traditional sentiment, and that the scientific method is best suited to theoretical research, which in turn should not be trammeled by the other methods and practical ends; reason's "first rule" is that, in order to learn, one must desire to learn and, as a corollary, must not block the way of inquiry.
+"It teaches that the ultimate test of certainty is...in the individual consciousness" — when, instead, in science a theory stays on probation till agreement is reached, then it has no actual doubters left.
+Critique of arguments in their various separate modes.
+It is an irreducible ''triadic relation'', according to Peirce.
+Guesses can be selected for trial strategically, for their caution (for which Peirce gave as example the game of Twenty Questions), breadth, or incomplexity.
+Peirce did some scientific and engineering consulting and wrote much for meager pay, mainly encyclopedic dictionary entries, and reviews for ''The Nation'' (with whose editor, Wendell Phillips Garrison, he became friendly).
+The one who did the most to help Peirce in these desperate times was his old friend William James, dedicating his ''Will to Believe'' (1897) to Peirce, and arranging for Peirce to be paid to give two series of lectures at or near Harvard (1898 and 1903).
+* The Polish school of logic and foundational mathematics, including Alfred Tarski;
+It can be anything thinkable, a quality, an occurrence, a rule, etc., even fictional, such as Prince Hamlet.
+He called it both ''semiotic'' and ''semeiotic''.
+The method goes against the social impulse and easily falters since one may well notice when another's opinion seems as good as one's own initial opinion.
+# A ''sign'' (or ''representamen'') represents, in the broadest possible sense of "represents".
+On April 20, 1877 he was elected a member of the National Academy of Sciences.
+In 1903 he arranged them, from more to less theoretically basic, thus:
+During the 1880s, Peirce's indifference to bureaucratic detail waxed while his Survey work's quality and timeliness waned.
+On May 14, 1867, the 27-year-old Peirce presented a paper entitled " On a New List of Categories" to the American Academy of Arts and Sciences, which published it the following year.
+An interpretant is a sign (a) of the object and (b) of the interpretant's "predecessor" (the interpreted sign) as a sign of the same object.
+The limited coverage, and defective editing and organization, of the ''Collected Papers'' led Max Fisch and others in the 1970s to found the Peirce Edition Project (PEP), whose mission is to prepare a more complete critical chronological edition.
+Peirce adds a third, the way of ''information'', including change of information, to integrate the other two approaches into a unified whole.
+1976: ''The New Elements of Mathematics by Charles S. Peirce'', 4 volumes in 5, included many previously unpublished Peirce manuscripts on mathematical subjects, along with Peirce's important published mathematical articles.
+Not clearly premised, but an inductive classing of objects of experience under general ideas.
+Today he is appreciated largely for his contributions to logic, mathematics, philosophy, scientific methodology, and semiotics, and for his founding of pragmatism.
+He went on to earn the A.B.
+1997: ''Pragmatism as a Principle and Method of Right Thinking'' collects Peirce's 1903 Harvard "Lectures on Pragmatism" in a study edition, including drafts, of Peirce's lecture manuscripts, which had been previously published in abridged form; the lectures now also appear in EP 2.
+Demonstration: Deductive Argumentation, Euclidean in procedure.
+The First Rule of Logic pertains to the mind's presuppositions in undertaking reason and logic, presuppositions, for instance, that truth and the real do not depend on yours or my opinion of them but do depend on representational relation and consist in the destined end in investigation taken far enough (see below).
+Peirce held that science achieves statistical probabilities, not certainties, and that spontaneity (absolute chance) is real (see Tychism on his view).
+Also, each of the three typologies is a three-way division, a trichotomy, via Peirce's three phenomenological categories: (1) quality of feeling, (2) reaction, resistance, and (3) representation, mediation.
+Inquiry is a kind of inference process, a manner of thinking and semiosis.
+Peirce also called abduction "retroduction", "presumption", and, earliest of all, "hypothesis".
+The object most accurately is the universe of discourse to which the partial or special object belongs.
+Its successes can be majestic and long-lasting, but it cannot regulate people thoroughly enough to withstand doubts indefinitely, especially when people learn about other societies present and past.
+The roles are distinct even when the things that fill those roles are not.
+(The above sense of the term "intuition" is almost Kant's, said Peirce.
+He introduced terms "confidence" and "likelihood" (before Jerzy Neyman and Fisher).
+His classifications, on which he worked for many years, draw on argument and wide knowledge, and are of interest both as a map for navigating his philosophy and as an accomplished polymath's survey of research in his time.
+"Deduction proves that something ''must'' be; Induction shows that something ''actually is'' operative; Abduction merely suggests that something ''may be''."
+Gradual Induction makes a new estimate of the proportion of truth in the hypothesis after each test, and is Qualitative or Quantitative.
+The process is logically structured to perpetuate itself, and is definitive of sign, object, and interpretant in general.
+A sign represents its object in some respect, which respect is the sign's ''ground''.
+Only seven volumes have appeared to date, but they cover the period from 1859–1892, when Peirce carried out much of his best-known work.
+Edited by Patricia Ann Turisi, in print.
+Crude or Gradual in procedure.
+Since 1950, there have been French, Italian, Spanish, British, and Brazilian Peirceans of note.
+Peirce's theory of signs is known to be one of the most complex semiotic theories due to its generalistic claim.
+In economics, relational logic was used by Frank P. Ramsey, John von Neumann, and Paul Samuelson to study preferences and utility and by Kenneth J. Arrow in ''Social Choice and Individual Values'', following Arrow's association with Tarski at City College of New York.
+# The method of '''science''' — wherein inquiry supposes that the real is discoverable but independent of particular opinion, such that, unlike in the other methods, inquiry can, by its own account, go wrong (fallibilism), not only right, and thus purposely tests itself and criticizes, corrects, and improves itself.
+The long-run validity of the rule of induction is deducible from the principle (presuppositional to reasoning in general) that the real "is only the object of the final opinion to which sufficient investigation would lead"; in other words, anything excluding such a process would never be real.
+Peirce goes on to list four common barriers to inquiry: (1) Assertion of absolute certainty; (2) maintaining that something is absolutely unknowable; (3) maintaining that something is absolutely inexplicable because absolutely basic or ultimate; (4) holding that perfect exactitude is possible, especially such as to quite preclude unusual and anomalous phenomena.
+Two traditional approaches to sign relation, necessary though insufficient, are the way of ''extension'' (a sign's objects, also called breadth, denotation, or application) and the way of ''intension'' (the objects' characteristics, qualities, attributes referenced by the sign, also called depth, comprehension, significance, or connotation).
+Only after Richard Robin (1967) catalogued this ''Nachlass'' did it become clear that Peirce had left approximately 1650 unpublished manuscripts, totaling over 100,000 pages, mostly still unpublished except on microfilm.
+Peirce began writing on semiotic in the 1860s, around the time when he devised his system of three categories.
+Evaluation of the hypothesis, inferring from observational or experimental tests of its deduced consequences.
+So, the first rule is, ''to wonder''.
+Scientific method excels the others finally by being deliberately designed to arrive — eventually — at the most secure beliefs, upon which the most successful practices can be based.
+That employment exempted Peirce from having to take part in the Civil War; it would have been very awkward for him to do so, as the Boston Brahmin Peirces sympathized with the Confederacy.
+Peirce outlined two fields, "Cenoscopy" and "Science of Review", both of which he called philosophy.
+Its successes can be brilliant but tend to be transitory.
+Yet Peirce's achievements were not immediately recognized.
+Peirce's pragmatism, as method and theory of definitions and conceptual clearness, is part of his theory of inquiry, which he variously called speculative, general, formal or universal rhetoric or simply methodeutic.
+"...which, by Inductive reasonings, appraises the different Probations singly, then their combinations, then makes self-appraisal of these very appraisals themselves, and passes final judgment on the whole result".
+The Survey sent him to Europe five times, first in 1871 as part of a group sent to observe a solar eclipse; there, he sought out Augustus De Morgan, William Stanley Jevons, and William Kingdon Clifford, British mathematicians and logicians whose turn of mind resembled his own.
+It has been believed that this was also why Peirce used "Santiago" ("St. James" in English) as a middle name, but he appeared in print as early as 1890 as Charles Santiago Peirce.
+1977: ''Semiotic and Significs: The Correspondence between C. S. Peirce and Victoria Lady Welby'' (2nd edition 2001), included Peirce's entire correspondence (1903–1912) with Victoria, Lady Welby.
+While at Johns Hopkins, he edited ''Studies in Logic'' (1883), containing chapters by himself and his graduate students.
+Peirce was born at 3 Phillips Place in Cambridge, Massachusetts.
+"Let us not pretend to doubt in philosophy what we do not doubt in our hearts."
+''Rheme, dicisign, argument'' (also called ''sumisign, dicisign, suadisign,'' also ''seme, pheme, delome,'' and regarded as very broadened versions of the traditional ''term, proposition, argument''): This typology classifies every sign according to the category which the interpretant attributes to the sign's way of denoting its object—the rheme, for example a term, is a sign interpreted to represent its object in respect of quality; the dicisign, for example a proposition, is a sign interpreted to represent its object in respect of fact; and the argument is a sign interpreted to represent its object in respect of habit or law.
+# Conditions for determining interpretations.
+In "A Neglected Argument for the Reality of God" (1908), Peirce sketches, for God's reality, an argument to a hypothesis of God as the Necessary Being, a hypothesis which he describes in terms of how it would tend to develop and become compelling in musement and inquiry by a normal person who is led, by the hypothesis, to consider as being purposed the features of the worlds of ideas, brute facts, and evolving habits (for example scientific progress), such that the thought of such purposefulness will "stand or fall with the hypothesis"; meanwhile, according to Peirce, the hypothesis, in supposing an "infinitely incomprehensible" being, starts off at odds with its own nature as a purportively true conception, and so, no matter how much the hypothesis grows, it both (A) inevitably regards itself as partly true, partly vague, and as continuing to define itself without limit, and (B) inevitably has God appearing likewise vague but growing, though God as the Necessary Being is not vague or growing; but the hypothesis will hold it to be ''more'' false to say the opposite, that God is purposeless.
+Global divisions of ways for phenomena to stand as signs, and the subsumption of inquiry and thinking within inference as a sign process, enable the study of inquiry on semiotics' three levels:
+Keith Devlin similarly referred to Peirce as one of the greatest philosophers ever.

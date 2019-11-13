@@ -1,0 +1,200 @@
+The Neumann family thus acquired the hereditary appellation ''Margittai'', meaning of Marghita.
+He was afraid of a "missile gap" and took several more steps to achieve his goal of keeping up with the Soviets:
+At the age of 15, he began to study advanced calculus under the renowned analyst Gábor Szegő.
+Von Neumann's team performed the world's first numerical weather forecasts on the ENIAC computer; von Neumann published the paper ''Numerical Integration of the Barotropic Vorticity Equation'' in 1950.
+The mathematics of ''artificial viscosity'' smoothed the shock transition without sacrificing basic physics.
+This ratio was applied to the residuals from regression models and is commonly known as the Durbin–Watson statistic for testing the null hypothesis that the errors are serially independent against the alternative that they follow a stationary first order autoregression.
+Though this method has been criticized as crude, von Neumann was aware of this: he justified it as being faster than any other method at his disposal, writing that "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."
+When Cuthbert Hurd hired him as a consultant to IBM, Hurd often quietly paid the fines for his traffic tickets.
+Von Neumann's interest in weather systems and meteorological prediction led him to propose manipulating the environment by spreading colorants on the polar ice caps to enhance absorption of solar radiation (by reducing the albedo).
+Halmos recounts a story told by Nicholas Metropolis, concerning the speed of von Neumann's calculations, when somebody asked von Neumann to solve the famous fly puzzle:
+Von Neumann was a founding figure in computing.
+Stochastic computing was first introduced in a pioneering paper by von Neumann in 1953.
+1908), and Paul Erdős (b.
+He believed that much of his mathematical thought occurred intuitively, and he would often go to sleep with a problem unsolved, and know the answer immediately upon waking up.
+The school system produced a generation noted for intellectual achievement, that included Theodore von Kármán (b.
+Neumann János became Margittai Neumann János (John Neumann of Marghita), which he later changed to the German Johann von Neumann.
+His prewar analysis of how France would stand up to Germany is often quoted.
+Based on his observation alone, von Neumann estimated the test had resulted in a blast equivalent to  but Enrico Fermi produced a more accurate estimate of 10 kilotons by dropping scraps of torn-up paper as the shock wave passed his location and watching how far they scattered.
+The paper, whose premature distribution nullified the patent claims of EDVAC designers J. Presper Eckert and John Mauchly, described a computer architecture in which the data and the program are both stored in the computer's memory in the same address space.
+Subsequently, Denis Sargan and Alok Bhargava extended the results for testing if the errors on a regression model follow a Gaussian random walk (''i.e.
+Instead, governesses taught von Neumann, his brothers and his cousins.
+The next computer that von Neumann designed was the IAS machine at the Institute for Advanced Study in Princeton, New Jersey.
+Ulam noted that von Neumann's way of thinking might not be visual, but more of an aural one.
+If one set belongs to another then the first must necessarily come before the second in the succession.
+Although the single-memory, stored program architecture is commonly called von Neumann architecture as a result of von Neumann's paper, the architecture's description was based on the work of J. Presper Eckert and John William Mauchly, inventors of the ENIAC computer at the University of Pennsylvania.
+By the age of 8, von Neumann was familiar with differential and integral calculus, but he was particularly interested in history, reading his way through Wilhelm Oncken's 46-volume ''Allgemeine Geschichte in Einzeldarstellungen''.
+along with two inequality systems expressing economic efficiency.
+This was one of the best schools in Budapest, part of a brilliant education system designed for the elite.
+His algorithm for simulating a fair coin with a biased coin is used in the "software whitening" stage of some hardware random number generators.
+On one occasion I tested his ability by asking him to tell me how ''A Tale of Two Cities'' started.
+Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
+Under the Hungarian system, children received all their education at the one gymnasium.
+Herman Goldstine wrote: One of his remarkable abilities was his power of absolute recall.
+His goal was to quickly develop ICBMs and the compact hydrogen bombs that they could deliver to the USSR, and he knew the Soviets were doing similar work because the CIA interviewed German rocket scientists who were allowed to return to Germany, and von Neumann had planted a dozen technical people in the CIA.
+He never thought much of "the American system of claiming personal priority for everything."
+The involvement included frequent trips by train to the project's secret research facilities in Los Alamos, New Mexico.
+This experimental fact is translatable into logic as the ''non-commutativity'' of conjunction .
+In measure theory, the "problem of measure" for an -dimensional Euclidean space  may be stated as: "does there exist a positive, normalized, invariant, and additive set function on the class of all subsets of ?"
+Over the following two years, he became a consultant to the Central Intelligence Agency (CIA), a member of the influential General Advisory Committee of the Atomic Energy Commission, a consultant to the newly established Lawrence Livermore National Laboratory, and a member of the Scientific Advisory Group of the United States Air Force.
+Stan Ulam, who knew von Neumann well, described his mastery of mathematics this way: "Most mathematicians know one method.
+After having completed the axiomatization of set theory, he began to confront the axiomatization of quantum mechanics.
+The concept of a universal constructor based on the von Neumann cellular automaton was fleshed out in his posthumous work ''Theory of Self Reproducing Automata''.
+During a Senate committee hearing he described his political ideology as "violently anti-communist, and much more militaristic than the norm".
+Most people avoid thinking if they can, some of us are addicted to thinking, but von Neumann actually enjoyed thinking, maybe even to the exclusion of everything else."
+Von Neumann continued unperturbed in his work and became, along with Edward Teller, one of those who sustained the hydrogen bomb project.
+However, the theory could not be implemented until advances in computing of the 1960s.
+In the proceedings of a conference on von Neumann's growth model, Paul Samuelson said that many mathematicians had developed methods useful to economists, but that von Neumann was unique in having made significant contributions to economic theory itself.
+In his doctoral thesis of 1925, von Neumann demonstrated two techniques to exclude such sets—the ''axiom of foundation'' and the notion of ''class.''
+Von Neumann replaced classical logic with a logic constructed in orthomodular lattices (isomorphic to the lattice of subspaces of the Hilbert space of a given physical system).
+During this time he contributed to the development of the Monte Carlo method, which allowed solutions to complicated problems to be approximated using random numbers.
+For example, with Robert D. Richtmyer he developed an algorithm defining ''artificial viscosity'' that improved the understanding of shock waves.
+He realized, in 1926, that a state of a quantum system could be represented by a point in a (complex) Hilbert space that, in general, could be infinite-dimensional even for a single particle.
+He noticed that Walras's General Equilibrium Theory and Walras' Law, which led to systems of simultaneous linear equations, could produce the absurd result that the profit could be maximized by producing and selling a negative quantity of a product.
+On New Year's Day in 1930, von Neumann married Mariette Kövesi, who had studied economics at Budapest University.
+Three generations of the Kann family lived in spacious apartments above the Kann-Heller offices in Budapest; von Neumann's family occupied an 18-room apartment on the top floor.
+Such strategies, which minimize the maximum loss for each player, are called optimal.
+While the dimensions of the subspaces of projective geometries are a discrete set (the non-negative integers), the dimensions of the elements of a continuous geometry can range continuously across the unit interval 0,1.
+Von Neumann made fundamental contributions to mathematical statistics.
+He was quoted in 1950 remarking, "If you say why not bomb the Soviets tomorrow, I say, why not today?
+Formal schooling did not start in Hungary until the age of ten.
+To demonstrate that the addition of this new axiom to the others did not produce contradictions, von Neumann introduced a method of demonstration, called the ''method of inner models'', which later became an essential instrument in set theory.
+In 1955, von Neumann became a commissioner of the AEC.
+His analysis of the structure of self-replication preceded the discovery of the structure of DNA.
+Von Neumann reportedly said in explanation that Pascal had a point, referring to Pascal's Wager.
+This paper has been called the greatest paper in mathematical economics by several authors, who recognized its introduction of fixed-point theorems, linear inequalities, complementary slackness, and saddlepoint duality.
+Von Neumann, following his work on rings of operators, weakened those axioms to describe a broader class of lattices, the continuous geometries.
+Bub also suggests that von Neumann was aware of this limitation, and that von Neumann did not claim that his proof completely ruled out hidden variable theories.
+He died at age 53 on February 8, 1957, at the Walter Reed Army Medical Center in Washington, D.C., under military security lest he reveal military secrets while heavily medicated.
+Von Neumann's ability to instantaneously perform complex operations in his head stunned other mathematicians.
+The study of von Neumann's model of an expanding economy continues to interest mathematical economists with interests in computational economics.
+Von Neumann's algorithm was the first interior point method of linear programming.
+Despite his disagreement with Oppenheimer over the need for a crash program to develop the hydrogen bomb, he testified on the latter's behalf at the 1954 Oppenheimer security hearing, at which he asserted that Oppenheimer was loyal, and praised him for his helpfulness once the program went ahead.
+In this formalism of quantum mechanics, observable quantities such as position or momentum are represented as linear operators acting on the Hilbert space associated with the quantum system.
+This new mathematical formulation included as special cases the formulations of both Heisenberg and Schrödinger.
+In a number of von Neumann's papers, the methods of argument he employed are considered even more significant than the results.
+He concluded that the entire physical universe could be made subject to the universal wave function.
+Von Neumann proved his minimax theorem in 1928.
+Max believed that knowledge of languages other than Hungarian was essential, so the children were tutored in English, French, German and Italian.
+Implosion was the only method that could be used with the plutonium-239 that was available from the Hanford Site.
+A later friend of Ulam's, Gian-Carlo Rota, wrote: "They would spend hours on end gossiping and giggling, swapping Jewish jokes, and drifting in and out of mathematical talk."
+The concept of creating a propositional calculus for quantum logic was first outlined in a short section in von Neumann's 1932 work, but in 1936, the need for the new propositional calculus was demonstrated through several proofs.
+Collectively, they were sometimes known as Martians.
+Von Neumann's abstract treatment permitted him also to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables," as in classical statistical mechanics.
+In 1950, von Neumann became a consultant to the Weapons Systems Evaluation Group (WSEG), whose function was to advise the Joint Chiefs of Staff and the United States Secretary of Defense on the development and use of new technologies.
+The reason for this is that a quantum disjunction, unlike the case for classical disjunction, can be true even when both of the disjuncts are false and this is, in turn, attributable to the fact that it is frequently the case, in quantum mechanics, that a pair of alternatives are semantically determinate, while each of its members are necessarily indeterminate.
+For example, photons cannot pass through two successive filters that are polarized perpendicularly (''e.g.
+In 1941, he derived the exact distribution of the ratio of the mean square of successive differences to the sample variance for independent and identically normally distributed variables.
+During World War II he worked on the Manhattan Project, developing the mathematical models behind the explosive lenses used in the implosion-type nuclear weapon.
+Along with theoretical physicist Edward Teller, mathematician Stanislaw Ulam, and others, he worked out key steps in the nuclear physics involved in thermonuclear reactions and the hydrogen bomb.
+* An intuitive feeling for the logical structure of any new mathematical theory;
+In the case of distribution, it is therefore possible to have a situation in which '''', while .
+The SM-65 Atlas passed its first fully functional test in 1959, two years after his death.
+He also became an adviser to the Armed Forces Special Weapons Project (AFSWP), which was responsible for the military aspects on nuclear weapons.
+While consulting for the Moore School of Electrical Engineering at the University of Pennsylvania on the EDVAC project, von Neumann wrote an incomplete ''First Draft of a Report on the EDVAC''.
+While von Neumann did not originate the "implosion" concept, he was one of its most persistent proponents, encouraging its continued development against the instincts of many of his colleagues, who felt such a design to be unworkable.
+Garrett Birkhoff writes: "John von Neumann's brilliant mind blazed over lattice theory like a meteor".
+Von Neumann was born Neumann János Lajos to wealthy Jewish parents of the Haskalah (in Hungarian the family name comes first and his given names equate to John Lewis in English).
+Von Neumann made fundamental contributions in exploration of problems in numerical hydrodynamics.
+Von Neumann's assessment that the Soviets had a lead in missile technology, considered pessimistic at the time, was soon proven correct in the Sputnik crisis.
+Von Neumann made foundational contributions to ergodic theory, in a series of articles published in 1932.
+When Heisenberg was informed von Neumann had clarified the difference between an unbounded operator that was a self-adjoint operator and one that was merely symmetric, Heisenberg replied "Eh?
+It was a faster version of the IAS machine and formed the basis for the commercially successful IBM 704.
+Von Neumann is credited with the equilibrium strategy of mutual assured destruction, providing the deliberately humorous acronym, MAD.
+In his 1936 paper on analytic measure theory, he used the Haar theorem in the solution of Hilbert's fifth problem in the case of compact groups.
+The problem of an adequate axiomatization of set theory was resolved implicitly about twenty years later by Ernst Zermelo and Abraham Fraenkel.
+The Fuchs–von Neumann patent used radiation implosion, but not in the same way as is used in what became the final hydrogen bomb design, the Teller–Ulam design.
+The ''physics'' of quantum mechanics was thereby reduced to the ''mathematics'' of Hilbert spaces and linear operators acting on them.
+This led him to a large number of military consultancies, primarily for the Navy, which in turn led to his involvement in the Manhattan Project.
+He collaborated with Klaus Fuchs on further development of the bomb, and in 1946 the two filed a secret patent on "Improvement in Methods and Means for Utilizing Nuclear Energy", which outlined a scheme for using a fission bomb to compress fusion fuel to initiate nuclear fusion.
+Von Neumann provided an abstract exploration of dimension in completed complemented modular topological lattices (properties that arise in the lattices of subspaces of inner product spaces): "Dimension is determined, up to a positive linear transformation, by the following two properties.
+1902), Edward Teller (b.
+*He modified the ENIAC by making it programmable and then wrote programs for it to do the H-bomb calculations verifying that the Teller-Ulam design was feasible and to develop it further.
+For his wartime services, von Neumann was awarded the Navy Distinguished Civilian Service Award in July 1946, and the Medal for Merit in October 1946.
+Von Neumann's method used a pivoting algorithm between simplices, with the pivoting decision determined by a nonnegative least squares subproblem with a convexity constraint (projecting the zero-vector onto the convex hull of the active simplex).
+At Princeton he received complaints for regularly playing extremely loud German march music on his gramophone, which distracted those in neighbouring offices, including Albert Einstein, from their work.
+Von Neumann became a naturalized citizen of the United States in 1937, and immediately tried to become a lieutenant in the United States Army's Officers Reserve Corps.
+Max had died in 1929.
+In October 1938, von Neumann married Klara Dan, whom he had met during his last trips back to Budapest prior to the outbreak of World War II.
+Along with four other scientists and various military personnel, von Neumann was included in the target selection committee responsible for choosing the Japanese cities of Hiroshima and Nagasaki as the first targets of the atomic bomb.
+as he had never seen such beautiful evening clothes.
+The von Neumann neighborhood, in which each cell in a two-dimensional grid has the four orthogonally adjacent grid cells as neighbors, continues to be used for other cellular automata.
+He passed his final examinations for his Ph.D. soon after graduating from ETH Zurich in 1926.
+With this contribution of von Neumann, the axiomatic system of the theory of sets avoided the contradictions of earlier systems, and became usable as a foundation for mathematics, despite the lack of a proof of its consistency.
+'', possess a unit root) against the alternative that they are a stationary first order autoregression.
+First few von Neumann ordinals
+Wigner was a year ahead of von Neumann at the Lutheran School.
+The von Neumann bicommutant theorem shows that the analytic definition is equivalent to a purely algebraic definition as an algebra of symmetries.
+For example, the uncertainty principle, according to which the determination of the position of a particle prevents the determination of its momentum and vice versa, is translated into the ''non-commutativity'' of the two corresponding operators.
+In 1933, von Neumann was offered a lifetime professorship on the faculty of the Institute for Advanced Study when the institute's plan to appoint Hermann Weyl fell through.
+For example, Norbert Wiener had mastered Fourier transforms.
+In 1938, he was awarded the Bôcher Memorial Prize for his work in analysis.
+This was repeated a couple of times, and then von Neumann became a coauthor and the paper became 100 pages long.
+Von Neumann's famous 9-page paper started life as a talk at Princeton and then became a paper in German, which was eventually translated into English.
+The public interest in this work was such that ''The New York Times'' ran a front-page story.
+The second approach to the problem of sets belonging to themselves took as its base the notion of class, and defines a set as a class which belongs to other classes, while a ''proper class'' is defined as a class which does not belong to other classes.
+It was in von Neumann's 1944 papers that the expression "kilotons" appeared for the first time.
+A von Neumann algebra is a *-algebra of bounded operators on a Hilbert space that is closed in the weak operator topology and contains the identity operator.
+After the war, Robert Oppenheimer remarked that the physicists involved in the Manhattan project had "known sin".
+After a series of failed attempts with models, this was achieved by George Kistiakowsky, and the construction of the Trinity bomb was completed in July 1945.
+Von Neumann anglicized his first name to John, keeping the German-aristocratic surname of von Neumann.
+By the principle of indeterminacy, the value of the spin in the direction ''y'' will be completely indeterminate for '''ɸ'''.
+He invited a Roman Catholic priest, Father Anselm Strittmatter, O.S.B., to visit him for consultation.
+Beginning in the late 1930s, von Neumann developed an expertise in explosions—phenomena that are difficult to model mathematically.
+He also eventually came up with the idea of using more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly".
+The direct integral was introduced in 1949 by John von Neumann.
+The couple divorced in 1937.
+When computers solved hydrodynamic or aerodynamic problems, they tried to put too many computational grid points at regions of sharp discontinuity (shock waves).
+He had two younger brothers: Michael, born in 1907, and Nicholas, who was born in 1911.
+Von Neumann entered the Lutheran Fasori Evangelikus Gimnázium in 1911.
+However, Gödel had already discovered this consequence, now known as his second incompleteness theorem, and he sent von Neumann a preprint of his article containing both incompleteness theorems.
+Von Neumann introduced the study of rings of operators, through the von Neumann algebras.
+Teller also said "von Neumann would carry on a conversation with my 3-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us.
+Von Neumann raised the intellectual and mathematical level of economics in several stunning publications.
+He passed the exams easily, but was ultimately rejected because of his age.
+He took great care over his clothing, and would always wear formal suits, once riding down the Grand Canyon astride a mule in a three-piece pin-stripe.
+Some mathematicians have mastered two methods and might really impress someone who knows only one of them.
+Von Neumann found some faults in that book and corrected them, for example, replacing equations by inequalities.
+He was buried at Princeton Cemetery in Princeton, Mercer County, New Jersey.
+John's mother was Kann Margit (English: Margaret Kann); her parents were Jakab Kann and Katalin Meisels.
+He also "moved heaven and earth" to bring MAD about.
+Von Neumann's place of birth was Budapest in the Kingdom of Hungary which was then part of the Austro-Hungarian Empire.
+"It seems fair to say that if the influence of a scientist is interpreted broadly enough to include impact on fields beyond science proper, then John von Neumann was probably the most influential mathematician who ever lived," wrote Miklós Rédei in "Selected Letters."
+The feasibility of an ICBM owed as much to improved, smaller warheads as it did to developments in rocketry, and his understanding of the former made his advice invaluable.
+Some of von Neumann's instant solutions to the problems in calculus posed by Szegő, sketched out on his father's stationery, are still on display at the von Neumann archive in Budapest.
+He was a non-smoker.
+Suppose that the state '''ɸ''' of a certain electron verifies the proposition "the spin of the electron in the ''x'' direction is positive."
+Von Neumann's results have been viewed as a special case of linear programming, where von Neumann's model uses only nonnegative matrices.
+He accepted this position and used it to further the production of compact hydrogen bombs suitable for Intercontinental ballistic missile delivery.
+Earlier, Menger and Birkhoff had axiomatized complex projective geometry in terms of the properties of its lattice of linear subspaces.
+Since there were few posts in Hungary for mathematicians, and those were not well-paid, his father wanted von Neumann to follow him into industry and therefore invest his time in a more financially useful endeavor than mathematics.
+He arranged its financing, and the components were designed and built at the RCA Research Laboratory nearby.
+The Fuchs–von Neumann work was passed on to the Soviet Union by Fuchs as part of his nuclear espionage, but it was not used in the Soviets' own, independent development of the Teller–Ulam design.
+"Thus, according to von Neumann, it is the change of group that makes a difference, not the change of space."
+He involved himself in correcting the severe shortage of tritium and lithium 6 needed for these compact weapons, and he argued against settling for the intermediate range missiles that the Army wanted.
+One of the rooms in the apartment was converted into a library and reading room, with bookshelves from ceiling to floor.
+A copy was contained in a private library Max purchased.
+After the war, he served on the General Advisory Committee of the United States Atomic Energy Commission, and later as one of its commissioners.
+* An intuitive feeling for the combinatorial superstructure of new theories.
+By then von Neumann had already written his famous articles on operator theory, and the application of this work was instrumental in the von Neumann mean ergodic theorem.
+He said: "Oh, France won't matter."
+The deepest part of the proof concerns the equivalence of perspectivity with "projectivity by decomposition"—of which a corollary is the transitivity of perspectivity."
+In a chapter of ''The Mathematical Foundations of Quantum Mechanics'', von Neumann deeply analyzed the so-called measurement problem.
+This latter property can be illustrated by a simple example.
+He read it and said to Morgenstern that he should put more in it.
+Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, with his 1932 work ''Mathematical Foundations of Quantum Mechanics''.
+The mathematician Jean Dieudonné said that von Neumann "may have been the last representative of a once-flourishing and numerous group, the great mathematicians who were equally at home in pure and applied mathematics and who throughout their careers maintained a steady production in both directions", while Peter Lax described him as possessing the "most scintillating intellect of this century".
+That is, I think, something unique."
+Von Neumann founded the field of game theory as a mathematical discipline.
+If you say today at five o'clock, I say why not one o'clock?"
+Independently, Leonid Kantorovich's functional analytic work on mathematical economics also focused attention on optimization theory, non-differentiability, and vector lattices.
+However, in 2010, Jeffrey Bub argued that Bell had misconstrued von Neumann's proof, and pointed out that the proof, though not valid for all hidden variable theories, does rule out a well-defined and important subset.
+One of von Neumann's analyses was to reduce the classification of von Neumann algebras on separable Hilbert spaces to the classification of factors.
+'', one horizontally and the other vertically), and therefore, ''a fortiori'', it cannot pass if a third filter polarized diagonally is added to the other two, either before or after them in the succession, but if the third filter is added ''in between'' the other two, the photons will, indeed, pass through.
+Von Neumann acknowledged Gödel's priority in his next letter.
+Von Neumann's principal contribution to the atomic bomb was in the concept and design of the explosive lenses needed to compress the plutonium core of the Fat Man weapon that was later dropped on Nagasaki.
+Von Neumann liked to eat and drink; his wife, Klara, said that he could count everything except calories.
+In 1929, he briefly became a ''privatdozent'' at the University of Hamburg, where the prospects of becoming a tenured professor were better, but in October of that year a better offer presented itself when he was invited to Princeton University in Princeton, New Jersey.
+Noting that the Earth was only  colder during the last glacial period, he said that the burning of coal and oil would result in "a general warming of the Earth by about one degree Fahrenheit."
+This architecture is to this day the basis of modern computer design, unlike the earliest computers that were "programmed" using a separate memory device such as a paper tape or plugboard.
+The von Neumanns, Klara and John, were active socially within the Princeton academic community.

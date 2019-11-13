@@ -1,0 +1,200 @@
+While a regular rain pattern is usually vital to healthy plants, too much or too little rainfall can be harmful, even devastating to crops.
+This causes the partial or complete melting of any snowflakes falling through the warm layer.
+Adiabatic cooling occurs when air rises and expands.
+In mid-latitudes, convective precipitation is intermittent and often associated with baroclinic boundaries such as cold fronts, squall lines, and warm fronts.
+The previous dry season leads to food shortages into the wet season, as the crops have yet to mature.
+Moisture is removed by orographic lift, leaving drier air (see katabatic wind) on the descending and generally warming, leeward side where a rain shadow is observed.
+An exception to this rule is in Hawaii, where upslope flow due to the trade winds lead to one of the wettest locations on Earth.
+As these larger water droplets descend, coalescence continues, so that drops become heavy enough to overcome air resistance and fall as rain.
+There has been an increase in the number of heavy precipitation events over many areas during the past century, as well as an increase since the 1970s in the prevalence of droughts—especially in the tropics and subtropics.
+The difficulties in using gauge data are that 1) their availability is limited, as noted above, and 2) the best analyses of gauge data take two months or more after the observation time to undergo the necessary transmission, assembly, processing and quality control.
+The fall rate of very small droplets is negligible, hence clouds do not fall out of the sky; precipitation will only occur when these coalesce into larger drops.
+The dew point is the temperature to which a parcel must be cooled in order to become saturated, and (unless super-saturation occurs) condenses to water.
+The METAR code for snow is SN, while snow showers are coded SHSN.
+A concept used in precipitation measurement is the hydrometeor.
+A tropical savanna is a grassland biome located in semi-arid to semi-humid climate regions of subtropical and tropical latitudes, with rainfall between  a year.
+The shape of the snowflake is determined broadly by the temperature and humidity at which it is formed.
+The band of precipitation that is associated with their warm front is often extensive, forced by weak upward vertical motion of air over the frontal boundary which condenses as it cools and produces precipitation within an elongated band, which is wide and stratiform, meaning falling out of nimbostratus clouds.
+Partly as a result of this warming, monthly rainfall is about 28% greater between  downwind of cities, compared with upwind.
+Areas with wet seasons are dispersed across portions of the tropics and subtropics.
+However, most precipitation data sets in current use do not employ these data sources.
+Over the contiguous United States, total annual precipitation increased at an average rate of 6.1% per century since 1900, with the greatest increases within the East North Central climate region (11.6% per century) and the South (11.1%).
+Raindrops have sizes ranging from  to  mean diameter, above which they tend to break up.
+Intensity and duration of rainfall are usually inversely related, i.e., high intensity storms are likely to be of short duration and low intensity storms can have a long duration.
+QPF can be generated on a quantitative, forecasting amounts, or a qualitative, forecasting the probability of a specific amount, basis.
+Forecast models show significant sensitivity to humidity levels within the planetary boundary layer, or in the lowest levels of the atmosphere, which decreases with height.
+Southwest of extratropical cyclones, curved cyclonic flow bringing cold air across the relatively warm water bodies can lead to narrow lake-effect snow bands.
+Approximately 505,000&nbsp;km3 (121,000&nbsp;mi3) of water falls as precipitation each year, 398,000&nbsp;km3 (95,000&nbsp;cu&nbsp;mi) of it over the oceans.
+The goal is to provide "best" estimates of precipitation on a uniform time/space grid, usually for as much of the globe as possible.
+The rainfall will be greater and the flooding will be worse than the worst storm expected in any single year.
+In meteorology, '''precipitation''' is any product of the condensation of atmospheric water vapor that falls under gravity.
+Ice pellets are usually (but not always) smaller than hailstones.
+The term ''green season'' is also sometimes used as a euphemism by tourist authorities.
+In other cases, the goal is producing the best instantaneous satellite estimate, which is the High Resolution Precipitation Product approach.
+Coalescence occurs when water droplets fuse to create larger water droplets, or when water droplets freeze onto an ice crystal, which is known as the Bergeron process.
+Rain forests are characterized by high rainfall, with definitions setting minimum normal annual rainfall between .
+Thermal infrared (IR) sensors record a channel around 11 micron wavelength and primarily give information about cloud tops.
+Evaporative cooling occurs when moisture is added to the air through evaporation, which forces the air temperature to cool to its wet-bulb temperature, or until it reaches saturation.
+The corresponding depletion of water vapour causes the droplets to evaporate, meaning that the ice crystals grow at the droplets' expense.
+This includes the vast expanses of ocean and remote land areas.
+Precipitation may occur on other celestial bodies, e.g.
+North and south of this are regions of descending air that form subtropical ridges where precipitation is low; the land surface underneath is usually arid, which forms most of the Earth's deserts.
+It can also form due to the lifting of advection fog during breezy conditions.
+The main forms of precipitation include  drizzle, rain, sleet, snow, graupel and hail.
+Weighing gauges with antifreeze should do fine with snow, but again, the funnel needs to be removed before the event begins.
+In large hailstones, latent heat released by further freezing may melt the outer shell of the hailstone.
+Windward sides face the east to northeast trade winds and receive much more rainfall; leeward sides are drier and sunnier, with less rain and less cloud cover.
+Additional sensor channels and products have been demonstrated to provide additional useful information including visible channels, additional IR channels, water vapor channels and atmospheric sounding retrievals.
+Rainfall rates downwind of cities are increased between 48% and 116%.
+For those looking to measure rainfall the most inexpensively, a can that is cylindrical with straight sides will act as a rain gauge if left out in the open, but its accuracy will depend on what ruler is used to measure the rain with.
+Water vapour normally begins to condense on condensation nuclei such as dust, ice, and salt in order to form clouds.
+In Hawaii, Mount Waiʻaleʻale, on the island of Kauai, is notable for its extreme rainfall, as it has the second highest average annual rainfall on Earth, with .
+In other cases, social, technical or administrative issues prevent the dissemination of gauge observations.
+Similar ascent is seen around tropical cyclones outside of the eyewall, and in comma-head precipitation patterns around mid-latitude cyclones.
+Ice pellets form when a layer of above-freezing air exists with sub-freezing air both above and below.
+Stones just larger than golf ball-sized are one of the most frequently reported hail sizes.
+Tropical cyclones, a source of very heavy rainfall, consist of large air masses several hundred miles across with low pressure at the centre and with winds blowing inward towards the centre in either a clockwise direction (southern hemisphere) or counterclockwise (northern hemisphere).
+Lake-effect snowfall can be locally heavy.
+The METAR identifier for diamond dust within international hourly weather reports is IC.
+When air turbulence occurs, water droplets collide, producing larger droplets.
+Since the late 1990s, several algorithms have been developed to combine precipitation data from multiple satellites' sensors, seeking to emphasize the strengths and minimize the weaknesses of the individual input data sets.
+The intensity of a storm can be predicted for any return period and storm duration, from charts based on historic data for the location.
+Precipitation forms as smaller droplets coalesce via collision with other rain drops or ice crystals within a cloud.
+Snow crystals form when tiny supercooled cloud droplets (about 10 μm in diameter) freeze.
+Hail has a diameter of  or more.
+In many cases, one of the modern multi-satellite data sets is the best choice for general use.
+Frozen forms of precipitation include snow, ice needles, ice pellets, hail, and graupel.
+GR is derived from the French word grêle.
+In mountainous parts of the world subjected to relatively consistent winds (for example, the trade winds), a more moist climate usually prevails on the windward side of a mountain than on the leeward or downwind side.
+Smaller-sized hail, as well as snow pellets, use the coding of GS, which is short for the French word grésil.
+Starting in the mid to late 1990s, QPFs were used within hydrologic forecast models to simulate impact to rivers throughout the United States.
+The urban heat island warms cities 0.6 to 5.6&nbsp;°C (1.1 to 10.1&nbsp;°F) above surrounding suburbs and rural areas.
+Liquid forms of precipitation include rain and drizzle.
+Some cities induce a total precipitation increase of 51%.
+The Köppen classification depends on average monthly values of temperature and precipitation.
+In the Northern Hemisphere, poleward is towards the North Pole, or north.
+As a result, while estimates that include gauge data may provide a more accurate depiction of the "true" precipitation, they are generally not suited for real- or near-real-time applications.
+The METAR code for rain is RA, while the coding for rain showers is SHRA.
+These large crystals are an efficient source of precipitation, since they fall through the atmosphere due to their mass, and may collide and stick together in clusters, or aggregates.
+Storm systems affect the state with heavy rains between October and March.
+The climate is characterized by hot, dry summers and cool, wet winters.
+Although cyclones can take an enormous toll in lives and personal property, they may be important factors in the precipitation regimes of places they impact, as they may bring much-needed precipitation to otherwise dry regions.
+Plastic gauges have markings on the inner cylinder down to 0.25&nbsp;mm (0.01&nbsp;in) resolution, while metal gauges require use of a stick designed with the appropriate 0.25&nbsp;mm (0.01&nbsp;in) markings.
+The Quantitative Precipitation Forecast (abbreviated QPF) is the expected amount of liquid precipitation accumulated over a specified time period over a specified area.
+Guinness World Records list the world's largest snowflakes as those of January 1887 at Fort Keogh, Montana; allegedly one measured 38&nbsp;cm (15&nbsp;inches) wide.
+Once a hailstone becomes too heavy to be supported by the storm's updraft, it falls from the cloud.
+Areas in their path can receive a year's worth of rainfall from a tropical cyclone passage.
+The storm's updraft blows the hailstones to the upper part of the cloud.
+A QPF will be specified when a measurable precipitation type reaching a minimum threshold is forecast for any hour during a QPF valid period.
+This process is known as the Wegener–Bergeron–Findeisen process.
+In areas with wet and dry seasons, soil nutrients diminish and erosion increases during the wet season.
+Once the snowfall/ice is finished accumulating, or as 300&nbsp;mm (12&nbsp;in) is approached, one can either bring it inside to melt, or use lukewarm water to fill the inner cylinder with in order to melt the frozen precipitation in the outer cylinder, keeping track of the warm fluid added, which is subsequently subtracted from the overall total once all the ice/snow is melted.
+The updraft dissipates and the hailstones fall down, back into the updraft, and are lifted again.
+When the wet season occurs during the warm season, or summer, rain falls mainly during the late afternoon and early evening hours.
+The work described has resulted in a variety of datasets possessing different formats, time/space grids, periods of record and regions of coverage, input datasets, and analysis procedures, as well as many different forms of dataset version designators.
+Although surface precipitation gauges are considered the standard for measuring precipitation, there are many areas in which their use is not feasible.
+Extratropical cyclones can bring cold and dangerous conditions with heavy rain and snow with winds exceeding 119&nbsp;km/h (74&nbsp;mph), (sometimes referred to as windstorms in Europe).
+Artist Daniel C. Boyer has used rainfall to dilute gouache paintings.
+Animals have adaptation and survival strategies for the wetter regime.
+In mountainous areas, heavy precipitation is possible where upslope flow is maximized within windward sides of the terrain at elevation.
+They are made of simple ice crystals that are hexagonal in shape.
+A steppe is a dry grassland.
+Convective precipitation falls over a certain area for a relatively short time, as convective clouds have limited horizontal extent.
+There are four main mechanisms for cooling the air to its dew point: adiabatic cooling, conductive cooling, radiational cooling, and evaporative cooling.
+The movement of the monsoon trough, or intertropical convergence zone, brings rainy seasons to savannah climes.
+Once a droplet has frozen, it grows in the supersaturated environment.
+Thundersnow is possible within a cyclone's comma head and within lake effect precipitation bands.
+The most common snow particles are visibly irregular, although near-perfect snowflakes may be more common in pictures because they are more visually appealing.
+Channels up to about 37&nbsp;GHz primarily provide information on the liquid hydrometeors (rain and drizzle) in the lower parts of clouds, with larger amounts of liquid emitting higher amounts of microwave radiant energy.
+Occluded fronts usually form around mature low-pressure areas.
+Stratus is a stable cloud deck which tends to form when a cool, stable air mass is trapped underneath a warm air mass.
+They often bounce when they hit the ground, and generally do not freeze into a solid mass unless mixed with freezing rain.
+The likelihood or probability of an event with a specified intensity and duration, is called the return period or frequency.
+Ice pellets or sleet are a form of precipitation consisting of small, translucent balls of ice.
+Two processes, possibly acting together, can lead to air becoming saturated: cooling the air or adding water vapor to the air.
+Convective rain, or showery precipitation, occurs from convective clouds, e.g., cumulonimbus or cumulus congestus.
+Although the ice is clear, scattering of light by the crystal facets and hollows/imperfections mean that the crystals often appear white in color due to diffuse reflection of the whole spectrum of light by the small ice particles.
+A temperature profile showing a warm layer above the ground is most likely to be found in advance of a warm front during the cold season, but can occasionally be found behind a passing cold front.
+Some add anti-freeze to their gauge so they do not have to melt the snow or ice that falls into the gauge.
+As a result, the modern global record of precipitation largely depends on satellite observations.
+Satellite sensors work by remotely sensing precipitation—recording various parts of the electromagnetic spectrum that theory and practice show are related to the occurrence and intensity of precipitation.
+All plants need at least some water to survive, therefore rain (being the most effective means of watering) is important to agriculture.
+On the leeward side of mountains, desert climates can exist due to the dry air caused by compressional heating.
+IR works best in cases of deep, vigorous convection—such as the tropics—and becomes progressively less useful in areas where stratiform (layered) precipitation dominates, especially in mid- and high-latitude regions.
+No two snowflakes are alike, which grow at different rates and in different patterns depending on the changing temperature and humidity within the atmosphere that the snowflake falls through on its way to the ground.
+Further, cloud tops with a lot of small-scale variation are likely to be more vigorous than smooth-topped clouds.
+Due to the typical structure of the atmosphere, cloud-top temperatures are approximately inversely related to cloud-top heights, meaning colder clouds almost always occur at higher altitudes.
+The previous dry season leads to food shortages into the wet season, as the crops have yet to mature.
+Any of the above rain gauges can be made at home, with enough know-how.
+When it gets cold, Mars has precipitation that most likely takes the form of ice needles, rather than rain or snow.
+Mountainous locales near the equator in Colombia are amongst the wettest places on Earth.
+Contrary to the cartoon pictures of raindrops, their shape does not resemble a teardrop.
+Within the Southern Hemisphere, poleward is towards the South Pole, or south.
+Subarctic climates are cold with continuous permafrost and little precipitation.
+These gauges are used in the winter by removing the funnel and inner cylinder and allowing snow and freezing rain to collect inside the outer cylinder.
+Within METAR code, GR is used to indicate larger hail, of a diameter of at least .
+The hailstone gains an ice layer and grows increasingly larger with each ascent.
+Precipitation can be divided into three categories, based on whether it falls as liquid water, liquid water that freezes on contact with the surface, or ice.
+Conductive cooling occurs when the air comes into contact with a colder surface, usually by being blown from one surface to another, for example from a liquid water surface to colder land.
+The Sahel, the Mediterranean, southern Africa and parts of southern Asia have become drier.
+Those bands bring strong localized snowfall which can be understood as follows: Large water bodies such as lakes efficiently store heat that results in significant temperature differences (larger than 13&nbsp;°C or 23&nbsp;°F) between the water surface and the air above.
+The forecasts can be verified through use of rain gauge measurements, weather radar estimates, or a combination of both.
+Moisture overriding associated with weather fronts is an overall major method of precipitation production.
+As a raindrop increases in size, its shape becomes more oblate, with its largest cross-section facing the oncoming airflow.
+In some cases the long-term homogeneity of the dataset is emphasized, which is the Climate Data Record standard.
+Globally there has been no statistically significant overall trend in precipitation over the past century, although trends have varied widely by region and over time.
+Satellite sensors now in practical use for precipitation fall into two categories.
+Mechanisms of producing precipitation include convective, stratiform, and orographic rainfall.
+Radar imagery forecasting techniques show higher skill than model forecasts within six to seven hours of the time of the radar image.
+The Mediterranean climate regime resembles the climate of the lands in the Mediterranean Basin, parts of western North America, parts of Western and South Australia, in southwestern South Africa and in parts of central Chile.
+All precipitation types are made up of hydrometeors by definition, including virga, which is precipitation which evaporates before reaching the ground.
+Bits of liquid or solid water in the atmosphere are known as hydrometeors.
+Hawaii was the only region to show a decrease (-9.25%).
+The wet, or rainy, season is the time of year, covering one or more months, when most of the average annual rainfall in a region falls.
+Orographic precipitation occurs on the windward side of mountains and is caused by the rising air motion of a large-scale flow of moist air across the mountain ridge, resulting in adiabatic cooling and condensation.
+Given the Earth's surface area, that means the globally averaged annual precipitation is .
+The second category of sensor channels is in the microwave part of the electromagnetic spectrum.
+Savanna climates and areas with monsoon regimes have wet summers and dry winters.
+It falls as showers with rapidly changing intensity.
+Tropical rainforests technically do not have dry or wet seasons, since their rainfall is equally distributed through the year.
+Because of this temperature difference, warmth and moisture are transported upward, condensing into vertically oriented clouds (see satellite picture) which produce snow showers.
+Where relatively warm water bodies are present, for example due to water evaporation from lakes, lake-effect snowfall becomes a concern downwind of the warm lakes within the cold cyclonic flow around the backside of extratropical cyclones.
+One key result of the multi-satellite studies is that including even a small amount of surface gauge data is very useful for controlling the biases that are endemic to satellite estimates.
+Radiational cooling occurs due to the emission of infrared radiation, either by the air or by the surface underneath.
+Plants need varying amounts of rainfall to survive.
+to scatter microwave radiant energy.
+An oceanic (or maritime) climate is typically found along the west coasts at the middle latitudes of all the world's continents, bordering cool oceans, as well as southeastern Australia, and is accompanied by plentiful precipitation year round.
+The hailstone then may undergo 'wet growth', where the liquid outer shell collects other smaller hailstones.
+The METAR code for ice pellets is '''PL'''.
+Convective processes involve strong vertical motions that can cause the overturning of the atmosphere in that location within an hour and cause heavy precipitation, while stratiform processes involve weaker upward motions and less intense precipitation.
+These aggregates are snowflakes, and are usually the type of ice particle that falls to the ground.
+Short, intense periods of rain in scattered locations are called "showers."
+The most commonly used form of the Köppen classification has five primary types labeled A through E. Specifically, the primary types are A, tropical; B, dry; C, mild mid-latitude; D, cold mid-latitude; and E, polar.
+Precipitation, especially rain, has a dramatic effect on agriculture.
+Eastern portions of North and South America, northern Europe, and northern and central Asia have become wetter.
+The more-direct physical connection between hydrometeors and microwave channels gives the microwave estimates greater skill on short time and space scales than is true for IR.
+Otherwise, the flow of the Westerlies into the Rocky Mountains lead to the wettest, and at elevation snowiest,  locations within North America.
+Thus, precipitation estimates that include gauge data tend to be produced further after the observation time than the no-gauge estimates.
+The standard way of measuring rainfall or snowfall is the standard rain gauge, which can be found in 100&nbsp;mm (4&nbsp;in) plastic and 200&nbsp;mm (8&nbsp;in) metal varieties.
+Because water droplets are more numerous than the ice crystals the crystals are able to grow to hundreds of micrometers in size at the expense of the water droplets.
+Increasing temperatures tend to increase evaporation which leads to more precipitation.
+Soil nutrients diminish and erosion increases.
+Channels above 37&nbsp;GHz display emission signals, but are dominated by the action of solid hydrometeors (snow, graupel, etc.)
+Attempts to compensate for snow/ice by warming the tipping bucket meet with limited success, since snow may sublimate if the gauge is kept much above freezing.
+The frequencies in use range from about 10 gigahertz  to a few hundred GHz.
+Like other precipitation, hail forms in storm clouds when supercooled water droplets freeze on contact with condensation nuclei, such as dust or dirt.
+A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
+The IR estimates have rather low skill at short time and space scales, but are available very frequently (15 minutes or more often) from satellites in geosynchronous Earth orbit.
+If enough moisture and upward motion is present, precipitation falls from convective clouds such as cumulonimbus and can organize into narrow rainbands.
+The inner cylinder is filled by 25&nbsp;mm (1&nbsp;in) of rain, with overflow flowing into the outer cylinder.
+Developing countries have noted that their populations show seasonal weight fluctuations due to food shortages seen before the first harvest, which occurs late in the wet season.
+As with all probability events, it is possible though unlikely to have two "1 in 100&nbsp;Year Storms" in a single year.
+Rain drops associated with melting hail tend to be larger than other rain drops.
+In Asia during the wet season, the flow of moist air into the Himalayas leads to some of the greatest rainfall amounts measured on Earth in northeast India.
+Animals have adaptation and survival strategies for the wetter regime.
+The sensors are almost exclusively passive, recording what they see, similar to a camera, in contrast to active sensors (radar, lidar) that send out a signal and detect its impact on the area being observed.
+Precipitation is a major component of the water cycle, and is responsible for depositing the fresh water on the planet.
+when it gets cold, Mars has precipitation which most likely takes the form of ice needles, rather than rain or snow.
+Hailstones can grow to  and weigh more than .
+The term ''1 in 10&nbsp;year storm'' describes a rainfall event which is rare and is only likely to occur once every 10&nbsp;years, so it has a 10&nbsp;percent likelihood any given year.
+As they fall back into the sub-freezing layer closer to the surface, they re-freeze into ice pellets.

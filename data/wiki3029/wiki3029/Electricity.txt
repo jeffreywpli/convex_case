@@ -1,0 +1,200 @@
+Specifically, it is a vector field.
+The solid-state device came into its own with the invention of the transistor in 1947.
+Faraday's and Ampère's work showed that a time-varying magnetic field acted as a source of an electric field, and a time-varying electric field was a source of a magnetic field.
+The electric power in watts produced by an electric current ''I'' consisting of a charge of ''Q'' coulombs every ''t'' seconds passing through an electric potential (voltage) difference of ''V'' is
+The study of electric fields created by stationary charges is called electrostatics.
+The concept of the electric field was introduced by Michael Faraday.
+The inductor's behaviour is in some regards converse to that of the capacitor: it will freely allow an unchanging current, but opposes a rapidly changing one.
+Einstein was awarded the Nobel Prize in Physics in 1921 for "his discovery of the law of the photoelectric effect".
+The presence of charge gives rise to an electrostatic force: charges exert a force on each other, an effect that was known, though not understood, in antiquity.
+The building material is most often a crystalline semiconductor.
+Even then, practical applications for electricity were few, and it would not be until the late nineteenth century that engineers were able to put it to industrial and residential use.
+The concept of electric potential is closely linked to that of the electric field.
+Electrically charged matter is influenced by, and produces, electromagnetic fields, electric charges can be positive or negative.
+When the current changes, the magnetic field does too, inducing a voltage between the ends of the conductor.
+The most familiar carriers of electrical charge are the electron and proton.
+In a solid-state component, the current is confined to solid elements and compounds engineered specifically to switch and amplify it.
+While debate can be expected to continue over the environmental impact of different means of electricity production, its final form is relatively clean
+Earth is assumed to be an infinite source of equal amounts of positive and negative charge, and is therefore electrically uncharged—and unchargeable.
+The effects of electromagnetism are most visibly employed in the electric motor, which provides a clean and efficient means of motive power.
+Electric utilities measure power using electricity meters, which keep a running total of the electric energy delivered to a customer.
+This phenomenon is known as piezoelectricity, from the Greek ''piezein'' (πιέζειν), meaning to press, and was discovered in 1880 by Pierre and Jacques Curie.
+For large electrical demands electrical energy must be generated and transmitted continuously over conductive transmission lines.
+If a similar ball is charged by the same glass rod, it is found to repel the first: the charge acts to force the two balls apart.
+The ohm, the unit of resistance, was named in honour of Georg Ohm, and is symbolised by the Greek letter Ω.
+Public utilities were set up in many cities targeting the burgeoning market for electrical lighting.
+Electric power is generally supplied to businesses and homes by the electric power industry.
+Electrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the seventeenth and eighteenth centuries.
+He could moreover prove that such a wave would necessarily travel at the speed of light, and thus light itself was a form of electromagnetic radiation.
+The voltaic pile, and its modern descendant, the electrical battery, store energy chemically and make it available on demand in the form of electrical energy.
+Death caused by an electric shock is referred to as electrocution.
+Direct current, as produced by example from a battery and required by most electronic devices, is a unidirectional flow from the positive part of a circuit to the negative.
+A small charge placed within an electric field experiences a force, and to have brought that charge to that point against the force requires work.
+A lightweight ball suspended from a string can be charged by touching it with a glass rod that has itself been charged by rubbing with a cloth.
+These terms refer to how the current varies in time.
+The phenomenon was further investigated by Ampère, who discovered that two parallel current-carrying wires exerted a force upon each other: two wires conducting currents in the same direction are attracted to each other, while wires containing currents in opposite directions are forced apart.
+The magnitude of the electromagnetic force, whether attractive or repulsive, is given by Coulomb's law, which relates the force to the product of the charges and has an inverse-square relation to the distance between them.
+Faraday's homopolar motor consisted of a permanent magnet sitting in a pool of mercury.
+The first solid-state device was the "cat's-whisker detector" first used in the 1900s in radio receivers.
+"Revitalization" or resuscitation of apparently dead or drowned persons was reported in the medical literature shortly after Galvani's work.
+Today, most electronic devices use semiconductor components to perform electron control.
+Action potentials are also responsible for coordinating activities in certain plants.
+The electric field acts between two charges in a similar manner to the way that the gravitational field acts between two masses, and like it, extends towards infinity and shows an inverse square relationship with distance.
+These properties however can become important when circuitry is subjected to transients, such as when first energised.
+The equipotentials cross all lines of force at right angles.
+It was not until the invention of the voltaic pile in the eighteenth century that a viable source of electricity became available.
+Electronic devices make use of the transistor, perhaps one of the most important inventions of the twentieth century, and a fundamental building block of all modern circuitry.
+Changes in the electric field travel at the speed of light.
+Maxwell's Laws, which unify light, fields, and charge are one of the great milestones of theoretical physics.
+The resistance of most materials is relatively constant over a range of temperatures and currents; materials under these conditions are known as 'ohmic'.
+The components in an electric circuit can take many forms, which can include elements such as resistors, capacitors, switches, transformers and electronics.
+These results were known to Mary Shelley when she authored ''Frankenstein'' (1819), although she does not name the method of revitalization of the monster.
+An electric shock stimulates this system, and causes muscles to contract.
+The resistor is perhaps the simplest of passive circuit elements: as its name suggests, it resists the current through it, dissipating its energy as heat.
+The electric field produces a force on other charges.
+This attitude began with the 1771 experiments of Luigi Galvani in which the legs of dead frogs were shown to twitch on application of animal electricity.
+Many interactions familiar at the macroscopic level, such as touch, friction or chemical bonding, are due to interactions between electric fields on the atomic scale.
+In engineering or household applications, current is often described as being either direct current (DC) or alternating current (AC).
+Electric power, like mechanical power, is the rate of doing work, measured in watts, and represented by the letter ''P''.
+The rapid expansion in electrical technology at this time transformed industry and society.
+An electric field generally varies in space, and its strength at any one point is defined as the force (per unit charge) that would be felt by a stationary, negligible charge if placed at that point.
+Further work was conducted by Otto von Guericke, Robert Boyle, Stephen Gray and C. F. du Fay.
+The resistive Joule heating effect employed in filament light bulbs also sees more direct use in electric heating.
+The photoelectric effect is also employed in photocells such as can be found in solar panels and this is frequently used to make electricity commercially.
+According to a controversial theory, the Parthians may have had knowledge of electroplating, based on the 1936 discovery of the Baghdad Battery, which resembles a galvanic cell, though it is uncertain whether the artifact was electrical in nature.
+The most visible natural occurrence of this is lightning, caused when charge becomes separated in the clouds by rising columns of air, and raises the electric field in the air to greater than it can withstand.
+Electric currents generate magnetic fields, and changing magnetic fields generate electric currents.
+* '''electric charge''': a property of some subatomic particles, which determines their electromagnetic interactions.
+In addition, electricity permits the creation and reception of electromagnetic radiation such as radio waves.
+Ancient cultures around the Mediterranean knew that certain objects, such as rods of amber, could be rubbed with cat's fur to attract light objects like feathers.
+Electricity and magnetism (and light) were definitively linked by James Clerk Maxwell, in particular in his "On Physical Lines of Force" in 1861 and 1862.
+Possibly the earliest and nearest approach to the discovery of the identity of lightning, and electricity from any other source, is to be attributed to the Arabs, who before the 15th century had the Arabic word for lightning (''raad'') applied to the electric ray.
+The interaction is mediated by the magnetic field each current produces and forms the basis for the international definition of the ampere.
+A succession of sparks jumping from the key to the back of his hand showed that lightning was indeed electrical in nature.
+The inductor is a conductor, usually a coil of wire, that stores energy in a magnetic field in response to the current through it.
+In 1905 Albert Einstein published a paper that explained experimental data from the photoelectric effect as being the result of light energy being carried in discrete quantized packets, energising electrons.
+Gravity always acts in attraction, drawing two masses together, while the electric field can result in either attraction or repulsion.
+The induced voltage is proportional to the time rate of change of the current.
+While the early 19th century had seen rapid progress in electrical science, the late 19th century would see the greatest progress in electrical engineering.
+Thales was incorrect in believing the attraction was due to a magnetic effect, but later science would prove a link between magnetism and electricity.
+Thales of Miletus made a series of observations on static electricity around 600 BCE, from which he believed that friction rendered amber magnetic, in contrast to minerals such as magnetite, which needed no rubbing.
+Current flow can be understood in two forms: as negatively charged electrons, and as positively charged electron deficiencies called holes.
+The field is therefore zero at all places inside the body.
+Electricity is usually sold by the kilowatt hour (3.6 MJ) which is the product of power in kilowatts multiplied by running time in hours.
+André-Marie Ampère in 1819-1820; Michael Faraday invented the electric motor in 1821, and Georg Ohm mathematically analysed the electrical circuit in 1827.
+Electric fish were again reported millennia later by ancient Greek, Roman and Arabic naturalists and physicians.
+An electric field is created by a charged body in the space that surrounds it, and results in a force exerted on any other charges placed within the field.
+Electricity is used within telecommunications, and indeed the electrical telegraph, demonstrated commercially in 1837 by Cooke and Wheatstone, was one of its earliest applications.
+The revitalization of monsters with electricity later became a stock theme in horror films.
+The electric field was formally defined as the force exerted per unit charge, but the concept of potential allows for a more useful and equivalent definition: the electric field is the local gradient of the electric potential.
+Such a phenomenon has the properties of a wave, and is naturally referred to as an electromagnetic wave.
+The people who ''keep'' it flowing, such as the nameless hero of Jimmy Webb’s song "Wichita Lineman" (1968), are still often cast as heroic, wizard-like figures.
+The force also depended on the direction of the current, for if the flow was reversed, then the force did too.
+:''V'' is electric potential or voltage in volts
+A capacitor will therefore not permit a steady state current, but instead blocks it.
+Although electrification brought with it its own dangers, replacing the naked flames of gas lighting greatly reduced fire hazards within homes and factories.
+These phenomena were investigated in the late eighteenth century by Charles-Augustin de Coulomb, who deduced that charge manifests itself in two opposing forms.
+Further analysis of this process, known as electromagnetic induction, enabled him to state the principle, now known as Faraday's law of induction, that the potential difference induced in a closed circuit is proportional to the rate of change of magnetic flux through the loop.
+While the particles themselves can move quite slowly, sometimes with an average drift velocity only fractions of a millimetre per second, the electric field that drives them itself propagates at close to the speed of light, enabling electrical signals to pass rapidly along wires.
+The nonlinear behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and electronics is widely used in information processing, telecommunications, and signal processing.
+By convention, the charge carried by electrons is deemed negative, and that by protons positive, a custom that originated with the work of Benjamin Franklin.
+Current causes several observable effects, which historically were the means of recognising its presence.
+The recognition of electromagnetism, the unity of electric and magnetic phenomena, is due to Hans Christian Ørsted and
+Within the system, charge may be transferred between bodies, either by direct contact, or by passing along a conducting material, such as a wire.
+However, if one ball is charged by the glass rod, and the other by an amber rod, the two balls are found to attract each other.
+An electric field has the special property that it is ''conservative'', which means that the path taken by the test charge is irrelevant: all paths between two specified points expend the same energy, and thus a unique value for potential difference may be stated.
+Experimentation by Faraday in 1831 revealed that a wire moving perpendicular to a magnetic field developed a potential difference between its ends.
+It consists of two conducting plates separated by a thin insulating dielectric layer; in practice, thin metal foils are coiled together, increasing the surface area per unit volume and therefore the capacitance.
+They must also lie parallel to a conductor's surface, otherwise this would produce a force that will move the charge carriers to even the potential of the surface.
+Charge is possessed not just by matter, but also by antimatter, each antiparticle bearing an equal and opposite charge to its corresponding particle.
+A certain amount of generation must always be held in reserve to cushion an electrical grid against inevitable disturbances and losses.
+The United States showed a 12% increase in demand during each year of the first three decades of the twentieth century, a rate of growth that is now being experienced by emerging economies such as those of India or China.
+The motion of negatively charged electrons around an electric circuit, one of the most familiar forms of current, is thus deemed positive in the ''opposite'' direction to that of the electrons.
+While this method, now known as the triboelectric effect, can lift light objects and generate sparks, it is extremely inefficient.
+The field strength is greatly affected by nearby conducting objects, and it is particularly intense when it is forced to curve around sharply pointed objects.
+For practical purposes, it is useful to define a common reference point to which potentials may be expressed and compared.
+Through such people as Alexander Graham Bell, Ottó Bláthy, Thomas Edison, Galileo Ferraris, Oliver Heaviside, Ányos Jedlik, William Thomson, 1st Baron Kelvin, Charles Algernon Parsons, Werner von Siemens, Joseph Swan, Nikola Tesla and George Westinghouse, electricity turned from a scientific curiosity into an essential tool for modern life, becoming a driving force of the Second Industrial Revolution.
+In the 6th century BC, the Greek philosopher Thales of Miletus experimented with amber rods and these experiments were the first studies into the production of electrical energy.
+As the public familiarity with electricity as the lifeblood of the Second Industrial Revolution grew, its wielders were more often cast in a positive light, such as the workers who "finger death at their gloves' end as they piece and repiece the living wires" in Rudyard Kipling's 1907 poem ''Sons of Martha''.
+The order Gymnotiformes, of which the best known example is the electric eel, detect or stun their prey via high voltages generated from modified muscle cells called electrocytes.
+Study has shown that the origin of charge is from certain types of subatomic particles which have the property of electric charge.
+Electricity is a very convenient way to transfer energy, and it has been adapted to a huge, and growing, number of uses.
+* '''electric field''' (see electrostatics): charges are surrounded by an electric field.
+Air, for example, tends to arc across small gaps at electric field strengths which exceed 30&nbsp;kV per centimetre.
+This discovery led to the well-known axiom: ''like-charged objects repel and opposite-charged objects attract''.
+Unlike fossil fuels, electricity is a low entropy form of energy and can be converted into motion or many other forms of energy with high efficiency.
+The unit of inductance is the henry, named after Joseph Henry, a contemporary of Faraday.
+Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation.
+This is the operating principal of the Faraday cage, a conducting metal shell which isolates its interior from outside electrical effects.
+Electricity gives a wide variety of well-known effects, such as lightning, static electricity, electromagnetic induction and electric current.
+Ohm's law is a basic law of circuit theory, stating that the current passing through a resistance is directly proportional to the potential difference across it.
+Field lines emanating from stationary charges have several key properties: first, that they originate at positive charges and terminate at negative charges; second, that they must enter any good conductor at right angles, and third, that they may never cross nor close in on themselves.
+The capacitor is a development of the Leyden jar and is a device that can store charge, and thereby storing electrical energy in the resulting field.
+If, as is most common, this flow is carried by electrons, they will be travelling in the opposite direction.
+By historical convention, a positive current is defined as having the same direction of flow as any positive charge it contains, or to flow from the most positive part of a circuit to the most negative part.
+One of the most important discoveries relating to current was made accidentally by Hans Christian Ørsted in 1820, when, while preparing a lecture, he witnessed the current in a wire disturbing the needle of a magnetic compass.
+The charge on electrons and protons is opposite in sign, hence an amount of charge may be expressed as being either negative or positive.
+The Earth's magnetic field is thought to arise from a natural dynamo of circulating currents in the planet's core.
+The principles of electrostatics are important when designing items of high-voltage equipment.
+A stationary motor such as a winch is easily provided with a supply of power, but a motor that moves with its application, such as an electric vehicle, is obliged to either carry along a power source such as a battery, or to collect current from a sliding contact such as a pantograph.
+These charges and holes are understood in terms of quantum physics.
+Electrocution is still the means of judicial execution in some jurisdictions, though its use has become rarer in recent times.
+As relief maps show contour lines marking points of equal height, a set of lines marking points of equal potential (known as equipotentials) may be drawn around an electrostatically charged object.
+Long before any knowledge of electricity existed, people were aware of shocks from electric fish.
+The ability of electronic devices to act as switches makes digital information processing possible.
+Exploitation of this discovery enabled him to invent the first electrical generator in 1831, in which he converted the mechanical energy of a rotating copper disc to electrical energy.
+Environmental concerns with electricity generation have led to an increased focus on generation from renewable sources, in particular from wind and hydropower.
+A number of countries, such as Denmark, have issued legislation restricting or banning the use of resistive electric heating in new buildings.
+Certain crystals, such as quartz, or even sugar, generate a potential difference across their faces when subjected to external pressure.
+With electricity ceasing to be a novelty and becoming a necessity of everyday life in the later half of the 20th century, it required particular attention by popular culture only when it ''stops'' flowing, an event that usually signals disaster.
+The pain caused by an electric shock can be intense, leading electricity at times to be employed as a method of torture.
+Aluminium is produced in vast quantities this way, and many portable devices are electrically powered using rechargeable cells.
+The volt is so strongly identified as the unit of choice for measurement and description of electric potential difference that the term voltage sees greater everyday usage.
+Electricity is however still a highly practical energy source for heating and refrigeration, with air conditioning/heat pumps representing a growing sector for electricity demand for heating and cooling, the effects of which electricity utilities are increasingly obliged to accommodate.
+The time-averaged value of an alternating current is zero, but it delivers energy in first one direction, and then the reverse.
+This concept was introduced by Faraday, whose term 'lines of force' still sometimes sees use.
+Alternating current thus pulses back and forth within a conductor without the charge moving any net distance over time.
+Electrically powered vehicles of every sort featured large in adventure stories such as those of Jules Verne and the ''Tom Swift'' books.
+Electrochemistry has always been an important part of electricity.
+That water could be decomposed by the current from a voltaic pile was discovered by Nicholson and Carlisle in 1800, a process now known as electrolysis.
+This relationship between magnetic fields and currents is extremely important, for it led to Michael Faraday's invention of the electric motor in 1821.
+Patients suffering from ailments such as gout or headache were directed to touch electric fish in the hope that the powerful jolt might cure them.
+Electricity is not a human invention, and may be observed in several forms in nature, a prominent manifestation of which is lightning.
+A whisker-like wire is placed lightly in contact with a solid crystal (such as a germanium crystal) in order to detect a radio signal by the contact junction effect.
+Over larger gaps, its breakdown strength is weaker, perhaps 1&nbsp;kV per centimetre.
+While this could be at infinity, a much more useful reference is the Earth itself, which is assumed to be at the same potential everywhere.
+Alternating current is any current that reverses direction repeatedly; almost always this takes the form of a sine wave.
+The threshold for perception varies with the supply frequency and with the path of the current, but is about 0.1&nbsp;mA to 1&nbsp;mA for mains-frequency electricity, though a current as low as a microamp can be detected as an electrovibration effect under certain conditions.
+The masters of electricity, whether fictional or real—including scientists such as Thomas Edison, Charles Steinmetz or Nikola Tesla—were popularly conceived of as having wizard-like powers.
+The field lines are the paths that a point positive charge would seek to make as it was forced to move within the field; they are however an imaginary concept with no physical existence, and the field permeates all the intervening space between the lines.
+This discovery led to the quantum revolution.
+Electrical power is now the backbone of modern industrial society.
+Charge can be measured by a number of means, an early instrument being the gold-leaf electroscope, which although still in use for classroom demonstrations, has been superseded by the electronic electrometer.
+Electricity generation is often done with electric generators, but can also be supplied by chemical sources such as electric batteries or by other means from a wide variety of sources of energy.
+Since electrical energy cannot easily be stored in quantities large enough to meet demands on a national scale, at all times exactly as much must be produced as is required.
+A capacitor connected to a voltage supply initially causes a current as it accumulates charge; this current will however decay in time as the capacitor fills, eventually falling to zero.
+A modern integrated circuit may contain several billion miniaturised transistors in a region only a few centimetres square.
+The level of electromagnetic emissions  generated by electric arcing is high enough to produce electromagnetic interference, which can be detrimental to the workings of adjacent equipment.
+The electric potential at any point is defined as the energy required to bring a unit test charge from an infinite distance slowly to that point.
+As the electric field is defined in terms of force, and force is a vector, so it follows that an electric field is also a vector, having both magnitude and direction.
+Ancient Egyptian texts dating from 2750 BCE referred to these fish as the "Thunderer of the Nile", and described them as the "protectors" of all other fish.
+This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne's ''Pseudodoxia Epidemica'' of 1646.
+A current was allowed through a wire suspended from a pivot above the magnet and dipped into the mercury.
+The positive-to-negative convention is widely used to simplify this situation.
+However, there is an important difference.
+In the 18th century, Benjamin Franklin conducted extensive research in electricity, selling his possessions to fund his work.
+Electromagnetic waves were analysed theoretically by James Clerk Maxwell in 1864.
+The term ''wattage'' is used colloquially to mean "electric power in watts."
+One henry is the inductance that will induce a potential difference of one volt if the current through it changes at a rate of one ampere per second.
+In electrical engineering, electricity is used for:
+If the current is sufficiently high, it will cause muscle contraction, fibrillation of the heart, and tissue burns.
+The amount of charge is usually given the symbol ''Q'' and expressed in coulombs; each electron carries the same charge of approximately −1.6022×10−19&nbsp;coulomb.
+The lack of any visible sign that a conductor is electrified makes electricity a particular hazard.
+Thus gravity is the dominant force at distance in the universe, despite being much weaker.
+In 1887, Heinrich Hertz discovered that electrodes illuminated with ultraviolet light create electric sparks more easily.
+Two balls that are charged with a rubbed amber rod also repel each other.
+Demand for electricity grows with great rapidity as a nation modernises and its economy develops.
+A voltage applied to a human body causes an electric current through the tissues, and although the relationship is non-linear, the greater the voltage, the greater the current.
+He had discovered electromagnetism, a fundamental interaction between electricity and magnetics.
+From the initial invention of the Voltaic pile, electrochemical cells have evolved into the many different types of batteries, electroplating and electrolysis cells.
+Usually expressed in volts&nbsp;per&nbsp;metre, the vector direction of the field is the line of greatest slope of potential, and where the equipotentials lie closest together.

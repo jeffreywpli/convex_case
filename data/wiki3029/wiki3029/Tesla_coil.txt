@@ -1,0 +1,200 @@
+During the "ring up" this energy is transferred to the secondary circuit.
+In the 110 years since Tesla's experiments, efforts by others to achieve long distance power transmission using Tesla coils have failed, and the scientific consensus is his World Wireless system would not have worked.
+Performance of a DRSSTC can be comparable to a medium-power spark-gap Tesla coil, and efficiency (as measured by spark length versus input power) can be significantly greater than a spark-gap Tesla coil operating at the same input power.
+The capacitor was charged to the voltage necessary to rupture the air of the gap during the input line cycle, about  by a line-powered transformer connected across the gap.
+Vacuum tube coils typically operate with plate voltages between 1500 and 6000 volts, while most spark gap coils operate with primary voltages of 6,000 to 25,000 volts.
+In addition, a safety shorting operation is performed on each capacitor before any internal work is performed.
+Calculations of skin depth of body tissues at the frequency of Tesla coils show that it can be greater than the thickness of the body.
+The primary winding of a traditional transistor Tesla coil is wound around only the bottom portion of the secondary coil.
+#When the current through the spark gap is no longer sufficient to keep the air in the gap ionized, the spark stops ("quenches"), terminating the current in the primary circuit.
+These are often fabricated from spun metal or flexible aluminum ducting.
+The current flows rapidly back and forth between the plates of the capacitor through the coil, generating radio frequency oscillating current in the primary circuit at the circuit's resonant frequency.
+Suppressing premature air breakdown and energy loss allows the voltage to build to higher values on the peaks of the waveform, creating longer, more spectacular streamers.
+Tesla built a laboratory in Colorado Springs and between 1899-1900 performed experiments on wireless power transmission there.
+This configuration illustrates operation of the secondary as a pumped resonator.
+As the secondary coil's energy (and output voltage) continue to increase, larger pulses of displacement current further ionize and heat the air at the point of initial breakdown.
+This entire cycle takes place very rapidly, the oscillations dying out in a time of the order of a millisecond.
+The resulting energy loss damps the oscillation, so the above lossless model is no longer accurate, and the voltage does not reach the theoretical maximum above.
+Tesla invented his "Tesla Coil" around 1891 while he was repeating and then expanding on Heinrich Hertz' experiments that had discovered electromagnetic radiation three years earlier.
+18 B & S magnet wire (0.823&nbsp;mm²).
+It is therefore adjusted and operated carefully, not only for efficiency and economy, but also for safety.
+If, due to improper tuning, the maximum voltage point occurs below the terminal, along the secondary coil, a discharge (spark) may break out and damage or destroy the coil wire, supports, or nearby objects.
+Since the ground (Earth) serves as the return path for the high voltage, streamer arcs from the terminal tend to jump to any nearby grounded object.
+Repetitive pulsing causes the discharges to grow until the average energy available from the Tesla coil during each pulse balances the average energy being lost in the discharges (mostly as heat).
+Modern high-voltage enthusiasts usually build Tesla coils similar to some of Tesla's "later" 2-coil air-core designs.
+If the top electrode is large and smooth enough, the electric field at its surface may never get high enough even at the peak voltage to cause air breakdown, and air discharges will not occur.
+Regardless of which configuration is used, the HV transformer must be of a type that self-limits its secondary current by means of internal leakage inductance.
+Each pulse dies out before the next spark occurs, so the coil generates a string of damped waves, not a continuous sinusoidal voltage.
+A Tesla coil is a radio frequency oscillator that drives an air-core double-tuned resonant transformer to produce high voltages at low currents.
+This forms a very electrically conductive "root" of hotter plasma, called a leader, that projects outward from the toroid.
+While tuning, a small projection (called a "breakout bump") is often added to the top terminal in order to stimulate corona and spark discharges (sometimes called streamers) into the surrounding air.
+To fix this problem Tesla changed the design so that there was an air gap instead of insulating material between the primary and secondary windings and made it so that the iron core could be moved to different positions in or out of the coil.
+These are often used for medical and therapeutic purposes such as electrocauterization and diathermy.
+*''Bipolar'' - Neither end of the secondary winding is grounded, and both are brought out to high voltage terminals.
+*Optionally, a capacitive electrode (top load) ''(E)'' in the form of a smooth metal sphere or torus attached to the secondary terminal of the coil.
+Large Tesla coils and magnifiers can deliver dangerous levels of high-frequency current, and they can also develop significantly higher voltages (often 250,000–500,000 volts, or more).
+Contemporary scientists point out that while Tesla's coils function as radio transmitters, transmitting energy in the form of radio waves, the frequency he used, around 150&nbsp;kHz, is far too low for practical long range power transmission.
+Essentially a large Tesla coil intended as a prototype transmitter for a "World Wireless System" that was to transmit both information and power worldwide, by 1904 he had lost funding and the facility was never completed.
+Modern 2-coil systems use a single secondary coil.
+Once the gap stops conducting, the transformer begins recharging the capacitor.
+The total energy in the tuned circuits is limited to the energy originally stored in the capacitor ''C1'', so as the oscillating voltage in the secondary increases in amplitude ("ring up") the oscillations in the primary decrease to zero ("ring down").
+The lower end of the long secondary coil must be grounded to the surroundings.
+And, a toroid permits fairly independent control of topload capacitance versus spark breakout voltage.
+Although some is lost as heat in the spark and other resistances, in modern coils, over 85% of the energy ends up in the secondary.
+Scientists working with high vacuum systems test for the presence of tiny pin holes in the apparatus (especially a newly blown piece of glassware) using high-voltage discharges produced by a small handheld Tesla coil.
+The reason for the lack of pain is that a human being's nervous system does not sense the flow of potentially dangerous electric currents above 15–20&nbsp;kHz; essentially, for nerves to be activated, a significant number of ions must cross their membranes before the current (and hence voltage) reverses.
+Long range wireless power transmission was only achieved in the 1960s with the development of microwave technology.
+Further, great care must be taken when working on the primary section of a coil even when it has been disconnected from its power source for some time.
+#The secondary current creates a magnetic field that induces voltage back in the primary coil, and over a number of additional cycles the energy is transferred back to the primary.
+This can induce corona discharges between turns that weaken and eventually destroy the transformer's insulation.
+The oscillating currents in the primary and secondary gradually die out ("ring down") due to energy dissipated as heat in the spark gap and resistance of the coil.
+Tesla's original circuits as well as most modern coils use a simple spark gap to excite oscillations in the tuned transformer.
+The primary and secondary circuits are tuned so they resonate at the same frequency, they have the same resonant frequency.
+Tesla claimed to be able to transmit power on a ''worldwide'' scale, using a method that involved conduction through the Earth and atmosphere.
+There are comparatively few scientific studies about the initiation and growth of pulsed lower-frequency RF discharges, so some aspects of Tesla coil air discharges are not as well understood when compared to DC, power-frequency AC, HV impulse, and lightning discharges.
+Because these components are not the source of the trademark visual or auditory coil effects, they may easily be overlooked as the chief source of hazard.
+Tuning can then be adjusted so as to achieve the longest streamers at a given power level, corresponding to a frequency match between the primary and secondary coil.
+Tesla coils are very popular devices among certain electrical engineers and electronics enthusiasts.
+This is often erroneously attributed to skin effect, a phenomenon that tends to inhibit alternating current from flowing inside conducting media.
+Depending on the breakdown voltage of the spark gap, it may fire many times during a mains AC cycle.
+The musical group ArcAttack uses modulated Tesla coils and a man in a chain-link suit to play music.
+The top terminal has relatively small capacitance, charged to as high a voltage as practicable.
+The Colorado Springs apparatus consisted of a 53-foot diameter Tesla coil around the periphery of the lab, with a single-turn primary buried in the ground and a secondary of 50 turns of heavy wire on a 9 foot high circular "fence".
+The primary winding is located at the center of the secondary coil, equidistant between the two high potential terminals, to discourage arcing.
+The plasma within the leader is considerably hotter than a corona discharge, and is considerably more conductive.
+The second formula above is derived from the first using .
+The actual MIDI data is interpreted by a microcontroller which converts the MIDI data into a PWM output which can be sent to the Tesla coil via a fiber optic interface.
+Depending on how the spark gap is set, usually one or two sparks occur at the peak of each half-cycle of the mains current, so there are more than a hundred sparks per second.
+Tesla used these coils to conduct innovative experiments in electrical lighting, phosphorescence, X-ray generation, high frequency alternating current phenomena, electrotherapy, and the transmission of electrical energy without wires.
+Thus the spark at the spark gap appears continuous, as do the high voltage streamers from the top of the coil.
+The dangers of contact with high-frequency electric current are sometimes perceived as being less than at lower frequencies, because the subject usually does not feel pain or a 'shock'.
+Tesla decided to power his setup with the high speed alternator he had been developing as part of an improved arc lighting system but found that the high frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the Ruhmkorff coil originally used in Hertz setup.
+However, because of the impulsive nature of the spark they produce broadband radio noise, and without shielding can be a significant source of RFI, interfering with nearby radio and television reception.
+The Colorado Springs laboratory possessed one of the largest Tesla coils ever built, which Tesla called a "magnifying transmitter" as it was intended to transmit power to a distant receiver.
+The magnifying transmitter design is somewhat different from the classic two-coil Tesla coil circuit.
+Since high frequency current mostly flows on the surface of conductors due to skin effect, it is made of copper tubing or strip with a large surface area to reduce resistance, and its turns are spaced apart, which reduces proximity effect losses.
+Should a high-frequency arc strike the exposed primary coil while, at the same time, another arc has also been allowed to strike to a person, the ionized gas of the two arcs forms a circuit that may conduct lethal, low-frequency current from the primary into the person.
+Proper designs always include 'bleeder resistors' to bleed off stored charge from the capacitors.
+Because of the additional resonant circuit, one manual and one adaptive tuning adjustment are necessary.
+The opposite end is connected to the bottom of the extra coil through an insulated conductor that is sometimes called the transmission line.
+The combination of the two-coil driver and third coil resonator adds another degree of freedom to the system, making tuning considerably more complex than that of a 2-coil system.
+Usually the gap reignites, and energy in the secondary transfers back to the primary circuit over several more RF cycles.
+6 B & S wire (13.3&nbsp;mm2) and the whole combination is immersed in a vessel containing  linseed or mineral oil.
+While an ordinary transformer is designed to ''transfer'' energy efficiently from primary to secondary winding, the resonant transformer is also designed to ''store'' electrical energy.
+RF energy is instead directly coupled from the output of the driver into the bottom of the third coil, causing it to "ring up" to very high voltages.
+The important factors for maximum discharge length appear to be voltage, energy, and still air of low to moderate humidity.
+A very large Tesla coil, designed and built by Syd Klinge, is shown every year at the Coachella Valley Music and Arts Festival, in Coachella, Indio, California, USA.
+Because of the small capacitance, the oscillating voltage across the secondary coil which appears on the output terminal is much larger than the primary voltage.
+Additional energy is transferred from the primary to the secondary inductance and top-load capacitance during each "push", and secondary output voltage builds (called 'ring-up').
+In Tesla's more advanced (magnifier) design, a third coil is added.
+Also, an interrupter is usually used to reduce the duty cycle of the switching bridge, to improve peak power capabilities; similarly, IGBTs are more popular in this application than bipolar transistors or MOSFETs, due to their superior power handling characteristics.
+The Tesla transformer in contrast is "loosely coupled", the primary winding is larger in diameter and spaced apart from the secondary, so the mutual inductance is lower and the coupling coefficient is only 0.05 to 0.2; meaning only 5% to 20% of the magnetic field of each coil passes through the other.
+At these wavelengths the radio waves spread out in all directions and cannot be focused on a distant receiver.
+The alternating current output is in the low radio frequency range, usually between 50&nbsp;kHz and 1&nbsp;MHz.
+People attend "coiling" conventions where they display their home-made Tesla coils and other electrical devices of interest.
+The secondary winding ''(L2)'' consists of many turns (hundreds to thousands) of fine wire on a hollow cylindrical form inside the primary.
+However, anecdotal evidence among Tesla coil experimenters indicates temporary tissue damage may still occur and be observed as muscle pain, joint pain, or tingling for hours or even days afterwards.
+It is now known that a variety of useful tuning "modes" are available, and in most operating modes the extra coil will ring at a different frequency than the master oscillator.
+While generating discharges, electrical energy from the secondary and toroid is transferred to the surrounding air as electrical charge, heat, light, and sound.
+The sudden current through the spark gap causes the primary resonant circuit to ring at its resonant frequency.
+Low-power Tesla coils are also sometimes used as a high-voltage source for Kirlian photography.
+Since the capacitance of the secondary coil is very small compared to the primary capacitor, the primary voltage is stepped up to a high value.
+A toroid with a major diameter that is much larger than the secondary diameter provides improved shaping of the electrical field at the topload.
+*The Tesla coil ''(L1, L2)'', an air-core double-tuned resonant transformer, which generates the high output voltage.
+At these rates, previously-formed leader channels do not get a chance to fully cool down between pulses.
+Once the gap fires, the electrical behavior of either circuit is identical.
+The greater the magnetic coupling between windings, the shorter the time required to complete the energy transfer.
+Due to the iron core and close proximity of the windings, they have a high mutual inductance ''(M)'', the coupling coefficient is close to unity 0.95 - 1.0, which means almost all the magnetic field of the primary winding passes through the secondary.
+This is a replica of the  Griffith Observatory conical coil installed in 1936.
+The ringing primary winding magnetically couples energy into the secondary over several RF cycles, until all of the energy that was originally in the primary has been transferred to the secondary.
+Tesla coils can produce output voltages from 50&nbsp;kilovolts to several million volts for large coils.
+However, in the typical circuit, the spark gap's short circuiting action prevents high-frequency oscillations from 'backing up' into the supply transformer.
+When driven by the secondary it produced additional high voltage by resonance, being adjusted to resonate with its own parasitic capacitance at the frequency of the other coils.
+However its large inductance gives it a very high impedance at the resonant frequency, so it acts as an open circuit to the oscillating current.
+It is capable of delivering a sufficient current at a significant voltage to stop the heart of a careless experimenter.
+This provides better protection of the secondary winding (from damaging streamer strikes) than a sphere of similar diameter.
+These Tesla coils are often used by hobbyists and at venues such as science museums to produce long sparks.
+The leader tapers and branches into thousands of thinner, cooler, hair-like discharges (called streamers).
+It might seem that the output voltage could be increased indefinitely by reducing  and .
+*A high voltage supply transformer ''(T)'', to step the AC mains voltage up to a high enough voltage to jump the spark gap.
+Ideally, the gap would then stop conducting (quench), trapping all of the energy into the oscillating secondary circuit.
+An extensive outdoor musical concert has demonstrated using Tesla coils during the Engineering Open House (EOH) at the University of Illinois at Urbana-Champaign.
+This design allowed the terminal to support very high voltages without generating corona or sparks.
+The secondary was designed to have the same frequency of resonance as the primary using only the stray capacitance of the winding itself to ground and that of any "top hat" terminal placed at the top of the secondary.
+This happens when the electric field strength reaches about 30&nbsp;kV per centimeter, and occurs first at sharp points and edges on the high voltage terminal.
+The oscillating current in the secondary may continue for some time.
+The only report of long-distance transmission by Tesla is a claim, not found in reliable sources, that in 1899 he wirelessly lit 200 light bulbs at a distance of .
+A more prominent secondary winding, with vastly more turns of thinner wire than the primary, was positioned to intercept some of the magnetic field of the primary.
+Since the body no longer provides a warning 'shock', novices may touch the output streamers of small Tesla coils without feeling painful shocks.
+In Tesla's coil transformer the capacitor, upon break-down of a short spark gap, became connected to a coil of a few turns (the primary winding set), forming a resonant circuit with the frequency of oscillation, usually , determined by the capacitance of the capacitor and the inductance of the coil.
+One of his ideas was that transmitting and receiving terminals could be suspended in the air by balloons at  altitude, where the air pressure is lower.
+The transient response for multiple resonance networks (of which the Tesla magnifier is a sub-set) has only recently been solved.
+Over a number of cycles, the energy in the primary circuit is transferred to the secondary.
+The idea of playing music on the singing Tesla coils flies around the world and a few followers continue the work of initiators.
+These typically consist of a primary tank circuit, a series LC (inductance-capacitance) circuit composed of a high-voltage capacitor, spark gap and primary coil, and the secondary LC circuit, a series-resonant circuit consisting of the secondary coil plus a terminal capacitance or "top load".
+This type is used in modern coils designed for entertainment.
+The toroidal shape helps to control the high electrical field near the top of the secondary by directing sparks outward and away from the primary and secondary windings.
+Today their main use is for entertainment and educational displays, although small coils are still used today as leak detectors for high vacuum systems.
+This is especially important when using transformers with fragile high-voltage windings, such as neon sign transformers (NSTs).
+The bottom of the driver's secondary winding is connected to ground.
+With an input power of 300 kilowatts it could produce potentials in the 12 to 20 megavolt range at a frequency of 150&nbsp;kHz, creating huge 140 foot "lightning" bolts.
+Tesla coil circuits were used commercially in sparkgap radio transmitters for wireless telegraphy until the 1920s, and in medical equipment such as electrotherapy and violet ray devices.
+Energy transfer occurs over a number of cycles, until most of the energy that was originally in the primary side is transferred to the secondary side.
+Although Tesla seems to have believed his ideas were proven, he had a history of making claims that he had not confirmed by experiment,  and there seems to be no evidence that he ever transmitted significant power  beyond the short-range demonstrations above.
+The secondary is not connected to an actual capacitor, but it also functions as an LC circuit, the inductance ''(L2)'' resonates with ''(C2)'', the sum of the stray parasitic capacitance between the windings of the coil, and the capacitance of the toroidal metal electrode attached to the high voltage terminal.
+So, on successive pulses, newer discharges can build upon the hot pathways left by their predecessors.
+Thus there seems to be nothing to prevent high-frequency Tesla currents from passing through deeper portions of a subject's body, such as vital organs and blood vessels, which may be better conducting.
+Tesla experimented with these, and many other, circuit configurations (see right).
+The world's largest currently existing two-coil Tesla coil is a 130,000-watt unit, part of a  sculpture titled ''Electrum'' owned by Alan Gibbs and currently resides in a private sculpture park at Kakanui Point near Auckland, New Zealand.
+It can be calculated approximately from conservation of energy.
+Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
+The Tesla coil primary winding, spark gap and tank capacitor are connected in series.
+The specialized transformer coil used in the Tesla circuit, called a resonant transformer, oscillation transformer, or RF transformer, functions differently from an ordinary transformer used in AC power circuits.
+If the supply transformer has inadequate leakage inductance, radio frequency chokes are placed in its secondary leads to block the RF current.
+A current-limiting circuit is usually used to limit maximum primary tank current (which must be switched by the IGBT's) to a safe level.
+The ''American Electrician'' gives a description of an early Tesla coil wherein a glass battery jar, 15&nbsp;×&nbsp;20&nbsp;cm (6&nbsp;×&nbsp;8 in) is wound with 60 to 80 turns of AWG No.
+The oscillating primary current creates an oscillating magnetic field that couples to the secondary winding, transferring energy into the secondary side of the transformer and causing it to oscillate with the toroid capacitance to ground.
+Professionals usually use other means of protection such as a Faraday cage or a metallic mail suit to prevent dangerous currents from entering their bodies.
+Tesla, during his patent application process, described a variety of resonator terminals at the top of this later coil.
+The top of the secondary is then connected to a topload terminal, which forms one 'plate' of a capacitor, the other 'plate' being the earth (or "ground").
+Typical voltages are between 5 and 30 kilovolts (kV).
+The resonant frequency of Tesla coils is in the low radio frequency (RF) range, usually between 50&nbsp;kHz and 1&nbsp;MHz.
+Experiments have shown that neither circuit offers any marked performance advantage over the other.
+The inductive and capacitive coupling used in Tesla's experiments are  "near-field" effects, meaning that the energy transferred decreases with the sixth power of the distance between transmitter and receiver, so they cannot be used for long-distance transmission.
+An electronic feedback circuit is usually used to adaptively synchronize the primary oscillator to the growing resonance in the secondary, and this is the only tuning consideration beyond the initial choice of a reasonable top-load.
+Each spark across the spark gap produces a pulse of damped sinusoidal high voltage at the output terminal of the coil.
+The supply transformer ''(T)'' secondary winding is connected across the primary tuned circuit.
+It is possible to generate very high frequency currents (tens to hundreds of MHz) that do have a smaller penetration depth in flesh.
+Later Tesla coils spread their electric fields over larger distances to prevent high electrical stresses in the first place, thereby allowing operation in free air.
+A toroid's capacitance is mainly a function of its major diameter, while the spark breakout voltage is mainly a function of its minor diameter.
+If  is the voltage at which the spark gap breaks down, which is usually close to the peak output voltage of the supply transformer ''T'', this energy is
+The primary winding ''(L1)'' consisting of a relatively few turns of heavy copper wire or tubing, is connected to a capacitor ''(C1)'' through the spark gap ''(SG)''.
+The tank capacitors can remain charged for days with enough energy to deliver a fatal shock.
+The device has been named the Zeusaphone, after Zeus, Greek god of lightning, and as a play on words referencing the Sousaphone.
+The gap suddenly fires, allowing the charged tank capacitor to discharge into the primary winding.
+High-voltage, low-energy discharges create filamentary multibranched discharges which are purplish-blue in colour.
+The peculiar design of the coil is dictated by the need to achieve low resistive energy losses (high Q factor) at high frequencies, which results in the largest secondary voltages:
+A normal (low leakage inductance) high-voltage transformer must use an external limiter (sometimes called a ballast) to limit current.
+When the switch closes, energy is transferred from the primary LC circuit to the resonator where the voltage rings up over a short period of time up culminating in the electrical discharge.
+This allows them to exchange energy, so the oscillating current alternates back and forth between the primary and secondary coils.
+Tesla's 1902 design for his advanced magnifying transmitter used a top terminal consisting of a metal frame in the shape of a toroid, covered with hemispherical plates (constituting a very large conducting surface).
+Today, although small Tesla coils are used as leak detectors in scientific high vacuum systems and igniters in arc welders, their main use is entertainment and educational displays,  Tesla coils are built by many high-voltage enthusiasts, research institutions, science museums, and independent experimenters.
+The primary was connected to a bank of oil capacitors to make a tuned circuit, excited by a rotary spark gap at 20 - 40 kilovolts from a powerful utility transformer.
+*A spark gap ''(SG)'' that acts as a switch in the primary circuit
+This process repeats, the energy shifting rapidly back and forth between the primary and secondary tuned circuits.
+At his Colorado Springs laboratory during 1899-1900, by using voltages of the order of 20 megavolts generated by his enormous magnifying transmitter coil, he was able to light three incandescent lamps at a distance of about .
+The designs of early diathermy machines were based on Tesla coils or Oudin coils.
+There is no independent confirmation of this supposed demonstration; Tesla did not mention it, and it does not appear in his laboratory notes.
+When the spark gap fires, the charged capacitor discharges into the primary winding, causing the primary circuit to oscillate.
+Austin Richards, a physicist in California, created a metal Faraday Suit in 1997 that protects him from Tesla Coil discharges.
+Modern transistor or vacuum tube Tesla coils do not use a primary spark gap.
+The streamers look like a bluish 'haze' at the ends of the more luminous leaders.
+Tesla coil circuits were used commercially in sparkgap radio transmitters for wireless telegraphy until the 1920s, and in electrotherapy and pseudomedical devices such as violet ray.
+A toroidal topload is often preferred to other shapes, such as a sphere.
+The resonant primary circuit is formed by connecting a capacitor in series with the primary winding of the coil, so that the combination forms a series tank circuit with a resonant frequency near that of the secondary circuit.
+These are described in later sections.
+In addition to the primary and secondary coils it had a third "resonator" coil, not magnetically coupled to the others, attached to the top terminal of the secondary.
+However at high frequencies an iron core causes energy losses due to eddy currents and hysteresis, so it is not used in the Tesla coil.
+Experienced Tesla coil builders almost exclusively use the top circuit, often augmenting it with low pass filters (resistor and capacitor (RC) networks) between the supply transformer and spark gap to help protect the supply transformer.
+Although the space charge regions around the toroid are invisible, they play a profound role in the appearance and location of Tesla coil discharges.
+Into this is slipped a primary consisting of eight to ten turns of AWG No.

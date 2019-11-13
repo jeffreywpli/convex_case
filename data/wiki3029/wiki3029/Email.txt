@@ -1,0 +1,200 @@
+The header is separated from the body by a blank line.
+Both the Postal Regulatory Commission and the Federal Communications Commission opposed E-COM.
+:hubhost!middlehost!edgehost!user@uucpgateway.somedomain.example.com
+Each message has exactly one header, which is structured into fields.
+Individuals often check email on smartphones for both personal and work-related messages.
+In the early 1970s, Ray Tomlinson updated an existing utility called SNDMSG so that it could copy messages (as files) over the network.
+Harvard University law professor Lawrence Lessig is credited with coining this term, but he may only have popularized it.
+This can lead to increased stress, decreased satisfaction with work, and some observers even argue it could have a significant negative economic effect, as efforts to read the many emails could reduce productivity.
+Advantages of HTML include the ability to include in-line links and images, set apart previous messages in block quotes, wrap naturally on any display, use emphasis such as underlines and italics, and change font styles.
+An email message sent in the early 1970s looks very similar to a basic text email sent today.
+The USPS explored an electronic messaging initiative in 1977 and later disbanded it.
+The Internet email message format is now defined by RFC 5322, with multimedia content attachments being defined in RFC 2045 through RFC 2049, collectively called ''Multipurpose Internet Mail Extensions'' or ''MIME''.
+RFC 3864 describes registration procedures for message header fields at the IANA; it provides for  permanent and  provisional field names, including also fields defined for MIME, netnews, and HTTP, and referencing relevant RFCs.
+E-COM provided a method for the simple exchange of text messages.
+This server may need to forward the message to other MTAs before the message reaches the final message delivery agent (MDA).
+which routes mail to a user with a "bang path" address at a UUCP host.
+Eventually these systems too could link different organizations as long as they ran the same email system and proprietary protocol.
+Today's email systems are based on a store-and-forward model.
+Within a few years the commercial traffic restriction was removed from NSFNETs AUP, and NSFNET was privatised.
+Sendmail uses this field to affect prioritization of queued email, with "Precedence: special-delivery" messages delivered sooner.
+* ''Precedence'': commonly with values "bulk", "junk", or "list"; used to indicate that automated "vacation" or "out of office" responses should not be returned for this mail, e.g.
+The ubiquity of email for knowledge workers and "white collar" employees has led to concerns that recipients face an "information overload" in dealing with increasing volumes of email.
+Today astronauts aboard the International Space Station have email capabilities via the wireless networking throughout the station and are connected to the ground at 10 Mbit/s Earth to station and 3 Mbit/s station to Earth, comparable to home DSL connection speeds.
+Common header fields for email include:
+* ''Sender'': Address of the actual sender acting on behalf of the author listed in the From: field (secretary, list manager, etc.
+Email played an important part in creating the Internet, and the conversion from ARPANET to the Internet in the early 1980s produced the core of the current services.
+In the late 1990s, the Federal Trade Commission grew concerned with fraud transpiring in email, and initiated a series of procedures on spam, fraud, and phishing.
+To remedy this, the IETF introduced Delivery Status Notifications (delivery receipts) and Message Disposition Notifications (return receipts); however, these are not universally deployed in production.
+* ''e-mail'' has long been the form that appears most frequently in edited, published American English and British English writing as reflected in the Corpus of Contemporary American English data and style guides.
+In some cases, these fraudulent emails incorporate the logo of the purported organization and even the email address may appear legitimate.
+A range of malicious email types exist.
+Also known as "email fatigue", email bankruptcy is when a user ignores a large number of email messages after falling behind in reading and answering them.
+Attached files may contain trojans or viruses.
+While in the earliest years of email, users could only access email on desktop computers, in the 2010s, it is possible for users to check their email when they are away from home, whether they are across town or across the world.
+For example, several writers in the early 1970s used the term to describe fax document transmission.
+* ''E-mail'' is sometimes used, capitalizing the initial ''E'' as in similar abbreviations like ''E-piano'', ''E-guitar'', ''A-bomb'', and ''H-bomb''.
+* ''email'' is the most common form used online, and is required by IETF Requests for Comments and working groups and increasingly by style guides.
+Finally, attached files share many of the same hazards as those found in peer-to-peer filesharing.
+Email has become widely used on smartphones and Wi-Fi-enabled laptops and tablet computers.
+The Post Office Protocol 3 (POP3) is a mail access protocol used by a client application to read messages from the mail server.
+Server-based systems similar to the earlier mainframe systems were developed.
+Microsoft Exchange respects a fine-grained automatic response suppression mechanism, the ''X-Auto-Response-Suppress'' field.
+The message header must include at least the following fields:
+Electronic messages were transmitted to a post office, printed out, and delivered as hard copy.
+The system was called ''MSG''.
+With inclusion of these features, MSG is considered to be the first integrated modern email programme, from which many other applications have descended.
+* Content-Type: Information about how the message is to be displayed, usually a MIME type.
+The ARPANET initially used extensions to the File Transfer Protocol (FTP) to exchange network email, but this is now done with the Simple Mail Transfer Protocol (SMTP), first published as Internet standard 10 (RFC 821) in 1982.
+Barry Wessler then updated RD and called it ''NRD''.
+:Used by Microsoft Office Outlook and OfficeLogic Groupware.
+The delivery time of the messages was the same as First Class mail and cost 26 cents.
+'''Electronic mail''' is a method of exchanging digital messages between computer users; Email first entered substantial use in the 1960s and by the 1970s had taken the form now recognised as '''email'''.
+* ''In-Reply-To'': Message-ID of the message that this is a reply to.
+Historically, the term ''electronic mail'' was used generically for any electronic document transmission.
+Recently the IETF EAI working group has defined some standards track extensions, replacing previous experimental extensions, to allow UTF-8 encoded Unicode characters to be used within the header.
+* ''Bcc'': Blind carbon copy; addresses added to the SMTP delivery list but not (usually) listed in the message data, remaining invisible to other recipients.
+Alerts can also be sent to the smartphone or other device to notify them immediately of new messages.
+Lawrence Roberts, the project manager for the ARPANET development, took the idea of READMAIL, which dumped all "recent" messages onto the user's terminal, and wrote a programme for TENEX in TECO macros called ''RD'', which permitted access to individual messages.
+The US CAN-SPAM Act of 2003 and similar laws elsewhere had some impact, and a number of effective anti-spam techniques now largely mitigate the impact of spam by filtering or rejecting it for most users, but the volume sent is still very high - and increasingly consists not of advertisements for products, but malicious content or links.
+Each field has a name and a value.
+This was very important in the early days of the Internet when network connections were unreliable.
+Some mail servers apply email authentication systems to messages being relayed.
+The service is referred to as ''mail'', and a single piece of electronic mail is called a ''message''.
+For example, in the Multics, the "@" sign meant "kill line" and anything before the "@" sign was ignored, so Multics users had to use a command-line option to specify the destination system.
+* ''To'': The email address(es), and optionally name(s) of the message's recipient(s).
+* ''Return-Path'': when the delivery SMTP server makes the ''final delivery'' of a message, it inserts this field at the top of the header.
+In particular, this allows email addresses to use non-ASCII characters.
+The message header should include at least the following fields:
+Mail, that performs the same tasks.
+# The DNS server for the domain ''b.org'' (''ns.b.org'') responds with any MX records listing the mail exchange servers for that domain, in this case ''mx.b.org'', a message transfer agent (MTA) server run by the recipient's ISP.
+Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging.
+Mail is typically not downloaded to the client, so can't be read without a current Internet connection.
+In the absence of standard methods, a range of system based around the use of web bugs have been developed.
+Email header fields can be multi-line, and each line should be at most 78 characters long and in no event more than 998 characters long.
+Email privacy, without some security precautions, can be compromised because:
+# The MSA determines the destination address provided in the SMTP protocol (not from the message header), in this case ''bob@b.org''.
+In the early 1980s, networked personal computers on LANs became increasingly important.
+Mobile "apps" for email increase accessibility to the medium for users who are out of their home.
+Autodin was supported by 18 large computerized switches, and was connected to the United States General Services Administration Advanced Record System, which provided similar services to roughly 2,500 terminals.
+Such MTAs are called ''open mail relays''.
+In many email clients not changeable except through changing account settings.
+Additionally, many mail user agents do not protect logins and passwords, making them easy to intercept by an attacker.
+Though its use is not strictly defined, URLs of this form are intended to be used to open the new message window of the user's mail client when the URL is activated, with the address as defined by the URL in the ''To:'' field.
+The server sends or receives email via the Internet through the product's Internet mail gateway which also does any necessary reformatting.
+to prevent vacation notices from being sent to all other subscribers of a mailing list.
+A part of the NSFNet AUP forbade commercial traffic.
+Most email software is 8-bit clean but must assume it will communicate with 7-bit servers and mail readers.
+HTML email messages often include an automatically generated plain text copy as well, for compatibility reasons.
+In 2011, shortly after the USPS reported its state of financial bankruptcy, the USPS Office of Inspector General (OIG) began exploring the possibilities of generating revenue through email servicing.
+IMAP shows the headers of messages, the sender and the subject and the device needs to request to download specific messages.
+* ''Cc'': Carbon copy; Many email clients will mark email in one's inbox differently depending on whether they are in the To: or Cc: list.
+# smtp.a.org sends the message to mx.b.org using SMTP.
+The FCC concluded that E-COM constituted common carriage under its jurisdiction and the USPS would have to file a tariff.
+It requires that each mail server must either deliver it onward or return a failure notice (bounce message), but both software bugs and system failures can cause messages to be lost.
+Some Microsoft email clients allow rich formatting using their proprietary Rich Text Format (RTF), but this should be avoided unless the recipient is guaranteed to have a compatible email client.
+* ''References'': Message-ID of the message that this is a reply to, and the message-id of the message the previous reply was a reply to, etc.
+* Alice may not have a MUA on her computer but instead may connect to a webmail service.
+Small portable devices like smartphones are increasingly used to check email while travelling, and to make brief replies, larger devices with better keyboard access being used to reply at greater length.
+In addition to this example, alternatives and complications exist in the email system:
+Neither the users nor their computers are required to be online simultaneously; they need to connect only briefly, typically to a mail server, for as long as it takes to send or receive messages.
+Indicates primary recipients (multiple allowed), for secondary recipients see Cc: and Bcc: below.
+The MSA resolves a domain name to determine the fully qualified domain name of the mail server in the Domain Name System (DNS).
+The low cost of sending such email meant that by 2003 up to 30% of total email traffic was already spam.
+It was found that US adults check their email more than they browse the web or check their Facebook accounts, making email the most popular activity for users to do on their smartphones.
+* Delivery Reports can be used to verify whether an address exists and if so, this indicates to a spammer that it is available to be spammed.
+Initially addresses were of the form, ''username@hostname'' but were extended to "username@host.domain" with the development of the Domain Name System (DNS).
+Email marketing via "opt-in" is often successfully used to send special sales offerings and new product information, but offering hyperlinks or generic information on consumer trends is less useful - and email sent without permission such as "opt-in" is likely to be viewed as unwelcome "email spam".
+Data pertaining to server's activity is also part of the header, as defined below.
+* email messages have to go through intermediate computers before reaching their destination, meaning it is relatively easy for others to intercept and read messages.
+:Used by Opera Mail, KMail, and Apple Mail based on the mbox format.
+These range from various types of email scams, including "social engineering" scams such as advance-fee scam "Nigerian letters", to phishing, email bombardment and email worms.
+Many ISPs now deliberately disable non-delivery reports (NDRs) and delivery receipts due to the activities of spammers:
+The header is structured into fields such as From, To, CC, Subject, Date, and other information about the email.
+Some clients save individual messages as separate files, while others use various database formats, often proprietary, for collective storage.
+:Used by many email clients including Novell GroupWise, Microsoft Outlook Express, Lotus notes, Windows Mail, Mozilla Thunderbird, and Postbox.
+Starting in 1977, the U.S.
+Internal mail systems, in which the information never leaves the organizational network, may be more secure, although information technology personnel and others whose function may involve monitoring or managing may be accessing the email of other employees.
+The early ARPANET dealt with multiple email clients that had various, and at times incompatible, formats.
+SMTP defines the ''trace information'' of a message, which is also saved in the header using the following two fields:
+Originally an ASCII text-only communications medium, Internet email was extended by Multipurpose Internet Mail Extensions (MIME)
+Many mail clients now default to not showing "web content".
+Where larger files need to be shared, file hosting services of various sorts are available; and generally suggested.
+* Bob may pick up his email in many ways, for example logging into mx.b.org and reading it directly, or by using a webmail service.
+As a result, it is difficult to find the first citation for the use of the term with the more specific meaning it has today.
+The "To:" field is similar to the addressing at the top of a conventional letter which is delivered according to the address on the outer envelope.
+The part before the @ sign is the ''local part'' of the address, often the username of the recipient, and the part after the @ sign is a domain name.
+* Domains usually have several mail exchange servers so that they can continue to accept mail even if the primary is not available.
+Certain abbreviations are commonly used in the subject, including "RE:" and "FW:".
+These NDRs then constitute spam from the ISP to the innocent user.
+Flaming occurs when a person sends a message (or many messages) with angry or antagonistic content.
+Postal Service (USPS) recognized that electronic messaging and electronic transactions posed a significant threat to First Class mail volumes and revenue.
+Used to link related messages together.
+Internet email messages consist of two major sections, the message header and the message body.
+This allows users to log in to the email account by using any compatible web browser to send and receive their email.
+Today, there are an estimated 1.4 billion email users worldwide and 50 billion non-spam emails that are sent daily.
+RFC 5322 specifies the precise syntax.
+Several other U.S. federal agencies have also exercised jurisdiction including the Department of Justice and the Secret Service.
+Upon reception of email messages, email client applications save messages in operating system files in the file system.
+The value is continued onto subsequent lines if those lines have a space or tab as their first character.
+Messaging Application Programming Interface (MAPI) is used by Microsoft Outlook to communicate to Microsoft Exchange Server - and to a range of other e-mail server products such as Axigen Mail Server, Kerio Connect, Scalix, Zimbra, HP OpenMail, IBM Lotus Notes, Zarafa, and Bynari where vendors have added MAPI support to allow their products to be accessed directly via Outlook.
+The backups of these can remain for up to several months on their server, despite deletion from the mailbox.
+* ''From'': The email address, and optionally the name of the author(s).
+Like the ''From:'' field, many email clients fill this in automatically when sending.
+However, this mechanism proved to be exploitable by originators of unsolicited bulk email and as a consequence open mail relays have become rare, and many MTAs do not accept messages from open mail relays.
+* ''Received'': when an SMTP server accepts a message it inserts this trace record at the top of the header (last to first).
+John Vittal then updated this version to include three important commands: ''Move'' (combined save/delete command), ''Answer'' (determined to whom a reply should be sent) and ''Forward'' (sent an email to a person who was not already a recipient).
+* Alice or Bob may use a client connected to a corporate email system, such as IBM Lotus Notes or Microsoft Exchange.
+# The MDA delivers it to the mailbox of user ''bob''.
+* ''Reply-To'': Address that should be used to reply to the message.
+The 8BITMIME and BINARY extensions were introduced to allow transmission of mail without the need for these encodings, but many mail transport agents still do not support them fully.
+Furthermore, due to technical reasons, attachment sizes as seen by these transport systems can differ to what the user sees, which can be confusing to senders when trying to assess whether they can safely send a file by email.
+This, in turn, led to the release of David Crocker's RFC 822, "Standard for the Format of ARPA Internet Text Messages" (August 13, 1982).
+Email spoofing may be done as a prank, or as part of a criminal effort to defraud an individual or organization.
+Ray Tomlinson is generally credited as having sent the first email across a network, initiating the use of the "@" sign to separate the names of the user and the user's machine in 1971, when he sent a message from one Digital Equipment Corporation DEC-10 computer to another DEC-10.
+With modern high-bandwidth networks, delivery priority is less of an issue than it once was.
+* ''Authentication-Results'': when a server carries out authentication checks, it can save the results in this field for consumption by downstream agents.
+Email spam and phishing methods typically use spoofing to mislead the recipient about the true message origin.
+Some web-based mailing lists recommend that all posts be made in plain-text, with 72 or 80 characters per line for all the above reasons, but also because they have a significant number of readers using text-based email clients such as Mutt.
+Webmail providers can also disrupt web bugs by pre-caching images.
+This often involved addresses such as:
+In some countries, several encoding schemes coexist; as the result, by default, the message in a non-Latin alphabet language appears in non-readable form (the only exception is coincidence, when the sender and receiver use the same encoding scheme).
+* ''Auto-Submitted'': is used to mark automatically generated messages.
+The Internet Message Access Protocol (IMAP) provides features to manage a mailbox from multiple devices.
+These systems often have their own internal email format and their clients typically communicate with the email server using a vendor-specific, proprietary protocol.
+The reason for falling behind is often due to information overload and a general sense there is so much information that it is not possible to read it all.
+Internet email may travel and be stored on networks and computers without the sender's or the recipient's control.
+Email messages may have one or more attachments, which are additional files that are appended to the email.
+(A complete Message Tracking mechanism was also defined, but it never gained traction; see RFCs 3885 through 3888.)
+Many users access their personal email from friends and family members using a desktop computer in their house or apartment.
+The U.S. state and federal governments have been involved in electronic messaging and the development of email in several different ways.
+Other fields that are added on top of the header by the receiving server may be called ''trace fields'', in a broader sense.
+* ''VBR-Info'': claims VBR whitelisting
+Typical attachments include Microsoft Word documents, pdf documents and scanned images of paper documents.
+Some large files, such as digital photos, color presentations and video or music files are too large for some email systems.
+* Alice's computer may run its own MTA, so avoiding the transfer at step 1.
+# Bob's MUA picks up the message using either the Post Office Protocol (POP3) or the Internet Message Access Protocol (IMAP).
+Email operates across computer networks, which in the 2010s is primarily the Internet.
+to carry text in other character sets and multimedia content attachments.
+* ''Date'': The local time and date when the message was written.
+Server-side storage is often in a proprietary format but since access is through a standard protocol such as IMAP, moving email from one server to another can be done with any MUA supporting the protocol.
+RFC 5322 replaced the earlier RFC 2822 in 2008, and in turn RFC 2822 in 2001 replaced RFC 822 – which had been the standard for Internet email for nearly 20 years.
+The original SMTP mail service provides limited mechanisms for tracking a transmitted message, and none for verifying that it has been delivered or read.
+In principle there is no technical restriction on the size or number of attachments, but in practice email clients, servers and Internet service providers implement various limitations on the size of files, or complete email - typically to 25MB or less.
+The separator is then followed by the field value (the "body" of the field).
+The body contains the message, as unstructured text, sometimes containing a signature block at the end.
+The USPS initiated an experimental email service known as E-COM.
+Email servers accept, forward, deliver, and store messages.
+In the process of transporting email messages between systems, SMTP communicates delivery parameters and information using message header fields.
+Several prominent email clients use their own proprietary format and require conversion software to transfer email between them.
+Some applications (like Apple Mail) leave attachments encoded in messages for searching while also saving separate copies of the attachments.
+The ease and impersonality of email communications mean that the social norms that encourage civility in person or via telephone do not exist and civility may be forgotten.
+The National Science Foundation took over operations of the ARPANET and Internet from the Department of Defense, and initiated NSFNet, a new backbone for the network.
+Twenty years later, in 1997, when email volume overtook postal mail volume, the USPS was again urged to embrace email, and the USPS declined to provide email as a service.
+An example of a potentially fraudulent email spoofing is if an individual creates an email which appears to be an invoice from a major company, and then sends it to one or more recipients.
+Today it can be important to distinguish between Internet and internal email systems.
+Email "spam" is the term used to describe unsolicited commercial, or bulk, email.
+Email bombing is the intentional sending of large volumes of messages to a target address.
+Header fields defined by RFC 5322 can only contain US-ASCII characters; for encoding characters in other sets, a syntax specified in RFC 2047 can be used.
+The two machines were placed next to each other.
+It was also found that 30% of consumers use only their smartphone to check their email, and 91% were likely to check their email at least once per day on their smartphone.

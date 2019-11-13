@@ -1,0 +1,200 @@
+Smolin responded that the claims about background-independence, which Polchinski presents as "clear", are in fact only an unproven hope for future results, and Smolin is skeptical about them being true at all because of fundamental reasons: "If the strong form of the AdS/CFT conjecture is shown to be correct, then a very weak, and limited form of background will have been achieved.
+Schwarz and Green discovered T-duality, and constructed two superstring theories—IIA and IIB related by T-duality, and type I theories with open strings.
+In string theory, D-branes are an important class of branes that arise when one considers open strings.
+Witten's announcement drew together all of the previous results on S- and T-duality and the appearance of higher dimensional branes in string theory.
+Daniel Friedan, Emil Martinec and Stephen Shenker further developed the covariant quantization of the superstring using conformal field theory techniques.
+Another approach to reducing the number of dimensions is the so-called brane-world scenario.
+In string theory, one must typically specify a fixed reference geometry for spacetime, and all other possible geometries are described as perturbations of this fixed one.
+It quickly became clear that D-branes and other p-branes, not just strings, formed the matter content of the string theories, and the physical interpretation of the strings and branes was revealed—they are a type of black hole.
+The physics of the quark–gluon plasma is governed by a theory called quantum chromodynamics, but this theory is mathematically intractable in problems involving the quark–gluon plasma.
+Polchinski notes that an important open problem in quantum gravity is to develop holographic descriptions of gravity which do not require the gravitational field
+Einstein's general theory of relativity treats time as a dimension on par with the three spatial dimensions; in general relativity, space and time are not modeled as separate entities but are instead unified to a four-dimensional spacetime.
+The scattering of strings is most straightforwardly defined using the techniques of perturbation theory, but it is not known in general how to define string theory nonperturbatively.
+Mathematically, branes can be described as objects of certain categories, such as the derived category of coherent sheaves on a complex algebraic variety, or the Fukaya category of a symplectic manifold.
+The result was widely advertised by Murray Gell-Mann, leading Gabriele Veneziano to construct a scattering amplitude that had the property of Dolen-Horn-Schmid duality, later renamed world-sheet duality.
+A seemingly unrelated construction is the -function of number theory.
+The fact that the observed universe has a small cosmological constant is just a tautological consequence of the fact that a small value is required for life to exist.
+For example, a point particle can be viewed as a brane of dimension zero, while a string can be viewed as a brane of dimension one.
+Despite much work on these problems, it is not known to what extent string theory describes the real world or how much freedom the theory allows to choose the details.
+where  is the speed of light,  is Boltzmann's constant,  is the reduced Planck constant,  is Newton's constant, and  is the surface area of the event horizon.
+This idea plays an important role in attempts to develop models of real world physics based on string theory, and it provides a natural explanation for the weakness of gravity compared to the other fundamental forces.
+Strominger and Vafa analyzed such D-brane systems and calculated the number of different ways of placing D-branes in spacetime so that their combined mass and charge is equal to a given mass and charge for the resulting black hole.
+Veneziano himself discovered that for the scattering amplitude to describe the scattering of a particle that appears in the theory, an obvious self-consistency condition, the lightest particle must be a tachyon.
+In 1974, Tamiaki Yoneya discovered that all the known string theories included a massless spin-two particle that obeyed the correct Ward identities to be a graviton.
+In the data, it was clear that the peaks were stealing from the background—the authors interpreted this as saying that the t-channel contribution was dual to the s-channel one, meaning both described the whole amplitude and included the other.
+In quantum field theory, one typically computes the probabilities of various physical events using the techniques of perturbation theory.
+One can therefore consider an auxiliary theory in which "spacetime" is given by the boundary of anti-de Sitter space.
+In the fermion theories, the critical dimension was 10.
+In the absence of an understanding of the true meaning and structure of M-theory, Witten has suggested that the ''M'' should stand for "magic", "mystery", or "membrane" according to taste, and the true meaning of the title should be decided when a more fundamental formulation of the theory is known.
+If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory.
+In addition to influencing research in theoretical physics, string theory has stimulated a number of major developments in pure mathematics.
+The general theory of relativity is formulated within the framework of classical physics, whereas the other fundamental forces are described within the framework of quantum mechanics.
+This theory provides a unified description of three of the fundamental forces of nature: electromagnetism and the strong and weak nuclear forces.
+While the scale was off by many orders of magnitude, the approach he advocated was ideally suited for a theory of quantum gravity.
+Initially, some physicists suggested that the new theory was a fundamental theory of membranes, but Witten was skeptical of the role of membranes in the theory.
+This was the first definition of string theory that was fully non-perturbative and a concrete mathematical realization of the holographic principle.
+Although this function appears in a branch of mathematics which seems very different from the theory of finite groups, the two subjects turn out to be intimately related.
+String theory is a theoretical framework that attempts to address these questions and many others.
+Subsequently, it was realized that the very properties that made string theory unsuitable as a theory of nuclear physics made it a promising candidate for a quantum theory of gravity.
+One of the relationships that can exist between different string theories is called S-duality.
+In the s-channel, the two particles annihilate to make temporary intermediate states that fall apart into the final state particles.
+One can rotate it through 120°, 240°, or 360°, or one can reflect in any of the lines labeled , , or  in the picture.
+These are finite groups which may be used as building blocks for constructing arbitrary finite groups in the same way that prime numbers can be used to construct arbitrary whole numbers by taking products.
+The Big Bang theory is the prevailing cosmological model for the universe from the earliest known periods through its subsequent large-scale evolution.
+Witten noted that the effective description of the physics of D-branes at low energies is by a supersymmetric gauge theory, and found geometrical interpretations of mathematical structures in gauge theory that he and Nathan Seiberg had earlier discovered in terms of the location of the branes.
+The theory of cosmic inflation preserves the successes of the Big Bang while providing a natural explanation for some of the mysterious features of the universe.
+In the same year, Eugene Cremmer, Bernard Julia, and Joel Scherk of the École Normale Supérieure showed that supergravity not only permits up to eleven dimensions but is in fact most elegant in this maximal number of dimensions.
+In ordinary particle theories, one can consider any collection of elementary particles whose classical behavior is described by an arbitrary Lagrangian.
+Today mirror symmetry is an active area of research in mathematics, and mathematicians are working to develop a more complete mathematical understanding of mirror symmetry based on physicists' intuition.
+In this way, all of the different elementary particles may be viewed as vibrating strings.
+Major approaches to mirror symmetry include the homological mirror symmetry program of Maxim Kontsevich and the SYZ conjecture of Andrew Strominger, Shing-Tung Yau, and Eric Zaslow.
+to be asymptotically anti-de Sitter.
+If a string has momentum  and winding number  in one description, it will have momentum  and winding number  in the dual description.
+The formula expresses the entropy  as
+The gauge group of these closed strings was two copies of E8, and either copy could easily and naturally include the standard model.
+Stanley Mandelstam formulated a world sheet conformal theory for both the bose and fermi case, giving a two-dimensional field theoretic path-integral to generate the operator formalism.
+Subsequent work by Strominger, Vafa, and others refined the original calculations and gave the precise values of the "quantum corrections" needed to describe very small black holes.
+Some condensed matter theorists including Subir Sachdev hope that the AdS/CFT correspondence will make it possible to describe these systems in the language of string theory and learn more about their behavior.
+In his book ''Not Even Wrong'', Peter Woit, a lecturer in the mathematics department at Columbia University, has argued that the large number of different physical scenarios renders string theory vacuous as a framework for constructing models of particle physics.
+This problem was solved by the nineteenth-century German mathematician Hermann Schubert, who found that there are exactly 2,875 such lines.
+Like many developing ideas in theoretical physics, string theory does not at present have a mathematically rigorous formulation in which all of its concepts can be defined precisely.
+Similarly, type IIB string theory is related to itself in a nontrivial way by S-duality.
+Compactification can be used to construct models in which spacetime is effectively four-dimensional.
+In the t-channel, the particles exchange intermediate states by emission and absorption.
+There are various operations that one can perform on this triangle without changing its shape.
+On distance scales larger than the string scale, a string will look just like an ordinary particle, with its mass, charge, and other properties determined by the vibrational state of the string.
+For example, the Clebsch cubic illustrated on the right is an algebraic variety defined using a certain polynomial of degree three in four variables.
+One of the challenges of string theory is that the full theory does not have a satisfactory definition in all circumstances.
+A ''p''-brane sweeps out a (''p''+1)-dimensional volume in spacetime called its ''worldvolume''.
+M-theory was also foreshadowed in the work of Paul Townsend at approximately the same time.
+Some string theorists have expressed the view that there does not exist an equally successful alternative theory addressing the deep questions of fundamental physics.
+In late 1997 this line of work culminated in the discovery of the anti-de Sitter/conformal field theory correspondence or AdS/CFT.
+These problems have led some in the community to criticize these approaches to the unification of physics and question the value of continued research on these problems.
+In addition to the problem of developing a consistent theory of quantum gravity, there are many other fundamental problems in the physics of atomic nuclei, black holes, and the early universe.
+Each of these different shapes corresponds to a different possible universe, or "vacuum state", with a different collection of particles and forces.
+In general, the term ''duality'' refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way.
+These particles obey the usual rules of quantum mechanics and in particular evolve in a unitary fashion, so the black hole must also evolve in a unitary fashion, respecting the principles of quantum mechanics.
+In most systems such as gases, the entropy scales with the volume.
+The letter "D" in D-brane refers to a certain mathematical condition on the system known as the Dirichlet boundary condition.
+Stephen Shenker showed it diverged much faster than in field theory suggesting that new non-perturbative objects were missing.
+Edward Witten and others observed this chirality property cannot be readily derived by compactifying from eleven dimensions.
+In 1969, Yoichiro Nambu, Holger Bech Nielsen, and Leonard Susskind recognized that the theory could be given a description in space and time in terms of strings.
+In field theory, the two contributions add together, one giving a continuous background contribution, the other giving peaks at certain energies.
+Another feature of string theory that many physicists were drawn to in the 1980s and 1990s was its high degree of uniqueness.
+Since the 1990s, the connection between string theory and moonshine has led to further results in mathematics and physics.
+The surface of this cylinder plays an important role in the AdS/CFT correspondence.
+The currently accepted theory describing elementary particles and their interactions is known as the standard model of particle physics.
+String theory was first studied in the late 1960s as a theory of the strong nuclear force, before being abandoned in favor of quantum chromodynamics.
+Chew advocated making a theory for the interactions of these trajectories that did not presume that they were composed of any fundamental particles, but would construct their interactions from self-consistency conditions on the S-matrix.
+For example, a string has momentum as it propagates around a circle, and it can also wind around the circle one or more times.
+Compactification is one way of modifying the number of dimensions in a physical theory.
+The other was quantum mechanics, a radically different formalism for describing physical phenomena using probability.
+When combined with ideas of the physicist Stephen Hawking, Bekenstein's work yielded a precise formula for the entropy of a black hole.
+In addition to being an idea of considerable theoretical interest, string theory provides a framework for constructing models of real world physics that combine general relativity and particle physics.
+John Schwarz and Joel Scherk came to the same conclusion and made the bold leap to suggest that string theory was a theory of gravity, not a theory of hadrons.
+Smolin points out that current results about the AdS/CFT conjecture rely on global super-symmetry as perturbative physics, "but the whole point of general relativity and quantum gravity is that the generic solutions are governed by no global symmetries because the geometry of spacetime is completely dynamical", which "makes it very non-trivial to show the strong form of the AdS/CFT conjecture, because  it must extend to solutions of supergravity arbitrarily far from those with global symmetries in the bulk".
+For example, Montonen–Olive duality is example of an S-duality relationship between quantum field theories.
+In the late 1970s, mathematicians John McKay and John Thompson noticed that certain numbers arising in the analysis of the monster group (namely, the dimensions of its irreducible representations) are related to numbers that appear in a formula for the -function (namely, the coefficients of its Fourier series).
+The amplitude needed poles where the particles appear, on straight line trajectories, and there is a special mathematical function whose poles are evenly spaced on half the real line— the Gamma function— which was widely used in Regge theory.
+Inspired by physicists' work on mirror symmetry, mathematicians have therefore constructed their own arguments proving the enumerative predictions of mirror symmetry.
+The earliest version of string theory, bosonic string theory, incorporated only the class of particles known as bosons.
+One approach to formulating string theory and studying its properties is provided by the anti-de Sitter/conformal field theory (AdS/CFT) correspondence.
+In a paper from 1996, Hořava and Witten wrote "As it has been proposed that the eleven-dimensional theory is a supermembrane theory but there are some reasons to doubt that interpretation, we will non-committally call it the M-theory, leaving to the future the relation of M to membranes."
+Black holes are also important for theoretical reasons, as they present profound challenges for theorists attempting to understand the quantum aspects of gravity.
+In a given version of string theory, there is only one kind of string, which may look like a small loop or segment of ordinary string, and it can vibrate in different ways.
+String theory has been applied to a variety of problems in black hole physics, early universe cosmology, nuclear physics, and condensed matter physics, and it has stimulated a number of major developments in pure mathematics.
+Instead, two different versions of string theory, type IIA and type IIB, can be compactified on completely different Calabi–Yau manifolds giving rise to the same physics.
+The claim is that this quantum field theory is equivalent to a gravitational theory, such as string theory, in the bulk anti-de Sitter space in the sense that there is a "dictionary" for translating entities and calculations in one theory into their counterparts in the other theory.
+The calculation showed that the ratio of two quantities associated with the quark–gluon plasma, the shear viscosity and volume density of entropy, should be approximately equal to a certain universal constant.
+Regardless of whether Calabi–Yau compactifications of string theory provide a correct description of nature, the existence of the mirror duality between different string theories has significant mathematical consequences.
+In addition, the predictions in the two theories are quantitatively identical so that if two particles have a 40 percent chance of colliding in the gravitational theory, then the corresponding collections in the boundary theory would also have a 40 percent chance of colliding.
+At the same time, quantum chromodynamics was recognized as the correct theory of hadrons, shifting the attention of physicists and apparently leaving the bootstrap program in the dustbin of history.
+In the early 1980s, Edward Witten discovered that most theories of quantum gravity could not accommodate chiral fermions like the neutrino.
+A celebrated result of nineteenth-century mathematicians Arthur Cayley and George Salmon states that there are exactly 27 straight lines that lie entirely on such a surface.
+A quantum theory of gravity is needed in order to reconcile general relativity with the principles of quantum mechanics, but difficulties arise when one attempts to apply the usual prescriptions of quantum theory to the force of gravity.
+Physicists often study fields analogous to the electromagnetic field which live on the worldvolume of a brane.
+By the late 1970s, these two frameworks had proven to be sufficient to explain most of the observed features of the universe, from elementary particles to atoms to the evolution of stars and the universe as a whole.
+Developed by Alan Guth and others in the 1980s, inflation postulates a period of extremely rapid accelerated expansion of the universe prior to the expansion described by the standard Big Bang theory.
+String phenomenology is the part of string theory that attempts to construct realistic or semi-realistic models based on string theory.
+During this period, David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm discovered heterotic strings.
+String theory was originally developed during the late 1960s and early 1970s as a never completely successful theory of hadrons, the subatomic particles like the proton and neutron that feel the strong interaction.
+These are defined as black holes with the lowest possible mass compatible with a given charge.
+This construction describes a hypothetical universe with only two space dimensions and one time dimension, but it can be generalized to any number of dimensions.
+Unlike supergravity theory, string theory was able to accommodate the chirality of the standard model, and it provided a theory of gravity consistent with quantum effects.
+In this setting, one can imagine the membrane wrapping around the circular dimension.
+In 1979, Daniel Friedan showed that the equations of motions of string theory, which are generalizations of the Einstein equations of General Relativity, emerge from the Renormalization group equations for the two-dimensional field theory.
+In 1987, Eric Bergshoeff, Ergin Sezgin, and Paul Townsend showed that eleven-dimensional supergravity includes two-dimensional branes.
+Group theory is the branch of mathematics that studies the concept of symmetry.
+A standard analogy for this is to consider a multidimensional object such as a garden hose.
+Petr Hořava and Witten found the eleven-dimensional formulation of the heterotic string theories, showing that orbifolds solve the chirality problem.
+This is because the standard model fails to incorporate the force of gravity and because of problems such as the hierarchy problem and the inability to explain the structure of fermion masses or dark matter.
+Shortly after this discovery, Michael Duff, Paul Howe, Takeo Inami, and Kellogg Stelle considered a particular compactification of eleven-dimensional supergravity with one of the dimensions curled up into a circle.
+Indeed, in 1998, Strominger argued that the original result could be generalized to an arbitrary consistent theory of quantum gravity without relying on strings or supersymmetry.
+In 1986, geometer Sheldon Katz proved that the number of curves, such as circles, that are defined by polynomials of degree two and lie entirely in the quintic is 609,250.
+In mathematics, a matrix is a rectangular array of numbers or other data.
+Miranda Cheng, John Duncan, and Jeffrey A. Harvey proposed a generalization of this moonshine phenomenon called umbral moonshine, and their conjecture was proved mathematically by Duncan, Michael Griffin, and Ken Ono.
+In the currently accepted models of stellar evolution, black holes are thought to arise when massive stars undergo gravitational collapse, and many galaxies are thought to contain supermassive black holes at their centers.
+In general relativity, a black hole is defined as a region of spacetime in which the gravitational field is so strong that no particle or radiation can escape.
+This observation is the starting point for AdS/CFT correspondence, which states that the boundary of anti-de Sitter space can be regarded as the "spacetime" for a quantum field theory.
+Some of the structures reintroduced by string theory arose for the first time much earlier as part of the program of classical unification started by Albert Einstein.
+As with the hyperbolic plane, anti-de Sitter space is curved in such a way that any point in the interior is actually infinitely far from this boundary surface.
+One of these frameworks was Albert Einstein's general theory of relativity, a theory that explains the force of gravity and the structure of space and time.
+In late 1997, theorists discovered an important relationship called the AdS/CFT correspondence, which relates string theory to another type of physical theory called a quantum field theory.
+In 2008, the predicted value of this ratio for the quark–gluon plasma was confirmed at the Relativistic Heavy Ion Collider at Brookhaven National Laboratory.
+In addition to its applications to theoretical problems in quantum gravity, the AdS/CFT correspondence has been applied to a variety of problems in quantum field theory.
+There are certain paradoxes that arise when one attempts to understand the quantum aspects of black holes, and work on string theory has attempted to clarify these issues.
+This duality implies that strings propagating on completely different spacetime geometries may be physically equivalent.
+As suggested by 't Hooft, the fluctuations of the black hole horizon, the world-sheet or world-volume theory, describes not only the degrees of freedom of the black hole, but all nearby objects too.
+The same year, Alexander Polyakov gave the theory a modern path integral formulation, and went on to develop conformal field theory extensively.
+Starting with the ten- or eleven-dimensional spacetime of string or M-theory, physicists postulate a shape for the extra dimensions.
+While there has been progress toward these goals, it is not known to what extent string theory describes the real world or how much freedom the theory allows to choose the details.
+During this period, Tom Banks, Willy Fischler, Stephen Shenker and Leonard Susskind formulated matrix theory, a full holographic description of M-theory using IIA D0 branes.
+Einstein introduced a non-symmetric metric tensor, while much later Brans and Dicke added a scalar component to gravity.
+Boltzmann argued that by averaging the behaviors of all the different molecules in a gas, one can understand macroscopic properties such as volume, temperature, and pressure.
+A matrix model describes the behavior of a set of matrices within the framework of quantum mechanics.
+The exact properties of this particle are not fixed by the theory but should ultimately be derived from a more fundamental theory such as string theory.
+In string theory, one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries gravitational force.
+Put differently, the two theories are mathematically different descriptions of the same phenomena.
+One notable fact about string theory is that the different versions of the theory all turn out to be related in highly nontrivial ways.
+In 1975, Stephen Hawking published a calculation which suggested that black holes are not completely black but emit a dim radiation due to quantum effects near the event horizon.
+The connection between the physical notion of a brane and the mathematical notion of a category has led to important mathematical insights in the fields of algebraic and symplectic geometry and representation theory.
+In other words, a system of strongly interacting D-branes in string theory is indistinguishable from a black hole.
+It is also not clear whether there is any principle by which string theory selects its vacuum state, the physical state that determines the properties of our universe.
+Currently, the leading candidate for a theory going beyond the Big Bang is the theory of cosmic inflation.
+In this particular example, the group is known as the dihedral group of order 6 because it has six elements.
+If the radius of the circle is sufficiently small, then this membrane looks just like a string in ten-dimensional spacetime.
+One can imagine a stack of hyperbolic disks where each disk represents the state of the universe at a given time.
+In string theory and related theories, a brane is a physical object that generalizes the notion of a point particle to higher dimensions.
+In compactification, some of the extra dimensions are assumed to "close up" on themselves to form circles.
+The word brane comes from the word "membrane" which refers to a two-dimensional brane.
+An important feature of anti-de Sitter space is its boundary (which looks like a cylinder in the case of three-dimensional anti-de Sitter space).
+The amplitude could fit near-beam scattering data as well as other Regge type fits, and had a suggestive integral representation that could be used for generalization.
+In an interview from 1987, Nobel laureate David Gross made the following controversial comments about the reasons for the popularity of string theory:
+It is also possible to consider higher-dimensional branes.
+This understanding changed in 1995 when Edward Witten suggested that the five theories were just special limiting cases of an eleven-dimensional theory called M-theory.
+The apparent contradiction between Hawking's calculation and the unitarity postulate of quantum mechanics came to be known as the black hole information paradox.
+Speaking at a string theory conference in 1995, Edward Witten made the surprising suggestion that all five superstring theories were in fact just different limiting cases of a single theory in eleven spacetime dimensions.
+By manipulating combinations of Gamma functions, Veneziano was able to find a consistent scattering amplitude with poles on straight lines, with mostly positive residues, which obeyed duality and had the appropriate Regge scaling at high energy.
+By choosing this shape appropriately, they can construct models roughly similar to the standard model of particle physics, together with additional undiscovered particles.
+This hypothesis, which is called the AdS/CFT correspondence, was further developed by Steven Gubser, Igor Klebanov and Alexander Polyakov, and by Edward Witten, and it is now well-accepted.
+One important example of a matrix model is the BFSS matrix model proposed by Tom Banks, Willy Fischler, Stephen Shenker, and Leonard Susskind in 1997.
+Such compactifications offer many ways of extracting realistic physics from string theory.
+However, not every way of compactifying the extra dimensions produces a model with the right properties to describe nature.
+At the level of Feynman diagrams, this means replacing the one-dimensional diagram representing the path of a point particle by a two-dimensional surface representing the motion of a string.
+In string theory, the possibilities are much more constrained: by the 1990s, physicists had argued that there were only five consistent supersymmetric versions of the theory.
+By applying the AdS/CFT correspondence, Sơn and his collaborators were able to describe the quark gluon plasma in terms of black holes in five-dimensional spacetime.
+The AdS/CFT correspondence resolves the black hole information paradox, at least to some extent, because it shows how a black hole can evolve in a manner consistent with quantum mechanics in some contexts.
+In dimension ''p'', these are called ''p''-branes.
+Ferdinando Gliozzi, Joel Scherk, and David Olive realized in 1976 that the original Ramond and Neveu Schwarz-strings were separately inconsistent and needed to be combined.
+His announcement led to a flurry of research activity now known as the second superstring revolution.
+In their original paper, these authors showed, among other things, that the low energy limit of this matrix model is described by eleven-dimensional supergravity.
+Whereas general relativity makes sense in any number of dimensions, supergravity places an upper limit on the number of dimensions.
+This subject is a generalization of ordinary geometry in which mathematicians define new geometric notions using tools from noncommutative algebra.
+Roughly speaking, a collection of particles is said to be strongly interacting if they combine and decay often and weakly interacting if they do so infrequently.
+This theory describes the behavior of a set of nine large matrices.
+Charles Thorn, Peter Goddard and Richard Brower went on to prove that there are no wrong-sign propagating states in dimensions less than or equal to 26.
+In 1992, Richard Borcherds constructed a bridge between the theory of modular functions and finite groups and, in the process, explained the observations of McKay and Thompson.
+According to Woit, "in this case anthropic reasoning is nothing more than an excuse for failure.
+In a paper from 1998, Alain Connes, Michael R. Douglas, and Albert Schwarz showed that some aspects of matrix models and M-theory are described by a noncommutative quantum field theory, a special kind of physical theory in which spacetime is described mathematically using noncommutative geometry.
+It is an example of a gauge-gravity duality and is now understood to be a special case of the AdS/CFT correspondence.
+Indeed, one can consider black holes in the context of the AdS/CFT correspondence, and any such black hole corresponds to a configuration of particles on the boundary of anti-de Sitter space.

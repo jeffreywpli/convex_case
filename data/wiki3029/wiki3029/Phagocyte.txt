@@ -1,0 +1,200 @@
+Mature macrophages do not travel far but stand guard over those areas of the body that are exposed to the outside world.
+T cells that bind (via their T cell receptor) to self antigen (presented by dendritic cells on MHC molecules) too strongly are induced to die.
+These chemical signals may include proteins from invading bacteria, clotting system peptides, complement products, and cytokines that have been given off by macrophages located in the tissue near the infection site.
+In this disease there is an abnormality affecting different elements of oxygen-dependent killing.
+Dying cells and foreign organisms are consumed by cells other than the "professional" phagocytes.
+''Staphylococcus aureus'', for example, produces the enzymes catalase and superoxide dismutase, which break down chemicals—such as hydrogen peroxide—produced by phagocytes to kill bacteria.
+free and fixed macrophages and monocytes, dendritic cells
+They include  opsonin receptors, scavenger receptors, and Toll-like receptors.
+Experiments have shown that a reduction in the number of neutrophils lessens the effects of acute lung injury, but treatment by inhibiting neutrophils is not clinically realistic, as it would leave the host vulnerable to infection.
+Neutrophils also play a key role in the development of most forms of acute lung injury.
+The first type is the oxygen-dependent production of a superoxide,  which is an oxygen-rich bacteria-killing substance.
+Phagocytosis of bacteria by human neutrophils takes on average nine minutes.
+Gut and intestinal Peyer's patches
+T helper cells (also known as effector T cells or Th cells), a sub-group of lymphocytes, are responsible for the activation of macrophages.
+When neutrophils release their granule contents in the kidney, the contents of the granule (reactive oxygen compounds and proteases) degrade the extracellular matrix of host cells and can cause damage to glomerular cells, affecting their ability to filter blood and causing changes in shape.
+The superoxide  is converted to hydrogen peroxide and singlet oxygen by an enzyme called superoxide dismutase.
+Some of the amoebae engulf bacteria and absorb toxins while circulating within the slug, and these amoebae eventually die.
+Like animal phagocytes, it engulfs bacteria by phagocytosis mainly through Toll-like receptors, and it has other biological functions in common with macrophages.
+Once activated, they mature and migrate to the lymphoid tissues where they interact with T cells and B cells to initiate and orchestrate the adaptive immune response.
+Some phagocytes kill the ingested pathogen with oxidants and nitric oxide.
+There are two "professional" antigen-presenting cells: macrophages and dendritic cells.
+Innate immunity is very effective but non-specific in that it does not discriminate between different sorts of invaders.
+Once they have received the appropriate signals, it takes them about thirty minutes to leave the blood and reach the site of an infection.
+Septic shock can lead to death.
+This multicellular organism eventually will produce a fruiting body with spores that are resistant to environmental dangers.
+In 1882, he studied motile (freely moving) cells in the larvae of starfishes, believing they were important to the animals' immune defenses.
+Macrophages and neutrophils, in particular, play a central role in the inflammatory process by releasing proteins and small-molecule inflammatory mediators that control infection but can damage host tissue.
+Third, some species of bacteria can inhibit the ability of phagocytes to travel to the site of infection by interfering with chemotaxis.
+Mast cells have Toll-like receptors and interact with dendritic cells, B cells, and T cells to help mediate adaptive immune functions.
+Neutrophils travel across epithelial cell-lined organs to sites of infection, and although this is an important component of fighting infection, the migration itself can result in disease-like symptoms.
+To get safely inside the phagocyte they  express proteins called "invasins".
+Bacteria have developed several ways of killing phagocytes.
+Activated macrophages play a potent role in tumor destruction  by producing TNF-alpha, IFN-gamma, nitric oxide, reactive oxygen compounds, cationic proteins, and hydrolytic enzymes.
+The second type of immunological tolerance is peripheral tolerance.
+There are four main types.
+The main difference between professional and non-professional phagocytes is that the professional phagocytes have molecules called receptors on their surfaces that can detect harmful objects, such as bacteria, that are not normally found in the body.
+The ability of amoebae to distinguish between self and non-self is a pivotal one, and is the root of the immune system of many species of amoeba.
+Chemotaxis is the process by which phagocytes follow the cytokine "scent" to the infected spot.
+''Dictyostelium discoideum'', for example, is an amoeba that lives in the soil and feeds on bacteria.
+Hypochlorite is extremely toxic to bacteria.
+However, if a bacterial infection spreads to the blood, TNF-α is released into vital organs, which can cause vasodilation and a decrease in plasma volume; these in turn can be followed by septic shock.
+Once inside the cell, viruses use the cell's biological machinery to their own advantage, forcing the cell to make hundreds of identical copies of themselves.
+The second type involves the use of the enzyme myeloperoxidase  from neutrophil granules.
+Neutrophil secretions increase phagocytosis and the formation of reactive oxygen compounds involved in intracellular killing.
+Dendritic cells are specialized antigen-presenting cells that have long outgrowths called dendrites, that help to engulf microbes and other invaders.
+Phagocytosis occurs after the foreign body, a bacterial cell, for example, has bound to molecules called "receptors" that are on the surface of the phagocyte.
+The protozoan parasites ''Toxoplasma gondii'', ''Trypanosoma cruzi'', and ''Leishmania'' infect macrophages, and each has a unique way of taming them.
+In contrast to necrosis, which often results from disease or trauma, apoptosis—or programmed cell death—is a normal healthy function of cells.
+Phagocytes occur throughout the animal kingdom, from marine sponges to insects and lower and higher vertebrates.
+'''Phagocytes''' are cells that protect the body by ingesting (phagocytosing) harmful foreign particles, bacteria, and dead or dying cells.
+Signals from the infection cause the endothelial cells that line the blood vessels to make a protein called selectin, which neutrophils stick to on passing by.
+In this state, macrophages are good antigen presenters and  killers.
+This enhances immunity because the lymphocytes respond to the antigens presented by the dendritic cells just as they would at the site of the original infection.
+This release of substances promotes chemotaxis of more neutrophils to the site of infection, and glomerular cells can be damaged further by the adhesion molecules during the migration of neutrophils.
++ '''Non-professional Phagocytes'''
+Phagocytes, in particular dendritic cells and macrophages, stimulate lymphocytes to produce antibodies by an important process called antigen presentation.
+The source of interferon-gamma can be CD4+ T cells, CD8+ T cells, natural killer cells, B cells, natural killer T cells, monocytes, macrophages, or dendritic cells.
+In some diseases, e.g., the rare chronic granulomatous disease, the efficiency of phagocytes is impaired, and recurrent bacterial infections are a problem.
+They specialize in processing the fimbrial proteins on the surface of bacteria, which are involved in adhesion to tissues.
+Variety of phenotypes
+Mast cells can consume and kill gram-negative bacteria (e.g., salmonella), and process their antigens.
+Myeloperoxidase contains a heme pigment, which accounts for the green color of secretions rich in neutrophils, such as pus and infected sputum.
+But dendritic cells can also destroy or pacify lymphocytes if they recognize components of the host body; this is necessary to prevent autoimmune reactions.
+They derive from monocytes, granulocyte stem cells, or the  cell division of pre-existing macrophages.
+Mature neutrophils are smaller than monocytes and have a segmented nucleus with several sections; each section is connected by chromatin filaments—neutrophils can have 2–5 segments.
+He went on to extend his observations to the white blood cells of mammals and discovered that the bacterium ''Bacillus anthracis'' could be engulfed and killed by phagocytes, a process that he called phagocytosis.
+The injury done to the glomerular cells can cause renal failure.
+Amoebae are unicellular protists that separated from the tree leading to metazoa shortly after the divergence of plants, and they share many specific functions with mammalian phagocytic cells.
+Phagocytosis is common and probably appeared early in evolution,  evolving first in unicellular eukaryotes.
+These peptides are then bound to the cell's major histocompatibility complex (MHC) glycoproteins, which carry the peptides back to the phagocyte's surface where they can be "presented" to lymphocytes.
+They can communicate with other cells by producing chemicals called cytokines, which recruit other phagocytes to the site of infections or stimulate dormant lymphocytes.
+These molecules mark the cell for phagocytosis by cells that possess the appropriate receptors, such as macrophages.
+free and fixed macrophages, monocytes, sinusoidal cells
+Mature monocytes have large, smooth, lobed nuclei and abundant cytoplasm that contains granules.
+Variety of phenotypes
+This cytokine—a class of signaling molecule—kills cancer cells and cells infected by viruses, and helps to activate the other cells of the immune system.
+Some proteins hinder opsonin-related ingestion; ''Staphylococcus aureus'' produces Protein A to block antibody receptors, which decreases the effectiveness of opsonins.
+Neutrophils can  secrete products that stimulate monocytes and macrophages.
+In 1903, Almroth Wright discovered that phagocytosis was reinforced by specific antibodies that he called opsonins, from the Greek ''opson'', "a dressing or relish".
+Kupffer cells, monocytes
+Before the formation of fruiting bodies, the cells will migrate as a slug-like organism for several days.
+Bacteria often produce proteins or sugars that coat their cells and interfere with phagocytosis; these are called capsules.
+This ancient immune function in social amoebae suggests an evolutionarily conserved cellular foraging mechanism that might have been adapted to defense functions well before the diversification of amoebae into higher forms.
+Macrophages  cause inflammation through the production of interleukin-1, interleukin-6, and TNF-alpha.
+Viruses can reproduce only inside cells, and they gain entry by using many of the receptors involved in immunity.
+neutrophils, monocytes
+A macrophage's location can determine its size and appearance.
+Other signals include TNF-alpha and lipopolysaccharides from bacteria.
+Phagocytes are crucial in fighting infections, as well as in maintaining healthy tissues by removing dead and dying cells that have reached the end of their lifespan.
+Phagocytes have voracious appetites; scientists have even fed macrophages with iron filings and then used a small magnet to separate them from other cells.
+When a phagocyte ingests bacteria (or any material), its oxygen consumption increases.
+Some self reactive T cells escape the thymus for a number of reasons, mainly due to the lack of expression of some self antigens in the thymus.
+In general, phagocytes aim to destroy pathogens by engulfing them and subjecting them to a battery of toxic chemicals inside a phagolysosome.
+There they act as garbage collectors, antigen presenting cells, or ferocious killers, depending on the signals they receive.
+There are about 500 million monocytes in one litre of human blood.
+Nitric oxide is then released from the macrophage and, because of its toxicity, kills  microbes near the macrophage.
+This process is important in building immunity, and many pathogens have evolved methods to evade attacks by phagocytes.
+Phagocytes occur in many species; some amoebae behave like macrophage phagocytes, which suggests that phagocytes appeared early in the evolution of life.
+free and fixed macrophages and monocytes
+Their name comes from the Greek ''phagein'', "to eat" or "devour", and "-cyte", the suffix in biology denoting "cell", from the Greek ''kutos'', "hollow vessel".
+During an infection, chemical signals attract phagocytes to places where the pathogen has invaded the body.
+Neutrophils do not normally exit the bone marrow until maturity but during an infection neutrophil precursors called myelocytes and promyelocytes are released.
+The adaptive immune system is not dependent on phagocytes but lymphocytes, which produce protective proteins called antibodies, which tag invaders for destruction and prevent viruses from infecting cells.
+The second type uses lysozymes; these enzymes break down the bacterial cell wall.
+Second, bacteria can suppress the inflammatory response; without this response to infection phagocytes cannot respond adequately.
+Phagocytes are important throughout the animal kingdom and are highly developed within vertebrates.
+Mechnikov proposed that phagocytes were a primary defense against invading organisms.
+Phosphatidylserine is normally found on the cytosolic surface of the plasma membrane, but is redistributed during apoptosis to the extracellular surface by a hypothetical protein known as scramblase.
+At the sites of viral infections, lymphocytes often vastly outnumber all the other cells of the immune system; this is common in viral meningitis.
+Their size and rate of phagocytosis increases—some become large enough to engulf  invading protozoa.
+In the tissues, they are activated by cytokines and arrive at the battle scene ready to kill.
+Dying cells that undergo the final stages of apoptosis display  molecules, such as phosphatidylserine, on their cell surface to attract phagocytes.
+They are called non-professional phagocytes, to emphasize that, in contrast to professional phagocytes, phagocytosis is not their principal function.
+They secrete cytokines that act on the bone marrow to stimulate the production of monocytes and neutrophils, and they secrete some of the cytokines that are responsible for the migration of monocytes and neutrophils out of the bloodstream.
+When they receive signals from macrophages at the sites of inflammation, they slow down and leave the blood.
+Virus-infected cells that have been killed by lymphocytes are cleared from the body by phagocytes.
+The killing of microbes is a critical function of phagocytes that is performed either within the phagocyte (intracellular killing) or outside of the phagocyte (extracellular killing).
+The oxygen compounds are toxic to both the invader and the cell itself, so they are kept in compartments inside the cell.
+However, a common ancestry with mammalian phagocytes has not been proven.
+''Treponema pallidum''—the bacterium that causes syphilis—hides from phagocytes by coating its surface with fibronectin, which is  produced naturally by the body and plays a crucial role in wound healing.
+During this time, exposure to toxins or bacterial pathogens has the potential to compromise survival of the species by limiting spore production.
+Fourth, some bacteria can avoid contact with phagocytes by tricking the immune system into "thinking" that the bacteria are "self".
+This process is called tolerance.
+But, during an infection, they receive chemical signals—usually interferon gamma—which increases their production of MHC II molecules and which prepares them for presenting antigens.
+Phagocytes can also kill microbes by oxygen-independent methods, but these are not as effective as the oxygen-dependent ones.
+When granules fuse with a phagosome, myeloperoxidase is released into the phagolysosome, and this enzyme uses hydrogen peroxide and chlorine to create hypochlorite, a substance used in domestic bleach.
+In this semi-resting state,  they clear  away dead host cells and other non-infectious debris and rarely take part in antigen presentation.
+self-replicating macrophages, monocytes, mast cells, dendritic cells
+A year later, Mechnikov studied a fresh water crustacean called ''Daphnia'', a tiny transparent animal that can be examined directly under a microscope.
+All phagocytes, and especially macrophages, exist in degrees of readiness.
+Other pathogens, such as ''Leishmania'', create a highly modified vacuole inside the phagocyte, which helps them persist and replicate.
+The increase in oxygen consumption, called a respiratory burst, produces reactive oxygen-containing molecules that are anti-microbial.
+TNF-α is an important chemical that is released by macrophages that causes the blood in small vessels to clot to prevent an infection from spreading.
+Chemicals released by macrophages can also damage host tissue.
+To reach the site of infection, phagocytes leave the bloodstream and enter the affected tissues.
+Dendritic cells and macrophages are not so fast, and phagocytosis can take many hours in these cells.
+To test his idea, he inserted small thorns from a tangerine tree into the larvae.
+Some survival strategies often involve disrupting cytokines and other methods of cell signaling to prevent the phagocyte's  responding to invasion.
+However, if they receive a signal directly from an invader, they become "hyperactivated", stop proliferating, and concentrate on killing.
+Additionally, most nonprofessional phagocytes do not produce reactive oxygen-containing molecules in response to phagocytosis.
+resident Langerhans cells, other dendritic cells, conventional macrophages, mast cells
+Binding to Toll-like receptors increases phagocytosis and causes the phagocyte to release a group of hormones that cause inflammation.
+This method of killing invading microbes by using the reactive oxygen-containing molecules is referred to as oxygen-dependent intracellular killing, of which there are two types.
+Some species of ''Leishmania'' alter the infected macrophage's signalling, repress the production of cytokines and microbicidal molecules—nitric oxide and reactive oxygen species—and compromise antigen presentation.
+Non-professional phagocytes are more limited than professional phagocytes in the type of particles they can take up.
+First, they can grow in sites that phagocytes are not capable of traveling to (e.g., the surface of unbroken skin).
+Monocytes ingest foreign or dangerous substances and present antigens to other cells of the immune system.
+The Russian zoologist Ilya Ilyich Mechnikov (1845–1916) first recognized that specialized cells were involved in defense against microbial infections.
+The intra-cellular granules of the human neutrophil have long been recognized for their protein-destroying and bactericidal properties.
+During septic shock, TNF-α release causes a blockage of the small vessels that supply blood to the vital organs, and the organs may fail.
+During an infection, millions of neutrophils are recruited from the blood, but they die after a few days.
+They are genetically identical to the other amoebae in the slug; their self-sacrifice to protect the other amoebae from bacteria is similar to the self-sacrifice of phagocytes seen in the immune system of higher vertebrates.
+Blood, lymph and lymph nodes
+The phagocyte then stretches itself around the bacterium and engulfs it.
+''Streptococcus pneumoniae'' produces several types of capsule that provide different levels of protection, and group A streptococci produce proteins such as M protein and fimbrial proteins to block engulfment.
+macrophages, monocytes, sinusoidal cells, lining cells
+The  professional phagocytes are the monocytes, macrophages, neutrophils, tissue  dendritic cells and mast cells.
+In addition to these functions, mast cells produce cytokines that induce an inflammatory response.
+These cells include epithelial cells, endothelial cells, fibroblasts, and mesenchymal cells.
+In addition, phospholipase products (e.g., leukotrienes) intensify the damage.
+Neutrophils are normally found in the bloodstream and are the most abundant type of phagocyte, constituting 50% to 60% of the total circulating white blood cells.
+When an infection occurs, a chemical "SOS" signal is given off to attract phagocytes to the site.
+Pathogenic bacteria and protozoa have developed a variety of methods to resist attacks by phagocytes, and many actually survive and replicate within phagocytic cells.
+Phagocytes form part of the innate immune system, which animals, including humans, are born with.
+Dendritic cells are present in the tissues that are in contact with the external environment, mainly the skin, the inner lining of the nose, the lungs, the stomach, and the intestines.
+Phagocytes are usually not bound to any particular organ but move through the body interacting with the other phagocytic and non-phagocytic cells of the immune system.
+Some phagocytes then travel to the body's lymph nodes and display the material to white blood cells called lymphocytes.
+They are ferocious eaters and rapidly engulf invaders coated with antibodies and complement, and damaged cells or cellular debris.
+They are essential for fighting infections and for subsequent immunity.
+The body has to rid itself of millions of dead or dying cells every day, and phagocytes play a crucial role in this process.
+The first uses electrically charged proteins that damage the bacterium's membrane.
+Here, activated neutrophils release the contents of their toxic granules into the lung environment.
+Human macrophages are about 21 micrometers in diameter.
+In an animal, cells are constantly dying.
+Scavenger receptors bind to a large range of molecules on the surface of bacterial cells, and Toll-like receptors—so called because of their similarity to well-studied receptors in fruit flies that are encoded by the Toll gene—bind to more specific molecules.
+Interferon-gamma—which was once called macrophage activating factor—stimulates macrophages to produce nitric oxide.
+When immunological tolerance fails, autoimmune diseases can follow.
+The phagocytes move by a method called chemotaxis.
+In the liver, damage by neutrophils can contribute to dysfunction and injury in response to the release of endotoxins produced by bacteria, sepsis, trauma, alcoholic hepatitis, ischemia, and hypovolemic shock resulting from acute hemorrhage.
+After a few hours he noticed that the motile cells had surrounded the thorns.
+A balance between cell division and cell death keeps the number of cells relatively constant in adults.
+Macrophages are slow and untidy eaters; they engulf huge quantities of material and frequently release some undigested back into the tissues.
+There are two different ways a cell can die: by necrosis or by apoptosis.
+The fourth type uses proteases and hydrolytic enzymes; these enzymes are used to digest the proteins of destroyed bacteria.
+Most monocytes leave the blood stream after 20–40 hours to travel to tissues and organs and in doing so transform into macrophages or dendritic cells depending on the signals they receive.
+NK and LGL cells (large granular lymphocytes)
+It involves a chain of molecular processes.
+Bacteria have developed ways to survive inside phagocytes, where they continue to evade the immune system.
+Blood, lymph and lymph nodes
+These chemicals may come from bacteria or from other phagocytes already present.
+Although the importance of these discoveries slowly gained acceptance during the early twentieth century, the intricate relationships between phagocytes and all the other components of the immune system were not known until the 1980s.
+He discovered that fungal spores that attacked the animal were destroyed by phagocytes.
+Within one minute the phagosome merges with either a lysosome or a granule to form a phagolysosome.
+Th1 cells come from the differentiation of CD4+ T cells once they have responded to antigen in the secondary lymphoid tissues.
++ '''Professional Phagocytes'''
+After phagocytosis, macrophages and dendritic cells can also participate in antigen presentation, a process in which a phagocyte moves parts of the ingested material back to its surface.
+Activated macrophages produce and secrete tumor necrosis factor.
+Antigen presentation is a process in which some phagocytes move parts of engulfed materials back to the surface of their cells and "present" them to other cells of the immune system.
+histiocytes, macrophages, monocytes, dendritic cells
+Macrophages can be activated to perform functions that a resting monocyte cannot.

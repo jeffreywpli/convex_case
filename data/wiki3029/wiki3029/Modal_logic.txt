@@ -1,0 +1,200 @@
+These differ in the choice of Accessibility relation.
+Philosophers ponder the properties that objects have independently of those dictated by scientific laws.
+For this reason, or perhaps for their familiarity and simplicity, necessity and possibility are often casually treated as ''the'' subject matter of modal logic.
+In 1977, Amir Pnueli proposed using temporal logic to formalise the behaviour of continually operating concurrent programs.
+Linear Temporal Logic.
+C. I. Lewis founded modern modal logic in his 1910 Harvard thesis and in a series of scholarly articles beginning in 1912.
+* '''K''', ''Distribution Axiom'': .
+Alternative symbols used for the modal operators are "L" for Necessarily and "M" for Possibly.
+Next, the ''frame'' is extended to a ''model'' by specifying the truth-values of all propositions at each of the worlds in ''G''.
+A person, Jones, might reasonably say ''both'': (1) "No, it is ''not'' possible that Bigfoot exists; I am quite certain of that"; ''and'', (2) "Sure, Bigfoot possibly ''could'' exist".
+In one version, ◇''P'' means "at a future time in the computation it is possible that the computer state will be such that P is true"; □''P'' means "at all future times in the computation P will be true".
+Saul Kripke has argued that every person necessarily has the parents they do have: anyone with different parents would not be the same person.
+It is worthwhile to observe that Jones is not necessarily correct: It is possible (epistemically) that Goldbach's conjecture is both true and unprovable.
+The mathematical structure of modal logic, namely Boolean algebras augmented with unary operations (often called modal algebras), began to emerge with J. C. C. McKinsey's 1941 proof that ''S2'' and ''S4'' are decidable, and reached full flower in the work of Alfred Tarski and his student Bjarni Jónsson (Jónsson and Tarski 1951–52).
+Alternatively think of configurations of objects and materials that could have been differently arranged.
+The difference between "You must do this" and "You may do this" looks a lot like the difference between "This is necessary" and "This is possible".
+It is an embodiment of the Kantian idea that "ought implies can".
+Likewise, a prefixed "diamond" (◇''p'') denotes "possibly ''p''".
+Modals—words that express modalities—qualify a statement.
+:  if and only if for some element ''u'' of ''G'', it holds that .
+:  if and only if for some element ''u'' of ''G'', it holds that  and ''w R u''.
+For example, if ''x'' knows that ''p'', does ''x'' know that it knows that ''p''?
+These two examples involve nondeterministic or not-fully-understood computations; there are many other modal logics specialized to different types of program analysis.
+* '''Euclidean''' iff, for every ''u'', ''t'', and ''w'', ''w R u'' and ''w R t'' implies ''u R t'' (note that it also implies: ''t R u'')
+According to these semantics, a truth is ''necessary'' with respect to a possible world ''w'' if it is true at every world that is accessible to ''w'', and ''possible'' if it is true at some world that is accessible to ''w''.
+Sequent calculi and systems of natural deduction have been developed for several modal logics, but it has proven hard to combine generality with other features expected of good structural proof theories, such as purity (the proof theory does not introduce extra-logical notions such as labels) and analyticity (the logical rules support a clean notion of analytic proof).
+Flavors of temporal logic include propositional dynamic logic (PDL), propositional linear temporal logic (PLTL), linear temporal logic (LTL), computational tree logic (CTL), Hennessy–Milner logic, and ''T''.
+Hence if the accessibility relation ''R'' is reflexive and Euclidean, ''R'' is provably symmetric and transitive as well.
+Arthur Norman Prior warned his protégé Ruth Barcan to prepare well in the debates concerning quantified modal logic with Willard Van Orman Quine, due to the biases against modal logic.
+Modern treatments of modal logic begin by augmenting the propositional calculus with two unary operations, one denoting "necessity" and the other "possibility".
+Vaughan Pratt introduced dynamic logic in 1976.
+We can prove that these frames produce the same set of valid sentences as do the frames where all worlds can see all other worlds of ''W'' (''i.e.
+Moreover, it is easier to make sense of relativizing necessity, e.g.
+Something is physically, or nomically, possible if it is permitted by the laws of physics.
+In many modal logics, the necessity and possibility operators satisfy the following analogues of de Morgan's laws from Boolean algebra:
+For example, if ''p'' is possible, then it is "necessary" that ''p'' is possible.
+The consequent is obviously false.
+Hughes and Cresswell (1996), for example, describe 42 normal and 25 non-normal modal logics.
+That position is a major tenet of "modal realism".
+However, it is unclear what this claim commits us to.
+to legal, physical, nomological, epistemic, and so on, than it is to make sense of relativizing other notions.
+Ruth C. Barcan (later Ruth Barcan Marcus) developed the first axiomatic systems of quantified modal logic — first and second order extensions of Lewis's "S2", "S4", and "S5".
+Possibility thereby depends upon the accessibility relation ''R'', which allows us to express the relative nature of possibility.
+For example, in any modal logic based on frame conditions:
+Such a figure with four sides necessarily has four corners: that's an example of alethic necessity.
+*''S5'' :=  ''S4'' + '''5'''
+Zeman (1973) describes some systems Hughes and Cresswell omit.
+For example, it might be metaphysically necessary, as some who advocate physicalism have thought, that all thinking beings have bodies and can experience the passage of time.
+More complex calculi have been applied to modal logic to achieve generality.
+Adding axioms to ''K'' gives rise to other well-known modal systems.
+The traditional alethic modalities, or modalities of truth, include possibility ("Possibly, p", "It is possible that p"), necessity ("Necessarily, p", "It is necessary that p"), and impossibility ("Impossibly, p", "It is impossible that p").
+*  if and only if  and
+That is to say, the state of affairs known as ''u'' is a live possibility for ''w''.
+One cannot prove in ''K'' that if "''p'' is necessary" then ''p'' is true.
+:"It is '''not possible that''' ''X''" is logically equivalent to "It is '''necessary that not''' ''X''".
+This is an epistemic claim.
+A model is thus an ordered triple, .
+Each one naturally leads to slightly different axioms.
+What Jones means by (1) is that given all the available information, there is no question remaining as to whether Bigfoot exists.
+The term doxastic is derived from the ancient Greek ''doxa'' which means "belief".
+An investigation has not found a single language in which alethic and epistemic modalities are formally distinguished, as by the means of a grammatical mood.
+However, its exact relation (if any) to logical possibility or to physical possibility is a matter of dispute.
+Versions of temporal logic can be used in computer science to model computer operations and prove theorems about them.
+Metaphysical possibility has been thought to be more restricting than bare logical possibility (i.e., fewer things are metaphysically possible than are logically possible).
+The criticism states that there is no real difference between "the truth in the world" (alethic) and "the truth in an individual's mind" (epistemic).
+In place of "all worlds", you may have "all possible next states of the computer", or "all possible future states of the computer".
+This work revealed that ''S4'' and ''S5'' are models of interior algebra, a proper extension of Boolean algebra originally designed to capture the properties of the interior and closure operators of topology.
+*''T'' := ''K'' + '''T'''
+The notation of C. I. Lewis, much employed since, denotes "necessarily ''p''" by a prefixed "box" (□''p'') whose scope is established by parentheses.
+:"It is '''not necessary that''' ''X''" is logically equivalent to "It is '''possible that not''' ''X''".
+* '''symmetric''' iff ''w R u'' implies ''u R w'', for all ''w'' and ''u'' in ''G''
+An accessibility relation is:
+For him, the sentences "you could have rolled a 4 instead of a 6" and "there is a possible world where you rolled a 4, but you rolled a 6 in the actual world" are not significantly different statements, and neither commit us to the existence of a possible world.
+But note that this does not have to be the case in all S5 frames, which can still consist of multiple parts that are fully connected among themselves but still disconnected from each other.
+In classical modal logic, a proposition is said to be
+This gives a pair, .
+The earliest formal system of modal logic was developed by Avicenna, who ultimately developed a theory of "temporally modal" syllogistic.
+For a thorough survey of the history of formal modal logic and of the associated mathematics, see Robert Goldblatt (2006).
+Anyone who considers rearranging contents of a cupboard, or furniture of a room, or possible items to serve for a meal is using this concept of alethic possibility.
+For example, if it is obligatory not to kill others (i.e.
+It seems the past is "fixed", or necessary, in a way the future is not.
+If there is a world ''w'' such that , then ''P'' is true at ''w''.
+* □''p'' (necessarily ''p'') is equivalent to  ("not possible that not-''p''")
+*'''necessary''' if and only if it is ''not possibly false''; and
+Ordinary uses of these concepts do not seem to require the ability to think about collections of complete possible universes, merely rearrangements of portions of this universe.
+Suppose that we have a proposition ''K'': you have stolen some money, and another, ''Q'': you have stolen a small amount of money.
+Some formulations of modal logic also include a constant term in ''G'', conventionally called "the actual world", which is often symbolized as
+The commonly employed system ''S5'' simply makes all modal truths necessary.
+In classical modal logic, therefore, either the notion of possibility or necessity may be taken to be basic, where these other notions are defined in terms of it in the manner of De Morgan duality.
+This binary relation is called the ''accessibility relation''.
+This surely isn't right, because you ought not to have stolen anything at all.
+'''T''' holds in most but not all modal logics.
+Here Jones means that it is ''epistemically possible'' that it is true or false, for all he knows (Goldbach's conjecture has not been proven either true or false), but if there ''is'' a proof (heretofore undiscovered), then it would show that it is not ''logically'' possible for Goldbach's conjecture to be false—there could be no set of numbers that violated it.
+They are also sometimes called ''special'' modalities, from the Latin ''species''.
+Kripke and A. N. Prior had previously corresponded at some length.
+A. N. Prior created modern temporal logic, closely related to modal logic, in 1957 by adding modal operators F and P meaning "eventually" and "previously".
+Significantly, modal logics can be developed to accommodate most of these idioms; it is the fact of their common logical structure (the use of "intensional" sentential operators) that make them all varieties of the same thing.
+The operators '''F''' and '''G''' may seem initially foreign, but they create normal modal systems.
+For example, we might say that given our laws of physics it is not possible for humans to travel faster than the speed of light, but that given other circumstances it could have been possible to do so.
+Under this "possible worlds idiom," to maintain that Bigfoot's existence is possible but not actual, one says, "There is some possible world in which Bigfoot exists; but in the actual world, Bigfoot does not exist".
+Telling someone they should not steal certainly does not imply that they should steal large amounts of money if they do engage in theft.
+in a moral or alethic sense.)
+Similarly, the problem of future contingents considers the semantics of assertions about the future: is either of the propositions 'There will be a sea battle tomorrow', or 'There will not be a sea battle tomorrow' now true?
+*'''S5''' := reflexive and Euclidean
+Many modal logics, known collectively as normal modal logics, include the following rule and axiom:
+For example, in S5, the axioms ,  and  (corresponding to ''symmetry'', ''transitivity'' and ''reflexivity'', respectively) hold, whereas at least one of these axioms does not hold in each of the other, weaker logics.
+In the Hellenistic period, the logicians Diodorus Cronus, Philo the Dialectician and the Stoic Chrysippus each developed a modal system that accounted for the interdefinability of possibility and necessity, accepted axiom T and combined elements of modal logic and temporal logic in attempts to solve the notorious Master Argument.
+* '''serial''' iff, for each ''w'' in ''G'' there is some ''u'' in ''G'' such that ''w R u''.
+Epistemic possibilities also bear on the actual world in a way that metaphysical possibilities do not.
+* '''K''', '''Distribution Axiom''':
+Now suppose (as seems reasonable) that you ought not to steal anything, or .
+For example, in deontic logic,  (If it ought to be that ''p'', then it is permitted that ''p'') seems appropriate, but we should probably not include that .
+The different systems of modal logic are distinguished by the properties of their corresponding accessibility relations.
+*''D'' := ''K'' + '''D'''.
+This is sometimes referred to as accidental necessity.
+* '''reflexive''' iff ''w R w'', for every ''w'' in ''G''
+Kripke semantics is basically simple, but proofs are eased using semantic-tableaux or analytic tableaux, as explained by E. W. Beth.
+Hence for models of S5, ''R'' is an equivalence relation, because ''R'' is reflexive, symmetric and transitive.
+There are several systems that have been espoused (often called ''frame conditions'').
+Hence □ and ◇ form a dual pair of operators.
+Thus, it is possible that you rolled a 4 if such a state of affairs can be described coherently.
+Using the accessibility relation we can translate this scenario as follows: At all of the worlds accessible to our own world, it is not the case that humans can travel faster than the speed of light, but at one of these accessible worlds there is ''another'' world accessible from ''those'' worlds but not accessible from our own at which humans can travel faster than the speed of light.
+Numerous variations with very different properties have been proposed since C. I. Lewis began working in the area in 1910.
+From the other direction, Jones might say, (3) "It is ''possible'' that Goldbach's conjecture is true; but also ''possible'' that it is false", and ''also'' (4) "if it ''is'' true, then it is necessarily true, and not possibly false".
+Some philosophers decline to endorse any version of modal realism, considering it ontologically extravagant, and prefer to seek various ways to paraphrase away these ontological commitments.
+But if you just tell me that "it is ''possible for'' it to rain outside" – in the sense of ''metaphysical possibility'' – then I am no better off for this bit of modal enlightenment.
+''P'' is obligatory with respect to our own world if at all idealized worlds accessible to our world, ''P'' holds.
+Regardless of notation, each of these operators is definable in terms of the other in classical modal logic:
+In a classical modal logic, each can be expressed by the other with negation:
+All of these logical systems can also be defined axiomatically, as is shown in the next section.
+*'''possible''' if and only if it is ''not necessarily false'' (regardless of whether it is actually true or actually false);
+The contemporary era in modal semantics began in 1959, when Saul Kripke (then only a 19-year-old Harvard University undergraduate) introduced the now-standard Kripke semantics for modal logics.
+In another version, ◇''P'' means "at the immediate next state of the computation, ''P'' might be true"; □''P'' means "at the immediate next state of the computation, P will be true".
+For those with difficulty with the concept of something being possible but not true, the meaning of these terms may be made more comprehensible by thinking of multiple "possible worlds" (in the sense of Leibniz) or "alternate universes"; something "necessary" is true in all possible worlds, something "possible" is true in at least one possible world.
+probably via Alcubierre drive or worm holes) to accelerate beyond the speed of light, modern science stipulates that it is not physically possible for material particles or information.
+Considering this thesis led Aristotle to reject the principle of bivalence for assertions concerning the future.
+Hence, if a world ''w'' doesn't have any accessible worlds, any sentence beginning with □ is true.
+In any case, different answers to such questions yield different systems of modal logic.
+*'''T''', '''Reflexivity Axiom''':  (If ''p'' is necessary, then ''p'' is the case.)
+possible but not necessarily true);
+Metaphysical possibilities bear on ways the world ''might have been,'' but epistemic possibilities bear on the way the world ''may be'' (for all we know).
+There are also passages in Aristotle's work, such as the famous sea-battle argument in ''De Interpretatione'' §9, that are now seen as anticipations of the connection of modal logic with potentiality and time.
+*'''S4''' := reflexive and transitive
+In addition to his non-modal syllogistic, Aristotle also developed a modal syllogistic in Book I of his ''Prior Analytics'' (chs 8–22), which Theophrastus attempted to improve.
+Precisely what axioms and rules must be added to the propositional calculus to create a usable system of modal logic is a matter of philosophical opinion, often driven by the theorems one wishes to prove; or, in computer science, it is a matter of what sort of computational or deductive system one wishes to model.
+These "possible world semantics" are formalized with Kripke semantics.
+(The Euclidean property can be obtained, as well, from symmetry and transitivity.)
+''Doxastic logic'' concerns the logic of belief (of some set of agents).
+In fact, to do so is to commit the naturalistic fallacy (i.e.
+'''Modal logic''' is a type of formal logic primarily developed in the 1960s that extends classical propositional and predicate logic to include operators expressing modality.
+Though this was one of the first interpretations of the formal semantics, it has recently come under criticism.
+These are commonly referred to as "possible worlds" semantics.
+But if the past is "fixed", and everything that is in the future will eventually be in the past, then it seems plausible to say that future events are necessary too.
+* ◇''p'' (possibly ''p'') is equivalent to  ("not necessarily not-''p''")
+When we try and formalize ethics with standard modal logic, we run into some problems.
+Then we recursively define the truth of a formula at a world in a model:
+If you tell me "it is ''possible that'' it is raining outside" – in the sense of epistemic possibility – then that would weigh on whether or not I take the umbrella.
+Typically, a doxastic logic uses □, often written "B", to mean "It is believed that", or when relativized to a particular agent s, "It is believed by s that".
+Other well-known elementary axioms are:
+While the answer to this question is unclear, there is at least one axiom that is generally included in epistemic modal logic, because it is minimally true of all normal modal logics (see the section on axiomatic systems):
+We do so by defining a relation ''v'' between possible worlds and positive literals.
+Saul Kripke believes that 'possible world' is something of a misnomer – that the term 'possible world' is just a useful way of visualizing the concept of possibility.
+For example, ''w R u'' means that the  world ''u'' is accessible from world ''w''.
+For example, '''P'''''P'' → □'''P'''''P'' says (effectively), ''Everything that is past and true is necessary''.
+Are we really alleging the existence of possible worlds, every bit as real as our actual world, just not actual?
+Suppose, for example, that I want to know whether or not to take an umbrella before I leave.
+*'''T''' := reflexive
+The weakest normal modal logic, named ''K'' in honor of Saul Kripke, is simply the propositional calculus augmented by □, the rule '''N''', and the axiom '''K'''.
+Other modalities that have been formalized in modal logic include temporal modalities, or modalities of time (notably, "It was the case that p", "It has always been that p", "It will be that p", "It will always be that p"), deontic modalities (notably, "It is obligatory that p", and "It is permissible that p"), epistemic modalities, or modalities of knowledge ("It is known that p") and doxastic modalities, or modalities of belief ("It is believed that p").
+In the most common interpretation of modal logic, one considers "logically possible worlds".
+If such perplexities are deemed forced and artificial, this defect of ''K'' is not a great one.
+These yield the systems (axioms in bold, systems in italics):
+In contrast, while it is logically possible (i.e.
+* '''transitive''' iff ''w R u'' and ''u R q'' together imply ''w R q'', for all ''w'', ''u'', ''q'' in ''G''.
+Other systems of modal logic have been formulated, in part because ''S5'' does not describe every kind of modality of interest.
+We can drop the accessibility clause from the latter stipulation because in such total frames it is trivially true of all ''w'' and ''u'' that ''w R u''.
+killing is morally forbidden), then '''T''' implies that people actually do not kill others.
+Now suppose we want to express the thought that "if you have stolen some money, it ought to be a small amount of money".
+In a modal logic this is represented as an operator, Possibly, attached to the sentence "It will rain today".
+Deontic logics commonly lack the axiom '''T''' semantically corresponding to the reflexivity of the accessibility relation in Kripke semantics: in symbols, .
+false and necessarily false).
+The axiom '''T''' remedies this defect:
+*'''contingent''' if and only if it is ''not necessarily false'' and ''not necessarily true'' (i.e.
+But that can't be right, and is not right when we use natural language.
+Thus it is ''possible'' that it will rain today if and only if it is ''not necessary'' that it will ''not'' rain today; and it is ''necessary'' that it will rain today if and only if it is ''not possible'' that it will ''not'' rain today.
+We can combine the above operators to form complex statements.
+If we consider frames based on the total relation we can just say that
+Also, if ''p'' is necessary, then it is necessary that ''p'' is necessary.
+*''K'' := '''K''' + '''N'''
+Moreover, there might have been nothing on the top shelf (at that time), or there might have been nothing but a mouse there.
+But (1) and ''K'' together entail □''Q'', which says that it ought to be the case that you have stolen a small amount of money.
+(P always means "P is true at the current computer state".)
+Zeman (1973) describes a few exceptions, such as ''S10''.
+'', where ''R'' is a "total" relation).
+A statement that is true in some possible world (not necessarily our own) is called a possible truth.
+The basic unary (1-place) modal operators are usually written □ for Necessarily and ◇ for Possibly.
+Intuitionistic modal logic treats possibility and necessity as not perfectly symmetric.
+For example, "It might rain today" and "It is possible that rain will fall today" both contain the notion of possibility.
+It has been questioned whether these modalities should be considered distinct from each other.
+Instead, using Kripke semantics, we say that though our own world does not realize all obligations, the worlds accessible to it do (i.e., '''T''' holds at these worlds).

@@ -1,0 +1,200 @@
+The Kuiper belt is thought to consist of planetesimals, fragments from the original protoplanetary disc around the Sun that failed to fully coalesce into planets and instead formed into smaller bodies, the largest less than  in diameter.
+Six months later, they discovered a second object in the region, (181708) 1993 FW.
+Initially, detailed analysis of KBOs was impossible, and so astronomers were only able to determine the most basic facts about their makeup, primarily their color.
+The term '''trans-Neptunian object''' (TNO) is recommended for objects in the belt by several scientific groups because the term is less controversial than all others—it is not an exact synonym though, as TNOs include all objects orbiting the Sun past the orbit of Neptune, not just those in the Kuiper belt.
+The region now called the Kuiper belt was hypothesized in various forms for decades.
+Ejection of the other member of the binary by Neptune could then explain Triton's capture.
+All are objects with estimated diameters in the 30–55&nbsp;km range, too small to be seen by ground telescopes, at distances from the Sun of 43–44 AU, which would put the encounters in the 2018–2019 period.
+Like the asteroid belt, it consists mainly of small bodies, or remnants from the Solar System's formation.
+A higher percentage of the larger KBOs have satellites than the smaller objects in the Kuiper belt, suggesting that a different formation mechanism was responsible.
+The largest KBOs, such as Pluto and Quaoar, have surfaces rich in volatile compounds such as methane, nitrogen and carbon monoxide; the presence of these molecules is likely due to their moderate vapor pressure in the 30–50&nbsp;K temperature range of the Kuiper belt.
+The first astronomer to suggest the existence of a trans-Neptunian population was Frederick C. Leonard.
+It is not expected that anything larger than Pluto exists in the Kuiper belt, and in fact most of the brightest (largest) objects at inclinations less than 5° have probably been found.
+Studies of the crater counts on Pluto and Charon suggest that such objects formed directly as sizeable objects in the range of tens of kilometers in diameter rather than being accreted from much smaller, roughly kilometer scale bodies.
+The Kuiper belt was initially thought to be the main repository for periodic comets, those with orbits lasting less than 200 years.
+Because the first modern KBO discovered, , is considered the prototype of this group, classical KBOs are often referred to as cubewanos ("Q-B-1-os").
+In 1962, physicist Al G.W.
+The model predicts a higher average eccentricity in classical KBO orbits than is observed (0.10–0.13 versus 0.07) and its predicted inclination distribution contains too few high inclination objects.
+The guidelines established by the IAU demand that classical KBOs be given names of mythological beings associated with creation.
+Between the 2:3 and 1:2 resonances with Neptune, at approximately 42–48&nbsp;AU, the gravitational interactions with Neptune occur over an extended timescale, and objects can exist with their orbits essentially unaltered.
+This missing >99% of the mass can hardly be dismissed, because it is required for the accretion of any KBOs larger than  in diameter.
+Water ice has been detected in several KBOs, including members of the Haumea family such as , mid-sized objects such as 38628 Huya and 20000 Varuna, and also on some small objects.
+In 1943, in the ''Journal of the British Astronomical Association'', Kenneth Edgeworth hypothesized that, in the region beyond Neptune, the material within the primordial solar nebula was too widely spaced to condense into planets, and so rather condensed into a myriad of smaller bodies.
+In 1996, Robert H. Brown et al.
+The most notable example is the Pluto–Charon binary, but it is estimated that around 11% of KBOs exist in binaries.
+The centaurs' orbits are unstable and have dynamical lifetimes of a few million years.
+In response, the International Astronomical Union (IAU), was forced to define what a planet is for the first time, and in so doing included in their definition that a planet must have "cleared the neighbourhood around its orbit".
+The initial estimated probabilities that these objects are reachable within ''New Horizons'' fuel budget are 100%, 7%, and 97%, respectively.
+(Eris was originally thought to be larger than Pluto by volume, but the ''New Horizons'' mission found this not to be the case.)
+Not only are the two populations in different orbits, the cold population also differs in color and albedo, being redder and brighter, has a larger fraction of binary objects, has a different size distribution, and lacks very large objects.
+The '''Kuiper belt'''  or , sometimes called the '''Edgeworth–Kuiper belt''', is a circumstellar disc in the Solar System beyond the planets, extending from the orbit of Neptune (at 30&nbsp;AU) to approximately 50&nbsp;AU from the Sun.
+More accurate models find that the "slope" parameter ''q'' is in effect greater at large diameters and lesser at small diameters.
+Every element or compound has its own unique spectroscopic signature, and by reading an object's full spectral "fingerprint", astronomers can determine what it is made of.
+Its mean position is inclined to the ecliptic by 1.86 degrees.
+Some remain in the resonances, others evolve onto higher-inclination, lower-eccentricity orbits, and are released onto stable orbits forming the dynamically hot classical belt.
+The scattered disc is a sparsely populated region, overlapping with the Kuiper belt but extending to beyond 100 AU.
+The hypothesis took many other forms in the following decades.
+acquired spectroscopic data on the KBO 1993 SC, which revealed that its surface composition is markedly similar to that of Pluto, as well as Neptune's moon Triton,  with large amounts of methane ice.
+The principal method by which astronomers determine the composition of a celestial object is spectroscopy.
+The densities and rock–ice fractions are known for only a small number of objects for which the diameters and the masses have been determined.
+KBOs are sometimes called '''kuiperoids''', a name suggested by Clyde Tombaugh.
+However, due to their small size and extreme distance from Earth, the chemical makeup of KBOs is very difficult to determine.
+By 2006, astronomers had resolved dust discs thought to be Kuiper belt-like structures around nine stars other than the Sun.
+The first, known as the "dynamically cold" population, has orbits much like the planets; nearly circular, with an orbital eccentricity of less than 0.1, and with relatively low inclinations up to about 10° (they lie close to the plane of the Solar System rather than at an angle).
+Since its discovery, the number of known KBOs has increased to over a thousand, and more than 100,000 KBOs over  in diameter are thought to exist.
+Objects found outside the belt are classed as scattered objects.
+Over a timescale comparable to the age of the Solar System, Neptune's gravity destabilises the orbits of any objects that happen to lie in certain regions, and either sends them into the inner Solar System or out into the scattered disc or interstellar space.
+Following up on Fernández's work, in 1988 the Canadian team of Martin Duncan, Tom Quinn and Scott Tremaine ran a number of computer simulations to determine if all observed comets could have arrived from the Oort cloud.
+About 400 million years after the formation of the Solar System the resonance chain is broken.
+Modern computer simulations show the Kuiper belt to have been strongly influenced by Jupiter and Neptune, and also suggest that neither Uranus nor Neptune could have formed in their present positions, because too little primordial matter existed at that range to produce objects of such high mass.
+The issue was brought to a head by the discovery of Eris, an object in the scattered disc far beyond the Kuiper belt, that is now known to be 27% more massive than Pluto.
+In 1987, astronomer David Jewitt, then at MIT, became increasingly puzzled by "the apparent emptiness of the outer Solar System".
+50000 Quaoar, a classical KBO discovered in 2002, is over 1,200&nbsp;km across.
+Objects captured from the cold belt into the 2:1 mean-motion resonance with Neptune are left behind as a local concentration at 44 AU when this encounter causes Neptune's semi-major axis to jump outward.
+One possible explanation for this trend is that ice was lost from the surface layers when differentiated objects collided to form the largest objects.
+Soon after Pluto's discovery by Clyde Tombaugh in 1930, Leonard pondered whether it was "not likely that in Pluto there has come to light the ''first'' of a ''series'' of ultra-Neptunian bodies, the remaining members of which still await discovery but which are destined eventually to be detected".
+With a "belt", as Fernández described it, added to the formulations, the simulations matched observations.
+It is not clear whether it is actually the outer edge of the classical belt or just the beginning of a broad gap.
+Eventually, the field of view for CCDs had increased to 1024 by 1024 pixels, which allowed searches to be conducted far more rapidly.
+The remaining planets then continue their migration until the planetesimal disc in nearly depleted with small fractions remaining in various locations.
+Hypothetical mechanisms for the formation of these larger bodies include the gravitational collapse of clouds of pebbles concentrated between eddies in a turbulent protoplanetary disk or in streaming instabilities.
+Not only are these objects similar to Pluto in size, but many also have satellites, and are of similar composition (methane and carbon monoxide have been found both on Pluto and on the largest KBOs).
+The presence of crystalline ice on large and mid-sized objects, including 50000 Quaoar where ammonia hydrate has also been detected, may indicate past tectonic activity aided by melting point lowering due to the presence of ammonia.
+At its fullest extent (but excluding the scattered disk), including its outlying regions, the Kuiper belt stretches from roughly 30 to 55 AU.
+Various solutions were suggested for this discrepancy, including resurfacing by impacts or outgassing.
+These objects largely fall into two classes: gray with low albedos, or very red with higher albedos.
+In addition, the frequency of binary objects in the cold belt, many of which are far apart and loosely bound, also poses a problem for the model.
+Analysis indicates that Kuiper belt objects are composed of a mixture of rock and a variety of ices such as water, methane, and ammonia.
+That same year, astronomer Armin O. Leuschner suggested that Pluto "may be one of many long-period planetary objects yet to be discovered."
+In 2003, Bernstein and Trilling et al.
+As of 2008, only five objects in the Solar System (Ceres, Eris, and the KBOs Pluto, Makemake and Haumea) are listed as dwarf planets by the IAU.
+This suggested that their surfaces were composed of a wide range of compounds, from dirty ices to hydrocarbons.
+Initially, examination of each pair of plates took about eight hours, but the process was sped up with the arrival of electronic charge-coupled devices or CCDs, which, though their field of view was narrower, were not only more efficient at collecting light (they retained 90% of the light that hit them, rather than the 10% achieved by photographs) but allowed the blinking process to be done virtually, on a computer screen.
+Objects have been detected at the 2:5 resonance at roughly 55 AU, well outside the classical belt; however, predictions of a large number of bodies in classical orbits between these resonances have not been verified through observation.
+Despite its vast extent, the collective mass of the Kuiper belt is relatively low.
+The relative abundances of these three compounds in the largest KBOs is directly related to their surface gravity and ambient temperature, which determines which they can retain.
+Reportedly because the words "Kuiper" and "comet belt" appeared in the opening sentence of Fernández's paper, Tremaine named this hypothetical region the "Kuiper belt".
+They found that the Oort cloud could not account for all short-period comets, particularly as short-period comets are clustered near the plane of the Solar System, whereas Oort-cloud comets tend to arrive from any point in the sky.
+found evidence that the rapid decline in objects of 100&nbsp;km or more in radius beyond 50 AU is real, and not due to observational bias.
+These collapsing clouds may fragment, forming binaries.
+However, studies since the mid-1990s have shown that the belt is dynamically stable, and that comets' true place of origin is the scattered disc, a dynamically active zone created by the outward motion of Neptune 4.5&nbsp;billion years ago; scattered disc objects such as Eris have extremely eccentric orbits that take them as far as 100&nbsp;AU from the Sun.
+Kuiper was operating on the assumption common in his time that Pluto was the size of Earth and had therefore scattered these bodies out toward the Oort cloud or out of the Solar System.
+Scattered disc objects (SDOs) have very elliptical orbits, often also very inclined to the ecliptic.
+Neptune has a number of trojan objects, which occupy its Lagrangian points, gravitationally stable regions leading and trailing it in its orbit.
+The radiation from the Sun is thought to have chemically altered methane on the surface of KBOs, producing products such as tholins.
+If ''q'' is 4 or more, the law would imply an infinite mass of small objects.
+All are members of the "cold" (low-inclination, low-eccentricity) classical Kuiper belt, and thus very different from Pluto.
+The cold population, on the other hand, has been proposed to have formed more or less in its current position.
+For most TNOs, only the absolute magnitude is actually known, the size is inferred assuming a given albedo (not a safe assumption for larger objects).
+The presence of Neptune has a profound effect on the Kuiper belt's structure due to orbital resonances.
+Recent research has revealed that the size distributions of the hot classical and cold classical objects have differing slopes.
+Studies conducted since the trans-Neptunian region was first charted have shown that the region now called the Kuiper belt is not the point of origin of short-period comets, but that they instead derive from a linked population called the scattered disc.
+When an object's light is broken into its component colors, an image akin to a rainbow is formed.
+If 1<''q''≤4 there will be a finite number of objects greater than a given size, but the expected value of their combined mass would be infinite.
+It seems that Pluto is somewhat unexpectedly large, having several percent of the total mass of the Kuiper belt.
+To speed up the detection process, the New Horizons team established Ice Hunters, a citizen science project that allowed members of the public to participate in the search for suitable KBO targets; the project has subsequently been transferred to another site, Ice Investigators, produced by CosmoQuest.
+While Neptune's orbit was highly eccentric, its mean-motion resonances overlapped and the orbits of the planetesimals evolved chaotically, allowing planetesimals to wander outward as far as Neptune's 2:1 resonance to form a dynamically cold belt of low-inclination objects.
+Observation, however, ruled out this hypothesis.
+The densities range from less than 0.4 to 2.6 g/cm3.
+Since 2000, a number of KBOs with diameters of between 500 and , more than half that of Pluto (diameter 2370&nbsp;km), have been discovered.
+Originally considered a planet, Pluto's status as part of the Kuiper belt caused it to be reclassified as a dwarf planet in 2006.
+These first data showed a broad range of colors among KBOs, ranging from neutral grey to deep red.
+Of the five largest TNOs, four (Eris, Pluto, Makemake and Haumea) are known to have satellites, and two have more than one.
+However, the main body of the belt is generally accepted to extend from the 2:3 mean-motion resonance (see below) at 39.5 AU to the 1:2 resonance at roughly 48 AU.
+They appear to fall into two categories: wide belts, with radii of over 50 AU, and narrow belts (tentatively like that of the Solar System) with radii of between 20 and 30 AU and relatively sharp boundaries.
+This relationship between ''N''(''D'') (the number of objects of diameter greater than ''D'') and ''D'', referred to as brightness slope, has been confirmed by observations.
+These are predicted to have been separated during encounters with Neptune, leading some to propose that the cold disc formed at its current location, representing the only truly local population of small bodies in the solar system.
+Triton is only 14% larger than Pluto, and spectral analysis of both worlds shows that their surfaces are largely composed of similar materials, such as methane and carbon monoxide.
+In the region between 40 and 42 AU, for instance, no objects can retain a stable orbit over such times, and any observed in that region must have migrated there relatively recently.
+PT2 was out of the running before the Pluto flyby.
+PT1 (given the temporary designation "1110113Y" on the HST web site), the most favorably situated object, is magnitude 26.8, 30–45&nbsp;km in diameter, and will be encountered around January 2019.
+For an Oort cloud object to become a short-period comet, it would first have to be captured by the giant planets.
+If ''q'' was 1 or less, the law would imply an infinite number and mass of large objects in the Kuiper belt.
+As they approach the Sun, its heat causes their volatile surfaces to sublimate into space, gradually dispersing them.
+Based on estimations of the primordial mass required to form Uranus and Neptune, as well as bodies as large as Pluto (see below), earlier models of the Kuiper belt had suggested that the number of large objects would increase by a factor of two beyond 50 AU, so this sudden drastic falloff, known as the "Kuiper cliff", was completely unexpected, and its cause, to date, is unknown.
+Possible explanations include that material at that distance was too scarce or too scattered to accrete into large objects, or that subsequent processes removed or destroyed those that did.
+In 1951, in an article for the journal ''Astrophysics'', Gerard Kuiper speculated on a similar disc having formed early in the Solar System's evolution; however, he did not think  that such a belt still existed today.
+Although the Nice model appears to be able to at least partially explain a compositional difference, it has also been suggested the color difference may reflect differences in surface evolution.
+Although to date most KBOs still appear spectrally featureless due to their faintness, there have been a number of successes in determining their composition.
+The 1:2 resonance appears to be an edge beyond which few objects are known.
+Due to its unstable nature, the scattered disc is suspected to be the point of origin of many of the Solar System's short-period comets.
+On 15 October 2014, it was revealed that ''Hubble'''s search had uncovered three potential targets, provisionally designated PT1 ("potential target 1"), PT2 and PT3 by the ''New Horizons'' team.
+If the Kuiper belt had always had its current low density these large objects simply could not have formed by the collision and mergers of smaller planetesimals.
+The classical Kuiper belt appears to be a composite of two separate populations.
+The difference in colors and albedos is hypothesized to be due to the retention or the loss of hydrogen sulfide (H2S) on the surface of these objects, with the surfaces of those that formed far enough from the Sun to retain H2S being reddened due to irradiation.
+Were Kuiper's hypothesis correct, there would not be a Kuiper belt today.
+Because the scattered disc is dynamically active and the Kuiper belt relatively dynamically stable, the scattered disc is now seen as the most likely point of origin for periodic comets.
+Although Pluto is currently the largest known KBO, there is at least one known larger object currently outside the Kuiper belt that probably originated in it: Neptune's moon Triton (which, as explained above, is probably a captured KBO).
+Different substances absorb light at different wavelengths, and when the spectrum for a specific object is unravelled, dark lines (called absorption lines) appear where the substances within it have absorbed that particular wavelength of light.
+Eventually, the orbits shifted to the point where Jupiter and Saturn reached an exact 2:1 resonance; Jupiter orbited the Sun twice for every one Saturn orbit.
+According to the Minor Planet Center, which officially catalogues all trans-Neptunian objects, a KBO, strictly speaking, is any object that orbits exclusively within the defined Kuiper belt region regardless of origin or composition.
+Plutinos have high orbital eccentricities, suggesting that they are not native to their current positions but were instead thrown haphazardly into their orbits by the migrating Neptune.
+The masses are determined using the semi-major axes and periods of satellites, which are therefore known only for a few binary objects.
+Most models of Solar System formation show both KBOs and SDOs first forming in a primordial belt, with later gravitational interactions, particularly with Neptune, sending the objects outward, some into stable orbits (the KBOs) and some into unstable orbits, the scattered disc.
+and , both announced on July 29, 2005, are larger still.
+Although it has been suggested that the cold population was also swept outwards by Neptune during its migration, particularly if Neptune's eccentricity was transiently increased, the loose binaries among the cold population are unlikely to survive encounters with Neptune during this migration.
+However, Jewitt and Luu's spectral analysis of the known Kuiper belt objects in 2001 found that the variation in color was too extreme to be easily explained by random impacts.
+Instead of being scattered into the disc, the ice giants first migrate outward several AU.
+This suggests that, unlike the large moons of Jupiter, Saturn, and Uranus, which are thought to have coalesced from rotating discs of material around their young parent planets, Triton was a fully formed body that was captured from surrounding space.
+Although many asteroids are composed primarily of rock and metal, most Kuiper belt objects are composed largely of frozen volatiles (termed "ices"), such as methane, ammonia and water.
+The slope for the cold objects is q = 8.2 at large diameters and q = 2.9 at small diameters with a change in slope at 140&nbsp;km.
+During its period of migration, Neptune is thought to have captured a large KBO, Triton, which is the only large moon in the Solar System with a retrograde orbit (it orbits opposite to Neptune's rotation).
+This is known as the 2:3 (or 3:2) resonance, and it corresponds to a characteristic semi-major axis of about 39.4&nbsp;AU.
+The hot population is proposed to have formed near Jupiter, and to have been ejected out by movements among the giant planets.
+A possible explanation is that Triton was part of a binary when it encountered Neptune.
+David Jewitt comments: "If anything&nbsp;... Fernández most nearly deserves the credit for predicting the Kuiper Belt."
+The hot belt's inclination distribution can be reproduced if Neptune migrated from 24 AU to 30 AU on a 30 Myr timescale.
+In 1964, Fred Whipple, who popularised the famous "dirty snowball" hypothesis for cometary structure, thought that a "comet belt" might be massive enough to cause the purported discrepancies in the orbit of Uranus that had sparked the search for Planet X, or, at the very least, massive enough to affect the orbits of known comets.
+The left image is a "top view" of a wide belt, and the right image is an "edge view" of a narrow belt.
+As Pluto shared its orbit with so many KBOs, it was deemed not to have cleared its orbit, and was thus reclassified from a planet to a member of the Kuiper belt.
+Pluto is the largest and most-massive member of the Kuiper belt and the largest and the second-most-massive known TNO, surpassed only by Eris in the scattered disc.
+This causes the Kuiper belt to have pronounced gaps in its current layout, similar to the Kirkwood gaps in the asteroid belt.
+Patryk Lykawka of Kobe University has claimed that the gravitational attraction of an unseen large planetary object, perhaps the size of Earth or Mars, might be responsible.
+Most known debris discs around other stars are fairly young, but the two images on the right, taken by the ''Hubble Space Telescope'' in January 2006, are old enough (roughly 300 million years) to have settled into stable configurations.
+The 1:2 resonance (whose objects complete half an orbit for each of Neptune's) corresponds to semi-major axes of ~47.7AU, and is sparsely populated.
+A course to reach it will require about 35% of ''New Horizons'' available trajectory-adjustment fuel supply.
+Scientists awaited data from the Pan-STARRS survey project to ensure as wide a field of options as possible.
+The number and variety of prior speculations on the nature of the Kuiper belt have led to continued uncertainty as to who deserves credit for first proposing it.
+This implies (assuming ''q'' is not 1) that
+The diameter can be determined by imaging with a high-resolution telescope such as the Hubble Space Telescope, by the timing of an occultation when an object passes in front of a star, or, most commonly, by using the albedo of an object calculated from its infrared emissions.
+The currently accepted hypothesis for the cause of this is that as Neptune migrated outward, unstable orbital resonances moved gradually through this region, and thus any objects within it were swept up, or gravitationally ejected from it.
+A recent modification of the Nice model has the Solar System begin with five giant planets, including an additional ice giant, in a chain of mean-motion resonances.
+Conversely, models of the Solar System's formation predict a collective mass for the Kuiper belt of 30 Earth masses.
+The remainder were scattered outward again by Jupiter and in most cases ejected from the Solar System reducing the primordial Kuiper belt population by 99% or more.
+The slope for the hot objects is q = 5.3 at large diameters and q = 2.0 at small diameters with the change in slope at 110&nbsp;km.
+The temperature of the belt is only about 50 K, so many compounds that would be gaseous closer to the Sun remain solid.
+Less formally, if ''q'' is 4, for example, there are 8 (=23) times more objects in the 100–200&nbsp;km range than in the 200–400&nbsp;km range, and for every object with a diameter between 1000 and 1010&nbsp;km there should be around 1000 (=103) objects with diameter of 100 to 101&nbsp;km.
+He encouraged then-graduate student Jane Luu to aid him in his endeavour to locate another object beyond Pluto's orbit, because, as he told her, "If we don't, nobody will."
+The extra ice giant encounters Saturn and is scattered inward onto a Jupiter-crossing orbit and after a series of encounters is ejected from the Solar System.
+The Kuiper belt was named after Dutch-American astronomer Gerard Kuiper, though he did not actually predict its existence.
+The discovery of these large KBOs in similar orbits to Pluto led many to conclude that, aside from its relative size, Pluto was not particularly different from other members of the Kuiper belt.
+This allows them to occasionally boil off their surfaces and then fall again as snow, whereas compounds with higher boiling points would remain solid.
+The two populations have been named this way not because of any major difference in temperature, but from analogy to particles in a gas, which increase their relative velocity as they become heated up.
+However, Brian G. Marsden claims that neither deserves true credit: "Neither Edgeworth nor Kuiper wrote about anything remotely like what we are now seeing, but Fred Whipple did".
+The Oort cloud is thought to be the point of origin of long-period comets, which are those, like Hale–Bopp, with orbits lasting thousands of years.
+When Neptune migrates to 28 AU, it has a gravitational encounter with the extra ice giant.
+When an object's orbital period is an exact ratio of Neptune's (a situation called a mean-motion resonance), then it can become locked in a synchronised motion with Neptune and avoid being perturbed away if their relative alignments are appropriate.
+One such area of replenishment is the Oort cloud, a spherical swarm of comets extending beyond 50,000 AU from the Sun first hypothesised by Dutch astronomer Jan Oort in 1950.
+It appears that either the current residents of the Kuiper belt have been created closer to the Sun or some mechanism dispersed the original mass.
+This 2:3 resonance is populated by about 200 known objects, including Pluto together with its moons.
+The Pan-STARRS project, partially operational since May 2010, will, when fully online, survey the entire sky with four 1.4 gigapixel digital cameras to detect any moving objects, from near-Earth objects to KBOs.
+In the later phases of Neptune's migration a slow sweeping of mean-motion resonances removes the higher-eccentricity objects from the cold belt truncating its eccentricity distribution.
+: where the current measures give q = 4 ±0.5.
+Course adjustment took place in late October and early November 2015, leading to a flyby in January 2019.
+Today, an entire population of comet-like bodies, called the centaurs, is known to exist in the region between Jupiter and Neptune.
+Other resonances also exist at 3:4, 3:5, 4:7 and 2:5.
+The second, the "dynamically hot" population, has orbits much more inclined to the ecliptic, by up to 30°.
+(The constant may be non-zero only if the power law doesn't apply at high values of ''D''.)
+Astronomers sometimes use the alternative name Edgeworth–Kuiper belt to credit Edgeworth, and KBOs are occasionally referred to as EKOs.
+The extent of mass loss by collisional grinding, however, is limited by the presence of loosely bound binaries in the cold disk, which are likely to be disrupted in collisions.
+IAU guidelines dictate that all plutinos must, like Pluto, be named for underworld deities.
+There is a trend of low densities for small objects and high densities for the largest objects.
+Further evidence for the existence of the Kuiper belt later emerged from the study of comets.
+Computer simulations of dust in the Kuiper belt suggest that when it was younger, it may have resembled the narrow rings seen around younger stars.
+The difference in colors may be a reflection of different compositions, which suggests they formed in different regions.
+From this he concluded that "the outer region of the solar system, beyond the orbits of the planets, is occupied by a very large number of comparatively small bodies" and that, from time to time, one of their number "wanders from its own sphere and appears as an occasional visitor to the inner solar system", becoming a comet.
+It is compositionally similar to many other objects of the Kuiper belt, and its orbital period is characteristic of a class of KBOs, known as "plutinos", that share the same 2:3 resonance with Neptune.
+Later, after its eccentricity decreased, Neptune's orbit expanded outward toward its current position.
+Luu later joined him to work at the University of Hawaii's 2.24&nbsp;m telescope at Mauna Kea.
+Overall it more resembles a torus or doughnut than a belt.
+However, in some scientific circles the term "Kuiper belt object" has become synonymous with any icy minor planet native to the outer Solar System assumed to have been part of that initial class, even if its orbit during the bulk of Solar System history has been beyond the Kuiper belt (e.g.

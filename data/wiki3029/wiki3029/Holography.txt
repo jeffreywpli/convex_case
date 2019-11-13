@@ -1,0 +1,200 @@
+An even simpler illusion can be created by rear-projecting realistic images into semi-transparent screens.
+In one common arrangement, the laser beam is split into two, one known as the object beam and the other as the reference beam.
+Resolution limit (mm−1)
+With living subjects and some unstable materials, that is only possible if a very intense and extremely brief pulse of laser light is used, a hazardous procedure which is rare and rarely done outside of scientific and industrial laboratory settings.
+An extended source (e.g.
+For instance, in Brazil, many concrete poets (Augusto de Campos, Décio Pignatari, Julio Plaza and José Wagner Garcia, associated with Moysés Baumstein) found in holography a way to express themselves and to renew Concrete Poetry.
+This can be a major drawback in viewing a hologram.
+The introduction of holography kits with self-developing plates in 2003 made it possible for hobbyists to create holograms without the bother of wet chemical processing.
+Covertly storing information within a full colour image hologram was achieved in Canada, in 2008, at the UHR lab.
++ General properties of recording materials for holography
+Stereopsis and horizontal motion parallax, two relatively powerful cues to depth, are preserved.
+Such changes can be caused by relative movements of any of the optical components or the object itself, and also by local changes in air-temperature.
+to fractions of a wavelength of light).
+Some are associated with novel holographic techniques; for example, artist Matt Brand employed computational mirror design to eliminate image distortion from specular holography.
+A holographic portrait of Dennis Gabor was produced in 1971 using a pulsed ruby laser.
+Note that these do not include the materials used in the mass replication of an existing hologram, which are discussed in the next section.
+The general idea of acoustic holography has led to different versions such as near-field acoustic holography (NAH) and statistically optimal near-field acoustic holography (SONAH).
+Several holograms may keep information about the same distribution of light, emitted to various directions.
+It can be seen that '''U'''H has four terms, each representing a light beam emerging from the hologram.
+To record a hologram of a complex object, a laser beam is first split into two separate beams of light.
+It has the reverse curvature to the object beam itself and forms a real image of the object in the space beyond the holographic plate.
+It works by reflectively or refractively manipulating bundles of light rays, whereas Gabor-style holography works by diffractively reconstructing wavefronts.
+A hologram of a shiny object can be made by locating it very close to the recording plate.
+Electron holography is the application of holography techniques to electron waves rather than light waves.
+A small but active group of artists still integrate holographic elements into their work.
+These systems have been used to produce holograms of live people.
+For those unfamiliar with these concepts, it is worthwhile to read the respective articles before reading further in this article.
+The ability to store large amounts of information in some kind of medium is of great importance, as many electronic products incorporate storage devices.
+A simple hologram can be made by superimposing two plane waves from the same light source on a holographic recording medium.
+A small group of amateurs are even constructing their own pulsed lasers to make holograms of living subjects and other unsteady or moving objects.
+If several objects were present when the hologram was recorded, the reconstructed objects move relative to one another, i.e.
+One of the most common is a film very similar to photographic film (silver halide photographic emulsion), but with a much higher concentration of light-reactive grains, making it capable of the much higher resolution that holograms require.
+These kits enabled students, teachers, and hobbyists to make several kinds of holograms without specialized equipment, and became popular gift items by 2005.
+The rainbow holography recording process usually begins with a standard transmission hologram and copies it using a horizontal slit to eliminate vertical parallax in the output image.
+Due to the shorter wavelength of x-rays compared to visible light, this approach allows to image objects with higher spatial resolution.
+The resulting pattern is the sum of all these 'zone plates' which combine to produce a random (speckle) pattern as in the photograph above.
+Another company, InPhase Technologies, was developing a competing format, but went bankrupt in 2011 and all its assets were sold to Akonia Holographics, LLC.
+Exposure times of several minutes are typical when using quite powerful gas lasers and silver halide emulsions.
+Another very important laser parameter is its coherence.
+If the angle of illumination is changed, reconstruction will occur at a different wavelength and the colour of the re-constructed scene changes.
+In this method, parallax in the vertical plane is sacrificed to allow a bright, well-defined, gradiently colored reconstructed image to be obtained using white light.
+The principle of electron holography can also be applied to interference lithography.
+Several different materials can be used as the recording medium.
+While the original illusion, used in theater, involved actual physical objects and persons, located offstage, modern variants replace the source object with a digital screen, which displays imagery generated with 3D computer graphics to provide the necessary depth cues.
+This was a very important development for amateurs, as the price of red laser diodes had dropped from hundreds of dollars in the early 1980s to about $5 after they entered the mass market as a component of DVD players in the late 1990s.
+The claim that holography was used was reported as fact in the trade media.
+Examples of this digital version of Pepper's ghost illusion include the Gorillaz performances in the 2005 MTV Europe Music Awards and the 48th Grammy Awards; and Tupac Shakur's virtual performance at Coachella Valley Music and Arts Festival in 2012, rapping alongside Snoop Dogg during his set with Dr. Dre.
+In Madrid, on 10 April 2015, a public visual presentation called "Hologramas por la Libertad" (Holograms for Liberty), featuring a ghostly virtual crowd of demonstrators, was used to protest a new Spanish law that prohibits citizens from demonstrating in public places.
+Hologram tags have an excellent ability to inspect an identical product.
+Holography had been supposed to require a very expensive metal optical table set-up to lock all the involved elements down in place and damp any vibrations that could blur the interference fringes and ruin the hologram.
+The holograms found on credit cards are examples of rainbow holograms.
+Interference occurs when one or more wavefronts are superimposed.
+The interference pattern can be considered an encoded version of the scene, requiring a particular key — the original light source — in order to view its contents.
+This allows one to use holography to perform some simple operations in an all-optical way.
+Microsoft Hololens has presented several examples of augmented reality and claimed to be creating a "holographic computer".
+These tags are available in a variety colors, sizes and shapes.
+This brought in a new wave of holographers and provided simple methods for using the then-available AGFA silver halide recording materials.
+The discovery was an unexpected result of research into improving electron microscopes at the British Thomson-Houston (BTH) Company in Rugby, England, and the company filed a patent in December 1947 (patent GB685286).
+A phase hologram is made by changing either the thickness or the refractive index of the material in proportion to the intensity of the holographic interference pattern.
+A volume hologram effectively acts as a colour filter.
+In common practice, however, major image quality compromises are made to eliminate the need for laser illumination when viewing the hologram, and sometimes, to the extent possible, also when making it.
+The resolution limit given in the table indicates the maximal number of interference lines/mm of the gratings.
+In theory, the result should be an image of approximately the same colour as the laser light used to make the hologram.
+By late 2000, holography kits with inexpensive laser pointer diodes entered the mainstream consumer market.
+The recorded light pattern is a diffraction grating.
+Exposures lasting several seconds to several minutes, using a much lower-powered continuously operating laser, are typical.
+Standard photographic film has a very low or even zero response at the frequencies involved and cannot be used to make a hologram – see, for example, Kodak's professional black and white film whose resolution starts falling off at 20 lines/mm — it is unlikely that any reconstructed beam could be obtained using this film.
+For a better understanding of the process, it is necessary to understand interference and diffraction.
+The holography community was surprised at the amazing sensitivity of DCG to green light.
+When the lens is moved, the image changes in the same way as it would have done when the object was in place.
+The first of these is proportional to '''U'''O.
+There are three important properties of a hologram which are defined in this section.
+One does, however, lose information and the spatial resolution gets worse as the size of the hologram is decreased — the image becomes "fuzzier".
+The recording medium should be able to resolve fully all the fringes arising from interference between object and reference beam.
+The subject and the photographic plate holder were similarly supported within the sandbox.
+They are used widely in many currencies, such as the Brazilian 20, 50, and 100-reais notes; British 5, 10, and 20-pound notes; South Korean 5000, 10,000, and 50,000-won notes; Japanese 5000 and 10,000 yen notes, India 50,100,500, and 1000 rupee notes; and all the currently-circulating banknotes of the Canadian dollar, Danish krone, and Euro.
+His work, done in the late 1940s, was built on pioneering work in the field of X-ray microscopy by other scientists including Mieczysław Wolfke in 1920 and William Lawrence Bragg in 1939.
+The field of view is also reduced, and the viewer will have to change position to see different parts of the scene.
+a fluorescent lamp) will not reconstruct a hologram since its light is incident at each point at a wide range of angles, giving multiple reconstructions which will "wipe" one another out.
+The amount of processed information can be very high (terabits/s), since the operation is performed in parallel on a whole image.
+A straightforward example of this is photographic emulsion on a transparent substrate.
+The object and reference waves at any point in the holographic system are given by '''U'''O and '''U'''R.
+Holograms once affixed on Debit cards/passports cannot be removed easily.
+White light reconstructions do not contain speckles.
+The object beam is expanded by passing it through a lens and used to illuminate the subject.
+It is this interference pattern that is imprinted on the recording medium.
+The Royal Canadian Mint produces holographic gold and silver coinage through a complex stamping process.
+A diffraction grating is a structure with a repeating pattern.
+For audio rendition, the wave field synthesis is the most related procedure.
+White light consists of light of a wide range of wavelengths.
+It is essential that any such changes are significantly less than the wavelength of light if a clear well-defined recording of the interference is to be created.
+Read speeds can surpass this, and experts believe one-terabit-per-second readout is possible.
+Early holograms used silver halide photographic emulsions as the recording medium.
+The amplitude and phase of the light are represented by the absolute value and angle of the complex number.
+Photothermoplastics
+One beam illuminates the object, which then scatters light onto the recording medium.
+The emulsion is exposed to the interference pattern, and is subsequently developed giving a transmittance which varies with the intensity of the pattern – the more light that fell on the plate at a given point, the darker the developed plate at that point.
+Thus, the recorded light pattern is a holographic recording as defined above.
+However, a holographic image can be obtained using white light in specific circumstances, e.g.
+If the response of the medium to these spatial frequencies is low, the diffraction efficiency of the hologram will be poor, and a dim image will be obtained.
+This was followed in 1970 by a solo show at the Lisson Gallery in London, which was billed as the "first London expo of holograms and stereoscopic paintings".
+The objects that form the scene must, in general, have optically rough surfaces so that they scatter light over a wide range of angles.
+Stability and coherence requirements are significantly reduced if the two plates are located very close together.
+They are also capable of multicolour-image reproduction.
+A layer of this recording medium (e.g., silver halide) is attached to a transparent substrate, which is commonly glass, but may also be plastic.
+with volume holograms and rainbow holograms.
+For the purpose of identification they have unique ID numbers.
+The mirrors and simple lenses needed for directing, splitting and expanding the laser beam were affixed to short lengths of PVC pipe, which were stuck into the sand at the desired locations.
+Holography has been widely referred to in movies, novels, and TV, usually in science fiction.
+When the plane wave is incident at a non-normal angle, the pattern formed is more complex but still acts as a negative lens provided it is illuminated at the original angle.
+On one side, one has to perform the operation always on the whole image, and on the other side, the operation a hologram can perform is basically either a multiplication or a phase conjugation.
+an amplitude modulated thin transmission hologram, or a phase modulated, volume reflection hologram.
+It is an encoding of the light field as an interference pattern of seemingly random variations in the opacity, density, or surface profile of the photographic medium.
+In practice, with recording media that require chemical processing, there is typically a compaction of the structure due to the processing and a consequent colour shift to a shorter wavelength.
+Cross's home-brew alternative was a sandbox made of a cinder block retaining wall on a plywood base, supported on stacks of old tires to isolate it from ground vibrations, and filled with sand that had been washed to remove dust.
+The most common materials are photorefractive crystals, but in semiconductors or semiconductor heterostructures (such as quantum wells), atomic vapors and gases, plasmas and even liquids, it was possible to generate holograms.
+In optics, addition and Fourier transform are already easily performed in linear materials, the latter simply by a lens.
+An amplitude modulation hologram is one where the amplitude of light diffracted by the hologram is proportional to the intensity of the recorded light.
+'''Holography''' is the science and practice of making '''holograms'''.
+The spacing of the fringe pattern is determined by the angle between the two waves, and on the wavelength of the light.
+The first book to feature a hologram on the front cover was ''The Skook'' (Warner Books, 1984) by JP Miller, featuring an illustration by Miller.
+The rear projection is necessary because otherwise the semi-transparency of the screen would allow the background to be illuminated by the projection, which would break the illusion.
+The intensity of the maxima exceeds the sum of the individual intensities of the two beams, and the intensity at the minima is less than this and may be zero.
+Notably, there was the San Francisco School of Holography established by Lloyd Cross, The Museum of Holography in New York founded by Rosemary (Posy) H. Jackson, the Royal College of Art in London and the Lake Forest College Symposiums organised by Tung Jeong.
+These kind of tags are more often used for protecting duplication of electrical and electronic products.
+Examples of applications of such real-time holograms include phase-conjugate mirrors ("time-reversal" of light), optical cache memories, image processing (pattern recognition of time-varying images), and optical computing.
+As free-electron lasers can provide ultrashort and x-ray pulses in the range of femtoseconds which are intense and coherent, x-ray holography has been used to capture ultrafast dynamic processes.
+It was very common in the early days of holography to use a chess board as the object and then take photographs at several different angles using the reconstructed light to show how the relative positions of the chess pieces appeared to change.
+where ''k'' is a constant.
+This shape is retained when the film is cooled and removed from the press.
+All the elements within the optical system have to be stable to fractions of a μm over that period.
+In its early days, holography required high-power expensive lasers, but nowadays, mass-produced low-cost semi-conductor or diode lasers, such as those found in millions of DVD recorders and used in other common applications, can be used to make holograms and have made holography much more accessible to low-budget researchers, artists and dedicated hobbyists.
+A single-frequency light wave can be modeled by a complex number '''U''', which represents the electric or magnetic field of the light wave.
+A light wave incident on a grating is split into several waves; the direction of these diffracted waves is determined by the grating spacing and the wavelength of the light.
+Recent developments including atomic mirrors and especially ridged mirrors have provided the tools necessary for the creation of atomic holograms, although such holograms have not yet been commercialized.
+The process of producing a holographic reconstruction is explained below purely in terms of interference and diffraction.
+Stage illusions such as Pepper's Ghost and other unusual, baffling, or seemingly magical images are also often incorrectly called holograms.
+It is somewhat simplified but is accurate enough to provide an understanding of how the holographic process works.
+Exact reconstruction is required in holographic interferometry, where the holographically reconstructed wavefront interferes with the wavefront coming from the actual object, giving a null fringe if there has been no movement of the object and mapping out the displacement if the object has moved.
+A later refinement, the "rainbow transmission" hologram, allows more convenient illumination by white light rather than by lasers.
+None of these studios still exist; however, there is the Center for the Holographic Arts in New York and the HOLOcenter in Seoul, which offers artists a place to create and exhibit work.
+This is important because two waves of different frequencies do not produce a stable interference pattern.
+A hologram can be copied optically by illuminating it with a laser beam, and locating a second hologram plate so that it is illuminated both by the reconstructed object beam, and the illuminating beam.
+In a side-by-side comparison under optimal conditions, a holographic image is visually indistinguishable from the actual subject, if the hologram and the subject are lit just as they were at the time of recording.
+Measuring techniques included within acoustic holography are becoming increasingly popular in various fields, most notably those of transportation, vehicle and aircraft design, and NVH.
+If the hologram is illuminated with a light source incident at the original reference beam angle but a broad spectrum of wavelengths; reconstruction occurs only at the wavelength of the original laser used.
+The holographer turned off the room light, blocked the laser beam near its source using a small relay-controlled shutter, loaded a plate into the holder in the dark, left the room, waited a few minutes to let everything settle, then made the exposure by remotely operating the laser shutter.
+The pattern itself is seemingly random, as it represents the way in which the scene's light ''interfered'' with the original light source — but not the original light source itself.
+If a photographic plate is exposed to the two beams and then developed, its transmittance, '''T''', is proportional to the light energy that was incident on the plate and is given by
+A given hologram will have one or other of each of these three properties, e.g.
+He was certainly the first and best-known surrealist to do so, but the 1972 New York exhibit of Dalí holograms had been preceded by the holographic art exhibition that was held at the Cranbrook Academy of Art in Michigan in 1968 and by the one at the Finch College gallery in New York in 1970, which attracted national media attention.
+The numerical analysis of such holograms allows one to emulate large numerical aperture, which, in turn, enables enhancement of the resolution of optical microscopy.
+Since the wavelength of light is of the order of 0.5&nbsp;μm, it can be seen that very small changes in the optical paths travelled by either of the beams in the holographic recording system lead to movement of the interference pattern which is the holographic recording.
+This missing key is provided later by shining a laser, identical to the one used to record the hologram, onto the developed film.
+The hologram itself is not an image and it is usually unintelligible when viewed under diffuse ambient light.
+Unlike conventional photography, during the exposure the light source, the optical elements, the recording medium, and the subject must all remain perfectly motionless relative to each other, to within about a quarter of the wavelength of the light, or the interference pattern will be blurred and the hologram spoiled.
+Normally, if a hologram is illuminated by a white light source, each wavelength can be considered to generate its own holographic reconstruction, and these will vary in size, angle, and distance.
+Holography is a technique that enables a light field, which is generally the product of a light source scattered off objects, to be recorded and later reconstructed when the original light field is no longer present, due to the absence of the original objects.
+The viewer perceives a wavefront that is identical to the wavefront scattered from the object onto the recording medium, so that it appears to him or her that the object is still in place even if it has been removed.
+This technique remained in the prototype stage and was never developed for commercial applications.
+bleached silver halide, photoresist, and photopolymers) have surface relief patterns which conform with the original illumination intensity.
+These concerts use rear projection onto a semi-transparent DILAD screen to achieve its "holographic" effect.
+It allows the removal of the wavefront distortions a light beam receives when passing through an aberrating medium, by sending it back through the same aberrating medium with a conjugated phase.
+This is the reconstructed object beam which enables a viewer to 'see' the original object even when it is no longer present in the field of view.
+In order to permit the viewing of embossed holograms in reflection, an additional reflecting layer of aluminum is usually added on the hologram recording layer.
+If the response is not flat over the range of spatial frequencies in the interference pattern, then the resolution of the reconstructed image may also be degraded.
+Most holograms produced are of static objects but systems for displaying changing scenes on a holographic volumetric display are now being developed.
+Acoustic holography is a method used to estimate the sound field near a source by measuring acoustic parameters away from the source via an array of pressure and/or particle velocity transducers.
+The reference beam is expanded and made to shine directly on the medium, where it interacts with the light coming from the subject to create the  desired interference pattern.
+Although widely called a "hologram protest" in news reports,  no actual holography was involved — it was yet another technologically updated variant of the Pepper's Ghost illusion.
+Because perspective effects are reproduced along one axis only, the subject will appear variously stretched or squashed when the hologram is not viewed at an optimum distance; this distortion may go unnoticed when there is not much depth, but can be severe when the distance of the subject from the plane of the hologram is very substantial.
+Holograms can also be used to store, retrieve, and process information optically.
+The first step in the embossing process is to make a stamper by electrodeposition of nickel on the relief image recorded on the photoresist or photothermoplastic.
+Short exposure times (less than  of a second, such as with a pulsed laser) require much higher exposure energies, due to reciprocity failure.
+Currently available SLMs can produce about 1000 different images a second at 1024×1024-bit resolution.
+The optical processing performed by a dynamic hologram is also much less flexible than electronic processing.
+The hologram is made with a modified material that interacts  certain molecules generating a change in the fringe periodicity or refractive index, therefore, the color of the holographic reflection.
+These fringe spacings can range from tens of micrometers to less than one micrometer, i.e.
+That same year, "Telstar" by Ad Infinitum became the first record with a hologram cover and ''National Geographic'' published the first magazine with a hologram cover.
+Thus, a hologram can be broken up into small pieces and each one will enable the whole of the original object to be imaged.
+It can also be used to detect optical-path-length variations in transparent media, which enables, for example, fluid flow to be visualized and analyzed.
+Uniform illumination can be obtained by scanning point-by-point or with a beam shaped into a thin line.
+These are the hologram adhesive strips that provide protection against counterfeiting and duplication of products.
+In 2005, companies such as Optware and Maxell produced a 120&nbsp;mm disc that uses a holographic layer to store data to a potential 3.9&nbsp;TB, a format called Holographic Versatile Disc.
+The viewer is therefore effectively viewing the holographic image through a narrow horizontal slit, but the slit has been expanded into a window by the same dispersion that would otherwise smear the entire image.
+spatial frequencies ranging from a few hundred to several thousand cycles/mm, and ideally, the recording medium should have a response which is flat over this range.
+A good holography laser will typically have a coherence length of several meters, ample for a deep hologram.
+When the hologram is illuminated by the original reference beam, each of the individual zone plates reconstructs the object wave which produced it, and these individual wavefronts add together to reconstruct the whole of the object beam.
+Specular holography is a related technique for making three-dimensional images by controlling the motion of specularities on a two-dimensional surface.
+The development of the laser enabled the first practical optical holograms that recorded 3D objects to be made in 1962 by Yuri Denisyuk in the Soviet Union and by Emmett Leith and Juris Upatnieks at the University of Michigan, USA.
+Holography can be put to a variety of uses other than recording images.
+The interference pattern maps the relative phase between the two waves, and any change in the relative phases causes the interference pattern to move across the field of view.
+Dichromated gelatin
+They were not very efficient as the produced grating absorbed much of the incident light.
+The second (reference) beam illuminates the recording medium directly.
+It is possible to make holograms of much less stable objects by using a pulsed laser which produces a large amount of energy in a very short time (μs or less).
+When it is illuminated by only one of the waves used to create it, it can be shown that one of the diffracted waves emerges at the same angle as that at which the second wave was originally incident so that the second wave has been 'reconstructed'.
+Since each point in the object illuminates all of the hologram, the whole object can be reconstructed from a small part of the hologram.
+They can also be found in credit and bank cards as well as passports, ID cards, books, DVDs, and sports equipment.
+The MIT Museum and Jonathan Ross both have extensive collections of holography and on-line catalogues of art holograms.

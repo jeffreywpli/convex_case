@@ -1,0 +1,200 @@
+It never stops functioning and firing neuronal signals, as well as using oxygen as long as the person in question is alive.
+These results demonstrate that periods of rest are associated with significant cognitive activity and are therefore not an optimal baseline for cognition tasks.
+There have been tests done showing that drug use alters blood flow in the brain, which drastically affects the outcome of BOLD testing.
+Changes in the blood-flow system, the vascular system, integrate responses to neuronal activity over time.
+The radio-frequency field of the excitation coil may heat up the body, and this has to be monitored more carefully in those running a fever, the diabetic, and those with circulatory problems.
+There could also be noise from the magnetic field not being uniform.
+When the head moves, the neurons under a voxel move and hence its timecourse now represents largely that of some other voxel in the past.
+When each block is alternated with a rest condition in which the HDR has enough time to return to baseline, a maximum amount of variability is introduced in the signal.
+There are also problems with many tasks lacking the ability to be repeated.
+Scanning sessions also subject participants to loud high-pitched noises from Lorentz forces induced in the gradient coils by the rapidly switching current in the powerful static field.
+::(2) In other studies, when cognitive process X was putatively engaged, then brain area Z was active.
+During the late 19th century, Angelo Mosso invented the 'human circulation balance', which could non-invasively measure the redistribution of blood during emotional and intellectual activity.
+Noise is unwanted changes to the MR signal from elements not of interest to the study.
+Bandettini and colleagues used EPI at 1.5 T to show activation in the primary motor cortex, a brain area at the last stage of the circuitry controlling voluntary movements.
+One such company was BrightHouse, now shut down.
+Typically, the unwanted signal, called the noise, from the scanner, random brain activity and similar elements is as big as the signal itself.
+Thermal noise multiplies in line with the static field strength, but physiological noise multiplies as the square of the field strength.
+Transforming this into voxels introduces some loss and distortions.
+The gradient switching can also induce currents in the body causing nerve tingling.
+Experimental paradigms such as staggering when a stimulus is presented at various trials can improve temporal resolution, but reduces the number of effective data points obtained.
+The model assumes, at every time point, that the HDR is equal to the scaled and summed version of the events active at that point.
+Samuel M. McClure used fMRI to show the dorsolateral prefrontal cortex, hippocampus and midbrain were more active when people knowingly drank Coca Cola as opposed to when they drank unlabeled Coke.
+Advanced techniques to improve temporal resolution address these issues.
+Implanted medical devices such as pacemakers could malfunction because of these currents.
+If the baseline condition is too close to maximum activation, certain processes may not be represented appropriately.
+Therefore, it has been stated that fMRI has much more testing to do before it can be considered viable in the eyes the legal system.
+T2* decay is caused by magnetized nuclei in a volume of space losing magnetic coherence (transverse magnetization) from both bumping into one another and from intentional differences in applied magnetic field strength across locations (field inhomogeneity from a spatial gradient).
+To manipulate blood oxygen level, they changed the proportion of oxygen the animals breathed.
+But the studies are difficult because it is hard to motivate an animal to stay still and typical inducements such as juice trigger head movement while the animal swallows it.
+A third is Sales Brain in California.
+The GLM model attempts to find the scaling weights that minimize the sum of the squares of the error.
+Nearby regions such as the pulvinar nucleus were not stimulated for this task, indicating millimeter resolution for the spatial extent of the BOLD response, at least in thalamic nuclei.
+They also showed that gradient-echo images, which depend on a form of loss of magnetization called T2* decay, produced the best images.
+But, when these solutions are plugged into the left-out equations, there will be a mismatch between the right and left sides, the error.
+When neurons become active, getting them back to their original (polarized) state requires actively pumping ions back and forth across the neuronal cell membranes.
+The voxels are arranged one after the other, unfolding the three-dimensional structure into a single line.
+Remembering a similar event may take a few seconds, and emotional or physiological changes such as fear arousal may last minutes or hours.
+This consists of an array of voxel intensity values, one value per voxel in the scan.
+Usually the brought-in oxygen is more than the oxygen consumed in burning glucose (it is not yet settled whether most glucose consumption is oxidative), and this causes a net decrease in dHb in that brain area's blood vessels.
+The brain is never completely at rest.
+A low-pass filter removes the higher frequencies, while a band-pass filter removes all frequencies except the particular range of interest.
+This technique relies on the fact that cerebral blood flow and neuronal activation are coupled.
+This too often uses an external agent.
+Temporal resolution of fMRI is limited by: (1) the feedback mechanism that raises the blood flow operating slowly; (2) having to wait till net magnetization recovers before sampling a slice again; and (3) having to acquire multiple slices to cover the whole brain or region of interest.
+Another form is changes in the current or voltage distribution of the brain itself inducing changes in the receiver coil and reducing its sensitivity.
+Even when whole-brain analysis is done, to interpret the final results, that is to figure out which regions the active voxels fall in, one has to align the functional image to the structural one.
+This prediction does not include the scaling required for every event before summing them.
+Each block will have a duration of a certain number of fMRI scans and within each block only one condition is presented.
+One method, as described before, is to use shimming coils.
+For fMRI specifically, the hemodynamic response lasts over 10 seconds, rising multiplicatively (that is, as a proportion of current value), peaking at 4 to 6 seconds, and then falling multiplicatively.
+The amplitude of the BOLD signal does not necessarily affect its shape.
+Another is to recreate a field map of the main field by acquiring two images with differing echo times.
+Reverse inference demonstrates the logical fallacy of affirming what you just found, although this logic could be supported by instances where a certain outcome is generated solely by a specific occurrence.
+Turning on both gradient coils  can generate angled lines, which cover the same grid space faster.
+Temporal filtering is the removal of frequencies of no interest from the signal.
+Other studies have shown the brain activity that characterizes men's preference for sports cars, and even differences between Democrats and Republicans in their reaction to campaign commercials with images of the 9/11 attacks.
+Using head restraints or bite bars may injure epileptics who have a seizure inside the scanner; bite bars may also discomfort those with dental prostheses.
+In addition, this model assumes that a cognitive process can be selectively added to a set of active cognitive processes without affecting them.
+For a more mathematical description of the GLM model, see generalized linear models.
+Dr. Sally Satel, writing in Time, cautioned that while brain scans have scientific value, individual brain areas often serve multiple purposes and "reverse inferences" as commonly used in press reports carry a significant chance of drawing invalid conclusions.
+The strong static magnetic field can cause damage by pulling in nearby heavy metal objects converting them to projectiles.
+Neuronal activity related to the act of seeing lasts for more than 100&nbsp;ms. A fast reaction, such as swerving to avoid a car crash, takes around 200&nbsp;ms. By about half-a-second, awareness and reflection of the incident sets in.
+This can lead both to discomfort for the subject inside the scanner and to loss of the magnetization signal.
+A higher-amplitude signal may be seen for stronger neural activity, but peaking at the same place as a weaker signal.
+The resulting brain activation can be presented graphically by color-coding the strength of activation across the brain or the specific region studied.
+As such, we conclude that block designs offer considerable statistical power.
+Other biomarkers now looked at to provide better contrast include temperature, acidity/alkalinity (pH), calcium-sensitive agents, neuronal magnetic field, and the Lorentz effect.
+Differences in magnetic properties between arterial (oxygen-rich) and venous (oxygen-poor) blood provided this link.
+But by 2012, that number had dropped to 10%.
+The vascular arterial system supplying fresh blood branches into smaller and smaller vessels as it enters the brain surface and within-brain regions, culminating in a connected capillary bed within the brain.
+:This is a ‘reverse inference’, in that it reasons backwards from the presence of brain activation to the engagement of a particular cognitive function.
+reported that even though the DNA damage detected after MRI was at a level comparable to that produced by scans using ionizing radiation (low-dose coronary CT angiography, nuclear imaging, and X-ray angiography), differences in the mechanism by which this damage takes place suggests that the cancer risk of MRI, if any, is unknown.
+The transformation that gives the minimal cost function is chosen as the model for head motion.
+Some companies have developed commercial products such as lie detectors based on fMRI techniques, but the research is not believed to be ripe enough for widespread commercialization.
+But if the presumed spatial extent of activation does not match the filter, signal is reduced.
+The first step in preprocessing is conventionally slice timing correction.
+It lags the neuronal events triggering it by 1 to 2&nbsp;seconds, since it takes that long for the vascular system to respond to the brain's need for glucose.
+The method can also be combined with other brain-imaging techniques such as transcranial stimulation, direct cortical stimulation and, especially, EEG.
+If the classifier is linear, then the training model is a set of weights used to scale the value in each voxel before summing them to generate a single number that determines the condition for each testing set trial.
+'''Functional magnetic resonance imaging''' or '''functional MRI''' ('''fMRI''') is a functional neuroimaging procedure using MRI technology that measures brain activity by detecting changes associated with blood flow.
+The fMRI procedure can also be combined with near-infrared spectroscopy (NIRS) to have supplementary information about both oxyhemoglobin and deoxyhemoglobin.
+In a seminal 1990 study based on earlier work by Thulborn et al., Ogawa and colleagues scanned rodents in a strong magnetic field (7.0&nbsp;T) MRI.
+Calcium-sensitive agents make MRI more sensitive to calcium concentrations, with calcium ions often being the messengers for cellular signalling pathways in active neurons.
+The second is a probabilistic map created by combining scans from over a hundred individuals.
+A person's strategies to respond or react to a stimulus, and to solve problems, often change over time and over tasks.
+When an area of the brain is in use, blood flow to that region also increases.
+With regard to the brain and brain function it is seldom that a particular brain region is activated solely by one cognitive process.
+The scanner platform generates a 3&nbsp;D volume of the subject's head every TR.
+:The usual kind of inference that is drawn from neuroimaging data is of the form ‘if cognitive process X is engaged, then brain area Z is active.’ Perusal of the discussion sections of a few fMRI articles will quickly reveal, however, an epidemic of reasoning taking the following form:
+The averaging is often done by convolution with a Gaussian filter, which, at every spatial point, weights neighboring voxels by their distance, with the weights falling exponentially following the bell curve.
+So does drift in the baseline signal over time.
+The dHb molecule is more attracted to magnetic fields.
+Deoxygenated hemoglobin (dHb) is more magnetic (paramagnetic) than oxygenated hemoglobin (Hb), which is virtually resistant to magnetism (diamagnetic).
+The transformed volume is compared statistically to the volume at the first timepoint to see how well they match, using a cost function such as correlation or mutual information.
+The scanning process acquires the MR signal in k-space, in which overlapping spatial frequencies (that is repeated edges in the sample's volume) are each represented with lines.
+This generates variations in neural activity from trial to trial within a subject.
+MRI brain scans use a strong, permanent, static magnetic field to align nuclei in the brain region being studied.
+The design matrix and this shape are used to generate a prediction of the exact HDR response of the voxel at every timepoint, using the mathematical procedure of convolution.
+A voxel typically contains a few million neurons and tens of billions of synapses, with the actual number depending on voxel size and the area of the brain being imaged.
+Patients with brain pathologies are more difficult to scan with fMRI than are young healthy volunteers, the typical research-subject population.
+These mechanisms assume the researcher has an idea of the expected shape of the activation image.
+Other methods of obtaining contrast are arterial spin labeling and diffusion MRI.
+So the BOLD contrast reflects mainly the inputs to a neuron and the neuron's integrative processing within its body, and less the output firing of neurons.
+However, the BOLD response can often be compared across subjects for the same brain region and the same task.
+Head motion correction is another common preprocessing step.
+Smaller voxels contain fewer neurons on average, incorporate less blood flow, and hence have less signal than larger voxels.
+The main issue with forward inference is that it is a correlational method.
+In the rat brain, single-whisker touch has been shown to elicit BOLD signals from the somatosensory cortex.
+The technique can localize activity to within millimeters but, using standard techniques, no better than within a window of a few seconds.
+When a person performs two tasks simultaneously or in overlapping fashion, the BOLD response is expected to add linearly.
+Over time the signal recovers to the baseline.
+It affects all voxels similarly, independent of anatomy.
+This measure is frequently corrupted by noise from various sources and hence statistical procedures are used to extract the underlying signal.
+Since the head can move in a vastly varied number of ways, it is not possible to search for all possible candidates; nor is there right now an algorithm that provides a globally optimal solution independent of the first transformations we try in a chain.
+Clinicians also use fMRI to anatomically map the brain and detect the effects of tumors, stroke, head and brain injury, or diseases such as Alzheimer's.
+In one real but satirical fMRI study, a dead salmon was shown pictures of humans in different emotional states.
+To integrate the results across subjects, one possibility is to use a common brain atlas, and adjust all the brains to align to the atlas, and then analyze them as a single group.
+This means that a series of processing steps must be performed on the acquired images before the actual statistical search for task-related activation can begin.
+Activation locations detected by BOLD fMRI in cortical areas (brain surface regions) are known to tally with CBF-based functional maps from PET scans.
+It can also record signal from all regions of the brain, unlike EEG/MEG, which are biased toward the cortical surface.
+Learned changes, such as recognizing faces or scenes, may last days, months, or years.
+This difference leads to an improved MR signal since the diamagnetic blood interferes with the magnetic MR signal less.
+A single voxel's response signal over time is called its timecourse.
+One common way is to create a matrix with one column per overlapping event, and one row per time point, and to mark it with a one if a particular event, say a stimulus, is active at that time point.
+A linear equation has an exact solution, under most conditions, when equations and unknowns match.
+Combining EEG with fMRI is hence potentially powerful because the two have complementary strengths—EEG has high temporal resolution, and fMRI high spatial resolution.
+A source of nonlinearity in the fMRI response is from the refractory period, where brain activity from a presented stimulus suppresses further activity on a subsequent, similar, stimulus.
+In 1890, Charles Roy and Charles Sherrington first experimentally linked brain function to its blood flow, at Cambridge University.
+A voxel's intensity change over time can be represented as the sum of a number of different repeating waves with differing periods and heights.
+Typical gradient-echo EPI uses two gradient coils within a slice, and turns on first one coil and then the other, tracing a set of lines in k-space.
+Research is primarily performed in non-human primates such as the rhesus macaque.
+Bias field estimation is a real preprocessing technique using mathematical models of the noise from distortion, such as Markov random fields and expectation maximization algorithms, to correct for distortion.
+They map the brain with fMRI to identify regions linked to critical functions such as speaking, moving, sensing, or planning.
+Smaller voxels also take longer to scan, since scanning time directly rises with the number of voxels per slice and the number of slices.
+In regions that are more deliberative, such as the lateral frontal and lateral parietal lobes, it seems that incoming flow is less than consumption.
+The physiological blood-flow response largely decides the temporal sensitivity, that is how accurately we can measure when neurons are active, in BOLD fMRI.
+Since this complicates later analysis, a timing correction is applied to bring all slices to the same timepoint reference.
+Within a neuron these two inputs might cancel out.
+Any difference in blood flow (the BOLD signal) between these two conditions is then assumed to reflect the differing cognitive process.
+It is common to combine fMRI signal acquisition with tracking of participants' responses and reaction times.
+These produce neural activity independent of the experimental manipulation.
+For example, the hippocampus has been shown to be activated during classical conditioning, however lesion studies have demonstrated that classical conditioning can occur without the hippocampus.
+Thus MR pulse sequences sensitive to T2* show more MR signal where blood is highly oxygenated and less where it is not.
+Event-related designs allow more real world testing, however, the statistical power of event related designs is inherently low, because the signal change in the BOLD fMRI signal following a single stimulus presentation is small.
+This is of particular importance in removing tumors and in patients who have intractable temporal lobe epilepsy.
+This could be either those sections of the image that repeat often in a spatial map (that is small clusters dotting the image periodically) or those sections repeating infrequently (larger clusters).
+Most researchers agree that the ability of fMRI to detect deception in a real life setting has not been established.
+Mosso's manuscripts do not provide direct evidence that  the balance was really able to measure changes in cerebral blood flow due to cognition, however a modern replication performed by David T Field has now demonstrated using modern signal processing techniques unavailable to Mosso that a balance apparatus of this type is able to detect changes in cerebral blood volume related to cognition.
+Newer methods which improve both spatial and time resolution are being researched, and these largely use biomarkers other than the BOLD signal.
+Temporal resolution can be improved by staggering stimulus presentation across trials.
+This is most typically achieved by training and testing on different scanner sessions or runs.
+TRs could vary from the very short (500&nbsp;ms) to the very long (3&nbsp;s).
+Kenneth Kwong and colleagues, used a gradient-echo Echo Planar Imaging (EPI) sequence at a magnetic field strength of 1.5 T to study activation in the visual cortex.
+The local field potential, which includes both post-neuron-synaptic activity and internal neuron processing, better predicts the BOLD signal .
+Oxygen is carried by the hemoglobin molecule in red blood cells.
+In fact, there are many known cases that demonstrate just that.
+Periodic blocks may result in identical data of other variance in the data if the person breathes at a regular rate of 1 breath/5sec, and the blocks occur every 10s, thus impairing the data.
+Nitric oxide is a vasodilator causing arterioles to expand and draw in more blood.
+The next step to resolving how to measure blood flow to the brain was Linus Pauling's and Charles Coryell's discovery in 1936 that oxygen-rich blood with Hb was weakly repelled by magnetic fields, while oxygen-depleted blood with dHb was attracted to a magnetic field, though less so than ferromagnetic elements such as iron.
+Since the signal also multiplies as the square of the field strength, and since physiological noise is a large proportion of total noise, higher field strengths above 3&nbsp;T do not always produce proportionately better images.
+Researchers have checked the BOLD signal against both signals from implanted electrodes (mostly in monkeys) and signals of field potentials (that is the electric or magnetic field from the brain's activity, measured outside the skull) from EEG and MEG.
+Since fMRI is acquired in slices, after movement, a voxel continues to refer to the same absolute location in space while the neurons underneath it would have changed.
+These companies depend on evidence such as that from a study by Joshua Greene at Harvard University suggesting the prefrontal cortex is more active in those contemplating lying.
+The BOLD response across brain regions cannot be compared directly even for the same task, since the density of neurons and the blood-supply characteristics are not constant across the brain.
+The authors provided evidence, according to two different commonly used statistical tests, of areas in the salmon's brain suggesting meaningful activity.
+The testing is too uncontrolled and unpredictable.
+What the eye sees is registered on the photoreceptors of the retina within a millisecond or so.
+The HDR for the doubled-event is then just double that of the single event.
+This uses multiple coils for excitation and reception.
+For details, see EEG vs fMRI.
+Sizes range from 4 to 5&nbsp;mm to 1&nbsp;mm.
+The time resolution needed depends on brain processing time for various events.
+Finally, a radiofrequency (RF) pulse is played to kick the nuclei to higher magnetization levels, with the effect now depending on where they are located.
+These, however, pick up signals better from the brain surface, and less well from deeper structures such as the hippocampus.
+Also, the amplitude does not necessarily reflect behavioral performance.
+A high-pass filter removes the lower frequencies, and the lowest frequency that can be identified with this technique is the reciprocal of twice the TR.
+The goal of fMRI data analysis is to detect correlations between brain activation and a task the subject performs during the scan.
+First, most evidence supporting fMRIs accuracy was done in a lab under controlled circumstances with solid facts.
+An example of the broad range here is given by the visual processing system.
+A voxel is a three-dimensional rectangular cuboid, whose dimensions are set by the slice thickness, the area of a slice, and the grid imposed on the slice by the scanning process.
+This is known as the subtraction paradigm.
+A plot with these periods on the x-axis and the heights on the y-axis is called a power spectrum, and this plot is created with the Fourier transform technique.
+Clinical use of fMRI still lags behind research use.
+Head movements cause the voxel-to-neurons mapping to change while scanning is in progress.
+No Lie MRI charges close to $5000 for its services.
+Local burning from metal necklaces and other jewellery is also a risk.
+Lorentz-effect imaging tries to measure the physical displacement of active neurons carrying an electric current within the strong static field.
+In a comparison of genotoxic effects of MRI compared with those of CT scans, Knuuti et al.
+This can be done either with a phased array where the coils are combined in parallel and often sample overlapping areas with gaps in the sampling or with massive coil arrays, which are a much denser set of receivers separate from the excitation coils.
+The MR scanner acquires different slices within a single brain volume at different times, and hence the slices represent brain activity at different timepoints.
+With these, fMRI can examine a spatial range from millimeters to centimeters, and can hence identify Brodmann areas (centimers), subcortical nuclei such as the caudate, putamen and thalamus, and hippocampal subfields such as the combined dentate gyrus/CA3, CA1, and subiculum.
+Temporal filtering amounts to removing the periodic waves not of interest to us from the power spectrum, and then summing the waves back again, using the inverse Fourier transform to create a new timecourse for the voxel.
+Lastly, there is an ethical question relating to fMRI scanning.
+In the corresponding secondary regions, the supplementary motor cortex, which is involved in planning motor behavior, and the motion-sensitive V5 region, a strong refractory period is seen and the HDR amplitude stays steady across a range of stimulus or response durations.
+But today researchers typically collect data from more slices (using stronger magnetic gradients), and preprocess and analyze data using statistical techniques.
+Using multiple coils speeds up acquisition time in exact proportion to the coils used.
+Tumors and lesions can change the blood flow in ways not related to neural activity, masking the neural HDR.
+The refractory period does not change with age, nor do the amplitudes of HDRs.
+::(3) Thus, the activity of area Z in the present study demonstrates engagement of cognitive process X by task comparison A.
+The GLM model does not take into account the contribution of relationships between multiple voxels.

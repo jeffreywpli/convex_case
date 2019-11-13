@@ -1,0 +1,200 @@
+Taking advantage of this fact is the ''coreless or ironless DC motor'', a specialized form of a PM DC motor.
+Some motors have conductors which consist of thicker metal, such as bars or sheets of metal, usually copper, although sometimes aluminum is used.
+They start like induction motors, but when slip rate decreases sufficiently, the rotor (a smooth cylinder) becomes temporarily magnetized.
+Yet another, such as made by Hammond for its pre-World War II clocks, and in the older Hammond organs, has no rotor windings and discrete poles.
+This provides the fundamental mechanism of speed regulation in a DC motor.
+Large brushes are desired for a larger brush contact area to maximize motor output, but small brushes are desired for low mass to maximize the speed at which the motor can run without the brushes excessively bouncing and sparking.
+Linear motors are most commonly induction motors or stepper motors.
+In absence of such current reversal, the motor would brake to a stop.
+Contrast this with an induction motor, which must slip to produce torque.
+This type of motor is now used for the vast majority of commercial applications.
+Therefore, DC motor brush design entails a trade-off between output power, speed, and efficiency/wear.
+* They are also acoustically very quiet motors which is an advantage if being used in equipment that is affected by vibrations.
+In fans, the tachometer signal can be used to derive a "fan OK" signal as well as provide running speed feedback.
+Its distributed poles make it act like a PMSM.
+An electrostatic motor is based on the attraction and repulsion of electric charge.
+For this reason air gap should be minimum .
+The same kind of motor drives battery-powered quartz clocks.
+However, the equation only directly relates to non PM motors.
+With their higher flux density, electric machines with high-energy PMs are at least competitive with all optimally designed singly-fed synchronous and induction electric machines.
+Parasitic eddy currents cannot form in the rotor as it is totally ironless, although iron rotors are laminated.
+*Armature circuit - A winding where the load current is carried, such that can be either stationary or rotating part of motor or generator.
+Finally, hysteresis synchronous motors typically are (essentially) two-phase motors with a phase-shifting capacitor for one phase.
+*WRIM - Wound-rotor induction motor
+At low speeds, the current induced in the squirrel cage is nearly at line frequency and tends to be in the outer parts of the rotor cage.
+The design of AC induction and synchronous motors is optimized for operation on single-phase or polyphase sinusoidal or quasi-sinusoidal waveform power such as supplied for fixed-speed application from the AC power grid or for variable-speed application from VFD controllers.
+In an electric motor the moving part is the rotor which turns the shaft to deliver the mechanical power.
+Instead every machine could be equipped with its own electric motor, providing easy control at the point of use, and improving power transmission efficiency.
+They are also used in maglev trains, where the train "flies" over the ground.
+This cool operation leads to much-improved life of the fan's bearings.
+The maximum torque for a motor will depend on the maximum current although this will usually be .only usable until thermal considerations take precedence.
+*PM - Permanent magnet
+drives, and mechanisms within office products such as fans, laser printers and photocopiers.
+Although the contemporary design differs considerably from that of loudspeakers, it is still loosely (and incorrectly) referred to as a "voice coil" structure, because some earlier rigid-disk-drive heads moved in straight lines, and had a drive structure much like that of a loudspeaker.
+These motors were originally invented to drive the capstan(s) of magnetic tape drives in the burgeoning computer industry, where minimal time to reach operating speed and minimal stopping distance were critical.
+Miniature motors resemble the structure in the illustration, except that they have at least three rotor poles (to ensure starting, regardless of rotor position) and their outer housing is a steel tube that magnetically links the exteriors of the curved field magnets.
+Because this field is fixed, it cannot be adjusted for speed control.
+A PM motor does not have a field winding on the stator frame, instead relying on PMs to provide the magnetic field against which the rotor field interacts to produce torque.
+* Without a commutator to wear out, the life of a BLDC motor can be significantly longer compared to a DC motor using brushes and a commutator.
+With PM rotor:* BLDC motorWithferromagneticrotor:* SRM
+Due to the high cost of primary battery power, the motors were commercially unsuccessful and Davenport went bankrupt.
+SCIMs have a heavy winding made up of solid bars, usually aluminum or copper, joined by rings at the ends of the rotor.
+Sprague's motor and related inventions led to an explosion of interest and use in electric motors for industry, while almost simultaneously another great inventor was developing its primary competitor, which would become much more widespread.
+AsynchronousMachines
+To minimize overall weight and size, miniature PM motors may use high energy magnets made with neodymium or other strategic elements; most such are neodymium-iron-boron alloy.
+The product between these two fields gives rise to a force, and thus a torque on the motor shaft.
+Also known as electronically commutated DC or inside out DC motors, the stator windings of trapezoidal BLDC motors can be with single-phase, two-phase or three-phase and use Hall effect sensors mounted on their windings for rotor position sensing and low cost closed-loop control of the electronic commutator.
+** Differentially compounded
+Optimized for rapid acceleration, these motors have a rotor that is constructed without any iron core.
+When one considers only the bars and rings as a whole, they are much like an animal's rotating exercise cage, hence the name.
+If the mechanical load increases, the motor slows down; a lower back emf results, and more current is drawn from the supply.
+Whereas SCIMs cannot turn a shaft faster than allowed by the power line frequency, universal motors can run at much higher speeds.
+The current density per unit area of the brushes, in combination with their resistivity, limits the output of the motor.
+Universal motors can run on either AC or DC.
+George Westinghouse promptly bought Tesla's patents, employed Tesla to develop them, and assigned C. F. Scott to help Tesla; however, Tesla left for other pursuits in 1889.
+They typically require a high-voltage power supply, although very small motors employ lower voltages.
+Like Sturgeon's motor, there was no practical commercial market for these motors.
+One type of synchronous motor is like an induction motor except the rotor is excited by a DC field.
+The latter monitors engine speed by counting electrical pulses from the ignition system or from a magnetic pickup and, depending on the speed, makes small adjustments to the amount of current applied to the motor.
+Stepper motors were and still are often used in computer printers, optical scanners, and digital photocopiers to move the optical scanning element, the print head carriage (of dot matrix and inkjet printers), and the platen or feed rollers.
+Depending on the commutator design, this may include the brushes shorting together adjacent sections – and hence coil ends – momentarily while crossing the gaps.
+There are five types of brushed DC motor:-
+Mechanical-Commutator Motors
+The stator is the stationary part of the motor’s electromagnetic circuit and usually consists of either windings or permanent magnets.
+These are the fast head positioners for rigid-disk ("hard disk") drives.
+*SCIM - Squirrel-cage induction motor
+The making and breaking of electric contact also generates electrical noise; sparking generates RFI.
+The negative aspect is the maintenance and short life problems caused by the commutator.
+* PM DC motor (not shown)
+After Jedlik solved the technical problems of the continuous rotation with the invention of the commutator, he called his early devices "electromagnetic self-rotors".
+Brushes eventually wear out and require replacement, and the commutator itself is subject to wear and maintenance (on larger motors) or replacement (on small motors).
+For instance, when a typical dot matrix computer printer starts up, its controller makes the print head stepper motor drive to its left-hand limit, where a position sensor defines home position and stops stepping.
+The rotor poles connect to each other and move at the same speed hence the name synchronous motor.
+Overheating might be an issue for coreless DC motor designs.
+The first alternating-current commutatorless induction motors  were independently invented  by Galileo Ferraris and Nikola Tesla, a working motor model having been demonstrated by the former in 1885 and by the latter in 1887.
+Electric machines with a transformer circuit topology, such as induction machines, induction doubly-fed electric machines, and induction or synchronous wound-rotor doubly-fed (WRDF) machines, exhibit very high bursts of torque because the emf-induced active current on either side of the transformer oppose each other and thus contribute nothing to the transformer coupled magnetic core flux density, which would otherwise lead to core saturation.
+Large, powerful, but slow-responding servo loops may use conventional AC or DC motors and drive systems with position or speed feedback on the motor.
+Vibrator motors for cellular phones are sometimes tiny cylindrical PM field types, but there are also disc-shaped types which have a thin multipolar disc field magnet, and an intentionally unbalanced molded-plastic rotor structure with two bonded coreless coils.
+Electric motors are used to produce linear or rotary force (torque), and should be distinguished from devices such as magnetic solenoids and loudspeakers that convert electricity into motion but do not generate usable mechanical powers, which are respectively referred to as actuators and transducers.
+# In non-slip energy recovery systems WRIM is usually used for motor starting but can be used to vary load speed.
+In the 1880s, many inventors were trying to develop workable AC motors because AC's advantages in long-distance high-voltage transmission were counterbalanced by the inability to operate motors on AC.
+In 1827, Hungarian physicist Ányos Jedlik started experimenting with electromagnetic coils.
+Such motors are used in devices such as food mixers and power tools which are used only intermittently, and often have high starting-torque demands.
+So-called quartz analog wristwatches contain the smallest commonplace stepping motors; they have one coil, draw very little power, and have a PM rotor.
+On a smaller scale, the 1978 era HP 7225A pen plotter used two linear stepper motors to move the pen along the X and Y axes.
+Another common application is the control of the throttle of an internal combustion engine in conjunction with an electronic governor.
+In this motor, the mechanical "rotating switch" or commutator is replaced by an external electronic switch synchronised to the rotor's position.
+Nevertheless, like a voice coil, modern actuator coil conductors (the magnet wire) move perpendicular to the magnetic lines of force.)
+*BLAC - Brushless AC
+He built a model electric vehicle that same year.
+The first commercially successful DC motors followed the invention by Zénobe Gramme who, in 1871, reinvented Pacinotti's design.
+*VFD - Variable-frequency drive
+If the soft magnetic material of the rotor is made in the form of a cylinder, then (except for the effect of hysteresis) torque is exerted only on the windings of the electromagnets.
+This sparking limits the maximum speed of the machine, as too-rapid sparking will overheat, erode, or even melt the commutator.
+It was not until 1839/40 that other developers worldwide managed to build motors of similar and later also of higher performance.
+A free-hanging wire was dipped into a pool of mercury, on which a permanent magnet (PM) was placed.
+A rather unusual motor design, the printed armature or pancake motor has the windings shaped as a disc running between arrays of high-flux magnets.
+These are usually powered by electromagnetic induction.
+This design is commonly known as the pancake motor because of its extremely flat profile, although the technology has had many brand names since its inception, such as ServoDisc.
+Always limited by magnetic core saturation or safe operating temperature rise and voltage, the capacity for torque bursts beyond the maximum operating torque differs significantly between categories of electric motors or generators.
+Torque bursts greater than eight times operating torque have been calculated.
+Operated in this manner, the slip losses are dissipated in the secondary resistors and can be very significant.
+Furthermore, the PM assembly of PMSMs can be irreparably damaged, if bursts of torque exceeding the maximum operating torque rating are attempted.
+Servomotors are used in applications such as machine tools, pen plotters, and other process systems.
+Stepper motors are a type of motor frequently used when precise rotations are required.
+PM fields (stators) are convenient in miniature motors to eliminate the power consumption of the field winding.
+Electronic-Commutator (EC)Motors
+In synchronous machines, the magnetic field must be provided by means other than induction such as from separately excited windings or permanent magnets.
+Doubly-fed electric motors are machines with an effective constant torque speed range that is twice synchronous speed for a given frequency of excitation.
+Steadfast in his promotion of three-phase development, Mikhail Dolivo-Dobrovolsky invented the three-phase cage-rotor induction motor in 1889 and the three-limb transformer in 1890.
+Commutation also tends to cause a great deal of electrical and RF noise; without a commutator or brushes, a BLDC motor may be used in electrically sensitive devices like audio equipment or computers.
+# Variable-speed operation.
+In 1888, Tesla presented his paper ''A New System for Alternating Current Motors and Transformers'' to the AIEE that described three patented two-phase four-stator-pole motor types: one with a four-pole rotor forming a non-self-starting reluctance motor, another with a wound rotor forming a self-starting induction motor, and the third a true synchronous motor with separately excited DC supply to rotor winding.
+Rectifier,linear transistor(s) or DC chopper
+The rotor material, like that of a common nail, will stay magnetized, but can also be demagnetized with little difficulty.
+An alternative manufacturing method is to use wound copper wire laid flat with a central conventional commutator, in a flower and petal shape.
+Today the electrostatic motor finds frequent use in micro-electro-mechanical systems (MEMS) where their drive voltages are below 100 volts, and where moving, charged plates are far easier to fabricate than coils and iron cores.
+Three-phase motors:* WRSM* PMSM orBLAC motor- IPMSM- SPMSM* HybridAC motors:10* Permanent-split capacitor* Hysteresis* Stepper* SyRM* SyRM-PM hybrid
+Following Sturgeon's work, a commutator-type direct-current electric motor made with the intention of commercial use was built by the American inventor Thomas Davenport, which he patented in 1837.
+Also, the molecular machinery which runs living cells is often based on linear and rotary electrostatic motors.
+However, he claimed that Tesla's motor was not practical because of two-phase pulsations, which prompted him to persist in his three-phase work.
+Operating at normal power line frequencies, universal motors are often found in a range less than .
+An induction motor resembles a rotating transformer, because the stator (stationary part) is essentially the primary side of the transformer and the rotor (rotating part) is the secondary side.
+# Whereas induction and synchronous motor drives are typically with either six-step or sinusoidal waveform output, BLDC motor drives are usually with trapezoidal current waveform; the behavior of both sinusoidal and trapezoidal PM machines is however identical in terms of their fundamental aspects.
+Related limited-travel actuators have no core and a bonded coil placed between the poles of high-flux thin PMs.
+The constant speed AC induction motor was found not to be suitable for street cars but Westinghouse engineers successfully adapted it to power a mining operation in Telluride, Colorado in 1891.
+Conventional electric motors instead employ magnetic attraction and repulsion, and require high current at low voltages.
+Polyphase induction motors are widely used in industry.
+Difficulties with controlling speed near synchronous speed limit applications.
+It is typically at less than 1/2 the stall torque.
+Two independent multiphase winding sets (i.e., dual armature) are the maximum provided in a single package without topology duplication.
+'''Type of Motor Commutation'''
+Although they were used only for instructional purposes, in 1828 Jedlik demonstrated the first device to contain the three main components of practical DC motors: the stator, rotor and commutator.
+His second motor was powerful enough to drive a boat with 14 people across a wide river.
+Continuous torque density relates to method of cooling and permissible period of operation before destruction by overheating of windings or PM damage.
+On small motors, the commutator is usually permanently integrated into the rotor, so replacing it usually requires replacing the whole rotor.
+Closely related in design to three-phase AC synchronous motors, stepper motors and SRMs are classified as variable reluctance motor type.
+The device employed no permanent magnets, as the magnetic fields of both the stationary and revolving components were produced solely by the currents flowing through their windings.
+Some applications require bursts of torque beyond the maximum operating torque, such as short bursts of torque to accelerate an electric vehicle from standstill.
+This allowed Sprague to use electric motors to invent the first electric trolley system in 1887–88 in Richmond VA, the electric elevator and control system in 1892, and the electric subway with independently powered centrally controlled cars, which were first installed in 1892 in Chicago by the South Side Elevated Railway where it became popularly known as the "L".
+Motors intended for use in a servomechanism must have well-documented characteristics for speed, torque, and power.
+The rotor can take the form of a winding-filled cylinder, or a self-supporting structure comprising only the magnet wire and the bonding material.
+It is the main source of the low power factor at which motors operate.The air gap increases the magnetizing current needed.
+Found in applications as diverse as industrial fans, blowers and pumps, machine tools, household appliances, power tools, and disk drives, electric motors can be powered by direct current (DC) sources, such as from batteries, motor vehicles or rectifiers, or by alternating current (AC) sources, such as from the power grid, inverters or generators.
+Stiffer brush springs can also be used to make brushes of a given mass work at a higher speed, but at the cost of greater friction losses (lower efficiency) and accelerated brush and commutator wear.
+Dynamic response characteristics such as winding inductance and rotor inertia are also important; these factors limit the overall performance of the servomechanism loop.
+Nothing in the principle of any of the motors described above requires that the iron (steel) portions of the rotor actually rotate.
+Since the armature windings of a direct-current or universal motor are moving through a magnetic field, they have a voltage induced in them.
+The back emf of the motor, plus the voltage drop across the winding internal resistance and brushes, must equal the voltage at the brushes.
+The printed armature (originally formed on a printed circuit board) in a printed armature motor is made from punched copper sheets that are laminated together using advanced composites to form a thin rigid disc.
+The stator core is made up of many thin metal sheets, called laminations.
+The General Electric Company began developing three-phase induction motors in 1891.
+Among these types are the disc-rotor types, described in more detail in the next section.
+The BLDC motor's characteristic trapezoidal back-emf waveform is derived partly from the stator windings being evenly distributed, and partly from the placement of the rotor's PMs.
+The dual ported transformer circuit topology is known to be unstable and requires a multiphase slip-ring-brush assembly to propagate limited power to the rotor winding set.
+Efficiency for a BLDC motor of up to 96.5% have been reported, whereas DC motors with brushgear are typically 75–80% efficient.
+A shaded-pole motor has a winding around part of the pole that delays the phase of the magnetic field for that pole.
+An external resistor or other control devices can be connected in the rotor circuit.
+Another type, for low load torque, has flats ground onto a conventional squirrel-cage rotor to create discrete poles.
+The main types are DC motors and AC motors, the former increasingly being displaced by the latter.
+The shaft also carries the commutator, a long-lasting rotary electrical switch that periodically reverses the flow of current in the rotor windings as the shaft rotates.
+Induction motor improvements flowing from these inventions and innovations were such that a 100 horsepower (HP) induction motor currently has the same mounting dimensions as a 7.5 HP motor in 1897.
+Some of these watches, such as chronographs, contain more than one stepping motor.
+No electricity distribution had been developed at the time.
+When used with a load that has a torque curve that increases with speed, the motor will operate at the speed where the torque developed by the motor is equal to the load torque.
+The clock requires manual starting by a small knob on the back, while the older Hammond organs had an auxiliary starting motor connected by a spring-loaded manually operated switch.
+An induction motor is an asynchronous AC motor where power is transferred to the rotor by electromagnetic induction, much like transformer action.
+The rotating armature consists of one or more coils of wire wound around a laminated, magnetically "soft" ferromagnetic core.
+The unique advantage of ironless DC motors is that there is no cogging (torque variations caused by changing attraction between the iron and the magnets).
+AC electric motors are either asynchronous or synchronous.
+These are filled epoxies that have moderate mixed viscosity and a long gel time.
+* Universal motor (AC commutator series motor or AC/DC motor)1* Repulsion motor
+Motor speed can be changed because the torque curve of the motor is effectively modified by the amount of resistance connected to the rotor circuit.
+The conversion of electrical energy into mechanical energy by electromagnetic means was demonstrated by the British scientist Michael Faraday in 1821.
+(Small brushes are also desirable for lower cost.)
+If the engine starts to slow down relative to the desired speed, the current will be increased, the motor will develop more torque, pulling against the return spring and opening the throttle.
+Induction motors may be further divided into Squirrel Cage Induction Motors and Wound Rotor Induction Motors.
+Most DC motors are small PM types.
+Field weakening allows an electric machine to operate beyond the designed frequency of excitation.
+The rotor can fit inside the stator magnets; a magnetically soft stationary cylinder inside the rotor provides a return path for the stator magnetic flux.
+The magnets are arranged in a circle facing the rotor with space in between to form an axial air gap.
+From this, he showed that the most efficient motors are likely to have relatively large magnetic poles.
+Three-phase motors:* SCIM3, 8* WRIM4, 7, 8 AC motors:10* Capacitor* Resistance* Split* Shaded-pole
+In the 1750s, the first electrostatic motors were developed by Benjamin Franklin and Andrew Gordon.
+*SyRM - Synchronous reluctance motor
+One, or both, of these fields must be made to change with the rotation of the motor.
+Industrial processes were no longer limited by power transmission using line shafts, belts, compressed air or hydraulic pressure.
+SRMs are now being used in some appliances.
+In this application, the use of AC to power a motor originally designed to run on DC would lead to efficiency losses due to eddy current heating of their magnetic components, particularly the motor field pole-pieces that, for DC, would have used solid (un-laminated) iron and they are now rarely used.
+Today, electric motors stand for more than half of the electric energy consumption in the US.
+Usually, electrostatic motors are the dual of conventional coil-based motors.
+The most general approaches to calculating the forces in motors use tensors.
+Due to the variety of constructions now available, the technology is used in applications from high temperature military to low cost pump and basic servos.
+They are also commonly used in portable power tools, such as drills, sanders, circular and jig saws, where the motor's characteristics work well.
+This increased current provides the additional torque to balance the new load.
+Capacity for bursts of torque should not be confused with field weakening capability.
+In that design, the rotor fits inside a magnetically soft cylinder that can serve as the housing for the motor, and likewise provides a return path for the flux.
+Likewise, many computer plotters (which since the early 1990s have been replaced with large-format inkjet and laser printers) used rotary stepper motors for pen and platen movement; the typical alternatives here were either linear stepper motors or servomotors with closed-loop analog control systems.
+*BLDC - Brushless DC
+However, large PMs are costly, as well as dangerous and difficult to assemble; this favors wound fields for large machines.
+Several inventors followed Sturgeon in the development of DC motors but all encountered the same battery power cost issues.

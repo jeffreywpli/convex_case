@@ -1,0 +1,200 @@
+The occurrence or non-occurrence of subsequent bubonic plague is recorded.
+For him, determination meant that actual events are so linked by laws of nature that certainly reliable predictions and retrodictions can be made from sufficient present data about them.
+As a result, many turn to a notion of probabilistic causation.
+This is because (according to many, though not all, theories) causes must precede their effects temporally.
+An early version of Aristotle's "four cause" theory is described as recognizing "essential cause".
+On the other hand, if the null hypothesis that  cannot be rejected, then equivalently the hypothesis of no causal effect of  on ''y'' cannot be rejected.
+Nevertheless, it is within the scope of ordinary language to say that it is essential to a triangle that it has three sides.
+He thought that, for any given topic, all four kinds of explanatory mode were important, each in its own right.
+The concept is like those of agency and efficacy.
+Type 3, however, can be uniquely identified, since  and  are marginally independent and all other pairs are dependent.
+An effect can in turn be a cause of many other effects.
+These theorists claim that the important concept for understanding causality is not causal relationships or causal interactions, but rather identifying causal processes.
+;Naming and causality
+Wave packets have group velocity and phase velocity.
+The doctrine of '''asatkaryavada''' affirms that the effect does not inhere in the cause, but is a new arising.
+The property of having three sides actually determines A's state as a triangle.
+Consider the following two statements:
+In 1949, physicist Max Born distinguished determination from causality.
+It meant 'answer to a why question' or 'explanation', and Aristotelian scholars recognized four kinds of such answers.
+This helps to avoid false inferences of causality due to the presence of a third, underlying, variable that influences both the potentially causative variable and the potentially caused variable: its effect on the potentially caused variable is captured by directly including it in the regression, so that effect will not be picked up as an indirect effect through the potentially causative variable of interest.
+A mere observation of a correlation is not nearly adequate to establish causality.
+Properly speaking, the hypothesized cause and the hypothesized effect are each temporally transient processes.
+Such sciences can in some sense be regarded as "softer".
+The former notions can then be defined in terms of causal processes.
+For example, all of the following statements are true when interpreting "If ..., then ..." as the material conditional:
+"There must be a constant union betwixt the cause and effect.
+For example, if ''A'' denotes the event "The person is a smoker," ''B'' denotes the event "The person now has or will have cancer at some time in the future" and ''C'' denotes the event "The person now has or will have emphysema some time in the future," then the following three relationships hold: P{''B''|''A''} ≥ P{''B''}, P{''C''|''A''} ≥ P{''C''} and P{''B''|''C''} ≥ P{''B''}.
+Of Aristotle's four explanatory modes, the one nearest to the concerns of the present article is the "efficient" one.
+(See Bradford-Hill criteria.)
+If correct, this theory can serve to explain a fundamental part of our experience, which is that we can only causally affect the future but not the past.
+Another viewpoint on the question is the more classical one, that a cause and its effect can be of different kinds of entity.
+Otherwise, experiments are usually difficult or impossible to interpret.
+;Contributory causes: For some specific effect, in a singular case, factor that is a contributory cause is one amongst several co-occurrent causes.
+For instance, we are interested in knowing the causes of crime so that we might find ways of reducing it.
+In Aristotelian philosophy, the word 'cause' is also used to mean 'explanation' or 'answer to a why question', including Aristotle's material, formal, efficient, and final "causes"; then the "cause" is the explanans for the explanandum.
+Causal efficacy propagates no faster than light.
+Note that the analysis does not purport to explain how we make causal judgements or how we reason about causation, but rather to give a metaphysical account of what it is for there to be a causal relation between some pair of events.
+"The cause must be prior to the effect."
+For example, in his paper "Counterfactual Dependence and Time's Arrow," Lewis sought to account for the time-directedness of counterfactual dependence in terms of the semantics of the counterfactual conditional.
+The nature of cause and effect is a concern of the subject known as metaphysics.
+Causality in the Chittamatrin buddhist school approach, Asanga's (c. 400 CE) mind-only Buddhist school, asserts that objects cause consciousness in the mind's image.
+Then it allocates its constituent elements: a cause, an effect and link itself, that joins both of them.
+For him, there are two kinds of causation, which we may here call nomic or generic causation, and singular causation.
+a civil wrong such as negligence or trespass).
+Conditional statements are ''not'' statements of causality.
+For the specific effect, a factor that is on some occasions a contributory cause might on some other occasions be sufficient, but on those other occasions it would not be merely contributory.
+Left to itself, a thing exhibits ''natural motion'', but can—according to Aristotelian metaphysics—exhibit ''enforced motion'' imparted by an efficient cause.
+A widely used modern definition of causality in this newly narrowed sense was assumed by David Hume.
+If there is reason to believe that none of the s is caused by ''y'', then estimates of the coefficients  are obtained.
+In nearly all cases, establishment of causality relies on repetition of experiments and probabilistic reasoning.
+'Tis chiefly this quality, that constitutes the relation."
+The four conditions and six causes interact with each other in explaining phenomenal experience: for instance, each conscious moment acts both as the homogenous cause, as well as the immediate antecedent consciousness condition rise, and its concomitants, in a subsequent moment.
+A rock normally exhibits ''natural motion''—explained by the rock's material cause of being composed of the element earth—but a living thing can lift the rock, an ''enforced motion'' diverting the rock from its natural place and natural motion.
+"The cause and effect must be contiguous in space and time."
+Another translation of Aristotle is that he meant "the four Becauses" as four kinds of answer to "why" questions.
+The above way of testing for causality requires belief that there is no reverse causation, in which ''y'' would cause .
+But describing manipulations in non-causal terms has provided a substantial difficulty.
+;Perception of launching events
+Formally, P{''B''|''A''}≥ P{''B''} where P{''B''|''A''} is the conditional probability that ''B'' will occur given the information that ''A'' occurred, and P{''B''}is the probability that ''B'' will occur having no knowledge whether ''A'' did or did not occur.
+It often lost that broad meaning, and was restricted to just one of the four kinds.
+Hardly ever is causality established more firmly than as more or less probable.
+This is based in the consciousness example which says, intentions and feelings are mutually accompanying mental factors that support each other like poles in tripod.
+With the end of the Middle Ages, in many philosophical usages, the meaning of the word 'cause' narrowed.
+Causation is also an essential legal element that must be proven to qualify for remedy measures under international trade law.
+That is to say, it would make good sense grammatically to say either "''A'' is the cause and ''B'' the effect" or "''B'' is the cause and ''A'' the effect", though only one of those two can be actually true.
+See Causal Reasoning (Psychology) for more information.
+Causation is then defined as a chain of causal dependence.
+It is therefore an attempt to rectify the apparent incompatibility between determinism and the existence of an omnipotent god.
+First, the variable  may be a non-economic variable: for example, if rainfall amount  is hypothesized to affect the futures price ''y'' of some agricultural commodity, it is impossible that in fact the futures price affects rainfall amount (provided that cloud seeding is never attempted).
+Causality has the properties of antecedence and contiguity.
+In some sciences, it is very difficult or nearly impossible to set up material states of affairs that closely test hypotheses of causality.
+Max Jammer writes "the Einstein postulate ... opens the way to a straightforward construction of the causal topology ... of Minkowski space."
+While studying of meaning of causality semantics traditionally appeal to the Chicken or the egg '''causality''' dilemma, i.e.
+# Co-inherence cause: resulting from substantial contact, 'substantial causes', threads are substantial to cloth, corresponding to Aristotle's material cause.
+::::An event E ''causally depends'' on C if, and only if, (i) if C had occurred, then E would have occurred, and (ii) if C had not occurred, then E would not have occurred.
+In ordinary language, there are various meanings of the word cause, the commonest referring to efficient cause, the topic of the present article.
+Some theorists are interested in distinguishing between causal processes and non-causal processes (Russell 1948; Salmon 1984).
+More full-fledged analysis of causation in terms of counterfactual conditionals only came in the 20th Century after development of the possible world semantics for the evaluation of counterfactual conditionals.
+Bhagavad-gītā 18.14 identifies five causes for any action (knowing which it can be perfected): the body, the individual soul, the senses, the efforts and the supersoul.
+Regression analysis controls for other relevant variables by including them as regressors (explanatory variables).
+In this version of the theory, that the closed polygon has three sides is said to be the "essential cause" of its being a triangle.
+The system of equations must have certain properties, most importantly, if some values are chosen arbitrarily, the remaining values will be determined uniquely through a path of serial discovery that is perfectly causal.
+If the null hypothesis that  is rejected, then the alternative hypothesis that  and equivalently that  causes ''y'' cannot be rejected.
+As a further kind of explanation, Aristotle identified the final cause, specifying a purpose or criterion of completion in light of which something should be understood.
+In Brahma Samhita, Brahma describes Krishna as the prime cause of all causes.
+Thus, while the ''skeletons'' (the graphs stripped of arrows) of these three triplets are identical, the directionality of the arrows is partially identifiable.
+An important distinction is that statements of causality require the antecedent to precede or coincide with the consequent in time, whereas conditional statements do not require this temporal order.
+Causality is an abstraction that indicates how the world progresses, so basic a concept that it is more apt as an explanation of other concepts of progression than as something to be explained by others more basic.
+For Aristotelian philosophy before Aquinas, the word cause had a broad meaning.
+The use of temporal data can permit statistical tests of a pre-existing theory of causal direction.
+Efficient causation was connected with Aristotelian physics, which recognized the four elements (earth, air, fire, water), and added the fifth element (aether).
+This is a somewhat Platonic and Hegelian view that reifies causes as ontological entities.
+If one stick is taken away, the other two will fall to the ground.
+So, given a system of equations, and a set of variables appearing in these equations, we can introduce an asymmetric relation among individual equations and variables that corresponds perfectly to our commonsense notion of a causal ordering.
+This use of the word 'cause' is of course now far obsolete.
+Attribution theory is the theory concerning how people explain individual occurrences of causation.
+Third, the principle that effects cannot precede causes can be invoked, by including on the right side of the regression only variables that precede in time the dependent variable; this principle is invoked, for example, in testing for Granger causality and in its multivariate analog, vector autoregression, both of which control for lagged values of the dependent variable while testing for causal effects of lagged independent variables.
+Note the concept of omnicausality in Abrahamic theology, which is the belief that God has set in motion all events at the dawn of time; he is the determiner and the cause of all things.
+Nomic causality means that cause and effect are linked by more or less certain or probabilistic general laws covering many possible or potential instances; we may recognize this as a probabilized version of criterion 3. of Hume mentioned just above.
+Thus light waves often propagate causal efficacy but de Broglie waves often have phase velocity faster than light and consequently cannot be propagating causal efficacy.
+As an example, a ball moving through the air (a process) is contrasted with the motion of a shadow (a pseudo-process).
+And "founded on the same reason": "The difference in the effects of two resembling objects must proceed from that particular, in which they differ."
+In general, a process has many causes, which are said to be causal factors for it, and all lie in its past.
+He denied that we can ever perceive cause and effect, except by developing a habit or custom of mind where we come to associate two types of object or event, always contiguous and occurring one after the other.
+This criterion, called "backdoor", provides a mathematical definition of "confounding" and helps researchers identify accessible sets of variables worthy of measurement.
+Because causes precede effects, which must be different entities, then subject and object are different.
+Knowing that causation is a matter of counterfactual dependence, we may reflect on the nature of counterfactual dependence to account for the nature of causation.
+Within the conceptual frame of the scientific method, an investigator sets up several distinct and contrasting temporally transient material processes that have the structure of experiments, and records candidate material responses, normally intending  to determine causality in the physical world.
+This constraint has mathematical implications such as the Kramers-Kronig relations.
+For instance, one may want to know whether a high intake of carrots causes humans to develop the bubonic plague.
+See Nyaya for some details of the theory of causation in the Nyaya school.
+How past, present and future are accepted is a basis for various buddhist school's causality view points.
+# ''If Barack Obama is president of the United States in 2011, then Germany is in Europe.''
+The deterministic world-view holds that the history of the universe can be exhaustively represented as a progression of events following one after as cause and effect.
+Algorithms have been developed to systematically determine the skeleton of the underlying graph and, then, orient all arrows whose directionality is dictated by the conditional independencies observed.
+In general this leaves a set of possible causal relations, which should then be tested by analyzing time series data or, preferably, designing appropriately controlled experiments.
+As air remained on Earth, however, and did not escape Earth while eventually achieving infinite speed—an absurdity—Aristotle inferred that the universe is finite in size and contains an invisible substance that held planet Earth and its atmosphere, the sublunary sphere, centered in the universe.
+# ''If switch S were thrown, then bulb B would light.''
+The word that Aristotle used was .
+In contrast, simultaneous cause and effect rejectors say that if the effect already exists, then it cannot effect the same way again.
+# ''If George Washington is president of the United States in 2011, then .''
+Water and earth by their intrinsic property ''gravitas'' or heaviness intrinsically fall toward, whereas air and fire by their intrinsic property ''levitas'' or lightness intrinsically rise away from, Earth's center—the motionless center of the universe—in a straight line while accelerating during the substance's approach to its natural place.
+that aspects of an association such as strength, consistency, specificity and temporality be considered in attempting to distinguish causal from noncausal associations in the epidemiological situation.
+In some works of Aristotle, the four causes are listed as (1) the essential cause, (2) the logical ground, (3) the moving cause, and (4) the final cause.
+For example, instances of the hypothesized cause must be set up to occur at a time when the hypothesized effect is relatively unlikely in the absence of the hypothesized cause; such unlikelihood is to be established by empirical evidence.
+The second is true in sentential logic and indeterminate in natural language, regardless of the consequent statement that follows, because the antecedent is false.
+It is hard to quantify this last requirement and thus different authors prefer somewhat different definitions.
+The use of these diagrams has now spread beyond quality control, and they are used in other areas of management and in design and engineering.
+This largely follows the Nikayas approach.
+It is often most convenient for establishment of causality if the contrasting material states of affairs are fully comparable, and differ through only one variable factor, perhaps measured by a real number.
+Statistics and economics usually employ pre-existing data or experimental data to infer causality by regression methods.
+It has four intricate causal conditioning constructions with the: 1) root cause, 2) immediate antecedent, 3) object support, and 4) predominance.
+Causal notions appear in the context of the flow of mass-energy.
+It must be proven that causality, or a "sufficient causal link" relates the defendant's actions to the criminal event or damage in question.
+"When any object increases or diminishes with the increase or diminution of its cause, 'tis to be regarded as a compounded effect, deriv'd from the union of the several different effects, which arise from the several different parts of the cause."
+Acausal filters, for example, can only exist as postprocessing filters, because these filters can extract future values from a memory buffer or a file.
+Aristotle assumed efficient causality as referring to a basic fact of experience, not explicable by, or reducible to, anything more fundamental or basic.
+A statement of logical ground is an argument as to why an object statement is true.
+Under these theories, ''x'' causes ''y'' only in the case that one can change ''x'' in order to change ''y''.
+Another view is that causes and effects are 'states of affairs', with the exact natures of those entities being less restrictively defined than in process philosophy.
+# Instrumental cause:  Tools to make the cloth, corresponding to Aristotle's efficient cause.
+However, we would not want to conclude that having emphysema causes cancer.
+The ordinary indicative conditional has somewhat more structure than the material conditional.
+# Non-substantial cause: Methods putting threads into cloth, corresponding to Aristotle's formal cause.
+a cause always precedes its effect).
+The other three explanatory modes might be rendered material composition, structure and dynamics, and, again, criterion of completion.
+Attempting to reduce causal claims to manipulation requires that manipulation is more basic than causal interaction.
+Aquinas sought to identify the first efficient cause—now simply ''first cause''—as everyone would agree, said Aquinas, to call it ''God''.
+It seems that Ishikawa was not even aware of this distinction.
+He has also pointed to the difference between immediate, intermediate and distant causes.
+An example is 'his tripping over the step was the cause, and his breaking his ankle the effect'.
+intuitively seems to be true, even though there is no straightforward causal relation in this hypothetical situation between Shakespeare's not writing Macbeth and someone else's actually writing it.
+Second, the instrumental variables technique may be employed to remove any reverse causation by introducing a role for other variables (instruments) that are known to be unaffected by the dependent variable.
+For his part, Christopher Lloyd puts forward four "general concepts of causation" used in history:  the "metaphysical idealist concept, which asserts that the phenomena of the universe are products of or emanations from an omnipotent being or such final cause"; "the empiricist (or Humean) regularity concept, which is based on the idea of causation being a matter of constant conjunctions of events"; "the functional/teleological/consequential concept", which is "goal-directed, so that goals are causes"; and the "realist, structurist and dispositional approach, which sees relational structures and internal dispositions as the causes of phenomena".
+And then additionally there are three connected criteria which come from our experience and which are "the source of most of our philosophical reasonings":
+For the present purpose, that Greek word would be better translated as "explanation" than as "cause" as those words are most often used in current English.
+Attribution can be external (assigning causality to an outside agent or force – claiming that some outside thing motivated the event) or internal (assigning causality to factors within the person – taking personal responsibility or accountability for one's actions and claiming that the person was directly responsible for the event).
+The intention behind the cause or the effect can be covered by the subject of action.
+Whereas David Hume argued that causes are inferred from non-causal observations, Immanuel Kant claimed that people have innate assumptions about causes.
+Some researchers such as Anjan Chatterjee at the University of Pennsylvania and Jonathan Fugelsang at the University of Waterloo are using neuroscience techniques to investigate the neural and psychological underpinnings of causal launching events in which one object causes another object to move.
+The first is true since both the antecedent and the consequent are true.
+These theorists often want to distinguish between a process and a pseudo-process.
+The theory underlying these derivations relies on the distinction between ''conditional probabilities'', as in , and ''interventional probabilities'', as in .
+This intuitive condition is not adequate as a definition for probabilistic causation because of its being too general and thus not meeting our intuitive notion of cause and effect.
+Directed acyclic graphs (DAGs) are increasingly used in epidemiology to help enlighten causal thinking.
+For this reason, a leap of intuition may be needed to grasp it.
+Of Aristotle's four kinds or explanatory modes, only one, the 'efficient cause' is a cause as defined in the leading paragraph of this present article.
+Causality is one of the most fundamental and essential notions of physics.
+David Sobel and Alison Gopnik from the Psychology Department of UC Berkeley designed a device known as ''the blicket detector'' which would turn on when an object was placed on it.
+Type 1 and type 2 represent the same statistical dependencies (i.e.,  and  are independent given ) and are, therefore, indistinguishable within purely cross-sectional data.
+Much of the historical debate about causes has focused on the relationship between communicative and other actions, between singular and repeated ones, and between actions, structures of action or group and institutional contexts and wider sets of conditions.
+An alteration of the ball (a mark by a pen, perhaps) is carried with it as the ball goes through the air.
+For instance, although the first is the closest, neither of the preceding two statements seems true as an ordinary indicative reading.
+The two types of statements are distinct, however.
+These groups can then be labeled as categories in the diagrams.
+For nonexperimental data, causal direction can often be inferred if information about time is available.
+Like many practicing historians, they treat causes as intersecting actions and sets of actions which bring about "larger changes", in Danto’s words: to decide "what are the elements which persist through a change" is "rather simple" when treating an individual’s "shift in attitude", but "it is considerably more complex and metaphysically challenging when we are interested in such a change as, say, the break-up of feudalism or the emergence of nationalism".
+This can be determined by statistical time series models, for instance, or with a statistical test based on the idea of Granger causality, or by direct experimental manipulation.
+An occasion of singular causation is a particular occurrence of a definite complex of events that are physically linked by antecedence and contiguity, which we may here recognize as criteria 1. and 2. of Hume mentioned just above.
+This principle we derive from experience, and is the source of most of our philosophical reasonings."
+People distinguish between various sorts of causes, e.g., strong and weak causes.
+In Part III, section XV of his book ''A Treatise of Human Nature'', Hume expanded this to a list of eight ways of judging whether two things might be cause and effect.
+If correct, the analysis has the power to explain certain features of causation.
+These are topological, and are ingredients for space-time geometry.
+Causal efficacy cannot propagate faster than light.
+Averting infinite regress, Aristotle inferred the first mover—an unmoved mover.
+Rather, a causal relation is not a relation between values of variables, but a function of one variable (the cause) on to another (the effect).
+First, theorists complain that these accounts are circular.
+For waves that propagate causal efficacy, both of these must travel no faster than light.
+Aristotle identified four kinds of answer or explanatory mode to various "Why?"
+These theories have been criticized on two primary grounds.
+One viewpoint on this question is that cause and effect are of one and the same kind of entity, with causality an asymmetric relation between them.
+Fallacies of questionable cause, also known as causal fallacies, ''non-causa pro causa'' (Latin for "non-cause for cause"), or false cause, are informal fallacies where a cause is incorrectly identified.
+The general or universal definition of pratityasamutpada (or "dependent origination" or "dependent arising" or "interdependent co-arising") is that everything arises in dependence upon multiple causes and conditions; nothing exists as a singular, independent entity.
+On the other hand, an alteration of the shadow (insofar as it is possible) will not be transmitted by the shadow as it moves along.
+;Causation and salience
+Our view of causation depends on what we consider to be the relevant events.
+The diagram categorizes causes, such as into the six main categories shown here.
+"The same cause always produces the same effect, and the same effect never arises but from the same cause.
+Here the notion of causality is one of contributory causality as discussed above: If the true value , then a change in  will result in a change in ''y'' ''unless'' some other causative variable(s), either included in the regression or implicit in the error term, change in such a way as to exactly offset its effect; thus a change in  is ''not sufficient'' to change ''y''.

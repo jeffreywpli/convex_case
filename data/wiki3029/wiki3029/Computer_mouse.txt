@@ -1,0 +1,200 @@
+For example, a text file might be represented by a picture of a paper notebook, and clicking while the cursor hovers this icon might cause a text editing program to open the file in a window.
+Modern computer mice took form at the École Polytechnique Fédérale de Lausanne (EPFL) under the inspiration of Professor Jean-Daniel Nicoud and at the hands of engineer and watchmaker André Guignard.
+Such mice may feature adjustable weights, high-resolution optical or laser components, additional buttons, ergonomic shape, and other features such as adjustable CPI.
+A related function makes an image of an object rotate, so that all sides can be examined.
+** Combination of left-click then right-click or keyboard letter.
+Some systems allow two or more mice to be used at once as input devices.
+This trackball used a standard Canadian five-pin bowling ball.
+This wireless mouse was worn on a ring around a finger, which enabled the thumb to access three buttons.
+Depending on how deeply hardcoded this misbehavior is, internal user patches or external 3rd-party software may be able to fix it.
+A digital computer calculated the tracks, and sent the resulting data to other ships in a task force using pulse-code modulation radio signals.
+** (left) Triple-click: clicking the button three times in quick succession.
+In interactive three-dimensional graphics, the mouse's motion often translates directly into changes in the virtual objects' or camera's orientation.
+In the early 1990s, the Super Nintendo Entertainment System video game system featured a mouse in addition to its controllers.
+After id Software's commercial hit of ''Doom'', which did not support vertical aiming, competitor Bungie's ''Marathon'' became the first first-person shooter to support using the mouse to aim up and down.
+These mice are specifically designed for use in computer games.
+Some mice may include several different rests with their products to ensure comfort for a wider range of target consumers.
+The first mouse, a bulky device (pictured) used two potentiometers perpendicular to each other and connected to wheels: the rotation of each wheel translated into motion along one axis.
+The effect of this is that a mouse is well suited to small, precise movements; large, quick movements; and immediate, responsive movements; all of which are important in shooter gaming.
+By default, the primary mouse button sits located on the left-hand side of the mouse, for the benefit of right-handed users; left-handed users can usually reverse this configuration via software.
+** Middle-click: clicking the tertiary button.
+Games using mice for input are so popular that many manufacturers make mice specifically for gaming.
+Standard PC mice once used the RS-232C serial port via a D-subminiature connector, which provided power to run the mouse's circuits as well as data on mouse movements.
+Another early trackball was built by British electrical engineer Kenyon Taylor in collaboration with Tom Cranston and Fred Longstaff.
+* Click: pressing and releasing a button.
+Laser diodes are also used for better resolution and precision, improving performance on opaque specular surfaces.
+On display at the Musée Bolo, EPFL.
+Physically, a mouse consists of an object held in one's hand, with one or more buttons.
+Modern non-Bluetooth and non-WiFi wireless mice use USB receivers.
+Other uses of the mouse's input occur commonly in special application-domains.
+Simple logic circuits interpret the relative timing to indicate which direction the wheel is rotating.
+On most first person shooter games, programming may also assign more functions to additional buttons on mice with more than three controls.
+3D design and animation software often modally chords many different combinations to allow objects and cameras to be rotated and moved through space with the few axes of movement mice can detect.
+The ball is mostly steel, with a precision spherical rubber surface.
+Instead of a ball, it had two wheels rotating at off axes.
+While primarily a motion-sensing device (that is, it can determine its orientation and direction of movement), Wii Remote can also detect its spatial position by comparing the distance and position of the lights from the IR emitter using its integrated IR camera (since the nunchuk accessory lacks a camera, it can only tell its current heading and orientation).
+Another type of mechanical mouse, the "analog mouse" (now generally regarded as obsolete), uses potentiometers rather than encoder wheels, and is typically designed to be plug compatible with an analog joystick.
+Microsoft Windows, since Windows 98, has supported multiple simultaneous pointing devices.
+** Combination of left or right-click and the mouse wheel.
+This advantage also extends in varying degrees to similar game styles such as third-person shooters.
+The Oxford dictionary's usage section states that the more common plural is ''mice'' and claims the first recorded use of the plural is ''mice'' (though it cites a 1984 use of ''mice'' when there were actually several earlier ones, such as J. C. R. Licklider's "The Computer as a Communication Device" of 1968).
+The German company Telefunken published on their early ball mouse on October 2, 1968.
+Since around the late 1990s, the three-button scrollmouse has become the de facto standard.
+Battery powered, wireless optical mice flash the LED intermittently to save power, and only glow steadily when movement is detected.
+Ball mice and wheel mice were manufactured for Xerox by Jack Hawley, doing business as The Mouse House in Berkeley, California, starting in 1975.
+Rocker navigation).
+Mouse acceleration in most mouse software refers to the change in speed of the cursor over time while the mouse movement is constant.
+Many games provide players with the option of mapping their own choice of a key or button to a certain control.
+Due to their similarity to the WIMP desktop metaphor interface for which mice were originally designed, and to their own tabletop game origins, computer strategy games are most commonly played with mice.
+It came as part of the hardware package of the Xerox Alto computer.
+software can change the speed of the cursor dynamically, taking into account the mouse's absolute speed and the movement from the last stop-point.
+# Claw Grip: palm rests on the mouse, bent fingers.
+Nintendo's Wii also had this added on in a later software update, retained on the Wii U.
+Some samples, installed at the  in Munich in 1972, are still well preserved.
+The so-called ''roller bar mouse'' is positioned snuggly in front of the keyboard, thus allowing bi-manual accessibility.
+Only with the release of the Apple Macintosh in 1984 did the mouse see widespread use.
+Benjamin felt that a more elegant input device was needed and invented what they called a "roller ball" for this purpose.
+Since the mouse serves for aiming, a mouse that tracks movement accurately and with less lag (latency) will give a player an advantage over players with less accurate or slower mice.
+They typically employ a wide array of controls and buttons and have designs that differ radically from traditional mice.
+Microsoft's mouse shipped in 1983, thus beginning Microsoft hardware.
+The device was patented in 1947, but only a prototype using a metal ball rolling on two rubber-coated wheels was ever built, and the device was kept as a military secret.
+Inspired by PARC's Alto, the Lilith, a computer which had been developed by a team around  at ETH Zürich between 1978 and 1980, provided a mouse as well.
+The computer industry often measures mouse sensitivity in terms of counts per inch (CPI), commonly expressed as dots per inch (DPI)the number of steps the mouse will report when it moves one inch.
+In some cases the right mouse button may be used to move the player forward, either in lieu of, or in conjunction with the typical WASD configuration.
+Many shooting genre players prefer a mouse over a gamepad analog stick because the mouse is a linear input device, which allows for fast and precise control.
+Multiple mice are often used in multi-user gaming in addition to specially designed devices that provide several input interfaces.
+Beginning with the Bronze Keyboard PowerBook G3 in May 1999, Apple dropped the external ADB port in favor of USB, but retained an internal ADB connection in the PowerBook G4 for communication with its built-in keyboard and trackpad until early 2005.
+Telefunken considered the invention too small to apply for a patent on their device.
+For example, versions of Windows prior to Windows XP doubled reported values above a configurable threshold, and then optionally doubled them again above a second configurable threshold.
+In 2000, Logitech introduced a "tactile mouse" that contained a small actuator to make the mouse vibrate.
+A patent for an inertial mouse claims that such mice consume less power than optically based mice, and offer increased sensitivity, reduced weight and increased ease-of-use.
+The device often functions as an interface for PC-based computer games and sometimes for video game consoles.
+Such a mouse can augment user-interfaces with haptic feedback, such as giving feedback when crossing a window boundary.
+With the arrival of the IBM PS/2 personal-computer series in 1987, IBM introduced the eponymous PS/2 interface for mice and keyboards, which other manufacturers rapidly adopted.
+In most software, an example being the Windows platforms, this setting is named "speed," referring to "cursor precision".
+In November 2010 a German Company called Axsotic introduced a new concept of 3D mouse called 3D Spheric Mouse.
+When the movement of the mouse passes the value set for some threshold, the software will start to move the cursor faster, with a greater rate factor.
+Though less common, many mice instead have two-axis inputs such as a tiltable wheel, trackball, or touchpad.
+The cursor will move slowly on the screen, with good precision.
+Holding a stick in a given position produces a corresponding constant movement or rotation, i.e.
+The new input points provide traditional mouse input; however, are designed for more advanced input technology like touch and image.
+Hawley, who manufactured mice for Xerox, stated that "Practically, I have the market all to myself right now"; a Hawley mouse cost $415.
+In some games, the right button may also invoke accessories for a particular weapon, such as allowing access to the scope of a sniper rifle or allowing the mounting of a bayonet or silencer.
+By 1982 the Xerox 8010 was probably the best-known computer with a mouse, and the forthcoming Apple Lisa was rumored to use one, but the peripheral remained obscure; Jack Hawley of The Mouse House reported that one buyer for a large organization believed at first that his company sold lab mice.
+File:Silicon Graphics Ball-IMG 4192.jpg|Silicon Graphics SpaceBall model 1003 (1988), allowing manipulation of objects with 6 degrees of freedom.
+A Microsoft IntelliMouse relies on an extension of the PS/2 protocol: the ImPS/2 or IMPS/2 protocol (the abbreviation combines the concepts of "IntelliMouse" and "PS/2").
+# Palm Grip: the hand rests on the mouse, with extended fingers.
+In 1988, the VTech Socrates educational video game console featured a wireless mouse with an attached mouse pad as an optional controller used for some games.
+Engelbart never received any royalties for it, as his employer SRI held the patent, which ran out before it became widely used in personal computers.
+Starting with Windows XP, Microsoft introduced a SDK for developing applications that allow multiple input devices to be used at the same time with independent cursors and independent input points.
+In particular, real-time strategy and MOBA games usually require the use of a mouse.
+In 1985, René Sommer added a microprocessor to Nicoud's and Guignard's design.
+This driver provides the state of the buttons and the distance the mouse has moved in units that its documentation calls "mickeys", as does the Allegro library.
+16-bit era home computers such as the Amiga used this to allow computer games with two players interacting on the same computer (Lemmings and The Settlers for example).
+Perpendicular chopper wheels housed inside the mouse's body chopped beams of light on the way to light sensors, thus detecting in their turn the motion of the ball.
+Some incorrectly ported games or game engines have acceleration and interpolation curves which unintentionally produce excessive, irregular, or even negative acceleration when used with a mouse instead of their native platform's non-mouse default input device.
+Here, XS and YS represent the sign bits of the movement vectors, XV and YV indicate an overflow in the respective vector component, and LB, MB and RB indicate the status of the left, middle and right mouse buttons (1 = pressed).
+Benjamin was then working for the British Royal Navy Scientific Service.
+The third marketed version of an integrated mouse shipped as a part of a computer and intended for personal computer navigation came with the Xerox 8010 Star Information System in 1981.
+Probably the best known example would be 3Dconnexion/Logitech's SpaceMouse from the early 1990s.
+Most optical and laser mice do not require a pad.
+Often called "air mice" since they do not require a surface to operate, inertial mice use a tuning fork or other accelerometer ( US Patent 4787051, published in 1988) to detect rotary movement for every axis supported.
+Despite a certain appeal, it was finally discontinued because it did not provide sufficient resolution.
+The industry-standard USB (Universal Serial Bus) protocol and its connector have become widely used for mice; it is among the most popular types.
+Games using the Build engine had an option to invert the Y-axis.
+When mice have more than one button, software may assign different functions to each button.
+The Classic Mac OS Desk Accessory ''Puzzle'' in 1984 was the first game designed specifically for a mouse.
+The Xerox Alto was one of the first computers designed for individual use in 1973, and is regarded as the grandfather of computers that utilize the mouse.
+That year Microsoft made the decision to make the MS-DOS program Microsoft Word mouse-compatible, and developed the first PC-compatible mouse.
+Users most commonly employ the second button to invoke a contextual menu in the computer's software user interface, which contains options specifically tailored to the interface element over which the mouse cursor currently sits.
+In combination with a wireless keyboard an inertial mouse can offer alternative ergonomic arrangements which do not require a flat work surface, potentially alleviating some types of repetitive motion injuries related to workstation posture.
+This term is incorrect.
+Gaming mice are held by gamers in three styles of grip:
+Thus, any application written to use the Microsoft standard could use a mouse with a driver that implements the same API, even if the mouse hardware itself was incompatible with Microsoft's.
+According to the fifth edition of ''The American Heritage Dictionary of the English Language'' the plural can be either "mice" or "mouses".
+** Right-click: clicking the secondary button, or clicking with two fingers.
+This is often not necessary, because acceleration software detects fast movement, and moves the pointer significantly faster in proportion than for slow mouse motion.
+The Typhoon mouse uses 6-byte packets which can appear as a sequence of two standard 3-byte packets, such that an ordinary PS/2 driver can handle them.
+By counting the pulses, the physical movement of the ball could be determined.
+As of 2009, Linux distributions and other operating systems that use X.Org, such as OpenSolaris and FreeBSD, support 255 cursors/input points through Multi-Pointer X.
+They inherently offer 3D coordinates along with pressure, size, tilt, angle, mask, and even an image bitmap to see and recognize the input point/object on the screen.
+Usually, the user can set the value of the second rate factor by changing the "acceleration" setting.
+** Combination of right-click then left-click.
+Because Windows only provides a single screen cursor, using more than one device at the same time requires cooperation of users or applications designed for multiple input devices.
+This had been developed around 1965 by a team led by Rainer Mallebrein at Telefunken  for the German ''Bundesanstalt für Flugsicherung'' as part of their TR&nbsp;86 process computer system with its SIG&nbsp;100-86 vector graphics terminal.
+A recent consumer 3D pointing device is the Wii Remote.
+However such optimizations make the mouse right or left hand specific, making more problematic to change the tired hand.
+Mouse vendors also use other extended formats, often without providing public documentation.
+Several rollers provided mechanical support.
+* Mouse button chording (a.k.a.
+Also known as bats, flying mice, or wands, these devices generally function through ultrasound and provide at least three degrees of freedom.
+Some mice have been designed to have adjustable features such as removable and/or elongated palm rests, horizontally adjustable thumb rests and pinky rests.
+Operating systems sometimes apply acceleration, referred to as "ballistics", to the motion reported by the mouse.
+In default mode (called ''stream mode'') a PS/2 mouse communicates motion, and the state of each button, by means of 3-byte packets.
+Often, the primary (leftmost in a right-handed configuration) button on the mouse will select items, and the secondary (rightmost in a right-handed) button will bring up a menu of alternative actions applicable to that item.
+The obvious drawback to this approach is that it can only produce spatial coordinates while its camera can see the sensor bar.
+NEC sold official mice for its PC Engine and PC-FX consoles.
+Sega released official mice for their Genesis/Mega Drive, Saturn and Dreamcast consoles.
+Windows also has full support for multiple input/mouse configurations for multiuser environments.
+Usually cordless, they often have a switch to deactivate the movement circuitry between use, allowing the user freedom of movement without affecting the cursor position.
+Games with only a single fire mode will generally map secondary fire to ''ironsights''.
+The Macintosh design, commercially successful and technically influential, led many other vendors to begin producing mice or including them with their other computer products (by 1986, Atari ST, Amiga, Windows 1.0, GEOS for the Commodore 64, and the Apple IIGS).
+These doublings applied separately in the X and Y directions, resulting in very nonlinear response.
+The "invert" feature actually made the mouse behave in a manner that users  regard as non-inverted (by default, moving mouse forward resulted in looking down).
+An early technique of players, circle strafing, saw a player continuously strafing while aiming and shooting at an opponent by walking in circle around the opponent with the opponent at the center of the circle.
+PS/2 mice also understand several commands for reset and self-test, switching between different operating modes, and changing the resolution of the reported motion vectors.
+Each roller is on the same shaft as an encoder wheel that has slotted edges; the slots interrupt infrared light beams to generate electrical pulses that represent wheel movement.
+For example, in the first-person shooter genre of games (see below), players usually employ the mouse to control the direction in which the virtual player's "head" faces: moving the mouse up will cause the player to look up, revealing the view above the player's head.
+Clicking or hovering (stopping movement while the cursor is within the bounds of an area) can select files, programs or actions from a list of names, or (in graphical interfaces) through small images called "icons" and other elements.
+The "Color Mouse", originally marketed by RadioShack for their Color Computer (but also usable on MS-DOS machines equipped with analog joystick ports, provided the software accepted joystick input) was the best-known example.
+The mouse was tracked in three dimensions by a base station.
+The ''Mario Paint'' game in particular used the mouse's capabilities as did its successor on the N64.
+* Multi-touch: this method is similar to a multi-touch trackpad on a laptop with support for tap input for multiple fingers, the most famous example being the Apple Magic Mouse.
+* Clicking while holding down a modifier key.
+Some limit wrist movement, encouraging to use arm instead that may be less precise but more optimal from the health point of view.
+Several other experimental pointing-devices developed for Engelbart's oN-Line System (NLS) exploited different body movements –&nbsp;for example, head-mounted devices attached to the chin or nose&nbsp;– but ultimately the mouse won out because of its speed and convenience.
+Mouse Bungees are typically used with gaming mice because it eliminates the annoyance of the cable.
+The CPI or DPI as reported by manufacturers depends on how they make the mouse; the higher the CPI, the faster the cursor moves with mouse movement.
+This new design incorporated a single hard rubber mouseball and three buttons, and remained a common design until the mainstream adoption of the scroll-wheel mouse during the 1990s.
+The widespread adoption of graphical user interfaces in the software of the 1980s and 1990s made mice all but indispensable for controlling computers.
+For simple software, when the mouse starts to move, the software will count the number of "counts" or "mickeys" received from the mouse and will move the cursor across the screen by that number of pixels (or multiplied by a rate factor, typically less than 1).
+On 2 October 1968, a mouse device named '''' (German for "rolling ball") was released that had been developed and published by the German company Telefunken.
+This variant of the mouse resembled an inverted trackball and became the predominant form used with personal computers throughout the 1980s and 1990s.
+Players could achieve this by holding down a key for strafing while continuously aiming the mouse towards the opponent.
+** (left) Single-click: clicking the main button.
+The left button usually controls primary fire.
+This control system resembles that of aircraft control sticks, where pulling back causes pitch up and pushing forward causes pitch down; computer joysticks also typically emulate this control-configuration.
+However, none of these products achieved large-scale success.
+the output is an integral of the user's input, and requires that time be spent moving to or from its null position before this input can be given; in contrast, the output of a mouse directly and instantaneously corresponds to how far it is moved in a given direction (often multiplied by an "acceleration" factor derived from how quickly the mouse is moved).
+Around 1981 Xerox included mice with its Xerox Star, based on the mouse used in the 1970s on the Alto computer at Xerox PARC.
+Gamers can use a scroll wheel for changing weapons (or for controlling scope-zoom magnification, in older games).
+Nearly all mice now have an integrated input primarily intended for scrolling on top, usually a single-axis digital wheel or rocker switch which can also be depressed to act as a third button.
+Key Tronic later produced a similar product.
+(This brings a menu with different options depending on the site/app)
+When holding a typical mouse, ulna and radius bones on the arm are crossed.
+For 3-D (or 6-degree-of-freedom) input, vendors have made many extensions both to the hardware and to software.
+This new concept of a true six degree-of-freedom input device uses a ball to rotate in 3 axes without any limitations.
+Mouse use in DOS applications became more common after the introduction of the Microsoft mouse, largely because Microsoft provided an open standard for communication between applications and mouse driver software.
+A mouse may be angled from the thumb downward to the opposite side – this is known to reduce wrist pronation.
+Bill English, builder of Engelbart's original mouse, created a ball mouse in 1972 while working for Xerox PARC.
+However, currently no window managers support Multi-Pointer X leaving it relegated to custom software usage.
+Together with light pens and trackballs, it was offered as optional input device for their system since 1968.
+Taylor was part of the original Ferranti Canada, working on the Royal Canadian Navy's DATAR (Digital Automated Tracking and Resolving) system in 1952.
+In the late 1990s Logitech created ultrasound based tracking which gave 3D input to a few millimetres accuracy, which worked well as an input device but failed as a profitable product.
+If the game supports multiple fire modes, the right button often provides secondary fire from the selected weapon.
+Another solution is a pointing bar device.
+It initially operates in standard PS/2 format, for backwards compatibility.
+The mouse sends these signals to the computer system via the mouse cable, directly as logic signals in very old mice such as the Xerox mice, and via a data-formatting IC in modern mice.
+In November 2008, Logitech built their billionth mouse.
+Telefunken's mouse was sold as optional equipment for their computer systems.
+As the name suggests and unlike Engelbart's mouse, the Telefunken model already had a ball.
+To surf by touch requires the user to be able to feel depth or hardness; this ability was realized with the first electrorheological tactile mice but never marketed.
+At the time of the "Mother of All Demos", Englebart's group had been using their second generation, 3-button mouse for about a year.
+The most common models (manufactured by Logitech and Gyration) work using 2 degrees of rotational freedom and are insensitive to spatial translation.
+# Finger-Tip Grip: bent fingers, palm doesn't touch the mouse.
+The trackball used four disks to pick up motion, two each for the X and Y directions.
+The earliest optical mice detected movement on pre-printed mousepad surfaces, whereas the modern LED optical mouse works on most opaque diffuse surfaces; it is usually unable to detect movement on specular surfaces like polished stone.
+With spring-loaded centering, it sends both translational as well as angular displacements on all six axes, in both directions for each.
+However, the mouse remained relatively obscure until the 1984 appearance of the Macintosh 128K, which included an updated version of the Lisa Mouse and the Atari ST in 1985.
+One roller detects the forward–backward motion of the mouse and other the left–right motion.
+After the host sends a special command sequence, it switches to an extended format in which a fourth byte carries information about wheel movements.

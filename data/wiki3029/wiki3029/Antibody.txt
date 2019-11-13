@@ -1,0 +1,200 @@
+They are typically made of basic structural units—each with two large heavy chains and two small light chains.
+Multiple copies of the V, D and J gene segments exist, and are tandemly arranged in the genomes of mammals.
+In 1948, Astrid Fagreaus discovered that B cells, in the form of plasma cells, were responsible for generating antibodies.
+Antibody mimetics such as the Affimer and the DARPin have being developed and commercialised as research, diagnostic and therapeutic agents.
+Following activation with antigen, B cells begin to proliferate rapidly.
+Two different scFv fragments can be connected together, via a hinge region, to the constant domain of the heavy chain or the constant domain of the light chain.
+Single hybridoma cells are isolated by dilution cloning to generate cell clones that all produce the same antibody; these antibodies are called ''monoclonal antibodies''.
+Treatment of a mother with Anti-RhD antibodies prior to and immediately after trauma and delivery destroys Rh antigen in the mother's system from the fetus.
+Computational approaches provide a cheaper and faster alternative to crystallography, but their results are more equivocal, since they do not produce empirical structures.
+Each of these variants can bind to a different antigen.
+In these rapidly dividing cells, the genes encoding the variable domains of the heavy and light chains undergo a high rate of point mutation, by a process called ''somatic hypermutation'' (SHM).
+Though the general structure of all antibodies is very similar, a small region at the tip of the protein is extremely variable, allowing millions of antibodies with slightly different tip structures, or antigen-binding sites, to exist.
+It has been shown to activate basophils and mast cells to produce antimicrobial factors.
+Heterodimeric antibodies, which are also asymmetrical and antibodies, allow for greater flexibility and new formats for attaching a variety of drugs to the antibody arms.
+Basically, the antibody paratope is polygenic, made up of three genes, V, D, and J.
+This region is called the ''Fc (Fragment, crystallizable) region'', and is composed of two heavy chains that contribute two or three constant domains depending on the class of the antibody.
+Those cells that recognize coated pathogens have Fc receptors, which, as the name suggests, interact with the Fc region of IgA, IgG, and IgE antibodies.
+These domains contain about 70–110 amino acids and are classified into different categories (for example, variable or IgV, and constant or IgC) according to their size and function.
+These loops are referred to as the complementarity determining regions (CDRs).
+They have sugar chains (glycans) added to conserved amino acid residues.
+SHM results in approximately one nucleotide change per variable gene, per cell division.
+Antibodies for research applications can be found directly from antibody suppliers, or through use of a specialist search engine.
+The Fv fragment was prepared and characterized by David Givol.
+The RRID paper, is co-published in 4 journals that implemented the RRIDs Standard for research resource citation, which draws data from the antibodyregistry.org as the source of antibody identifiers (see also group at Force11)
+The antibody recognizes a unique molecule of the harmful agent, called an antigen, via the Fab's variable region.
+Eliminates pathogens in the early stages of B cell-mediated (humoral) immunity before there is sufficient IgG.
+The only antibody capable of crossing the placenta to give passive immunity to the fetus.
+Binds to allergens and triggers histamine release from mast cells and basophils, and is involved in allergy.
+The Fc receptors are isotype-specific, which gives greater flexibility to the immune system, invoking only the appropriate immune mechanisms for distinct pathogens.
+IgE's Fab paratope binds to allergic antigen, for example house dust mite particles, while its Fc region binds to Fc receptor ε.
+Somatic recombination of immunoglobulins, also known as ''V(D)J recombination'', involves the generation of a unique immunoglobulin variable region.
+In research, purified antibodies are used in many applications.
+His idea prompted Paul Ehrlich to propose the side-chain theory for antibody and antigen interaction in 1897, when he hypothesized that receptors (described as "side-chains") on the surface of cells could bind specifically to toxins&nbsp;– in a "lock-and-key" interaction&nbsp;– and that this binding reaction is the trigger for the production of antibodies.
+It is composed of one constant and one variable domain from each heavy and light chain of the antibody.
+Circulating antibodies are produced by clonal B cells that specifically respond to only one antigen (an example is a virus capsid protein fragment).
+In placental mammals there are five antibody isotypes known as IgA, IgD, IgE, IgG, and IgM.
+Antibodies are used in flow cytometry to differentiate cell types by the proteins they express; different types of cell express different combinations of cluster of differentiation molecules on their surface, and produce different intracellular and secretable proteins.
+Thus the progeny of a single B cell can produce antibodies, all specific for the same antigen, but with the ability to produce the effector function appropriate for each antigenic challenge.
+The production of antibodies is the main function of the humoral immune system.
+Antibodies will also trigger vasoactive amine degranulation to contribute to immunity against certain types of antigens (helminths, allergens).
+One of these domains is called the variable domain, which is present in each heavy and light chain of every antibody, but can differ in different antibodies generated from distinct B cells.
+According to immune network theory, the adaptive immune system is regulated by interactions between idiotypes.
+In summary, the Fab region of the antibody determines antigen specificity while the Fc region of the antibody determines the antibody's class effect.
+More informations about in vitro cross-reactivity testing.
+Polyclonal and monoclonal antibodies are often purified using Protein A/G or antigen-affinity chromatography.
+To further improve the function of heterodimeric antibodies, many scientists are looking towards artificial constructs.
+For example, in biochemical assays for disease diagnosis, a titer of antibodies directed against Epstein-Barr virus or Lyme disease is estimated from the blood.
+This format is specific to the heavy chain part of the constant region in antibodies.
+Anti-RhD antibodies are administered as part of a prenatal treatment regimen to prevent sensitization that may occur when a Rhesus-negative mother has a Rhesus-positive fetus.
+* Testing cross-reactivity of antibody : to highlight unwanted interactions (toxicity) of antibodies with previously characterized tissues.
+During normal childbirth, delivery trauma or complications during pregnancy, blood from a fetus can enter the mother's system.
+The basic functional unit of each antibody is an immunoglobulin (Ig) monomer (containing only one Ig unit); secreted antibodies can also be dimeric with two Ig units as with IgA, tetrameric with four Ig units like teleost fish IgM, or pentameric with five Ig units, like mammalian IgM.
+Research antibodies are most commonly used to identify and locate intracellular and extracellular proteins.
+Some daughter cells of the activated B cells undergo isotype switching, a mechanism that causes the production of antibodies to change from IgM or IgD to the other antibody isotypes, IgE, IgA, or IgG, that have defined roles in the immune system.
+* Feasibility testing :  These are pilot studies whose objectives include, among others, early characterization of safety and initial proof of concept in a small specific patient population (in vito or in vivo testing).
+Single chain variable fragments (scFv) are connected to the variable domain of the heavy and light chain via a short linker peptide.
+CDRs are supported within the variable domains by conserved framework regions.
+Interestingly, the rearrangement of several subgenes (i.e.
+As there are multiple copies of each type of gene segment, and different combinations of gene segments can be used to generate each immunoglobulin variable region, this process generates a huge number of antibodies, each with different paratopes, and thus different antigen specificities.
+Further work concentrated on characterizing the structures of the antibody proteins.
+Antibody mimetics are organic compounds that, like antibodies, can specifically bind antigens.
+Often, once an antibody and antigen bind, they become an immune complex, which functions as a unitary object and can act as an antigen in its own right, being countered by other antibodies.
+Nucleic acids and small molecules are sometimes considered antibody mimetics, but not artificial antibodies, antibody fragments and fusion proteins are composed from these.
+The Coombs test is also used for antibody screening in blood transfusion preparation and also for antibody screening in antenatal women.
+Each antibody contains two light chains that are always identical; only one type of light chain, κ or λ, is present per antibody in mammals.
+Antibodies used in research are some of the most powerful, yet most problematic reagents with a tremendous number of factors that must be controlled in any experiment including cross reactivity, or the antibody recognizing multiple epitopes and affinity, which can vary widely different depending on experimental conditions such as pH, solvent, state of tissue etc.
+In humans, the cell surface is bare around the B cell receptors for several hundred nanometers, which further isolates the BCRs from competing influences.
+The “knobs-into-holes” shape facilitates antibody dependent cell mediated cytotoxicity.
+This information is used for protein engineering, modifying the antigen binding affinity, and identifying an epitope, of a given antibody.
+The first use of the term "antibody" occurred in a text by Paul Ehrlich.
+Relatively weak binding also means it is possible for an antibody to cross-react with different antigens of different relative affinities.
+Traditionally, most antibodies are produced by hybridoma cell lines through immortalization of antibody-producing cells by chemically-induced fusion with myeloma cells.
+Each heavy chain has two regions, the ''constant region'' and the ''variable region''.
+This region is known as the ''hypervariable region''.
+and Nikoloudis et al.
+The antibody isotype of a B cell changes during cell development and activation.
+Also protects against parasitic worms.
+* The demonstration that the process is able to produce in good quality (the process should be validated)
+The attached glycans are critically important to the structure and function of the antibody.
+It is important to note that this occurs before the antigen can stimulate maternal B cells to "remember" Rh antigen by generating memory B cells.
+'''Before clinical trials, studies of product safety and feasibility have to be performed :'''
+The allergen-IgE-FcRε interaction mediates allergic signal transduction to induce conditions such as asthma.
+Natural antibodies have been defined as antibodies that are produced without any previous infection, vaccination, other foreign antigen exposure or passive immunization.
+However, the term was not accepted immediately and several other terms for antibody were proposed; these included ''Immunkörper'', ''Amboceptor'', ''Zwischenkörper'', ''substance sensibilisatrice'', ''copula'', ''Desmon'', ''philocytase'', ''fixateur'', and ''Immunisin''.
+Pharmaceuticals are able to produce highly functional bispecific, and even multispecific, antibodies.
+This combination is called V(D)J recombination discussed below.
+The study of antibodies began in 1890 when Kitasato Shibasaburō described antibody activity against diphtheria and tetanus toxins.
+Antigens are also injected into chickens for generation of polyclonal antibodies in egg yolk.
+Rho(D) Immune Globulin treatment prevents sensitization that can lead to Rh disease, but does not prevent or treat the underlying disease itself.
+Combining these genes with an array of genes for other domains of the antibody generates a large cavalry of antibodies with a high degree of variability.
+The arms of the Y, for example, contain the sites that can bind to antigens (in general, identical) and, therefore, recognize specific foreign objects.
+In mammals there are two types of immunoglobulin light chain, which are called lambda (λ) and kappa (κ).
+Each chain is composed of structural domains called immunoglobulin domains.
+The type of heavy chain present defines the ''class'' of antibody; these chains are found in IgA, IgD, IgE, IgG, and IgM antibodies, respectively.
+The variable region of each immunoglobulin heavy or light chain is encoded in several pieces—known as gene segments (subgenes).
+* The characterization of purified antibody (physicochemical characterization, immunological properties, biological activities, contaminants, ...)
++ Antibody isotypes of mammals
+In clinical immunology, levels of individual classes of immunoglobulins are measured by nephelometry (or turbidimetry) to characterize the antibody profile of patient.
+By coating the pathogen, antibodies stimulate effector functions against the pathogen in cells that recognize their Fc region.
+Isotype or class switching is a biological process occurring after activation of the B cell, which allows the cell to produce different classes of antibody (IgA, IgE, or IgG).
+Without the presence of these proteins, V(D)J recombination would not occur.
+Found in mucosal areas, such as the gut, respiratory tract and urogenital tract, and prevents colonization by pathogens.
+The constant region is identical in all antibodies of the same isotype, but differs in antibodies of different isotypes.
+Among other things the expressed glycans can modulate an antibody's affinity for its corresponding FcR(s).
+Soluble antibodies are released into the blood and tissue fluids, as well as many secretions to continue to survey for invading microorganisms.
+Specific antibodies are produced by injecting an antigen into a mammal, such as a mouse, rat, rabbit, goat, sheep, or horse for large quantities of antibody.
+It has been estimated that humans generate about 10&nbsp;billion different antibodies, each capable of binding a distinct epitope of an antigen.
+The co-expression of both of these immunoglobulin isotypes renders the B cell ready to respond to antigen.
+The variable domain is also referred to as the FV region and is the most important region for binding to antigens.
+B cell activation follows engagement of the cell-bound antibody molecule with an antigen, causing the cell to divide and differentiate into an antibody-producing cell called a plasma cell.
+They constitute most of the gamma globulin fraction of the blood proteins.
+The variable domain exon is rejoined through a process called non-homologous end joining (NHEJ) to the desired constant region (γ, α or ε).
+They have a characteristic immunoglobulin fold in which two beta sheets create a "sandwich" shape, held together by interactions between conserved cysteines and other charged amino acids.
+While most of these early studies focused on IgM and IgG, other immunoglobulin isotypes were identified in the 1960s: Thomas Tomasi discovered secretory antibody (IgA); David S. Rowe and John L. Fahey discovered IgD; and Kimishige Ishizaka and Teruko Ishizaka discovered IgE and showed it was a class of antibodies involved in allergic reactions.
+Some immune deficiencies, such as X-linked agammaglobulinemia and hypogammaglobulinemia, result in partial or complete lack of antibodies.
+The B lymphocyte, in this ready-to-respond form, is known as a "naive B lymphocyte."
+Heterodimeric antibodies have a greater range in shapes they can take and the drugs that are attached to the arms don’t have to be the same on each arm, allowing for different combinations of drugs to be used in cancer treatment.
+New dioxaborolane chemistry enables radioactive fluoride (18F) labeling of antibodies, which allows for positron emission tomography (PET) imaging of cancer.
+In the bone marrow, each developing B cell will assemble an immunoglobulin variable region by randomly selecting and combining one V, one D and one J gene segment (or one V and one J segment in the light chain).
+V, D and J segments are found in Ig heavy chains, but only V and J segments are found in Ig light chains.
+It also implies that Fab-mediated effects are directed at microbes or toxins, whilst Fc mediated effects are directed at effector cells or effector molecules (see below).
+Researchers using antibodies in their work need to record them correctly in order to allow their research to be reproducible (and therefore tested, and qualified by other researchers).
+In contrast, a group of antibodies can be called ''polyvalent'' (or ''unspecific'') if they have affinity for various antigens or microorganisms.
+Humans and higher primates also produce "natural antibodies" that are present in serum before viral infection.
+In its four forms, provides the majority of antibody-based immunity against invading pathogens.
+Validation studies should
+This allows a single antibody to be used by different types of Fc receptors, expressed on different parts of the immune system.
+Second, some complement system components form a membrane attack complex to assist antibodies to kill the bacterium directly (bacteriolysis).
+RAG proteins play an important role with V(D)J recombination in cutting DNA at a particular region.
+The term ''Antikörper'' (the German word for ''antibody'') appears in the conclusion of his article "Experimental Studies on Immunity", published in October 1891, which states that, "if two substances give rise to two different antikörper, then they themselves must be different".
+Rhesus factor, also known as Rhesus D (RhD) antigen, is an antigen found on red blood cells; individuals that are Rhesus-positive (Rh+) have this antigen on their red blood cells and individuals that are Rhesus-negative (Rh–) do not.
+The variable region of the heavy chain differs in antibodies produced by different B cells, but is the same for all antibodies produced by a single B cell or B cell clone.
+These gene segments are then joined together using random genetic recombination to produce the paratope.
+Less than half of research antibodies referenced in academic papers can be easily identified.
+Rejection of xenotransplantated organs is thought to be, in part, the result of natural antibodies circulating in the serum of the recipient binding to α-Gal antigens expressed on the donor tissue.
+A light chain has two successive domains: one constant domain and one variable domain.
+Blood isolated from these animals contains ''polyclonal antibodies''—multiple antibodies that bind to the same antigen—in the serum, which can now be called antiserum.
+Antibodies can occur in two physical forms, a soluble form that is secreted from the cell to be free in the blood plasma, and a membrane-bound form that is attached to the surface of a B cell and is referred to as the B-cell receptor (BCR).
+Several complex genetic mechanisms have evolved that allow vertebrate B cells to generate a diverse pool of antibodies from a relatively small number of antibody genes.
+This gives the antibody bispecificity, allowing for the binding specificities of two different antigens.
+Possible class effects of antibodies include: Opsonisation, agglutination, haemolysis, complement activation, mast cell degranulation, and neutralisation (though this class effect may be mediated by the Fab region rather than the Fc region).
+Class switching allows different daughter cells from the same activated B cell to produce antibodies of different isotypes.
+Only the constant region of the antibody heavy chain changes during class switching; the variable regions, and therefore antigen specificity, remain unchanged.
+The “knobs-into-holes” format enhances heterodimer formation but doesn’t suppress homodimer formation.
+Differences, between the variable domains, are located on three loops known as hypervariable regions (HV-1, HV-2 and HV-3) or complementarity determining regions (CDR1, CDR2 and CDR3).
+Product safety data needed before the initiation of feasibility trials in serious or immediately life-threatening conditions, it serves to evaluate dangerous potential of the product.
+Each Fc region of a particular antibody isotype is able to bind to its specific Fc Receptor (except for IgD, which is essentially the BCR), thus allowing the antigen-antibody complex to mediate different roles depending on which FcR it binds.
+Affinity maturation occurs in mature B cells after V(D)J recombination, and is dependent on help from helper T cells.
+To obtain antibody that is specific for a single epitope of an antigen, antibody-secreting lymphocytes are isolated from the animal and immortalized by fusing them with a cancer cell line.
+The regions where the genes are randomly recombined together is the hyper variable region used to recognise different antigens on a clonal basis.
+and more recently by North et al.
+Multiple attempts have been made to improve both the way that researchers validate antibodies and ways in which they report on antibodies.
+Successful recognition and eradication of many different types of microbes requires diversity among antibodies; their amino acid composition varies allowing them to interact with many different antigens.
+Class switching is triggered by cytokines; the isotype generated depends on which cytokines are present in the B cell environment.
+The ability of antibodies to bind to FcRs helps to direct the appropriate immune response for each different type of foreign object they encounter.
+Some parts of an antibody have the same functions.
+Antibody genes also re-organize in a process called class switching that changes the one type of heavy chain Fc fragment to another, creating a different isotype of the antibody that retains the antigen-specific variable region.
+Passive immunity is achieved through the transfer of ready-made antibodies in the form of human or animal serum, pooled immunoglobulin or monoclonal antibodies, into the affected individual.
+The BCR is found only on the surface of B cells and facilitates the activation of these cells and their subsequent differentiation into either antibody factories called plasma cells or memory B cells that will survive in the body and remember that same antigen so the B cells can respond faster upon future exposure.
+Antibodies directed against red blood cell surface antigens in immune mediated hemolytic anemia are detected with the Coombs test.
+Distinct heavy chains differ in size and composition; α and γ contain approximately 450 amino acids, whereas μ and ε have approximately 550 amino acids.
+Although a huge repertoire of different antibodies is generated in a single individual, the number of genes available to make these proteins is limited by the size of the human genome.
+This mechanism relies on conserved nucleotide motifs, called ''switch (S) regions'', found in DNA upstream of each constant region gene (except in the δ-chain).
+Antibodies are heavy (~150&nbsp;kDa) globular plasma proteins.
+An '''antibody''' ('''Ab'''), also known as an '''immunoglobulin''' ('''Ig'''), is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune system to identify and neutralize pathogens such as bacteria and viruses.
+The ability of an antibody to communicate with the other components of the immune system is mediated via its Fc region (located at the base of the "Y"), which contains a conserved glycosylation site involved in these interactions.
+They are each named with an "Ig" prefix that stands for immunoglobulin, a name sometimes used interchangeably with antibody, and differ in their biological properties, functional locations and ability to deal with different antigens, as depicted in the table.
+One of the general formats for a heterodimeric antibody is the “knobs-into-holes” format.
+Found in sharks and skates; related to mammalian IgD.
+The linker is rich in glycine, which gives it more flexibility, and serine/threonine, which gives it specificity.
+Other types of light chains, such as the iota (ι) chain, are found in other vertebrates like sharks (Chondrichthyes) and bony fishes (Teleostei).
+The membrane-bound form of an antibody may be called a ''surface immunoglobulin'' (sIg) or a ''membrane immunoglobulin'' (mIg).
+The approximate length of a light chain is 211 to 217 amino acids.
+To combat pathogens that replicate outside cells, antibodies bind to pathogens to link them together, causing them to agglutinate.
+Antibodies raised against human chorionic gonadotropin are used in over the counter pregnancy tests.
+As such, the original construction of the word contains a logical flaw; the antitoxin is something directed against a toxin, while the antibody is a body directed against something.
+Edelman went on to discover that antibodies are composed of disulfide bond-linked heavy and light chains.
+Proteins can also be detected and quantified with antibodies, using ELISA and ELISPOT techniques.
+The fused cells are called hybridomas, and will continually grow and secrete antibody in culture.
+The degree to which they can function is impressive given that such a change shape from the natural form should lead to decreased functionality.
+The ability of an antibody to bind to its corresponding FcR is further modulated by the structure of the glycan(s) present at conserved sites within its Fc region.
+Each tip of the "Y" of an antibody contains a paratope (analogous to a lock) that is specific for one particular epitope (similarly analogous to a key) on an antigen, allowing these two structures to bind together with precision.
+Papers published in F1000 in 2014 and 2015 provide researchers with a guide for reporting research antibody use.
+Rho(D) immune globulin antibodies are specific for human Rhesus D (RhD) antigen.
+The engagement of a particular antibody with the Fc receptor on a particular cell triggers an effector function of that cell; phagocytes will phagocytose, mast cells and neutrophils will degranulate, natural killer cells will release cytokines and cytotoxic molecules; that will ultimately result in destruction of the invading microbe.
+However, crystallizing an antibody is often laborious and time-consuming.
+After a B cell produces a functional immunoglobulin gene during V(D)J recombination, it cannot express any other variable region (a process known as allelic exclusion) thus each B cell can produce antibodies containing only one kind of variable chain.
+The naive B lymphocyte expresses both surface IgM and IgD.
+In the 1920s, Michael Heidelberger and Oswald Avery observed that antigens could be precipitated by antibodies and went on to show that antibodies are made of protein.
+Class switching occurs in the heavy chain gene locus by a mechanism called class switch recombination (CSR).
+Online web servers such as ''Web Antibody Modeling'' (WAM)  WAM and ''Prediction of Immunoglobulin Structure'' (PIGS)  Prediction of Immunoglobulin Structure (PIGS) enables computational modeling of antibody variable regions.
+The variable region of each heavy chain is approximately 110 amino acids long and is composed of a single Ig domain.
+V2 family) for lambda light chain immunoglobulin is coupled with the activation of microRNA miR-650, which further influences biology of B-cells.
+In most cases, interaction of the B cell with a T helper cell is necessary to produce full activation of the B cell and, therefore, antibody generation following antigen binding.
+To be specific, variable loops of β-strands, three each on the light (VL) and heavy (VH) chains are responsible for binding to the antigen.
+The paratope is shaped at the amino terminal end of the antibody monomer by the variable domains from the heavy and light chains.
+X-ray crystallography is one commonly used method for determining antibody structures.
+Upon antigen binding, they cluster in large patches, which can exceed 1 micrometer in diameter, on lipid rafts that isolate the BCRs from most other cell signaling receptors.
+This recombinational process that produces clonal antibody paratope diversity is called V(D)J or VJ recombination.
+In this activated form, the B cell starts to produce antibody in a secreted form rather than a membrane-bound form.

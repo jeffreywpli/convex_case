@@ -1,0 +1,200 @@
+The Marsaut was one of the first lamps to be fitted with a shield, in the illustration (right) the bonnet can be seen surrounding the gauzes.
+George Stephenson came from a mining family and by 1804 had secured the post of brakesman at Killingworth colliery.
+However, the Newcastle committee also awarded Stephenson a £1,000 prize collected by subscription.
+In the Geordie lamp the inlet and exhausts are kept separate.
+In a strong enough current of air enough air could be forced in through the tubes (later holes and gallery) to sustain the flame and the lamp could get red-hot.
+Any further increase in temperature to white heat will ignite the external atmosphere.
+Extended life reduces light maintenance and failures; according to OMSHR an average of 28 accidents per year occur in US mines involving lighting.
+Further observations of the speed of flame fronts in fissures and passageways led him to design a lamp with fine tubes admitting the air.
+The Clanny configuration uses a short glass section around the flame with a gauze cylinder above it.
+Upon detecting firedamp the candle is lowered and arrangements made for the ventilating of the area or the deliberate firing of the firedamp after the end of a shift.
+These mills were troublesome to use and were often worked by a boy, whose only task was to provide light for a group of miners.
+The following table is compiled from :
+The pit was a gassy pit and Stephenson took the lead in work to extinguish a fire in 1814.
+The lamp has been tested and according to Lupton ''"successfully resisted every effort to explode it up to a velocity of more than 100 feet per second"''.
+Air velocity to cause flame to pass the gauze (ft/s)
+Both the Davy and Stephenson lamps were fragile.
+Combined with new battery technologies, such as the lithium battery, it gives much better performance in safety lamp applications.
+Clearly this stimulated development and over the next few years there was a marked increase in the use of electric lamps, especially the CEAG, Gray-Sussmann and Oldham, so by 1922 there were 294593 in use in Britain.
+Yates claimed "the temptation to expose the flame to obtain more light is removed".
+The top of the glass has a perforated copper cap with a gauze screen above that.
+NIOSH has sponsored the development of cap lamp systems which they claim improve the "ability of older subjects to detect moving hazards by 15% and trip hazards by 23.7%, and discomfort glare was reduced by 45%".
+Later Stephenson designs also incorporated a gauze screen as a protection against glass breakage.
+The design of the lamp must allow the oxidant to pass into the lamp (and therefore exhaust gases to escape) or else the lamp will extinguish.
+The Clanny gives more light than the Davy and can be carried more easily in a draught.
+Fire requires three elements to burn: fuel, oxidant and heat; the triangle of fire.
+Remove one element of this triangle and the burning will stop.
+Two schemes existed; either a special tool was required which kept at the pit head or else opening the lamp extinguished the flame.
+Nowadays, safety lamps are mainly electric, and traditionally mounted on miners' helmets (such as the wheat lamp) or the Oldham headlamp, sealed to prevent gas penetrating the casing and being ignited by electrical sparks.
+If however the tip turns bluish-gray increasing in height to a thin extended point becoming a deeper blue, then firedamp is present.
+The lamp gave out only a weak light though it was intrinsically safe provided it was kept upright.
+A brass tube protected the upper works, shielded them and kept them locked in position.
+The oil lamp was surrounded by a glass chimney with no ventilation from below.
+Air enters through a series of small holes drilled in the lower brass ring supporting the glass.
+A problem in mining is that the average age is increasing: 43.3 years in 2013 (in the USA) and as a person ages vision degenerates.
+At a draught of between 4 and 6 feet per second the lamp becomes unsafe.
+The Office of Mine Safety and Health (OMSHR), a part of the National Institute for Occupational Safety and Health (NIOSH) (itself part of Centers for Disease Control and Prevention) in the United States has been investigating the benefits of LED headlamps.
+However, if the flame is allowed to play on the gauze for a significant period, then it will heat up, sometimes as far as red heat.
+In 1812, 90 men and boys were suffocated or burnt to death in the Felling Pit near Gateshead and 22 in the following year.
+The Morgan is a cross between the Mueseler and the Marsaut.
+A sprung pin locked the whole together.
+When they came into regular use, barometers were used to tell if atmospheric pressure was low which could lead to more firedamp seeping out of the coal seams into the mine galleries.
+The miner was expected to return to the shaft to perform relighting, a round trip of up to a few miles.
+Time to explosion (s)
+Miners working in thin seams or when undercutting the coal had to lie on their side in cramped conditions.
+The chimney is supported on a gauze shelf.
+Air enters through the lower part of the gauze top and leaves through the upper part; there is no chimney.
+Control of the transfer of heat is the key to manufacturing a successful safety lamp.
+At this point it is effective, but in a dangerous state.
+There is no "shelf" supporting the chimney, instead it hangs from an inverted cone of gauze.
+The gauze in the Davy lamp rusted in the damp air of a coal pit and became unsafe, while the glass in the Stephenson lamp was easily broken, and allowed the flame to ignite firedamp in the mine.
+Open flame lamps could ignite flammable gases which collected in mines, causing explosions and so safety lamps were developed to enclose the flame and prevent it from igniting the surrounding atmosphere.
+The mines inspector recommended that only Stephenson lamps were used for illumination and Davys for testing.
+The latter mechanism can be seen in the Mueseler, Landau and Yates lamps below.
+A galley with gauze provided the inlet, above the glass was a chimney with perforated copper cap and gauze outer.
+The glass is surrounded by a perforated metal tube to protect it.
+As can be imagined this procedure did not always preserve the life of the man so employed.
+The poor light provided yet another reason for miners to try to circumvent the locks.
+In order to see where they were aiming (and accurate blows were needed), the eyes needed to be straining in what would normally be the upwards and slightly to one side direction.
+Early electric lamps in Britain were hand held as miners were used to this and helmet lamps became common much later than in countries like the USA where helmet (cap) lamps had been the norm.
+Various different locking mechanisms were developed; miners tended to be ingenious in finding ways of circumventing them.
+In particular "overmen ... whose lamps are mostly used to detect the presence gas, should avoid such Clanny lamps".
+Flame safety lamps have been replaced in mining with sealed explosion-proof electric lights.
+It was quickly discovered that an air current could cause the flame to pass through the gauze.
+A shielded Marsaut lamp can resist a current of 30 feet per second.
+Pressing a flint against the disk produced a shower of sparks and dim illumination.
+Davy however performed his experiments with samples of firedamp collected from pits.
+Some opened the lamps to light tobacco pipes underground.
+It was not until tungsten filaments replaced carbon that a portable electric light became a reality.
+A number of additional lamps were supposed to accompany each gang of men, but restricting the number was an obvious economy for the pit owners.
+It was not a practical success and Clanny subsequently changed the basis of operation of later lamps in the light of the Davy and Stephenson lamps.
+The air passes down the side of the lamp passing through a series of gauze covered holes and enters the base through another yet another series of gauze covered holes.
+In 1913, Thomas Edison won the ''Ratheman medal'' for inventing a lightweight storage battery that could be carried on the back, powering a parabolic reflector that could be mounted on the miner's helmet.
+* '''Oxidant''' - there is an oxidant in the form of air present outside the lamp.
+If the lamp gets too hot the metal melts and closes up the air holes, extinguishing the lamp.
+The light given out by these lamps was poor (particularly the Davy where it passed through the gauze); indeed, in early lamps worse than candles.
+Air enters from the side above the glass and flows down to the flame before rising to exit at the top of the lamp.
+In the case of the Davy, a "Tin-can Davy" was developed which had a metal cylinder with perforations at the bottom and a glass window for the light from the gauze.
+Rising hot gases are cooled by the gauze, the metal conducting the heat away and being itself cooled by the incoming air.
+Were the flame to go out in a lamp, then there was a temptation for the collier to relight it.
+From the mid-century onwards, and particularly after the 1872 act, lamps had to have a lock mechanism which prevented the miner opening the lamp.
+describes the testing of a mine for firedamp.
+It is held at arm's length at floor level in one hand, the other hand shielding out all except the tip of the flame.
+The lamp was "much more expensive than the forms of lamp now in general use, but Mr, Yates states that the saving of oil effected by its use will in one year pay the additional cost".
+As the candle is raised the tip is observed and if unchanged the atmosphere is safe.
+The top of the tube is closed by a horizontal gauze attached to the body of the lamp by small bars to conduct heat away.
+At the top of the chimney a dished reflector diverts the gases out sideways through a number of holes in the chimney.
+For men on piece work, this meant a loss of income (perhaps 10% of their day's pay) and so was unpopular.
+It is replaced by a silvered reflector having a ''strong lens or bull's-eye'' in it to allow the light out.
+Davy was awarded the Rumford Medal and  £1,000 by the Royal Society in 1816 and a £2,000 prize by the country's colliery owners, who also awarded 100 guineas (£105) to Stephenson.
+Some pits continued to use candles for illumination, relying on the Davy to warn men when to extinguish them.
+Two or three gauzes are fitted inside each other which improves the safety in a draught.
+Lupton notes however ''it is superior in no other respect'', particularly as a test instrument.
+An early pioneer was Joseph Swan who exhibited his first lamp in Newcastle upon Tyne in 1881  and improved ones in subsequent years.
+If a splinter occurred at the end of a crack, or indeed any other unevenness, then the seal might be compromised.
+Before the invention of safety lamps, miners used candles with open flames.
+The lamp is safe in currents up to 15 feet per second.
+The Royal Commission on Accidents in Mines set up in 1881 carried out extensive tests of all types of lamps and the final report in 1886 noted that there had been good progress made in producing electric lamps giving a light superior to that of oil lamps and expected economic and efficient lamps to become available soon.
+A '''safety lamp''' is any of several types of lamp that provides illumination in coal mines and is designed to operate in air that may contain coal dust or gases both of which are potentially flammable or explosive.
+The pin could only be released by applying a vacuum to a captive hollow screw; not something that a nicotine starved miner could do at the coal face.
+In the Davy system a gauze surrounds the flame and extends for a distance above forming a cage.
+A candle is prepared by being trimmed and excess fat removed.
+The base also contained an interlocking mechanism to ensure that the wick was lowered and the lamp extinguished by any attempt to open it.
+It is a shielded lamp with a series of disks at the top to allow spent fumes out and a series of holes lower down the shield to allow air in.
+Developments, including the Gray, Mueseler and Marsaut lamps, tried to overcome these problems by using multiple gauze cylinders, but glass remained a problem until toughened glass became available.
+* '''Fuel''' - this is the easiest part of the triangle to consider, there is fuel in the form of oil inside the lamp and fuel in the form of firedamp or coal dust outside.
+Turning down the wick eventually released the base, but by then the flame was extinguished and therefore safe.
+Above the chimney is a gauze cylinder with a double top.
+The Yates lamp is a development of the Clanny.
+Fortunately only one man was killed (James Selkirk) and the man using the mill (John Selkirk) survived to give evidence.
+Previous experimenters had used coal gas (chiefly carbon monoxide) incorrectly, believing it to be the same as firedamp.
+He reasoned that a lamp in a chimney could create a sufficient updraft that firedamp would not penetrate down the chimney.
+He kept his head down to allow the explosion to pass over him, but as soon as the explosion had occurred stood upright as much as possible to avoid the afterdamp.
+Air enters into a ring near the base which is protected by gauze or perforated plate.
+Lamps were therefore made so that they could be inspected and then the bonnet placed on and locked.
+It is drawn down through the gauze then passes the flame and ascends the chimney.
+So far this is just a Clanny, but in the Mueseler a metal chimney supported on an internal gauze shelf conducts the combustion products to the top of the lamp.
+A boy (Thomas Elliott) was employed to carry hot lamps to the fresh air and bring cool lamps back.
+The flame playing directly on the gauze heats it faster than the heat can be conducted away, eventually igniting the gas outside the lamp.
+At the top it leaves through gauze and the top of the double shield.
+Early Geordie lamps had a simple pierced copper cap over the chimney to further restrict the flow and to ensure that the vital spent gas did not escape too quickly.
+The outer casings of lamps have been made of brass or tinned steel.
+Exhaust gases passed out through water.
+The problem not solved until the introduction of electric lighting around 1900 and the introduction of battery-powered helmet lamps in 1930.
+There  were 195 entries.
+Whilst the Clanny will continue to burn if laid on its side, potentially cracking the glass; the Mueseler will extinguish itself due to the stoppage of convection currents.
+It is replacing conventional safety lamps.
+The Bainbridge is a development of the Stephenson.
+Clanny derived lamps had a metal shield (typically tinned iron) in the shape of a truncated cone, called a bonnet covering the gauze above the glass cylinder.
+A man, known as a fireman (US/Canada), penitent or monk (both from the protective garb) edged forward with a candle on the end of a stick.
+The tubes both restrict the flow and ensure that any back flow is cooled.
+As a new light source, LED has many advantages for safety lamps, including longer illumination times and reduced energy requirements.
+The important principle is that no direct current of air can impinge on the gauze.
+Later designs used gauze for the same purpose and also as a barrier in itself.
+Only on the return to the bank could the lamp man open the lamp for refilling and service.
+Restrictions in the inlet ensure that only just enough air for combustion passes through the lamp.
+All except the very earliest Davy lamps have a double layer at the top of the cage.
+Poor copies and ill-advised "improvements" were known, but changing dimensions either reduced the illumination or the safety.
+Mild nystagmus would self-correct if a miner ceased to perform this work but if left untreated would force a man to give up mining.
+The flame is surrounded by a glass tube surmounted by a gauze capped cylinder.
+Clanny abandoned his pumps and candles and developed a safety lamp which combined features of both the Davy and Geordie.
+Hours to burn 2 oz of oil
+The lamp is a modified Clanny designed by the Belgian Mathieu-Louis Mueseler.
+If firedamp is drawn into the flame it will burn more brightly and if the proportions are correct may even detonate.
+Later models had graduated shields by which the deputy could determine the concentration of firedamp from the heightening of the flame.
+In the presence of firedamp the flame intensifies.
+This turned out not to be the case and progress was slow in attaining reliability and economy.
+The gases then start to rise up the ''intermediate chimney'' before exiting through another gauze.
+If the percentage of firedamp starts to rise, less oxygen is available in the air and combustion is diminished or extinguished.
+Both of these practices were strictly forbidden; they clearly negated the whole point of the safety lamp.
+In the presence of firedamp the explosive mixture is drawn through two gauzes (cylinder and shelf), burnt and then within the chimney are only burnt gases, not explosive mixture.
+In the earlier Geordie lamps an oil lamp is surrounded by glass.
+The lack of good lighting was a major cause of the eye affliction nystagmus.
+A tapered glass cylinder surrounds the flame, and above that the body is a brass tube.
+It was heavy and ungainly and required a man to pump it continuously.
+Early lamps (the Davy, Geordie and Clanny) had the gauze exposed to air currents.
+Air enters through the lower part of the outer shield, through the passage and into the lamp through the inner shield.
+The poor light compared to either the Geordie or Clanny eventually led to the Davy being regarded as ''not a lamp but a scientific instrument for detecting the presence of firedamp''.
+A safety lamp has to ensure that the triangle of fire is maintained inside the lamp, but cannot pass to the outside.
+Following accidents such as Wallsend (1818), Trimdon Grange (1882) and the Bedford Colliery Disaster (1886), lamps had to be shielded against such currents.
+Multiple gauzes will however interfere with the flow of air.
+It was won by a German engineer with the CEAG lamp, which was hand-held and delivered twice the illumination of oil lamps, with a battery life of 16 hours.
+The Marsaut lamp is a Clanny with multiple gauzes.
+Some Mueaseler lamps were fitted with a mechanism which locked the base of the lamp.
+For example, at one colliery (Killingworth) in the north east of England, 10 miners were killed in 1806, 12 in 1809.
+For some reason he stumbled or moved the lamp too quickly and triggered the explosion.
+The bottom of the chimney has a glass bell covering the flame.
+He was present at both the 1806 and 1809 explosions in the pit.
+There is no restriction on the air entering the lamp and so if firedamp is entrained it will burn within the lamp itself.
+The Evan–Thomas lamp is similar to a shielded Clanny, but there is a brass cylinder outside the gauze above the glass.
+The shield had the disadvantage of not allowing the collier or the deputy to check that the gauze was in place and clean.
+LED technology is physically robust compared to a filament light bulb, and has a longer life: 50,000 hours compared to 1,000 – 3,000.
+Gas finally passes down between the outermost chimney and the intermediate chimney, exiting a little above the glass.
+It resists draughts well but the flame is dull.
+Although its use as a light source was superseded by electric lighting, the flame safety lamp has continued to be used in mines to detect methane and blackdamp, although many modern mines now also use sophisticated electronic gas detectors for this purpose.
+The result was a claimed 20 fold improvement in lighting over the Davy.
+The inner chimney is made of copper coated with a fusible metal.
+Sir Humphry Davy was asked to consider the problems of a safety lamp following the Felling explosion.
+Such an incident occurred at Nicholson Pit in 1856 on a lamp being used by an overman to test for firedamp.
+The glass on a Clanny was secured by a large diameter brass ring which could be hard to tighten securely.
+The gauze covered holes and passageways restrict the flow to that required for combustion, so if any part of the oxygen is replaced by firedamp, then the flame is extinguished for want of oxidant.
+This gave rise to frequent explosions.
+For some years prior to 1815 he had been experimenting on the ''blowers'' or fissures from which gas erupted.
+In the case of the gallery system air passes through a number of small holes into the gallery and through gauze to the lamp.
+If a lamp bangs against a hard piece of rock a spark could be generated if iron or untinned steel were employed.
+* '''Heat''' - heat can be carried by the exhaust gases, through conduction and through burning of firedamp drawn into the lamp passing back down the inlet.
+The glass was surrounded by gauze so that in the event of a glass breakage the Geordie became a Davy.
+As an experimental chemist, he was familiar with flames not passing through gauze; his experiments enabled him to determine the correct size and fineness for a miner's lamp.
+They consisted of a steel disk, rotated at high speed by a crank mechanism.
+After extensive testing, 70,000 robust designs were in use in the US by 1916,.
+The flame front travels more slowly in narrow tubes (a key Stephenson observation) and allows the tubes to effectively stop such a flow.
+In 1911, an anonymous colliery owner, through the British government, offered a prize of £1000 () for the best lamp to specified requirements.
+Air enters from the side and spent gases exit from the top.
+The lower levels of light associated with safety lamps caused an increase in the incidence of nystagmus.
+A larger flame will keep the upper part full of burnt gas.
+A development of the Geordie lamp was the Purdy.
+This straining led first to temporary nystagmus and then to a permanent disability.
+Later versions had an annular chamber around the base of the lamp into which air entered through small (") holes and from which air passed through gauze into the lamp.
+Indeed, the lamp burns brighter in dangerous atmospheres thus acting as a warning to miners of rising firedamp levels.
+The chimney is quite narrow with gauze covering the top.
+Conventional lights are strongly focussed in a beam, NIOSH LED lamps are designed to produce a wider more diffuse beam which is claimed to improve the perception of objects by 79.5%.

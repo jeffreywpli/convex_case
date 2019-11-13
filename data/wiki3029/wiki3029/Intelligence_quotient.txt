@@ -1,0 +1,200 @@
+*Fluid intelligence (Gf) includes the broad ability to reason, form concepts, and solve problems using unfamiliar information or novel procedures.
+*Visual processing (Gv) is the ability to perceive, analyze, synthesize, and think with visual patterns, including the ability to store and recall visual representations.
+A diagnosis of intellectual disability is in part based on the results of IQ testing.
+Grounded in developmental theories of Vygotsky and Feuerstein, who maintained that human beings are not static entities but are always in states of transition and transactional relationships with the world, dynamic assessment received also considerable support in the recent revisions of cognitive developmental theory by Joseph Campione, Ann Brown, and John D. Bransford and in theories of multiple intelligences by Howard Gardner and Robert Sternberg.
+The general figure for the heritability of IQ, according to an authoritative American Psychological Association report, is 0.45 for children, and rises to around 0.75 for late adolescents and adults.
+American psychologist Lewis Terman at Stanford University revised the Binet-Simon scale, which resulted in the Stanford-Binet Intelligence Scales (1916).
+Several factors can lead to significant cognitive impairment, particularly if they occur during pregnancy and childhood when the brain is growing and the blood–brain barrier is less effective.
+It became the most popular test in the United States for decades.
+This should be borne in mind when considering reports of people with much higher IQs.
+Since the early 20th century, raw scores on IQ tests have increased in most parts of the world.
+# Wechsler Adult Intelligence Scale
+The task force agrees that large differences do exist between the average IQ scores of blacks and whites, saying:
+The English statistician Francis Galton made the first attempt at creating a standardized test for rating a person's intelligence.
+Borderline intellectual functioning is a categorization where a person has below average cognitive ability (an IQ of 71–85), but the deficit is not as severe as intellectual disability (70 or below).
+More likely influences may be the impact of peers and other experiences outside the family.
+# Cattell Culture Fair III
+Historically, even before IQ tests were invented, there were attempts to classify people into intelligence categories by observing their behavior in daily life.
+Statistical controls for parental SES eliminate about a quarter of this predictive power.
+It has been suggested that this simply reflects that "only dumb ones get caught" but there is similarly a negative relation between IQ and self-reported offending.
+Although they still give an overall score, they now also give scores for many of these more restricted abilities, identifying particular strengths and weaknesses of an individual.
+During World War I, a way was needed to evaluate and assign Army recruits to appropriate tasks.
+The second stratum consists of broad abilities.
+On pg 568 of ''The g Factor'', Arthur Jensen claims that although the correlation between IQ and income averages a moderate 0.4 (one sixth or 16% of the variance), the relationship increases with age, and peaks at middle age when people have reached their maximum career potential.
+In CHC theory, a hierarchy of factors is used; ''g'' is at the top.
+This led to the rapid development of several mental tests.
+The effect for several other psychological traits is similar.
+In research contexts they have been studied as predictors of job performance, and income.
+Both intelligence classification by observation of behavior outside the testing room and classification by IQ testing depend on the definition of "intelligence" used in a particular case and on the reliability and error of estimation in the classification procedure.
+IQ tests measuring adult intelligence also includes:
+Common techniques for analyzing DIF are item response theory (IRT) based methods, Mantel-Haenszel, and logistic regression.
+While not widely used, Thurstone's model influenced later theories.
+The theory continued to be called Gf-Gc theory.
+While agreeing that IQ tests predict performance equally well for all racial groups (except Asian Americans), Nicholas Mackintosh also points out that there may still be a bias inherent in IQ testing if the education system is also systematically biased against African Americans, in which case educational performance may in fact also be an underestimation of African American children's cognitive abilities.
+On a related note, this fixed standard deviation means that the proportion of the population who have IQs in a particular range is theoretically fixed, and current Wechsler tests only give Full Scale IQs between 40 and 160.
+capital punishment, and employment incorporate an individual's IQ into their decisions.
+DIF analysis measures such specific items on a test alongside measuring participants latent abilities on other similar questions.
+This means that the explained variance is 25%.
+The link from IQ to wealth is much less strong than that from IQ to job performance.
+Some scientists dispute IQ entirely.
+Heritability, as a term, applies to populations, and in populations there are variations in traits between individuals.
+It has been found that the correlation of IQ scores with school performance depends on the IQ measurement used.
+These studies have not looked at the effects of extreme environments, such as in abusive families.
+Several neurophysiological factors have been correlated with intelligence in humans, including the ratio of brain weight to body weight and the size, shape, and activity level of different parts of the brain.
+A 2005 study stated that "differential validity in prediction suggests that the WAIS-R test may contain cultural influences that reduce the validity of the WAIS-R as a measure of cognitive ability for Mexican American students," indicating a weaker positive correlation relative to sampled white students.
+In the US, this has been replicated in infants, children, adolescents, and adults.
+Wechsler's ten or more subtests provided this.
+An '''intelligence quotient''' ('''IQ''') is a total score derived from one of several standardized tests designed to assess human intelligence.
+Children with poor scholastic performance may feel alienated.
+It has been revised several times, as is common for IQ tests, to incorporate new research.
+The task force concluded that IQ scores do have high predictive validity for individual differences in school achievement.
+Among the most controversial issues related to the study of intelligence is the observation that intelligence measures such as IQ scores vary between ethnic and racial groups and sexes.
+While there is little scholarly debate about the ''existence'' of some of these differences, their ''causes'' remain highly controversial both within academia and in the public sphere.
+For decades, practitioners' handbooks and textbooks on IQ testing have reported IQ declines with age after the beginning of adulthood.
+IQ classification is the practice by IQ test publishers of designating IQ score ranges as various categories with labels such as "superior" or "average."
+ability and job performance are monotonically linked at all IQ levels.
+A correlation of 0.20 means that the explained variance is 4%.
+Recent findings of gene associations with normally varying intelligence differences in adults continue to show weak effects for any one gene; likewise in children.
+In any collection of test items that make up an IQ test, the score that best measures ''g'' is the composite score that has the highest correlations with all the item scores.
+However, they also found that subsequent factors such as good nutrition and regular quality schooling can offset early negative effects to some extent.
+*Reading and writing ability (Grw) includes basic reading and writing skills.
+People with high IQs are found at all levels of education and occupational categories.
+IQ classification was preceded historically by attempts to classify human beings by general ability based on other forms of behavioral observation.
+However, while IQ strives to measure some concepts of intelligence, it may fail to serve as an accurate measure of broader definitions of intelligence.
+found that occupational status, educational attainment, and IQ are individually heritable; and further found that "genetic variance influencing educational attainment ... contributed approximately one-fourth of the genetic variance for occupational status and nearly half the genetic variance for IQ."
+# Multidimensional Aptitude Battery II
+Such bias can be a result of culture, educational level and other factors that are independent of group traits.
+This shared family environment accounts for 0.25–0.35 of the variation in IQ in childhood.
+In his book ''The g Factor'' (1998), Arthur Jensen cited data which showed that, regardless of race, people with IQs between 70 and 90 have higher crime rates than people with IQs below or above this range, with the peak range being between 80 and 90.
+Therefore, Spearman and others have regarded ''g'' as closely related to the essence of human intelligence.
+Although parents treat their children differently, such differential treatment explains only a small amount of nonshared environmental influence.
+Eysenck also argued IQ tests were not racist, pointing out that Northeast Asians and Jews both scored higher than non-Jewish Europeans on IQ tests, and this would not please European racists.
+There is considerable variation within and overlap among these categories.
+Raw scores on IQ tests for many populations have been rising at an average rate that scales to three IQ points per decade since the early 20th century, a phenomenon called the Flynn effect.
+Cognitive epidemiology is a field of research that examines the associations between intelligence test scores and health.
+After the war, positive publicity promoted by army psychologists helped to make psychology a respected field.
+He set up the first mental testing centre in the world in 1882 and he published "Inquiries into Human Faculty and Its Development" in 1883, in which he set out his theories.
+In a paper presented at the International Society for Intelligence Research in 2002, it was pointed out that because test constructors and the United States' Educational Testing Service (which developed the US SAT test) often eliminate items showing marked sex differences in order to reduce the perception of bias, the "true sex" difference is masked.
+Under it are ten broad abilities that in turn are subdivided into seventy narrow abilities.
+Earl Hunt points out that while this may be the case that would not be a bias of the test, but of society.
+Charles Murray, coauthor of ''The Bell Curve,'' found that IQ has a substantial effect on income independently of family background.
+These include laws requiring fortification of certain food products and laws establishing safe levels of pollutants (e.g.
+They stated that individual differences in intelligence are substantially influenced by both genetics and environment.
+Psychologists such as Alan S. Kaufman and Nathan Brody and statisticians such as Bernie Devlin argue that there are insufficient data to conclude that this is because of genetic influences.
+Among other questions, it remains to be seen whether the results extend to other kinds of fluid intelligence tests than the matrix test used in the study, and if so, whether, after training, fluid intelligence measures retain their correlation with educational and occupational achievement or if the value of fluid intelligence for predicting performance on other tasks changes.
+Fluid intelligence (Gf) was hypothesized as the ability to solve novel problems by using reasoning, and crystallized intelligence (Gc) was hypothesized as a knowledge-based ability that was very dependent on education and experience.
+The planning processes involve decision making, problem solving, and performing activities and requires goal setting and self-monitoring.
+Arthur Jensen responded:
+# Raven's Progressive Matrices
+For example, a six-year-old child who passed all the tasks usually passed by six-year-olds—but nothing beyond—would have a mental age that matched his chronological age, 6.0.
+However, later researchers pointed out this phenomenon is related to the Flynn effect and is in part a cohort effect rather than a true aging effect.
+A notable and increasingly influential alternative to the wide range of standard IQ tests originated in the writings of psychologist Lev Vygotsky (1896-1934) of his most mature and highly productive period of 1932-1934.
+The PASS model covers four kinds of processes (planning process, attention/arousal process, simultaneous processing, and successive processing).
+In the book, ''A Question of Intelligence'', Daniel Seligman cites an IQ income correlation of 0.5 (25% of the variance).
+Cross-sectional studies usually show that especially fluid intelligence peaks at a relatively young age (often in the early adulthood) while longitudinal data mostly show that intelligence is stable until the mid adulthood or later.
+Family members have aspects of environments in common (for example, characteristics of the home).
+While IQ is more strongly correlated with reasoning and less so with motor function, IQ-test scores predict performance ratings in all occupations.
+About 5 percent of the population scores above 125, and 5 percent below 75.
+Their relative importance has been the subject of much research and debate.
+The largest 99.9th percentile (3 standard deviations above the mean) society is the Triple Nine Society.
+Specific features that may affect IQ include the size and shape of the frontal lobes, the amount of blood and chemical activity in the frontal lobes, the total amount of gray matter in the brain, the overall thickness of the cortex, and the glucose metabolic rate.
+Another is that the Stanford-Binet test reflected mostly verbal abilities, while the Wechsler test also reflected nonverbal abilities.
+Differential item functioning (DIF) or sometimes referred to as measurement bias is a phenomenon when participants  from different groups (ex gender, race, disability) with the same latent abilities give different answers to specific questions on the same IQ test.
+Critics such as Keith Stanovich do not dispute the reliability of IQ test scores or their capacity to predict some kinds of achievement, but argue that basing a concept of intelligence on IQ test scores alone neglects other important aspects of mental ability.
+Then, the difference between the higher level of potential and the lower level of actual development indicates the zone of proximal development.
+However, IQ tests may well be biased when used in other situations.
+According to Schmidt and Hunter, "for hiring employees without previous experience in the job the most valid predictor of future performance is general mental ability."
+As ''g'' is highly interrelated with the concept of IQ, this measurement of collective intelligence can be interpreted as intelligence quotient for groups (Group-IQ) even though the score is not a quotient per se.
+He argued that ''g'' is a flawed theory and that the high heritability estimates of IQ are based on false assumptions.
+In a sample of U.S. siblings, Rowe ''et al.''
+A study on young adults published in April 2008 by a team from the Universities of Michigan and Bern supports the possibility of the transfer of fluid intelligence from specifically designed working memory training.
+That children with conduct disorder have lower IQ than their peers "strongly argues" for the theory.
+Most reported associations of genes with intelligence are false positive results.
+Further research will be needed to determine nature, extent and duration of the proposed transfer.
+Mensa International is perhaps the best known of these.
+Gt may be difficult to measure without special equipment.
+See Mental chronometry.
+The American Psychological Association's 1995 report ''Intelligence: Knowns and Unknowns'' stated that the correlations for most "negative outcome" variables are typically smaller than 0.20, which means that the explained variance is less than 4%.
+In this model, the Flynn effect can explained by an increase in environmental stimulation independent of it being sought out by individuals.
+There have been two experiments with lowering this to 80 but in both cases these men could not master soldiering well enough to justify their costs.
+However, in the case of Griggs v. Duke Power Co. in 1971, for the purpose of minimizing employment practices that disparately impacted racial minorities, the U.S. Supreme Court banned the use of IQ tests in employment, except when linked to job performance via a job analysis.
+Dickens and Flynn (2001) have argued that genes for high IQ initiate an environment-shaping feedback cycle, with genetic effects causing bright children to seek out more stimulating environments that then further increase their IQ.
+Current consensus is that fluid intelligence generally declines with age after early adulthood, while crystallized intelligence remains intact.
+have shown that this is at best a short-term effect (lasting no longer than 10 to 15 minutes), and is not related to IQ-increase.
+They have been much less used since the widespread introduction of comprehensive schools.
+*Processing speed (Gs) is the ability to perform automatic cognitive tasks, particularly when measured under pressure to maintain focused attention.
+The American Psychological Association's 1995 report ''Intelligence: Knowns and Unknowns'' stated that IQ scores accounted for (explained variance) about a quarter of the social status variance and one-sixth of the income variance.
+Alexander Luria's earlier work on neuropsychological processes led to the PASS theory (1997).
+A high heritability of a trait does not mean environmental effects, such as learning, are not involved.
+However, the opposite occurs.
+In particular, IQ points are not percentage points.
+The abbreviation "IQ" was coined by the psychologist William Stern for the German term ''Intelligenzquotient'', his term for a scoring method for intelligence tests he advocated in a 1912 book.
+The British psychologist Charles Spearman in 1904 made the first formal factor analysis of correlations between the tests.
+The planning and attention/arousal components comes from structures located in the frontal lobe, and the simultaneous and successive processes come from structures located in the posterior region of the cortex.
+Binet thought that intelligence was multifaceted, but came under the control of practical judgment.
+Such impairment may sometimes be permanent, sometimes be partially or wholly compensated for by later growth.
+While it has been suggested that "in economic terms it appears that the IQ score measures something with decreasing marginal value.
+A 2002 study further examined the impact of non-IQ factors on income and concluded that an individual's location, inherited wealth, race, and schooling are more important as factors in determining income than IQ.
+Multiple attempted replications (e.g.)
+When current IQ tests are developed, the median raw score of the norming sample is defined as IQ 100 and scores each standard deviation (SD) up or down are defined as 15 IQ points greater or less, although this was not always so historically.
+Most notably, they were developed under the banner of dynamic assessment that focuses on the testing of learning and developmental potential (for instance, in the work of Reuven Feuerstein and his associates, who has criticized standard IQ testing for its putative assumption or acceptance of "fixed and immutable" characteristics of intelligence or cognitive functioning).
+report that the inequality in education and income was predominantly due to genes, with shared environmental factors playing a subordinate role.
+French psychologist Alfred Binet, together with Victor Henri and Théodore Simon had more success in 1905, when they published the Binet-Simon test, which focused on verbal abilities.
+Such questions are usually removed in order to make the test equally fair for both groups.
+However, this view is not universally accepted; other factor analyses of the data, with different results, are possible.
+In contrast, Performance IQ correlation with the same GPA was only 0.22 in the same study.
+The 1996 Task Force investigation on Intelligence sponsored by the American Psychological Association concluded that there are significant variations in IQ across races.
+Thurstone argued for a model of intelligence that included seven unrelated factors (verbal comprehension, word fluency, number facility, spatial visualization, associative memory, perceptual speed, reasoning, and induction).
+In ''The Mismeasure of Man'' (1996), paleontologist Stephen Jay Gould criticized IQ tests and argued that they were used for scientific racism.
+Other recent studies have questioned the culture-fairness of IQ tests when used in South Africa.
+The authors suggest that programs aiming to increase IQ would be most likely to produce long-term IQ gains if they enduringly raised children's drive to seek out cognitively demanding experiences.
+In 1999, a merging of the Gf-Gc theory of Cattell and Horn with Carroll's Three-Stratum theory has led to the Cattell–Horn–Carroll theory (CHC Theory).
+A variety of studies of IQ and aging have been conducted since the norming of the first Wechsler Intelligence Scale drew attention to IQ differences in different age groups of adults.
+This phenomenon was named the Flynn effect in the book ''The Bell Curve'' after James R. Flynn, the author who did the most to bring this phenomenon to the attention of psychologists.
+Investigation of different patterns of increases in subtest scores can also inform current research on human intelligence.
+The phenomenon of rising raw score performance means if test-takers are scored by a constant standard scoring rule, IQ test scores have been rising at an average rate of around three IQ points per decade.
+They have postulated that fighting infectious diseases strains the child's metabolism and prevents full brain development.
+*Quantitative reasoning (Gq) is the ability to comprehend quantitative concepts and relationships and to manipulate numerical symbols.
+It is also unclear whether the training is durable of extended periods of time.
+# Woodcock–Johnson Tests of Cognitive Abilities
+These results were not "confounded by a measure of concentrated disadvantage that captures the effects of race, poverty, and other social disadvantages of the county."
+Some measures of educational aptitude correlate highly with IQ tests for instance, Frey and Detterman (2004) reported a correlation of 0.82 between ''g'' (general intelligence factor) and SAT scores; another research found a correlation of 0.81 between ''g'' and GCSE scores, with the explained variance ranging "from 58.6% in Mathematics and 48% in English to 18.1% in Art and Design".
+The American Psychological Association's report ''Intelligence: Knowns and Unknowns'' stated that in the United States IQ tests as predictors of social achievement are not biased against African Americans since they predict future performance, such as school achievement, similarly to the way they predict future performance for Caucasians.
+More intensive, but much smaller projects such as the Abecedarian Project have reported lasting effects, often on socioeconomic status variables, rather than IQ.
+Achieving good grades depends on many factors other than IQ, such as "persistence, interest in school, and willingness to study" (p.&nbsp;81).
+Subsequently, intelligence seems to decline slowly.
+In Binet's view, there were limitations with the scale and he stressed what he saw as the remarkable diversity of intelligence and the subsequent need to study it using qualitative, as opposed to quantitative, measures (White, 2000).
+When a new version of an IQ test is normed, the standard scoring is set so performance at the population median results in a score of IQ 100.
+He hypothesized that there should exist a correlation between intelligence and other observable traits such as reflexes, muscle grip, and head size.
+The American Psychological Association's report "Intelligence: Knowns and Unknowns" states that wherever it has been studied, children with high scores on tests of intelligence tend to learn more of what is taught in school than their lower-scoring peers.
+The US military has minimum enlistment standards at about the IQ 85 level.
+Those other forms of behavioral observation are still important for validating classifications based primarily on IQ test scores.
+For example, Gq and Grw may be seen as measures of school achievement and not IQ.
+Researchers have been exploring the issue of whether the Flynn effect is equally strong on performance of all kinds of IQ test items, whether the effect may have ended in some developed nations, whether there are social subgroup differences in the effect, and what possible causes of the effect might be.
+He observed that children's school grades across seemingly unrelated school subjects were positively correlated, and reasoned that these correlations reflected the influence of an underlying general mental ability that entered into performance on all kinds of mental tests.
+In general, educational interventions, as those described below, have shown short-term effects on IQ, but long-term follow-up is often missing.
+It is unclear whether any lifestyle intervention can preserve fluid intelligence into older ages.
+DIF is only considered if test-takers from different groups ''with the same underlying latent ability level'' have a different chance of giving specific responses.
+The correlation between IQ scores and grades is about .50.
+*Short-term memory (Gsm) is the ability to apprehend and hold information in immediate awareness, and then use it within a few seconds.
+In considering disparities between test results of different ethnic groups, it is crucial to investigate the effects of Stereotype Threat (a situational predicament in which a person feels at risk of confirming negative stereotypes about the group(s) he identifies with), as well as culture and acculturation.
+They are also used to study distributions of psychometric intelligence in populations and the correlations between it and other variables.
+*Auditory processing (Ga) is the ability to analyze, synthesize, and discriminate auditory stimuli, including the ability to process and discriminate speech sounds that may be presented under distorted conditions.
+The APA journal that published the statement, ''American Psychologist,'' subsequently published eleven critical responses in January 1997, several of them arguing that the report failed to examine adequately the evidence for partly genetic explanations.
+Some studies claim that IQ only accounts for (explains) a sixth of the variation in income because many studies are based on young adults, many of whom have not yet reached their peak earning capacity, or even their education.
+# Reynolds Intellectual Assessment Scales
+More recent research has shown the situation to be more complex.
+It is important to have enough of it, but having lots and lots does not buy you that much", large-scale longitudinal studies indicate an increase in IQ translates into an increase in performance at all levels of IQ: i.e.
+A 2011 psychology textbook, lead authored by Harvard Psychologist Professor Daniel Schacter, noted that Human's inherited intelligence could be going down while acquired intelligence goes up.
+Recent studies have shown that training in using one's working memory may increase IQ.
+The attention/arousal process involves selectively attending to a particular stimulus, ignoring distractions, and maintaining vigilance.
+It may seem reasonable to expect genetic influences on traits like IQ to become less important as one gains experiences with age.
+The ideas on the zone of development were later developed in a number of psychological and educational theories and practices.
+Today's factor models of intelligence typically represent cognitive abilities as a three-level hierarchy, where there are a large number of narrow factors at the bottom of the hierarchy, a handful of broad, more general factors at the intermediate level, and at the apex a single factor, referred to as the ''g'' factor, which represents the variance common to all cognitive tasks.
+Those other forms of behavioral observation are still important for validating classifications based on IQ tests.
+IQ tests examine some areas of intelligence, while neglecting to account for other areas, such as creativity and social intelligence.
+Environmental and genetic factors play a role in determining IQ.
+Psychometric intelligence appears as only one of a great many factors that influence social outcomes.
+One suggestion is that children react differently to the same environment because of different genes.
+With operationalization and methodology derived from the general intelligence factor ''g'', a new scientific understanding of collective intelligence, defined as a group’s general ability to perform a wide range of tasks, aims to explain intelligent behavior of groups.
+After gathering data on a variety of physical variables, he was unable to show any such correlation, and he eventually abandoned this research.

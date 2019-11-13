@@ -1,0 +1,200 @@
+Cable modems use a range of radio frequencies originally intended to carry television signals.
+By applying parity check coding to the bits in each symbol, and mapping the encoded bits into a two-dimensional diamond pattern, Ungerboeck showed that it was possible to increase the speed by a factor of two with the same error rate.
+Like mobile phones, mobile broadband modems can be SIM locked to a particular network provider.
+A small number of modems added the ability to automatically answer incoming calls, or automatically place an outgoing call to a single number, but even these limited features were relatively rare or limited to special models in a lineup.
+In the prevalent DOCSIS system, frequency-division duplexing (FDD) separates uplink and downlink signals.
+About half of all ISPs offered 56K support by October 1997.
+External wireless modems are connect cards, USB modems for mobile broadband and cellular routers.
+However, the cost of passing the tests was considerable, and acoustically coupled modems remained common into the early 1980s.
+The standard digital transmission in modern networks is 64&nbsp;kbit/s but some networks use a part of the bandwidth for remote office signaling (e.g.
+The Trailblazer modems also supported a feature that allowed them to spoof the UUCP ''g'' protocol, commonly used on Unix systems to send e-mail, and thereby speed UUCP up by a tremendous amount.
+While they ran on dedicated telephone lines, the devices at each end were no different from commercial acoustically coupled Bell 101, 110 baud modems.
+This limits ADSL broadband service to subscribers within a relatively short distance from the telephone exchange.
+Even where a cable is installed, it is often possible to get better performance or make other parts of the system simpler by using radio frequencies and modulation techniques through a cable.
+The 300&nbsp;bit/s modems used audio frequency-shift keying to send data.
+Some have caps (or maximum limits) on the amount of data that can be transferred per month.
+This type of connection was used for many devices, such as answering machines.
+In 2000, dial-up Internet connections accounted for 74% of all U.S. residential Internet connections.
+One example is the G.hn standard, developed by ITU-T, which provides a high-speed (up to 1&nbsp;Gbit/s) Local area network using existing home wiring (power lines, phone lines and coaxial cables).
+A USB modem used for mobile broadband Internet is also sometimes referred to as a dongle.
+The computer is then set to supply the modem at some higher rate, such as 320&nbsp;kbit/s, and the modem will tell the computer when to start or stop sending data.
+V.42, V.42bis and V.44 standards allow the modem to transmit data faster than its basic rate would imply.
+In this system the two tones for any one side of the connection are sent at similar frequencies as in the 300&nbsp;bit/s systems, but slightly out of phase.
+The IEEE 802.11 standard defines a short range modulation scheme that is used on a large scale throughout the world.
+The website text, images, and Flash executables are compacted to approximately 4%, 12%, and 30%, respectively.
+In such situations a small amount of memory in the modem, a buffer, is used to hold the data while it is being compressed and sent across the phone line, but in order to prevent overflow of the buffer, it sometimes becomes necessary to tell the computer to pause the datastream.
+Cellular routers may not be modems by definition, but they contain modems or allow modems to be slid into them.
+This led to a number of devices that ''mechanically'' connected to the phone through a standard handset.
+The retail price of the 56K modems was about US$200, compared to $100 for 33K modems.
+The same applies to V.32bis and 14,400&nbsp;bit/s HST modem, which would still be able to communicate with each other at 2,400&nbsp;bit/s.
+Well-known models included the Novation CAT and the Anderson-Jacobson, the latter spun off from an in-house project at Stanford Research Institute (now SRI International).
+In 1982, he agreed to publish what is now a landmark paper in the theory of information coding.
+Hayes was forced to compete, and introduced its own 9,600-bit/s standard, ''Express 96'' (also known as ''Ping-Pong''), which was generally similar to Telebit's PEP.
+Any interest in these proprietary improvements was destroyed during the lengthy introduction of the 28,800&nbsp;bit/s V.34 standard.
+This bridged mode is separate from RFC 1483 bridging.
+However, the compression ratio tends to vary due to noise on the line, or due to the transfer of already-compressed files (ZIP files, JPEG images, MP3 audio, MPEG video).
+Narrowband phone lines have a bandwidth of 3,000&nbsp;Hz so using  (SNR = 30&nbsp;dB), the capacity is approximately 30&nbsp;kbit/s.
+To avoid this problem, V.92 modems offer the option to turn off the digital upstream and instead use a 33.6&nbsp;kbit/s analog connection, in order to maintain a high digital downstream of 50&nbsp;kbit/s or higher.
+The readily available 103A2 gave an important boost to the use of remote low-speed terminals such as the Teletype Model 33 ASR and KSR, and the IBM 2741.
+When more flexible solutions were needed, 3rd party "dialers" were used to automate calling, normally using a separate serial port to communicate with the dialler, which would then control the modem through a private electrical connection.
+However, the software generating and interpreting the modem tones to be sent to the softmodem uses many system resources.
+This new technology was adopted into ITU standards V.90 and is common in modern computers.
+This was why earlier modems split the signal frequencies into "answer" and "originate"; the modem could then ignore any signals in the frequency range it was using for transmission.
+A V.22bis 2,400-bit/s system similar in concept to the 1,200-bit/s Bell 212 signaling was introduced in the U.S., and a slightly different one in Europe.
+The carrier frequency was 1,650&nbsp;Hz in both systems.
+Many other standards were also introduced for special purposes, commonly using a high-speed channel for receiving, and a lower-speed channel for sending.
+While waiting, several companies decided to release hardware and introduced modems they referred to as ''V.FAST''.
+Unlocking a modem is achieved the same way as unlocking a phone, by using an 'unlock code'.
+This provided a growing market for other vendors, who licensed the Hayes patents and competed on price or by adding features.
+The faster data rates of the newest wireless modem technologies (UMTS, HSPA, EVDO, WiMax) are also considered to be ''broadband wireless modems'' and compete with other broadband modems below.
+This is accomplished through ''hardware flow control'' using extra lines on the modem–computer connection.
+A common feature of these high-speed modems was the concept of fallback, or ''speed hunting'', allowing them to communicate with less-capable modems.
+The introduction of the Smartmodem made communications much simpler and more easily accessed.
+Smart modems come with media access controllers inside, which prevents random data from colliding and resends data that is not correctly received.
+By the late 1980s, most modems could support all of these standards and 2,400-bit/s operation was becoming common.
+Such systems are an important part of the PSTN, and are also in common use for high-speed computer network links to outlying areas where fibre is not economical.
+), are known as mobile broadband modems (sometimes also called wireless modems).
+They measure the total delay time and then set up a local delay loop to the same time.
+Digital cable television and cable Internet services use radio frequency modems to provide the increasing bandwidth needs of modern households.
+Two DSVD modems can establish a completely digital link between each other over standard phone lines.
+Echo cancellation eliminated this problem.
+However, this reflected signal causes problems for the modem, which is unable to distinguish between a signal from the remote modem and the echo of its own signal.
+Hayes, however, offered neither protocol spoofing nor sysop discounts, and its high-speed modems remained rare.
+See Voice modem command set for more details on voice modems.
+In December 1972, Vadic introduced the ''VA3400'', notable for full-duplex operation at 1,200&nbsp;bit/s over the phone network.
+USB wireless modems use a USB port on the laptop instead of a PC card or ExpressCard slot.
+The famous ''Bell 103A dataset'' standard was also introduced by AT&T in 1962.
+This is useful for people talking on the phone, as it provides a signal to the speaker that their voice is making it through the system.
+This allowed both modems to use the full spectrum available, doubling the speed.
+AT&T reduced modem costs by introducing the originate-only 113D and the answer-only 113B/C modems.
+This rate is near the theoretical Shannon limit.
+At some points the modem will be sending compressed files at approximately 50&nbsp;kbit/s, uncompressed files at 160&nbsp;kbit/s, and pure text at 320&nbsp;kbit/s, or any value in between.
+G.hn devices use orthogonal frequency-division multiplexing (OFDM) to modulate a digital signal for transmission over the wire.
+His results were astonishing but only conveyed to a few colleagues.
+Newer types of broadband modems are available, including satellite and power line modems.
+They are used for telephony applications.
+For many years, the Bell System (AT&T) maintained a monopoly on the use of its phone lines and what devices could be connected to them.
+The introduction of these higher-speed systems also led to the digital fax machine during the 1980s.
+The signal returning through the echo meets the inverted version coming from the delay line, and cancels out the echo.
+The FCC found that as long as a device was not electronically attached to the system, it would not threaten its integrity.
+A CEA study in 2006, found that dial-up Internet access is declining in the U.S.
+Other countries have plans that charge a fixed rate per data transferred—per megabyte or even kilobyte of data downloaded; this tends to add up quickly in today's content-filled world, which is why many people are pushing for flat data rates.
+The rapid update of modems led to a similar rapid increase in BBS use, which was helped by the fact that BBSs could control the modem simply by sending strings, rather than talking to a device driver that was different for every direct-connect modem.
+The US demographic pattern for dial-up modem users per capita has been more or less mirrored in Canada and Australia for the past 20 years.
+USRobotics began work on the technology first, calling theirs X2 because 56k was twice the speed of 28k modems.
+Most of GSM wireless modems come with an integrated SIM cardholder (i.e., Huawei E220, Sierra 881, etc.)
+They use more advanced technology than dial-up modems: typically they can modulate and demodulate hundreds of channels simultaneously or use much wider channels than dial-up modems.
+This led to rapid growth of online services with their large file libraries, which in turn gave more reason to own a modem.
+Transmitting at 1,200&nbsp;baud produced the 4,800&nbsp;bit/s V.27ter standard, the same working at a base rate of 2,400&nbsp;baud produced the 9,600&nbsp;bit/s V.32.
+ADSL (asymmetric digital subscriber line) modems, a more recent development, are not limited to the telephone's voiceband audio frequencies.
+A '''modem'''  ('''mo'''dulator-'''dem'''odulator) is a network hardware device that modulates one or more carrier wave signals to encode digital information for transmission and demodulates signals to decode the transmitted information.
+SAGE modems were described by AT&T's Bell Labs as conforming to their newly published Bell 101 dataset standard.
+Some residential gateway offer a so-called "bridged mode", which disables the built-in routing function and makes the device function similarly to a plain modem.
+Thus, two USR modems would be able to connect at 9,600&nbsp;bit/s, but, when a user with a 2,400&nbsp;bit/s modem called in, the USR would fall back to the common 2,400&nbsp;bit/s speed.
+A ''Winmodem'' or ''softmodem'' is a stripped-down modem that replaces tasks traditionally handled in hardware with software.
+In this system the stream of 1s and 0s in computer data is translated into sounds which can be easily sent on the phone lines.
+Error correcting codes, which encode code words (sets of bits) in such a way that they are far from each other, so that in case of error they are still closest to the original word (and not confused with another) can be thought of as analogous to sphere packing or packing pennies on a surface: the further two bit sequences are from one another, the easier it is to correct minor errors.
+The ITU standard V.34 represents the culmination of the joint efforts.
+The WiFi and WiMax standards use wireless mobile broadband modems operating at microwave frequencies.
+Modems can be used with any means of transmitting analog signals, from light emitting diodes to radio.
+Once the connection is completed, they send their signals into the phone lines as normal, but also into the delay, which is inverted.
+Later in V.92, the digital PCM technique was applied to increase the upload speed to a maximum of 48&nbsp;kbit/s, but at the expense of download rates.
+Coaxial cable has a very large bandwidth, but signal attenuation becomes a major problem at high data rates if a baseband digital signal is used.
+and some models are also provided with a microSD memory slot and/or jack for additional external antenna such as Huawei E1762 and Sierra Wireless Compass 885.
+Slot connections gave the computer complete access to the modem's memory or I/O channels, which allowed software to send commands to the modem, not just data.
+Software running on the host computer can convert any image into fax format, which can then be sent using the modem.
+The second feature is the ability to quickly connect to one's ISP.
+Because they used a different standard at 9,600&nbsp;bit/s, they would fall back to their highest commonly supported standard at 2,400&nbsp;bit/s.
+The uplink (from the user to the central office) still uses V.34 technology at 33.6&nbsp;kbit/s.
+The 56&nbsp;kbit/s rate is only possible from the central office to the user site (downlink).
+The bit rate increases were achieved by defining four or eight distinct symbols, which allowed the encoding of two or three bits per symbol instead of only 1.
+The dial-up modem is still widely used by customers in rural areas, where DSL, cable, satellite, or fiber optic service is not available, or they are unwilling to pay what these companies charge.
+This led to a series of popular modems for the S-100 bus and Apple II computers that could directly dial the phone, answer incoming calls, and hang up the phone, the basic requirements of a bulletin board system (BBS).
+Standard twisted-pair telephone cable can, for short distances, carry signals with much higher frequencies than the cable's maximum frequency rating.
+In the 1,200&nbsp;bit/s and faster systems, phase-shift keying was used.
+USRobotics held a 40-percent share of the retail modem market, and Rockwell International held an 80-percent share of the modem chipset market.
+Voice modems are regular modems that are capable of recording or playing audio over the telephone line.
+In order to guarantee compatibility with V.34 modems once the standard was ratified (1994), the manufacturers were forced to use more flexible parts, generally a DSP and microcontroller, as opposed to purpose-designed ASIC modem chips.
+Until the end of April 2011, worldwide shipments of USB modems surpassed embedded 3G and 4G modules by 3:1 because USB modems can be easily discarded, but embedded modems could start to gain popularity as tablet sales grow and as the incremental cost of the modems shrinks, so by 2016, the ratio may change to 1:1.
+They would start at high speeds and get progressively slower until there was a response.
+In 1977, Vadic responded with the VA3467 triple modem, an answer-only modem sold to computer center operators that supported Vadic's 1,200-bit/s mode, AT&T's 212A mode, and 103A operation.
+These frequencies were chosen carefully; they are in the range that suffers minimum distortion on the phone system and are not harmonics of each other.
+During the late 1990s, Rockwell-Lucent and USRobotics introduced competing technologies based upon the digital transmission used in telephony networks.
+This would also happen if a V.32 modem and a HST modem were connected.
+The use of smaller shifts had the drawback of making each symbol more vulnerable to interference, but improvements in phone line quality at the same time helped compensate for this.
+Additional improvements were introduced via the Quadrature Amplitude Modulation (QAM) encoding system.
+Through the 1980s, a number of new higher-speed modems, first 1,200 and then 2,400&nbsp;bit/s, greatly improved the responsiveness of the online systems, and made file transfer practical.
+Sometimes referred to as "the poor man's ISDN", and employing a similar technology, v.70 compatible modems allow for a maximum speed of 33.6&nbsp;kbit/s between peers.
+In November 1976, AT&T introduced the 212A modem to compete with Vadic.
+Most cellular routers do allow such datacards or USB modems.
+These accelerated downloads are now integrated into the Opera and Amazon Silk web browsers, using their own server-side text and image compression.
+Rockwell International's chip division developed a new driver chip set incorporating the standard and aggressively priced it.
+Modems are generally classified by the amount of data they can send in a given unit of time, usually expressed in bits per second (symbol '''bit/s''', sometimes abbreviated "bps"), or bytes per second (symbol '''B/s''').
+The goal is to produce a signal that can be transmitted easily and decoded to reproduce the original digital data.
+One typical example was used in the French Minitel system, in which the user's terminals spent the majority of their time receiving information.
+The next major advance in modems was the ''Hayes Smartmodem'', introduced in 1981.
+The new technique was called ''mapping by set partitions'', now known as trellis modulation.
+This is achieved by remembering the analog and digital characteristics of the telephone line, and using this saved information when reconnecting.
+The CDMA (EVDO) versions do not use R-UIM cards, but use Electronic Serial Number (ESN) instead.
+Voiceband modems generally remained at 300 and 1,200&nbsp;bit/s (V.21 and V.22) into the mid-1980s.
+The limited available frequency range meant the symbol rate of 1,200&nbsp;bit/s modems was still only 600&nbsp;baud (symbols per second).
+All standardized asymmetric DSL variants, including ANSI T1.413 Issue 2, G.dmt, ADSL2, ADSL2+, VDSL2, and G.fast, use discrete multi-tone (DMT) modulation, also called (coded) orthogonal frequency-division multiplexing (OFDM or COFDM).
+It provided full-duplex service at 300&nbsp;bit/s over normal phone lines.
+Wireless modems can be embedded inside a laptop or appliance, or be external to it.
+The modem in the Minitel terminal thus operated at 1,200&nbsp;bit/s for reception, and 75&nbsp;bit/s for sending commands back to the servers.
+Typically transparent modems are polled in a round robin manner to collect small amounts of data from scattered locations that do not have easy access to wired infrastructure.
+Transparent modems operate in a manner similar to their phone line modem cousins.
+Introduced in January 1992 at $399 (or less), it was half the price of the slower V.32 modems already on the market.
+One practical use for this technology was realized by early two-player video gamers, who could hold voice communication with each other over the phone while playing.
+This allowed both data and commands to be sent through a single serial port.
+This opened the door to direct-connect modems that plugged directly into the phone line rather than via a handset.
+As telephone-based 56k modems began losing popularity, some Internet service providers such as Netzero/Juno, Netscape, and others started using pre-compression to increase the throughput and maintain their customer base.
+The Smartmodem was an otherwise standard 103A 300-bit/s direct-connect modem, but it was attached to a small microcontroller that watched the data stream for certain character strings representing commands.
+Modems which use a mobile telephone system (GPRS, UMTS, HSPA, EVDO, WiMax, etc.
+Direct broadcast satellite, WiFi, and mobile phones all use modems to communicate, as do most other wireless services today.
+They transmit information that is modulated onto a carrier frequency to allow many simultaneous wireless communication links to work simultaneously on different frequencies.
+This V.90 standard was approved in September 1998, and widely adopted by ISPs and consumers.
+Modems can also be classified by their symbol rate, measured in baud.
+Three U.S. companies became famous for high-speed versions of the same concept.
+This led to a price war, and by the end of the year V.32 was dead, never having been really established, and V.32bis modems were widely available for $250.
+The same software used with modems (such as Procomm or Minicom) could be used with the null modem connection.
+For instance, a 53.3&nbsp;kbit/s connection with V.44 can transmit up to 53.3 × 6 = 320&nbsp;kbit/s using pure text.
+The now-standard Hayes command set included instructions for picking up and hanging up the phone, dialing numbers, and answering calls, among others.
+It employs the most powerful coding techniques including channel encoding and shape encoding.
+This was similar to the commands offered by the internal modems, but unlike them, the Smartmodem could be connected to any computer with an RS-232 port, which was practically every microcomputer built.
+In fact, broadband modems fit the definition of ''modem'' because they use complex waveforms to carry digital data.
+The baud unit denotes symbols per second, or the number of times per second the modem sends a new signal.
+The rapidly falling prices of electronics in the late 1970s led to an increasing number of direct-connect models around 1980.
+During the call setup and negotiation period, both modems send a series of unique tones and then listen for them to return through the phone system.
+Like the 103A, it used different frequency bands for transmit and receive.
+Without the discovery and eventual application of trellis modulation, maximum telephone rates using voice-bandwidth channels would have been limited to 3,429&nbsp;baud × 4&nbsp;bit/symbol = approximately 14&nbsp;kbit/s using traditional QAM.
+In its 2012 annual report, AOL showed it still collects around US$700 million in fees from dial-up users: about three million people.
+By contrast, the original ITU V.22 standard, which could transmit and receive four distinct symbols (two&nbsp;bits per symbol), transmitted 1,200&nbsp;bits by sending 600 symbols per second (600&nbsp;baud) using phase shift keying.
+Voiceband modems were once the most popular means of Internet access in the U.S., but with the advent of new ways of accessing the Internet, the traditional 56K modem is losing popularity.
+In the Bell 103 system, the originating modem sends 0s by playing a 1,070&nbsp;Hz tone, and 1s at 1,270&nbsp;Hz, with the ''answering'' modem transmitting its 0s on 2,025&nbsp;Hz and 1s on 2,225&nbsp;Hz.
+The ''Hush-a-Phone'' decision applied only to mechanical connections, but the ''Carterfone'' decision of 1968, led to the FCC introducing a rule setting stringent AT&T-designed tests for electronically coupling a device to the phone lines.
+A single cable can carry radio and television signals at the same time as broadband internet service without interference.
+Incompatible with either existing standard, it was an amalgam of both which was designed to allow both types of modem to be converted to it by a firmware upgrade.
+QAM used a combination of phase shift and amplitude to encode four bits per symbol.
+Some devices referred to as "broadband modems" are residential gateways, integrating the functions of a modem, network address translation (NAT) router, Ethernet switch, WiFi access point, DHCP server, firewall, among others.
+The introduction of microcomputer systems with internal expansion slots made the first software-controllable modems common.
+A cellular router may have an external datacard (''AirCard'') that slides into it.
+Although the name ''modem'' is seldom used in this case, modems are also used for high-speed home networking applications, especially those using existing home wiring.
+ISPs employing this approach often advertise it as "accelerated dial-up."
+The drawback of this approach is a loss in quality, which causes image content to become pixelated and smeared.
+Multiple cable modems attached to a single cable can use the same frequency band by employing a low-level media access protocol to avoid conflicts.
+For example, the ITU V.21 standard used audio frequency shift keying with two possible frequencies, corresponding to two distinct symbols (or one bit per symbol), to carry 300&nbsp;bits per second using 300 baud.
+One could also use the 212A with a 103A modem at 300&nbsp;bit/s.
+Typically, they were half duplex, meaning that they could not send and receive data at the same time.
+By using a majority of the bandwidth for data and reserving part for voice transmission, DSVD modems allow users to pick up a telephone handset interfaced with the modem, and initiate a call to the other peer.
+For online gaming, this can be a real concern.
+However, many people knew that a modem connected a computer to the Internet over a telephone line.
+Mass-produced modems in the United States began as part of the SAGE air-defense system in 1958 (the year the word ''modem'' was first used), connecting terminals at various airbases, radar sites, and command-and-control centers to the SAGE director centers scattered around the U.S. and Canada.
+Smart modems typically require more bandwidth than transparent modems, and typically achieve higher data rates.
+Since most handsets were supplied by Western Electric and thus of a standard design, acoustic couplers were relatively easy to build.
+Trailblazers thus became extremely common on Unix systems, and maintained their dominance in this market well into the 1990s.
+The ''201A'' and ''201B Data-Phones'' were synchronous modems using two-bit-per-baud phase-shift keying (PSK).
+Concerned with being shut out of the market, Rockwell began work on a rival 56k technology and joined with Lucent and Motorola on what it called K56Flex or Flex.
+Such software was at one time an add-on, but has since become largely universal.
+The seminal CBBS was created on an S-100 machine with a Hayes internal modem, and a number of similar systems followed.
+A single additional channel in the reverse direction allowed the two modems to communicate how much data was waiting at either end of the link, and the modems could change direction on the fly.

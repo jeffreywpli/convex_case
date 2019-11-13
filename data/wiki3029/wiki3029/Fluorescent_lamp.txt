@@ -1,0 +1,200 @@
+High CCT lighting generally requires higher light levels.
+The EPA recommends airing out the location of a fluorescent tube break and using wet paper towels to help pick up the broken glass and fine particles.
+Special lamps may be needed for reliable service outdoors in cold weather.
+Due to its longer wavelength the narrowband UVB requires a 10 times higher dose to the skin, compared to the broadband.
+As the design requires that twice the supply voltage must be lower than the cold-cathode striking voltage (or the tubes would erroneously instant-start), this design cannot be used with  AC power unless the tubes are at least  length.
+Fluorescent lamps with low CRI have phosphors that emit too little red light.
+Depending upon the capacitance and the quality of constant-current pulse-width modulation, this can largely eliminate modulation at 100 or 120&nbsp;Hz.
+Compact fluorescent lamps are now available in the same popular sizes as incandescents and are used as an energy-saving alternative in homes.
+This quality makes them desirable for maintenance-free long-life applications (such as backlights in liquid crystal displays).
+Typical incandescent lighting is 2700 K, which is yellowish-white.
+A Tesla coil will pass high-frequency current through the tube, and since it has a high voltage as well, the gases within the tube will ionize and emit light.
+For a given fluorescent tube, a high-frequency electronic ballast gives about a 10% efficacy improvement over an inductive ballast.
+After years of work, Moore was able to extend the operating life of the lamps by inventing an electromagnetically controlled valve that maintained a constant gas pressure within the tube.
+; Electrodeless lamps: Electrodeless induction lamps are fluorescent lamps without internal electrodes.
+This can be an issue with some poorly designed inverters.
+Lamp fixture design must control light from a long tube instead of a compact globe.
+These electrons collide with and ionize noble gas atoms inside the bulb surrounding the filament to form a plasma by the process of impact ionization.
+They have been commercially available since 1990.
+Some still use an inductance to limit the current, but the higher frequency allows a much smaller inductance to be used.
+Often the light will turn pink (see Loss of mercury) with black burns on the ends of the lamp due to sputtering of emission mix (see below).
+Filaments rarely burn out or fail open circuit unless the filament becomes depleted of emitter and the control gear is able to supply a high enough voltage across the tube to operate it in cold cathode mode.
+The fill gas effectively increases the distance that electrons travel through the tube, which allows an electron a greater chance of interacting with a mercury atom.
+Correlated color temperature (CCT) is a measure of the "shade" of whiteness of a light source compared with a blackbody.
+The increased power dissipation at tube ends also usually means cold cathode tubes have to be run at a lower loading than their thermionic emission equivalents.
+One of the first scientists to experiment with a Geissler tube was Julius Plücker who systematically described in 1858 the luminescent effects that occurred in a Geissler tube.
+As the electrodes heat, the lamp slowly, over three to five  seconds, reaches full brightness.
+Incident photons have an energy of 5.5 electron volts but produce visible light photons with energy around 2.5 electron volts, so only 45% of the UV energy is used; the rest is dissipated as heat.
+Near the end of life, fluorescent lamps can start flickering at a frequency lower than the power frequency.
+The output frequency is started above the resonance frequency of the output circuit of the ballast; and after the filaments are heated, the frequency is rapidly decreased.
+A few manufacturers are producing T8 lamps with 90,000 hour lamp lives, rivalling the life of LED lamps.
+The "emission mix" on the lamp filaments/cathodes is required to enable electrons to pass into the gas via thermionic emission at the lamp operating voltages used.
+The first phosphors were synthetic versions of naturally occurring fluorescent minerals, with small amounts of metals added as activators.
+application, which at that point was owned by a firm known as Electrons, Inc.
+Most of the photons that are released from the mercury atoms have wavelengths in the ultraviolet (UV) region of the spectrum, predominantly at wavelengths of 253.7 and 185 nanometers (nm).
+These are mainly F71, F72, or F73 HO (100&nbsp;W) lamps, although 160&nbsp;W VHO are somewhat common.
+Neutral-white fluorescents have a CCT of 3000 K or 3500 K. Cool-white fluorescents have a CCT of 4100 K and are popular for office lighting.
+The ideal temperature for a T8 lamp is  while the T5 lamp is ideally at .
+Sputtering occurred when ionized particles struck an electrode and tore off bits of metal.
+In some areas, recycling is also available to consumers.
+If the frequency approaches the resonant frequency of the ballast, the output voltage will increase so much that the lamp will ignite.
+Since introduction in the 1990s, high-frequency ballasts have been used in general lighting fixtures with either rapid start or pre-heat lamps.
+Both filaments lose function as they are connected in series, with just a simple switch start circuit a broken filament will render the lamp completely useless.
+The mercury-vapor lamp was superior to the incandescent lamps of the time in terms of energy efficiency, but the blue-green light it produced limited its applications.
+The CRI of such lamps is typically 82–100.
+By definition, an incandescent lamp has a CRI of 100.
+Very good suppression is possible, but adds to the cost of the fluorescent fixtures.
+The sputtered emission mix forms the dark marks at the lamp ends seen in old lamps.
+Poor quality (or failing) electronic ballasts may have insufficient reservoir capacitance or have poor regulation, thereby producing considerable 100/120&nbsp;Hz modulation of the light.
+Fluorescent lamps are negative differential resistance devices, so as more current flows through them, the electrical resistance of the fluorescent lamp drops, allowing for even more current to flow.
+Capacitive coupling with high-voltage power lines can light a lamp continuously at low intensity, depending on the intensity of the electrostatic field, as shown in the image on the right.
+"Natural sunshine" fluorescent light
+Either form of inductive ballast may also include a capacitor for power factor correction.
+In US residences, fluorescent lamps are mostly found in kitchens, basements, or garages,  but schools and businesses find the cost savings of fluorescent lamps to be significant and rarely use incandescent lights.
+Electronic ballasts reduce this loss.
+Sometimes this is because of the lack of appreciation for the difference or importance of differing tube types.
+In addition to having engineers and technicians along with facilities for R&D work on fluorescent lamps, General Electric controlled what it regarded as the key patents covering fluorescent lighting, including the patents originally issued to Hewitt, Moore, and Küch.
+Fluorescent lamps require a ballast to stabilize the current through the lamp, and to provide the initial striking voltage required to start the arc discharge.
+Digital ballasts can apply quite complex logic to lamp starting and operation.
+The starter switch does not close again because the voltage across the lit tube is insufficient to start a glow discharge in the starter.
+The broadband is better for increasing Vitamin D3 in the body.
+A '''fluorescent lamp''' or a '''fluorescent tube''' is a low pressure mercury-vapor gas-discharge lamp that uses fluorescence to produce visible light.
+New fluorescent lamps may show a twisting spiral pattern of light in a part of the lamp.
+They  are cooler than traditional halogen light sources, and use high-frequency ballasts to prevent video flickering and high color-rendition index lamps to approximate daylight color temperatures.
+Where the AC voltage is insufficient to start long fluorescent lamps, the ballast is often a step-up autotransformer with substantial leakage inductance (so as to limit the current flow).
+Yellow fluorescent lights
+The extra energy used to start a fluorescent lamp is equivalent to a few seconds of normal operation; it is more energy-efficient to switch off lamps when not required for several minutes.
+The terminal voltage across an operating lamp varies depending on the arc current, tube diameter, temperature, and fill gas.
+There are two types: broadband UVB that gives 290–320 nanometer with peak wavelength of 306&nbsp;nm, and narrowband UVB that gives 311–313 nanometer.
+When power is first applied to the circuit, there will be a glow discharge across the electrodes in the starter lamp.
+Typical fluorescent lamp with rare earth phosphor
+However, this is less significant with longer tubes.
+Since the 1990s, higher quality fluorescent lamps use either a higher CRI halophosphate coating, or a ''triphosphor'' mixture, based on europium and terbium ions, that have emission bands more evenly distributed over the spectrum of visible light.
+Fluorescent lamps with magnetic ballasts flicker at a normally unnoticeable frequency of 100 or 120&nbsp;Hz and this flickering can cause problems for some individuals with light sensitivity; they are listed as problematic for some individuals with autism, epilepsy, lupus, chronic fatigue syndrome, Lyme disease, and vertigo.
+This patent, along with the Hull patent, put GE on what seemed to be firm legal ground, although it faced years of legal challenges from Sylvania Electric Products, Inc., which claimed infringement on patents that it held.
+As in all mercury-based gas-filled tubes, mercury is slowly adsorbed into the glass, phosphor, and tube electrodes throughout the life of the lamp, until it can no longer function.
+Connected directly to a constant-voltage power supply, a fluorescent lamp would rapidly self-destruct due to the uncontrolled current flow.
+Suppression of radio interference is possible.
+The most famous was the evacuated tube used for scientific research by William Crookes.
+The fill gas helps determine the operating electrical characteristics of the lamp, but does not give off light itself.
+This ballast applies power to the filaments first, then after a short delay to allow the cathodes to preheat, applies voltage to the lamps to strike an arc.
+Subjecting the tube to asymmetric waveforms, where the total current flow through the tube does not cancel out and the tube effectively operates under a DC bias, causes asymmetric distribution of mercury ions along the tube due to cataphoresis.
+The fundamental means for conversion of electrical energy into radiant energy in a fluorescent lamp relies on inelastic scattering of electrons when an incident electron collides with an atom in the gas.
+In addition to general lighting, special fluorescent lights are often used in stage lighting for film and video production.
+Color rendering index (CRI) is a measure of how well colors can be perceived using light from a source, relative to light from a reference source such as daylight or a blackbody of the same color temperature.
+; Bilirubin lamps: Deep blue light generated from a europium-activated phosphor is used in the light therapy treatment of jaundice; light of this color penetrates skin and helps in the breakup of excess bilirubin.
+Fluorescent lamps can run directly from a direct current (DC) supply of sufficient voltage to strike an arc.
+They are also used in some EPROM erasers.
+The typical luminous efficacy of fluorescent lighting systems is 50–100 lumens per watt, several times the efficacy of incandescent bulbs with comparable light output, but less than that of a typical LED bulb.
+In applications such as road and railway signalling, fluorescent lamps which do not generate as much heat as incandescent lamps may not melt snow and ice build up around the lamp, leading to reduced visibility.
+A 1993 study in the US found that ultraviolet exposure from sitting under fluorescent lights for eight hours  is equivalent to one minute of sun exposure.
+In 1939 GE decided that the claim of Meyer, Spanner, and Germer had some merit, and that in any event a long interference procedure was not in their best interest.
+The relative intensity of light emitted in each narrow band of wavelengths over the visible spectrum is in different proportions compared to that of an incandescent source.
+All the major features of fluorescent lighting were in place at the end of the 1920s.
+The ballast dissipates some heat; electronic ballasts may be around 90% efficient.
+into an internal cylinder) to capture most of the sputtered material so it is not lost from the electrode.
+Unlike Moore’s lamps, Hewitt's were manufactured in standardized sizes and operated at low voltages.
+Because cold cathode lamps have no thermionic emission coating to wear out they can have much longer lives than hot cathode tubes.
+Warm-white fluorescents have CCT of 2700 K and are popular for residential lighting.
+Many different circuits have been used to operate fluorescent lamps.
+Tax incentives and building codes result in higher use in places such as California.
+Fluorescent lamps can be illuminated by means other than a proper electrical connection.
+This effect is due to loose cathode material and usually disappears after a few hours of operation.
+Others use a capacitor-transistor combination to replace the inductor,  since a transistor and capacitor working together can simulate the action of an inductor.
+As the arc current increases and tube voltage drops, the circuit provides current limiting.
+For example, a low CRI 6800 K halophosphate tube (an extreme example) will make reds appear dull red or even brown.
+As with a few other attempts to use Geissler tubes for illumination, it had a short operating life, and given the success of the incandescent light, Edison had little reason to pursue an alternative means of electrical illumination.
+; Grow lamps: Grow lamps contain phosphor blends that encourage photosynthesis, growth, or flowering in plants, algae, photosynthetic bacteria, and other light-dependent organisms.
+These ballasts convert the incoming power to an output frequency in excess of .
+At much lower or higher temperatures, efficacy decreases.
+In a modern lamp, for every 100 incident photons of UV impacting the phosphor, only 86 visible light photons are emitted (a quantum efficiency of 86%).
+The patent was duly awarded in December 1939.
+Typically, the output is rated as 3–10% UVB (5% most typical) with the remaining UV as UVA.
+The circuit is typically complex, but the complexity is built into the IC.
+The narrowband is good for psoriasis, eczema (atopic dermatitis), vitiligo, lichen planus, and some other skin diseases.
+Semi-resonant start fixtures are generally incompatible with energy saving T8 retrofit tubes, because such tubes have a higher starting voltage than T12 lamps and may not start reliably, especially in low temperatures.
+Electronic ballasts are commonly supplied with AC power, which is internally converted to DC and then back to a variable frequency AC waveform.
+Compared with an incandescent lamp, a fluorescent tube is a more diffuse and physically larger light source.
+If the lamp is installed where it is frequently switched on and off, it will age rapidly.
+However, due to cost, negative differential resistance and sometimes high starting voltage, some control gear will provide sufficient increased operating voltage to continue lighting the lamp in cold cathode mode.
+The simplest ballast for alternating current (AC) use is an inductor placed in series, consisting of a winding on a laminated magnetic core.
+Similarly, running a compact fluorescent lamp base-up will result in hotter electronics, which can cause shorter average life (particularly with higher power rated ones).
+Of particular importance was the invention in 1927 of a low-voltage “metal vapor lamp” by Friedrich Meyer, Hans-Joachim Spanner, and Edmund Germer, who were employees of a German firm in Berlin.
+Efforts to obtain a U.S. patent had met with numerous delays, but were it to be granted, the patent might have caused serious difficulties for GE.
+As with future fluorescent lamps, they were considerably more complicated than an incandescent bulb.
+These systems are standard equipment in 200–240&nbsp;V countries (and for 100–120&nbsp;V lamps up to about 30&nbsp;watts).
+The photon that is emitted from this second interaction has a lower energy than the one that caused it.
+Since the eye is relatively less efficient at detecting red light, an improvement in color rendering index, with increased energy in the red part of the spectrum, may reduce the overall luminous efficacy.
+From 1904 onwards Moore’s lighting system was installed in a number of stores and offices.
+Unlike a true strobe lamp, the light level drops in appreciable time and so substantial "blurring" of the moving part would be evident.
+Fluorescence of certain rocks and other substances had been observed for hundreds of years before its nature was understood.
+For an explanation of the origin of the individual peaks click on the image.
+Larger U-shaped lamps are used to provide the same amount of light in a more compact area, and are used for special architectural purposes.
+Because it produced some beautiful light effects, the Geissler tube was a popular source of amusement.
+GE’s efforts came to fruition with the invention of a tungsten-based filament.
+Sputtering of the electrode may still occur, but electrodes can be shaped (e.g.
+The deep purple glass filters out most of the visible colors of light directly emitted by the mercury-vapor discharge, producing proportionally less visible light compared with UV light.
+This higher energy state is unstable, and the atom will emit an ultraviolet photon as the atom's electron reverts to a lower, more stable, energy level.
+Power frequency flicker can also sometimes be emitted from the very ends of the tubes, if each tube electrode produces a slightly different light output pattern on each half-cycle.
+The choice of circuit is based on AC voltage, tube length, initial cost, long term cost, instant versus non-instant starting, temperature ranges and parts availability, etc.
+Mercury vapor lamps also anticipated the fluorescent lamp in their incorporation of a ballast to maintain a constant current.
+In East and Southeast Asia it is very rare to see incandescent bulbs in buildings anywhere.
+There is an initial small peak of early failures, followed by a drop and steady increase over lamp life.
+Additionally, the circuit power factor is almost 1.0, and no additional power factor correction is needed in the lighting installation.
+Vacuum cleaners can cause the particles to become airborne, and should not be used.
+This results in fluctuations not only with light output but color temperature as well, which may pose problems for photography and people who are sensitive to the flicker.
+By around 25,000 operating hours, it will typically be half the brightness of a new lamp (although some manufacturers claim much longer half-lives for their lamps).
+Germicidal lamps have designations beginning with G (meaning ''germicidal''), rather than F, for example G30T8 for a 30-watt,  diameter,  long germicidal lamp (as opposed to an F30T8, which would be the fluorescent lamp of the same size and rating).
+In 1895 Daniel McFarlan Moore demonstrated lamps  in length that used carbon dioxide or nitrogen to emit white or pink light, respectively.
+Before the 1960s four-pin thermal starters and manual switches were used.
+Magnetic ballasts are usually filled with a tar-like potting compound to reduce emitted noise.
+High output lamps operate at 800 mA, and some types operate up to 1.5&nbsp;A.
+During the following year, GE and Westinghouse publicized the new lights through exhibitions at the New York World’s Fair and the Golden Gate International Exposition in San Francisco.
+Fluorescence occurred, but the tubes were very inefficient and had a short operating life.
+Energy lost in magnetic ballasts was around 10% of lamp input power according to GE literature from 1978.
+Even though the patent issue would not be completely resolved for many years, General Electric’s strength in manufacturing and marketing gave it a pre-eminent position in the emerging fluorescent light market.
+The extent to which this phenomenon occurs is related to the light's spectral composition, and may be gauged by its color rendering index (CRI).
+Mixing tube types within fittings can improve the color reproduction of lower quality tubes.
+When used in this fashion, they are fitted with filters in the same way as blacklight-blue lamps are; the filter passes the short-wave UV and blocks the visible light produced by the mercury discharge.
+To prevent this, fluorescent lamps must use an auxiliary device, a ballast, to regulate the current flow through the lamp.
+At dimmer illumination levels, the human eye perceives lower color temperatures as more pleasant, as related through the Kruithof curve.
+Semi-resonant start circuits are mainly restricted to use in commercial installations because of the higher initial cost of circuit components.
+Electronic starters only attempt to start a lamp for a short time when power is initially applied, and do not repeatedly attempt to restrike a lamp that is dead and unable to sustain an arc; some automatically shut down a failed lamp.
+Many electronic ballasts are controlled by a microcontroller or similar, and these are sometimes called digital ballasts.
+The switch contacts in glow starters are subject to wear and inevitably fail eventually, so the starter is manufactured as a plug-in replaceable unit.
+Starters are inexpensive, typically less than 50 US cents for the short-lived glow type (depending upon lamp power), and perhaps ten times more for the electronic type .
+The coating must be thick enough to capture all the ultraviolet light produced by the mercury arc, but not so thick that the phosphor coating absorbs too much visible light.
+The efficacy of fluorescent tubes ranges from about 16 lumens per watt for a 4 watt tube with an ordinary ballast to over 100 lumens per watt with a modern electronic ballast, commonly averaging 50 to 67&nbsp;lm/W overall.
+Some more advanced starters time out in this situation, and do not attempt repeated starts until power is reset.
+About 99% of the mercury is typically contained in the phosphor, especially on lamps that are near the end of their life.
+In other countries, residential use of fluorescent lighting varies depending on the price of energy, financial and environmental concerns of the local population, and acceptability of the light output.
+This tube voltage is too low to strike the arc with cold electrodes, but as the electrodes heat up to thermionic emission temperature, the tube striking voltage falls below that of the ringing voltage, and the arc strikes.
+He invented a fluorescent lamp in 1896 that used a coating of calcium tungstate as the fluorescing substance, excited by X-rays, but although it received a patent in 1907, it was not put into production.
+Once such fine grained control over the starting and arc current is achievable, features such as dimming, and having the ballast maintain a constant light level against changing sunlight contribution are all easily included in the embedded microcontroller software, and can be found in various manufacturers' products.
+They commonly use a purpose-designed semiconductor switch and "soft start" the lamp by preheating the cathodes before applying a controlled starting pulse which strikes the lamp first time without flickering; this dislodges a minimal amount of material from the cathodes during starting, giving longer lamp life than possible with the uncontrolled impulses to which the lamp is subjected in a switchstart.
+At higher temperatures, self-absorption in the vapor reduces the yield of UV and visible light.
+In the case of integral electronic ballasts, since they never have to work again, this is sometimes done by having them deliberately burn out some component to permanently cease operation.
+Some countries are encouraging the phase-out of incandescent light bulbs and substitution of incandescent lamps with fluorescent lamps or other types of energy-efficient lamps.
+The increased fall voltage results in more power dissipation at tube ends, which does not contribute to light output.
+Low cost ballasts mostly contain only a simple oscillator and series resonant LC circuit.
+; Tanning lamps: The lamps used in tanning beds contain a different phosphor blend (typically 3 to 5 or more phosphors) that emits both UVA and UVB, provoking a tanning response in most human skin.
+Mercury vapor lamps continued to be developed at a slow pace, especially in Europe, and by the early 1930s they received limited use for large-scale illumination.
+He went on to apply thin coatings of luminescent materials to the surfaces of these tubes.
+Sales of "fluorescent lumiline lamps" commenced in 1938 when four different sizes of tubes were put on the market.
+The filaments can burn out (fail) at the end of the lamp's lifetime, opening the circuit and losing the capability to heat up.
+Neon lighting was relevant to the development of fluorescent lighting, however, as Claude’s improved electrode (patented in 1915) overcame "sputtering", a major source of electrode degradation.
+This is used with electronic ballasts shown below.
+Eventually, war production required 24-hour factories with economical lighting and fluorescent lights became available.
+A power factor correction (PFC) capacitor draws leading current from the mains to compensate for the lagging current drawn by the lamp circuit.
+When the AC period is shorter than the relaxation time to de-ionize mercury atoms in the discharge column, the discharge stays closer to optimum operating condition.
+Due to the high open circuit tube voltage, this starting method is particularly good for starting tubes in cold locations.
+Lighting arrangements use fluorescent tubes in an assortment of tints of white.
+The disposal of phosphor and particularly the toxic mercury in the tubes is an environmental issue.
+These are used in several applications, including new generation tanning lamp systems, whereby a 100 watt lamp (e.g., F71T12BP) can be lit using 90 watts of actual power while obtaining the same luminous flux (measured in lumens) as magnetic ballasts.
+High CRI halophosphate and triphosphor tubes give a more natural color reproduction to the human eye.
+Given the higher tube voltage required anyway, these tubes can easily be made long, and even run as series strings.
+Recent proposals in some countries to phase out T12 tubes will reduce the application of this starting method.
+In addition it can cause eye and skin damage and should not be used or observed without eye and skin protection.
+The 254 nm UV emitted by these tubes will kill germs and ionize oxygen to ozone.
+This runs the ballast at higher temperature.
+In T5 lamps this is at the end of the tube with the text stamped on it.

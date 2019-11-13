@@ -1,0 +1,200 @@
+The origin of the word is the Old Church Slavonic (Old Bulgarian) ''rabota'' "servitude" ("work" in contemporary Bulgarian and Russian), which in turn comes from the Proto-Indo-European root ''*orbh-''.
+The job may be boring, such as domestic cleaning, or dangerous, such as exploring inside a volcano.
+By 2014, Caterpillar had a self-driving dump truck which is expected to greatly change the process of mining.
+Artificial Intelligence'' and ''Ex Machina'' and the 2016 TV adaptation of ''Westworld'' have engaged audience sympathy for the robots themselves.
+Humanoid robots are still in a very limited stage, as no humanoid robot can, as of yet, actually navigate around a room that it has never been in.
+An official report was issued in 2009 by the Japanese government's Robot Industry Policy Committee.
+His first robots, named ''Elmer'' and ''Elsie'', were constructed between 1948 and 1949 and were often described as ''tortoises'' due to their shape and slow rate of movement.
+, 190 companies in the US have bought Baxters and they are being used commercially in the UK.
+Other works with similar themes include ''The Mechanical Man'', ''The Terminator, Runaway, RoboCop'', the Replicators in ''Stargate'', the Cylons in ''Battlestar Galactica'', the Cybermen and Daleks in ''Doctor Who'', ''The Matrix'', ''Enthiran'' and ''I, Robot''.
+Japan hopes to have full-scale commercialization of service robots by 2025.
+Others predict robot intelligence breakthroughs by 2050.
+Two of the most famous are R2-D2 and C-3PO from the ''Star Wars'' franchise.
+Some have suggested a need to build "Friendly AI", meaning that the advances which are already occurring with AI should also include an effort to make AI intrinsically friendly and humane.
+Another common theme is the reaction, sometimes called the "uncanny valley", of unease and even revulsion at the sight of robots that mimic humans too closely.
+Modern incarnations of Walter's ''turtles'' may be found in the form of BEAM robotics.
+The concept of humanoid sex robots has elicited both public attention and concern.
+General-purpose robots may perform a variety of functions simultaneously or they may take on different roles at different times of day.
+Another method is developmental robotics, which tracks changes and development within a single robot in the areas of problem-solving and other functions.
+This could make them attractive for space exploration missions, where failure is normally extremely costly.
+Asimov is probably best remembered for his science-fiction stories and especially those about robots, where he placed robots and their interaction with society at the center of many of his works.
+Mass-produced printed circuit boards (PCBs) are almost exclusively manufactured by pick-and-place robots, typically with SCARA manipulators, which remove tiny electronic components from strips or trays, and place them on to PCBs with great accuracy.
+They noted that self-awareness as depicted in science-fiction is probably unlikely, but that there were other potential hazards and pitfalls.
+For instance, a laparoscopic surgery robot allows the surgeon to work inside a human patient on a relatively small scale compared to open surgery, significantly shortening recovery time.
+The system, upon determining whether or not the drug is in the robot, will send the information to the robot for filling.
+Possibly the most prolific author of the twentieth century was Isaac Asimov (1920–1992) who published over five-hundred books.
+The more modules that are connected to one another, the more degrees of freedom it will have.
+The word 'robot' was first used to denote a fictional humanoid in a 1920 play ''R.U.R.''
+The 11th century Lokapannatti tells of how the Buddha's relics were protected by mechanical robots (bhuta vahana yanta), from the kingdom of Roma visaya (Rome); until they were disarmed by King Ashoka.
+These robots are composed of a single type of identical, several different identical module types, or similarly shaped modules, which vary in size.
+The robot is a very time efficient device that the pharmacy depends on to fill prescriptions.
+by the Czech writer, Karel Čapek.
+So far, researchers have mostly produced only parts of these complex systems, such as bearings, sensors, and synthetic molecular motors, but functioning robots have also been made such as the entrants to the Nanobot Robocup contest.
+Nanorobotics is the emerging technology field of creating machines or robots whose components are at or close to the microscopic scale of a nanometer (10−9 meters).
+One approach to designing robots is to base them on animals.
+The robot can be ten feet wide and thirty feet long and can hold hundreds of different kinds of medications and thousands of doses.
+3. pack things in boxes—for example, orient and nest chocolate candies in candy boxes
+Mining robots are designed to solve a number of problems currently facing the mining industry, including skills shortages, improving productivity from declining ore grades, and achieving environmental targets.
+Script Pro manufactures a robot designed to help pharmacies fill prescriptions that consist of oral solids or medications in pill form.
+Yan Shi proudly presented the king with a life-size, human-shaped figure of his mechanical 'handiwork' made of leather, wood, and artificial organs.
+Mobile robots are the focus of a great deal of current research and almost every major university has one or more labs that focus on mobile robot research.
+At issue is whether the robots are being exploited and the consequences of human dependence upon commodified labor (especially after a number of specially-formulated robots achieve self-awareness and incite robots all around the world to rise up against the humans).
+Some analysts believe that within the next few decades, most trucks will be self-driving.
+The play does not focus in detail on the technology behind the creation of these living creatures, but in their appearance they prefigure modern ideas of androids, creatures who can be mistaken for humans.
+), to perform tasks without help from other people like therapists or nursing staff.
+ROS provides ways to program a robot's navigation and limbs regardless of the specific hardware involved.
+Writer Karel Čapek was born in Czechoslovakia (Czech Republic).
+Once the bin is filled with all of the drugs that a particular patient needs and that the robot stocks, the bin is then released and returned out on the conveyor belt to a technician waiting to load it into a cart for delivery to the floor.
+They looked like real women and could not only speak and use their limbs but were endowed with intelligence and trained in handwork by the immortal gods."
+They can also be used to avoid exposing workers to the hazardous and tight spaces such as in duct cleaning.
+In Book XVIII, Hephaestus, god of fire, creates new armor for the hero Achilles, assisted by robots.
+The robot technician, user, or pharmacist determines the needed size of the vial based on the tablet when the robot is stocked.
+During this process it uses barcode technology to verify its pulling the correct drug.
+General-purpose autonomous robots typically can navigate independently in known spaces, handle their own re-charging needs, interface with electronic doors and elevators and perform other basic tasks.
+General-purpose autonomous robots can perform a variety of functions independently.
+The International Federation of Robotics has proposed a tentative definition, "A service robot is a robot which operates semi- or fully  autonomously to perform services useful to the well-being of humans and equipment, excluding manufacturing operations."
+Also, if a tall pallet or large vehicle blocks beacons or a bar code is marred, AGVs may become lost.
+Engineers and inventors from ancient civilizations, including Ancient China, Ancient Greece, and Ptolemaic Egypt, attempted to build self-operating machines, some resembling animals and humans.
+Da Vinci's notebooks, rediscovered in the 1950s, contained detailed drawings of a mechanical knight now known as Leonardo's robot, able to sit up, wave its arms and move its head and jaw.
+: Bulgarian, Russian, Serbian, Slovak, Polish, Macedonian, Ukrainian, archaic Czech, as well as ''robot'' in Hungarian).
+She can read newspapers, find and correct misspelled words, learn about banks like Barclays, and understand that some restaurants are better places to eat than others.
+There are robot kits like Lego Mindstorms, BIOLOID, OLLO from ROBOTIS, or BotBrain Educational Robots can help children to learn about mathematics, physics, programming, and electronics.
+Vernor Vinge has suggested that a moment may come when computers and robots are smarter than humans.
+Similarly, BHP has announced the expansion of its autonomous drill fleet to the world's largest, 21 autonomous Atlas Copco drills.
+The robot may be in another room or another country, or may be on a very different scale to the operator.
+The play begins in a factory that uses a chemical substitute for protoplasm to manufacture living, simplified people called ''robots.''
+In Japan, complex animal and human automata were built between the 17th to 19th centuries, with many described in the 18th century ''Karakuri zui'' (''Illustrated Machinery'', 1796).
+The first digitally operated and programmable robot was invented by George Devol in 1954 and was ultimately called the Unimate.
+by the Czech writer, Karel Čapek but it was Karel's brother Josef Čapek who was the word's true inventor.
+Such as SmartLoader, SpeciMinder, ADAM, Tug Eskorta, and MT 400 with Motivity are designed for people-friendly workspaces.
+There have also been devices shaped like robots such as the teaching computer, Leachim (1974), and 2-XL (1976), a robot shaped game / teaching toy based on an 8-track tape player, both invented Michael J. Freeman.
+The use of robots in military combat raises ethical concerns.
+The idea of automata originates in the mythologies of many cultures around the world.
+ANAT technology, an early modular robotic technology patented by Robotics Design Inc., allows the creation of modular robots from U and H shaped modules that connect in a chain, and are used to form heterogeneous and homogenous modular robot systems.
+In 2009, experts attended a conference hosted by the Association for the Advancement of Artificial Intelligence (AAAI) to discuss whether computers and robots might be able to acquire any autonomy, and how much these abilities might pose a threat or hazard.
+This ultimately laid the foundations of the modern robotics industry.
+In an article in the Czech journal ''Lidové noviny'' in 1933, he explained that he had originally wanted to call the creatures ''laboři'' ("workers", from Latin ''labor'').
+The first digital and programmable robot was invented by George Devol in 1954 and was named the Unimate.
+ANAT H-shaped modules do not suffer from this problem, as their design allows a modular robot to distribute pressure and impacts evenly amongst other attached modules, and therefore payload-carrying capacity does not decrease as the length of the arm increases.
+The term "service robot" is less well-defined.
+On an automated production line, a vehicle chassis on a conveyor is welded, glued, painted and finally assembled at a sequence of robot stations.
+In the 4th century BC, the Greek mathematician Archytas of Tarentum postulated a mechanical steam-operated bird he called "The Pigeon".
+Of course, all robots by their nature can be re-programmed to behave differently, but some are limited by their physical form.
+Early descriptions of automata include the artificial doves of Archytas, the artificial birds of Mozi and Lu Ban, a "speaking" automaton by Hero of Alexandria, a washstand automaton by Philo of Byzantium, and a human automaton described in the ''Lie Zi''.
+Traditionally the ''robota'' (Hungarian ''robot'') was the work period a serf (corvée) had to give for his lord, typically 6 months of the year.
+Chinese officials and researchers have issued a report suggesting a set of ethical rules, and a set of new legal guidelines referred to as "Robot Legal Studies."
+Closely related to the concept of a ''robot'' is the field of Synthetic Biology, which studies entities whose nature is more comparable to beings than to machines.
+An example of a mobile robot that is in common use today is the ''automated guided vehicle'' or ''automatic guided vehicle'' (AGV).
+These pilotless drones can search terrain and fire on targets.
+It would relay this data to higher-level algorithms.
+The first reference in Western literature to mechanical servants appears in Homer's ''Iliad''.
+Almost every unmanned space probe ever launched was a robot.
+Invented by W. H. Richards, the robot Eric's frame consisted of an aluminium body of armour with eleven electromagnets and one motor powered by a twelve-volt power source.
+Various media sources and scientific groups have noted separate trends in differing areas which might together result in greater robotic functionalities and autonomy, and which pose some inherent concerns.
+It is expected that these new types of robot will be able to solve real world problems when they are finally realized.
+In 1897 the British inventor Ernest Wilson was granted a patent for a torpedo remotely controlled by "Hertzian" (radio) waves and in 1898 Nikola Tesla publicly demonstrated a wireless-controlled torpedo that he hoped to sell to the US Navy.
+In most factories, triangulation systems tend to require moderate to high maintenance, such as daily cleaning of all beacons or bar codes.
+This is discussed by a philosophy called Singularitarianism.
+They may recognize people or objects, talk, provide companionship, monitor environmental quality, respond to alarms, pick up supplies and perform other useful tasks.
+BionicKangaroo was designed and engineered by studying and applying the physiology and methods of locomotion of a kangaroo.
+Differential speed on the wires connected to the shore station allowed the torpedo to be guided to its target, making it "the world's first ''practical'' guided missile".
+Industrial robots are also used extensively for palletizing and packaging of manufactured goods, for example for rapidly taking drink cartons from the end of a conveyor belt and placing them into boxes, or for loading and unloading machining centers.
+Robots appear in many films.
+As mechanical techniques developed through the Industrial age, there appeared more practical applications such as automated machines, remote-control and  wireless remote-control.
+This also means Baxter can be taught to perform multiple, more complicated tasks.
+They noted that some robots have acquired various forms of semi-autonomy, including being able to find power sources on their own and being able to independently choose targets to attack with weapons.
+Later, Asimov added the Zeroth Law: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm"; the rest of the laws are modified sequentially to acknowledge this.
+According to the Rieu translation, "Golden maidservants hastened to help their master.
+The pharmacist or pharmacy technician enters the prescription information into its information system.
+The pharmacist or technician then checks the contents of the vial to ensure it’s the correct drug for the correct patient and then seals the vials and sends it out front to be picked up.
+3D scanners or other means of sensing the environment in two or three dimensions help to eliminate cumulative errors in dead-reckoning calculations of the AGV's current position.
+Several authors have been using a device called the Longpen to sign books remotely.
+Unmanned combat air vehicles (UCAVs), which are an upgraded form of UAVs, can do a wide variety of missions, including combat.
+Some were launched in the 1960s with very limited abilities, but their ability to fly and land (in the case of Luna 9) is an indication of their status as a robot.
+Mobile robots are usually used in tightly controlled environments such as on assembly lines because they have difficulty responding to unexpected interference.
+A literate or 'reading robot' named Marge has intelligence that comes from software.
+They also appear as consumer products, for entertainment or to perform certain tasks like vacuum cleaning.
+Some concern has been expressed over a possible occurrence of robots telling apparent falsehoods.
+Swarms are also more resistant to failure.
+The word ''robot'' was introduced to the public by the Czech interwar writer Karel Čapek in his play ''R.U.R.
+However, Josef Čapek was named by his brother Karel as the true inventor of the term robot.
+Specialized robots are in widespread use in the haptic research community.
+The Brennan torpedo, invented by Louis Brennan in 1877 was powered by two contra-rotating propellors that were spun by rapidly pulling out wires from drums wound inside the torpedo.
+A few researchers have investigated the possibility of creating robots which can alter their physical form to suit a particular task, like the fictional T-1000.
+Robots can also be found in military applications.
+Intended for sale to small businesses, they are promoted as the robotic analogue of the personal computer.
+In 1928, Japan's first robot, Gakutensoku, was designed and constructed by biologist Makoto Nishimura.
+Many analysts believe that self-driving trucks may eventually revolutionize logistics.
+Robots have replaced humans in performing repetitive and dangerous tasks which humans prefer not to do, or are unable to do because of size limitations, or which take place in extreme environments such as outer space or the bottom of the sea.
+There are also accounts of flying automata in the ''Han Fei Zi'' and other texts, which attributes the 5th century BC Mohist philosopher Mozi and his contemporary Lu Ban with the invention of artificial wooden birds (''ma yuan'') that could successfully fly.
+Commercial and industrial robots are now in widespread use performing jobs more cheaply or with greater accuracy and reliability than humans.
+Although the engine for the EATR is designed to run on biomass and vegetation specifically selected by its sensors, which it can find on battlefields or other local environments, the project has stated that chicken fat can also be used.
+One robot in particular, the EATR, has generated public concerns   over its fuel source, as it can continually refuel itself using organic substances.
+Various techniques have emerged to develop the science of robotics and robots.
+''Robot'' is cognate with the German root ''Arbeit'' (work).
+Asimov created the "''Three Laws of Robotics''" which are a recurring theme in his books.
+The word robotics, used to describe this field of study, was coined by the science fiction writer Isaac Asimov.
+Any regular worker could program Baxter and it only takes a matter of minutes, unlike usual industrial robots that take extensive programs and coding in order to be used.
+Roughly half of all the robots in the world are in Asia, 32% in Europe, and 16% in North America, 1% in Australasia and 1% in Africa.
+The head moves along a single axis while it rotates 180 degrees to pull the medications.
+Researchers at the Rensselaer Polytechnic Institute AI and Reasoning Lab in New York conducted an experiment where a robot became aware of itself, and corrected its answer to a question once it had realised this.
+The organization is the foundation for the FIRST Robotics Competition, FIRST LEGO League, Junior FIRST LEGO League, and FIRST Tech Challenge competitions.
+In 1973, a robot with six electromechanically driven axes was patented  by KUKA robotics in Germany, and the programmable universal manipulation arm was invented by Victor Scheinman in 1976, and the design was sold to Unimation.
+There is no consensus on which machines qualify as robots but there is general agreement among experts, and the public, that robots tend to possess some or all of the following abilities and functions: accept electronic programming, process data or physical perceptions electronically, operate autonomously to some degree, move around, operate physical parts of itself or physical processes, sense and manipulate their environment, and exhibit intelligent behavior — especially behavior which mimics humans or other animals.
+Because modular robots of the same architecture type are composed of modules that compose different modular robots, a snake-arm robot can combine with another to form a dual or quadra-arm robot, or can split into several mobile robots, and mobile robots can split into multiple smaller ones, or combine with others into a larger or different one.
+This includes the Voyager probes and the Galileo probes, among others.
+They are also employed for jobs which are too dirty, dangerous or dull to be suitable for humans.
+Robots in healthcare have two main functions.
+However, other experts question this.
+If one AGV breaks down, it may stop the entire operation.
+A robot might be designed to perform one particular task extremely well, or a range of tasks less well.
+Each robot is quite simple, but the emergent behavior of the swarm is more complex.
+Opponents of the concept have stated that the development of sex robots would be morally wrong.
+Asimov carefully considered the problem of the ideal set of instructions robots might be given in order to lower the risk to humans, and arrived at his Three Laws of Robotics: a robot may not injure a human being or, through inaction, allow a human being to come to harm; a robot must obey orders given it by human beings, except where such orders would conflict with the First Law; and a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+These “ANAT robots” can be designed with “n” DOF as each module is a complete motorized robotic system that folds relatively to the modules connected before and after it in its chain, and therefore a single module allows one degree of freedom.
+Whereas one large robot may fail and ruin a mission, a swarm can continue even if several robots fail.
+The pharmacy saves many resources like staff members that are otherwise unavailable in a resource scarce industry.
+Inspired by colonies of insects such as ants and bees, researchers are modeling the behavior of swarms of thousands of tiny robots which together perform a useful task, such as finding something hidden, cleaning, or spying.
+Mobile robots are also found in industry, military and security environments.
+In 2015, the Nao alderen robots were shown to have a capability for a degree of self-awareness.
+Like computers, general-purpose robots can link with networks, software and accessories that increase their usefulness.
+As early as 1982 people were confident that someday robots would:
+AGVs are discussed later in this article.
+When ROS boots up on a robot's computer, it would obtain data on attributes such as the length and movement of robots' limbs.
+Those which assist an individual, such as a sufferer of a disease like Multiple Sclerosis, and those which aid in the overall systems such as pharmacies and hospitals.
+These have since been used by many others to define laws used in fact and fiction.
+Several such measures reportedly already exist, with robot-heavy countries such as Japan and South Korea having begun to pass regulations requiring robots to be equipped with safety systems, and possibly sets of 'laws' akin to Asimov's Three Laws of Robotics.
+L-shaped modules can also be designed in a chain, and must become increasingly smaller as the size of the chain increases, as payloads attached to the end of the chain place a greater strain on modules that are further from the base.
+One such automaton was the karakuri ningyō, a mechanized puppet.
+2. spray paint automobiles with absolutely no human presence
+Once the vial is filled it is brought up to a conveyor belt that delivers it to a holder that spins the vial and attaches the patient label.
+Robotics have also been introduced into the lives of elementary and high school students in the form of robot competitions with the company FIRST (For Inspiration and Recognition of Science and Technology).
+For dynamic areas, such as warehouses full of pallets, AGVs require additional strategies using three-dimensional sensors such as time-of-flight or stereovision cameras.
+They are used when a human cannot be present on site to perform a job because it is dangerous, far away, or inaccessible.
+These were introduced in his 1942 short story "Runaround", although foreshadowed in a few earlier stories.
+The design was probably based on anatomical research recorded in his ''Vitruvian Man''.
+One scientific team has said that it is possible that a robot brain will exist by 2019.
+Similarly, the Transmin Rocklogic system can automatically plan a path to position a rockbreaker at a selected destination.
+An AGV is a mobile robot that follows markers or wires in the floor, or uses vision or lasers.
+Modular robotic technology is currently being applied in hybrid transportation, industrial automation, duct cleaning and handling.
+Because of this most humans rarely encounter robots.
+The body consisted of a steel gear, cam and motor skeleton covered by an aluminum skin.
+From the time of ancient civilization there have been many accounts of user-configurable automated devices and even automata resembling animals and humans, designed primarily as entertainment.
+Different variations of the karakuri existed: the ''Butai karakuri'', which were used in theatre, the ''Zashiki karakuri'', which were small and used in homes, and the ''Dashi karakuri'' which were used in religious festivals, where the puppets were used to perform reenactments of traditional myths and legends.
+Devol’s patent for the first digitally operated programmable robotic arm represents the foundation of the modern robotics industry.
+6. handle soft goods, such as garments and shoes
+No software engineers are needed.
+He believes this represents an important and dangerous trend in which humans are handing over important decisions to machines.
+Algorithms have been designed in case any such robots become a reality.
+The mechanical duck could flap its wings, crane its neck, and swallow food from the exhibitor's hand, and it gave the illusion of digesting its food by excreting matter stored in a hidden compartment.
+Most of the robots in cinema are fictional.
+Rethink Robotics—founded by Rodney Brooks, previously with iRobot—introduced Baxter in September 2012; as an industrial robot designed to safely interact with neighboring human workers, and be programmable for performing simple tasks.
+Examples of popular media where the robot becomes evil are ''2001: A Space Odyssey'', ''Red Planet'' and ''Enthiran''.
+Often such AGVs are designed to be used in human-free environments.
+Some such robots try to mimic human beings and may even resemble people in appearance; this type of robot is called a humanoid robot.
+Developed to deploy triangulation from beacons or bar code grids for scanning on the floor or ceiling.
+They also noted that some computer viruses can evade elimination and have achieved "cockroach intelligence."
+A typical factory contains hundreds of industrial robots working on fully automated production lines, with one robot for every ten human workers.
+(Rossum's Universal Robots)'', published in 1920.
+An example of a domestic robot is a Roomba.
+They are used in simple but unwanted jobs, such as vacuum cleaning, floor washing, and lawn mowing.

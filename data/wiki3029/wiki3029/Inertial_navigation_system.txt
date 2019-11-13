@@ -1,0 +1,200 @@
+This can be thought of as the ability of a blindfolded passenger in a car to feel the car turn left and right or tilt up and down as the car ascends or descends hills.
+The electrodes that drive and sense the standing waves are deposited directly onto separate quartz structures that surround the resonator.
+However, their cost and complexity place constraints on the environments in which they are practical for use.
+Relatively simple electronic circuits can be used to add up the linear accelerations, because the directions of the linear accelerometers do not change.
+The system is both manufacturable and inexpensive.
+Recent advances in the construction of microelectromechanical systems (MEMS) have made it possible to manufacture small and light inertial navigation systems.
+Therefore, the position must be periodically corrected by input from some other type of navigation system.
+A key feature of this approach allowed for the components of the vector cross product (v, xdv, /dt) to be used as the basic autopilot rate signals—a technique that became known as ''cross-product steering''.
+By using the original orientation of the system in the inertial reference frame as the initial condition and integrating the angular velocity, the system's current orientation is known at all times.
+A ring laser gyro splits a beam of laser light into two beams in opposite directions through narrow tunnels in a closed optical circular path around the perimeter of a triangular block of temperature-stable Cervit glass with reflecting mirrors placed in each corner.
+Accelerometers measure the linear acceleration of the moving vehicle in the sensor or body frame, but in directions that can only be measured relative to the moving system (since the accelerometers are fixed to the system and rotate with the system, but are not aware of their own orientation).
+The advantage of an INS is that it requires no external references in order to determine its position, orientation, or velocity once it has been initialized.
+After SRB separation the primary space shuttle guidance is named PEG (Powered Explicit Guidance).
+As Astronauts are the customer for the system, many new teams were formed that touch GN&C as it is a primary interface to "fly" the vehicle.
+An INS can detect a change in its geographic position (a move east or north, for example), a change in its velocity (speed and direction of movement), and a change in its orientation (rotation about an axis).
+Less-expensive navigation systems, intended for use in automobiles, may use a vibrating structure gyroscope to detect changes in heading, and the odometer pickup to measure distance covered along the vehicle's track.
+Gimbal lock constrains maneuvering, and it would be beneficial to eliminate the slip rings and bearings of the gimbals.
+Solid state devices using the same physical principles are used for image stabilization in small cameras or camcorders.
+Angular rate sensors called ''rate gyros'' measure the angular velocity of the vehicle.
+A velocity to be gained (VGO) calculation is made to correct the current trajectory with the objective of driving VGO to zero.
+It has two mass-balanced quartz tuning forks, arranged "handle-to-handle" so forces cancel.
+One example of a popular INS for commercial aircraft was the Delco Carousel, which provided partial automation of navigation in the days before complete flight management systems became commonplace.
+These devices have no moving parts, and weigh about .
+There are two gyroscopes (usually) on the platform.
+Such gyros operate in accordance with the dynamic theory that when an angle rate is applied to a translating body, a Coriolis force is generated.
+Like all gyrostabilized platforms, this system runs well with relatively slow, low-power computers.
+Several coil strips are mounted on great circles around the spherical shell of the gyrostabilized platform.
+The basic, open-loop accelerometer consists of a mass attached to a spring.
+The KC-135 fleet was fitted with a dual Carousel system that was aided by a Doppler radar.
+Also, super/subscripts of E, I and B are representing variables in the Earth centered, Inertial or Body reference frame, respectively and C is a transformation of reference frames.
+The navigation error rises with the lower sensitivity of the sensors used.
+The fluid bearings are very slippery, and the spherical platform can turn freely.
+For example, if, in terrestrial use, the inertially tracked velocity is intermittently updated to zero by stopping, the position will remain precise for a much longer time, a so-called ''zero velocity update''.
+Some small missiles have powered the platform with light from a window or optic fibers to the motor.
+as a vehicle moves from place to place.
+Then it integrates the velocity to calculate the current position.
+This process has been FAA certified to recover pure INS performance equivalent to stationary align procedures for civilian flight times up to 18 hours.
+The gimbals are a set of three rings, each with a pair of bearings initially at right angles.
+The FOG requires more complex calibrations than a Laser ring gyro making the development and manufacture of FOG's more technically challenging that for a RLG.
+That is, it must integrate the vehicle's attitude changes in pitch, roll and yaw, as well as gross movements.
+A research topic is to suspend the platform with pressure from exhaust gases.
+There are usually four bearing pads, mounted in a tetrahedral arrangement to support the platform.
+The initial Delta guidance system assessed the difference in position from a reference trajectory.
+By mounting a pair of gyroscopes (of the same rotational inertia and spinning at the same speed in opposite directions) at right angles the precessions are cancelled, and the platform will resist twisting.
+of General Motors to design and build the first production Carousel systems for the early models (-100, -200, and -300) models of the 747 aircraft.
+In aerospace particularly, other measurement systems are used to determine INS inaccuracies, e.g.
+Since the new position is calculated from the previous calculated position and the measured acceleration and angular velocity, these errors accumulate roughly proportionally to the time since the initial position was input.
+For the space shuttle, an open loop (no feedback) guidance was used to guide the shuttle from lift off until Solid Rocket Booster (SRB) separation.
+Dr. Goddard's systems were of great interest to contemporary German pioneers including Wernher von Braun.
+A strapdown system has a dynamic measurement range several hundred times that required by a gimbaled system.
+The desire to use inertial guidance in the Minuteman missile and Project Apollo drove early attempts to miniaturize computers.
+It does this by measuring the linear acceleration and angular velocity applied to the system.
+Current state of the art non-military technology () can build small solid state sensors that can measure human body movements.
+If navigation systems malfunction, they can send planes off course.
+Aluminum electrodes evaporated onto the forks and the underlying chip both drive and sense the motion.
+Some systems place the linear accelerometers on a gimbaled gyrostabilized platform.
+Based on this information alone, they know how the vehicle is accelerating relative to itself, that is, whether it is accelerating forward, backward, left, right, up (toward the car's ceiling), or down (toward the car's floor) measured relative to the car, but not the direction relative to the Earth, since they did not know what direction the car was facing relative to the Earth when they felt the accelerations.
+An inertial guidance system that will operate near the surface
+Two gyroscopes are used to cancel gyroscopic precession, the tendency of a gyroscope to twist at right angles  to an input torque.
+Inertial navigation systems are used in many different moving objects, including vehicles&mdash;such as aircraft, submarines, spacecraft&mdash;and guided missiles.
+To unlock the counter-rotating light beams, laser gyros either have independent light paths for the two directions (usually in fiber optic gyros), or the laser gyro is mounted on a piezo-electric dither motor that rapidly vibrates the laser ring back and forth about its input axis through the lock-in region to decouple the light waves.
+It also has moving parts that can wear out or jam, and is vulnerable to gimbal lock.
+The big disadvantage of this scheme is that it uses many expensive precision mechanical parts.
+A computer continually calculates the vehicle's current position.
+The 747 utilized three Carousel systems operating in concert for reliability purposes.
+Since it requires no external reference (after initialization), it is immune to jamming and deception.
+Accordingly, inertial navigation is usually used to supplement other navigation systems, providing a higher degree of accuracy than is possible with the use of any single system.
+The higher rate is needed to let the navigation system integrate the angular rate into an attitude accurately.
+This can be thought of as the ability of a blindfolded passenger in a car to feel themselves pressed back into their seat as the vehicle accelerates forward or pulled forward as it slows down; and feel themselves pressed down into their seat as the vehicle accelerates up a hill or rise up out of their seat as the car passes over the crest of a hill and begins to descend.
+The shaker is the most accurate, because both light beams use exactly the same path.
+The inaccuracy of a good-quality navigational system is normally less than 0.6 nautical miles per hour in position and on the order of tenths of a degree per hour in orientation.
+The Q matrix represents the partial derivatives of the velocity with respect to the position vector.
+These advances have widened the range of possible applications to include areas such as human and animal motion capture.
+Lightweight digital computers permit the system to eliminate the gimbals, creating ''strapdown'' systems, so called because their sensors are simply strapped to the vehicle.
+The fluid bearings are pads with holes through which pressurized inert gas (such as Helium) or oil press against the spherical shell of the platform.
+This system has almost no moving parts, and is very accurate.
+Boeing Corporation subcontracted the Delco Electronics Div.
+However FOG's do not suffer from laser lock at low speeds and do not need to contain any moving parts, increasing the maximum potential accuracy and lifespan of a FOG over an equivalent RLG.
+By properly combining the information from an INS and other systems (GPS/INS), the errors in position and velocity are stable.
+Currently, devices combining different sensors are being developed, e.g.
+Performing integration on the inertial accelerations (using the original velocity as the initial conditions) using the correct kinematic equations yields the inertial velocities of the system, and integration again (using the original position as the initial condition) yields the inertial position.
+The data updating algorithms (''direction cosines'' or quaternions) involved are too complex to be accurately performed except by digital electronics.
+Precise winding of the fiber-optic coil is required to ensure the paths taken by the light in opposite directions is as similar as possible.
+The system resonators are machined from quartz due to its excellent mechanical properties.
+An '''inertial navigation system''' ('''INS''') is a navigation aid that uses a computer, motion sensors (accelerometers) and rotation sensors (gyroscopes) to continuously calculate via dead reckoning the position, orientation, and velocity (direction and speed of movement) of a moving object without the need for external references.
+The movement of the outer case with respect to the standing wave pattern is proportional to the total rotation angle and can be sensed by appropriate electronics.
+In premium systems, the angular sensors are usually specialized transformer coils made in a strip on a flexible printed circuit board.
+These systems can have very high precisions (e.g., Advanced Inertial Reference Sphere).
+Inertial guidance systems are now usually combined with satellite navigation systems through a digital filtering system.
+GPS in the OI-22 build), the guidance core of the Shuttle GN&C system had evolved little.
+Estimation theory in general, and Kalman filtering in particular, provide a theoretical framework for combining information from various sensors.
+Gyroscopes measure the angular velocity of the sensor frame with respect to the inertial reference frame.
+The acceleration is derived from the values of deflection distance, mass, and the spring constant.
+When the gyro is rotating at some angular rate, the distance traveled by each beam becomes different—the shorter path being opposite to the rotation.
+The mass is constrained to move only in-line with the spring.
+Gimballed systems could usually do well with update rates of 50–60&nbsp;Hz.
+Furthermore, INS can be used as a short-term fallback while GPS signals are unavailable, for example when a vehicle passes through a tunnel.
+These can be extremely small, around , and are built with Microelectromechanical systems (MEMS) technologies.
+Acceleration is derived from the amount of negative force applied.
+Older INS systems generally used an inertial platform as their mounting point to the vehicle, and the terms are sometimes considered synonymous.
+and are starting to become more widespread in applications where superb accuracy is required (like submarine navigation or strategic ICBM guidance) and FOG based strapdown inertial navigation systems have been selected by the UK Royal Navy for the Astute class submarine and the Queen Elizabeth class aircraft carriers.
+Thus laser gyros retain moving parts, but they do not move as far.
+The Atlas guidance system was to be a combination of an on-board autonomous system, and a ground-based tracking and command system.
+This is accomplished using GPS and an inertial reasonableness test, thereby allowing commercial data integrity requirements to be met.
+In addition, this accelerometer provides for increased bandwidth past the natural frequency of the sensing element.
+As the forks are twisted about the axis of the handle, the vibration of the tines tends to continue in the same plane of motion.
+The self-contained system finally prevailed in ballistic missile applications for obvious reasons.
+Both types of accelerometers have been manufactured as integrated micro-machinery on silicon chips.
+Other terms used to refer to inertial navigation systems or closely related devices include '''inertial guidance system''', '''inertial instrument''', inertial measurement units (IMU) and many other variations.
+The Q system was classified information through the 1960s.
+By measuring the difference in capacitance between the two tines of a fork, the system can determine the rate of angular motion.
+of General Motors Corp. were awarded the joint contract for design and production of the Apollo Guidance and Navigation systems for the Command Module and the Lunar Module.
+The cutting generates an electric current in the external strip-shaped coils, and electronics can measure that current to derive angles.
+Within a manned system, there is a human interface needed for the guidance system.
+f is specific force,  is angular rate, a is acceleration, R is position,  and V are velocity,  is the angular velocity of the earth, g is the acceleration due to gravity,  and h are the NED location parameters.
+Cheap systems sometimes use bar codes to sense orientations, and use solar cells or a single transformer to power the platform.
+For example, Honeywell's ''Align in Motion'' is an initialization process where the initialization occurs while the aircraft is moving, in the air or on the ground.
+The USAF C-141 was the first military aircraft to utilize the Carousel in a dual system configuration, followed by the C-5A which utilized the triple INS configuration, similar to the 747.
+Other key figures at Convair were Charlie Bossart, the Chief Engineer, and Walter Schweidetzky, head of the guidance group.
+Attitude and heading reference system.
+Sensors based on magnetohydrodynamic principles can be used to measure angular velocities.
+This motion has to be resisted by electrostatic forces from the electrodes under the tines.
+The GN&C (Guidance, Navigation, and Control) system for V2 provided many innovations as an integrated platform with closed loop guidance.
+Whenever a magnetic field changes shape, or moves, it will cut the wires of the coils on the external transformer strips.
+However it is still relatively expensive due to the cost of the precision ground and polished hollow quartz hemispheres.
+of the earth must incorporate Schuler tuning so that its
+The Q system's revolution was to bind the challenges of missile guidance (and associated equations of motion) in the matrix Q.
+The result is that there is no change in the interference pattern, and therefore no measurement change.
+Based on this information alone, the passenger knows what direction the car is facing but not how fast or slow it is moving, or whether it is sliding sideways.
+Inertial navigation is used in a wide range of applications including the navigation of aircraft, tactical and strategic missiles, spacecraft, submarines and ships.
+Delco produced the IMUs (Inertial Measurement Units) for these systems, Kollsman Instrument Corp. produced the Optical Systems,  and the  Apollo Guidance Computer was built by Raytheon under subcontract.
+Whenever the mass deflects, the feedback loop causes an electric coil to apply an equally negative force on the mass, canceling the motion.
+The INS is initially provided with its position and velocity from another source (a human operator, a GPS satellite receiver, etc.)
+Early German World War II V2 guidance systems combined two gyroscopes and a lateral accelerometer with a simple analog computer to adjust the azimuth for the rocket in flight.
+However, strapdown systems normally update about 2000&nbsp;Hz.
+In Feb of 1961 NASA awarded MIT a contract for preliminary design study of a guidance and navigation system for Apollo.
+This system is usually integrated on a silicon chip.
+These IMUs have demonstrated extremely high reliability since their initial use in 1996.
+All inertial navigation systems suffer from '''integration drift''': small errors in the measurement of acceleration and angular velocity are integrated into progressively larger errors in velocity, which are compounded into still greater errors in position.
+Therefore, some systems use fluid bearings or a flotation chamber to mount a gyrostabilized platform.
+These products include 'tuning fork gyros'.
+Because the mass barely moves, the non-linearities of the spring and damping system are greatly reduced.
+Although many updates to the shuttle's navigation system had taken place over the last 30 years (ex.
+American rocket pioneer Robert Goddard experimented with rudimentary gyroscopic systems.
+Inertial measurement units (IMUs) typically contain three orthogonal rate-gyroscopes and three orthogonal accelerometers, measuring angular velocity and linear acceleration respectively.
+The systems entered more widespread use with the advent of spacecraft, guided missiles, and commercial airliners.
+This type of system is much less accurate than a higher-end INS, but it is adequate for the typical automobile application where GPS is the primary navigation system, and dead reckoning is only needed to fill gaps in GPS coverage when buildings or terrain block the satellite signals.
+This system allows a vehicle's roll, pitch, and yaw angles to be measured directly at the bearings of the gimbals.
+This reduces the cost, eliminates gimbal lock, removes the need for some calibrations, and increases the reliability by eliminating some of the moving parts.
+Analog computer signals were used to drive four graphite rudders in the rocket exhaust for flight control.
+Electronics outside the platform uses similar strip-shaped transformers to read the varying magnetic fields produced by the transformers wrapped around the spherical platform.
+It is used on vehicles such as ships, aircraft, submarines, guided missiles, and spacecraft.
+The MIT Instrumentation Laboratory (later to become the Charles Stark Draper Laboratory, Inc.) was chosen by the Air Force Western Development Division to provide a self-contained guidance system backup to Convair in San Diego for the new Atlas intercontinental ballistic missile   (Construction and testing were completed by Arma Division of AmBosch Arma).
+Since quartz is dimensionally stable, the system can be accurate.
+However, by tracking both the current angular velocity of the system and the current linear acceleration of the system measured relative to the moving system, it is possible to determine the linear acceleration of the system in the inertial reference frame.
+ARINC Characteristic 704 defines the IRS used in commercial air transport.
+The Apollo lunar module used a strapdown system in its backup Abort Guidance System (AGS).
+platform will continue pointing towards the center of the earth
+Northrop Grumman currently manufactures IMUs (inertial measurement units) for spacecraft that use HRGs.
+Inertial guidance is difficult without computers.
+At the end of the war Von Braun engineered the surrender of 500 of his top rocket scientists, along with plans and test vehicles, to the Americans.
+(see Apollo on-board guidance, navigation, and control system, Dave Hoag, International Space Hall of Fame Dedication Conference in Alamogordo, N.M., October 1976 ).
+So these TIMU chips for Micro-PNT have integrated 3-axis gyroscope, 3-axis accelerometer, and 3-axis magnetometer, and together with the integrated highly accurate master timing clock it simultaneous measure the motion tracked and combines that with timing from the synchronized clock, and with sensor fusion it makes a single chip that does absolute position tracking, all without external transmitters/transceivers.
+Inertial navigation is a self-contained navigation technique in which measurements provided by accelerometers and gyroscopes are used to track the position and orientation of an object relative to a known starting point, orientation and velocity.
+PEG takes into account both the Q system and the predictor-corrector attributes of the original "Delta" System (PEG Guidance).
+In space exploration, a mixture of the two remains.
+The system must also be damped to avoid oscillation.
+Derivations of this guidance are used for today's missiles.
+The mathematics of this approach were fundamentally valid, but dropped because of the challenges in accurate inertial guidance and analog computing power.
+An inertial navigation system includes at least a computer and a platform or module containing accelerometers, gyroscopes, or other motion-sensing devices.
+Schweidetzky had worked with Wernher von Braun at Peenemuende during World War II.
+By processing signals from these devices it is possible to track the position and orientation of a device.
+accompanied with the initial orientation, and thereafter computes its own updated position and velocity by integrating information received from the motion sensors.
+Because the navigation error is mainly influenced by the numerical integration of angular rates and accelerations, the Pressure Reference System was developed to use one numerical integration of the angular rate measurements.
+It avoids the need for gyroscope batteries on aircraft.
+One of the most common alternative sensors is a satellite navigation radio, such as GPS which can be used for all kinds of vehicles with direct sky visibility.
+Micro-PNT adds a highly accurate master timing clock integrated into an IMU (Inertial Measurement Unit) chip, making it a "TIMU" ("Timing & Inertial Measurement Unit") chip.
+the Honeywell LaseRefV inertial navigation systems uses GPS and Air data computer outputs to maintain Required navigation performance.
+In our example, if the blindfolded passenger knew how the car was pointed and what its velocity was before he was blindfolded, and if they are able to keep track of both how the car has turned and how it has accelerated and decelerated since, they can accurately know the current orientation, position, and velocity of the car at any time.
+The Q-system was presented at the first Technical Symposium on Ballistic Missiles held at the Ramo-Wooldridge Corporation in Los Angeles on June 21 and 22, 1956.
+The primary guidance system of the Apollo spacecraft used a three-axis gyrostabilized platform, feeding data to the Apollo Guidance Computer.
+Inertial navigation systems were originally developed for rockets.
+The technical monitor for the MIT task was a young engineer named Jim Fletcher who later served as the NASA Administrator.
+These gyros can operate in either a whole angle mode (which gives them nearly unlimited rate capability) or a force rebalance mode that holds the standing wave in a fixed orientation with respect to the gyro housing (which gives them much better accuracy).
+The challenges faced by the Delta efforts were overcome by the Q system (see Q-guidance) of guidance.
+They arrived at Fort Bliss, Texas in 1945 under the provisions of Operation Paperclip and were subsequently moved to Huntsville, Alabama, in 1950  where they worked for U.S. Army rocket research programs.
+Here, the gyro is designed as an electronically driven tuning fork, often fabricated out of a single piece of quartz or silicon.
+First, for each of the six degrees of freedom (x,y,z and θx, θy and θz), it integrates over time the sensed  acceleration, together with an estimate of gravity, to calculate the current velocity.
+This is known as a ''lock-in'', or ''laser-lock''.
+However, digital computers are now so inexpensive and fast that rate gyro systems can now be practically used and mass-produced.
+The Carousel system and derivatives thereof were subsequently adopted for use in many other commercial and military aircraft.
+A closed-loop accelerometer achieves higher performance by using a feedback loop to cancel the deflection, thus keeping the mass nearly stationary.
+In practice, at low rotation rates the output frequency can drop to zero after the result of backscattering causing the beams to synchronise and lock together.
+MIT and the Delco Electronics Div.
+They let the platform twist about any rotational axis (or, rather, they let the platform keep the same orientation while the vehicle rotates around it).
+Indoor applications can use pedometers, distance measurement equipment, or other kinds of Position sensors.
+Maneuvers had to be carefully planned to avoid gimbal lock.
+The phase-shift between the two beams can be measured by an interferometer, and is proportional to the rate of rotation (Sagnac effect).
+In the early 1950s, the US government wanted to insulate itself against over dependency on the German team for military applications, including the development of a fully domestic missile guidance program.
+Strapdown systems are nowadays commonly used in commercial and tactical applications (aircraft, ships, ROV's missiles, etc.)

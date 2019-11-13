@@ -1,0 +1,200 @@
+In a hydrogen maser clock the gas emits microwaves (the gas ''mases'') on a hyperfine transition, the field in the cavity oscillates, and the cavity is tuned for maximum microwave amplitude.
+The length of the beam has the same practical limits on vacuum chamber size as a beam clock, but the laser-cooled atoms travel so much slower that the observation time increases about 100-fold (from roughly 10&nbsp;ms to 1&nbsp;s) and hence a much higher Q value is achieved in the Ramsey fringes.
+The lifetime of a standard is an important practical issue.
+In 2016, NASA plans to deploy the Deep Space Atomic Clock (DSAC), a miniaturized, ultra-precise mercury-ion atomic clock, into outer space.
+The adjustment tries to correct for unwanted side-effects, such as frequencies from other electron transitions, temperature changes, and the spreading in frequencies caused by ensemble effects.
+However, a published scientific criticism of that NIST F-2 accuracy evaluation described problems in its treatment of distributed cavity phase shifts and the microwave lensing frequency shift, which is treated significantly differently than in the majority of accurate fountain clock evaluations.
+'s strontium optical atomic clock is based on neutral atoms.
+Most research focuses on the often conflicting goals of making the clocks smaller, cheaper, more portable, more energy efficient, more accurate, more stable and more reliable.
+New technologies, such as femtosecond frequency combs, optical lattices, and quantum information, have enabled prototypes of next-generation atomic clocks.
+The DSAC is considered much more stable than other current navigational clocks.
+Rubidium standard clocks are prized for their low cost, small size (commercial standards are as small as 17&nbsp;cm3) and short-term stability.
+These were the most accurate clocks that had been constructed, with neither clock gaining nor losing time at a rate that would exceed a second in over a billion years.
+Caesium reference tubes suitable for national standards currently last about seven years and cost about US$35,000.
+Considered the world's most precise clock in 2010 with a fractional frequency inaccuracy of , it offers more than twice the precision of the original.
+Wall-shift can be reduced by wall coating and compensation by buffer gas.
+For the second type the number of atoms which change electronic state is detected and the cavity is tuned for a maximum of detected state changes.
+By tradition, the hardware that is used to probe the atoms is called the physics package.
+The list contains the frequency values and the respective standard uncertainties for the rubidium microwave transition and for several optical transitions.
+For example, the frequency of atomic clocks is altered slightly by gravity, magnetic fields, electrical fields, force, motion, temperature and other phenomena.
+*Convenient counting of optical frequencies using optical combs.
+The absorption peak steers the fly-wheel oscillator.
+The accuracy of experimental quantum clocks has since been superseded by experimental optical lattice clocks based on strontium-87 and ytterbium-171.
+The first factor is temperature of the sample atoms—colder atoms move much more slowly, allowing longer probe times.
+working frequencyin Hz
+The RF field and the C-field coil will flip the state of the atoms, with a probability depending on how close the microwave frequency is to the atomic transition frequency.
+The fountain standard is a development from the beam standard where the beam is folded back to itself by the Earth's gravity, such that the first and second RF fields are applied during the atoms' upward and downward trips through the same RF cavity, essentially removing phase errors between the two cavities.
+Shining a blue laser onto ultracold strontium atoms in an optical trap tests how efficiently a previous burst of light from a red laser has boosted the atoms to an excited state.
+The GPST is related to but differs from TAI (International Atomic Time) and UTC (Coordinated Universal Time).
+They are used in many commercial, portable and aerospace applications.
+As of July 2015, GPST is 17 seconds ahead of UTC because of the leap second added to UTC on 30 June 2015.
+The GPS navigation message includes the difference between GPST and UTC.
+Equality of the ET second with the (atomic clock) SI second has been verified to within 1 part in 1010.
+*So-called high-finesse Fabry–Pérot cavities for narrow laser line widths
+21st century experimental atomic clocks that provide non-caesium-based secondary representations of the second are becoming so precise that they are likely to be used as extremely sensitive detectors for other things besides measuring frequency and time.
+The SI second thus inherits the effect of decisions by the original designers of the ephemeris time scale, determining the length of the ET second.
+relative Allan deviationtypical clocks
+It was less accurate than existing quartz clocks, but served to demonstrate the concept.
+A typical rubidium gas-cell uses a rubidium (87Rb) lamp heated to 108-110 degrees Celsius, and an RF field to excite it to produce light, where the D1 and D2 lines are the significant wavelengths.
+Often, one standard is used to fix another.
+The first in-house accuracy evaluation of NIST-F2 reported a ''u''''B'' of .
+In 2013 optical lattice clocks (OLCs) were shown to be as good as or better than caesium fountain clocks.
+These clocks are based on optical rather than microwave transitions.
+In the future this might lead to redefine the caesium microwave based SI second and other new dissemination techniques to transfer clock signals will be required that can be used in both shorter-range and longer-range (frequency) comparisons between  attosecond (sub- s) accurate clocks without significantly compromising their performance.
+The wall-shift is mitigated by using PTFE coating (or other suitable coating) to reduce the effect.
+This cycled cooling dramatically lowers the background radiation and thus reduces some of the very small measurement errors that must be corrected in NIST-F1.
+The inherent pulling effects make repeatability troublesome and prohibit its use as a primary standard, but it makes an excellent secondary standard.
+UTC is derived from TAI, but approximately synchronised, by using leap seconds, to UT1, which is based on actual rotation of the Earth with respect to the solar time.
+The atoms of choice are heated in an oven to create gas, which is collimated into a beam.
+This bulky and expensive instrument was subsequently replaced by much smaller rack-mountable devices, such as the Hewlett-Packard model 5060 caesium frequency standard, released in 1964.
+As in the radio range, absorption spectroscopy is used to stabilize an oscillator—in this case a laser.
+199Hg+ was an early candidate.
+The slow speed of the atoms also reduces black body temperature shifts.
+Early atomic clocks were based on masers at room temperature.
+After the second state selector, a mass-spectrometer using an ionizer detects the rate of atoms being received.
+Two optical lattice clocks containing about  of strontium-87 were able to stay in synchrony with each other at a precision of at least , which is as accurate as the experiment could measure.
+For both types the atoms in the gas are prepared in one electronic state prior to filling them into the cavity.
+The Galileo navigation message includes the differences between GST, UTC and GPST (to promote interoperability).
+The buffer gas shift comes from the reference atoms which bounce into buffer gas atoms such as neon and argon; these shifts can be both positive and negative.
+The next NIST-F2 submission to the BIPM in March, 2015 again reported a ''u''''B'' of , but did not address the standing criticism.
+(The line width is reduced from about 50&nbsp;Hz to about 1&nbsp;Hz.)
+The cavity pulling effect can be reduced by automatic cavity tuning.
+The accuracy of an atomic clock depends on two factors.
+The wall-shift occurs as the gas bumps into the wall of the glass container.
+There are two reasons for the possibly better precision.
+The experimental clocks tend to continue improving, and leadership in performance has been shifted back and forth between various types of experimental clocks.
+This beam, consisting of a mixture of atoms in two states, passes through a state-selector magnet A, where atoms of the wrong state are separated out from the beam.
+This technology became available commercially in 2011.
+According to the researchers, the clock was believed to be one-hundredth the size of any other.
+In June 2015 the European National Physical Laboratory (NPL) in Teddington, UK; the French department of Time-Space Reference Systems at the Paris Observatory; the German German National Metrology Institute (PTB) in Braunschweig; and Italy’s Istituto Nazionale di Ricerca Metrologica (INRiM) in Turin labs have started tests to improve the accuracy of current state-of-the-art satellite comparisons by a factor 10, but it will still be limited to one part in .
+The long-term stability of hydrogen maser standards decreases because of changes in the cavity's properties over time.
+Calibration of the caesium standard atomic clock was carried out by the use of the astronomical time scale ''ephemeris time'' (ET).
+These clocks have been shown to keep pace with all three of the caesium fountain clocks at the Paris Observatory.
+Magnetic resonance, developed in the 1930s by Isidor Rabi, became the practical method for doing this.
+Before the demonstration of the frequency comb in 2000, terahertz techniques were needed to bridge the gap between radio and optical frequencies, and the systems for doing so were cumbersome and complicated.
+Since the beginning of development in the 1950s, atomic clocks have been based on the hyperfine transitions in hydrogen-1, caesium-133, and rubidium-87.
+The atomic gas cell standard builds on a confined reference isotope (often an alkali metal such as Rubidium (87Rb)) inside an RF cavity.
+Quantum logic spectroscopy of a single Al ion became the most precise in 2008.
+In 2015 JILA evaluated the absolute frequency uncertainty of their latest strontium-87 optical lattice clock at , which corresponds to a measurable gravitational time dilation for an elevation change of  on planet Earth that according to JILA/NIST Fellow Jun Ye is "getting really close to being useful for relativistic geodesy".
+At this frequency uncertainty, the NPL-CsF2 is expected to neither gain nor lose a second in about 138 million () years.
+The beam then passes through a space containing a static homogenous magnetic field before it is again exposed to the RF field.
+The oscillator is arranged so that its frequency-determining components include an element that can be controlled by a feedback signal.
+It is used as a low-noise flywheel standard for caesium beam standards.
+This way, the number of atoms which survive magnet B is related to the microwaves' ability to match the atomic transition frequency.
+Optical clocks are currently (2015) still primarily research projects, less mature than rubidium and caesium microwave standards, which regularly deliver time to the International Bureau of Weights and Measures (BIPM) for establishing International Atomic Time.
+The idea of using atomic transitions to measure time was suggested by Lord Kelvin in 1879.
+Using ytterbium-171 atoms, a new record for stability with a precision of  over a 7-hour period was published on 22 August 2013.
+The rubidium gas standards have seen use in telecommunications systems and portable instruments.
+This problem has been solved with the development of self-referenced mode-locked lasers, commonly referred to as femtosecond frequency combs.
+The NIST-F2 caesium fountain clock operated by the National Institute of Standards and Technology (NIST), was officially launched in April 2014, to serve as a new U.S. civilian frequency and time standard, along with the NIST-F1 standard.
+Higher frequencies and narrow lines increase the precision.
+For civil time, another time scale is disseminated, Coordinated Universal Time (UTC).
+The cavity shift comes from the RF cavity, which can deform the resonance amplitude response; this depends upon cavity centre frequency and resonator Q-value.
+A number of methods exist for utilizing hyperfine atomic transitions.
+The two primary systems under consideration for use in optical frequency standards are:
+In March 2008, physicists at NIST described a quantum logic clock based on individual ions of beryllium and aluminium.
+One way of doing this is to sweep the microwave oscillator's frequency across a narrow range to generate a modulated signal at the detector.
+Atomic clocks are used in many scientific disciplines, such as for long-baseline interferometry in radioastronomy.
+Atomic systems under consideration include Al+, Hg+/2+, Hg, Sr, Sr+/2+, In+/3+, Mg, Ca, Ca+, Yb+/2+/3+ and Yb.
+For example, some commercial applications use a rubidium standard periodically corrected by a global positioning system receiver (see GPS disciplined oscillator).
+Most of the complexity of the clock lies in this adjustment process.
+In this way, the quantum-mechanical properties of the atomic transition frequency of the caesium can be used to tune the microwave oscillator to the same frequency, except for a small amount of experimental error.
+Among the significant frequency pulling mechanisms inherent to the gas cell are wall-shift, buffer-gas shift, cavity-shift and light-shift.
+In addition the magnetic field pulls the frequency.
+Receivers subtract this offset from GPS Time to calculate UTC and specific timezone values.
+This clock was compared to NIST's mercury ion clock.
+Ion traps have been used for numerous ions.
+In 2011 this resulted in an evaluated frequency uncertainty reduction from ''u''''B'' =  to ''u''''B'' = ;— the lowest value for any primary national standard at the time.
+Light-shift is an effect where frequency is pulled differently depending on the light intensity, which often is modulated by the temperature shift of the rubidium lamp and filter cell.
+GPST remains at a constant offset with TAI (TAI – GPST = 19 seconds) and like TAI does not implement leap seconds.
+At this frequency uncertainty, this JILA optical lattice optical clock is expected to neither gain nor lose a second in more than 15 billion () years.
+For context, a femtosecond () is to a second what a second is to about 31.71 million () years and an attosecond () is to a second what a second is to about 31.71 billion () years.
+Caesium fountains have been implemented in many laboratories, but rubidium has even greater ability to provide stability in the fountain configuration.
+A radio clock is a clock that automatically synchronizes itself by means of government radio time signals received by a radio receiver.
+The power consumption of atomic clocks varies with their size.
+In February 2010, NIST physicists described a second, enhanced version of the quantum logic clock based on individual ions of magnesium and aluminium.
+The relative times are mathematically transformed into three absolute spatial coordinates and one absolute time coordinate.
+The clocks rely on  atoms cooled to  and trapped in an optical lattice.
+When a clock is first turned on, it takes a while for the oscillator to stabilize.
+Although the long-term stability of the active maser is not as good as that of a caesium beam, it remains one of the most stable sources available.
+*Precision laser spectroscopy
+The detector's signal can then be demodulated to apply feedback to control long-term drift in the radio frequency.
+The development of atomic clocks has led to many scientific and technological advances such as a worldwide system of precise position measurement (the Global Positioning System and GLObal NAvigation Satellite System), and applications in the Internet, which depend critically on frequency and time standards.
+The second factor is the frequency and intrinsic width of the electronic transition.
+"A particular transition in Yb atoms, at a wavelength of 578 nm, currently provides one of the world's most accurate optical atomic frequency standards," said Marianna Safronova.
+The actual time-reference of an atomic clock consists of an electronic oscillator operating at microwave frequency.
+An improved optical lattice clock was described in a 2014 Nature paper.
+This led to the internationally agreed definition of the latest SI second being based on atomic time.
+The NIST-F2 key advance compared to the NIST-F1 is that the vertical flight tube is now chilled inside a container of liquid nitrogen, at .
+* single ions isolated in an ion trap and
+The atoms are excited to a common state using optical pumping; when the applied RF field is swept over the hyperfine spectrum, the gas will absorb the pumping light, and a photodetector provides the response.
+An example of this is the NIST-F1 atomic clock, one of the national primary time and frequency standards of the United States.
+These methods, with their respective benefits and drawbacks, have influenced the development of commercial devices and laboratory standards.
+*Laser cooling and trapping of atoms
+The rare-earth element ytterbium (Yb) is valued not so much for its mechanical properties but for its complement of internal energy levels.
+Atomic clocks are installed at sites of time signal radio transmitters.
+* neutral atoms trapped in an optical lattice.
+The first commercial atomic clock was the Atomichron, manufactured by the National Company.
+This achieves excellent short-term accuracy, with long-term accuracy equal to (and traceable to) the U.S. national time standards.
+Atomic clocks on the scale of one chip require less than 30 milliwatt; Primary frequency and time standards like the United States Time Standard atomic clocks, NIST-F1 and NIST-F2, use far greater quantities of power.
+The atomic beam standard is a direct extension of the Stern-Gerlach atomic splitting experiment.
+The theoretical move from microwaves as the atomic "escapement" for clocks to light in the optical range (harder to measure but offering better performance) earned John L. Hall and Theodor W. Hänsch the Nobel Prize in Physics in 2005.
+An 85Rb cell filters out the a component of the D1 and D2 line so that only the b component pumps the 87Rb gas cell in the RF cavity.
+In practice, the feedback and monitoring mechanism is much more complex.
+Alternatively, in a caesium or rubidium clock, the beam or gas absorbs microwaves and the cavity contains an electronic amplifier to make it oscillate.
+These two techniques allow the atoms or ions to be highly isolated from external perturbations, thus producing an extremely stable frequency reference.
+They are used at some long wave and medium wave broadcasting stations to deliver a very precise carrier frequency.
+Having established the stability of the clocks, the researchers are studying external influences and evaluating the remaining systematic uncertainties, in the hope that they can bring the clock's accuracy down to the level of its stability.
+A number of other atomic clock schemes are in use for other purposes.
+This is why an atomic beam can be used as a primary standard.
+The remaining beam is exposed to an RF field at or near the transition frequency.
+They are inexpensive time-keeping devices with an accuracy of about a second.
+A GPS receiver works by measuring the relative time delay of signals from a minimum of four, but usually more, GPS satellites, each of which has at least two onboard caesium and as many as two rubidium atomic clocks.
+"At this planned performance level the NIST-F2 clock will not lose a second in at least 300 million years."
+There have been neither subsequent reports to the BIPM from NIST-F2 nor has an updated accuracy evaluation been published.
+Firstly, the frequency is measured using light, which has a much higher frequency than microwaves, and secondly, by using many atoms, any errors are averaged.
+Periodic corrections are performed to the on-board clocks in the satellites to keep them synchronized with ground clocks.
+These 4 European labs are developing and host a variety of experimental optical clocks that harness different elements in different experimental set-ups and want to compare their optical clocks against each other and check whether they agree.
+Hydrogen masers (often manufactured in Russia) have superior short-term stability compared to other standards, but lower long-term accuracy.
+GPS Time (GPST) is a continuous time scale and theoretically accurate to about 14 ns.
+At this stability, the two independently from each other working optical lattice clocks the NIST research team used would differ less than a second over the age of the universe  (); this was  better than previous experiments.
+The feedback signal keeps the oscillator tuned in resonance with the frequency of the electronic transition of caesium or rubidium.
+National standards agencies in many countries maintain a network of atomic clocks which are intercompared and kept synchronized to an accuracy of 10−9 seconds per day (approximately 1 part in 1014).
+One of 2012's Physics Nobelists, David J. Wineland, is a pioneer in exploiting the properties of single ion held in a trap to develop clocks of the highest stability.
+429 228 004 229 873
+GLONASS Time (GLONASST) is generated by the GLONASS Central Synchroniser and is typically better than 1,000 ns.
+Some of these labs have already established fibre-optic links, and tests have begun on sections between Paris and Teddington, and Paris and Braunschweig.
+Modern rubidium standard tubes last more than ten years, and can cost as little as US$50.
+In a next phase these labs strive to transmit comparison signals in the visible spectrum through fibre-optic cables.
+The Global Positioning System (GPS) provides very accurate timing and frequency signals.
+However, most receivers lose accuracy in the interpretation of the signals and are only accurate to 100 ns.
+Only those atoms that remain in the lower energy state respond to the blue laser, causing the fluorescence seen here.
+The first atomic clock was an ammonia maser device built in 1949 at the U.S. National Bureau of Standards (NBS, now NIST).
+Many governments operate transmitters for time-keeping purposes.
+After the second RF field exposure the atomic beam passes through a second state selector magnet B, where the atoms that did not change state (are still in the state selected by magnet A) are discarded.
+In the late 1990s four factors contributed to major advances in clocks:
+The GLObal NAvigation Satellite System (GLONASS) provides an alternative to the Global Positioning System (GPS) system and is the second navigational system in operation with global coverage and of comparable precision.
+The most common isotope for beam devices is caesium (133Cs), but rubidium (87Rb) and thallium (205Tl) are examples of others used in early research.
+In 2010 an improved setup using a Mg+ logic ion instead of Be was demonstrated
+Modern variants of this beam mechanism use optical pumping to transition all atoms to the same state rather than dumping half the atoms.
+With the refinement of the frequency comb, these measurements have become much more accessible and numerous optical clock systems are now being developed around the world.
+As the optical standards (the best experimental optical clocks have already achieved better stability and absolute frequency uncertainties below ) move beyond their microwave counterparts in terms of performance this puts them in a position to replace the current standard for time, the caesium fountain clock.
+A list of frequencies recommended for secondary representations of the second is maintained by the International Bureau of Weights and Measures (BIPM) since 2006 and is  available online.
+A laser at  excites the atoms between two of their energy levels.
+The active maser is sensitive to wall-shift and cavity pulling.
+Modern clocks use magneto-optical traps to cool the atoms for improved precision.
+According to Fritz Riehle, a physicist at PTB "Europe is in a unique position as it has a high density of the best clocks in the world".
+The principle of operation of an atomic clock is not based on nuclear physics, but rather on atomic physics; it uses the microwave signal that electrons in atoms emit when they change energy levels.
+Galileo System Time (GST) is a continuous time scale which is generated on the ground at the Galileo Control Centre in Fucino, Italy, by the Precise Timing Facility, based on averages of different atomic clocks and maintained by the Galileo Central Segment and synchronised with TAI with a nominal offset below 50 ns.
+Optical detection using scintillation can also be used.
+The frequency errors can be made very small for a beam device, or predicted (such as the magnetic field pull of the C-coil) in such a way that a high degree of repeatability and stability can be achieved.
+Instrument grade time receivers provide higher accuracy.
+The estimated amount of uncertainty achieved corresponds to a Yb clock uncertainty of about one second over the lifetime of the universe so far, 15 billion years, according to scientists at the Joint Quantum Institute (JQI) and the University of Delaware in December 2012.
+This will allow their experimental optical clocks to be compared with an accuracy similar to the expected accuracies of the optical clocks themselves.
+More than 50 were sold between 1956 and 1960.
+Such devices incur a transit delay of approximately 1 ms for every 300 kilometres (186&nbsp;mi) of distance from the radio transmitter.
+In 1945, Rabi first publicly suggested that atomic beam magnetic resonance might be used as the basis of a clock.
+A major obstacle to developing an optical clock is the difficulty of directly measuring optical frequencies.
+Many retailers market radio clocks inaccurately as atomic clocks; although the radio signals they receive originate from atomic clocks, they are not atomic clocks themselves.
+When the optical frequency is divided down into a countable radio frequency using a femtosecond comb, the bandwidth of the phase noise is also divided by that factor.
+Although the bandwidth of laser phase noise is generally greater than stable microwave sources, after division it is less.

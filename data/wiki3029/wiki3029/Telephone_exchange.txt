@@ -1,0 +1,200 @@
+Every task in electromechanical switches was done in big metallic pieces of hardware.
+A variety of tools referred to as ''make-busy''s were plugged into electromechanical switch elements upon failure and during repairs.
+In other words, when someone uses a telephone, the speaker's voice is "encoded" then reconstructed for the person on the other end.
+Using this type of service, the subscriber turned a crank to generate ringing current to gain the operator's attention.
+Concentrators are used because most telephones are idle most of the day, hence the traffic from hundreds or thousands of them may be concentrated into only tens or hundreds of shared connections.
+Some signalling communicated dialed digits.
+The first prototype digital switch was developed by Bell Labs as part of the ESSEX project while the first true digital exchange to be combined with digital transmission systems was designed by LCT (Laboratoire Central de Telecommunications) in Paris.
+Digital switches encode the speech going on, in 8,000 time slices per second.
+Telephone switches are a small component of a large network.
+The structure of a switch is an odd number of layers of smaller, simpler subswitches.
+Unlike modern switches, a circuit connecting a dialed call through an electromechanical switch had DC continuity within the local exchange area via metallic conductors.
+The interface between remote concentrators and telephone switches has been standardised by ETSI as the V5 protocol.
+This was a tandem switch that connected three Strowger exchanges in the London area.
+On rural lines that were not connected to a central office (thus not connected to the outside world), subscribers would crank the correct sequence of rings to reach their party.
+Examples of these systems included the Western Electric 1ESS switch, Northern Telecom SP1, Ericsson AKE, Philips PRX/A, ITT Metaconta, British GPO/BT TXE series and several other designs were similar.
+This widely used family of digital switches was one of the earliest TDM switches to be widely used in public networks.
+This highly modular system was developed in Sweden in the 1970s as a replacement for the very popular range of Ericsson crossbar switches ARF, ARM, ARK and ARE used by many European networks from the 1950s onwards.
+The policy of the Bell System stated that customers in large cities should not need to be concerned about whether they were calling a manual or automated office.
+Conductors in one common circuit configuration were named tip, ring, ear (E) and mouth (M).
+Each operator sat in front of a vertical panel containing banks of ¼-inch tip-ring-sleeve (3-conductor) jacks, each of which was the local termination of a subscriber's telephone line.
+These facilities almost always had concrete floors.
+For example, a digit receiver (part of an element called an ''Originating Register'') would be connected to a call just long enough to collect the subscriber's dialed digits.
+This system is used in France, Ireland, China, and many other countries.
+The central exchange, due to the system's design, is almost always a single point of failure for local calls.
+is a common carrier switching center Class 5 telephone switch in which trunks and local loops are terminated and switched.
+Exchanges based on the Strowger switch were eventually challenged by other exchange types and later by crossbar technology.
+In rural areas some smaller switching facilities, such as community dial offices (CDOs), were housed in prefabricated metal buildings.
+Often, a ''central office'' is defined as a building used to house the inside plant equipment of potentially several telephone exchanges, each serving a certain geographical area.
+To do this, it exchanges data between the time slots and connections 8,000 times per second, under control of digital logic that cycles through electronic lists of the current connections.
+These complex machines (or a series of them) in a central exchange building are referred to as "carrier-level" switches or tandem switches.
+The switchboard would respond by interrupting the circuit, which dropped a metal tab above the subscriber's line jack and sounded a buzzer.
+The control logic has to allocate these connections, and most switches do so in a way that is fault tolerant.
+In Europe other early telephone exchanges were based in London and Manchester, both of which opened under Bell patents in 1879.
+In May 1988, a central office fire in the Chicago suburb of Hinsdale, Illinois knocked out 35,000 local subscribers, broke the link between the FAA and air traffic control at Chicago O'Hare International Airport (then the world's busiest) and disrupted the Midwest's ability to communicate with the rest of the country.
+Later crossbar systems had punch-card-based trouble reporting systems.
+It is also very popular in mobile applications.
+George W. Coy designed and built the first commercial US telephone exchange which opened in New Haven, Connecticut in January, 1878.
+The facility was unattended and monitored remotely by an Illinois Bell technician in Springfield; it took an hour to notify firefighters of the blaze as the distant technician's attempts to call the fire department in Hinsdale did not get through.
+In a manually operated switchboard, this current flowed through a relay coil, and actuated a buzzer or a lamp on the operator's switchboard, signaling the operator to perform service.
+At each time slice, a digital PCM representation of the tone is made.
+Strowger-based, step-by-step offices in the Bell System required continuous maintenance, such as cleaning.
+Central office locations may also be identified in North America as ''wire centers'', designating a facility from which a telephone obtains dial tone.
+Some systems had a continual, rhythmic "clack-clack-clack" from wire spring relays that made reorder (120 ipm) and busy (60 ipm) signals.
+It has been through many revisions and current versions are even integrated into All IP networks.
+All central offices within a larger region, typically aggregated by state, were assigned a common numbering plan area code.
+Pair gain or digital loop carriers (DLCs) are located outside the central office, usually in a large neighborhood distant from the CO. DLCs are often referred to as Subscriber Loop Carriers (SLCs), after a Lucent proprietary product.
+Sometimes, the transport is handled by separate equipment.
+This made it possible for subscribers to call each other at homes, businesses, or public spaces.
+Equipment testing, phone numbers reassignments, circuit lockouts and similar tasks were accomplished by data entry on a terminal.
+This office connects many circuits to Brooklyn which were disrupted.
+For example, one switch might send only the last four or five digits of a telephone number.
+They also introduced a new form of data communications: two 1ESS exchanges could communicate with one another using a data link called Common Channel Interoffice Signaling, (CCIS).
+Before ANI, long distance calls were placed into an operator queue and the operator asked the calling party's number and recorded it on a paper toll ticket.
+Crossbar offices used more shared, common control circuits.
+In one case, seven digit numbers were preceded by a digit 1 or 2 to differentiate between two area codes or office codes, (a two-digit-per-call savings).
+The operator would be disconnected from the circuit, allowing her to handle another call, while the caller heard an audible ringback signal, so that that operator would not have to periodically report that she was continuing to ring the line.
+To prevent frustration with unsensed failures, all the connections between layers in the switch are allocated using first-in-first-out lists (queues).
+In historical perspective, telecommunication terms have been used with different semantics over time.
+In 1887 Puskás introduced the multiplex switchboard.
+''Central office'' originally referred to switching equipment and its operators, it is also used generally for the building that houses switching and related inside plant equipment.
+A space-division subswitch switches electrical paths, often using some variant of a nonblocking minimal spanning switch, or a crossover switch.
+This chain of intermediate operators could complete the call only if intermediate trunk lines were available between all the centers at the same time.
+These voltage changes on the trunk circuit would cause pops or clicks that were audible to the subscriber as the electrical handshaking stepped through its protocol.
+On February 27, 1975 a fire at New York Telephone's building at 204 Second Avenue (at East 13th Street) in Manhattan destroyed the main distribution frame and damaged much of the underground cabling, disconnecting 170,000 subscribers.
+Some telephone exchange buildings in small towns now house only ''remote'' or ''satellite'' switches, and are homed upon a "parent" switch, usually several kilometres away.
+With '''manual service''', the customer lifts the receiver off-hook and asks the operator to connect the call to a requested number.
+The smallest towns with manual service often had magneto telephones, which had an external crank for the internal signaling generator.
+Local versions were called ARE11 while tandem versions were known as ARE13.
+The remote switch is dependent on the parent switch for routing and number plan information.
+Prominent examples of digital switches include:
+2L-5N format (two-letter exchange name and five digits), it was possible to dial a number on a manual exchange and be connected without requesting operator assistance.
+For a long distance call, she plugged into a trunk circuit to connect to another operator in another bank of boards or at a remote central office.
+A transitional technology (from pulse to DTMF) had converters to convert DTMF to pulse, to feed to older Strowger, panel, or crossbar switches.
+Early systems used reed relay-switched metallic paths under digital control.
+When a subscriber's phone is off-hook, it presents an electrical resistance across the line which causes current to flow through the telephone and wires to the central office.
+:Finally, when Alcatel and Lucent merged, the company acquired Lucent's 5ESS and 4ESS systems used throughout the United States of America and in many other countries.
+The design and maintenance procedures of all systems involved methods to avoid that subscribers experienced undue changes in the quality of the service or that they noticed failures.
+These may have superseded TDM and SS7 based technologies in some networks.
+A PBX is installed in enterprise facilities, typically collocated with large office spaces or within an organizational campus to serve the local private telephone system and any private leased line circuits.
+The exchange provides dial tone at that time to indicate to the user that the exchange is ready to receive dialed digits.
+DLCs can be configured as universal (UDLCs) or integrated (IDLCs).
+A component of the MDF is protection: fuses or other devices that protect the switch from lightning, shorts with electric power lines, or other foreign voltages.
+Multiple fibre connections can be used to provide redundancy to voice and data connections between switching centres, but careful network design is required to avoid situations where a main fibre and its backup both go through the same damaged central office as a potential common mode failure.
+In 1943 when military calls had priority, a cross-country US call might take as long as 2 hours to request and schedule in cities that used manual switchboards for toll calls.
+To reduce the expense of outside plant, some companies use "pair gain" devices to provide telephone service to subscribers.
+Some types of automatic exchanges were the Strowger switch or step-by-step switch, All Relay, X-Y, panel switch and the crossbar switch.
+DTMF was not used for trunk signaling.
+In 1991, all twenty-eight exchanges serving Kuwait were out of service in the wake of a 1990 invasion by Iraq; equipment had been looted and central offices destroyed.
+In an ''Integrated DLC'', the COT is eliminated.
+The Bell System dial service implemented a feature called automatic number identification (ANI) which facilitated services like automated billing, toll-free 800-numbers, and 9-1-1 service.
+With the development of international and transoceanic telephone trunks, especially driven by direct customer dialing, similar efforts of systematic organization of the telephone networks occurred in many countries in the mid-20th century.
+(See below for more info.)
+The exchange maintains the connection until one of the parties hangs up.
+These trouble reporting systems punctured cardboard cards with a code that logged the nature of a failure.
+A typical central office may have tens of thousands of pairs of wires that appear on terminal blocks called the main distribution frame (MDF).
+In a typical telephone company, a large database tracks information about each subscriber pair and the status of each jumper.
+Smaller installations might deploy a PBX or key telephone system in the office of a receptionist.
+By careful design, the appropriated bits did not change voice quality appreciably.
+In the ringdown method, the originating operator called another intermediate operator who would call the called subscriber, or passed it on to another intermediate operator.
+This data link was based on CCITT 6, a predecessor to SS7.
+While many subscribers were served with party-lines in the middle of the 20th century, it was the goal that each subscriber telephone station was connected to an individual pair of wires from the switching system.
+See nonblocking minimal spanning switch for a discussion of the Charles Clos algorithm, used in many telephone switches, and a very important algorithm to the telephone industry.
+Some time later, a technician can replace the circuit board.
+This causes some delay in the signal.
+*Alcatel-Lucent inherited three of the world's most iconic digital switching systems : Alcatel E10, 1000-S12, and the Western Electric 5ESS.
+Later exchanges consisted of one to several hundred plug boards staffed by switchboard operators.
+A trouble reporting card system was connected to switch common control elements.
+The most common form of this used a steady 2,600&nbsp;Hz tone to identify a trunk as idle.
+When the next test succeeds, the connections to the repaired subsystem are marked "not in use", and the switch returns to full operation.
+Digit strings between switches were often abbreviated to further improve utilization.
+Dialing was preceded by a special ''keypulse'' (KP) signal and followed by a ''start'' (ST).
+Each layer is interconnected by a web of wires that goes from each subswitch, to a set of the next layer of subswitches.
+Early manual switchboards required the operator to operate listening keys and ringing keys, but by the late 1910s and 1920s, advances in switchboard technology led to features which allowed the call to be automatically answered immediately as the operator inserted the answering cord, and ringing would automatically begin as soon as the operator inserted the ringing cord into the called party’s jack.
+The layers are symmetric, because in a telephone system callers can also be callees.
+When used with a rotary telephone dial, each pair of digits caused the shaft of the central contact "hand" of the stepping switch to first step (ratchet) up one level for each pulse in the first digit and then to swing horizontally in a contact row with one small rotation for each pulse in the next digit.
+Examples of signals communicating supervision or call progress include E and M signaling, SF signaling, and robbed-bit signaling.
+Everyone on the line could hear the signals, and could pick up and monitor other people's conversations.
+The digits are then sent to the receiving end of the line, where the reverse process occurs, to produce the sound for the receiving phone.
+In Bell System trunks, it was common to use 20 pulse-per-second between crossbar switches and crossbar tandems.
+In common-battery systems, the pair of wires from a subscriber's telephone to the exchange carry 48V (nominal) DC potential from the telephone company end across the conductors.
+Crossbar architecture was more flexible than step offices.
+Switches are used in both local central offices and in long distance centers.
+The term ''telephone exchange'' is often used synonymously with ''central office'' (CO), a Bell System term.
+Early exchanges were electromechanical systems using motors, shaft drives, rotating switches and relays.
+In the UK, a ''telephone exchange'' means an exchange building, and is also the name for a telephone switch.
+The concepts of digital switching were developed by various labs in the United States and in Europe from the 1930s onwards.
+On T-carrier digital transmission systems, bits within the T-1 data stream were used to transmit supervision.
+Many small town magneto systems featured party lines, anywhere from two to ten or more subscribers sharing a single line.
+In the largest cities, it took many years to convert every office to automatic equipment, such as a panel switch.
+Electromechanical switching systems required sources of electricity in form of direct current (DC), as well as alternating ring current (AC), which were generated on-site with mechanical generators.
+In 1918, the average time to complete the connection for a long-distance call was 15 minutes.
+Telephone switches are usually owned and operated by a telephone service provider or ''carrier'' and located in their premises, but sometimes individual businesses or private commercial buildings will house their own switch, called a PBX, or Private branch exchange.
+The office had a fire alarm but no automatic fire suppression equipment.
+When calling a party, the operator used a distinctive ringing signal sequence, such as two long rings followed by one short ring.
+This was twice the rate of Western Electric/Bell System telephone dials.
+In many cases, the concentrator is co-located in the same building as the switch.
+Bell System installations typically had alarm bells, gongs, or chimes to announce alarms calling attention to a failed switch element.
+The hard surfaces reflected sounds.
+If the called party's line is on a different switchboard in the same office, or in a different central office, the operator plugs into the trunk for the destination switchboard or office and asks the operator answering (known as the "B" operator) to connect the call.
+This was effected by plugging a tool into the subscriber's office equipment on Crossbar systems or line group in step-by-step switches.
+In front of the jack panel lay a horizontal panel containing two rows of patch cords, each pair connected to a cord circuit.
+The switchboard was built from "carriage bolts, handles from teapot lids and bustle wire" and could handle two simultaneous conversations.
+These devices are used to provide service where existing copper facilities have been exhausted or by siting in a neighborhood, can reduce the length of copper pairs, enabling digital services such as Integrated Services Digital Network (ISDN) or Digital Subscriber Line (DSL).
+These exchange designs promised faster switching and would accept pulses faster than the Strowger's typical 10 pps—typically about 20 pps.
+Every fractional second cut off of call set up time meant fewer racks of equipment to handle call traffic.
+A telephone exchange automatically senses an off-hook condition of the telephone when the user removes the handset from the switchhook or cradle.
+Indicator lights on equipment bays in step offices alerted staff to conditions such as blown fuses (usually white lamps) or a permanent signal (stuck off-hook condition, usually green indicators).
+As calls in progress end, the subswitch becomes unused, and new calls avoid the subswitch because it's already "in use."
+In manual service, the operator knows where a call is originating by the light on the switchboard jack field.
+Since the 1990s, hybrid Class 4/5 switching systems that serve both functions have become common.
+This improved revenue per trunk and reduced the number of digit receivers needed in a switch.
+Using both types of switching makes a modern switch far smaller than either a space or time switch could be by itself.
+This reduces the total amount of equipment required.
+On September 11, 2001 a terrorist attack destroyed a central office in the World Trade Center in New York City and heavily damaged an adjacent exchange.
+The first digital switch to be placed into a public network was the Empress Exchange in London, England which was designed by the General Post Office research labs.
+Some systems used tone frequencies over 3,000&nbsp;Hz, particularly on SSB frequency division multiplex microwave radio relays.
+6 cells) in the subscriber's telephone provided the DC power for the transmitter.
+The pulses or DTMF tones generated by the telephone are processed and a connection is established to the destination telephone within the same exchange or to another distant exchange.
+The operator responded by inserting the rear cord (''answering cord'') into the subscriber's jack and switched her headset into the circuit to ask, "Number, please?"
+A similar tool was called a ''TD tool.''
+Both terminals interface with analog signals, convert to digital signals, and transport to the other side where the reverse is performed.
+There were also noises from whining power inverters and whirring ringing generators.
+Another handshake, to start timing for billing purposes, caused a second set of clunks when the called party answered.
+Variations of the Bell System MF tone scheme became a CCITT standard.
+Provided that the number is in the same central office, and located on the operator's switchboard, the operator connects the call by plugging the ringing cord into the jack on the switchboard corresponding to the called customer's line.
+In modern networks, this is usually controlled using the Signalling System 7 (SS7) protocol, or one of its variants.
+By changing the state of these leads from ground to -48 volts, the switches stepped through a handshake protocol.
+The S12 system and E10 systems were merged into a single platform in the 1990s.
+The first experimental telephone exchange was based on the ideas of Puskás, and it was built by the Bell Telephone Company in Boston in 1877.
+One of the first to propose a telephone exchange was Hungarian Tivadar Puskás in 1877 while he was working for Thomas Edison.
+Similar schemes were used in the Americas and in some European countries including Spain.
+:Alcatel developed the E10 system in France during the late 1960s and 1970s.
+Additional features, such as billing equipment, may also be incorporated into the exchange.
+Later stepping switches were arranged in banks, the first stage of which was a ''linefinder''.
+The Verizon Building at 140 West Street was restored by 3500 workers at a cost of $1.2 billion, after 200,000 voice lines and three million data circuits had been knocked out of operation.
+By the 1970s, ''automatic number identification'' had been retrofitted to nearly all step-by-step and crossbar switches in the Bell System.
+If one of up to a hundred subscriber lines had the receiver lifted "off hook", a linefinder connected the subscriber's line to a free first selector, which returned the subscriber a dial tone to show that it was ready to receive dialed digits.
+This monitoring of connection status is called ''supervision.''
+Dry cell batteries (normally two large N°.
+Using the faster pulsing rate made trunk utilization more efficient because the switch spent half as long listening to digits.
+Most urban exchanges provided common-battery service, meaning that the central office provided power to the subscriber telephone circuits for operation of the transmitter, as well as for automatic signaling with rotary dials.
+*NEC NEAX used in Japan, New Zealand and many other countries.
+On March 10, 1891, Almon Brown Strowger, an undertaker in Kansas City, Missouri, patented the stepping switch, a device which led to the automation of telephone circuit switching.
+Charles Glidden is also credited with establishing an exchange in Lowell, MA.
+For business and billing purposes, telephony carriers also define ''rate centers'', which in larger cities may be clusters of central offices, to define specified geographical locations for determining distance measurements.
+These systems could use the old electromechanical signaling methods inherited from crossbar and step-by-step switches.
+Some telephone switches do not have concentrators directly connected to them, but rather are used to connect calls between other telephone switches.
+Unlike a digital loop carrier, a remote switch can route calls between local phones itself, without using trunks to the parent switch.
+*Nokia Siemens Networks EWSD originally developed by Siemens, Bosch and DeTeWe for the German market is used throughout the world.
+This allowed direct current E and M signaling, or dial pulses, to be sent between electromechanical switches over a digital carrier which did not have DC continuity.
+Instead, the RT is connected digitally to equipment in the telephone switch.
+In addition, telephone switches required adjustment of many mechanical parts.
+Trunk circuitry hearing a 2,600&nbsp;Hz tone for a certain duration would go idle.
+Composite switches are inherently fault-tolerant.
+Such magneto systems were in use in the US as late as 1983, as in the small town, Bryant Pond, Woodstock, Maine.
+A make-busy identified the part being worked on as in-use, causing the switching logic to route around it.
+(The duration requirement reduced falsing.)
+These used a crossbar switching matrix with a fully computerized control system and provided a wide range of advanced services.
+Step offices were more susceptible to single-point failures than newer technologies.
+Electronic switching systems gradually evolved in stages from electromechanical hybrids with stored program control to the fully digital systems.

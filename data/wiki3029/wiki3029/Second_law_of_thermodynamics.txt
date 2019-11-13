@@ -1,0 +1,200 @@
+For an example of the spreading of energy due to increase of accessibility, one may consider a wall impermeable to matter and energy initially separating two otherwise isolated bodies at different temperatures.
+::''It is impossible to construct an engine which will work in a complete cycle, and produce no effect except the raising of a weight and cooling of a heat reservoir.''
+This was shown to be equivalent to the statement of Clausius.
+For an actually possible infinitesimal process without exchange of matter with the surroundings, the second law requires that the increment in system entropy be greater than that:
+The second law declared the impossibility of such machines.
+The generalized force, X, corresponding to the external variable x is defined such that  is the work performed by the system if x is increased by an amount dx.
+They give out oxygen.
+It is the removal of the constraint that is effective in causing the change towards homogeneity, not some imagined or apparent "irreversibility" of the laws of spontaneous evolution.
+It does, however, forestall futile puzzling about some famous proposed "paradoxes", imagining of a "derivation" of an "arrow of time" from the second law, and meaningless speculation about an imagined "low entropy state" of the early universe.
+General principles of entropy production for such approximations are subject to unsettled current debate or research.
+In this way they grow.
+Even if one could wait for it, one has no practical possibility of picking the right instant at which to re-insert the wall.
+That is, the second law will hold on average, with a statistical variation on the order of 1/√N where ''N'' is the number of particles in the system.
+If the assumption is justified, it can often be very valuable and useful because it makes available the theory of thermodynamics.
+We now consider an infinitesimal reversible change in the temperature and in the external parameters on which the energy levels depend.
+Since the system can be in any energy eigenstate within an interval of , we define the generalized force for the system as the expectation value of the above expression:
+Elements of the equilibrium assumption are that a system is observed to be unchanging over an indefinitely long time, and that there are so many particles in a system, that its particulate nature can be entirely ignored.
+It is exceedingly long, likely longer than the life of the universe, and depends sensitively on the geometry of the wall that was removed by the thermodynamic operation.
+For example, heat always flows spontaneously from hotter to colder bodies, and never the reverse, unless external work is performed on the system.
+Carnot's theorem (1824) is a principle that limits the maximum efficiency for any possible engine.
+You must not speak of one isolated system but at least of two,  which you may for the moment consider isolated from the rest of the world, but not always from each other."
+In all cases, the assumption of thermodynamic equilibrium, once made, implies as a consequence that no putative candidate "fluctuation" alters the entropy of the system.
+Here  is the flow of entropy into the system associated with the flow of matter entering the system.
+This reasoning is of intuitive interest, but is essentially about microstates, and therefore does not belong to macroscopic equilibrium thermodynamics, which studiously ignores consideration of microstates, and non-equilibrium considerations of this kind.
+An alternative way of formulating of the second law for isolated systems is:
+it does not scale with system size.
+Such a machine is called a "perpetual motion machine of the second kind".
+One text gives a statement very like Planck's proposition, but attributes it to Kelvin without mention of Planck.
+Then  will change because the energy eigenstates depend on x, causing energy eigenstates to move into or out of the range between  and .
+Differing from Planck's just foregoing principle, this one is explicitly in terms of entropy change.
+These macroscopic variables can, e.g., refer to the total volume, the positions of pistons in the system, etc.
+Because of the looseness of its language, e.g.
+The second law has been expressed in many ways.
+We have thus found that:
+The theory of classical or equilibrium thermodynamics is idealized.
+In looser terms, nothing in the entire universe is or has ever been truly in exact thermodynamic equilibrium.
+Here  is a macroscopically small energy interval that is kept fixed.
+: ''S'' is the entropy of the system and
+is thus the net contribution to the increase in .
+The cause–effect relation is logically prior to the second law, not derived from it.
+Nevertheless, this principle of Planck is not actually Planck's preferred statement of the second law, which is quoted above, in a previous sub-section of the present section of this present article, and relies on the concept of entropy.
+While common knowledge now, this was contrary to the caloric theory of heat popular at the time, which considered heat as a fluid.
+When a faster-than-average molecule from ''A'' flies towards the trapdoor, the demon opens it, and the molecule will fly from ''A'' to ''B''.
+This is not always the case for systems in which the gravitational force is important and the general theory of relativity is required.
+It can easily happen that a physical system exhibits internal macroscopic changes that are fast enough to invalidate the assumption of the constancy of the entropy.
+Before the establishment of the Second Law, many people who were interested in inventing a perpetual motion machine had tried to circumvent the restrictions of first law of thermodynamics by extracting the massive internal energy of the environment as the power of the machine.
+The reader may compare the two statements quoted just above here.
+Suppose that the system has some external parameter, x, that can be changed.
+The recurrence theorem may be perceived as apparently contradicting the second law of thermodynamics.
+The Poincaré recurrence time is the length of time elapsed until the return.
+Here Z is a factor that normalizes the sum of all the probabilities to 1, this function is known as the partition function.
+This can be regarded as a cyclic process.
+The Poincaré recurrence theorem considers a theoretical microscopic description of an isolated physical system.
+Inserting the formula for  for the canonical ensemble in here gives:
+One monograph quotes Planck's proposition as the "Kelvin-Planck" formulation, the text naming Kelvin as its author, though it correctly cites Planck in its references.
+This is because a general process for this case may include work being done on the system by its surroundings, which must have frictional or viscous effects inside the system, and because heat transfer actually occurs only irreversibly, driven by a finite temperature difference.
+Simple concepts of efficiency of heat engines are hardly applicable to this problem because they assume closed systems.
+It is the consequence of decrease of constraint by a wall, with a corresponding increase in the accessibility, to the parts of the system, of matter and energy.
+Not mentioning entropy, this principle of Planck is stated in physical terms.
+In systems that do not require for their descriptions the general theory of relativity, bodies always have positive heat capacity, meaning that the temperature rises with energy.
+in the limit of infinitely large system size), the specific entropy (entropy per unit volume or per unit mass) does not depend on .
+and the reference temperature ''T''1 will have the value 273.16.
+One response to this question was suggested in 1929 by Leó Szilárd and later by Léon Brillouin.
+In this light, the reversibility of the dynamics of the evolution of the unconstrained system is evident, in accord with the ordinary laws of microscopic dynamics.
+They do not offer it as a full statement of the second law:
+for reversible processes, the sum of the entropies remains unchanged.''
+*All reversible heat engines between two heat reservoirs are equally efficient with a Carnot engine operating between the same reservoirs.
+E.g., if x is the volume, then X is the pressure.
+The zeroth law of thermodynamics in its usual short statement allows recognition that two bodies in a relation of thermal equilibrium have the same temperature, especially that a test body has the same temperature as a reference thermometric body.
+Statistical mechanics gives an explanation for the second law by postulating that a material is composed of atoms and molecules which are in constant motion.
+The answer is that, overwhelmingly probably, it is just the very same kind of homogeneous condition as that to which the relatively heterogeneous condition will overwhelmingly probably evolve.
+If a variable is not fixed, (e.g.
+The average defining the generalized force can now be written:
+A closely related statement is that "Frictional pressure never does positive work."
+Suppose we have an isolated system whose macroscopic state is specified by a number of variables.
+Both parts are filled with the same gas at equal temperatures and placed next to each other, separated by a wall.
+This topic is mostly beyond the scope of this present article, but has been considered by several authors, such as Erwin Schrödinger, Léon Brillouin and Isaac Asimov.
+The gas spreads throughout both compartments.
+Though formulated in terms of caloric (see the obsolete caloric theory), rather than entropy, this was an early insight into the second law.
+Its modern definition is in terms of entropy.
+Eventually they die, and their remains rot.
+::... in an irreversible or spontaneous change from one equilibrium state to another (as for example the equalization of temperature of two bodies A and B, when brought in contact) the entropy always increases.
+One might wish, nevertheless, to imagine that one could wait for the Poincaré recurrence, and then re-insert the wall that was removed by the thermodynamic operation.
+Nevertheless, ideas derived from this viewpoint on the second law of thermodynamics are enlightening about living creatures.
+It follows from the general formula for the entropy:
+Strictly speaking this means that the entropy depends on the choice of .
+It is very closely related to the Kelvin statement given just above.
+Of course, removal of matter from a system can also decrease its entropy.
+See here for the justification for this definition.
+If heat is supplied to the system at several places we have to take the algebraic sum of the corresponding terms.
+A thermodynamic operation makes the wall become permeable only to heat, which then passes from the hotter to the colder body, until their temperatures become equal.
+Then  will depend on the values of these variables.
+Later, in 1865, Clausius would come to define "equivalence-value" as entropy.
+If , all these energy eigenstates will move into the range between  and  and contribute to an increase in .
+To get all the content of the second law, Carathéodory's principle needs to be supplemented by Planck's principle, that isochoric work always increases the internal energy of a closed system that was initially in its own internal thermodynamic equilibrium.
+This approach to the Second Law is widely utilized in engineering practice, environmental accounting, systems ecology, and other disciplines.
+Suppose we start from an equilibrium situation and we suddenly remove a constraint on a variable.
+In terms of time variation, the mathematical statement of the second law for an isolated system undergoing an arbitrary transformation is:
+An increase of constraint by a wall has no effect on an established thermodynamic equilibrium.
+The first part of the second law, which states that the entropy of a thermally isolated system can only increase, is a trivial consequence of the equal prior probability postulate, if we restrict the notion of the entropy to systems in thermal equilibrium.
+It should not be confused with the time derivative of the entropy.
+Using a now-obsolete form of words, Planck himself wrote: "The production of heat by friction is irreversible."
+These other quantities indeed belong to statistical mechanics, not to thermodynamics, the primary realm of the second law.
+This is quantitatively described by increase of entropy.
+The generalized force for a system known to be in energy eigenstate  is given by:
+They are counted in both  and , therefore the above expression is also valid in that case.
+The problem for living organisms may be further simplified by the approximation of assuming a steady state with unchanging flows.
+For everyday (macroscopic) situations, the probability that the second law will be violated is practically zero.
+The efficiency of a quasi-static or reversible Carnot cycle depends only on the temperatures of the two heat reservoirs, and is the same, whatever the working substance.
+If irreversible processes take place (which is the case in real systems in operation) the >-sign holds.
+James Clerk Maxwell imagined one container divided into two parts, ''A'' and ''B''.
+Carnot's theorem states:
+There is an exception, the case of critical states, which exhibit to the naked eye the phenomenon of critical opalescence.
+Restoration of the complete impermeability of the wall does not change the equality of the temperatures.
+From there he was able to infer the principle of Sadi Carnot and the definition of entropy (1865).
+Beyond this, the thermodynamics of systems described by the general theory of relativity is beyond the scope of the present article.
+There is a traditional doctrine, starting with Clausius, that entropy can be understood in terms of molecular 'disorder' within a macroscopic system.
+The process invariably spreads, disperses, and dissipates matter or energy, or both, amongst the bodies.
+Then the assumption of thermodynamic equilibrium is to be abandoned.
+The advantage of this formulation is that it shows the effect of the entropy production.
+Observing the molecules on both sides, an imaginary demon guards a microscopic trapdoor in the wall.
+For laboratory studies of critical states, exceptionally long observation times are needed.
+However, in the thermodynamic limit (i.e.
+It is the cause of the irreversibility.
+Carnot, however, further postulated that some caloric is lost, not being converted to mechanical work.
+Note that if Y dx is larger than  there will be the energy eigenstates that move from below E to above .
+Some energy, inside or outside the system, is degraded in its ability to do work.
+In general, the energy eigenstates of the system will depend on x.
+The efficiency solely depends on the temperature difference between the hot and cold thermal reservoirs.
+To evaluate the average, we partition the  energy eigenstates by counting how many of them have a value for  within a range between  and .
+For open systems (also allowing exchange of matter):
+It is therefore performing thermodynamic operations on a microscopic scale, not just observing ordinary spontaneous or natural macroscopic thermodynamic processes.
+Overall, the sunlight is from a high temperature source, the sun, and its energy is passed to a lower temperature sink, the soil.
+Maxwell's demon repeatedly alters the permeability of the wall between ''A'' and ''B''.
+If the variable was initially fixed to some value then upon release and when the new equilibrium has been reached, the fact the variable will adjust itself so that  is maximized, implies that the entropy will have increased or it will have stayed the same (if the value at which the variable was fixed happened to be the equilibrium value).
+For a typical thermodynamical system, the recurrence time is so large (many many times longer than the lifetime of the universe) that, for all practical purposes, one cannot observe the recurrence.
+The different notations used for infinitesimal amounts of heat () and infinitesimal amounts of entropy () is due to that entropy is a function of state, while heat, like work, is not.
+Obviously, this is possible only in the imagined absence of the constraint that was actually present until its removal.
+The equality sign holds in the case that only reversible processes take place inside the system.
+Thus animals and plants obey the second law of thermodynamics, considered in terms of cyclic processes.
+The number of energy eigenstates that move from below  to above  is, of course, given by .
+One may imagine that the freshly unconstrained system, still relatively heterogeneous, immediately after the intervention that increased the wall permeability, in its transient condition, arose by spontaneous evolution from an unconstrained previous transient condition of the system.
+This is an increase of entropy of the surroundings of the plant.
+Recognizing the significance of James Prescott Joule's work on the conservation of energy, Rudolf Clausius was the first to formulate the second law during 1850, in this form: heat does not flow ''spontaneously'' from cold to hot bodies.
+Since average molecular speed corresponds to temperature, the temperature decreases in ''A'' and increases in ''B'', contrary to the second law of thermodynamics.
+The equality sign applies after equilibration.
+It is characteristic of the physical quantity entropy that it refers to states of thermodynamic equilibrium.
+Such an assumption may rely on trial and error for its justification.
+Thus a violation of the Kelvin statement implies a violation of the Clausius statement, i.e.
+In contrast, the last term scales as the inverse system size and will thus vanishes in the thermodynamic limit.
+For non-equilibrium situations in general, it may be useful to consider statistical mechanical definitions of other quantities that may be conveniently called 'entropy', but they should not be confused or conflated with thermodynamic entropy properly defined for the second law.
+The statement of the law in this present article complies with Schrödinger's advice.
+The second law allows a distinguished temperature scale, which defines an absolute, thermodynamic temperature, independent of the properties of any particular reference thermometric body.
+Though it is more or less intuitive to imagine 'spreading', such loose intuition is, for many thermodynamic processes, too vague or imprecise to be usefully quantitatively informative, because competing possibilities of spreading can coexist, for example due to an increase of some constraint combined with decrease of another.
+The logarithmic derivative of  with respect to x is thus given by:
+Irreversibility in thermodynamic processes is a consequence of the asymmetric character of thermodynamic operations, and not of any internally irreversible microscopic properties of the bodies.
+Since these energy eigenstates increase in energy by Y dx, all such energy eigenstates that are in the interval ranging from E – Y dx to E move from below E to above E. There are
+Though it is almost customary in textbooks to say that Carathéodory's principle expresses the second law and to treat it as equivalent to the Clausius or to the Kelvin-Planck statements, such is not the case.
+According to the adiabatic theorem of quantum mechanics, in the limit of an infinitely slow change of the system's Hamiltonian, the system will stay in the same energy eigenstate and thus change its energy according to the change in energy of the energy eigenstate it is in.
+In a fictive reversible process, an infinitesimal increment in the entropy () of a system is defined to result from an infinitesimal transfer of heat () to a closed system divided by the common temperature () of the system and the surroundings which supply the heat:
+The spreading is a change from heterogeneity towards homogeneity.
+Equivalently, it says that time average and average over the statistical ensemble are the same.
+The Clausius and the Kelvin statements have been shown to be equivalent.
+It is almost customary in textbooks to speak of the "Kelvin-Planck statement" of the law, as for example in the text by ter Haar and Wergeland.
+open, closed, or isolated, many people take this simple statement to mean that the second law of thermodynamics applies virtually to every subject imaginable.
+The first law of thermodynamics provides the basic definition of internal energy, associated with all thermodynamic systems, and states the rule of conservation of energy.
+This doctrine is obsolescent.
+Established during the 19th century, the Kelvin-Planck statement of the Second Law says, "It is impossible for any device that operates on a cycle to receive heat from a single reservoir and produce a net amount of work."
+Statistical mechanics postulates that, in equilibrium, each microstate that the system might be in is equally likely to occur, and when this assumption is made, it leads directly to the conclusion that the second law must hold in a statistical sense.
+:  is the heat flow into the system
+More obviously, however, it is simply a microscopic model of thermodynamic equilibrium in an isolated system formed by removal of a wall between two systems.
+Interpreted in the light of the first law, it is physically equivalent to the second law of thermodynamics, and remains valid today.
+*All irreversible heat engines between two heat reservoirs are less efficient than a Carnot engine operating between the same reservoirs.
+The Carnot engine is an idealized device of special interest to engineers who are concerned with the efficiency of heat engines.
+This may be considered as a model of a thermodynamic system after a thermodynamic operation has removed an internal wall.
+For an example of the spreading of matter due to increase of accessibility, one may consider a gas initially confined by an impermeable wall to one of two compartments of an isolated system.
+For a body in thermal equilibrium with another, there are indefinitely many empirical temperature scales, in general respectively depending on the properties of a particular reference thermometric body.
+The following reasoning offers intuitive understanding of this fact.
+Under such an equilibrium assumption, in general, there are no macroscopically detectable fluctuations.
+Multiplied with ambient temperature  it gives the so-called dissipated energy .
+There is no unqualified general definition of entropy for non-equilibrium states.
+Its first formulation is credited to the French scientist Sadi Carnot in 1824, who showed that there is an upper limit to the efficiency of conversion of heat to work in a heat engine.
+universe, as well as lack of specific conditions, e.g.
+The physics of macroscopically observable fluctuations is beyond the scope of this article.
+A statement that in a sense is complementary to Planck's principle is made by Borgnakke and Sonntag.
+Or that a physical system has so few particles that the particulate nature is manifest in observable fluctuations.
+The ergodic hypothesis is also important for the Boltzmann approach.
+such energy eigenstates.
+Therefore, when energy flows from a high-temperature object to a low-temperature object, the source temperature is decreased while the sink temperature is increased; hence temperature differences tend to diminish over time.
+However, for systems with a small number of particles, thermodynamic parameters, including the entropy, may show significant statistical deviations from that predicted by the second law.
+:  is the temperature at the point where the heat enters the system.
+There are two principal ways of formulating thermodynamics, (a) through passages from one state of thermodynamic equilibrium to another, and (b) through cyclic processes, by which the system is left unchanged, while the total entropy of the surroundings is increased.
+The second law has been shown to be equivalent to the internal energy ''U'' being a weakly convex function, when written as a function of extensive properties (mass, volume, entropy, ...).
+Rather like Planck's statement is that of Uhlenbeck and Ford for ''irreversible phenomena''.
+Let's focus again on the energy eigenstates for which  lies within the range between  and .
+with  the sum of the rate of entropy production by all processes inside the system.
+The wall is then removed.
+We have already seen that in the final equilibrium state, the entropy will have increased or have stayed the same relative to the previous equilibrium state.
+Now pair it with a reversed Carnot engine as shown by the figure.
+An efficiency for a process or collection of processes that compares it to the reversible ideal may also be found (''See second law efficiency''.)

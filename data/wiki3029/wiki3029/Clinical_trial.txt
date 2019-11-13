@@ -1,0 +1,200 @@
+A clinical trial protocol is a document used to define and manage the trial.
+To be ethical, researchers must obtain the full and informed consent of participating human subjects.
+Lind conducted the first systematic clinical trial in 1747.
+Interactive voice response systems are used by sites to register the enrollment of patients using a phone and to allocate patients to a particular treatment arm (although phones are being increasingly replaced with web-based (IWRS) tools which are sometimes part of the EDC system).
+Throughout the clinical trial, the sponsor is responsible for accurately informing the local site investigators of the true historical safety record of the drug, device or other medical treatments to be tested, and of any potential interactions of the study treatment(s) with already approved treatments.
+In 1740, the catastrophic result of Anson's circumnavigation attracted much attention in Europe; out of 1900 men, 1400 had died, most of them allegedly from having contracted scurvy.
+However, many clinical trials will not accept participants who contact them directly to volunteer, as it is believed this may bias the characteristics of the population being studied.
+* Blind: The subjects involved in the study do not know which study treatment they receive.
+Volunteers with specific conditions or diseases have additional online resources to help them locate clinical trials.
+* Measurement of the electrical activity of the heart (ECG)
+Multiple companies can participate, each bringing a different drug.
+Many clinical trials do not involve any money.
+People over 55 (or a similar cutoff age) are often excluded from trials because their greater health issues and drug use complicate data interpretation, and because they have different physiological capacity than younger people.
+Results found that potential clinical trial candidates were less likely to enroll in clinical trials if the patient is more willing to talk with their doctor.
+Advanced analytics for identifying researchers and research sites with expertise in a given area utilize public and private information about ongoing research.
+Other disease-specific services exist for volunteers to find trials related to their condition.
+All volunteers being considered for a trial are required to undertake a medical screening.
+Neither is an absolute criterion; both safety and efficacy are evaluated relative to how the treatment is intended to be used, what other treatments are available, and the severity of the disease or condition.
+The protocol describes the scientific rationale, objective(s), design, methodology, statistical considerations and organization of the planned trial.
+Phase 0 trials are the first-in-human trials.
+At a participating site, one or more research assistants (often nurses) do most of the work in conducting the clinical trial.
+People with more knowledge about clinical trials tend to have to a greater likelihood of signing up.
+He included a dietary supplement of an acidic quality in the experiment after two months at sea, when the ship was already afflicted with scurvy.
+A CRO is contracted to perform all the administrative work on a clinical trial.
+The trial, carried out between 1946-1947, aimed to test the efficacy of the chemical streptomycin for curing pulmonary tuberculosis.
+Clinical trials recruit study subjects to sign a document representing their "informed consent".
+Currently, some phase 2 and most phase 3 drug trials are designed as randomized, double-blind, and placebo-controlled.
+Postmarketing studies delineate additional information, including the treatment's risks, benefits, and optimal use.
+The participants in exchange are offered potential access to medical treatment.
+(These adverse event reports contain the opinion of both the investigator at the site where the adverse event occurred, and the sponsor, regarding the relationship of the adverse event to the study treatments).
+All drug and many device trials target a subset of the population, meaning not everyone can participate.
+The methodology of clinical trials was further developed by Sir Austin Bradford Hill, who had been involved in the streptomcyin trials.
+Alternatively, many American pharmaceutical companies have moved some clinical trials overseas.
+Most IRBs are located at the local investigator's hospital or institution, but some sponsors allow the use of a central (independent/for profit) IRB for investigators who work at smaller institutions.
+An estimated 40% of all clinical trials now take place in Asia, Eastern Europe, and Central and South America.
+Of note, during the last 10 years or so, it has become a common practice to conduct "active comparator" studies (also known as "active control" trials).
+Additional ethical concerns are present when conducting clinical trials on children (pediatrics), and in emergency or epidemic situations.
+In the case of cancer patients, fewer than 5% of adults with cancer will participate in drug trials.
+The document includes details such as its purpose, duration, required procedures, risks, potential benefits, key contacts and institutional requirements.
+In the United States, all clinical trials submitted to the FDA as part of a drug approval process are independently assessed by clinical experts within the Food and Drug Administration, including inspections of primary data collection at selected clinical trial sites.
+However, under certain conditions, causal effects can be inferred from observational studies.
+Researchers explain the details of the study in terms the subject can understand.
+In compassionate use trials the latter becomes a particularly difficult problem.
+Patients whose genomic profiles do not match any of the trial drugs receive a drug designed to stimulate the immune system to attack cancer.
+They are generally paid an inconvenience allowance because they give up their time (sometimes away from their homes); the amounts paid are regulated and are not related to the level of risk involved.
+If the study is double-blind, the researchers also do not know which treatment a subject receives.
+In 2011, the FDA approved a phase 1 trial that used telemonitoring, also known as remote patient monitoring, to collect biometric data in patients' homes and transmit it electronically to the trial database.
+Although early medical experimentation was often performed, the use of a control group to provide an accurate comparison for the demonstration of the intervention's efficacy, was generally lacking.
+Generally, children cannot autonomously provide informed consent, but depending on their age and other factors, may be required to provide informed assent.
+Participants in phase 1 drug trials do not gain any direct benefit from taking part.
+Approval by an Institutional Review Board (IRB), or ethics board, is necessary before all but the most informal research can begin.
+Thus, the exchange which exists may serve to classify clinical trials as a form of labour.
+The Book of Daniel chapter 1, verses 12 through 15, for instance, describes a planned experiment with both baseline and follow-up observations of two groups who either partook of, or did not partake of, "the King's meat" over a trial period of ten days.
+Amgen, AstraZeneca and Pfizer are involved, the first time they have worked together in a late-stage trial.
+The International Conference of Harmonisation Guidelines for Good Clinical Practice is a set of standards used internationally for the conduct of clinical trials.
+Device trials may compare a new device to an established therapy, or may compare similar devices to each other.
+However, it may be hard to turn this objective into a well-defined, quantified, objective function.
+This allows data to be combined across all investigators/sites.
+All study investigators are expected to strictly observe the protocol.
+If the patient is unable to consent for him/herself, researchers can seek consent from the patient's legally authorized representative.
+Before pharmaceutical companies start clinical trials on a drug, they will also have conducted extensive preclinical studies.
+In most other trials, subjects are not paid to ensure their motivation for participating is the hope of getting better or contributing to medical knowledge, without their judgment being skewed by financial considerations.
+* Placebo-controlled: The use of a placebo (fake treatment) allows the researchers to isolate the effect of the study treatment from the placebo effect.
+Clinical trial management systems are often used by research sponsors or CROs to help plan and manage the operational aspects of a clinical trial, particularly with respect to investigational sites.
+Clinical trials are traditionally expensive and difficult to undertake.
+"There is no compulsory registration system for clinical trials in these countries and many do not follow European directives in their operations", says Jacob Sijtsma of the Netherlands-based WEMOS, an advocacy health organisation tracking clinical trials in developing countries.
+This technology provides many more data points and is far more convenient for patients, because they have fewer visits to trial sites.
+A growing trend in the pharmacology field involves the use of third-party contractors to obtain the required comparator compounds.
+This audit may be random, or for cause (because the investigator is suspected of fraudulent data).
+The local investigator is responsible for being truthful to the local IRB in all communications relating to the study.
+Details of the trial are provided in documents referenced in the protocol, such as an investigator's brochure.
+Clinical trial enrollment should be motivated to utilize websites and television advertising to inform the public about clinical trial enrollment.
+In such studies, multiple experimental treatments are tested in a single trial.
+Testing with a larger group of people (100–300) to determine efficacy and to further evaluate its safety.
+In the study, cancer patients reported more optimistic attitudes towards clinical trials than the general population.
+The gradual increase in test group size allows for the evocation of less-common side effects.
+For example, a new cancer drug has, on average, six years of research behind it before it even makes it to clinical trials.
+Testing within a small group of people (20–80) to evaluate safety, determine safe dosage ranges, and begin to identify side effects.
+In the US, the FDA can audit the files of local site investigators after they have finished participating in a study, to see if they were correctly following study procedures.
+Such third parties provide expertise in the logistics of obtaining, storing, and shipping the comparators.
+Similarly, competition for tenured academic positions, government grants and prestige create conflicts of interest among academic scientists.
+After 1750 the discipline began to take its modern shape.
+Clinical trials designed by a local investigator, and (in the US) federally funded clinical trials, are almost always administered by the researcher who designed the study and applied for the grant.
+Similar experiments performed by Edward Jenner over his smallpox vaccine were equally conceptually flawed.
+An example of the former in the field of vascular surgery is the Open versus Endovascular Repair (OVER trial) for the treatment of abdominal aortic aneurysm, which compared the older open aortic repair technique to the newer endovascular aneurysm repair device.
+* Drugs abuse testing
+If the drug successfully passes through phases 0, 1, 2, and 3, it will usually be approved by the national regulatory authority for use in the general population.
+Clinical trials can vary in size and cost, and they can involve a single research center or multiple centers, in one country or in multiple countries.
+During the trial, investigators recruit patients with the predetermined characteristics, administer the treatment(s) and collect data on the patients' health for a defined time period.
+They used the risk information seeking and processing (RISP) model to analyze the social implications that affect attitudes and decision making pertaining to clinical trials.
+Seeding trials are particularly controversial.
+In all, about 1,000 potential drugs are tested before just one reaches the point of being tested in a clinical trial.
+The IRB scrutinizes the study for both medical safety and protection of the patients involved in the study, before it allows the researcher to begin the study.
+Another reason for the negative relationship between perceived fairness and clinical trial enrollment is the lack of independence from the care provider.
+This can be an additional complication on the length of the study, yet proper planning and the use of trial sites in the Southern, as well as the Northern Hemisphere allows for year-round trials, which can reduce the length of the studies.
+* Pregnancy testing (females only)
+In 2012, Z. Janet Yang, Katherine A. McComas, Geri K. Gay, John P. Leonard, Andrew J. Dannenberg, and Hildy Dillon conducted research on the attitudes towards clinical trial treatment and the decision making of signing up for such trials by cancer patients and the general population.
+The benefits must outweigh the risks.
+* On a specific kind of patient (e.g., patients who have been diagnosed with Alzheimer's disease)
+Researchers who treat these particular patients must participate in the trial.
+It may require changes in study procedures or in the explanations given to the patient.
+The larger the number of participants, the greater the statistical power and the greater the cost.
+(Particularly relevant after approval under FDA Accelerated Approval Program)
+Although the term "clinical trials" is most commonly associated with the large, randomized studies typical of phase 3, many clinical trials are small.
+The notion of informed consent of participating human subjects exists in many countries all over the world, but its precise definition may still vary.
+All studies involving a medical or therapeutic intervention on patients must be approved by a supervising ethics committee before permission is granted to run the trial.
+The information is presented in the subject's native language.
+After locating a trial, volunteers will often have the opportunity to speak or e-mail the clinical trial coordinator for more information and to answer any questions.
+The biggest barrier to completing studies is the shortage of people who take part.
+On average, about eight years pass from the time a cancer drug enters clinical trials until it receives approval from regulatory agencies for sale to the public.
+The research assistant's job can include some or all of the following: providing the local institutional review board (IRB) with the documentation necessary to obtain its permission to conduct the study, assisting with study start-up, identifying eligible patients, obtaining consent from them or their families, administering study treatment(s), collecting and statistically analyzing data, maintaining and updating data files during followup, and communicating with the IRB, as well as the sponsor and CRO.
+Assigning a subject to a placebo group can pose an ethical problem if it violates his or her right to receive the best available treatment.
+Patients who are less likely to talk about clinical trials are more willing to use other sources of information to gain a better insight of alternative treatments.
+Then they must identify the desirable patients and obtain consent from them or their families to take part in the trial.
+In this case, and where there is no independent sponsor, each local site investigator submits the study protocol, the consent(s), the data collection forms, and supporting documentation to the local IRB.
+Lack of willingness to talk about clinical trials with current care providers may be due to patients’ independence from the doctor.
+Final confirmation of safety and efficacy.
+These are controlled for by the inclusion of patients who receive only a placebo.
+Drug researchers not directly employed by pharmaceutical companies often seek grants from manufacturers, and manufacturers often look to academic researchers to conduct studies within networks of universities and their hospitals, e.g., for translational cancer research.
+For example, many drugs to treat cancer have severe side effects that would not be acceptable for an over-the-counter pain medication, yet the cancer drugs have been approved since they are used under a physician's care, and are used for a life-threatening condition.
+If the sponsor cannot obtain enough subjects at one location, investigators at other locations are recruited to join the study.
+The trial was both double-blind and placebo-controlled.
+Further work in that direction was carried out by the eminent physician Sir William Gull, 1st Baronet in the 1860s.
+From the 1920s, Hill applied statistics to medicine, attending the lectures of renowned mathematician Karl Pearson, amongst others.
+The diversity observed in society, by consensus, should be reflected in clinical trials through the appropriate inclusion of ethnic minority populations.
+The reasoning behind this discovery may be patients are happy with their current care.
+* Randomized: Each study subject is randomly assigned to receive either the study treatment or a placebo.
+Clinical trials are closely supervised by appropriate regulatory authorities.
+He became famous for a landmark study carried out in collaboration with Richard Doll on the correlation between smoking and lung cancer.
+FDA regulations and ICH guidelines both require  "the information that is given to the subject or the representative shall be in language understandable to the subject or the representative."
+John Woodall, an English military surgeon of the British East India Company, had recommended the consumption of citrus fruit (it has an antiscorbutic effect) from the 17th century, but their use did not become widespread.
+They are responsible for reviewing all adverse event reports sent by the sponsor.
+Genetic testing enables researchers to group patients according to their genetic profile, deliver drugs based on that profile to that group and compare the results.
+He divided twelve scorbutic sailors into six groups of two.
+These authorities are responsible for vetting the risk/benefit ratio of the trial - their approval does not mean that the therapy is 'safe' or effective, only that the trial may be conducted.
+The most common clinical trials evaluate new drugs, medical devices (such as a new catheter), biologics, psychological therapies, or other interventions.
+Requirements differ for different trials, but typically volunteers will have the following tests in a medical laboratory:
+The concepts behind clinical trials are ancient.
+They all received the same diet but, in addition, group one was given a quart of cider daily, group two twenty-five drops of elixir of vitriol (sulfuric acid), group three six spoonfuls of vinegar, group four half a pint of seawater, group five received two oranges and one lemon, and the last group a spicy paste plus a drink of barley water.
+Journals such as ''Trials'', encourage investigators to publish their protocols.
+The sponsor provides the drug and medical oversight.
+Access to many of these applications are increasingly aggregated in web-based clinical trial portals.
+Except for small, single-location trials, the design and objectives are specified in a document called a clinical trial protocol.
+The researchers send the data to the trial sponsor, who then analyzes the pooled data using statistical tests.
+Clinical study design aims to ensure the scientific validity and reproducibility of the results.
+Pharmacodynamics and pharmacokinetics in humans
+Janet Yang uses the Interactional Justice Model to test the effects of willingness to talk with a doctor and clinical trial enrollment.
+According to the Pharmaceutical Research and Manufacturers of America (PhRMA), about 400 cancer medicines were being tested in clinical trials in 2005.
+In observational studies, the investigators only observe associations (correlations) between the treatments experienced by participants and their health status.
+Not all of these will prove to be useful, but those that are may be delayed in getting approved because the number of participants is so low.
+They also are responsible for making an independent judgment of these reports, and promptly informing the local IRB of all serious and study treatment-related adverse events.
+These other sites may or may not be paid for participating in the study, depending on the amount of the grant and the amount of effort expected from them.
+In some cases, the male partners of these women are also excluded or required to take birth control measures.
+* Weight and height measurement
+Each phase of the drug approval process is treated as a separate clinical trial.
+The local ethics committee has discretion on how it will supervise noninterventional studies (observational studies or those using already collected data).
+A fundamental distinction in evidence-based practice is between observational studies and randomized controlled trials.
+Subjects are assigned randomly without informing them to which group they belonged.
+For clinical trials involving a seasonal indication (such as airborne allergies, seasonal affective disorder, influenza, and others), the study can only be done during a limited part of the year (such as spring for pollen allergies), when the drug can be tested.
+In California, the state has prioritized the individuals who can serve as the legally authorized representative.
+In 2001, the editors of 12 major journals issued a joint editorial, published in each journal, on the control over clinical trials exerted by sponsors, particularly targeting the use of contracts which allow sponsors to review the studies prior to publication and withhold publication.
+giving them the placebo), the alternate treatment would be a standard-of-care therapy.
+Although they survived and did not contract smallpox, there was no control group to assess whether this result was due to the inoculation or some other factor.
+The format and content of clinical trial protocols sponsored by pharmaceutical, biotechnology or medical device companies in the United States, European Union, or Japan have been standardized to follow Good Clinical Practice guidance issued by the International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH).
+This allows the local investigators to make an informed judgment on whether to participate in the study or not.
+The sponsor designs the trial in coordination with a panel of expert clinical investigators, including what alternative/existing treatments to compare to the new drug and what type(s) of patients might benefit.
+The sponsor is also responsible for monitoring the results of the study as they come in from the various sites, as the trial proceeds.
+They may be "sponsored" by single researchers or a small group of researchers, and are designed to test simple questions.
+In this kind of study, all patients are given both placebo and active doses in alternating periods.
+Results found that there is a positive relationship between a lack of willingness to talk with their doctor and clinical trial enrollment.
+Examples of clinical trial goals include assessing the safety and (relative) effectiveness of a medication or device:
+Apart from that, only group one also showed some effect of its treatment.
+But the major holdup in making new cancer drugs available is the time it takes to complete clinical trials themselves.
+Currently, most clinical trial programs follow ICH guidelines, aimed at "ensuring that good quality, safe and effective medicines are developed and registered in the most efficient and cost-effective manner.
+The protocol is the trial's 'operating manual' and ensures that all researchers perform the trial in the same way on similar patients and that the data is comparable across all patients.
+In the US, this body is called the Institutional Review Board (IRB); in the EU, they are called Ethics committees.
+Women, children and people with unrelated medical conditions are also frequently excluded.
+It is a challenge to find the appropriate patients and obtain their consent, especially when they may receive no direct benefit (because they are not paid, the study drug is not yet proven to work, or the patient may receive a placebo).
+For a test drug, the trial documents the absorption, distribution, metabolization, and removal (excretion) of the drug, and the drug's interactions within the body, to confirm that these appear to be as expected.
+Re-classifying clinical trials as labour is supported by the fact that information gained from clinical trials contributes to biomedical knowledge, and thus increases the profits of pharmaceutical companies.
+There are two goals to testing medical treatments: to learn whether they work well enough, called "efficacy" or "effectiveness"; and to learn whether they are safe enough, called "safety".
+According to one study, approximately 75% of articles retracted for misconduct-related reasons have no declared industry financial support.
+Many trials are doubled-blinded so that researchers do not know to which group a subject is assigned.
+In some cases this can be done, however, for instance, for questions of when to stop sequential treatments (see Odds algorithm), and then quantified methods may play an important role.
+Merely giving a treatment can have nonspecific effects.
+Other criticisms of foreign clinical studies, especially in developing countries, relate to the rights and welfare of study participants, integrity of study data, and relevance of data to the U.S. population.
+For example, the Fox Trial Finder connects Parkinson's disease trials around the world to volunteers who have a specific set of criteria such as location, age, and symptoms.
+The document is not a contract, as the participant can withdraw at any time without penalty.
+Depending on product type and development stage, investigators initially enroll volunteers and/or patients into small pilot studies, and subsequently conduct progressively larger scale comparative studies.
+Small-scale device studies may be administered by the sponsoring company.
+For other individuals, particularly those situated in countries such as China or India, they may be given access to healthcare which they otherwise would be unable to afford, for the duration of the trial.
+At the same time, coordination between Europe, Japan and the United States led to a joint regulatory-industry initiative on international harmonization named after 1990 as the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH)
+This is an area where sponsors can slant their judgment to favor the study treatment.
+For instance, Lady Mary Wortley Montagu, who campaigned for the introduction of inoculation (then called variolation) to prevent smallpox, arranged for seven prisoners who had been sentenced to death to undergo variolation in exchange for their life.
+Similarly to drugs, medical or surgical procedures may be subjected to clinical trials, such as case-controlled studies for surgical interventions.
+In the field of rare diseases, sometimes the number of patients is the limiting factor for the size of a clinical trial.
+While most clinical trials test one alternative to the novel intervention, some expand to three or four.
+Regulatory authorities in Canada and Australia also follow ICH guidelines.
+Volunteers may search directly on ClinicalTrials.gov to locate trials using a registry run by the U.S. National Institutes of Health and National Library of Medicine.
+These amounts can be small, just covering a partial salary for research assistants and the cost of any supplies (usually the case with national health agency studies), or be substantial and include 'overhead' that allows the investigator to pay the research staff during times between clinical trials.

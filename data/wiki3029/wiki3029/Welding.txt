@@ -1,0 +1,200 @@
+This allows for the welding of thick sections arranged in a single-V preparation joint, for example.
+Also, some glasses will simply not mix with others, so welding between certain types may not be possible.
+A related process, plasma arc welding, also uses a tungsten electrode but uses plasma gas to make the arc.
+Similarly, because automation and robots increase equipment costs, they are only implemented when high production is necessary.
+In 1957, the flux-cored arc welding process debuted, in which the self-shielded wire electrode could be used with automatic equipment, resulting in greatly increased welding speeds, and that same year, plasma arc welding was invented.
+When welding plastics, the materials should have similar melting temperatures, and the vibrations are introduced vertically.
+For example, lead glass bonds readily to copper or molybdenum, but not to aluminum.
+Alternating current rapidly moves between these two, resulting in medium-penetration welds.
+There are other means of estimating or measuring fracture toughness by the following: The Charpy impact test per ASTM A370; The crack-tip opening displacement (CTOD) test per BS 7448-1; The J integral test per ASTM E1820; The Pellini drop-weight test per ASTM E208.
+Some processes can also be used to make multipass welds, in which one weld is allowed to cool, and then another weld is performed on top of it.
+When above the transition, the fracture is primarily due to micro-void coalescence, which results in the fracture appearing fibrous.
+It is used extensively in the automotive industry—ordinary cars can have several thousand spot welds made by industrial robots.
+Examples of thermosets include epoxies, silicone, vulcanized rubber, polyester, and polyurethane.
+Because the solvent can permeate the plastic, the solvent evaporates out through the surface of the plastic, causing the weld to drop out of solution and solidify.
+In general, as the yield strength of a material increases, there is a corresponding reduction in fracture toughness.
+In 1930, Kyle Taylor was responsible for the release of stud welding, which soon became popular in shipbuilding and construction.
+The weld itself is called the fusion zone—more specifically, it is where the filler metal was laid during the welding process.
+Some of the best known welding methods include:
+A specialized process, called shot welding, can be used to spot weld stainless steel.
+Spot welding is a popular resistance welding method used to join overlapping metal sheets of up to 3&nbsp;mm thick.
+Mechanization and automation are often implemented to reduce labor costs, but this frequently increases the cost of equipment and creates additional setup time.
+To do this, welding procedures with high deposition rates can be selected, and weld parameters can be fine-tuned to increase welding speed.
+The equipment and methods involved are similar to that of resistance welding, but instead of electric current, vibration provides energy input.
+Other solid-state welding processes include friction welding (including friction stir welding), magnetic pulse welding, co-extrusion welding, cold welding, diffusion bonding, exothermic welding, high frequency welding, hot pressure welding, induction welding, and roll welding.
+A common use for solvent welding is for joining PVC or ABS (acrylonitrile butadiene styrene) pipes during plumbing, or for welding styrene and polystyrene plastics in the construction of models.
+The efficiency is dependent on the welding process used, with shielded metal arc welding having a value of 0.75, gas metal arc welding and submerged arc welding, 0.9, and gas tungsten arc welding, 0.8.
+The metalworking industry has instituted specifications and codes to guide welders, weld inspectors, engineers, managers, and property owners in proper welding technique, design of welds, how to judge the quality of Welding Procedure Specification, how to judge the skill of the person performing the weld, and how to ensure the quality of a welding job.
+Upon cooling through the glass transition, the welded piece will solidify as one solid piece of amorphous material.
+The history of joining metals goes back several millennia.
+Constant current power supplies are most often used for manual welding processes such as gas tungsten arc welding and shielded metal arc welding, because they maintain a relatively constant current even as the voltage varies.
+The welding region is sometimes protected by some type of inert or semi-inert gas, known as a shielding gas, and filler material is sometimes used as well.
+Small pools of molten metal are formed at the weld area as high current (1000–100,000 A) is passed through the metal.
+Fumes and gases, such as carbon dioxide, ozone, and fumes containing heavy metals, can be dangerous to welders lacking proper ventilation and training.
+Sometimes a filler rod may be used, but usually not.
+Types of welding defects include cracks, distortion, gas inclusions (porosity), non-metallic inclusions, lack of fusion, incomplete penetration, lamellar tearing, and undercutting.
+This method of puddle welding is common in the United States and Canada for attaching steel sheets to bar joist and structural steel members.
+Weld strength is significantly lower than with other welding methods, making the process suitable for only certain applications.
+Ovens or electric heating tools can be used to melt the plastic.
+During the 1920s, major advances were made in welding technology, including the introduction of automatic welding in 1920, in which electrode wire was fed continuously.
+Other variations exist as well—for example, double-V preparation joints are characterized by the two pieces of material each tapering to a single center point at one-half their height.
+Energy beam welding methods, namely laser beam welding and electron beam welding, are relatively new processes that have become quite popular in high production applications.
+When placed in contact with the plastic, the solvent will begin to soften it, bringing the surface into a thick, liquid solution.
+These curtains, made of a polyvinyl chloride plastic film, shield people outside the welding area from the UV light of the electric arc, but can not replace the filter glass used in helmets.
+Welding technology advanced quickly during the early 20th century as the world wars drove the demand for reliable and inexpensive joining methods.
+The two processes are quite similar, differing most notably in their source of power.
+When two melted surfaces are pressed together, the molecules in the solution mix, joining them as one.
+The two liquids will generally mix and join at first contact.
+Thermosets cannot be melted, therefore, once a thermoset has set it is impossible to weld it.
+Working conditions are much improved over other arc welding processes, since the flux hides the arc and almost no smoke is produced.
+In 1905, Russian scientist Vladimir Mitkevich proposed using a three-phase electric arc for welding.
+Then the plastic is cooled through the glass transition, allowing the weld to solidify.
+Around 1900, A. P. Strohmenger released a coated metal electrode in Britain, which gave a more stable arc.
+For example, if the wire and the base material get too close, the current will rapidly increase, which in turn causes the heat to increase and the tip of the wire to melt, returning it to its original separation distance.
+Exposure to manganese welding fumes, for example, even at low levels (3), may lead to neurological problems or to damage to the lungs, liver, kidneys, or central nervous system.
+In 1932 a Russian, Konstantin Khrenov successfully implemented the first underwater electric arc welding.
+On the other hand, quartz glass (fused silica) must be heated to over , but quickly loses its viscosity and formability if overheated, so an oxyhydrogen torch must be used.
+This cored wire is more expensive than the standard solid wire and can generate fumes and/or slag, but it permits even higher welding speed and greater metal penetration.
+Examples of thermoplastics include polyethylene, polypropylene, polystyrene, polyvinylchloride (PVC), and fluoroplastics like Teflon and Spectralon.
+Advances in these areas may be useful for future endeavours similar to the construction of the International Space Station, which could rely on welding for joining in space the parts that were manufactured on Earth.
+While often an industrial process, welding may be performed in many different environments, including in open air, under water, and in outer space.
+The bonding in the static position is when the ions occupy an equilibrium position where the resulting force between them is zero.
+the durability of many designs increase significantly.
+One of the most common types of arc welding is shielded metal arc welding (SMAW); it is also known as manual metal arc welding (MMA) or stick welding.
+The process is versatile and can be performed with relatively inexpensive equipment, making it well suited to shop jobs and field work.
+In 1800, Sir Humphry Davy discovered the short-pulse electrical arc and presented his results in 1801.
+When it crosses through the glass transition, it will become a very thick, sluggish, viscous liquid.
+It is still widely used for welding pipes and tubes, as well as repair work.
+The energy from the impact plasticizes the materials, forming a weld, even though only a limited amount of heat is generated.
+Many thermoplastics can also be welded using chemical solvents.
+It can be applied to all of the same materials as GTAW except magnesium, and automated welding of stainless steel is one important application of the process.
+In welding, the positively charged anode will have a greater heat concentration, and as a result, changing the polarity of the electrode affects weld properties.
+Three of the most commonly used crystal lattice structures in metals are the body-centred cubic, face-centred cubic and close-packed hexagonal.
+This is because smaller particles have the ability to cross the blood brain barrier.
+Many different variables affect the total cost, including equipment cost, labor cost, material cost, and energy cost.
+Glass that has been welded will usually need to be cooled very slowly and evenly through the glass transition, in a process called annealing, to relieve any internal stresses created by a temperature gradient.
+The effects of welding on the material surrounding the weld can be detrimental—depending on the materials used and the heat input of the welding process used, the HAZ can be of varying size and strength.
+A similar process, generally called oxyfuel cutting, is used to cut metals.
+Because of their high cost, they are only used in high production operations.
+Ultrasonic welding is commonly used for making electrical connections out of aluminum or copper, and it is also a very common polymer welding process.
+Acetylene was discovered in 1836 by Edmund Davy, but its use was not practical in welding until about 1900, when a suitable torch was developed.
+Since the 2000s, some helmets have included a face plate which instantly darkens upon exposure to the intense UV light.
+Both processes are extremely fast, and are easily automated, making them highly productive.
+Arc welding falls between these two extremes, with the individual processes varying somewhat in heat input.
+Above this melting point, the viscous liquid will become a free-flowing liquid (see rheological weldability for thermoplastics).
+Processes like flux-cored arc welding and shielded metal arc welding produce smoke containing particles of various types of oxides.
+As an industrial process, the cost of welding plays a crucial role in manufacturing decisions.
+This increases arc quality, since contaminants in the atmosphere are blocked by the flux.
+The flame, since it is less concentrated than an electric arc, causes slower weld cooling, which can lead to greater residual stresses and weld distortion, though it eases the welding of high alloy steels.
+Welding can be dangerous and unhealthy if the proper precautions are not taken.
+These properties depend on the base material's behavior when subjected to heat.
+*Gas metal arc welding (GMAW) – commonly termed MIG (metal, inert gas), uses a wire feeding gun that feeds wire at an adjustable speed and flows an argon-based shielding gas or a mix of argon and carbon dioxide (CO2) over the weld puddle to protect it from atmospheric contamination.
+Glasses and certain types of plastics are commonly welded materials.
+Today, the science continues to advance.
+Many different methods have been devised for heating plastic to a weldable temperature without burning it.
+GTAW can be used on nearly all weldable metals, though it is most often applied to stainless steel and light metals.
+Furthermore, progress is desired in making more specialized methods like laser beam welding practical for more applications, such as in the aerospace and automotive industries.
+In 1930, the first all-welded merchant vessel, M/S Carolinian, was launched.
+Shielded metal arc welding was developed during the 1950s, using a flux-coated consumable electrode, and it quickly became the most popular metal arc welding process.
+Also noteworthy is the first welded road bridge in the world, the Maurzyce Bridge designed by Stefan Bryła of the Lwów University of Technology in 1927, and built across the river Słudwia near Łowicz, Poland in 1928.
+Welding a handle onto a pitcher can usually be done with relative ease.
+Resistive metals may be implanted in the plastic, which respond to induction heating.
+When the temperatures falls the fracture will show signs of cleavage facets.
+Welders are often exposed to dangerous gases and particulate matter.
+Other resistance welding methods include butt welding, flash welding, projection welding, and upset welding.
+There are many types of glass, and it is most common to weld using the same types.
+Furthermore, the process is generally limited to welding ferrous materials, though special electrodes have made possible the welding of cast iron, nickel, aluminum, copper, and other metals.
+The slag that forms on the weld generally comes off by itself, and combined with the use of a continuous wire feed, the weld deposition rate is high.
+Submerged arc welding (SAW) is a high-productivity welding method in which the arc is struck beneath a covering layer of flux.
+Chemical bonds can be grouped into two types consisting of ionic and covalent.
+Diagram of arc and weld area, in shielded metal arc welding.
+Especially useful for welding thin materials, this method is characterized by a stable arc and high quality welds, but it requires significant operator skill and can only be accomplished at relatively low speeds.
+For manual welding methods, labor costs generally make up the vast majority of the total cost.
+In both ionic and covalent bonding the location of the ions and electrons are constrained relative to each other, thereby resulting in the bond being characteristically brittle.
+Gas tungsten arc welding, after decades of development, was finally perfected in 1941, and gas metal arc welding followed in 1948, allowing for fast welding of non-ferrous materials but requiring expensive shielding gases.
+Some plastics will begin to burn at temperatures lower than their glass transition, so welding can be performed by blowing a heated, inert gas onto the plastic, melting it while, at the same time, shielding it from oxygen.
+A reduction in fracture toughness may also be attributed to the embrittlement effect of impurities, or for body-centred cubic metals, from a reduction in temperature.
+The advantages of the method include efficient energy use, limited workpiece deformation, high production rates, easy automation, and no required filler materials.
+Finally, energy cost depends on arc time and welding power demand.
+Atoms will lose an electron(s) forming an array of positive ions.
+*Submerged arc welding (SAW) – uses an automatically fed consumable electrode and a blanket of granular fusible flux.
+To form an ionic bond, either a valence or bonding electron separates from one atom and becomes attached to another atom to form oppositely charged ions.
+The plastic first must be cleaned and then heated through the glass transition, turning the weld-interface into a thick, viscous liquid.
+Following the wars, several modern welding techniques were developed, including manual methods like SMAW, now one of the most popular welding methods, as well as semi-automatic and automatic processes such as GMAW, SAW, FCAW and ESW.
+The cost of materials includes the cost of the base and filler material, and the cost of shielding gases.
+Magnetic pulse welding (MPW) is industrially used since 1967.
+The process is commonly used in industry, especially for large products and in the manufacture of welded pressure vessels.
+In arc welding, the length of the arc is directly related to the voltage, and the amount of heat input is related to the current.
+Of great importance in this work was the description of a stable arc discharge and the indication of its possible use for many applications, one being melting metals.
+Heating is usually done with a gas or oxy-gas torch, or a furnace, because the temperatures for melting glass are often quite high.
+Single-U and double-U preparation joints are also fairly common—instead of having straight edges like the single-V and double-V preparation joints, they are curved, forming the shape of a U.
+Sometimes a tube may be attached to the glass, allowing it to be blown into various shapes, such as bulbs, bottles, or tubes.
+The electrode holder holds the electrode as it slowly melts away.
+Laser beam welding employs a highly focused laser beam, while electron beam welding is done in a vacuum and uses an electron beam.
+Two electrodes are simultaneously used to clamp the metal sheets together and to pass current through the sheets.
+Ductility is an important factor in ensuring the integrity of structures by enabling them to sustain local stress concentrations without fracture.
+Consumable electrode processes such as shielded metal arc welding and gas metal arc welding generally use direct current, but the electrode can be charged either positively or negatively.
+The trend of accelerating the speed at which welds are performed in the steel erection industry comes at a risk to the integrity of the connection.
+Other key areas of research and development include the welding of dissimilar materials (such as steel and aluminum, for example) and new welding processes, such as friction stir, magnetic pulse, conductive heat seam, and laser-hybrid welding.
+Welding glass is accomplished by heating the glass through the glass transition, turning it into a thick, formable, liquid mass.
+Labor cost depends on the deposition rate (the rate of welding), the hourly wage, and the total operation time, including time spent fitting, welding, and handling the part.
+The Middle Ages brought advances in forge welding, in which blacksmiths pounded heated metal repeatedly until bonding occurred.
+Robot welding is commonplace in industrial settings, and researchers continue to develop new welding methods and gain greater understanding of weld quality.
+After welding, a number of distinct regions can be identified in the weld area.
+To test the quality of a weld, either destructive or nondestructive testing methods are commonly used to verify that welds are free of defects, have acceptable levels of residual stresses and distortion, and have acceptable heat-affected zone (HAZ) properties.
+Shielded metal arc welding is also often used in underwater welding in the construction and repair of ships, offshore platforms, and pipelines, but others, such as flux cored arc welding and gas tungsten arc welding, are also common.
+The equipment is relatively inexpensive and simple, generally employing the combustion of acetylene in oxygen to produce a welding flame temperature of about 3100&nbsp;°C.
+The advances in arc welding continued with the invention of metal electrodes in the late 1800s by a Russian, Nikolai Slavyanov (1888), and an American, C. L. Coffin (1890).
+In the past, this process was used in the manufacture of beverage cans, but now its uses are more limited.
+Welds can be geometrically prepared in many different ways.
+Welding in space is also possible—it was first attempted in 1969 by Russian cosmonauts, when they performed experiments to test shielded metal arc welding, plasma arc welding, and electron beam welding in a depressurized environment.
+Renaissance craftsmen were skilled in the process, and the industry continued to grow during the following centuries.
+The ancient Greek historian Herodotus states in ''The Histories'' of the 5th century BC that Glaucus of Chios "was the man who single-handedly invented iron welding".
+The metal in this area is often weaker than both the base material and the fusion zone, and is also where residual stresses are found.
+Developments continued with the invention of laser beam welding, electron beam welding, magnetic pulse welding (MPW), and friction stir welding in the latter half of the century.
+The arc is more concentrated than the GTAW arc, making transverse control more critical and thus generally restricting the technique to a mechanized process.
+Shielding gas became a subject receiving much attention, as scientists attempted to protect welds from the effects of oxygen and nitrogen in the atmosphere.
+The amount of heat injected by the welding process plays an important role as well, as processes like oxyacetylene welding have an unconcentrated heat input and increase the size of the HAZ.
+Currently there is no standard or weld procedure which can ensure the published holding capacity of any unwitnessed connection, but this is under review by the American Welding Society.
+The thermal diffusivity of the base material plays a large role—if the diffusivity is high, the material cooling rate is high and the HAZ is relatively small.
+Tungsten electrodes are often used in lighting but will not bond to quartz glass, so the tungsten is often wetted with molten borosilicate glass, which bonds to both tungsten and quartz.
+In open-air applications, such as construction and outdoors repair, shielded metal arc welding is the most common process.
+In addition to melting the base metal, a filler material is often added to the joint to form a pool of molten material (the weld pool) that cools to form a joint that can be as strong, or even stronger, than the base material.
+If the electrode is positively charged, the base metal will be hotter, increasing weld penetration and welding speed.
+*Shielded metal arc welding (SMAW) – also known as "stick welding or electric welding", uses an electrode that has flux around it to protect the weld puddle.
+For instance, quartz has very low thermal expansion, while soda-lime glass has very high thermal expansion.
+In 1808, Davy, who was unaware of Petrov's work, rediscovered the continuous electric arc.
+When the ions are exerted in tension force, the inter-ionic spacing increases creating an electrostatic attractive force, while a repulsing force under compressive force between the atomic nuclei is dominant.
+Solvent welding is especially effective on plastics like PVC which burn at or below their glass transition, but may be ineffective on plastics like Teflon or polyethylene that are resistant to chemical decomposition.
+Fracture toughness is measured using a notched and pre-cracked rectangular specimen, of which the dimensions are specified in standards, for example ASTM E23.
+These processes use a welding power supply to create and maintain an electric arc between an electrode and the base material to melt metals at the welding point.
+One of the most popular, ultrasonic welding, is used to connect thin sheets or wires made of metal or thermoplastic by vibrating them at high frequency and under high pressure.
+Alternatively, a negatively charged electrode results in more shallow welds.
+When heating the solid material into this range, it will generally become softer and more pliable.
+Special alloys are often used for this purpose, ensuring that the coefficients of expansion match, and sometimes thin, metallic coatings may be applied to a metal to create a good bond with the glass.
+Conversely, a low diffusivity leads to slower cooling and a larger HAZ.
+Until the end of the 19th century, the only welding process was forge welding, which blacksmiths had used for centuries to join iron and steel by heating and hammering.
+Submerged arc welding was invented the same year and continues to be popular today.
+Electroslag welding was introduced in 1958, and it was followed by its cousin, electrogas welding, in 1961.
+To calculate the heat input for arc welding procedures, the following formula can be used:
+*Gas tungsten arc welding (GTAW) – also known as TIG (tungsten, inert gas), uses a non-consumable tungsten electrode to produce the weld.
+Nonconsumable electrode processes, such as gas tungsten arc welding, can use either type of direct current, as well as alternating current.
+To protect bystanders, the welding area is often surrounded with translucent welding curtains.
+Thermite welding was invented in 1893, and around that time another process, oxyfuel welding, became well established.
+For this, it gives metals their relatively high thermal and electrical conductivity as well as being characteristically ductile.
+Since the electrode is continuous, welding speeds are greater for GMAW than for SMAW.
+To supply the electrical power necessary for arc welding processes, a variety of different power supplies can be used.
+Metallic bonding can be classified as a type of covalent bonding for which the constituent atoms of the same type and do not combine with one another to form a chemical bond.
+Unlike metals, which have a specific melting point, glasses and plastics have a melting range, called the glass transition.
+The molten weld and the arc zone are protected from atmospheric contamination by being "submerged" under the flux blanket.
+Following the invention of the laser in 1960, laser beam welding debuted several decades later, and has proved to be especially useful in high-speed, automated welding.
+Methods such as visual inspection, radiography, ultrasonic testing, phased-array ultrasonics, dye penetrant inspection, magnetic particle inspection, or industrial computed tomography can help with detection and analysis of certain defects.
+Covalent bonding takes place when one of the constituent atoms loses one or more electrons, with the other atom gaining the electrons, resulting in an electron cloud that is shared by the molecule as a whole.
+Since many common welding procedures involve an open electric arc or flame, the risk of burns and fire is significant; this is why it is classified as a hot work process.
+Slag protects the weld puddle from atmospheric contamination.
+As the 20th century progressed, however, it fell out of favor for industrial applications.
+It is surrounded by the heat-affected zone, the area that had its microstructure and properties altered by the weld.
+In these processes, arc length is kept constant, since any fluctuation in the distance between the wire and the base material is quickly rectified by a large change in current.
+One disadvantage of AC, the fact that the arc must be re-ignited after every zero crossing, has been addressed with the invention of special power units that produce a square wave pattern instead of the normal sine wave, making rapid zero crossings possible and minimizing the effects of the problem.
+A variation of the process is plasma cutting, an efficient steel cutting process.
+Because of its stable current, the method can be used on a wider range of material thicknesses than can the GTAW process and it is much faster.

@@ -1,0 +1,200 @@
+The vacuum tube is then known as a triode, tetrode, pentode, etc., depending on the number of grids.
+Early sets used a grid bias battery or "C" battery which was connected to provide a ''negative'' voltage.
+Like vacuum tubes, it contains a hot cathode and an anode, but also a control electrode which behaves somewhat like the grid of a triode.
+This grid was held at the cathode (or "ground") voltage and its negative voltage (relative to the anode) electrostatically repelled secondary electrons so that they would be collected by the anode after all.
+However actual amplification by a vacuum tube only became practical with Lee De Forest's 1907 invention of the three-terminal "audion" tube, a crude form of what was to become the triode.
+In its Audion leaflets, the De Forest company even warned against any operation which might lead to too high a vacuum.
+Many early radio sets had a third battery called the "C battery" (unrelated to the present-day C cell) whose positive terminal was connected to the cathode of the tubes (or "ground" in most circuits) and whose negative terminal supplied this bias voltage to the grids of the tubes.
+Remaining gas atoms will ionize and conduct electricity between the elements in an undesired manner.
+It is one of the three 'constants' of a vacuum tube, the other two being its gain μ and plate resistance Rp or Ra.
+However, there are still a few applications for which tubes are preferred to semiconductors; for example, the magnetron used in microwave ovens, and certain high-frequency amplifiers.
+To prevent gases from compromising the tube's vacuum, modern tubes are constructed with "getters", which are usually small, circular troughs filled with metals that oxidize quickly, barium being the most common.
+Another undesirable consequence of secondary emission is that in extreme cases enough charge can flow to the screen grid to overheat and destroy it.
+The earliest vacuum tubes evolved from incandescent light bulbs, containing a filament sealed in an evacuated  glass envelope.
+In the early years of the 21st century there has been renewed interest in vacuum tubes, this time with the electron emitter formed on a flat silicon substrate, as in integrated circuit technology.
+This design helps to overcome some of the practical barriers to designing high-power, high-efficiency power tubes.
+Such a tube can also be used for detection of ionizing radiation as an alternative to the Geiger–Müller tube (itself not an actual vacuum tube).
+''Microphonics'' refers to internal vibrations of tube elements which modulate the tube's signal in an undesirable way; sound or vibration pick-up may affect the signals, or even cause uncontrolled howling if a feedback path develops between a microphonic tube and, for example, a loudspeaker.
+This plate was a bundled array of a huge number of short individual c.e.m.
+Since these sorts of "vacuum tubes" have functions other than electronic amplification and rectification they are described in their own articles.
+The cathode-ray tube (CRT) remained the basis for televisions and video monitors until superseded in the 21st century.
+Typical VFD phosphors emit a broad spectrum of greenish-white light, permitting use of color filters, though different phosphors can give other colors even within the same display.
+The groundwork laid by these scientists and inventors, however, was critical to the development of subsequent vacuum tube technology.
+Another important reliability problem is caused by air leakage into the tube.
+Arcing between tube elements can destroy the tube.
+in the postal services.
+With these devices, electrons are field-emitted from a large number of closely spaced individual emission sites.
+An alternative solution for power applications is the beam tetrode or "beam power tube", discussed below.
+The many scientists and inventors who experimented with such tubes include Thomas Edison, Eugen Goldstein, Nikola Tesla, and Johann Wilhelm Hittorf.
+The first grid, known as the control grid, (and sometimes other grids) transforms the diode into a ''voltage-controlled device'': the voltage applied to the control grid affects the current between the cathode and the plate.
+Not all electronic circuit valves/electron tubes are vacuum tubes (evacuated); gas-filled tubes are similar devices containing a gas, typically at low pressure, which exploit phenomena related to electric discharge in gases, usually without a heater.
+These are housed in an oil-filled aluminium housing to provide cooling.
+Limits to screen grid dissipation, in addition to plate dissipation, are listed for power devices.
+The getter (being a highly reactive metal) is effective against many atmospheric gases, but has no (or very limited) chemical reactivity to inert gases such as helium.
+Tubes on standby for long periods, with heater voltage applied, may develop high cathode interface resistance and display poor emission characteristics.
+Flowers was also a pioneer of using tubes as very fast (compared to electromechanical devices) electronic switches.
+Water as usually supplied has ions which conduct electricity; deionized water, a good insulator, is required.
+This is particularly true at microwave frequencies where such devices as the klystron and traveling-wave tube provide amplification at power levels unattainable using  semiconductor devices.
+The result was that heaters that warmed up faster also temporarily had higher resistance, because of their positive temperature coefficient.
+Because the filaments are in view, they must be operated at temperatures where the filament does not glow visibly.
+Power is also dissipated when the electrons from the cathode slam into the anode (plate) and heat it; this can occur even in an idle amplifier due to quiescent currents necessary to ensure linearity and low distortion.
+As the voltage applied to the so-called control grid (or simply "grid") was lowered from the cathode's voltage to somewhat more negative voltages, the amount of current from the filament to the plate would be reduced.
+A photomultiplier is a phototube whose sensitivity is greatly increased through the use of electron multiplication.
+A Colossus reconstruction was switched on in 1996; it was upgraded to Mk2 configuration in 2004; it found the key for a wartime German ciphertext in 2007.
+Higher power diode tubes or ''power rectifiers'' found their way into power supply applications until they were eventually replaced by silicon rectifiers in the 1960s.
+High-power amplifier tubes are designed with external anodes which can be cooled by convection, forced air or circulating water.
+It was only years later that John Ambrose Fleming utilized the rectifying property of the diode tube to detect (demodulate) radio signals, a substantial improvement on the early cat's-whisker detector already used for rectification.
+Later known as the Fleming valve, it could be used as a rectifier of alternating current and as a radio wave detector.
+Other classifications are:
+The development of the diffusion pump in 1915 and improvement by Irving Langmuir led to the development of high-vacuum tubes.
+A ''cheater cord'' was a power cord ending in the special socket used by the safety interlock; servicers could then power the device with the hazardous voltages exposed.
+Historically, the image orthicon TV camera tube widely used in television studios prior to the development of modern CCD arrays also used multistage electron multiplication.
+In this system special-quality tubes (e.g., for long-life computer use) are indicated by moving the number immediately after the first letter: the E83CC is a special-quality equivalent of the ECC83, the E55L a power pentode with no consumer equivalent.
+Some of these effects make tubes unsuitable for small-signal audio use, although unobjectionable for many purposes.
+Designers developed tube designs that sealed reliably.
+Glass may also be damaged by high-voltage arcing.
+* by frequency range (audio, radio, VHF, UHF, microwave)
+Sometimes emission can be restored for a time by raising heater voltage, either for a short time or a permanent increase of a few percent.
+Tube heaters may also fail without warning, especially if exposed to over voltage or as a result of manufacturing defects.
+It has been said that transmitters with vacuum tubes are better able to survive lightning strikes than transistor transmitters do.
+Once Colossus was built and installed, it ran continuously, powered by dual redundant diesel generators, the wartime mains supply being considered too unreliable.
+Above that level, water or water-vapor cooling are used.
+This was called the idle condition, and the plate current at this point the "idle current".
+An extremely thin (molecular) layer of thorium atoms forms on the outside of the wire's carbonized layer and, when heated, serve as an efficient source of electrons.
+Most modern tubes have glass envelopes, but metal, fused quartz (silica) and ceramic have also been used.
+There was even an occasional design that had two top cap connections.
+The audio output stage, for instance, had a larger cathode, and warmed up more slowly than lower-powered tubes.
+In many cases manufacturers and the military gave tubes designations which said nothing about their purpose (e.g., 1614).
+The continuous dynode was resistive, and its ends were connected to enough voltage to create repeated cascades of electrons.
+The so-called dynatron oscillator thus operated on the same principle of negative resistance as the tunnel diode oscillator many years later.
+television tuners and some HiFi FM radio tuners (Sansui 500A) until replaced by high-frequency capable transistors.
+If a tube develops a serious leak in the envelope, this deposit turns a white color as it reacts with atmospheric oxygen.
+* tubes used to display information (Nixie tubes, "magic eye" tubes, Vacuum fluorescent displays, CRTs)
+Free electron lasers, used to generate high-power coherent light and even X-rays, are highly relativistic vacuum tubes driven by high-energy particle accelerators.
+Even after AC power supplies became commonplace, some radio sets continued to be built with C batteries, as they would almost never need replacing.
+(The electron optics of the wideband electron gun could not provide enough current to directly excite the phosphor.)
+One type had a funnel of sorts to capture the secondary electrons.
+Vacuum tubes may have or develop defects in operation that make an individual tube unsuitable in a given device, although it may perform satisfactorily in another application.
+Television receivers either required a transformer or could use a voltage doubling circuit.
+He showed that the addition of a second grid, located between the control grid and the plate (anode), known as the ''screen grid'', could solve these problems.
+By deriving the high voltage from a half-wave rectifier directly connected to the AC mains, the heavy and costly power transformer was eliminated.
+Since the tube contains a vacuum, the anodes in most small and medium power tubes are cooled by radiation through the glass envelope.
+Flowers's Colossus and its successor Colossus Mk2 were built by the British during World War II to substantially speed up the task of breaking the German high level Lorenz encryption.
+Their claimed advantages include much greater robustness and the ability to provide high power output at low power consumption.
+Since virtually no current flows through a tube's grid connection, these batteries had very low drain and lasted the longest.
+Tubes have different functions, such as cathode ray tubes which create a beam of electrons for display purposes (such as the television picture tube) in addition to more specialized functions such as electron microscopy and electron beam lithography.
+Cathodes in small "receiving" tubes are coated with a mixture of barium oxide and strontium oxide, sometimes with addition of calcium oxide or aluminium oxide.
+One progressive type of failure, especially with physically large envelopes such as those used by camera tubes and cathode-ray tubes, comes from helium infiltration.
+The first such "computer tube" was Sylvania's 7AK7 of 1948.
+Early gettered tubes used phosphorus-based getters, and these tubes are easily identifiable, as the phosphorus leaves a characteristic orange or rainbow deposit on the glass.
+The effect appears as impaired or absent functioning, and as a diffuse glow along the electron stream inside the tube.
+), or be absolutely anything (standard and special-quality equivalents of the same tube include 12AU7, ECC82, B329, CV491, E2163, E812CC, M8136, CV4003, 6067, VX7058, 5814A and 12AU7A).
+Round invented the indirectly heated tube around 1913.
+At switch on, full heating current was provided and the set would play almost immediately.
+(This technology is distinct from fluorescent lighting, which uses a discharge tube.)
+By the late 1950s it was routine for special-quality small-signal tubes to last for hundreds of thousands of hours, if operated conservatively.
+Techniques to produce and maintain better vacua in tubes were then developed.
+The nuvistor was a modern receiving tube using a very small metal and ceramic package.
+1T4, 1R5 and 1A7 are examples.
+A typical example, the 6AG11, contained two triodes and two diodes.
+Originally, the only use for tubes in radio circuits was for rectification, not amplification.
+Aligning the grid wires also helps to reduce screen current, which represents wasted energy.
+For example, the 12AX7 is a double triode (two sets of three electrodes plus heater) with a 12.6V heater (which, as it happens, can also be connected to run from 6.3V).
+Getters act by chemically combining with residual or infiltrating gases, but are unable to counteract (non-reactive) inert gases.
+Since current can only pass in one direction, such a diode (or ''rectifier'') will convert alternating current (AC) to pulsating DC.
+De Forest used Heinrich Geissler's mercury displacement pump, which left behind a partial vacuum.
+The exact mechanism not clear: the metal-to-glass lead-in seals are one possible infiltration site.
+The only time it was switched off was for conversion to Mk2, with the addition of more tubes.
+Air is blown through an array of fins attached to the anode, thus cooling it.
+Cathode depletion was uncommon in signal tubes but was a frequent cause of failure of monochrome television cathode-ray tubes.
+X-ray tubes are used in medical imaging among other uses.
+The tubes developed for Whirlwind were later used in the giant SAGE air-defense computer system.
+These are efficient (usually narrow-band) RF generators and still find use in radar, microwave ovens and industrial heating.
+To meet the reliability requirements of the 1951 US digital computer Whirlwind, "special-quality" tubes with extended life, and a long-lasting cathode in particular, were produced.
+The design of these tubes provides a bright glow despite the low energy of the incident electrons.
+Subminiature tubes were produced using wire leads rather than sockets, however these were restricted to rather specialized applications.
+Constraints due to the number of external pins (leads) often forced the functions to share some of those external connections such as their cathode connections (in addition to the heater connection).
+Tubes with grids can be used for many purposes, including  amplification, rectification, switching, oscillation, and display.
+Bare tungsten filaments remain in use in small transmitting tubes but are brittle and tend to fracture if handled roughly – e.g.
+), 12AY7, and the 12AZ7.
+The longest recorded valve life was earned by a Mazda AC/P pentode valve (serial No.
+The "A" battery or LT (low-tension) battery provided the filament voltage.
+Many designs used such a screen grid as an additional anode to provide feedback for the oscillator function, whose current was added to that of the incoming radio frequency signal.
+Current can only flow in one direction through the device between the two electrodes, as electrons emitted by the cathode travel through the tube and are collected by the anode.
+The first number is the (rounded) heater voltage; the letters designate a particular tube but say nothing about its structure; and the final number is the total number of electrodes (without distinguishing between, say, a tube with many electrodes, or two sets of electrodes in a single envelope—a double triode, for example).
+As of 2014, NASA's Ames Research Center was reported on working on vacuum-channel transistors produced using CMOS techniques.
+In a water-cooled tube, the anode voltage appears directly on the cooling water surface, thus requiring the water to be an electrical insulator to prevent  high voltage leakage through the cooling water to the radiator system.
+X-ray tubes are also vacuum tubes.
+An electric heater is inserted into the cathode sleeve, and insulated from it electrically by a coating of aluminium oxide.
+An arc can be caused by applying voltage to the anode (plate) before the cathode has come up to operating temperature, or by drawing excess current through a rectifier, which damages the emission coating.
+Leakage current due to internal contamination may also inject noise.
+The pentode was invented in 1926 by Bernard D. H. Tellegen and became generally favored over the simple tetrode.
+Cracks may result from stress in the glass, bent pins or impacts; tube sockets must allow for thermal expansion, to prevent stress in the glass at the pins.
+High power audio amplifiers and rectifiers required larger envelopes to dissipate heat.
+When triodes were first used in radio transmitters and receivers, it was found that tuned amplification stages had a tendency to oscillate unless their gain was very limited.
+The 19th century saw increasing research with evacuated tubes, such as the Geissler and Crookes tubes.
+Since secondary electrons can outnumber the primary electrons, in the worst case, particularly as the plate voltage dips below the screen voltage, the plate current can decrease with increasing plate voltage.
+Unused ("New Old Stock") tubes can also exhibit inert gas infiltration, so there is no long-term guarantee of these tube types surviving into the future.
+A tube with an unusually high level of internal gas may exhibit a visible blue glow when plate voltage is applied.
+This is possible using more recent cathode technology, and these tubes also operate with quite low anode voltages (often less than 50 volts) unlike cathode ray tubes.
+Some otherwise conventional tubes do not fall into standard categories; the 6JH8 had several common grids, followed by a pair of beam deflection electrodes which deflected the current towards either of two anodes.
+Trapped gases or slow gas leaks can also damage the cathode or cause plate (anode) current runaway due to ionization of free gas molecules.
+Convection is not possible in most tubes since the anode is surrounded by vacuum.
+In the early days some manufacturers used proprietary names which might convey some information, but only about their products; the KT66 and KT88 were "'''K'''inkless '''T'''etrodes".
+Earlier designs had quite-different thermal time constants.
+The tube is then sealed and the getter is heated to a high temperature, again by radio frequency induction heating, which causes the getter material to vaporize and react with any residual gas.
+Such systems usually have a built-in water-conductance monitor which will shut down the high-tension supply if the conductance  becomes too high.
+X-ray tubes used for continuous-duty operation in fluoroscopy and CT imaging equipment may use a focused cathode and a rotating anode to dissipate the large amounts of heat thereby generated.
+The end-of-life scenario for a thoriated-tungsten filament is when the carbonized layer has mostly been converted back into another form of tungsten carbide and emission begins to drop off rapidly; a complete loss of thorium has never been found to be a factor in the end-of-life in a tube with this type of emitter.
+As long as the control grid is negative relative to the cathode, essentially no current flows into it, yet a change of several volts on the control grid is sufficient to make a large difference in the plate current, possibly changing the output by hundreds of volts (depending on the circuit).
+Hence, from the mid-1950s solid-state devices such as transistors gradually replaced tubes.
+FM broadcast transmitters with solid state power amplifiers up to approx.
+Most small signal vacuum tube devices have been superseded by semiconductors, but some vacuum tube electronic devices are still in common use.
+The solid-state device which operates most like the pentode tube is the junction field-effect transistor (JFET), although vacuum tubes typically operate at over a hundred volts, unlike most semiconductors in most applications.
+Various alternatives such as using a combination of a triode with a hexode and even an octode have been used for this purpose.
+Usually oxygen in the air reacts chemically with the hot filament or cathode, quickly ruining it.
+EMI engineers Cabot Bull and Sidney Rodda developed the design which became the 6L6, the first popular beam power tube, introduced by RCA in 1936 and later corresponding tubes in Europe the KT66, KT77 and KT88 made by the Marconi-Osram Valve subsidiary of GEC (the KT standing for "Kinkless Tetrode").
+In 1938 a technique was developed to use an all-glass construction with the pins fused in the glass base of the envelope.
+To combat the stability problems and limited voltage gain due to the Miller effect, the physicist Walter H. Schottky invented the tetrode tube in 1919.
+The most common design uses a cold cathode in the form of a large-area field electron source (for example a field emitter array).
+In a triode this so-called secondary emission of electrons is not important since they are simply re-captured by the more positive anode (plate).
+The bases were commonly made with phenolic insulation which performs poorly as an insulator in humid conditions.
+Electrons, however, could not pass in the reverse direction because the plate was not heated and thus not capable of thermionic emission of electrons.
+The heater's failure mode is typically a stress-related fracture of the tungsten wire or at a weld point and generally occurs after accruing many thermal (power on-off) cycles.
+In any tube, electrons strike the anode with sufficient energy to cause the emission of electrons from its surface.
+The problem of short lifetime was traced to evaporation of silicon, used in the tungsten alloy to make the heater wire easier to draw.
+Vacuum tubes can be tested outside of their circuitry using a vacuum tube tester.
+Where 230 V nominal mains voltage was used, television receivers as well could dispense with a power transformer.
+Vacuum hardness and proper selection of construction materials are the major influences on tube lifetime.
+"The common wisdom was that valves—which, like light bulbs, contained a hot glowing filament—could never be used satisfactorily in large numbers, for they were unreliable, and in a large installation too many would fail in too short a time".
+Langmuir was one of the first scientists to realize that a harder vacuum would improve the amplifying behaviour of the triode, having improved Gaede's diffusion vacuum pump.
+Tektronix made a high-performance wideband oscilloscope CRT with a channel electron multiplier plate behind the phosphor layer.
+However more modern circuits were designed using cathode biasing, eliminating the need for a third power supply voltage; this became practical with tubes using indirect heating of the cathode.
+Typical values of gm for a small-signal vacuum tube are 1 to 10 millisiemens.
+The screen grid may also generate considerable heat.
+The solution was to add another grid between the screen grid and the main anode, called the suppressor grid (since it suppressed secondary emission current toward the screen grid).
+This also allowed such receivers to operate on direct current, a so-called AC/DC receiver design.
+One example is the miniature type 2D21, often seen in 1950s jukeboxes as control switches for relays.
+If these are exceeded then tube failure is likely.
+Little practical use was ever made of this property (however early radios often implemented volume controls through varying the filament current of amplifying tubes).
+The high voltage applied to the anode (plate) was provided by the "B" battery or the HT (high-tension) supply or battery.
+X-ray tube is also a special type of Cathode ray tube, whilst x-ray emits when high voltage electron hit the anode.
+Powering the filaments directly from a power transformer introduced mains-frequency (50 or 60&nbsp;Hz) hum into audio stages.
+Additional electrodes create tetrodes, pentodes, and so forth, which have multiple additional functions made possible by the additional controllable electrodes.
+Tubes designed specifically for this mode of operation were made.
+Arnold recommended that AT&T purchase the patent.
+But in a tetrode they can be captured by the screen grid (thus also acting as an anode) since it is also at a high voltage, thus robbing them from the plate current and reducing the amplification of the device.
+(By comparison, the largest power transistor can only dissipate about 1 kilowatt.)
+The beam power tube is usually a tetrode with the addition of beam-forming electrodes, which take the place of the suppressor grid.
+Later tetrodes had anodes treated to reduce secondary emission; earlier ones such as the type 77 sharp-cutoff pentode connected as a tetrode made better dynatrons.
+Other reasons for using a top cap include improving stability by reducing grid-to-anode capacitance, improved high-frequency performance, keeping a very high plate voltage away from lower voltages, and accommodating one more electrode than allowed by the base.
+To avoid the warm-up delay, "instant on" television receivers passed a small heating current through their tubes even when the set was nominally off.
+In 1908, De Forest filed for a patent () for such a three-electrode version of his original Audion tube for use as an electronic amplifier in radio communications.
+In the US, Radio Electronics Television Manufacturers' Association (RETMA) designations comprise a number, followed by one or two letters, and a number.
+Transformer-less power supplies required safety precautions in their design to limit the shock hazard to users, such as electrically insulated cabinets and an interlock tying the power cord to the cabinet back, so the line cord was necessarily disconnected if the user or service person opened the cabinet.
+This could be used for amplifying audio signals and was intended for use in telephony equipment.
+The RCA Type 55 was a double diode triode used as a detector, automatic gain control rectifier and audio preamplifier in early AC powered radios.
+In one such design, a tap on the tube heater string supplied the 6 volts needed for the dial light.
+Gas and ions within the tube contribute to grid current which can disturb operation of a vacuum tube circuit.
+* by application (receiving tubes, transmitting tubes, amplifying or switching, rectification, mixing)
+The highest-power tube currently available is the Eimac , a forced water-cooled power tetrode capable of dissipating 2.5 megawatts.

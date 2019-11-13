@@ -1,0 +1,200 @@
+In the matrix clauses, the ''wh''-word is a dependent of the finite verb, whereas it is the head over the finite verb in the embedded ''wh''-clauses.
+- Embedded ''wh''-clause focusing on the oblique object, subject-auxiliary inversion absent
+He will flatter '''whomever''' is present.
+These relative clauses are "free" because they can appear in a variety of syntactic positions; they are not limited to appearing as modifiers of nominals.
+::What he said was ridiculous.
+Subject-auxiliary inversion is obligatory in matrix clauses when something other than the subject is focused, but it never occurs in embedded clauses regardless of the constituent that is focused.
+'''Whom''' is he trying to avoid?
+- Standard declarative SV-clause
+The embedded ''wh''-clause is an object argument each time.
+::c. Someone is wondering '''where''' Larry sent Susan.
+They mentioned his cheating on the test.
+She refuses to consider the issue.
+'''Who''' likes the meat?
+- Yes/no-question expressed by verb first order
+complementizer phrases) or as IPs (i.e.
+- Non-finite gerund clause
+Most verb first clauses are main clauses.
+tense phrases), etc.
+The predicate in question is usually the matrix predicate of a main clause, but embedding of predicates is also frequent.
+Both of these argument clauses are directly dependent on the main verb of the matrix clause.
+- Non-finite gerund clause
+The content clauses like these in the a-sentences are arguments.
+'''Who''' called you?
+- Adjunct clause modifying matrix clause
+::c. '''Had''' he stopped laughing,... - Condition expressed by verb first order
+A main clause can stand alone, i.e.
+All clause types (SV-, verb first, ''wh-'') can function as adjuncts, although the stereotypical adjunct clause is SV and introduced by a subordinator (i.e.
+''after'', ''because'', ''before'', ''when'', etc.
+A primary division for the discussion of clauses is the distinction between main clauses (i.e.
+One important aspect of matrix ''wh''-clauses is that subject-auxiliary inversion is obligatory when something other than the subject is focused.
+The next four trees illustrate the distinction mentioned above between matrix ''wh''-clauses and embedded ''wh''-clauses
+They told us '''why''' they are doing that.
+::b. the woman '''who''' sang a song.
+The embedded ''wh''-clause ''what we want'' is the object argument of the predicate ''know''.
+There is a progression in the size and status of syntactic units: ''words Bill stopping the project was a big disappointment.
+Standard SV-clauses can also be interrogative or exclamative, however, given the appropriate intonation contour and/or the appearance of a question word, e.g.
+- Standard declarative SV-clause (verb second order)
+::d. '''Do''' the job!
+Something happened twice.
+Subordinate clauses (''embedded clauses'', ''dependent clauses'') are those that would be awkward or incomplete if they were alone.
+We've heard about Susan attempting a solution.
+A systematic distinction in word order emerges across matrix ''wh''-clauses, which can have VS order, and embedded ''wh''-clauses, which always maintain SV order, e.g.
+The following dependency grammar trees show that embedded clauses are dependent on an element in the main clause, often on a verb:
+There are, however, strong tendencies.
+predicative adjectives (''That was good'') and predicative nominals (''That was the truth'').
+These predicative clauses are functioning just like other predicative expressions, e.g.
+The main clause encompasses the entire tree each time, whereas the embedded clause is contained within the main clause.
+The typical instance of this type of adjunct is a relative clause, e.g.
+When it is the subject (or something embedded in the subject) that is focused, however, subject-auxiliary inversion does not occur.
+These two embedded clauses are adjunct clauses because they provide circumstantial information that modifies a superordinate expression.
+These adjunct clauses modify the entire matrix clause.
+The following examples illustrate standard interrogative ''wh''-clauses.
+The position of the finite verb is one major trait used for classification, and the appearance of a specific type of focusing word (e.g.
+::c. They are waiting for some food that will not come.
+- Spoken forcefully, this clause is exclamative.
+A clause that functions as the argument of a given predicate is known as an ''argument clause''.
+A particular type of ''wh''-relative-clause is the so-called ''free relative clause''.
+The position of the ''wh''-word across the matrix clauses (a-trees) and the embedded clauses (b-trees) captures the difference in word order.
+- Subject-auxiliary inversion is blocked in embedded ''wh''-clause.
+That was '''when''' they laughed.
+- Object focused, subject-auxiliary inversion occurs
+A subordinate clause (i.e.
+Embedded clauses can be categorized according to their syntactic function in terms of predicate-argument structures.
+SV-clauses are usually declarative, but intonation and/or the appearance of a question word can render them interrogative or exclamative.
+'''Why''' are they doing that?
+::c. *They told us '''why''' are they doing that.
+''wh''-clause that functions as (part of) the main predicate
+The arrow points away from the adjunct towards it governor to indicate that semantic selection is running counter to the direction of the syntactic dependency; the adjunct is selecting its governor.
+They are also prevalent, though, as relative pronouns, in which case they serve to introduce a relative clause and are not part of a question.
+This stance is supported by the clear predicate status of many ''to''-infinitives.
+While the subject-predicate relationship is indisputably present, the underlined strings do not behave as single constituents, a fact that undermines their status as clauses.
+- ''Wh''-clause functioning as an oblique object argument
+They can be viewed as basic, other clause types being derived from them.
+- Gerund with noun status
+- Matrix interrogative ''wh''-clause focusing on the oblique object, subject-auxiliary inversion present
+Some of the distinctions presented above are represented in syntax trees.
+She refuses PRO to consider the issue.
+We like the music that you brought.
+A simple sentence usually consists of a single finite clause with a finite verb that is independent.
+- Free relative clause functioning as subject argument
+The subject-predicate relationship that has long been taken as the defining trait of clauses is fully present in the a-sentences.
+He attempted PRO to explain his concerns.
+::c. You've been hungry for how long?
+- Predicative ''wh''-clause, i.e.
+As embedded clauses, relative clauses in English cannot display subject-auxiliary inversion.
+- Embedded interrogative ''wh''-clause focusing on the subject
+pronoun) to help address the facts of control constructions, e.g.
+subordinate conjunction, e.g.
+The subjects ''she'' and ''he'' are dependents of the matrix verbs ''refuses'' and ''attempted'', respectively, not of the ''to''-infinitives.
+- Free relative clause functioning as object argument
+- Subject-auxiliary inversion is absent in embedded ''wh-''clause.
+), and a phrase level projection (e.g.
+- Embedded ''wh''-clause focusing on the object, subject-auxiliary inversion absent
+The relative clauses are adjuncts, however, not arguments.
+They form the matrix predicate together with the copula.
+Each of the gerunds in the a-sentences (''stopping'', ''attempting'', and ''cheating'') constitutes a non-finite clause.
+- ''Wh''-clause functioning as an object argument
+The b-sentences are direct questions (main clauses), and the c-sentences contain the corresponding indirect questions (embedded clauses):
+This use of labels should not, however, be confused with the actual status of the syntactic units to which the labels are attached.
+- Subject-auxiliary inversion results in VS order in matrix ''wh''-clause.
+There has been confusion about the distinction between clauses and phrases.
+- Subject-auxiliary inversion is absent in embedded ''wh''-clause.
+The first is a dependent of the main verb of the matrix clause and the second is a dependent of the object noun.
+- Relative clause functioning as an adjunct that modifies the noun ''food''
+- Standard declarative SV-clause
+::c. We know '''whom''' Larry sent to the store.
+We know '''whom''' he is trying to avoid.
+- Imperative formed with verb first order
+Another important aspect of ''wh''-clauses concerns the absence of subject-auxiliary inversion in embedded clauses, as illustrated in the c-examples just produced.
+Clauses can be classified according to a distinctive trait that is a prominent characteristic of their syntactic form.
+Some theories of syntax posit the null subject PRO (i.e.
+They '''have''' done the job.
+::a. Larry sent Susan to the store.
+When they function as nouns as in the b-sentences, it is debatable whether they constitute clauses, since nouns are not generally taken to be constitutive of clauses.
+Verb first conditional clauses, however, must be classified as embedded clauses because they cannot stand alone.
+''Wh''-words often serve to help express a constituent question.
+::a. the claim that he was going to change it - Argument clause that provides the content of a noun (i.e.
+Examples like these demonstrate that how a clause functions cannot be known based entirely on a single distinctive syntactic criterion.
+- Relative clause functioning as an adjunct that modifies the noun ''people''
+it can constitute a complete sentence by itself.
+Head-Driven Phrase Structure Grammar, Construction Grammar, dependency grammar) reject the presence of null elements such as PRO, which means they are likely to reject the stance that ''to''-infinitives constitute clauses.
+- Standard declarative SV-clause
+They do not, however, take overt subjects.
+''Wh''-clauses contain a ''wh''-word.
+''embedded clauses'', ''dependent clauses'').
+Matrix ''wh''-clauses have V2 word order, whereas embedded wh-clauses have (what amounts to) V3 word order.
+In the 1970s, chomskyan grammars began labeling many clauses as CPs (i.e.
+- Imperative formed with verb first order
+- Subject-auxiliary inversion results in VS order in matrix ''wh''-clause.
+Other theories of syntax and grammar (e.g.
+The ''wh''-word focuses a particular constituent and most of the time, it appears in clause-initial position.
+::b. everyone I know - Relative clause lacking a relative pronoun entirely and modifying the indefinite pronoun ''everyone''
+These two embedded clauses are arguments.
+'''Whom''' did Larry send to the store?
+::a. I know everyone.
+- Matrix interrogative ''wh''-clause focusing on the object, subject-auxiliary inversion present
+- Non-finite gerund clause
+He became '''what''' he always wanted to be.
+- ''Wh''-clause functioning as the subject argument
+The choice of labels was influenced by the theory-internal desire to use the labels consistently.
+- Subject-auxiliary inversion is blocked in embedded ''wh''-clause.
+- SV-clause functioning as the subject argument
+However, the subject is sometimes not expressed, often the case in null-subject languages if the subject is retrievable from context, but it sometimes also occurs in other languages such as English (as in imperative sentences and non-finite clauses).
+They mentioned him cheating on the test.
+That is, embedded clauses can be an argument of a predicate, an adjunct on a predicate, or (part of) the predicate itself.
+::He talked about '''what''' he had said.
+Adjunct clauses are embedded clauses that modify an entire predicate-argument structure.
+::a. the idea that we should alter the law - Argument clause that provides the content of a noun (i.e.
+''wh''-word) is another.
+- Adjunct clause modifying matrix clause
+::c. '''Had''' they done the job,... - Condition expressed by verb first order
+::c. They asked '''who''' likes the meat.
+A typical clause consists of a subject and a predicate, the latter typically a verb phrase, a verb with any objects and other modifiers.
+In grammar, a '''clause''' is the smallest grammatical unit that can express a complete proposition.
+Declarative clauses like these are by far the most frequently occurring type of clause in any language.
+- Gerund with noun status
+::a. Larry sent Susan to the store.
+The layered structures of the chomskyan tradition are again likely to view the underlined strings as clauses, whereas the schools of syntax that posit flatter structures are likely to reject clause status for them.
+::b. the time '''when''' they left early - Relative clause introduced by the relative proform ''when'' and modifying the noun ''time''
+::That they actually helped was really appreciated.
+::b. something '''that''' happened twice - Relative clause introduced by the relative pronoun ''that'' and modifying the indefinite pronoun ''something''
+::c. *We know '''whom''' is he trying to avoid.
+- Gerund with noun status
+''matrix clauses'', ''independent clauses'') and subordinate clauses (i.e.
+The expression on the right is a predication over the noun phrase immediately to its left.
+They can function as arguments, as adjuncts, or as predicative expressions.
+He '''must''' stop laughing.
+- Matrix interrogative ''wh''-clause focusing on the subject
+), an intermediate projection (e.g.
+They seem to straddle two syntactic categories: they can function as non-finite verbs or as nouns.
+A finite clause contains a structurally central finite verb, whereas the structurally central word of a non-finite clause is often a non-finite verb.
+A more traditional understanding of clauses and phrases maintains that phrases are not clauses, and clauses are not phrases.
+The arrow dependency edges identify them as adjuncts.
+::They mentioned that they had actually helped.
+::a. Fred arrived before you did.
+- Yes/no-question expressed by verb first order
+These trees make the difference between main and subordinate clauses very clear, and they also illustrate well the difference between argument and adjunct clauses.
+The suffix ''-ever'' is often employed to render a standard relative pronoun as a pronoun that can introduce a free relative clause.
+- Appearance of interrogative word ''how'' and rising intonation make the clause a constituent question
+Adjunct clauses can also modify a nominal predicate.
+Main clauses (''matrix clauses'', ''independent clauses'') are those that can stand alone as a sentence.
+Thus ''before you did'' in the first example modifies the matrix clause ''Fred arrived''.
+''embedded clause''), in contrast, is reliant on the appearance of a main clause; it depends on the main clause and is therefore a dependent clause, whereas the main clause is an independent clause.
+He attempted to explain his concerns.
+Relative clauses introduced by the relative pronoun ''that'' as in the b-clauses here have an outward appearance that is closely similar to that of content clauses.
+- Relative clause functioning as an adjunct that modifies the noun ''music''
+Traditional grammar focuses on finite clauses, the awareness of non-finite clauses having arisen much later in connection with the modern study of syntax.
+::b. the idea that came up - Adjunct clause (relative clause) that modifies a noun
+'''Should''' he stop laughing?
+- Adjunct clause  modifying matrix clause
+With the presence of PRO as a null subject, ''to''-infinitives can be construed as complete clauses, since both subject and predicate are present.
+- Standard declarative SV-clause
+::We know '''what''' he said.
+- Subject focused,  no subject-auxiliary inversion
+The embedded clause ''that he is gaining'' is the subject argument of the predicate ''is motivating''.
+Argument clauses can appear as subjects, as objects, and as obliques.
+a clause that functions as (part of) the main predicate
+- Rising intonation on ''fed'' makes the clause a yes/no-question.
+Such argument clauses are content clauses:
+- Standard declarative SV-clause (verb second order)

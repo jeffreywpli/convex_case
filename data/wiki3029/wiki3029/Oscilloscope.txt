@@ -1,0 +1,200 @@
+They have a few (widely spaced) frequency ranges, and relatively wide-range continuous frequency control within a given range.
+Most oscilloscopes allow for probe attenuation factors, displaying the effective sensitivity at the probe tip.
+More sophisticated analog oscilloscopes contain a second timebase for a delayed sweep.
+In digital instruments, the sampling rate of the analog to digital converter (ADC) is a factor, but the stated analog bandwidth (and therefore the overall bandwidth of the instrument) is usually less than the ADC's Nyquist frequency.
+At the highest sample rates, the memory may be limited to a few tens of KB.
+This stable and reproducible component allowed General Radio to manufacture an oscilloscope that was usable outside a laboratory setting.
+Because probes wear out, and because the auto-sensing circuitry is not compatible between different makes of oscilloscope, auto-sensing probe scaling is not foolproof.
+This can start when the delay expires, or can be triggered (only) after the delay expires.
+Using a shielded cable (i.e.,&nbsp;coaxial cable) is better for low level signals.
+To help in restoring a visible display, the beam finder circuit overrides any blanking and limits the beam deflected to the visible portion of the screen.
+This type of DSO deliberately samples at a much lower frequency than the Nyquist limit and then uses signal processing to reconstruct a composite view of a typical pulse.
+Another combination mode multiplexes (alternates) the main and delayed sweeps so that both appear at once; a trace separation control displaces them.
+Matching the time constants makes the attenuation independent of frequency.
+To avoid this, these sweeps include a timing circuit that generates free-running triggers so a trace is always visible.
+To do so, the probe connectors (modified BNCs) had an extra contact to define the probe's attenuation.
+Early (tube) oscilloscopes and lowest-cost oscilloscopes have sweep oscillators that run continuously, and are uncalibrated.
+Found on some better analog oscilloscopes, this varies the time (holdoff) during which the sweep circuit ignores triggers.
+Less common are oscilloscopes with more traces; four inputs are common among these, but a few (Kikusui, for one) offered a display of the sweep trigger signal if desired.
+Better quality general purpose oscilloscopes include a calibration signal for setting up the compensation of test probes; this is (often) a 1&nbsp;kHz square-wave signal of a definite peak-to-peak voltage available at a test terminal on the front panel.
+Since it is also a hazard to break a safety ground connection, instruction manuals strongly advise against this practice.)
+The problem can still occur when, for example, viewing a short section of a repetitive waveform that repeats at intervals thousands of times longer than the section viewed (for example a short synchronization pulse at the beginning of a particular television line), with an oscilloscope that cannot store the extremely large number of samples between one instance of the short section and the next.
+Some dedicated X-Y displays reduce beam current greatly, or blank the display entirely, if there are no inputs present.
+Triggered sweeps can display a blank screen if there are no triggers.
+Such oscilloscopes also are likely to have a trace separation control for  multiplexed display of both the main and delayed sweeps together.
+To catch these events, some oscilloscopes, known as "storage scopes", preserve the most recent sweep on the screen.
+Likewise, manually setting the probe attenuation is prone to user error and it is a common mistake to have the probe scaling set incorrectly; resultant voltage readings can then be wrong by a factor of 10.
+For a period of time, called ''holdoff'', (extendable by a front-panel control on some better oscilloscopes), the sweep circuit resets completely and ignores triggers.
+Less-frequently-used inputs include one (or two) for triggering the sweep, horizontal deflection for X‑Y mode displays, and trace brightening/darkening, sometimes called ''z'‑axis inputs.
+The user interface and signal processing software runs on the user's computer, rather than on an embedded computer as in the case of a conventional DSO.
+Comparing the grid markings with the waveform permits one to measure both voltage (vertical axis) and time (horizontal axis).
+Multi-trace oscilloscopes also switch channels either in chopped or alternate modes.
+A switch selects '''display modes''': Main sweep only, with a brightened region showing when the delayed sweep is advancing, delayed sweep only, or (on some) a combination mode.
+As described under delayed sweeps, a trigger delay circuit (typically the main sweep) extends this delay to a known and adjustable interval.
+There are also current probes, with cores that surround the conductor carrying current to be examined.
+Many oscilloscopes have different plug-in modules for different purposes, e.g.,&nbsp;high-sensitivity amplifiers of relatively narrow bandwidth, differential amplifiers, amplifiers with four or more channels, sampling plugins for repetitive signals of very high frequency, and special-purpose plugins, including audio/ultrasonic spectrum analyzers, and stable-offset-voltage direct-coupled channels with relatively high gain.
+Operating voltage (effective value of AC/DC to ground)
+A very simple control feeds an adjustable amount of the vertical signal (or possibly, a related external signal) to the sweep oscillator.
+A new type of oscilloscope is emerging that consists of a specialized signal acquisition board (which can be an external USB or parallel port device, or an internal add-on PCI or ISA card).
+That is, the signal scrolls across the screen from right to left.
+In a piece of electronic equipment, for example, the connections between stages (e.g.
+In addition to the screen, most display sections are equipped with three basic controls: a focus knob, an intensity knob and a beam finder button.
+Often, in this case, the user centers the trace with the Vertical Position control.
+At the oscilloscope end is a box with several waveform-trimming adjustments.
+A useful sweep range is from one second to 100&nbsp;nanoseconds, with appropriate triggering and (for analog instruments) sweep delay.
+Its accuracy is also superior to that of the display.
+The range of frequencies an oscilloscope can usefully display is referred to as its bandwidth.
+However, this type of probe can sense AC, only.
+Part way through the amplifier is a feed to the sweep trigger circuits, for internal triggering from the signal.
+First appearing in the 1970s for ignition system analysis, automotive oscilloscopes are becoming an important workshop tool for testing sensors and output signals on electronic engine management systems, braking and stability systems.
+Such complex measurement systems include spectrum analyzers, transistor analyzers, and time domain reflectometers (TDRs).
+The modern scope probe uses lossy low capacitance transmission lines and sophisticated frequency shaping networks to make the 10X probe perform well at several hundred megahertz.
+Once the component is replaced, the unit can be restored to service, or at least the next fault can be isolated.
+Consequently, there are other adjustments for completing the compensation.
+Instead, they could be used for signal analysis by feeding a reference signal into one axis and the signal to measure into the other axis.
+In all cases, the inputs, when independently displayed, are time-multiplexed, but dual-trace oscilloscopes often can add their inputs to display a real-time analog sum.
+''Trigger holdoff'' defines a certain period following a trigger during which the scope will not trigger again.
+The waveform is then displayed from these collected samples.
+The delay, itself, comes from a special cable with a pair of conductors wound around a flexible, magnetically soft core.
+(Also see "CRT Invention" in Oscilloscope history.)
+This practice is unreliable since the entire stray capacitance of the instrument cabinet will be connected into the circuit.
+Samples feed fast analog-to-digital converters, following which all signal processing (and storage) is digital.
+For a digital oscilloscope, a rule of thumb is that the continuous sampling rate should be ten times the highest frequency desired to resolve; for example a 20&nbsp;megasample/second rate would be applicable for measuring signals up to about 2&nbsp;megahertz.
+In other cases the precise shape or timing of a pulse is important.
+This mechanism is referred to as "equivalent-time sampling".
+A typical probe uses a 9&nbsp;megohm series resistor shunted by a low-value capacitor to make an RC compensated divider with the cable capacitance and scope input.
+However it is becoming more difficult to obtain replacement parts for these instruments, and repair services are generally unavailable from the original manufacturer.
+The principal controls of this section will be the source and coupling selector switches.
+The trigger event is usually the input waveform reaching some user-specified threshold voltage (trigger level) in the specified direction (going positive or going negative—trigger polarity).
+To achieve the flattest response, most probes must be "compensated" (an adjustment performed using a test signal from the oscilloscope) to allow for the reactance of the probe's cable.
+Historically, stable Lissajous figures were used to show that two sine waves had a relatively simple frequency relationship, a numerically-small ratio.
+This feed precedes the delay (if there is one), which allows the sweep circuit to unblank the CRT and start the forward sweep, so the CRT can show the triggering event.
+If there is no differential preamplifier or external signal isolator, this traditional desktop oscilloscope is not suitable for floating measurements.
+This is especially useful for graphing I-V curves (current versus voltage characteristics) for components such as diodes, as well Lissajous patterns.
+Higher-cost instruments have the graticule marked on the inside face of the CRT, to eliminate parallax errors; better ones also had adjustable edge illumination with diffusing markings.
+This control adjusts CRT focus to obtain the sharpest, most-detailed trace.
+In some cases, variable holdoff time can be really useful to make the sweep ignore interfering triggers that occur before the events to be observed.
+The probe will connect to any input on the instrument and typically has a resistor of ten times the oscilloscope's input impedance.
+When the delayed sweep is active, the main sweep trace brightens while the delayed sweep is advancing.
+Both calibrated vertical sensitivity and calibrated horizontal time are set in 1 - 2 - 5 - 10 steps.
+Bandwidth in Hz x rise time in seconds = 0.35
+Many early games, such as Tennis for Two, used an oscilloscope as an output device.
+The basic oscilloscope, as shown in the illustration, is typically divided into four sections: the display, vertical controls, horizontal controls and trigger controls.
+The used test equipment market, particularly on-line auction venues, typically has a wide selection of older analog scopes available.
+A digital phosphor oscilloscope ('''DPO''') uses color information to convey information about a signal.
+A much lower bandwidth is sufficient for audio-frequency applications only.
+Older phosphors burned more easily.
+The cable capacitance of 90&nbsp;pF in parallel with the scope input of 20&nbsp;pF and 1&nbsp;megohm (total capacitance 110&nbsp;pF) also gives a time constant of 110 microseconds.
+The primary control is the Seconds-per-Division (Sec/Div) selector switch.
+Since most failures occur because of a single faulty component, each measurement can prove that half of the stages of a complex piece of equipment either work, or probably did not cause the fault.
+Originally, calculation of these values required manually measuring the waveform against the scales built into the screen of the instrument.
+This is very frequently used in broadcast engineering to plot the left and right stereophonic channels, to ensure that the stereo generator is calibrated properly.
+This control provides a range somewhat greater than that of consecutive calibrated steps, making any speed available between the extremes.
+This section carries a Volts-per-Division (Volts/Div) selector knob, an AC/DC/Ground selector switch and the vertical (primary) input for the instrument.
+This was originally achieved by using a special CRT, a "storage tube", which would retain the image of even a very brief event for a long time.
+Trace storage is an extra feature available on some analog scopes; they used direct-view storage CRTs.
+One expects to see ten major divisions across the screen; the number of vertical major divisions varies.
+Asynchronous switching is usually designated "Chopped", while sweep-synchronized is designated "Alternate".
+It is desired to set the scope to only trigger on one edge per cycle, so it is necessary to set the holdoff to be slightly less than the period of the waveform.
+* ''edge trigger'', an edge-detector that generates a pulse when the input signal crosses a specified threshold voltage in a specified direction.
+It is usually set to minimum, because a longer time decreases the number of sweeps per second, resulting in a dimmer trace.
+This results in a .1&nbsp;(‑10X) attenuation factor, but helps to isolate the capacitive load presented by the probe cable from the signal being measured.
+Once holdoff expires, the next trigger starts a sweep.
+Storage oscilloscopes used special storage CRTs to maintain a steady display of a single brief signal.
+In dual and multiple-trace oscilloscopes, an internal electronic switch selects the relatively low-level output of one channel's amplifiers and sends it to the following stages of the vertical amplifier, which is only a single channel, so to speak, from that point on.
+Another switch enables or disables '''Auto''' trigger mode, or selects single sweep, if provided in the oscilloscope.
+The coiling provides distributed inductance, while a conductive layer close to the wires provides distributed capacitance.
+This makes it easier to establish a stable view of a waveform with multiple edges which would otherwise cause another trigger.
+A sampling oscilloscope can display signals of considerably higher frequency than the sampling rate if the signals are exactly, or nearly, repetitive.
+The combination is a wideband transmission line with considerable delay per unit length.
+Unlike an oscilloscope, these instruments automatically generate stimulus or sweep a measurement parameter.
+Analog oscilloscopes have been almost totally displaced by digital storage scopes except for use exclusively at lower frequencies.
+This control is found only on more elaborate oscilloscopes; it offers adjustable sensitivity for external horizontal inputs.
+A large number of instruments used in a variety of technical fields are really oscilloscopes with inputs, calibration, controls, display calibration, etc., specialized and optimized for a particular application.
+Dual-trace oscilloscopes have a '''mode switch''' to select either channel alone, both channels, or (in some) an X‑Y display, which uses the second channel for X deflection.
+The horizontal section controls the time base or "sweep" of the instrument.
+Often the observed signal is offset by a steady component, and only the changes are of interest.
+Multiple-trace oscilloscopes have a switch for each channel to enable or disable display of that trace's signal.
+On the lowest end, an inexpensive hobby-grade single-channel DSO could be purchased for under $90 as of June 2011.
+The shape of the curve can be interpreted to identify properties of the measurement signal in relation to the reference signal, and is useful across a wide range of oscillation frequencies.
+If the input signal is periodic, the sweep repetition rate can be adjusted to display a few cycles of the waveform.
+Most modern oscilloscopes are lightweight, portable instruments that are compact enough to be easily carried by a single person.
+In free-running ("chopped") mode, the oscillator (which may be simply a different operating mode of the switch driver) blanks the beam before switching, and unblanks it only after the switching transients have settled.
+It provides the ability to accurately time-correlate analog and digital channels, thus offering a distinct advantage over a separate oscilloscope and logic analyser.
+For an oscillating reference and measurement signal, this results in a complex looping pattern referred to as a Lissajous curve.
+It may, for example, display infrequent signal data in blue to make it stand out.
+(Observing a high voltage ramp can create a staircase waveform with steps at different points every repetition, until the probe tip is in contact.
+At low frequencies (where the resistance of ''R'' is much less than the reactance of ''C''), the circuit looks like a resistive divider; at high frequencies (resistance much greater than reactance), the circuit looks like a capacitive divider.
+When both channels are displayed, the type of '''channel switching''' can be selected on some oscilloscopes; on others, the type depends upon timebase setting.
+Complete loss of signal in an X-Y CRT display means that the beam strikes a small spot, which risks burning the phosphor.
+Bandwidth applies primarily to the Y-axis, although the X-axis sweeps have to be fast enough to show the highest-frequency waveforms.
+The coil still picks up high frequencies.
+The horizontal beam position knob is generally located in this section.
+Maximum voltage is in the low tens of kV.
+Beam-splitter types had horizontal deflection common to both vertical channels, but dual-gun oscilloscopes could have separate time bases, or use one time base for both channels.
+In one combination mode, provided only on some oscilloscopes, the trace changes from the main sweep to the delayed sweep once the delayed sweep starts, although less of the delayed fast sweep is visible for longer delays.
+In all but the least-costly modern oscilloscopes, the '''sweep speed''' is selectable and calibrated in units of time per major graticule division.
+They are primarily qualitative instruments.
+Some oscilloscopes can operate in either this mode or in the more traditional "real-time" mode at the operator's choice.
+A few older oscilloscopes simply brightened the trace at movable locations.
+The vertical position control moves the whole displayed trace up and down.
+Special-purpose oscilloscopes may be rack-mounted or permanently mounted into a custom instrument housing.
+'''Storage scopes''' are helpful for "capturing" rare electronic events that cause defective operation.
+A more-sophisticated probe includes a magnetic flux sensor (Hall effect sensor) in the magnetic circuit.
+Better oscilloscopes have a '''polarity selector'''.
+A switch ('''AC''' position) connects a capacitor in series with the input that passes only the changes (provided that they are not too slow -- "slow" would mean visible).
+Another related specification is rise time.
+Modern oscilloscopes have direct-coupled deflection amplifiers, which means the trace could be deflected off-screen.
+Some oscilloscopes' specifications do include a narrower tolerance range within the stated bandwidth.
+Flat-panel displays do not need focus adjustments and therefore do not include this control.
+In addition to the basic instrument, most oscilloscopes are supplied with a probe as shown.
+In that time frame, the cable looks like its characteristic impedance, and there will be reflections from the transmission line mismatch at the scope input and the probe that causes ringing.
+Some better oscilloscopes also have a squared-off loop for checking and adjusting current probes.
+Other instruments convert the results of their measurements to a repetitive electrical signal, and incorporate an oscilloscope as a display element.
+A vertical input goes to a frequency-compensated step attenuator to reduce large signals to prevent overload.
+Some recent designs of oscilloscopes include more sophisticated triggering schemes; these are described toward the end of this article.
+Frequency can also be determined by measuring the waveform period and calculating its reciprocal.
+One type has a hole for the conductor, and requires that the wire be passed through the hole; they are for semi-permanent or permanent mounting.
+A special dual-beam CRT generates and deflects two separate beams.
+Some models of oscilloscope have isolated inputs, where the signal reference level terminals are not connected together.
+Lissajous figures are an example of how an oscilloscope can be used to track phase differences between multiple input signals.
+The display shows the vertical signal in one of several modes: the main timebase, or the delayed timebase only, or a combination thereof.
+The disadvantages of the dual trace oscilloscope are that it cannot switch quickly between the traces and it cannot capture two fast transient events.
+In practice, there will be an adjustment so the operator can precisely match the low frequency time constant (called compensating the probe).
+For safety, a barrier disc keeps one's fingers distant from the point being examined.
+Both ends of the delay cable require matched impedances to avoid reflections.
+Some oscilloscopes offer these—the sweep circuit is manually armed (typically by a pushbutton or equivalent) "Armed" means it's ready to respond to a trigger.
+A delayed sweep provides a very detailed look at some small selected portion of the main timebase.
+The attenuator feeds a low-level stage (or a few), which in turn feed gain stages (and a delay-line driver if there is a delay).
+The bandwidth is defined as the frequency at which the sensitivity is 0.707 of that at DC or the lowest AC frequency
+Very often a newly designed circuit will misbehave because of design errors, bad voltage levels, electrical noise etc.
+For work at high frequencies and with fast digital signals, the bandwidth of the vertical amplifiers and sampling rate must be high enough.
+Furthermore, the leads have a high inductance, so they are not suitable for high frequencies.
+Good CRT oscilloscopes include a '''delayed-sweep intensity control''', to allow for the dimmer trace of a much-faster delayed sweep that nevertheless occurs only once per main sweep.
+DSOs allow waveforms to be displayed in this way, without offering a delayed timebase as such.
+The isolation available is categorized as shown below:
+These include controls for the '''delayed-sweep timebase''', which is calibrated, and often also variable.
+Slow traces on CRT oscilloscopes need less, and fast ones, especially if not often repeated, require more.
+The trigger section controls the start event of the sweep.
+A switch selects the '''Trigger Source'''.
+Either a spring-return switch position or a pushbutton arms single sweeps.
+It is possible for the internal chopping rate to be a multiple of the sweep repetition rate, creating blanks in the traces, but in practice this is rarely a problem; the gaps in one trace are overwritten by traces of the following sweep.
+Probes also have bandwidth limits and must be chosen and used to properly handle the frequencies of interest.
+Measurements can be made without tying one side of the oscilloscope input to the circuit signal common or ground reference.
+The dual-beam analog oscilloscope can display two signals simultaneously.
+These are the most-common types of triggers; the level control sets the threshold voltage, and the slope control selects the direction (negative or positive-going).
+Modern digital instruments may calculate and display these properties directly.
+Such oscilloscopes are very simple, comparatively inexpensive, and were useful in radio servicing and some TV servicing.
+Many oscilloscopes today provide one or more external interfaces to allow remote instrument control by external software.
+These cursors are more accurate than visual estimates referring to graticule lines.
+A mixed-signal oscilloscope (or MSO) has two kinds of inputs, a small number of analog channels (typically two or four), and a larger number of digital channels(typically sixteen).
+Until then, a tiny arc charges the probe tip, and its capacitance holds the voltage (open circuit).
+However, other types, for testing, have a two-part core that permit them to be placed around a wire.
+Often this sample memory is shared between channels, and can sometimes only be fully available at lower sample rates.
+Scopes for use with very high frequencies may have 50‑ohm inputs, which must be either connected directly to a 50‑ohm signal source or used with Z0 or active probes.
+High-quality analog delays add a modest cost to an oscilloscope, and are omitted in oscilloscopes that are cost-sensitive.
+With direct coupling, adjustment of this control can compensate for a limited DC component of an input.
+Any modern "real-time" sample rate DSO will have typically 5–10 times the input bandwidth in sample rate.
+Before the advent of digital electronics, oscilloscopes used cathode ray tubes (CRTs) as their display element (hence were commonly referred to as CROs) and linear amplifiers for signal processing.
+The vertical section controls the amplitude of the displayed signal.
+This control also moves the X-Y mode traces sidewise in some instruments, and can compensate for a limited DC component as for vertical position.

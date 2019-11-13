@@ -1,0 +1,200 @@
+Swarming is a well-known behaviour in many animal species from marching locusts to schooling fish to flocking birds.
+For good measure, Goldstein throws in supervenience.
+by the teachings of Jean-Marie Grassin at the University of Limoges (v.
+In classical dynamics, a ''snapshot'' of the instantaneous momenta of a large number of particles at equilibrium is sufficient to find the average kinetic energy per degree of freedom which is proportional to the temperature.
+How does an irreducible but supervenient downward causal power arise, since by definition it cannot be due to the aggregation of the micro-level potentialities?
+Specifically, the pattern of emergence is consistent with southwestern deserts' late summer rains and lack of activity in the spring.
+In some theories of particle physics, even such basic structures as mass, space, and time are viewed as emergent phenomena, arising from more fundamental concepts such as the Higgs boson or strings.
+On the other hand, Peter Corning argues "Must the synergies be perceived/observed in order to qualify as emergent effects, as some theorists claim?
+There is no central organization rationing the number of links, yet the number of links pointing to each page follows a power law in which a few pages are linked to many times and most pages are seldom linked to.
+Building ecology is a conceptual framework for understanding architecture and the built environment as the interface between the dynamically interdependent elements of buildings, their occupants, and the larger environment.
+Laughlin is a pragmatic theoretical physicist: if you cannot, possibly ever, calculate the broken symmetry macroscopic properties from the microscopic equations, then what is the point of talking about reducibility?
+The microbial ecology of the indoor environment is strongly dependent on the building materials, occupants, contents, environmental context and the indoor and outdoor climate.
+*Electrical networks: The bulk conductive response of binary (RC) electrical networks with random arrangements can be seen as emergent properties of such physical systems.
+But a traffic jam is a separate and distinct entity that emerges from those individual behaviors.
+Rather than viewing buildings as inanimate or static objects, building ecologist Hal Levin views them as interfaces or intersecting domains of living and non-living systems.
+The interdisciplinary study of emergent behaviors is not generally considered a homogeneous field, but divided across its application or problem domains.
+Despite the difficulties, these problems can be analysed in terms of how model-building observers infer from measurements the computational capabilities embedded in non-linear processes.
+The view that this is the goal of science rests in part on the rationale that such a theory would allow us to derive the behavior of all macroscopic concepts, at least in principle.
+The microbes produce chemicals that affect the building materials and occupant health and well being.
+Psychology is not applied biology, nor is biology applied chemistry.
+Rules, or laws, have no causal efficacy; they do not in fact “generate” anything.
+Finally, a ''third-order'' emergent structure is a consequence of shape, time, and heritable instructions.
+In international development, concepts of emergence have been used within a theory of social change termed SEED-SCALE to show how standard principles interact to bring forward socio-economic development fitted to cultural values, community economics, and natural environment (local solutions emerging from the larger socio-econo-biosphere).
+: J. Fontanille, B. Westphal, J. Vion-Dury, éds.
+Agents, or investors, have knowledge of only a limited number of companies within their portfolio, and must follow the regulatory rules of the market and analyse the transactions individually or in large groupings.
+Eric Bonabeau's attempt to define emergent phenomena is through traffic: "traffic jams are actually very complicated and mysterious.
+Life is thought to have emerged in the early RNA world when RNA chains began to express the basic conditions necessary for natural selection to operate as conceived by Darwin: heritability, variation of type, and competition for limited resources.
+For a small number of particles the instantaneous momenta at a given time are not statistically sufficient to determine the temperature of the system.
+Gridlock on a highway, for example, can travel backward for no apparent reason, even as the cars are moving forward."
+Emergent self-organization appears frequently in cities where no planning or zoning entity predetermines the layout of the city.
+Almost all accounts of emergentism include a form of epistemic or ontological irreducibility to the lower levels.
+It is shared with many other types of networks called small-world networks .
+An observer’s notion of what is ordered, what is random, and what is complex in its environment depends directly on its computational resources: the amount of raw measurement data, of memory, and of time available for estimation and inference.
+The concept of emergence has also been applied to the theory of literature and art, history, linguistics, cognitive sciences, etc.
+The three primary adaptive capacities may have been (1) the capacity to replicate with moderate fidelity (giving rise to both heritability and variation of type); (2) the capacity to avoid decay; and (3) the capacity to acquire and process resources.
+Meanwhile, others have worked towards developing analytical evidence of strong emergence.
+More precisely, if one could compute certain macroscopic properties of these systems from the microscopic description of these systems, then one would be able to solve computational problems known to be undecidable in computer science.
+An early argument (1904-5) for the emergence of social formations, in part stemming from religion, can be found in Max Weber's most famous work, ''The Protestant Ethic and the Spirit of Capitalism''
+Finally, free-market theories understand economy as an emergent feature of psychology.
+In contrast, positive feedback promotes change, allowing local variations to grow into global patterns.
+the linguistic conventions of its speech society, can be seen as a system emerging from long-time participation in communicative problem-solving in various social circumstances.
+Groups of human beings, left free to each regulate themselves, tend to produce spontaneous order, rather than the meaningless chaos often feared.
+Because the “system” involves more than the rules of the game.
+A hierarchical organisation is one example that can generate emergent behaviour (a bureaucracy may behave in a way quite different from that of the individual humans in that bureaucracy); but perhaps more interestingly, emergent behaviour can also arise from more decentralized organisational structures, such as a marketplace.
+will work together to form a complex emergent pattern that can not be deterministically planned in advance.
+He has also likened emergent phenomena to the analysis of market trends and employee behavior.
+They contend that artistic selfhood and meaning are emergent, relatively objective phenomena.
+Some examples include:
+Usage of the notion "emergence" may generally be subdivided into two perspectives, that of "weak emergence" and "strong emergence".
+"Every resultant is either a sum or a difference of the co-operant forces; their sum, when their directions are the same -- their difference, when their directions are contrary.
+Strong emergence describes the direct causal action of a high-level system upon its components; qualities produced this way are irreducible to the system's constituent parts  .
+In other words, there is often a form of top-down feedback in systems with emergent properties.
+At the highest level, all the biological communities in the world form the biosphere, where its human participants form societies, and the complex interactions of meta-social systems such as the stock market.
+In fact, some systems in nature are observed to exhibit emergence based upon the interactions of autonomous parts, and some others exhibit emergence that at least at present cannot be reduced in this way.
+By opposition, "emergent literature" is rather a concept used in the theory of literature.
+A classic traffic roundabout is a good example, with cars moving in and out with such effective organization that some modern cities have begun replacing stoplights at problem intersections with traffic circles , and getting better results.
+presented a class of physical systems that exhibits non-computable macroscopic properties.
+These proteins, assuming their functional status from their spatial conformation, interact together and with other molecules to achieve higher biological functions and eventually create an organism.
+The evidence we have presented suggests that this view may be overly optimistic.
+Systems with emergent properties or emergent structures may appear to defy entropic principles and the second law of thermodynamics, because they form and increase order despite the lack of command and central control.
+Bedau notes that weak emergence is not a universal metaphysical solvent, as weak emergence leads to the conclusion that matter itself contains elements of awareness to it.
+Recent research which analyzes empirically the complex dynamics of such systems has shown that consensus on stable distributions and a simple form of shared vocabularies does indeed emerge, even in the absence of a central controlled vocabulary.
+An example to consider in detail is an ant colony.
+It is these functional effects that are ultimately responsible for the trans-generational continuities and changes in nature."
+On an individual level, each driver is trying to get somewhere and is following (or breaking) certain rules, some legal (the speed limit) and others societal or personal (slow down to let another driver change into your lane).
+In religion, emergence grounds expressions of religious naturalism and syntheism in which a sense of the sacred is perceived in the workings of entirely naturalistic processes by which more complex forms arise or evolve from simpler forms.
+Such causal powers would be quite unlike anything within our scientific ken.
+In some cases, a large number of interactions can in fact work against the emergence of interesting behaviour, by creating a lot of "noise" to drown out any emerging "signal"; the emergent behaviour may need to be temporarily isolated from other interactions before it reaches enough critical mass to be self-supporting.
+Most emphatically not.
+Thus it is not just the sheer number of connections between components which encourages emergence; it is also how these connections are organised.
+The processes from which emergent properties result may occur in either the observed or observing system, and can commonly be identified by their patterns of accumulating change, most generally called 'growth'.
+For instance, the laws of thermodynamics are remarkably simple, even if the laws which govern the interactions between component particles are complex.
+Per his definition of emergence, Corning also addresses emergence and evolution:
+Systems scientist Peter Corning also says that living systems cannot be reduced to underlying laws of physics:
+Chemistry can in turn be viewed as an emergent property of the laws of physics.
+In reality, the differential “selection” of a trait, or an adaptation, is a consequence of the functional effects it produces in relation to the survival and reproductive success of a given organism in a given environment.
+Emergent structures are a common strategy found in many animal groups: colonies of ants, mounds built by termites, swarms of bees, shoals/schools of fish, flocks of birds, and herds/packs of mammals.
+Emergent structures can be found in many natural phenomena, from the physical to the biological domain.
+Similarly, psychology could be understood as an emergent property of neurobiological laws.
+The plausibility of strong emergence is questioned by some as contravening our usual understanding of physics.
+Michael J. Pearce has used emergence to describe the experience of works of art in relation to contemporary neuroscience.)
+In a wider sense, the norms of a language, i.e.
+According to Laughlin (2005), for many particle systems, nothing can be calculated exactly from the microscopic equations, and macroscopic systems are characterised by broken symmetry: the symmetry present in the microscopic equations is not present in the macroscopic system, due to phase transitions.
+The descriptive power of the observer’s chosen (or implicit) computational model class, for example, can be an overwhelming determinant in finding regularity in data."
+A `theory of everything' is one of many components necessary for complete understanding of the universe, but is not necessarily the only one.
+In this species, the bees emerge in a pattern consistent with rainfall.
+And this is equally true of the synergistic effects produced by emergent systems.
+Biology (including biological evolution) can be viewed as an emergent property of the laws of chemistry.
+Instead a component implements a behaviour whose side effect contributes to the global functionality ... Each behaviour has a side effect and the sum of the side effects gives the desired functionality"'' .
+In philosophy, emergence is often understood to be a claim about the etiology of a system's properties.
+The on-course action and vehicle progression of the 2007 Urban Challenge could possibly be regarded as an example of cybernetic emergence.
+Weak emergence describes new properties arising in systems as a result of the interactions at an elemental level.
+The complex behaviour or properties are not a property of any single such entity, nor can they easily be predicted or deduced from behaviour in the lower-level entities, and might in fact be irreducible to such behavior.
+Goldstein initially defined emergence as: "the arising of novel and coherent structures, patterns and properties during the process of self-organization in complex systems".
+Emergence is central in theories of integrative levels and of complex systems.
+The development of macroscopic laws from first principles may involve more than just systematic logic, and could require conjectures suggested by experiments, simulations or insight.
+It appears that environmental factors may play a role in influencing emergence.
+An example from physics of such emergence is water, being seemingly unpredictable even after an exhaustive study of the properties of its constituent atoms of hydrogen and oxygen.
+However, friction emerges when considering more complex structures of matter, whose surfaces can convert mechanical energy into heat energy when rubbed against each other.
+This occurs where interactions are applied intermittently, leading to two phases: one in which patterns form or grow, the other in which they are refined or removed.
+It follows then that no simulation of the system can exist, for such a simulation would itself constitute a reduction of the system to its constituent parts .
+A broader example of emergent properties in biology is viewed in the biological organisation of life, ranging from the subatomic level to the entire biosphere.
+Computational emergent phenomena have also been utilized in architectural design processes, for example for formal explorations and experiments in digital materiality.
+However, it is stipulated that the properties can be determined by observing or simulating the system, and not by any process of a priori analysis.
+An emergent behavior or emergent property can appear when a number of simple entities (agents) operate in an environment, forming more complex behaviors as a collective.
+An emergent property of a system, in this context, is one that is not a property of any component of that system, but is still a feature of the system as a whole.
+For example, colonies routinely find the maximum distance from all colony entrances to dispose of dead bodies.
+They concluded that
+This is possible because open systems can extract information and order out of the environment.
+The World Wide Web is a popular example of a decentralized system exhibiting emergent properties.
+Congestion, widely regarded as a nuisance, is possibly an emergent property of the spreading of bottlenecks across a network in high traffic flows which can be considered as a phase transition see review of related research in .
+Regarding causality in evolution Peter Corning observes:
+Examples are detailed in ''The Sacred Emergence of Nature'' by Ursula Goodenough & Terrence Deacon and  ''Beyond Reductionism: Reinventing the Sacred'' by Stuart Kauffman, both from 2006, and in ''Syntheism - Creating God in The Internet Age'' by Alexander Bard & Jan Söderqvist from 2014.
+Another way in which interactions leads to emergent properties is dual-phase evolution.
+Their mysteriousness will only heighten the traditional worry that emergence entails illegitimately getting something from nothing.
+This not only indicates how they will discomfort reasonable forms of materialism.
+there is some property of "wholeness"); (4) it is the product of a dynamical process (it evolves); and (5) it is "ostensive" (it can be perceived)."
+The synergies associated with emergence are real and measurable, even if nobody is there to observe them."
+Moreover, and this is a key point, the game of chess is also shaped by teleonomic, cybernetic, feedback-driven influences.
+To explain such patterns, one might conclude, per Aristotle, that emergent structures are other than the sum of their parts on the assumption that the emergent order will not arise if the various parts simply interact independently of one another.
+These principles can be implemented utilizing a sequence of standardized tasks that self-assemble in individually specific ways utilizing recursive evaluative criteria.
+Mark A. Bedau observes:
+If enough speakers behave in that way, language is changed .
+The discovery of structure in an environment depends more critically and subtly, though, on how those resources are organized.
+The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity.
+"Defining structure and detecting the emergence of complexity in nature are inherently subjective, though essential, scientific activities.
+Emergent behaviours can occur because of intricate causal relations across different scales and feedback, known as interconnectivity.
+In accordance with his Synergism Hypothesis , Corning also stated, "It is the synergistic effects produced by wholes that are the very cause of the evolution of complexity in nature."
+In other words, emergence itself... has been the underlying cause of the evolution of emergent phenomena in biological evolution; it is the synergies produced by organized systems that are the key."
+Emergent processes or behaviours can be seen in many other places, such as cities, cabal and market-dominant minority phenomena in economics, organizational phenomena in computer simulations and cellular automata.
+Emergence is often a product of particular patterns of interaction.
+The strong relationship between atmospheric chemistry and indoor air quality and the chemical reactions occurring indoors.
+Novelist Arthur Koestler used the metaphor of Janus (a symbol of the unity underlying complements like open/shut, peace/war) to illustrate how the two perspectives (strong vs. weak or holistic vs. reductionistic) should be treated as non-exclusive, and should work together to address the issues of emergence .
+Architects and Landscape Architects may not design all the pathways of a complex of buildings.
+Economist Jeffrey Goldstein provided a current definition of emergence in the journal ''Emergence''.
+However, Bedau concludes that adopting this view would provide a precise notion that emergence is involved in consciousness, and second, the notion of weak emergence is metaphysically benign .
+Luc Steels writes: ''"A component has a particular functionality but this is not recognizable as a subfunction of the global functionality.
+The development and growth of complex, orderly crystals, as driven by the random motion of water molecules within a conducive natural environment, is another example of an emergent process, where randomness can give rise to complex and deeply attractive, orderly structures.
+The term emergence in physics is thus used not to signify complexity, but rather to distinguish which laws and concepts apply to macroscopic scales, and which ones apply to microscopic scales.
+*Classical mechanics:  The laws of classical mechanics can be said to emerge as a limiting case from the rules of quantum mechanics applied to large enough masses.
+This does not mean that the microscopic interactions are irrelevant, but simply that you do not see them anymore&nbsp;— you only see a renormalized effect of them.
+The convergence in social tags may therefore be interpreted as the emergence of structures as people who have similar semantic interpretation collaboratively index online information, a process called semantic imitation.
+Whenever you have a multitude of individuals interacting with one another, there often comes a moment when disorder gives way to order and something new emerges: a pattern, a decision, a structure, or a change in direction (Miller 2010, 29).
+Although macroscopic concepts are essential for understanding our world, much of fundamental physics has been devoted to the search for a `theory of everything', a set of equations that perfectly describe the behavior of all fundamental particles.
+The emergent is unlike its components insofar as these are incommensurable, and it cannot be reduced to their sum or their difference."
+Describing a system using statistical mechanics methods is much simpler than using a low-level atomistic approach.
+Internet traffic can also exhibit some seemingly emergent properties.
+Negative feedback introduces constraints that serve to fix structures or behaviours.
+In philosophy, emergence typically refers to emergentism.
+It is otherwise with emergents, when, instead of adding measurable motion to measurable motion, or things of one kind to other individuals of their kind, there is a co-operation of things of unlike kinds.
+It is not simply a self-ordered process; it involves an organized, “purposeful” activity.
+Also, it is assumed that the properties are supervenient rather than metaphysically primitive .
+While each speaker merely tries to reach his or her own communicative goals, he or she uses language in a particular way.
+For example, the shape of weather phenomena such as hurricanes are emergent structures.
+In social bookmarking systems, users assign tags to resources shared with other users, which gives rise to a type of information organisation that emerges from this crowdsourcing process.
+Competitive success among different replicators would have depended on the relative values of these adaptive capacities.
+At each level of complexity entirely new properties appear.
+They serve merely to describe regularities and consistent relationships in nature.
+One example is Boids, which mimics the swarming behavior of birds.
+Another example is how cascade phenotype reactions, as detailed in chaos theory, arise from individual genes mutating respective positioning.
+Some artificially intelligent computer applications utilize emergent behavior for animation.
+''Emerging Literatures'', Bern, Berlin, etc.
+Convection cells, particularly Bénard cells, are an example of a self-organizing system (more specifically, a dissipative system) whose structure is determined both by the constraints of the system and by random perturbations: the possible realizations of the shape and size of the cells depends on the temperature gradient as well as the nature of the fluid and shape of the container, but which configurations are actually realized is due to random perturbations (thus these systems exhibit a form of symmetry breaking).
+A related property of the network of links in the World Wide Web is that almost any pair of pages can be connected to each other through a relatively short chain of links.
+*Patterned ground: the distinct, and often symmetrical geometric shapes formed by ground material in periglacial regions.
+Some art/literary theorists (Wheeler, 2006;  Alexander, 2011 have proposed alternatives to postmodern understandings of "authorship" using the complexity sciences and emergence theory.
+The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe.
+However, there are those who disagree.
+Here each ant is an autonomous unit that reacts depending only on its local environment and the genetically encoded rules for its variety of ant.
+On the other hand, merely having a large number of interactions is not enough by itself to guarantee emergent behaviour; many of the interactions may be negligible or irrelevant, or may cancel each other out.
+Within the field of group facilitation and organization development, there have been a number of new group processes that are designed to maximize emergence and self-organization, by offering a minimal set of effective initial conditions.
+Trends and patterns emerge which are studied intensively by technical analysts.
+The shape and behaviour of a flock of birds  or school of fish are good examples of emergent properties.
+In other words, the global or macroscopic functionality of a system with "emergent functionality" is the sum of all "side effects", of all emergent properties and functionalities.
+The whole is other than the sum of its parts.
+However, "the debate about whether or not the whole can be predicted from the properties of the parts misses the point.
+Nicolai Hartmann, one of the first modern philosophers to write on emergence, termed this ''categorial novum'' (new category).
+Some common points between the two notions are that emergence concerns new properties produced as the system grows, which is to say ones which are not shared with its components or prior states.
+It is useful to distinguish three forms of emergent structures.
+Patterns of road use, indeterministic obstacle clearance times, etc.
+Open-source software and Wiki projects form an even more compelling illustration.
+It also includes the players and their unfolding, moment-by-moment decisions among a very large number of available options at each choice point.
+Instead they might let usage patterns emerge and then place pavement where pathways have become worn in.
+The architectural school of Christopher Alexander takes a deeper approach to emergence attempting to rewrite the process of urban growth itself in order to affect form, establishing a new methodology of planning and design tied to traditional practices, an  Emergent Urbanism.
+Such arrangements can be used as simple physical prototypes for deriving mathematical formulae for the emergent responses of complex systems.
+Fitness of an RNA replicator (its per capita rate of increase) would likely be a function of adaptive capacities that were intrinsic (in the sense that they were determined by the nucleotide sequence) and the availability of resources.
+*Friction:  Forces between elementary particles are conservative.
+In some interpretations of quantum mechanics, the perception of a deterministic reality, in which all objects have a definite position, momentum, and so forth, is actually an emergent phenomenon, with the true state of matter being described instead by a wavefunction which need not have a single position or momentum.
+In terms of physical systems, weak emergence is a type of emergence in which the emergent property is amenable to computer simulation.
+Goldstein's definition can be further elaborated to describe the qualities of this definition in more detail:
+L'Émergence—Poétique de l'Émergence, en réponse aux travaux de Jean-Marie Grassin, Bern, Berlin, etc., 2011; and: the article " Emergence" in the '' International Dictionary of Literary Terms (DITL)''.
+In art, emergence is used to explore the origins of novelty, creativity, and authorship.
+This is opposed to the older notion of strong emergence, in which the emergent property cannot be simulated by a computer.
+We can now see that the whole becomes not merely more, but very different from the sum of its parts.
+Further, every resultant is clearly traceable in its components, because these are homogeneous and commensurable.
+It has been argued that the structure and regularity of language grammar, or at least language change, is an emergent phenomenon .
+The game of chess is inescapably historical, even though it is also constrained and shaped by a set of rules, not to mention the laws of physics.
+"Synergistic effects of various kinds have played a major causal role in the evolutionary process generally and in the evolution of cooperation and complexity in particular... Natural selection is often portrayed as a “mechanism”, or is personified as a causal agency...
+*Statistical mechanics was initially derived using the concept of a large enough ensemble that fluctuations about the most likely distribution can be all but ignored.
+Convection in a liquid or gas is another example of emergent macroscopic behaviour that makes sense only when considering differentials of temperature.

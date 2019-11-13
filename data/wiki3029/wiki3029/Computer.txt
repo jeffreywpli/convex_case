@@ -1,0 +1,200 @@
+This new development heralded an explosion in the commercial and personal use of computers and led to the invention of the microprocessor.
+is able to perform the same computational tasks, given enough time and storage capacity.
+Therefore, any computer can be programmed to perform any arithmetic operation—although it will take more time to do so if its ALU does not directly support the operation.
+Converting programs written in assembly language into something the computer can actually understand (machine language) is usually done by a computer program called an assembler.
+Microsoft Windows, GNOME, KDE, QNX Photon, CDE, GEM, Aqua
+The German encryption machine, Enigma, was first attacked with the help of the electro-mechanical bombes.
+UNIX System V, IBM AIX, HP-UX, Solaris (SunOS), IRIX, List of BSD operating systems
+Modern von Neumann computers display some traits of the Harvard architecture in their designs, such as in CPU caches.
+Browser, E-mail client, Web server, Mail transfer agent, Instant messaging
+Edutainment, Educational game, Serious game, Flight simulator
+j loop                   # repeat the summing process
+Although the ENIAC was similar to the Colossus it was much faster and more flexible.
+), and input/output devices that perform both functions (e.g., the 2000s-era touchscreen).
+Digital audio editor, Audio playback, Mixing, Audio synthesis, Computer music
+addi $8, $0, 0           # initialize sum to 0
+It used a large number of valves (vacuum tubes).
+This includes simple special purpose devices like microwave ovens and remote controls, factory devices such as industrial robots and computer assisted design, but also in general purpose devices like personal computers and mobile devices such as smartphones.
+The ALU is capable of performing two classes of operations: arithmetic and logic.
+Firmware is the technology which has the combination of both hardware and software such as BIOS chip inside a computer.
+Graphics processors and computers with SIMD and MIMD features often contain ALUs that can perform arithmetic on vectors and matrices.
+A computer will solve problems in exactly the way it is programmed to, without regard to efficiency, alternative solutions, possible shortcuts, or possible errors in the code.
+The Roman abacus was developed from devices used in Babylonia as early as 2400 BC.
+Turing proposed a simple device that he called "Universal Computing machine" that is later known as a Universal Turing machine.
+The theoretical basis for the stored-program computer was laid by Alan Turing in his 1936 paper.
+These 4G languages are less procedural than 3G languages.
+The first digital electronic calculating machines were developed during World War II.
+The term ''hardware'' covers all of those parts of a computer that are tangible physical objects.
+But in some cases, they may cause the program or the entire system to "hang", becoming unresponsive to input such as mouse clicks or keystrokes, to completely fail, or to crash.
+The ability to store and execute lists of instructions called programs makes computers extremely versatile, distinguishing them from calculators.
+During World War II, the British at Bletchley Park achieved a number of successes at breaking encrypted German military communications.
+The abacus was initially used for arithmetic tasks.
+Like the Colossus, a "program" on the ENIAC was defined by the states of its patch cables and switches, a far cry from the stored program electronic machines that came later.
+More realistically, modern computers are made out of transistors made of photolithographed semiconductors.
+Their first transistorised computer and the first in the world, was operational by 1953, and a second version was completed there in April 1955.
+add $8, $8, $9           # update sum
+The first modern analog computer was a tide-predicting machine, invented by Sir William Thomson in 1872.
+86-DOS (QDOS), IBM PC DOS, MS-DOS, DR-DOS, FreeDOS
+Some examples of hand-operated input devices are:
+It was designed to calculate astronomical positions.
+Eventually, the project was dissolved with the decision of the British Government to cease funding.
+Logic operations involve Boolean logic: AND, OR, XOR, and NOT.
+Artificial intelligence, Antivirus software, Malware scanner, Installer/Package management systems, File manager
+These instructions are read from the computer's memory and are generally carried out (executed) in the order they were given.
+A graphics processing unit might contain fifty or more tiny computers that perform the calculations necessary to display 3D graphics.
+In a PC, the ROM contains a specialized program called the BIOS that orchestrates loading the computer's operating system from the hard disk drive into RAM whenever the computer is turned on or reset.
+However, these were not programmable and generally lacked the versatility and accuracy of modern digital computers.
+In some cases, a computer might store some or all of its program in memory that is kept separate from the data it operates on.
+The speed, power, and versatility of computers increased continuously and dramatically since then, to the point that artificial intelligence may become possible in the future.
+* Computer keyboard
+Generally computers with this sort of cache are designed to move frequently needed data into the cache automatically, often without the need for any intervention on the programmer's part.
+This chip (hardware) is located on the motherboard and has the BIOS set up (software) stored in it.
+"Wireless" networking, often utilizing mobile phone networks, has meant networking is becoming increasingly ubiquitous even in mobile computing environments.
+The ''Online Etymology Dictionar''y states that the use of the term to mean "calculating machine" (of any type) is from 1897."
+Conventionally, a modern computer consists of at least one processing element, typically a central processing unit (CPU), and some form of memory.
+The emergence of networking involved a redefinition of the nature and boundaries of the computer.
+Free Software Foundation, Mozilla Foundation, Apache Software Foundation
+The Manchester Small-Scale Experimental Machine, nicknamed ''Baby'', was the world's first stored-program computer.
+These can be useful for creating complicated conditional statements and processing boolean logic.
+Computer-aided design, Computer-aided manufacturing, Plant management, Robotic manufacturing, Supply chain management
+ROM is typically used to store the computer's initial start-up instructions.
+After a functional test in December 1943, Colossus was shipped to Bletchley Park, where it was delivered on 18 January 1944 and attacked its first message on 5 February.
+In practical terms, a computer program may be just a few instructions or extend to many millions of instructions, as do the programs for word processors and web browsers for example.
+Once a program was written, it had to be mechanically set into the machine with manual resetting of plugs and switches.
+The set of arithmetic operations that a particular ALU supports may be limited to addition and subtraction, or might include multiplication, division, trigonometry functions such as sine, cosine, etc., and square roots.
+The following example is written in the MIPS assembly language:
+Nine Mk II Colossi were built (The Mk I was converted to a Mk II making ten machines in total).
+Software is that part of a computer system that consists of encoded information or computer instructions, in contrast to the physical hardware from which the system is built.
+having the computer switch rapidly between running each program in turn.
+Otherwise benign bugs may sometimes be harnessed for malicious intent by an unscrupulous user writing an exploit, code designed to take advantage of a bug and disrupt a computer's proper execution.
+HTML, XML, JPEG, MPEG, PNG
+High speed memory was limited to 20 words (about 80 bytes).
+As soon as the SSEM had demonstrated the feasibility of its design, a project was initiated at the university to develop it into a more usable computer, the Manchester Mark 1.
+Modern computers have billions or even trillions of bytes of memory.
+Bugs are usually not the fault of the computer.
+Produced at Fairchild Semiconductor, it was made of silicon, whereas Kilby's chip was made of germanium.
+These devices had a low operating speed and were eventually superseded by much faster all-electric computers, originally using vacuum tubes.
+These are called "jump" instructions (or branches).
+In 1945 Turing joined the National Physical Laboratory and began work on developing an electronic stored-program digital computer.
+At the University of Manchester, a team under the leadership of Tom Kilburn designed and built a machine using the newly developed transistors instead of valves.
+List of Linux distributions, Comparison of Linux distributions
+Strategy, Arcade, Puzzle, Simulation, First-person shooter, Platform, Massively multiplayer, Interactive fiction
+The slide rule was invented around 1620–1630, shortly after the publication of the concept of the logarithm.
+They are purely written languages and are often difficult to read aloud.
+Circuits, computer chips, graphic cards, sound cards, memory (RAM), motherboard, displays, power supplies, cables, keyboards, printers and "mice" input devices are all hardware.
+Their ability of computers to follow a sequence of operations, called a ''program'', make computers very flexible and useful.
+The same developments that spurred the growth of laptop computers and other portable computers allowed manufacturers to integrate computing resources into cellular phones.
+Hard disk drives, floppy disk drives and optical disc drives serve as both input and output devices.
+The LEO I computer became operational in April 1951 and ran the world's first regular routine office computer job.
+Design and manufacturing
+On a typical personal computer, peripherals include input devices like the keyboard and mouse, and output devices such as the display and printer.
+Command-line interface, Text user interface
+Purely electronic circuit elements soon replaced their mechanical and electromechanical equivalents, at the same time that digital calculation replaced analog.
+After working on his revolutionary difference engine, designed to aid in navigational calculations, in 1833 he realized that a much more general design, an Analytical Engine, was possible.
+When negative numbers are required, they are usually stored in two's complement notation.
+The command to add two numbers together would have one opcode; the command to multiply them would have a different opcode, and so on.
+Programming library
+TCP/IP, Kermit, FTP, HTTP, SMTP
+A very large proportion of personal computers regularly connect to the Internet to communicate and receive information.
+The ''Online Etymology Dictionary'' gives the first attested use of "computer" in the "1640s, meaning "one who calculates,"; this is an "...agent noun from compute (v.)".
+High level languages are less related to the workings of the target computer than assembly language, and more related to the language and structure of the problem(s) to be solved by the final program.
+Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single integrated circuit called a ''microprocessor''.
+Peripheral devices include input devices (keyboards, mice, joystick, etc.
+Flash memory blurs the distinction between ROM and RAM, as it retains its data when turned off but is also rewritable.
+The information stored in memory may represent practically anything.
+The act of processing is mainly regulated by the CPU.
+It was designed as a testbed for the Williams tube the first random-access digital storage device.
+I/O is the means by which a computer exchanges information with the outside world.
+Experimental equipment that he built in 1934 went into operation 5 years later, converting a portion of the telephone exchange network into an electronic data processing system, using thousands of vacuum tubes.
+Unlike natural languages, programming languages are designed to permit no ambiguity and to be concise.
+It used a system of pulleys and wires to automatically calculate predicted tide levels for a set period at a particular location.
+If several programs are running "at the same time".
+Seemingly, multitasking would cause a computer that is switching between several programs to run more slowly, in direct proportion to the number of programs it is running, but most programs spend much of their time waiting for slow input/output devices to complete their tasks.
+He proved that such machine is capable of computing anything that is computable by executing instructions (program) stored on tape, allowing the machine to be programmable.
+Since the program counter is (conceptually) just another set of memory cells, it can be changed by calculations done in the ALU.
+While it is possible to write computer programs as long lists of numbers (machine language) and while this technique was used with many early computers, it is extremely tedious and potentially error-prone to do so in practice, especially for complicated programs.
+Amoeba, Oberon/Bluebottle, Plan 9 from Bell Labs
+In 1876 Lord Kelvin had already discussed the possible construction of such calculators, but he had been stymied by the limited output torque of the ball-and-disk integrators.
+Superscalar computers may contain multiple ALUs, allowing them to process several instructions simultaneously.
+An example of a 4GL is SQL.
+Early digital computers were electromechanical; electric switches drove mechanical relays to perform the calculation.
+To store larger numbers, several consecutive bytes may be used (typically, two, four or eight).
+In the 1970s, computer engineers at research institutions throughout the United States began to link their computers together using telecommunications technology.
+To crack the more sophisticated German Lorenz SZ 40/42 machine, used for high-level Army communications, Max Newman and his colleagues commissioned Flowers to build the Colossus.
+The use of counting rods is one example.
+Kilby recorded his initial ideas concerning the integrated circuit in July 1958, successfully demonstrating the first working integrated example on 12 September 1958.
+The Z2, created by German engineer Konrad Zuse in 1939, was one of the earliest examples of an electromechanical relay computer.
+Although the computer was considered "small and primitive" by the standards of its time, it was the first working machine to contain all of the elements essential to a modern electronic computer.
+This design was also all-electronic and used about 300 vacuum tubes, with capacitors fixed in a mechanically rotating drum for memory.
+The Z3 was Turing complete.
+Rather than the harder-to-implement decimal system (used in Charles Babbage's earlier design), using a binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time.
+During World War II similar devices were developed in other countries as well.
+Initially these facilities were available primarily to people working in high-tech environments, but in the 1990s the spread of applications like e-mail and the World Wide Web, combined with the development of cheap, fast networking technologies like Ethernet and ADSL saw computer networking become almost ubiquitous.
+Software engineering
+A stored-program computer includes by design an instruction set and can store in memory a set of instructions (a program) that details the computation.
+In most cases, computer instructions are simple: add one number to another, move some data from one location to another, send a message to some external device, etc.
+In effect, it could be mechanically "programmed" to read instructions.
+addi $9, $0, 1           # set first number to add = 1
+The simplest computers are able to perform any of a handful of different instructions; the more complex computers have several hundred to choose from, each with a unique numerical code.
+Admiral Grace Hopper, an American computer scientist and developer of the first compiler, is credited for having first used the term "bugs" in computing after a dead moth was found shorting a relay in the Harvard Mark II computer in September 1947.
+These so-called smartphones and tablets run on a variety of operating systems and have become the dominant computing device on the market, with manufacturers reporting having shipped an estimated 237 million devices in 2Q 2013.
+In his patent application of 6 February 1959, Kilby described his new device as "a body of semiconductor material ... wherein all the components of the electronic circuit are completely integrated".
+While the subject of exactly which device was the first microprocessor is contentious, partly due to lack of agreement on the exact definition of the term "microprocessor", it is largely undisputed that the first single-chip microprocessor was the Intel 4004, designed and realized by Ted Hoff, Federico Faggin, and Stanley Mazor at Intel.
+* random-access memory or RAM
+Such designs tend to be useful only for specialized tasks due to the large scale of program organization required to successfully utilize most of the available resources at once.
+If a program is waiting for the user to click on the mouse or press a key on the keyboard, then it will not take a "time slice" until the event it is waiting for has occurred.
+Modern computers based on the von Neumann architecture often have machine code in the form of an imperative programming language.
+The earliest counting device was probably a form of tally stick.
+Built under the direction of John Mauchly and J. Presper Eckert at the University of Pennsylvania, ENIAC's development and construction lasted from 1943 to full operation at the end of 1945.
+Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat.
+Computer operating systems and applications were modified to include the ability to define and access the resources of other computers on the network, such as peripheral devices, stored information, and the like, as extensions of the resources of an individual computer.
+Large computer programs consisting of several million instructions may take teams of programmers years to write, and due to the complexity of the task almost certainly contain errors.
+Similarly, a computer may sometimes go back and repeat the instructions in some section of the program over and over again until some internal condition is met.
+In almost all modern computers, each memory cell is set up to store binary numbers in groups of eight bits (called a byte).
+The Mark 1 in turn quickly became the prototype for the Ferranti Mark 1, the world's first commercially available general-purpose computer.
+Once told to run this program, the computer will perform the repetitive addition task without further human intervention.
+The defining feature of modern computers which distinguishes them from all other machines is that they can be programmed.
+Errors in computer programs are called "bugs".
+Computer main memory comes in two principal varieties:
+During the first half of the 20th century, many scientific computing needs were met by increasingly sophisticated analog computers, which used a direct mechanical or electrical model of the problem as a basis for computation.
+The sequence of operations that the control unit goes through to process an instruction is in itself like a short computer program, and indeed, in some more complex CPU designs, there is another yet smaller computer called a microsequencer, which runs a microcode program that causes all of these events to happen.
+It had paper-tape input and was capable of being configured to perform a variety of boolean logical operations on its data, but it was not Turing-complete.
+Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard.
+The Church–Turing thesis is a mathematical statement of this versatility: any computer with a minimum capability (being Turing-complete) is, in principle, capable of performing the same tasks that any other computer can perform.
+That distinction goes to the Harwell CADET of 1955, built by the electronics division of the Atomic Energy Research Establishment at Harwell.
+Nevertheless, his son, Henry Babbage, completed a simplified version of the analytical engine's computing unit (the ''mill'') in 1888.
+This was the Torpedo Data Computer, which used trigonometry to solve the problem of firing a torpedo at a moving target.
+Aviation is one of the few fields where slide rules are still in widespread use, particularly for solving time–distance problems in light aircraft.
+Producing software with an acceptably high reliability within a predictable schedule and budget has historically been difficult; the academic and professional discipline of software engineering concentrates specifically on this challenge.
+It also had modules to multiply, divide, and square root.
+The differential analyser, a mechanical analog computer designed to solve differential equations by integration using wheel-and-disc mechanisms, was conceptualized in 1876 by James Thomson, the brother of the more famous Lord Kelvin.
+The task of developing large software systems presents a significant intellectual challenge.
+This is part of the means by which software like video games may be made available for different computer architectures such as personal computers and various video game consoles.
+There are typically between two and one hundred registers depending on the type of CPU.
+In fact, the number of computers that are networked is growing phenomenally.
+Program design of small programs is relatively simple and involves the analysis of the problem, collection of inputs, using the programming constructs within languages, devising or using established procedures and algorithms, providing data for output devices and solutions to the problem as applicable.
+RAM can be read and written to anytime the CPU commands it, but ROM is preloaded with data and software that never changes, therefore the CPU can only read from it.
+Programming languages provide various ways of specifying programs for computers to run.
+Silicon junction transistors were much more reliable than vacuum tubes and had longer, indefinite, service life.
+A computer's memory can be viewed as a list of cells into which numbers can be placed or read.
+Devices that provide input or output to the computer are called peripherals.
+Transistorized computers could contain tens of thousands of binary logic circuits in a relatively compact space.
+His chip solved many practical problems that Kilby's had not.
+The Z3 was built with 2000 relays, implementing a 22&nbsp;bit word length that operated at a clock frequency of about 5–10&nbsp;Hz.
+For output, the machine would have a printer, a curve plotter and a bell.
+Modern desktop computers contain many smaller computers that assist the main CPU in performing I/O.
+This is called the flow of control within the program and it is what allows the computer to perform tasks repeatedly without human intervention.
+According to the ''Oxford English Dictionary'', the first known use of the word "computer" was in 1613 in a book called ''The Yong Mans Gleanings'' by English writer Richard Braithwait: "I haue sic read the truest computer of Times, and the best Arithmetician that euer sic breathed, and he reduceth thy dayes into a short number."
+Since then, many other forms of reckoning boards or tables have been invented.
+Von Neumann acknowledged that the central concept of the modern computer was due to this paper.
+Adding 100 to the program counter would cause the next instruction to be read from a place 100 locations further down the program.
+The processing element carries out arithmetic and logical operations, and a sequencing and control unit can change the order of operations in response to stored information.
+Other arrangements are possible, but are usually not seen outside of specialized applications or historical contexts.
+Babbage's failure to complete the analytical engine can be chiefly attributed to difficulties not only of politics and financing, but also to his desire to develop an increasingly sophisticated computer and to move ahead faster than anyone else could follow.
+Computer networking is another form of I/O.
+Instructions that modify the program counter are often known as "jumps" and allow for loops (instructions that are repeated by the computer) and often conditional instruction execution (both examples of control flow).
+The Antikythera mechanism is believed to be the earliest mechanical analog "computer", according to Derek J. de Solla Price.
+To save space and for ease of reading, these are typically circular devices rather than the classic linear slide rule shape.
+Turing machines are to this day a central object of study in theory of computation.
+Before the era of inexpensive computers, the principal use for multitasking was to allow many people to share the same computer.
+Since ancient times, simple manual devices like the abacus aided people in doing calculations.

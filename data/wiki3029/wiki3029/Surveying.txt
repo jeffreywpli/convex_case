@@ -1,0 +1,200 @@
+Random errors tend to cancel each other out, but checks must be made to ensure they are not propagating from one measurement to the next.
+The Theodolite is an instrument for the measurement of angles.
+Lot boundaries established by cadastral surveys may stand for hundreds of years without modification.
+Land surveyors, construction professionals and civil engineers using total station, GPS, 3D scanners and other collector data use Land Surveying Software to increase efficiency, accuracy and productivity.
+As the surveying profession grew it created Cartesian coordinate systems to simplify the mathematics for surveys over small parts of the earth.
+The first Satellite positioning system was the US Navy TRANSIT system.
+On the subject of accuracy, surveyors are often held to a standard of one one-hundredth of a foot; about 1/8&nbsp;inch.
+Modern top-of-the-line total stations no longer need a reflector or prism to return the light pulses used for distance measurements.
+These points are usually on the surface of the Earth, and they are often used to establish land maps and boundaries for ownership, locations like building corners or the surface location of subsurface features, or other purposes required by government or civil law, such as property sales.
+Each observation is weighted according to how much of the total error it is likely to have caused and part of that error is allocated to it in a proportional way.
+They established the basic measurements under which the Roman Empire was divided, such as a tax register of conquered lands (300 AD).
+This gathered data on the number of parcels of land, their value, land usage, and names.
+By observing the bearing from every vertex in a figure, a surveyor can measure around the figure.
+Usually GPS is somewhat less accurate than traditional precise leveling, but may be similar over long distances.
+If no bearing is known or direct angle measurement is wanted, the instrument can be set to zero during the initial sight.
+Prospective surveyors usually have to receive a degree in surveying, followed by a detailed examination of their knowledge of surveying law and principles specific to the region they wish to practice in, and undergo a period of on-the-job training or portfolio building before they are awarded a license to practise.
+Instead, most surveys points are measured relative to previous measured points.
+Perambulators, or measuring wheels, were used to measure longer distances but not to a high level of accuracy.
+James Watt developed an optical meter for the measuring of distance in 1771; it measured the parallactic angle from which the distance to a point could be deduced.
+Systematic errors that have known effects can be compensated or corrected.
+When more precise measurements are needed, means like precise levels (also known as differential leveling) are used.
+In geodetic surveying necessary corrections are applied to reduced levels, bearings and other observations.
+It was an instrument for measuring angles in the horizontal and vertical planes.
+*''Random:'' Random errors are small unavoidable fluctuations.
+*''Gross errors or blunders:'' Errors made by the surveyor during the survey.
+This system soon spread around Europe.
+Surveyors use ancillary equipment such as: tripods and instrument stands; staves and beacons used for sighting purposes; PPE; vegetation clearing equipment; digging implements for finding survey markers buried over time; hammers for placements of markers in various surfaces and structures; and portable radios for communication over long lines of sight.
+The level must be horizontal to get a valid measurement.
+The rod can usually be raised up to 25 feet high, allowing the level to be set much higher than the base of the rod.
+Most traverses form a loop pattern or link between two prior reference marks to allow the surveyor to check their measurements are correct.
+Monuments take the form of capped iron rods, concrete monuments, or nails with washers.
+Their survey agencies establish regulations and standards.
+The factors that can affect the accuracy of their observations are also measured.
+Recent improvements to both satellites and receivers allow Real Time Kinematic (RTK) surveying.
+Theodolites and levels are often used by constructors rather than surveyors in first world countries.
+3D scanners and various forms of aerial imagery are also used.
+It is an important tool for research in many other scientific disciplines.
+The whole upper section rotates for horizontal alignment.
+They must also know the laws that deal with surveys, real property, and contracts.
+The productivity improvements from a GPS on large scale surveys makes them popular for major infrastructure or data gathering projects.
+If the first and last bearings are different, this shows the error in the survey, called the ''angular misclose''.
+Once the surveyor has calculated the level of the errors in his work, it is adjusted.
+The simplest method for measuring height is with an altimeter&nbsp;using air pressure to find height.
+The total station is a development of the theodolite with an electronic distance measurement device (EDM).
+This is called a ''close''.
+An assistant would move the far end of the chain under the surveyor's direction.
+A licensed land surveyor is generally required to sign and seal all plans.
+Not all surveys are carried out by professional surveyors.
+Surveying has been an element in the development of the human environment since the beginning of recorded history.
+Robert Torrens introduced the Torrens system in South Australia in 1858.
+The system's main purpose was to provide position information to Polaris missile submarines.
+Because of this, if the horizontal crosshair of the instrument is lower than the base of the rod, the surveyor will not be able to sight the rod and get a reading.
+Curvature and spheroidal shape of the earth is neglected.
+During the late 1950s Geodimeter introduced electronic distance measurement (EDM) equipment.
+GPS surveying differs from other GPS uses in the equipment and methods used.
+The long span of time lets the receiver compare  measurements as the satellites orbit.
+With the Global Positioning System (GPS), elevation can be measured with satellite receivers.
+''Survey technicians''  often operate survey instruments, run surveys in the field, do survey calculations, or draft plans.
+This is the process of distributing the error between all measurements.
+'''Cadastral land surveyors''' are licensed by governments.
+To measure horizontal distances, these chains or tapes were pulled taut to reduce sagging and slack.
+Surveyors determine the position of objects by measuring angles and distances.
+The surveyor uses the roving antenna to measure the points needed for the survey.
+A fast but expensive way to measure large areas is with a helicopter, using a GPS to record the location of the helicopter and a laser scanner to measure the ground.
+In these situations, extra setups are needed.
+''Triangulation'' is a method of horizontal location favoured in the days before EDM and GPS measurement.
+This method reaches precisions between 5–40&nbsp;cm (depending on flight height).
+The point can then be used as a base for further observations.
+Survey points are usually marked on the earth's surface by objects ranging from small nails driven into the ground to large beacons that can be seen from long distances.
+It was only towards the end of the 18th century that detailed triangulation network surveys mapped whole countries.
+They have to ensure that their surveys, or surveys performed under their supervision, meet the legal standards.
+It recorded the names of all the land owners, the area of land they owned, the quality of the land, and specific information of the area's content and inhabitants.
+To increase precision, surveyors place beacons on the ground (about  apart).
+The almost perfect squareness and north-south orientation of the Great Pyramid of Giza, built c. 2700 BC, affirm the Egyptians' command of surveying.
+The first successful launch took place in 1960.
+The planning and execution of most forms of construction require it.
+Independent checks like measuring a point from two or more locations or using two different methods are used.
+The surveyor would mark and measure two known positions on the ground roughly parallel to the feature, and mark out a baseline between them.
+They use equipment like total stations, robotic total stations, GPS receivers, retroreflectors, 3D scanners, radios, handheld tablets, digital levels, drones, GIS and surveying software.
+It can determine distances, elevations and directions between distant objects.
+Sometimes a tall, distinctive feature such as a steeple or radio aerial has its position calculated as a reference point that angles can be measured against.
+The most common methods of adjustment are the Bowditch method, also known as the compass rule, and the Principle of least squares method.
+Cadastral surveyors often have to work around changes to the earth that obliterate or damage boundary monuments.
+See also Triangulation in three dimensions.
+They are often required to pass further exams to join a professional association or to gain certifying status.
+In medieval Europe, beating the bounds maintained the boundaries of a village or parish.
+The builders then lay out the rest of the building themselves using simple surveying techniques.
+The vertical circle measures the angle that the telescope makes against the vertical, known as the vertical angle.
+Many deed descriptions containing distances are often expressed using these units (125.25&nbsp;ft).
+When using an optical level, the endpoint may be out of the effective range of the instrument.
+Joshua Habermel (:de:Erasmus Habermehl) created a theodolite with a compass and tripod in 1576.
+They also provide advice and data for ''geographical information systems'' (GIS) that record land features and boundaries.
+Industrial infrastructure projects used surveyors to lay out canals, roads and rail.
+''Plane surveying'' assumes the earth is flat.
+Licensed surveyors usually receive a post nominal, which varies depending on where they qualified.
+The primary way of determining one's position on the earth's surface when no known positions are nearby is by astronomic observations.
+When measuring up a slope, the surveyor might have to "break" (break chain) the measurement- use an increment less than the total length of the chain.
+One-person robotic-guided total stations allow surveyors to measure without extra workers to aim the telescope or record data.
+The deflection from the bearing was recorded.
+'''Surveying''' or '''land surveying''' is the technique, profession, and science of determining the terrestrial or three-dimensional position of points and the distances and angles between them.
+In the 1970s the first instruments combining angle and distance measurement appeared, becoming known as total stations.
+The measurements could then be plotted on a plan or map, and the points at the ends of the offset lines could be joined to show the feature.
+Roman surveyors were known as ''Gromatici''.
+Surveying was necessary so that railroads could plan technologically and financially viable routes.
+It was sometimes used before to the invention of EDM where rough ground made chain measurement impractical.
+verniers allowed measurement to a fraction of a degree, such as with a turn-of-the-century transit.
+The Romans recognized land surveyors as a profession.
+Few survey positions are derived from first principles.
+The Great Trigonometric Survey of India began in 1801.
+They have their own professional associations and licensing requirements.
+The system has replaced older apprenticeship systems.
+Examples include effects of temperature on a chain or EDM measurement, or a poorly adjusted spirit-level causing a tilted instrument or target pole.
+The survey was finally completed in 1853.
+This was the practice of gathering a group of residents and walking around the parish or village to establish a communal memory of the boundaries.
+They are fully robotic, and can even e-mail point data to a remote computer and connect to satellite positioning systems, such as Global Positioning System.
+The PLSS divided states into township grids which were further divided into sections and fractions of sections.
+There may be obstructions or large changes of elevation between the endpoints.
+The Surveyor must be able to distinguish between accuracy and precision.
+Static GPS uses two receivers placed in position for a considerable length of time.
+Not all technicians are qualified, but qualifications at the certificate or diploma level are available.
+RTK surveying uses one static antenna and one roving antenna.
+Early GPS observations required several hours of observations by a static receiver to reach survey accuracy requirements.
+Most English-speaking countries consider building surveying a distinct profession.
+One of the primary roles of the land surveyor is to determine the boundary of real property on the ground.
+This type of surveying is usually employed for large survey works.
+Napoleon Bonaparte founded continental Europe's first cadastre in 1808.
+High-accuracy transits or theodolites were used, and angle measurements repeated for increased accuracy.
+The static antenna tracks changes in the satellite positions and atmospheric conditions.
+Most jurisdictions recognize three different levels of qualification:
+To "turn" the level, one must first take a reading and record the elevation of the point the rod is located on.
+This forms a reference or ''control'' network where each point can be used by a surveyor to determine their own position when beginning a new survey.
+Many surveys do not calculate positions on the surface of the earth, but instead measure the relative positions of objects.
+*''Systematic:'' Errors that follow a consistent pattern.
+Differences in height between the measurements are added and subtracted in a series to get the net difference in elevation between the two endpoints.
+Most jurisdictions also have a form of professional institution representing local surveyors.
+Advances in electronics allowed miniaturization of EDM.
+The term 'chainman' derives from past use of measuring chains.
+Real Time Kinematic GPS systems have increased the speed of surveying, but they are still only horizontally accurate to about 20&nbsp;mm and vertically to 30–40&nbsp;mm.
+Observations to the sun, moon and stars could all be made using navigational techniques.
+A land surveying professional is called a '''land surveyor'''.
+The simplest coordinate systems assume that the earth is flat and measure from an arbitrary point, known as a 'datum' (singular form of data).
+Licensing requirements vary with jurisdiction, and are commonly consistent within national borders.
+In ancient Egypt, a rope stretcher would use simple geometry to re-establish boundaries after the annual floods of the Nile River.
+Leonard Digges described a Theodolite that measured horizontal angles in his book ''A geometric practice named Pantometria'' (1571).
+Surveyors must have a thorough knowledge of algebra, basic calculus, geometry, and trigonometry.
+''Traversing'' is a common method of surveying smaller areas.
+They establish the boundaries of legal descriptions and political divisions.
+EDM units use a multi frequency phase shift of light waves to find a distance.
+The first Ramsden theodolite was built for this survey.
+Surveyors found they could use field receivers to determine the location of a point.
+In states organized per the Public Land Survey System (PLSS), surveyors must carry out BLM cadastral surveys under that system.
+A reading is taken from the new location of the level and the height difference is used to find the new elevation of the level gun.
+The main use was establishing benchmarks in remote locations.
+The changes as the satellites orbit also provide the measurement network with well conditioned geometry.
+The two antennas use a radio link that allows the static antenna to send corrections to the roving antenna.
+''Turning'' is a term used when referring to moving the level to take an elevation shot from a different location.
+In the United States, surveyors and civil engineers use units of feet wherein a survey foot breaks down into 10ths and 100ths.
+GPS and astronomic measurements also need measurement of a time component.
+Dr Trevor Lloyd Wadley developed the Tellurometer during the 1950s.
+Also per ACSM, the type of surveying known as "land surveying" is ''the detailed study or inspection, as by gathering information through observations, measurements in the field, questionnaires, or research of legal instruments, and data analysis in the support of planning, designing, and establishing of property boundaries.
+The Gyrotheodolite is a form of theodolite that uses a gyroscope to orient itself in the absence of reference marks.
+RTK surveys get high-accuracy measurements by using a fixed base station and a second roving antenna.
+Sparse satellite cover and large equipment made observations laborious, and inaccurate.
+A total station can be used for leveling when set to the horizontal plane.
+In 1784, a team from General William Roy's Ordnance Survey of Great Britain began the Principal Triangulation of Britain.
+Though tolerances will vary from project to project, in the field and day to day usage beyond a 100th of a foot is often impractical.
+It measures long distances using two microwave transmitter/receivers.
+Once the instrument's position and bearing to a star is determined, the bearing can be transferred to a reference point on the earth.
+These instruments saved the need for days or weeks of chain measurement by measuring between points kilometers apart in one go.
+Total stations are workhorses for many professional surveyors because they are versatile and reliable in all conditions.
+The position of the roving antenna can be tracked.
+In England, William the Conqueror commissioned the Domesday Book in 1086.
+''Licensed, registered, or chartered surveyors'' usually hold a degree or higher qualification.
+In the 18th century, modern techniques and instruments for surveying began to be used.
+In ''geodetic surveying'' the curvature of the earth is taken into account while calculating reduced levels, angles, bearings and distances.
+Survey works up to 100 square miles (260 square kilometers ) are treated as plane and beyond that are treated as geodetic.
+Before EDM devices, distances were measured using a variety of means.
+Therefore, surveyors use redundant measurements and independent checks to detect these errors early in the survey.
+They then measure bearings and distances between the reference marks, and to the target features.
+Measurements are often split into horizontal and vertical components to simplify calculation.
+UAV technology along with photogrammetric image processing is also appearing.
+Mounting telescopes with reticles atop the disc allowed more precise sighting.
+The roving antenna then applies those corrections to the GPS signals it is receiving to calculate its own position.
+The surveyor starts from an old reference mark or known position and places a network of reference marks covering the survey area.
+The distance had to be adjusted for heat expansion.
+Cadastral surveys tend to be the most regulated because of the permanence of the work.
+Jesse Ramsden introduced the first precision theodolite in 1787.
+Prominent new technologies include three-dimensional (3D) scanning and use of lidar for topographical surveys.
+In 1615 he surveyed the distance from Alkmaar to Bergen op Zoom, approximately 70 miles (110 kilometres).
+The final observation will be between the two points first observed, except with a 180° difference.
+It will then read the angle between the initial object, the theodolite itself, and the item that the telescope aligns with.
+In many jurisdictions, surveyors must mark their registration number on survey monuments when setting boundary corners.
+It uses two separate ''circles'', ''protractors'' or ''alidades'' to measure angles in the horizontal and the vertical plane.
+The Indian survey had an enormous scientific impact.
+Surveying became a professional occupation in high demand at the turn of the 19th century with the onset of the Industrial Revolution.
+He also showed how to resection, or calculate, the position of a point inside a triangle using the angles cast between the vertices at the unknown point.
+RTK surveying covers smaller distances than static methods.
+Many countries have created coordinate-grids customized to lessen error in their area of the earth.
+It is also used in transport, communications, mapping, and the definition of legal boundaries for land ownership.
+A surveyor first needs to know the horizontal distance between two of the objects, known as the baseline.

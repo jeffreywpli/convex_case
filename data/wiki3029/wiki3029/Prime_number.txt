@@ -1,0 +1,200 @@
+Certain arithmetic questions related to '''Q''' or more general global fields may be transferred back and forth to the completed (or local) fields.
+Euler's work in number theory included many results about primes.
+According to the prime number theorem explained below, the number of prime numbers less than  is approximately given by , so the algorithm may need up to this number of trial divisions to check the primality of ''n''.
+In this sense, prime numbers occur more often than squares of natural numbers.
+The Diffie–Hellman key exchange relies on the fact that there are efficient algorithms for modular exponentiation, while the reverse operation the discrete logarithm is thought to be a hard problem.
+Next, 3 is prime, too: 1 and 3 do divide 3 without remainder, but 3 divided by 2 gives remainder 1.
+There are hints in the surviving records of the ancient Egyptians that they had some knowledge of prime numbers: the Egyptian fraction expansions in the Rhind papyrus, for instance, have quite different forms for primes and for composites.
+In other words,  is prime if  items cannot be divided up into smaller equal-size groups of more than one item.
+The unproven ''Riemann hypothesis'', dating from 1859, states that except for  all zeroes of the ζ-function have real part equal to 1/2.
+Standard properties of addition and multiplication  familiar from the integers remain valid in modular arithmetic.
+The French monk Marin Mersenne looked at primes of the form 2''p''&nbsp;−&nbsp;1, with ''p'' a prime.
+This implies that  is not prime.
+Carmichael numbers are substantially rarer than prime numbers, though, so this test can be useful for practical purposes.
+For example, the ''p''-adic valuation of a rational number ''q'' is defined to be the integer ''vp''(''q''), such that
+The Lucas–Lehmer test is particularly fast for numbers of this form.
+:2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997 .
+± 1 = 1 · 2 · 3 · ... · ''n'' ± 1
+Elliptic curve primality proving
+Arithmetic geometry also benefits from this notion, and many concepts exist in both geometry and number theory.
+In any ring ''R'', any prime element is irreducible.
+Any knot can be uniquely expressed as a connected sum of prime knots.
+They are called Mersenne primes in his honor.
+Not every prime (in '''Z''') is a Gaussian prime: in the bigger ring '''Z'''''i'', 2 factors into the product of the two Gaussian primes (1&nbsp;+&nbsp;''i'') and (1&nbsp;−&nbsp;''i'').
+(22 denotes the square or second power of 2.)
+Prime numbers are used as a metaphor for loneliness and isolation in the Paolo Giordano novel ''The Solitude of Prime Numbers'', in which they are portrayed as "outsiders" among integers.
+Similarly, when written in the usual decimal system, all prime numbers larger than 5 end in 1, 3, 7, or 9, since even numbers are multiples of 2 and numbers ending in 0 or 5 are multiples of 5.
+A '''prime number''' (or a '''prime''') is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+O(''k'' · log2+ε (''n''))
+Today, the product of the smallest ''n'' primes plus 1 is conventionally called the ''n''th Euclid number.
+A regular ''n''-gon is constructible using straightedge and compass if and only if the odd prime factors of ''n'' (if any) are distinct Fermat primes.
+Equivalently, ''n'' is prime if and only if all integers ''m'' satisfying  are ''coprime'' to ''n'', i.e.
+From a mathematical viewpoint, it roughly states that the asymptotic distribution of primes (about x/log ''x'' of numbers less than ''x'' are primes, the prime number theorem) also holds for much shorter intervals of length about the square root of ''x'' (for intervals near ''x'').
+The fraction 1/''p'' expressed likewise in base ''q'' (rather than base&nbsp;10) has similar effect, provided that ''p'' is not a prime factor of&nbsp;''q''.
+In particular, the prime gaps, i.e.
+Prime ideals are the points of algebro-geometric objects, via the notion of the spectrum of a ring.
+does not grow to infinity as ''n'' goes to infinity (see Basel problem).
+The running time is given in terms of ''n'', the number to be tested and, for probabilistic algorithms, the number ''k'' of tests performed.
+Indeed, if  is composite (with ''a'' and ''b'' ≠ 1) then one of the factors ''a'' or ''b'' is necessarily at most .
+Some of the largest primes not known to have any particular form (that is, no simple formula such as that of Mersenne primes) have been found by taking a piece of semi-random binary data, converting it to a number n, multiplying it by 256k for some positive integer k, and searching for possible primes within the interval 256''k''''n'' + 1, 256''k''(''n'' + 1) − 1.
+Fermat also conjectured that all numbers of the form 22''n''&nbsp;+&nbsp;1 are prime (they are called Fermat numbers) and he verified this up to ''n''&nbsp;=&nbsp;4 (or 216&nbsp;+&nbsp;1).
+with ''k'' a natural number.
+Often having an elementary formulation, many of these conjectures have withstood a proof for decades: all four of Landau's problems from 1912 are still unsolved.
+The following table lists a number of prime tests.
+Deterministic methods are typically slower than probabilistic ones, so the latter ones are typically applied first before a more time-consuming deterministic routine is employed.
+There are known algorithms to compute exact values of π(''n'') faster than it would be possible to compute each prime up to ''n''.
+A natural number greater than 1 that is not a prime number is called a composite number.
+The corresponding question for quadratic polynomials is less well-understood.
+Over a 200-year period, average predator populations during hypothetical outbreaks of 14- and 15-year cicadas would be up to 2% higher than during outbreaks of 13- and 17-year cicadas.
+Such ramification questions occur even in number-theoretic questions solely concerned with integers.
+He showed the infinite series  is divergent.
+= 2 · 2 · 3 · 13 · 149
+They only pupate and then emerge from their burrows after 7, 13 or 17 years, at which point they fly about, breed, and then die after a few weeks at most.
+Generally, "prime" indicates minimality or indecomposability, in an appropriate sense.
+Early attempts to prove Fermat's Last Theorem climaxed when Kummer introduced regular primes, primes satisfying a certain requirement concerning the failure of unique factorization in the ring consisting of expressions
+As in this example, the same prime factor may occur multiple times.
+There is no known simple formula that separates prime numbers from composite numbers.
+Next, 6 is divisible by 2 or 3, since
+Among the numbers 1 to 6, the numbers 2, 3, and 5 are the prime numbers, while 1, 4, and 6 are not prime.
+In his science fiction novel ''Contact'', NASA scientist Carl Sagan suggested that prime numbers could be used as a means of communicating with aliens, an idea that he had first developed informally with American astronomer Frank Drake in 1975.
+While completing '''Q''' (roughly, filling the gaps) with respect to the absolute value yields the field of real numbers, completing with respect to the ''p''-adic norm |−|''p'' yields the field of ''p''-adic numbers.
+no known counterexamples
+Brun's theorem states that the sum of the reciprocals of twin primes,
+A ''prime of K'' (sometimes called a ''place of K'') is an equivalence class of valuations.
+For example, Fermat's little theorem, stating
+Giuga's conjecture says that this equation is also a sufficient condition for ''p'' to be prime.
+Other conjectures deal with the question whether an infinity of prime numbers subject to certain constraints exists.
+Legendre's conjecture states that there is a prime number between ''n''2 and (''n''&nbsp;+&nbsp;1)2 for every positive integer&nbsp;''n''.
+Given a composite integer ''n'', the task of providing one (or all) prime factors is referred to as ''factorization'' of ''n''.
+For example, these tests can be applied to check whether
+The crucial importance of prime numbers to number theory and mathematics in general stems from the ''fundamental theorem of arithmetic'', which states that every integer larger than 1 can be written as a product of one or more primes in a way that is unique except for the order of the prime factors.
+This routine consists of dividing ''n'' by each integer ''m'' that is greater than 1 and less than or equal to the square root of ''n''.
+Other primes where either ''p'' + 1 or ''p'' − 1 is of a particular shape include the Sophie Germain primes (primes of the form 2''p'' + 1 with ''p'' prime), primorial primes, Fermat primes and Mersenne primes, that is, prime numbers that are of the form , where ''p'' is an arbitrary prime.
+It is conjectured that there are infinitely many Fibonacci primes and infinitely many Mersenne primes, but not Fermat primes.
+Probabilistic algorithms are normally faster, but do not completely prove that a number is prime.
+is an arithmetic progression modulo .
+Prime models and prime 3-manifolds are other examples of this type.
+not a Mersenne prime (Proth number)
+Euclid also showed how to construct a perfect number from a Mersenne prime.
+These include the Miller–Rabin primality test, which is fast but has a small probability of error, and the AKS primality test, which always produces the correct answer in polynomial time but is too slow to be practical.
+For example, factorization or ramification of prime ideals when lifted to an extension field, a basic problem of algebraic number theory, bears some resemblance with ramification in geometry.
+In particular, the simplest assumption is that primes should have no significant irregularities without good reason.
+More powerful extensions of the Fermat primality test, such as the Baillie-PSW, Miller-Rabin, and Solovay-Strassen tests, are guaranteed to fail at least some of the time when applied to a composite number.
+5 is again prime: none of the numbers 2, 3, or 4 divide 5.
+For example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6.
+Modern primality tests for general numbers ''n'' can be divided into two main classes, probabilistic (or "Monte Carlo") and deterministic algorithms.
+There are infinitely many primes, as demonstrated by Euclid around 300 BC.
+The Great Internet Mersenne Prime Search and other distributed computing projects to find large primes have become popular, while mathematicians continue to struggle with the theory of primes.
+Primes can thus be considered the “basic building blocks” of the natural numbers.
+The most basic routine, trial division, is of little practical use because of its slowness.
+Except for 3, none of these numbers is prime, since  so that the remaining numbers in this progression are all composite.
+Solovay–Strassen primality test
+Furthermore, the prime numbers have several properties that the number 1 lacks, such as the relationship of the number to its corresponding value of Euler's totient function or the sum of divisors function.
+1 is excluded as a prime number, for reasons explained below.
+Moreover, ε is an arbitrarily small positive number, and log is the logarithm to an unspecified base.
+Indeed, for ''n'' = 7, the equation
+In the parlance of abstract algebra, the above set of integers, which is also denoted '''Z'''/''n'''''Z''', is therefore a commutative ring for any ''n''.
+(In general terms, all prime numbers above ''q'' are of the form ''q''#·''n''&nbsp;+&nbsp;''m'', where 0&nbsp;2, is the probability that two numbers selected at random are relatively prime.
+O(''k'' · log3 ''n'')
+Many films, such as ''Cube'', ''Sneakers'', ''The Mirror Has Two Faces'' and ''A Beautiful Mind'' reflect a popular fascination with the mysteries of prime numbers and cryptography.
+Here  represents the floor function, i.e., largest integer not greater than the number in question.
+is called a '''prime number''' (or a '''prime''') if it has exactly two positive divisors, 1 and the number itself.
+Though small, this advantage appears to have been enough to drive natural selection in favour of a prime-numbered life-cycle for these insects.
+By the Middle Ages and Renaissance many mathematicians included 1 as the first prime number.
+For example, for ''n'' = 6, the equation
+Moreover, an integer ''n'' > 4 is composite if and only if (''n''&nbsp;−&nbsp;1) is divisible by&nbsp;''n''.
+These tests rely on testing a given number in a partly random way.
+Yet another way to say the same is: a number  is prime if it cannot be written as a product of two integers  and , both of which are larger than&nbsp;1:
+Henri Lebesgue is said to be the last professional mathematician to call 1 prime.
+This local-global principle again underlines the importance of primes to number theory.
+The concept of prime number is so important that it has been generalized in different ways in various branches of mathematics.
+For example, for , the trial divisions are by  None of these numbers divides 37, so 37 is prime.
+For example, a given test might pass all the time if applied to a prime number, but pass only with probability ''p'' if applied to a composite number.
+Wilson's theorem says that an integer ''p''&nbsp;>&nbsp;1 is prime if and only if the factorial (''p''&nbsp;−&nbsp;1)!&nbsp;+&nbsp;1 is divisible by ''p''.
+It is conjectured there are infinitely many primes of the form&nbsp;''n''2&nbsp;+&nbsp;1.
+A natural number (i.e.
+For example, the number 15 can be factored as  and ; if 1 were admitted as a prime, these two presentations would be considered different factorizations of 15 into prime numbers, so the statement of that theorem would have to be modified.
+This hypothesis is generally believed to be correct.
+These conjectures are special cases of the broad Schinzel's hypothesis H. Brocard's conjecture says that there are always at least four primes between the squares of consecutive primes greater than 2.
+Therefore, the condition of being a prime can also be restated as: a number is prime if it is greater than one and if none of
+Also, any even integer can be written as the sum of six primes.
+The sieve of Atkin is another option.
+For example,  The ''p''-adic norm is defined as
+At the start of the 19th century, Legendre and Gauss independently conjectured that as ''x'' tends to infinity, the number of primes up to ''x'' is asymptotic to ''x''/ln(''x''), where ln(''x'') is the natural logarithm of ''x''.
+In the 19th century many mathematicians still considered the number 1 to be a prime.
+Calculating sums, differences and products is done as usual, but whenever a negative number or a number greater than ''n''&nbsp;−&nbsp;1 occurs, it gets replaced by the remainder after division by ''n''.
+A flaw with this test is that there are some composite numbers (the Carmichael numbers) that satisfy the Fermat identity even though they are not prime, so the test has no way of distinguishing between prime numbers and Carmichael numbers.
+Routines also yielding one (or all) prime factors of ''n'' are called factorization algorithms.
+The branch of number theory studying such questions is called additive number theory.
+3756801695685 × 2666669 ± 1
+The French composer Olivier Messiaen used prime numbers to create ametrical music through "natural phenomena".
+Some of these primes have been found using distributed computing.
+Several public-key cryptography algorithms, such as RSA and the Diffie–Hellman key exchange, are based on large prime numbers (2048-bit primes are common).
+Fermat primality test
+For example, prime ideals in the ring of integers of quadratic number fields can be used in proving quadratic reciprocity, a statement that concerns the solvability of quadratic equations
+If we repeat the test ''n'' times and pass every time, then the probability that our number is composite is ''1/(1-p)n'', which decreases exponentially with the number of tests, so we can be as sure as we like (though never perfectly sure) that the number is prime.
+The distinctive feature of prime numbers is the following: division ''is'' possible in modular arithmetic if and only if ''n'' is a prime.
+Miller–Rabin primality test
+of a number  into (finitely many) prime factors , , ... to  is called ''prime factorization'' of .
+However, 4 is composite, since 2 is another number (in addition to 1 and 4) dividing 4 without remainder:
+In particular, number theorists such as British mathematician G. H. Hardy prided themselves on doing work that had absolutely no military significance.
+They are named after Pierre de Fermat, who conjectured that all such numbers are prime.
+In particular, this norm gets smaller when a number is multiplied by ''p'', in sharp contrast to the usual absolute value (also referred to as the infinite prime).
+It is either '''Q''' or the finite field with ''p'' elements, whence the name.
+The evolutionary strategy used by cicadas of the genus ''Magicicada'' make use of prime numbers.
+where ''x'' is an integer and ''p'' and ''q'' are (usual) prime numbers.
+Some rotor machines were designed with a different number of pins on each rotor, with the number of pins on any one rotor either prime, or coprime to the number of pins on any other rotor.
+This shows that there are infinitely many primes, because if there were finitely many primes the sum would reach its maximum value at the biggest prime rather than being unbounded.
+Prime numbers give rise to various generalizations in other mathematical domains, mainly algebra, such as prime elements and prime ideals.
+O(log5+ε(''n'')) ''heuristically''
+This is referred to by saying "3&nbsp;+&nbsp;5 is congruent to&nbsp;1 modulo&nbsp;7" and is denoted
+in the sense that the ratio of π(''n'') and the right hand fraction approaches 1 when ''n'' grows to infinity.
+Prime numbers of this form are known as factorial primes.
+In 2009, the Great Internet Mersenne Prime Search project was awarded a US$100,000 prize for first discovering a prime with at least 10 million digits.
+It consists of testing whether ''n'' is a multiple of any integer between 2 and .
+For , this number is 450 million—too large for many practical applications.
+For a long time, prime numbers were thought to have extremely limited application outside of pure mathematics.
+Elliptic curve factorization is an algorithm relying on arithmetic on an elliptic curve.
+O(''k'' · log2+ε (''n''))
+However, the very next Fermat number 232&nbsp;+&nbsp;1 is composite (one of its prime factors is&nbsp;641), as Euler discovered later, and in fact no further Fermat numbers are known to be prime.
+Because of Brun's theorem, it is not possible to use Euler's method to solve the twin prime conjecture, that there exist infinitely many twin primes.
+If  is a natural number, then 1 and  divide  without remainder.
+fails for Carmichael numbers
+The prime counting function π(''n'') is defined as the number of primes not greater than ''n''.
+One group of modern primality tests is applicable to arbitrary numbers, while more efficient tests are available for particular numbers.
+It is often erroneously reported that Euclid begins with the assumption that the set initially considered contains all prime numbers, leading to a contradiction, or that it contains precisely the ''n'' smallest primes rather than any arbitrary finite set of primes.
+There is no non-constant polynomial, even in several variables, that takes ''only'' prime values.
+In practice, the fastest such method is known as elliptic curve primality proving.
+Division, however, is not in general possible in this setting.
+No even number greater than 2 is prime because by definition, any such number  has at least three distinct divisors, namely 1, 2, and .
+read factorial) consists of  composite numbers, for any natural number ''n''.
+The uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e.g., 3, 1 · 3, 1 · 1 · 3, etc.
+Weaker statements than this have been proven, for example Vinogradov's theorem says that every sufficiently large odd integer can be written as a sum of three primes.
+Chen's theorem says that every sufficiently large even number can be expressed as the sum of a prime and a semiprime, the product of two primes.
+Another consequence of Fermat's little theorem is the following: if ''p'' is a prime number other than 2 and 5, 1/''p'' is always a recurring decimal, whose period is  or a divisor of .
+This changed in the 1970s when the concepts of public-key cryptography were invented, in which prime numbers formed the basis of the first algorithms such as the RSA cryptosystem algorithm.
+Many more proofs of the infinitude of primes are known, including an analytical proof by Euler, Goldbach's proof based on  Fermat numbers, Furstenberg's proof using general topology, and Kummer's elegant proof.
+In the novel ''The Curious Incident of the Dog in the Night-Time'' by Mark Haddon, the narrator arranges the sections of the story by consecutive prime numbers.
+Polignac's conjecture is a strengthening of that conjecture, it states that for every positive integer ''n'', there are infinitely many pairs of consecutive primes that differ by&nbsp;2''n''.
+The Sieve of Eratosthenes, attributed to Eratosthenes, is a simple method to compute primes, although the large primes found today with computers are not generated this way.
+It is not known whether or not there are an infinite number of Wieferich primes and of prime Euclid numbers.
+Thus any finite set of primes can be extended to a larger finite set of primes.
+More recent algorithms like APRT-CL, ECPP, and AKS work on arbitrary numbers but remain much slower.
+A particularly simple example of a probabilistic test is the Fermat primality test, which relies on the fact (Fermat's little theorem) that ''np≡n (mod p)'' for any ''n'' if ''p'' is a prime number.
+For example, to run Lucas' primality test requires the knowledge of the prime factors of , while the Lucas–Lehmer primality test needs the prime factors of  as input.
+Ideas of Riemann in his 1859 paper on the zeta-function sketched a program that would lead to a proof of the prime number theorem.
+2 is a prime number, since the only natural numbers dividing it are 1 and 2.
+If  is a prime number and  divides a product  of integers, then  divides  or  divides .
+The ''prime number theorem'' states that π(''n'') is approximately given by
+After the Greeks, little happened with the study of prime numbers until the 17th century.
+This routine can be implemented more efficiently if a complete list of primes up to  is known—then trial divisions need to be checked only for those ''m'' that are prime.
+Prime numbers are also used for hash tables and pseudorandom number generators.
+Deterministic algorithms do not erroneously report composite numbers as prime.
+, this conjecture has been verified for all numbers up to .
+Particularly fast methods are available for numbers of special forms, such as Mersenne numbers.
+This implies that the likelihood that a number less than ''n'' is prime is (approximately) inversely proportional to the number of digits in ''n''.
+This was based on the evidence of the first five numbers in this series—3, 5, 17, 257, and 65,537—being prime.
+This outline was completed by Hadamard and de la Vallée Poussin, who independently proved the prime number theorem in 1896.
+According to Messiaen this way of composing was "inspired by the movements of nature, movements of free and unequal durations".
+Prime numbers have influenced many artists and writers.
+Before the advent of computers, lists of primes up to bounds like 107 were also used.

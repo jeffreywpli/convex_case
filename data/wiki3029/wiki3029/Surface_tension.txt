@@ -1,0 +1,200 @@
+The surface tension between the liquid and air is usually different (greater than) its surface tension with the walls of a container.
+Droplet radius (nm)
+where the temperature offset of 6 kelvins provides the formula with a better fit to reality at lower temperatures.
+Water striders stay atop the liquid because of surface tension
+If a liquid is in a container, then besides the liquid/air interface at its top surface, there is also an interface between the liquid and the walls of the container.
+The two most abundant liquids on Earth are fresh water and seawater.
+The puddle will spread out only to the point where it is a little under half a centimetre thick, and no thinner.
+Thus, multiplying both the numerator and the denominator of  by , we get
+For water one can further use ''V'' = 18&nbsp;ml/mol and ''T''C = 647 K (374&nbsp;°C).
+It then separates and surface tension forms the drop into a sphere.
+The example on the left is where the difference between the liquid-solid and solid-air surface tension, , is less than the liquid-air surface tension, , but is nevertheless positive, that is
+This creates some internal pressure and forces liquid surfaces to contract to the minimal area.
+The spherical shape minimizes the necessary "wall tension" of the surface layer according to Laplace's law.
+:* is the standard vapor pressure for that liquid at that temperature and pressure.
+is the density of the liquid in grams per cubic centimeter or kilograms per cubic meter
+Again the two effects combine to minimize the total potential energy.
+Where the two surfaces meet, they form a contact angle, , which is the angle the tangent to the surface makes with the solid surface.
+The result of the compromise is a puddle of a nearly fixed thickness.
+The cohesive forces among liquid molecules are responsible for the phenomenon of surface tension.
+'''In terms of energy:''' surface tension  of a liquid is the ratio of 1) the change in the energy of the liquid, and 2) the change in the surface area of the liquid (that led to the change in energy).
+If no force acts normal to a tensioned surface, the surface must remain flat.
+Again this is due to the action of mercury's strong surface tension.
+If a stream of water was running from the faucet, the stream would break up into drops during its fall.
+So in a copper tube, the level of mercury at the center of the tube will be lower than at the edges (that is, it would be a concave meniscus).
+The table shows some calculated values of this effect for water at different drop sizes:
+Photo showing the "tears of wine" phenomenon.
+When an object is placed on a liquid, its weight Fw depresses the surface, and is balanced by the surface tension forces on either side Fs, which are each parallel to the water's surface at the points where it contacts the object.
+A typical value is ''k'' = 2.1 x 10−7 J K−1 mol−2/3.
+Whether a component decays or grows, and how fast it grows is entirely a function of its wave number (a measure of how many peaks and troughs per centimeter) and the radii of the original cylindrical stream.
+In the bulk of the liquid, each molecule is pulled equally in every direction by neighboring liquid molecules, resulting in a net force of zero.
+The reason for this is that the pressure difference across a fluid interface is proportional to the mean curvature, as seen in the Young-Laplace equation.
+Another special case is where the contact angle is exactly 180°.
+The quantity in parentheses on the right hand side is in fact (twice) the mean curvature of the surface (depending on normalisation).
+The two are equivalent, but when referring to energy per unit of area, it is common to use the term surface energy, which is a more general term in the sense that it applies also to solids.
+A molecule in contact with a neighbor is in a lower state of energy than if it were alone (not in contact with a neighbor).
+Surface tension is responsible for the shape of liquid droplets.
+This equation was also proposed by van der Waals, who further proposed that  could be given by the expression, , where  is a universal constant for all liquids, and  is the critical pressure of the liquid (although later experiments found  to vary to some degree from one liquid to another).
+The Clausius–Clapeyron relation leads to another equation also attributed to Kelvin, as the Kelvin equation.
+This section gives correlations of reference data for the surface tension of both.
+published reference data for the surface tension of seawater over the salinity range of 20 ⩽ ''S'' ⩽ 131 g/kg and a temperature range of 1 ⩽ ''t'' ⩽ 92&nbsp;°C at atmospheric pressure.
+Although easily deformed, droplets of water tend to be pulled into a spherical shape by the imbalance in cohesive forces of the surface layer.
+The molecules at the surface do not have the ''same'' molecules on all sides of them and therefore are pulled inwards.
+The uncertainty of the measurements varied from 0.18 to 0.37&nbsp;mN/m with the average uncertainty being 0.22&nbsp;mN/m.
+The average absolute percentage deviation between measurements and the correlation was 0.19% while the maximum deviation is 0.60%.
+The table below shows how the internal pressure of a water droplet increases with decreasing radius.
+For mercury on glass, γHg = 487 dyn/cm, ρHg = 13.5 g/cm3 and θ = 140°, which gives hHg = 0.36&nbsp;cm.
+This means that although the difference between the liquid-solid and solid-air surface tension, , is difficult to measure directly, it can be inferred from the liquid-air surface tension, , and the equilibrium contact angle, , which is a function of the easily measurable advancing and receding contact angles (see main article contact angle).
+The fluid then works to maximize the contact surface area.
+We therefore define the surface tension as
+'''Surface tension''' is the elastic tendency of a fluid surface which makes it acquire the least surface area possible.
+At liquid-air interfaces, surface tension results from the greater attraction of liquid molecules to each other (due to cohesion) than to the molecules in the air (due to adhesion).
+So the surface tension of the mercury acts over its entire surface area, including where it is in contact with the glass.
+Notice that the mercury level at the center of the tube is higher than at the edges, making the upper surface of the mercury dome-shaped.
+Formation of drops occurs when a mass of liquid is stretched.
+The surface of any liquid is an interface between that liquid and some other medium.
+The surface of the water behaves like an elastic film: the insect's feet cause indentations in the water's surface, increasing its surface area and tendency of minimization of surface curvature (so area) of the water pushes the insect's feet upward.
+The thickness of a puddle of liquid on a surface whose contact angle is 180° is given by:
+The diagram to the right shows two examples.
+Surface tension is dependent on temperature.
+), not on its geometry.
+For real soap bubbles, the pressure is doubled due to the presence of two interfaces, one inside and one outside.
+Surface tension allows insects (e.g.
+This formulation was originally adopted by IAPWS in 1976, and was adjusted in 1994 to conform to the International Temperature Scale of 1990.
+:* is the molar volume.
+:*  is the liquid-solid surface tension,
+This means that increasing the surface area increases the energy of the film.
+Lava lamp with interaction between dissimilar liquids: water and liquid wax
+Pouring mercury onto a horizontal flat sheet of glass results in a puddle that has a perceptible thickness.
+Since the forces are in direct proportion to their respective surface tensions, we also have:
+The same surface tension demonstration can be done with water, lime water or even saline, but only on a surface made of a substance to which water does not adhere.
+An old style mercury barometer consists of a vertical glass tube about 1&nbsp;cm in diameter partially filled with mercury, and with a vacuum (called Torricelli's vacuum) in the unfilled volume (see diagram to the right).
+Consequently, surface tension can be also measured in SI system as joules per square meter and in the cgs system as ergs per cm2.
+But the dome-shaped top gives slightly less surface area to the entire mass of mercury.
+Because of the relatively high attraction of water molecules for each other through a web of hydrogen bonds, water has a higher surface tension (72.8 millinewtons per meter at 20&nbsp;°C) compared to that of most other liquids.
+Contact angle of 180° occurs when the liquid-solid surface tension is exactly equal to the liquid-air surface tension.
+Water beading on a leaf
+is the surface tension of the liquid in dynes per centimeter or newtons per meter.
+That is to say that when a liquid is forming small droplets, the equilibrium concentration of its vapor in its surroundings is greater.
+For that reason, when a value is given for the surface tension of an interface, temperature must be explicitly stated.
+is the Kelvin radius, the radius of the droplets.
+:*  is the density of the liquid,
+is a constant for each liquid and n is an empirical factor, whose value is 11/9 for organic liquids.
+In the absence of other forces, including gravity, drops of virtually all liquids would be approximately spherical.
+Tears of wine is the formation of drops and rivulets on the side of a glass containing an alcoholic beverage.
+The net effect is an inward force at its surface that causes the liquid to behave as if its surface were covered with a stretched elastic membrane.
+In order for the surface tension forces to cancel the force due to pressure, the surface must be curved.
+Wax is such a substance.
+This can be easily related to the previous definition in terms of force: if   is the force required to stop the side from ''starting'' to slide, then this is also the force that would keep the side in the state of ''sliding at a constant speed'' (by Newton's Second Law).
+It explains why, because of surface tension, the vapor pressure for small droplets of liquid in suspension is greater than standard vapor pressure of that same liquid when the interface is flat.
+If  is greater than 90°, as with mercury in a glass container, the liquid will be depressed rather than lifted.
+Surface tension is an important factor in the phenomenon of capillarity.
+But if the side is moving to the right (in the direction the force is applied), then the surface area of the stretched liquid is increasing while the applied force is doing work on the liquid.
+:*  is the solid-air surface tension,
+carbon tetrachloride
+In a situation where the liquid adheres to the walls of its container, we consider the part of the fluid's surface area that is in contact with the container to have ''negative'' surface tension.
+The explanation of this instability begins with the existence of tiny perturbations in the stream.
+In reality, the thicknesses of the puddles will be slightly less than what is predicted by the above formula because very few surfaces have a contact angle of 180° with any liquid.
+The formula also predicts that when the contact angle is 0°, the liquid will spread out into a micro-thin layer over the surface.
+The animation shows water adhering to the faucet gaining mass until it is stretched to a point where the surface tension can no longer keep the drop linked to the faucet.
+For water on paraffin at 25&nbsp;°C, γ = 72 dyn/cm, ρ = 1.0 g/cm3, and θ = 107° which gives hH2O = 0.44&nbsp;cm.
+For example, if the frame had a more complicated shape, the ratio , with  the length of the movable side and  the force required to stop it from sliding, is found to be the same for all shapes.
+The interior molecules have as many neighbors as they can possibly have, but the boundary molecules are missing neighbors (compared to interior molecules) and therefore have a higher energy.
+This behavior of the water push the water strider upward so it can stand on the surface of the water as long as its mass is small enough so that the water can support it.
+This same relationship exists in the diagram on the right.
+where both ''T'' and the critical temperature,   ''TC'' = 647.098 K, are expressed in kelvin.
+For an open soap film, the pressure difference is zero, hence the mean curvature is zero, and minimal surfaces have the property of zero mean curvature.
+If instead of glass, the tube was made out of copper, the situation would be very different.
+where   is the surface tension of seawater in mN/m,  is the surface tension of water in mN/m, ''S'' is the Reference Salinity in g/kg, and ''t'' is temperature in degrees Celsius.
+These are always present, no matter how smooth the stream is.
+But in this case we see that because the contact angle is less than 90°, the liquid-solid/solid-air surface tension difference must be negative:
+As a result of surface area minimization, a surface will assume the smoothest shape it can (mathematical proof that "smooth" shapes minimize surface area relies on use of the Euler–Lagrange equation).
+The effect becomes clear for very small drop sizes, as a drop of 1&nbsp;nm radius has about 100 molecules inside, which is a quantity small enough to require a quantum mechanics analysis.
+Water adheres weakly to wax and strongly to itself, so water clusters into drops.
+:* is the gas constant
+That decrease is enough to compensate for the increased potential energy associated with lifting the fluid near the walls of the container.
+:*'''' is surface tension.
+Since mechanical systems try to find a state of minimum potential energy, a free droplet of liquid naturally assumes a spherical shape, which has the minimum surface area for a given volume.
+Thus the ratio  depends only on the intrinsic properties of the liquid (composition, temperature, etc.
+File:WaterstriderEnWiki.jpg|'''C.'''
+Solutions to this equation determine the shape of water drops, puddles, menisci, soap bubbles, and all other shapes determined by surface tension (such as the shape of the impressions that a water strider's feet make on the surface of a pond).
+Notice that the horizontal components of the two Fs arrows point in opposite directions, so they cancel each other, but the vertical components point in the same direction and therefore add up to balance Fw.
+Both Guggenheim-Katayama and Eötvös take into account the fact that surface tension reaches 0 at the critical temperature, whereas Ramay and Shields fails to match reality at this endpoint.
+File:1990s Mathmos Astro.jpg|'''D.'''
+Here ''V'' is the molar volume of a substance, TC is the critical temperature and ''k'' is a constant valid for almost all substances.
+Water dripping from a tap
+Image:Wine legs shadow.jpg|'''E.'''
+'''Δ''p'' for water drops of different radii at STP'''
+The range of temperature and salinity encompasses both the oceanographic range and the range of conditions encountered in thermal desalination technologies.
+For further details see Eötvös rule.
+Thus, the surface becomes under tension from the imbalanced forces, which is probably where the term "surface tension" came from.
+is the depth of the puddle in centimeters or meters.
+:*  is the height the liquid is lifted,
+* Guggenheim-Katayama:
+If a tube is sufficiently narrow and the liquid adhesion to its walls is sufficiently strong, surface tension can draw liquid up the tube in a phenomenon known as capillary action.
+Gravity stretches the stream, then surface tension pinches it into spheres.
+In the diagram, both the vertical and horizontal forces must cancel exactly at the contact point, known as equilibrium.
+The center of mass of the entire column of mercury would be slightly lower if the top surface of the mercury were flat over the entire crossection of the tube.
+If the perturbations are resolved into sinusoidal components, we find that some components grow with time while others decay with time.
+:*  is the angle of contact described above.
+Certain assumptions are taken in its deduction, therefore Gibbs isotherm can only be applied to ideal (very dilute) solutions with two components.
+For not very small drops the effect is subtle, but the pressure difference becomes enormous when the drop sizes approach the molecular size.
+This equation is also used in catalyst chemistry to assess mesoporosity for solids.
+Its cause is a complex interaction between the differing surface tensions of water and ethanol; it is induced by a combination of surface tension modification of water by ethanol together with ethanol evaporating faster than water.
+It also provides reasonable results when extrapolated to metastable (supercooled) conditions, down to at least −25&nbsp;°C.
+In the illustration on the right, the rectangular frame, composed of three unmovable sides (black) that form a "U" shape, and a fourth movable side (blue) that can slide to the right.
+This type of surface tension is called "interface tension", but its chemistry is the same.
+Consequently, the surface will push back against any curvature in much the same way as a ball pushed uphill will push back to minimize its gravitational potential energy.
+is the acceleration due to gravity and is equal to 980&nbsp;cm/s2 or 9.8&nbsp;m/s2
+Since any curvature in the surface shape results in greater area, a higher energy will also result.
+The minimized quantity of boundary molecules results in a minimal surface area.
+(In the limit of a single molecule the concept becomes meaningless.)
+And where the two surfaces meet, their geometry must be such that all forces balance.
+When all the forces are balanced, the resulting equation is known as the Young–Laplace equation:
+The object's surface must not be wettable for this to happen, and its weight must be low enough for the surface tension to support it.
+:*  is the acceleration due to gravity,
+This work  is, by the usual arguments, interpreted as being stored as potential energy.
+Beading of rain water on a waxy surface, such as a leaf.
+So in this case increasing the area in contact with the container decreases rather than increases the potential energy.
+For the liquid to minimize its energy state, the number of higher energy boundary molecules must be minimized.
+The effect can be viewed in terms of the average number of molecular neighbors of surface molecules (see diagram).
+which is equivalent to the Young–Laplace equation when Rx = Ry.
+Surface tension gives them their near-spherical shape, because a sphere has the smallest possible surface area to volume ratio.
+When the contact angle is less than 180°, the thickness is given by:
+For temperatures below 100&nbsp;°C, the uncertainty is 0.5%.
+Such a surface shape is known as a convex meniscus.
+water striders), usually denser than water, to float and stride on a water surface.
+Among those that grow with time, some grow at faster rates than others.
+The horizontal component of  is canceled by the adhesive force, .
+:*  is the liquid-air surface tension,
+The work done by the force  in moving the side by distance  is  ; at the same time the total area of the film increases by  (the factor of 2 is here because the liquid has two sides, two surfaces).
+This requires a vapor pressure many times the vapor pressure at the phase transition point.
+The liquid mass flattens out because that brings as much of the mercury to as low a level as possible, but the surface tension, at the same time, is acting to reduce the total surface area.
+The diagram shows how surface curvature of a tiny patch of surface leads to a net component of surface tension forces acting normal to the center of the patch.
+In materials science, surface tension is used for either surface stress or surface free energy.
+For example, water striders use surface tension to walk on the surface of a pond by the following way.
+Surface tension has the dimension of force per unit length, or of energy per unit area.
+This arises because the pressure inside the droplet is greater than outside.
+The equivalence of measurement of energy per unit area to force per unit length can be proven by dimensional analysis.
+The top surface of a pond, for example, is an interface between the pond water and the air.
+Such a surface is said to be fully wettable by the liquid.
+Image:Water drop animation enhanced small.gif|'''B.'''
+:*  is the contact angle, where a concave meniscus has contact angle less than 90° and a convex meniscus has contact angle of greater than 90°.
+Nonwettability of leg of the water strider means no attraction between molecules of the leg and molecules of the water, so when the leg pushes down the water, the surface tension of the water only tries to recover its flatness from its deformation due to the leg.
+The region of validity the entire vapor-liquid saturation curve, from the triple point (0.01&nbsp;°C) to the critical point.
+A variant on Eötvös is described by Ramay and Shields:
+'''In terms of force:''' surface tension  of a liquid is the force per unit length.
+''P''/''P''0 for water drops of different radii at STP
+We consider the surface area of the entire mass of mercury, including the part of the surface that is in contact with the glass, because mercury does not adhere to glass at all.
+:*''Rx'' and ''Ry'' are radii of curvature in each of the axes that are parallel to the surface.
+:*  is the radius of the capillary,
+But if the pressure on one side of the surface differs from pressure on the other side, the pressure difference times surface area results in a normal force.
+Water poured onto a smooth, flat, horizontal wax surface, say a waxed sheet of glass, will behave similarly to the mercury poured onto glass.
+'''Some liquid-solid contact angles'''
+Flotation of objects denser than water occurs when the object is nonwettable and its weight is small enough to be borne by the forces arising from surface tension.
+The more telling balance of forces, though, is in the vertical direction.
+:*Δ''p'' is the pressure difference, known as the Laplace pressure.
+The height to which the column is lifted is given by:
+The vertical component of  must exactly cancel the force, .
+Mercury aggressively adheres to copper.
+The effect explains supersaturation of vapors.

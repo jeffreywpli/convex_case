@@ -1,0 +1,200 @@
+:Precise instructions (in language understood by "the computer") for a fast, efficient, "good" process that specifies the "moves" of "the computer" (machine or human, equipped with the necessary internally contained information and capabilities) to find, decode, and then process arbitrary input integers/symbols ''m'' and ''n'', symbols ''+'' and ''='' ... and "effectively" produce, in a "reasonable" time, output-integer ''y'' at a specified place and in a specified format.
+: This technique involves solving a difficult problem by transforming it into a better known problem for which we have (hopefully) asymptotically optimal algorithms.
+Another logician John Venn, however, in his 1881 ''Symbolic Logic'', turned a jaundiced eye to this effort: "I have no high estimate myself of the interest or importance of what are sometimes called logical machines ... it does not seem to me that any contrivances at present known or likely to be discovered really deserve the name of logical machines"; see more at Algorithm characterizations.
+In the general case, a specialized algorithm or an algorithm that finds approximate solutions is used, depending on the difficulty of the problem.
+Huffman Tree, Kruskal, Prim, Sollin are greedy algorithms that can solve this optimization problem.
+The term is usually used for those algorithms which seem inherently quantum, or use some essential feature of quantum computation such as quantum superposition or quantum entanglement.
+his footnote #5; see discussion immediately below.
+; Reduction of complexity
+Owing to this, it was found to be more suitable to classify the problems themselves instead of the algorithms into equivalence classes based on the complexity of the best possible algorithms for them.
+a program is 'elegant,' by which I mean that it's the smallest possible program for producing the output that it does"
+In the 15th century, under the influence of the Greek word ἀριθμός 'number' (''cf.''
+For some of these problems, it is known that the fastest approximations must involve some randomness.
+Does an algorithm do what its author wants it to do?
+'''return''' ''largest''
+Such algorithms have practical value for many hard problems.
+Written in prose but much closer to the high-level language of a computer program, the following is the more formal coding of the algorithm in pseudocode or pidgin code:
+''Effective calculability'': In an effort to solve the Entscheidungsproblem defined precisely by Hilbert in 1928, mathematicians first set about to define what was meant by an "effective method" or "effective calculation" or "effective calculability" (i.e., a calculation that would succeed).
+An informal definition could be "a set of rules that precisely defines a sequence of operations."
+Tally marks appear prominently in unary numeral system arithmetic used in Turing machine and Post–Turing machine computations.
+''How "Elegant" works'': In place of an outer "Euclid loop", "Elegant" shifts back and forth between two "co-loops", an A > B loop that computes A ← A − B, and a B ≤ A loop that computes B ← B − A.
+Whether randomized algorithms with polynomial time complexity can be the fastest algorithms for some problems is an open question known as the P versus NP problem.
+These algorithms work by getting closer and closer to the optimal solution as they progress.
+Alan Turing's proof of that the Entscheidungsproblem was unsolvable by use of his "a- automatic- machine"—in effect almost identical to Post's "formulation", J. Barkley Rosser's definition of "effective method" in terms of "a machine".
+Al-Khwarizmi was the most widely read mathematician in Europe in the late Middle Ages, primarily through his other book, the Algebra.
+The development of these ideas leads to the author's definition of a computable function, and to an identification of computability † with effective calculability .
+The compactness of "Inelegant" can be improved by the elimination of five steps.
+Another interesting case is the two relatively prime numbers 14157 and 5950.
+A graph exploration algorithm specifies rules for moving around a graph and is useful for such problems.
+30 IF A > B THEN GOTO 60
+immediately take pen and paper and work through an example".
+This process terminates only when it comes to the direction of type (C ) i.e., STOP".
+Minsky: "But we will also maintain, with Turing .
+: "...prose used to define the way the Turing machine uses its head and the way that it stores data on its tape.
+Natural language expressions of algorithms tend to be verbose and ambiguous, and are rarely used for complex or technical algorithms.
+As he worked in Bell Laboratories, he observed the "burdensome' use of mechanical calculators with gears.
+Davis (2000) observes the particular importance of the electromechanical relay (with its two "binary states" ''open'' and ''closed''):
+But he continues a step further and creates a machine as a model of computation of numbers.
+Jevons (1880) describes first a simple "abacus" of "slips of wood furnished with pins, contrived so that any part or class of the logical combinations can be picked out mechanically .
+"He went home one evening in 1937 intending to test his idea...
+; Search and enumeration
+The transition from one state to the next is not necessarily deterministic; some algorithms, known as randomized algorithms, incorporate random input.
+: A greedy algorithm is similar to a dynamic programming algorithm in that it works by examining substructures, in this case not of the problem but of a given solution.
+Turing's reduction yields the following:
+:"The simple operations must therefore include:
+# Las Vegas algorithms always return the correct answer, but their running time is only probabilistically bound, e.g.
+the contents of location replaced by 0: L ← 0), SUCCESSOR (e.g.
+I shall also suppose that the number of symbols which may  be printed is finite....
+With this machine he could analyze a "syllogism or any other simple logical argument".
+: Deterministic algorithms solve the problem with exact decision at every step of the algorithm whereas non-deterministic algorithms solve problems via guessing although typical guesses are made more accurate through the use of heuristics.
+However, practical applications of algorithms are sometimes patentable.
+Additionally, some cryptographic algorithms have export restrictions (see export of cryptography).
+Alan Turing's work preceded that of Stibitz (1937); it is unknown whether Stibitz knew of the work of Turing.
+There is a certain number of paradigms, each different from the other.
+For example, a binary search algorithm (with cost O(log n) ) outperforms a sequential search (cost O(n) ) when used for table lookups on sorted lists or arrays.
+: They run on a realistic model of quantum computation.
+In general, speed improvements depend on special properties of the problem, which are very common in practical applications.
+Another early use of the word is from 1240, in a manual titled ''Carmen de Algorismo'' composed by Alexandre de Villedieu.
+What happens when one number is zero, both numbers are zero?
+; Exact or approximate
+he discusses the history of the definition pretty much as presented above with respect to Gödel, Herbrand, Kleene, Church, Turing and Post .
+For more, see Algorithm characterizations.
+At all times the algorithm only needs to remember two values: the largest number found so far, and its current position in the input list.
+Lovelace is credited with the first creation of an algorithm intended for processing on a computer – Babbage's analytical engine, the first device considered a real Turing-complete computer instead of just a calculator – and is sometimes called "history's first programmer" as a result, though a full implementation of Babbage's second device would not be realized until decades after her lifetime.
+Dynamic programming and memoization go together.
+::"(A) A possible change (a) of symbol together with a possible change of state of mind.
+When a bound on the error of the non-optimal solution is known, the algorithm is further categorized as an approximation algorithm.
+In rapid succession the following appeared: Alonzo Church, Stephen Kleene and J.B. Rosser's λ-calculus a finely honed definition of "general recursion" from the work of Gödel acting on suggestions of Jacques Herbrand (cf.
+Algorithms, by themselves, are not usually patentable.
+Like program flow of a Minsky machine, a flowchart always starts at the top of a page and proceeds down.
+'''for each''' ''item'' '''in''' ''L'', '''do'''
+(Rosser 1939:225–6)
+The simplest of these to state (due to Post and Turing) says essentially that ''an effective method of solving certain sets of problems exists if one can build a machine which will then solve any problem of the set with no human intervention beyond inserting the question and (later) reading the answer''.
+Algorithms can be expressed in many kinds of notation, including natural languages, pseudocode, flowcharts, drakon-charts, programming languages or control tables (processed by interpreters).
+An algorithm designed for such an environment is called a serial algorithm, as opposed to parallel algorithms or distributed algorithms.
+About 825, he wrote a treatise in the Arabic language, which was translated into Latin in the 12th century under the title ''Algoritmi de numero Indorum''.
+Stored data are regarded as part of the internal state of the entity performing the algorithm.
+That notion is central for explaining how formal systems come into being starting from a small set of axioms and rules.
+'''if''' ''L.size'' = 0 '''return''' null
+So far, this discussion of the formalization of an algorithm has assumed the premises of imperative programming.
+''Telephone-switching networks'' of electromechanical relays (invented 1835) was behind the work of George Stibitz (1937), the inventor of the digital adding device.
+Methods have been developed for the analysis of algorithms to obtain such quantitative answers (estimates); for example, the sorting algorithm above has a time requirement of O(''n''), using the big O notation with ''n'' as the length of the list.
+''Algorithm versus function computable by an algorithm'': For a given function multiple algorithms may exist.
+In this sense, algorithm analysis resembles other mathematical disciplines in that it focuses on the underlying properties of the algorithm and not on the specifics of any particular implementation.
+Stone gives an example of this: when computing the roots of a quadratic equation the computor must know how to take a square root.
+:"The behaviour of the computer at any moment is determined by the symbols which he is observing, and his "state of mind" at that moment.
+For example, dynamic programming was invented for optimization of resource consumption in industry, but is now used in solving a broad range of problems in many fields.
+::"(a) Changes of the symbol on one of the observed squares
+; Deterministic or non-deterministic
+Because an algorithm is a precise list of precise steps, the order of computation is always crucial to the functioning of the algorithm.
+.we want ''good'' algorithms in some loosely defined aesthetic sense.
+From this follows a simple algorithm, which can be stated in a high-level description English prose, as:
+Moreover, the fact that all three are equivalent is a very strong argument for the correctness of any one."
+The appeal of this approach is the elegant semantics: a change in the axioms has a well-defined change in the algorithm.
+There is a wide variety of representations possible and one can express a given Turing machine program as a sequence of machine tables (see more at finite state machine, state transition table and control table), as flowcharts and drakon-charts (see more at state diagram), or as a form of rudimentary machine code or assembly code called "sets of quadruples" (see more at Turing machine).
+We may  suppose that there is a bound B to the number of symbols or squares which the computer can observe at one moment.
+But what about a simulation or execution of the real thing?
+But exceptional cases must be identified and tested.
+''Simulation of an algorithm: computer (computor) language'': Knuth advises the reader that "the best way to learn an algorithm is to try it .
+Speedups of this magnitude enable computing devices that make extensive use of image processing (like digital cameras and medical equipment) to consume less power.
+''Computers (and computors), models of computation'': A computer (or human "computor") is a restricted type of machine, a "discrete deterministic mechanical device" that blindly follows its instructions.
+5 REM Euclid's algorithm for greatest common divisor
+Related problems in one field are often studied together.
+; 1 High-level description
+However, algorithms are also implemented by other means, such as in a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device.
+Sub-structures can "nest" in rectangles, but only if a single exit occurs from the superstructure.
+As the algorithm (usually) requires many loop-throughs, ''on average'' much time is wasted doing a "B = 0?"
+When subproblems are independent and there is no repetition, memoization does not help; hence dynamic programming is not a solution for all complex problems.
+By the late 19th century the ticker tape (ca 1870s) was in use, as was the use of Hollerith cards in the 1890 U.S. census.
+The following version can be used with Object Oriented languages:
+Approximation may  use either a deterministic or a random strategy.
+In late medieval Latin, ''algorismus'', English 'algorism', the corruption of his name, simply meant the "decimal number system".
+Parallel algorithms take advantage of computer architectures where several processors can work on a problem at the same time, whereas distributed algorithms utilize multiple machines connected with a network.
+This is closely related to the study of methods of hypercomputation.
+The Böhm–Jacopini canonical structures are made of these primitive shapes.
+Tausworthe augments the three Böhm-Jacopini canonical structures: SEQUENCE, IF-THEN-ELSE, and WHILE-DO, with two more: DO-WHILE and CASE.
+Rosser's footnote #5 references the work of (1) Church and Kleene and their definition of λ-definability, in particular Church's use of it in his ''An Unsolvable Problem of Elementary Number Theory'' (1936); (2) Herbrand and Gödel and their use of recursion in particular Gödel's use in his famous paper ''On Formally Undecidable Propositions of Principia Mathematica and Related Systems I'' (1931); and (3) Post (1936) and Turing (1936–7) in their mechanism-models of computation.
+That is, any conditional steps must be systematically dealt with, case-by-case; the criteria for each case must be clear (and computable).
+Ditto for "Elegant": B > A, A > B, A = B?
+:"One box is to be singled out and called the starting point.
+Subsequent formalizations were framed as attempts to define "effective calculability" or "effective method"; those formalizations included the Gödel–Herbrand–Kleene recursive functions of 1930, 1934 and 1935, Alonzo Church's lambda calculus of 1936, Emil Post's "Formulation 1" of 1936, and Alan Turing's Turing machines of 1936–7 and 1939.
+For some such computational process, the algorithm must be rigorously defined: specified in the way it applies in all possible circumstances that could arise.
+::"(B) A possible change (b) of observed squares, together with a possible change of state of mind"
+Turing—his model of computation is now called a Turing machine—begins, as did Post, with an analysis of a human computer that he whittles down to a simple set of basic motions and "states of mind".
+A notable failure due to exceptions is the Ariane 5 Flight 501 rocket failure (4 June 1996).
+'arithmetic'), the Latin word was altered to ''algorithmus'', and the corresponding English term 'algorithm' is first attested in the 17th century; the modern sense was introduced in the 19th century.
+We may  take this statement literally, understanding by a purely mechanical process one which could be carried out by a machine.
+; Dynamic programming
+Now "Elegant" computes the example-numbers faster; whether this is always the case for any given A, B and R, S would require a detailed analysis.
+6 PRINT "Type two integers greater than 0"
+Church's proof that the Entscheidungsproblem was unsolvable, Emil Post's definition of effective calculability as a worker mindlessly following a list of instructions to move left or right through a sequence of rooms and while there either mark or erase a paper or observe the paper and make a yes-no decision about the next instruction.
+'''Tally-marks''': To keep track of their flocks, their sacks of grain and their money the ancients used tallying: accumulating stones or marks scratched on sticks, or making discrete symbols in clay.
+Additionally, some problems may  have multiple algorithms of differing complexity, while other problems might have no algorithms or no known efficient algorithms.
+("Inelegant" computes forever in all cases; "Elegant" computes forever when A = 0.)
+// Euclid's algorithm for greatest common divisor
+; The greedy method
+Sorting can be done on each segment of data after dividing data into segments and sorting of entire data can be obtained in the conquer phase by merging the segments.
+Instructions are usually assumed to be listed explicitly, and are described as starting "from the top" and going "down to the bottom", an idea that is described more formally by ''flow of control''.
+Euclid's original proof adds a third requirement: the two lengths must not be prime to one another.
+''Jacquard loom, Hollerith punch cards, telegraphy and telephony—the electromechanical relay'': Bell and Newell (1971) indicate that the Jacquard loom (1801), precursor to Hollerith cards (punch cards, 1887), and "telephone switching technologies" were the roots of a tree leading to the development of the first computers.
+:"A function is said to be "effectively calculable" if its values can be found by some purely mechanical process.
+;The heuristic method
+"The accurate automatic machine" led immediately to "mechanical automata" beginning in the 13th century and finally to "computational machines"—the difference engine and analytical engines of Charles Babbage and Countess Ada Lovelace, mid-19th century.
+But he did this in the following context (boldface in original):
+But humans can do something equally useful, in the case of certain enumerably infinite sets: They can give ''explicit instructions for determining the '''n'''th member of the set'', for arbitrary finite ''n''.
+The programmer must translate the algorithm into a language that the simulator/computer/computor can ''effectively'' execute.
+We may  suppose this paper is divided into squares like a child's arithmetic book....I assume then that the computation is carried out on one-dimensional paper, i.e., on a tape divided into squares.
+procedure and the notion of ''function computable by algorithm'', i.e.
+In English, it was first used about 1230 and then by Chaucer in 1391.
+... in which we see a " 'formula language', that is a ''lingua characterica'', a language written with special symbols, "for pure thought", that is, free from rhetorical embellishments ... constructed from specific symbols that are manipulated according to definite rules".
+Output: The largest number in the list ''L''.
+Fractional numbers?
+.. Other criteria are adaptability of the algorithm to computers, its simplicity and elegance, etc"
+Programming languages are primarily intended for expressing algorithms in a form that can be executed by a computer, but are often used as a way to define or document algorithms.
+Algorithms were used in ancient Greece.
+Algorithms are essential to the way computers process data.
+''Structured programming, canonical structures'': Per the Church–Turing thesis, any algorithm can be computed by a model known to be Turing complete, and per Minsky's demonstrations, Turing completeness requires only four instruction types—conditional GOTO, unconditional GOTO, assignment, HALT.
+If they don't, then the algorithm, to be effective, must provide a set of rules for extracting a square root.
+English adopted the French term, but it wasn't until the late 19th century that "algorithm" took on the meaning that it has in modern English.
+important to distinguish between the notion of ''algorithm'', i.e.
+the domain of the function computed by the algorithm/program, is to include only positive integers including zero, then the failures at zero indicate that the algorithm (and the program that instantiates it) is a partial function rather than a total function.
+''largest'' ← ''item''
+# When there are no numbers left  in the set to iterate over, consider the current largest number to be the largest number of the set.
+This is the most common conception, and it attempts to describe a task in discrete, "mechanical" means.
+Such instructions are to be given quite explicitly, in a form in which ''they could be followed by a computing machine'', or by a ''human who is capable of carrying out only very elementary operations on symbols.''
+The work of Frege was further simplified and amplified by Alfred North Whitehead and Bertrand Russell in their Principia Mathematica (1910–1913).
+This works because, when at last the minuend M is less than or equal to the subtrahend S ( Difference = Minuend − Subtrahend), the minuend can become ''s'' (the new measuring length) and the subtrahend can become the new ''r'' (the length to be measured); in other words the "sense" of the subtraction reverses.
+''Proof of program correctness by use of mathematical induction'': Knuth demonstrates the application of mathematical induction to an "extended" version of Euclid's algorithm, and he proposes "a general method applicable to proving the validity of any algorithm".
+Those computers are sometimes called serial computers.
+There are also mappings from some problems to other problems.
+To illustrate the potential improvements possible even in well established algorithms, a recent significant innovation, relating to FFT algorithms (used heavily in the field of image processing), can decrease processing time up to 1,000 times for applications like medical imaging.
+The resource consumption in such algorithms is not only processor cycles on each processor but also the communication overhead between the processors.
+''(Quasi-)formal description:''
+Authors who assert this thesis include Minsky (1967), Savage (1987) and Gurevich (2000):
+Furthermore, each of these categories include many different types of algorithms.
+Every field of science has its own problems and needs efficient algorithms.
+''The clock'': Bolter credits the invention of the weight-driven clock as "The key invention of Europe in the Middle Ages", in particular the verge escapement that provides us with the tick and tock of a mechanical clock.
+By using memoization or maintaining a table of subproblems already solved, dynamic programming reduces the exponential nature of many problems to polynomial complexity.
+Their merit is that they can find a solution very close to the optimal solution in a relatively short time.
+A linear programming algorithm can solve such a problem if it can be proved that all restrictions for integer values are superficial, i.e., the solutions satisfy these restrictions anyway.
+It is possible to give a mathematical description, in a certain normal form, of the structures of these machines.
+In the United States, a claim consisting solely of simple manipulations of abstract concepts, numbers, or signals does not constitute "processes" (USPTO 2006), and hence algorithms are not patentable (as in Gottschalk v. Benson).
+::"(b) Changes of one of the squares observed to another square within L squares of one of the previously observed squares.
+''Elegance (compactness) versus goodness (speed)'': With only six core instructions, "Elegant" is the clear winner, compared to "Inelegant" at thirteen instructions.
+There is an example below of such an assignment.
+; 2 Implementation description
+: It was only with the development, beginning in the 1930s, of electromechanical calculators using electrical relays, that machines were built having the scope Babbage had envisioned."
+An example that uses Euclid's algorithm appears below.
+Given the prevalence of Morse code and telegraphy, ticker tape machines, and teletypewriters we might conjecture that all were influences.
+Van Emde Boas observes "even if we base complexity theory on abstract instead of concrete machines, arbitrariness of the choice of a model remains.
+20 IF B=0 THEN GOTO 80
+Scaling from small n to large n frequently exposes inefficient algorithms that are otherwise benign.
+:"We may  now construct a machine to do the work of this computer."
+; Quantum algorithm
+# If there are no numbers in the set then there is no highest number.
+But Minsky shows (as do Melzak and Lambek) that his machine is Turing complete with only four general ''types'' of instructions: conditional GOTO, unconditional GOTO, assignment/replacement/substitution, and HALT.
+''largest'' ← ''L''0
+L ← L+1), and DECREMENT (e.g.
+More recently however I have reduced the system to a completely mechanical form, and have thus embodied the whole of the indirect process of inference in what may  be called a ''Logical Machine''" His machine came equipped with "certain moveable wooden rods" and "at the foot are 21 keys like those of a piano etc .
+: A divide and conquer algorithm repeatedly reduces an instance of a problem to one or more smaller instances of the same problem (usually recursively) until the instances are small enough to solve easily.
+:"A set of directions applicable to a general problem sets up a deterministic process when applied to each specific problem.

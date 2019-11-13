@@ -1,0 +1,200 @@
+The Dirac monopole is a singular solution of Maxwell's equation (because it requires removing the worldline from spacetime); in more complicated theories, it is superseded by a smooth solution such as the 't Hooft–Polyakov monopole.
+In an electric dipole made of ordinary matter, the positive charge is made of protons and the negative charge is made of electrons, but a magnetic dipole does ''not'' have different types of matter creating the north pole and south pole.
+A magnetic monopole, if it exists, would have the defining property of producing a magnetic field whose ''monopole'' term is non-zero.
+Many early scientists attributed the magnetism of lodestones to two different "magnetic fluids" ("effluvia"), a north-pole fluid at one end and a south-pole fluid at the other, which attracted and repelled each other in analogy to positive and negative electric charge.
+A ''connection'' on a  bundle tells you how to glue fibers together at nearby points of .
+We must define one set of functions for the vector potential on the "northern hemisphere" (the half-space  above the particle), and another set of functions for the "southern hemisphere".
+Gauss's law for magnetism, one of Maxwell's equations, is the mathematical statement that magnetic monopoles do not exist.
+Hence, the Dirac monopole is a topological defect in a compact U(1) gauge theory.
+# If the group path associated to the lassoing procedure winds around the U(1), the sphere contains magnetic charge.
+Outside the core, the monopole has only magnetic field energy.
+First, electric currents create magnetic fields according to Ampère's law.
+In general, they  are expected to occur whenever there is a short-distance regulator.
+In order to do this with as little energy as possible, you should leave only the U(1) gauge group in the neighborhood of one point, which is called the '''core''' of the monopole.
+The MoEDAL experiment, installed at the Large Hadron Collider, is currently searching for magnetic monopoles and large supersymmetric particles using layers of special plastic sheets attached to the walls around LHCb's VELO detector.
+They remain stable not because of a conservation condition, but because there is no simpler ''topological'' state into which they can decay.
+# This means that there is a continuous gauge-field configuration in the GUT group allows the U(1) monopole configuration to unwind itself at short distances, at the cost of not staying in the U(1).
+This resolution of the "monopole problem" was regarded as a success of cosmic inflation theory.
+Explicit formulas for  and  are difficult to obtain by either method, despite some exact solutions of Nahm's equations in symmetric situations.
+However, an electric dipole and magnetic dipole are fundamentally quite different.
+The first exact solution in the general case was given in 1981 by R.S.Ward for  in terms of elliptic functions.
+A cyclic -fold conering of  splits isometrically is a product , where  is the space of strongly centred monopoles.
+If magnetic charges do not exist&nbsp;– or if they do exist but are not present in a region of space&nbsp;– then the new terms in Maxwell's equations are all zero, and the extended equations reduce to the conventional equations of electromagnetism such as  (where  is divergence and  is the magnetic  field).
+The first SU(2) solution was found by E. B. Bogomolny, J. K. Parasad and C. M. Sommerfield in 1975.
+Any U(1) which comes from a Grand Unified Theory is compact – because only compact higher gauge groups make sense.
+There are a number of examples in condensed-matter physics where collective behavior leads to emergent phenomena that resemble magnetic monopoles in certain respects, including most prominently the spin ice materials.
+One of the defining advances in quantum theory was Paul Dirac's work on developing a relativistic quantum electromagnetism.
+Maximally imbedded spherically symmetric magnetic monopole solutions in the Bogolomony–Parasad–Sommerfield limit for the gauge group SU(''n'') were exhibited by Bais.
+Another experiment in 1975 resulted in the announcement of the detection of a moving magnetic monopole in cosmic rays by the team led by P. Buford Price.
+# Since the holonomy at the beginning and at the end is the identity, the total magnetic flux is quantized.
+The total magnetic flux is none other than the first Chern number of the principal bundle, and depends only upon the choice of the principal bundle, and not the specific connection over it.
+Magnetic monopole on hyperbolic three-space were investigated from the twistor point of view by M. F. Atiyah (replacing the complex surface  by the complement of the anti-diagonal in ) and in terms of discrete Nahm equations by Murray and M. A.
+This semi-infinite line is called the Dirac string and its effect on the wave function is analogous to the effect of the solenoid in the Aharonov–Bohm effect.
+Infinitesimal loops are mapped to group elements infinitesimally close to the identity.
+2-balls are homotopically trivial and the strip is homotopically equivalent to the circle .
+where  is the vacuum permittivity,  is the reduced Planck's constant,  is the speed of light, and  is the set of integers.
+Experiments in 1975 and 1982 produced candidate events that were initially interpreted as monopoles, but are now regarded as inconclusive.
+A principal -bundle over  is defined by covering  by two charts, each homeomorphic to the open 2-ball such that their intersection is homeomorphic to the strip .
+Gannoulis, Goddard and Olive, and Farwell and Minami
+A correlation length cannot be larger than causality would allow, therefore the correlation length for making magnetic monopoles must be at least as big as the horizon size determined by the metric of the expanding universe.
+During the lassoing, the holonomy changes by the amount of magnetic flux through the sphere.
+Quantum mechanics dictates, however, that angular momentum is quantized in units of , so therefore the product  must also be quantized.
+The transition function maps the strip to , and the different ways of mapping a strip into  are given by the first homotopy group of .
+Since 2009, numerous news reports from the popular media have incorrectly described these systems as the long-awaited discovery of the magnetic monopoles, but the two phenomena are only superficially related to one another.
+In more technical terms, a magnetic monopole would have a net "magnetic charge".
+where  is a  -matrix valued function on .
+But consider what happens when we remove a timelike worldline from spacetime.
+showed that maximally imbedded spherically symmetric magnetic monopole solutions in the Bogolomony–Parasad–Sommerfield limit for an arbitrary simple gauge group  corresponding to a Lie Algebra with Cartan matrix  and level vector , are solutions to the Toda molecule
+The term ''dipole'' means ''two poles'', corresponding to the fact that a dipole magnet typically contains a ''north pole'' on one side and a ''south pole'' on the other side.
+There is no experimental evidence that magnetic monopoles exist.
+For these reasons, monopoles became a major interest in the 1970s and 80s, along with the other "approachable" predictions of GUTs such as proton decay.
+Consider a system consisting of a single stationary electric monopole (an electron, say) and a single stationary magnetic monopole.
+Its geodesics have been studied and a programme of Manton concerning monopole dynamics put into effect.
+In physics, the connection is the fundamental physical object.
+A contribution to the heat capacity of the system from an effective gas of these quasiparticles was also described.
+For instance, the electron has a lepton number of one and an electric charge of one, and there are no lighter particles that conserve these values.
+If space time is  the space of all possible connections of the -bundle is connected.
+At the time it was not clear if such a thing existed, or even had to.
+Except for this difference, the equations are symmetric under the interchange of the electric and magnetic fields.
+This was called the "monopole problem".
+Any of these terms can be present in the multipole expansion of an electric field, for example.
+Classically, the electromagnetic field surrounding them has a momentum density given by the Poynting vector, and it also has a total angular momentum, which is proportional to the product , and independent of the distance between them.
+However, in the multipole expansion of a ''magnetic'' field, the "monopole" term is always exactly zero (for ordinary matter).
+The quantum of charge becomes small, but each charged particle has a huge number of charge quanta so its charge stays finite.
+One of the fundamental observations in the theory of characteristic classes in algebraic topology is that many homotopical structures of nontrivial principal bundles may be expressed as an integral of some polynomial over '''any''' connection over it.
+While these should not be confused with hypothetical elementary monopoles existing in the vacuum, they nonetheless have similar properties and can be probed using similar techniques.
+The particles it is looking for will damage the sheets along their path, with various identifying features.
+What are the units in which magnetic charge would be quantized?
+They are not sources for the -field (i.e., they do not violate ); instead, they are sources for other fields, for example the -field, or the "-field" (related to superfluid vorticity).
+In these equations  is the ''magnetic charge density'',   is the ''magnetic current density'', and  is the ''magnetic charge'' of a test particle, all defined analogously to the related quantities of electric charge and current;  is the particle's velocity and  is the speed of light.
+This led him to new ideas.
+Price later retracted his claim, and a possible alternative explanation was offered by Alvarez.
+In other words, it's a topological invariant.
+Many of the other particles predicted by these GUTs were beyond the abilities of current experiments to detect.
+In a U(1) gauge group with quantized charge, the group is a circle of radius .
+(This magnetism is related to quantum-mechanical "spin".)
+The Dirac string is merely an artifact of the coordinate chart used and should not be taken seriously.
+# When the U(1) gauge group comes from breaking a compact Lie group, the path which winds around the U(1) group enough times is topologically trivial in the big group.
+For instance, a wide class of particles known as the X and Y bosons are predicted to mediate the coupling of the electroweak and strong forces, but these particles are extremely heavy and well beyond the capabilities of any reasonable particle accelerator to create.
+The standard equations provide for electric charges, but they posit no magnetic charges.
+Modern interest in the concept stems from particle theories, notably the grand unified and superstring theories, which predict their existence.
+In superfluids, there is a field , related to superfluid vorticity, which is mathematically analogous to the magnetic -field.
+In experiments involving photon exchange in particle accelerators, monopoles should be produced in reasonable numbers, and detected due to their effect on the scattering of the photons.
+In a non-compact U(1) gauge group theory, the charges of particles are generically not integer multiples of a single unit.
+So in the -bundle formulation, a gauge theory admits Dirac monopoles provided  is not simply connected, whenever there are paths that go around the group that cannot be deformed to a constant path (a path whose image consists of a single point).
+In January 2014, it was reported that monopole quasiparticles for the  field were created and studied in a spinor Bose–Einstein condensate.
+Other experiments rely on the strong coupling of monopoles with photons, as is the case for any electrically-charged particle as well.
+also Yang–Mills field) in .
+The resulting spacetime is homotopically equivalent to the topological sphere .
+Because the divergence of  is equal to zero almost everywhere, except for the locus of the magnetic monopole at , one can locally define the vector potential such that the curl of the vector potential  equals the magnetic field .
+Another example is a paper in the February 11, 2011 issue of ''Nature Physics'' which describes creation and measurement of long-lived magnetic monopole quasiparticle currents in spin ice.
+Some condensed matter systems propose a structure superficially similar to a magnetic monopole, known as a flux tube.
+However, the vector potential cannot be defined globally precisely because the divergence of the magnetic field is proportional to the Dirac delta function at the origin.
+Because of the similarity, the field  is called a "synthetic magnetic field".
+The matrix is a two-dimensional rotation matrix.
+The hypothetical existence of a magnetic monopole would imply that the electric charge must be quantized in certain units; also, the existence of the electric charges implies that the magnetic charges of the hypothetical magnetic monopoles, if they exist, must be quantized in units inversely proportional to the elementary electric charge.
+These theories are not necessarily inconsistent with the experimental evidence.
+The monopoles studied by condensed-matter groups have none of these properties.
+For example, it is merely a convention, not a requirement of Maxwell's equations, that electrons have electric charge but not magnetic charge; after a  transformation, it would be the other way around.
+Specifically, more recent theories of cosmic inflation drastically reduce the predicted number of magnetic monopoles, to a density small enough to make it unsurprising that humans have never seen one.
+A '''magnetic monopole''' is a hypothetical elementary particle in particle physics that is an isolated magnet with only one magnetic pole (a north pole without a south pole or vice versa).
+But there are only finitely many lifts of the identity, because the lifts can't accumulate.
+The quantization condition comes from the requirement that the phases around the Dirac string are trivial, which means that the Dirac string must be unphysical.
+This choice underlies the "conventional" definitions of electricity and magnetism.
+This constitutes the first example of a quasi-magnetic monopole observed within a system governed by quantum field theory.
+Before his formulation, the presence of electric charge was simply "inserted" into the equations of quantum mechanics (QM), but in 1931 Dirac showed that a discrete charge naturally "falls out" of QM.
+The first is by twistor methods.
+The majority of particles appearing in any quantum field theory are unstable, and they decay into other particles in a variety of reactions that must satisfy various conservation laws.
+Further dynamical features have been elucidated by numerical and analytical techniques.
+In fact, symmetric Maxwell's equations can be written when all charges (and hence electric currents) are zero, and this is how the electromagnetic wave equation is derived.
+Since charge quantization is an experimental certainty, it is clear that the U(1) gauge group of electromagnetism is compact.
+The Russian astrophysicist Igor Novikov claims the fields of macroscopic black holes to be potential magnetic monopoles, representing the entrance to an Einstein–Rosen bridge.
+The equivalence of the two methods for SU(2) and their general applicability was established in (see also).
+However, the explanation is essentially the same, because in any GUT which breaks down into a U(1) gauge group at long distances, there are magnetic monopoles.
+Group multiplication along any path tells you how to move from one point on the bundle to another, by having the  element associated to a path act on the fiber .
+The most recent such experiments suggest that monopoles with masses below  do not exist, while upper limits on their mass due to the very existence of the universe – which would have collapsed by now if they were too heavy – are about .
+The dyons are expected to exist as a side effect of the "freezing out" of the conditions of the early universe, or a symmetry breaking.
+Note that a connection over a trivial bundle can never give us a nontrivial principal bundle.
+Some condensed matter systems contain effective (non-isolated) magnetic monopole ''quasi''-particles, or contain phenomena that are mathematically analogous to magnetic monopoles.
+More accurately, GUTs predicted a range of particles known as dyons, of which the most basic state was a monopole.
+Because the electron returns to the same point after the full trip around the equator, the phase  of its wave function  must be unchanged, which implies that the phase  added to the wave function must be a multiple of :
+The mathematical definition is equivalent to the physics definition provided that, following Dirac, gauge fields are allowed which are defined only patch-wise and the gauge field on different patches are glued after a gauge transformation.
+In the formulation of N.J. Hitchin, an arbitrary solution corresponds to a holomorphic vector bundle over the complex surface , the tangent bundle of the projective line.
+The quantity  is the Levi-Civita symbol, and the indices (as usual) behave according to the Einstein summation convention.
+Lie groups are homogenous, so that any cycle in the group can be moved around so that it starts at the identity, then its lift to the covering group ends at , which is a lift of the identity.
+U(1), which has quantized charges, is not simply connected and can have Dirac monopoles while , its universal covering group, '''is''' simply connected, doesn't have quantized charges and does not admit Dirac monopoles.
+(See "Monopoles" in condensed-matter systems below.)
+Magnetism in bar magnets and electromagnets does not arise from magnetic monopoles.
+In the universe, quantum gravity provides the regulator.
+The ends of a flux tube form a magnetic dipole, but since they move independently, they can be treated for many purposes as independent magnetic monopole quasiparticles.
+This is analogous to an electric dipole, which has positive charge on one side and negative charge on the other.
+If we maximally extend the definition of the vector potential for the southern hemisphere, it will be defined everywhere except for a semi-infinite line stretched from the origin in the direction towards the northern pole.
+(The concept of local gauge invariance—see gauge theory below—provides a natural explanation of charge quantization, without invoking the need for magnetic monopoles; but only if the U(1) gauge group is compact, in which case we will have magnetic monopoles anyway.)
+In 1980, C.H.Taubes showed by a gluing construction that there exist solutions for all large  and soon after explicit axially-symmetric solutions were found.
+They measured the current by means of the electromotive force it induced in a solenoid coupled to a sensitive amplifier, and quantitatively described it using a chemical kinetic model of point-like charges obeying the Onsager–Wien mechanism of carrier dissociation and recombination.
+For all other definitions and details, see Maxwell's equations.
+Since Dirac's paper, several systematic monopole searches have been performed.
+# The holonomy of a gauge field maps loops to elements of the gauge group.
+That is to say, we can maintain the form of Maxwell's equations and still have magnetic charges.
+(However, of course, it is only a noteworthy success if the particle-physics monopole prediction is correct.)
+Most work has been done in the case  SU(2), where the charge is a positive integer .
+This is called ''lassoing the sphere''.
+One of the simpler ones is to use a loop of superconducting wire to look for even tiny magnetic sources, a so-called "superconducting quantum interference device", or SQUID.
+Using an applied magnetic field to break the symmetry of the system, the researchers were able to control the density and orientation of these strings.
+Second, many elementary particles have an ''intrinsic'' magnetic moment, the most important of which is the electron magnetic dipole moment.
+They are not a new elementary particle, but rather are an emergent phenomenon in systems of everyday particles (protons, neutrons, electrons, photons); in other words, they are quasi-particles.
+The key empirical fact is that all particles ever observed have the same ratio of magnetic charge to electric charge.
+The case of the U(1) gauge group is a special case because all its irreducible representations are of the same size – the charge is bigger by an integer amount, but the field is still just a complex number – so that in U(1) gauge field theory it is possible to take the decompactified limit with no contradiction.
+However, in the time since the publication of this seminal work, no other widely accepted explanation of charge quantization has appeared.
+Instead, magnetism in ordinary matter comes from two sources.
+At the defect formed by the end of each tube, the magnetic field looks like that of a monopole.
+Because of the duality transformation, one cannot uniquely decide whether a particle has an electric charge, a magnetic charge, or both, just by observing its behavior and comparing that to Maxwell's equations.
+Its widely accepted resolution was not a change in the particle-physics prediction of monopoles, but rather in the cosmological models used to infer their present-day density.
+Therefore, it remains an open question whether monopoles exist.
+Another way is to examine the type of topological singularity at a point with the homotopy group .
+The dyons in these GUTs are also stable, but for an entirely different reason.
+SI units (weber convention)
+A number of attempts have been made to detect magnetic monopoles.
+This Atiyah–Hitchin manifold, the Einstein Taub-NUT metric and  are the only 4-dimensional complete hyper-Kähler manifolds with a non-triholomorphic SU(2) action.
+They are not directly relevant to grand unified theories or other aspects of particle physics, and do not help explain charge quantization—except insofar as studies of analogous situations can help confirm that the mathematical analyses involved are sound.
+This means that if even a single magnetic monopole existed in the universe, and the form of Maxwell's equations is valid, all electric charges would then be quantized.
+In this paper, Dirac showed that if ''any'' magnetic monopoles exist in the universe, then all electric charge in the universe must be quantized (Dirac quantization condition).
+In his paper it was demonstrated that the path of the cosmic ray event that was claimed to be due to a magnetic monopole could be reproduced by the path followed by a platinum nucleus decaying first to osmium, and then to tantalum.
+Explicit finite energy solutions for the Lie Algebras ,  and  have been obtained using this method.
+Nevertheless, it was pointed out by Pierre Curie in 1894 that magnetic monopoles ''could'' conceivably exist, despite not having been seen so far.
+Instead, the two magnetic poles arise simultaneously from the aggregate effect of all the currents and intrinsic moments throughout the magnet.
+Dirac was originally considering an electron whose wave function is described by the Dirac equation.
+Some researchers use the term '''magnetricity''' to describe the manipulation of magnetic monopole quasiparticles in spin ice, in analogy to the word "electricity".
+This phase is proportional to the electric charge  of the probe, as well as to the magnetic charge  of the source.
+The equations themselves are invariant under gauge transformation and orientation-preserving symmetries.
+One way is to extend everything into the extra dimensions, so that U(1) monopoles become sheets of dimension .
+Duality transformations can change the ratio to any arbitrary numerical value, but cannot change the fact that all particles have the same ratio.
+The second method, due to W.Nahm, involves solving an eigen value problem for the coupled Dirac operator and transforming the equations with their boundary conditions into a system of ordinary differential equations, the Nahm equations.
+Dirac's monopole solution in fact describes an infinitesimal line solenoid ending at a point, and the location of the solenoid is the singular part of the solution, the Dirac string.
+Although there have been tantalizing events recorded, in particular the event recorded by Blas Cabrera on the night of February 14, 1982 (thus, sometimes referred to as the "Valentine's Day Monopole"), there has never been reproducible evidence for the existence of magnetic monopoles.
+The magnetic charge is proportional to the number of windings , the magnetic flux through the sphere is equal to .
+This is known as the '''Dirac quantization condition'''.
+Because of this, the two poles of a magnetic dipole must always have equal and opposite strength, and the two poles cannot be separated from each other.
+By applying a magnetic-field pulse to crystal of dysprosium titanate at 0.36 K, the authors created a relaxing magnetic current that lasted for several minutes.
+where the primed quantities are the charges and fields before the transformation, and the unprimed quantities are after the transformation.
+The case of a more general Lie group , where the stabilizer of  at infinity is a maximal torus, was treated by M.K.Murray from the twistor point of view, where the single spectral curve of an SU(2)-monopole is replaced by a collection of curves indexed by the vertices of the Dynkin diagram of .
+It generalizes to  dimensions with  in several ways.
+also Kähler–Einstein manifold).
+Monopoles occur in lattice U(1), and there the core size is the lattice size.
+When  is large,  defines a mapping from a 2-sphere of radius  in  to an adjoint orbit  and the homotopy class of this mapping is called the magnetic charge.
+Both constructions are based on analogous procedures for instantons, the key observation due to N.S.Manton being of the self-dual Yang–Mills equations (c.f.
+However, an improved understanding of electromagnetism in the nineteenth century showed that the magnetism of lodestones was properly explained by Ampère's circuital law, not magnetic monopole fluids.
+Although it would be possible simply to integrate over all space to find the total angular momentum in the above example, Dirac took a different approach.
+So a topological classification of the possible connections is reduced to classifying the transition functions.
+The ''quantum'' theory of magnetic charge started with a paper by the physicist Paul A.M. Dirac in 1931.
+These condensed-matter systems continue to be an area of active research.
+He considered a point-like magnetic charge whose magnetic field behaves as  and is directed in the radial direction, located at the origin.
+This argument for monopoles is a restatement of the lasso argument for a pure U(1) theory.
+It is spherically symmetric of charge 1 and has the form
+Restricting to gauge transformations that preserve the connection at infinity gives a -dimensional manifold , which is a circle bundle over the true moduli space and carries a natural complete hyper-Kähler metric (c.f.
+But when there is some sort of short-distance regulator on space time, the monopoles have a finite mass.
+The charge on magnetic monopoles predicted by GUTs is either 1 or 2 ''gD'', depending on the theory.
+On the other hand, the muon, essentially a heavy electron, can decay into the electron plus two quanta of energy, and hence it is not stable.
+Fully symmetric Maxwell's equations can also be written if one allows for the possibility of "magnetic charges" analogous to electric charges.
+The boundary condition show that the holomorphic bundle is an extension of line bundles determined by a compact algebraic curve of genus  (the spectral curve) in , satisfying certain constraints.
+Joseph Polchinski, a string-theorist, described the existence of monopoles as "one of the safest bets that one can make about physics not yet seen".

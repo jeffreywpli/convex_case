@@ -1,0 +1,200 @@
+Metal and nonmetals can be further classified into subcategories that show a gradation from metallic to non-metallic properties, when going left to right in the rows.
+This is regarded as better expressing empirical trends in physical state, electrical and thermal conductivity, and oxidation numbers, and other properties easily inferred from traditional techniques of the chemical laboratory.
+There is a spectrum of properties within each category and it is not hard to find overlaps at the boundaries, as is the case with most classification schemes.
+Although minute quantities of some transuranic elements occur naturally, they were all first discovered in laboratories.
+Specialized groupings such as the refractory metals and the noble metals, which are subsets (in this example) of the transition metals, are also known and occasionally denoted.
+The IUPAC definition therefore excludes group 12, comprising zinc, cadmium and mercury, from the transition metals category.
+Seaborg's colleagues advised him not to publish such a radical suggestion as it would most likely ruin his career.
+In 1829, Johann Wolfgang Döbereiner observed that many of the elements could be grouped into triads based on their chemical properties.
+Electron affinity also shows a slight trend across a period.
+The higher its electronegativity, the more an element attracts electrons.
+Later in 1913, Henry Moseley determined experimental values of the nuclear charge or atomic number of each element, and showed that Mendeleev's ordering actually corresponds to  the order of increasing atomic number.
+The answer to this question is thought to depend on whether the chemical periodicity seen to occur among the elements has an underlying truth, effectively hard-wired into the universe, or if any such periodicity is instead the product of subjective human interpretation, contingent upon the circumstances, beliefs and predilections of human observers.
+With some irregularities and gaps, he noticed what appeared to be a periodicity of atomic weights among the elements and that this accorded with "their usually received groupings".
+Given the periodic trends of these three properties, metallic character tends to decrease going across a period (or row) and, with some irregularities (mostly) due to poor screening of the nucleus by d and f electrons, and relativistic effects, tends to increase going down a group (or column or family).
+A uniform decrease in electron affinity only applies to group 1 atoms.
+This meant that ytterbium and lutetium—the latter with Xe4f145d16s2—both had 14 f-electrons, "resulting in a d- rather than an f- differentiating electron" for lutetium and making it an "equally valid candidate" with Xe5d16s2 lanthanum, for the group 3 periodic table position below yttrium.
+Electronegativity is the tendency of an atom to attract electrons.
+In Europe, the lettering was similar, except that "A" was used if the group was before group 10, and "B" was used for groups including and after group 10.
+Electron affinity generally increases across a period.
+It is unclear whether new elements will continue the pattern of the current periodic table as period 8, or require further adaptations or adjustments.
+The p-block comprises the last six groups, which are groups 13 to 18 in IUPAC group numbering (3A&nbsp;to 8A in American group numbering) and contains, among other elements, all of the metalloids.
+In its absence, the many different forms of periodic table can be regarded as variations on the theme of chemical periodicity, each of which explores and emphasizes different aspects, properties, perspectives and relationships of and among the elements.
+Matthias described the placement of lanthanum under yttrium as, "a mistake in the periodic system—unfortunately mostly propagated by the Welsh &#91;Sargent-Welch&#93; Company…and…everybody copied it".
+The recent discovery that mercury can use its d electrons in the formation of mercury(IV) fluoride (HgF4) has prompted some commentators to suggest that mercury can be regarded as a transition metal.
+It was also distributed for many years by the Sargent-Welch Scientific Company.
+Near the physics end of the continuum is Janet's Left-Step Periodic Table (1928).
+The other period 1 element, helium, is sometimes placed separately from any group as well.
+From the top, each successive element has a lower ionization energy because it is easier to remove an electron since the atoms are less tightly bound.
+Seaborg expected the eighth period to follow the previously established pattern exactly, so that it would include a two-element s-block for elements 119 and 120, a new g-block for the next 18 elements, and 30 additional elements continuing the current f-, d-, and p-blocks.
+The additional electron will be entering an orbital farther away from the nucleus.
+Simply following electron configurations, hydrogen (electronic configuration 1s1) and helium (1s2) should be placed in groups 1 and 2, above lithium (He2s1) and beryllium (He2s2).
+This concept eventually became known as valency; different elements bond with different numbers of atoms.
+The first ionization energy is the energy it takes to remove one electron from an atom, the second ionization energy is the energy it takes to remove a second electron from the atom, and so on.
+The combination of horizontal and vertical trends in metallic character explains the stair-shaped dividing line between metals and nonmetals found on some periodic tables, and the practice of sometimes categorizing several elements adjacent to that line, or elements adjacent to those elements, as metalloids.
+It emphasizes similarities in periodic trends going down groups 1, 2 and 3, at the expense of discontinuities in periodic trends between groups 3 and 4 and fragmenting the lanthanides and actinides.
+In this instance the group 12 elements are treated as a special case of transition metal in which the d electrons are not ordinarily involved in chemical bonding.
+Moving left to right across a period, atomic radius usually decreases.
+More recent examples include Courtines' Periodic Classification (1925), Wringley's Lamina System (1949),
+Groups 3–10 have no trivial names and are referred to simply by their group numbers or by the name of the first member of their group (such as "the scandium group" for Group 3), since they display fewer similarities and/or vertical trends.
+In periodic table terms, the first time an electron occupies a new shell corresponds to the start of each new period, these positions being occupied by hydrogen and the alkali metals.
+The Bohr model exhibits difficulty for atoms with atomic number greater than 137, as any element with an atomic number greater than 137 would require 1s electrons to be travelling faster than ''c'', the speed of light.
+More recent experiments have suggested, however, that flerovium behaves chemically like lead, as expected from its periodic table position.
+The lower the values of ionization energy, electronegativity and electron affinity, the more metallic character the element has.
+Metals (left side of a period) generally have a lower electron affinity than nonmetals (right side of a period), with the exception of the noble gases.
+Although scandium and yttrium are always the first two elements in group 3 the identity of the next two elements is not settled.
+The popular periodic table layout, also known as the common or standard form (as shown at various other points in this article), is attributable to Horace Groves Deming.
+Mendeleev's periodic tables used atomic weight instead of atomic number to organize the elements, information determinable to fair precision in his time.
+Elements with atomic numbers from 95 to 118 have only been synthesized in laboratories or nuclear reactors.
+He also gave detailed predictions for the properties of elements he had earlier noted were missing, but should exist.
+Each chemical element has a unique atomic number (Z) representing the number of protons in its nucleus.
+Elements with similar chemical properties generally fall into the same group in the periodic table, although in the f-block, and to some respect in the d-block, the elements in the same period tend to have similar properties, as well.
+Jean-Baptiste Dumas published work in 1857 describing relationships between various groups of metals.
+The electrons occupy a series of electron shells (numbered shell 1, shell 2, and so on).
+This so termed Law of Octaves, however, was ridiculed by Newlands' contemporaries, and the Chemical Society refused to publish his work.
+This ordering shows ''periodic trends'', such as elements with similar behaviour in the same column.
+Accordingly, lutetium rather than lanthanum was assigned to group 3 by some chemists in the 1920s and 30s.
+Since the properties of an element are mostly determined by its electron configuration, the properties of the elements likewise show recurring patterns or periodic behaviour, some examples of which are shown in the diagrams below for atomic radii, ionization energy and electron affinity.
+The d-block contraction, which is a similar effect between the d-block and p-block, is less pronounced than the lanthanide contraction but arises from a similar cause.
+Other predictions of an end to the periodic table include at element 128 by John Emsley, at element 137 by Richard Feynman, and at element 155 by Albert Khazan.
+oxygen and selenium are in the same column because they both have four electrons in the outermost p-subshell).
+Mendeleev's periodic table has since been expanded and refined with the discovery or synthesis of further new elements and the development of new theoretical models to explain chemical behaviour.
+32-column table with group 3 as Sc, Y, Lu, Lr
+Finally, hydrogen is sometimes placed separately from any group; this is based on how general properties of hydrogen differ from that of any group: unlike hydrogen, the other group 1 elements show extremely metallic behaviour; the group 17 elements commonly form salts (hence the term "halogen"); elements of any other group show some multivalent chemistry.
+Lastly, element 118 has the proposed name of oganesson (Og), after in honour of the Russian nuclear physicist Yuri Oganessian who led the team that synthesized it.
+The effect of the lanthanide contraction is noticeable up to platinum (element 78), after which it is masked by a relativistic effect known as the inert pair effect.
+There have been controversies concerning the acceptance of competing discovery claims for some elements, requiring independent review to determine which party has priority, and hence naming rights.
+With the elements arranged in a spiral on a cylinder by order of increasing atomic weight, de Chancourtois showed that elements with similar properties seemed to occur at regular intervals.
+The relationship of the f-block to the other blocks of the periodic table also becomes easier to see.
+In this case, only groups 4–11 are regarded as transition metals.
+This variant retains a 14-column wide f-block while fragmenting the lanthanides and actinides.
+On December 30, 2015, elements 113, 115, 117, and 118 were formally recognized by IUPAC, completing the seventh row of the periodic table.
+For such elements, the wave function of the Dirac ground state is oscillatory rather than bound, and there is no gap between the positive and negative energy spectra, as in the Klein paradox.
+Large jumps in the successive molar ionization energies occur when removing an electron from a noble gas (complete electron shell) configuration.
+Still in period 6, ytterbium was assigned an electron configuration of Xe4f135d16s2 and lutetium Xe4f145d16s2, "resulting in a 4f differentiating electron for lutetium and firmly establishing it as the last member of the f-block for period 6".
+More accurate calculations taking into account the effects of the finite size of the nucleus indicate that the binding energy first exceeds the limit for elements with more than 173 protons.
+Giguère's Periodic helix (1965) and Dufour's Periodic Tree (1996).
+In between metals and nonmetals are metalloids, which have intermediate or mixed properties.
+Hence hafnium has virtually the same atomic radius (and chemistry) as zirconium, and tantalum has an atomic radius similar to niobium, and so forth.
+The electron affinities of the noble gases have not been measured conclusively, so they may or may not have slightly negative values.
+Hence the non-relativistic Bohr model is inaccurate when applied to such an element.
+The many different forms of periodic table have prompted the question of whether there is an optimal or definitive form of periodic table.
+Newlands was nonetheless able to draft a table of the elements and used it to predict the existence of missing elements, such as germanium.
+This is caused by the filling of the valence shell of the atom; a group 17 atom releases more energy than a group 1 atom on gaining an electron because it obtains a filled valence shell and is therefore more stable.
+As well as numerous rectangular variations, other periodic table formats have been shaped, for example, like a circle, cube, cylinder, building, spiral, lemniscate, octagonal prism, pyramid, sphere, or triangle.
+It has been suggested that this layout originated in the 1940s, with the appearance of periodic tables relying on the electron configurations of the elements and the notion of the differentiating electron.
+As Seaborg considered he did not then have a career to bring into disrepute, he published anyway.
+An objective basis for chemical periodicity would settle the questions about the location of hydrogen and helium, and the composition of group 3.
+Merck and Company prepared a handout form of Deming's 18-column medium table, in 1928, which was widely circulated in American schools.
+The ubiquity of the standard or medium-long periodic table is thought to be a result of this layout having a good balance of features in terms of ease of construction and size, and its depiction of atomic order and periodic trends.
+The various forms of periodic tables can be thought of as lying on a chemistry–physics continuum.
+Mendeleev's table was his first published version; that of Meyer was an expanded version of his (Meyer's) table of 1864.
+German chemist Leopold Gmelin worked with this system, and by 1843 he had identified ten triads, three groups of four, and one group of five.
+It is often stated that the last naturally occurring element to be discovered was francium (referred to by Mendeleev as ''eka-caesium'') in 1939.
+Early techniques for chemically separating scandium, yttrium and lutetium relied on the fact that these elements occurred together in the so-called "yttrium group" whereas La and Ac occurred together in the "cerium group".
+The metals are subdivided into the highly reactive alkali metals, through the less reactive alkaline earth metals, lanthanides and actinides, via the archetypal transition metals, and ending in the physically and chemically weak post-transition metals.
+The property that distinguishes helium from the rest of the noble gases (even though the extraordinary inertness of helium is extremely close to that of neon and argon) is that in its closed electron shell, helium has only two electrons in the outermost electron orbital, while the rest of the noble gases have eight.
+Largely, this is due to the poor shielding by d and f electrons.
+They both constructed their tables by listing the elements in rows or columns in order of atomic weight and starting a new row or column when the characteristics of the elements began to repeat.
+This is known as the lanthanide contraction.
+These gaps were subsequently filled as chemists discovered additional naturally occurring elements.
+The more tightly bound an element is, the more energy is required to remove an electron.
+In December 2015 an IUPAC project was established to make a recommendation on the matter.
+He subsequently proposed (in 1870) a valence-based classification of the elements.
+In America, the roman numerals were followed by either an "A" if the group was in the s- or p-block, or a "B" if the group was in the d-block.
+Under an international naming convention, the groups are numbered numerically from 1 to 18 from the leftmost column (the alkali metals) to the rightmost column (the noble gases).
+This decrease in atomic radius also causes the ionization energy to increase when moving from left to right across a period.
+As of 2016, the periodic table has 118 confirmed elements, from element 1 (hydrogen) to 118 (ununoctium).
+However, in going down a group, around one-third of elements are anomalous, with heavier elements having higher electron affinities than their next lighter congenors.
+As the group changed its formal number, many authors continued to assign helium directly above neon, in group 18; one of the examples of such placing is the current IUPAC table.
+Beryllium, for example, is classified as an alkaline earth metal although its amphoteric chemistry and tendency to mostly form covalent compounds are both attributes of a chemically weak or post transition metal.
+Generally, nonmetals have more positive electron affinity values than metals.
+The number of possible elements is not known.
+With the development of modern quantum mechanical theories of electron configurations within atoms, it became apparent that each period (row) in the table corresponded to the filling of a quantum shell of electrons.
+In addition, groups 8, 9 and 10 used to be treated as one triple-sized group, known collectively in both notations as group VIII.
+Later spectroscopic work found that the electron configuration of ytterbium was in fact Xe4f146s2.
+For magnesium again, the first two molar ionization energies of magnesium given above correspond to removing the two 3s electrons, and the third ionization energy is a much larger 7730&nbsp;kJ/mol, for the removal of a 2p electron from the very stable neon-like configuration of Mg2+.
+Nihonium (Nh) is the proposed name for element 113 due to its discovery at RIKEN in Japan.
+Atomic radii vary in a predictable and explainable manner across the periodic table.
+His chart included some ions and compounds in addition to elements.
+His paper also used geological rather than chemical terms and did not include a diagram; as a result, it received little attention until the work of Dmitri Mendeleev.
+For example, carbon has three naturally occurring isotopes: all of its atoms have six protons and most have six neutrons as well, but about one per cent have seven neutrons, and a very small fraction have eight neutrons.
+Since there are more filled energy levels, valence electrons are found farther from the nucleus.
+By this definition all of the elements in groups 3–11 are transition metals.
+Other commentators, such as Jensen, have argued that the formation of a compound like HgF4 can occur only under highly abnormal conditions.
+Official names and symbols for each of these elements, which will replace temporary designations such as ununpentium (Uup) in the case of element 115, are expected to be announced later in 2016.
+Mendeleev was not the first chemist to do so, but he was the first to be recognized as using the trends in his periodic table to predict the properties of those missing elements, such as gallium and germanium.
+Numerous synthetic radionuclides of naturally occurring elements have also been produced in laboratories.
+As such this electron would be less attracted to the nucleus and would release less energy when added.
+Mendeleev also predicted some properties of then-unknown elements that would be expected to fill gaps in this table.
+In general, within one row (period) the elements are metals on the left, and non-metals on the right.
+He was the first person to notice the periodicity of the elements.
+For a given atom, successive ionization energies increase with the degree of ionization.
+Although various chemists were able to identify relationships between small groups of elements, they had yet to build one scheme that encompassed them all.
+Other classification schemes are possible such as the division of the elements into mineralogical occurrence categories, or crystalline structures.
+As atomic number increases, electrons progressively fill these shells and subshells more or less according to the Madelung rule or energy ordering rule, as shown in the diagram.
+Substitution of atomic numbers, once understood, gave a definitive, integer-based sequence for the elements, and Moseley predicted (in 1913) that the only elements still missing between aluminium (Z=13) and gold (Z=79) were Z = 43, 61, 72 and 75, all of which were later discovered.
+Russian chemistry professor Dmitri Mendeleev and German chemist Julius Lothar Meyer independently published their periodic tables in 1869 and 1870, respectively.
+The roman numerals used correspond to the last digit of today's naming convention (e.g.
+The f-block, often offset below the rest of the periodic table, has no group numbers and comprises lanthanides and actinides.
+Similarly, a group has a top to bottom decrease in electronegativity due to an increasing distance between valence electrons and the nucleus.
+Seaborg's suggestion was found to be correct and he subsequently went on to win the 1951 Nobel Prize in chemistry for his work in synthesizing actinide elements.
+32-column table with group 3 as Sc, Y, La, Ac
+Döbereiner also observed that, when arranged by atomic weight, the second member of each triad was roughly the average of the first and the third; this became known as the Law of Triads.
+In 1857, German chemist August Kekulé observed that carbon often has four other atoms bonded to it.
+The radius increases sharply between the noble gas at the end of each period and the alkali metal at the beginning of the next period.
+More recently, physicists such as Pekka Pyykkö have theorized that these additional elements do not follow the Madelung rule, which predicts how electron shells are filled and thus affects the appearance of the present periodic table.
+Most elements have differing numbers of neutrons among different atoms, with these variants being referred to as isotopes.
+A new row (''period'') is started when a new electron shell has its first electron.
+Such a configuration represents another periodic table anomaly, regardless of whether lawrencium is located in the f-block or the d-block, as the only potentially applicable p-block position has been reserved for ununtrium with its predicted electron configuration of Rn5f146d107s27p1.
+Electronegativity increases in the same manner as ionization energy because of the pull exerted on the electrons by the nucleus.
+The electron affinity of an atom is the amount of energy released when an electron is added to a neutral atom to form a negative ion.
+A consistent set of electron configurations is then seen in group 3: scandium Ar3d14s2, yttrium Kr4d15s2 and lanthanum  Xe5d16s2.
+Their proposed names, nihonium (Nh), moscovium (Mc), tennessine (Ts) and oganesson (Og) respectively, were announced by the IUPAC in June 2016.
+It will be the first element to be named after a location in East Asia.
+Such alternatives are often developed to highlight or emphasize chemical or physical properties of the elements that are not as apparent in traditional periodic tables.
+Towards the chemistry end of the continuum can be found, as an example, Rayner-Canham's "unruly" Inorganic Chemist's Periodic Table (2002), which emphasizes trends and patterns, and unusual chemical relationships and properties.
+There are some exceptions to this general rule.
+Electrons in the closer orbitals experience greater forces of electrostatic attraction; thus, their removal requires increasingly more energy.
+These names will not be formally approved until after the five-month public comment period ends in November 2016.
+English chemist John Newlands produced a series of papers from 1863 to 1866 noting that when the elements were listed in order of increasing atomic weight, similar physical and chemical properties recurred at intervals of eight; he likened such periodicity to the octaves of music.
+Each shell consists of one or more subshells (named s, p, d, f and g).
+However, such placing is rarely used outside of the context of electron configurations: When the noble gases (then called "inert gases") were first discovered around 1900, they were known as "group 0", reflecting no chemical reactivity of these elements known at that point, and helium was placed on the top that group, as it did share the extreme chemical inertness seen throughout the group.
+In 1864, Julius Lothar Meyer, a German chemist, published a table with 44 elements arranged by valency.
+Elements with no stable isotopes have the atomic masses of their most stable isotopes, where such masses are shown, listed in parentheses.
+The most recently accepted and named elements are flerovium (element 114) and livermorium (element 116), both named on 31 May 2012.
+Isotopes are never separated in the periodic table; they are always grouped together under a single element.
+The rows of the table are called periods; the columns are called groups.
+Categorizing the elements in this fashion dates back to at least 1869 when Hinrichs wrote that simple boundary lines could be drawn on the periodic table to show elements having like properties, such as the metals and the nonmetals, or the gaseous elements.
+However, plutonium, produced synthetically in 1940, was identified in trace quantities as a naturally occurring primordial element in 1971.
+Consequently, elements in the same group tend to have a shared chemistry and exhibit a clear trend in properties with increasing atomic number.
+This has a structure that shows a closer connection to the order of electron-shell filling and, by association, quantum mechanics.
+Their production has expanded the periodic table significantly, the first of these being neptunium, synthesized in 1939.
+Lanthanum and actinium are traditionally depicted as the remaining group 3 members.
+It emphasizes similarities in periodic trends between group 3 and the following groups at the expense of discontinuities in periodic trends between groups 2 and 3.
+In 2010, a joint Russia–US collaboration at Dubna, Moscow Oblast, Russia, claimed to have synthesized six atoms of ununseptium (element 117), making it the most recently claimed discovery.
+Unlike the 18-column form this arrangement results in "no interruptions in the sequence of increasing atomic numbers".
+Each block is named according to the subshell in which the "last" electron notionally resides.
+For heavier elements, if the innermost orbital (1s) is not filled, the electric field of the nucleus will pull an electron out of the vacuum, resulting in the spontaneous emission of a positron; however, this does not happen if the innermost orbital is filled, so that element 173 is not necessarily the end of the periodic table.
+There are exceptions to these trends, however, an example of which occurs in group 11 where electronegativity increases farther down the group.
+Most periodic tables are two-dimensional; however, three-dimensional tables are known to as far back as at least 1862 (pre-dating Mendeleev's two-dimensional table of 1869).
+The Chemical Society only acknowledged the significance of his discoveries five years after they credited Mendeleev.
+Of the 94 naturally occurring elements, 84 are primordial and 10 occur only in decay chains of primordial elements.
+These trends of the atomic radii (and of various other chemical and physical properties of the elements) can be explained by the electron shell theory of the atom; they provided important evidence for the development and confirmation of quantum theory.
+A very early suggestion made by Elliot Adams in 1911, and based on the arrangement of elements in each horizontal periodic table row, was that elements of atomic weight greater than 256± (which would equate to between elements 99 and 100 in modern-day terms) did not exist.
+In the standard periodic table, the elements are listed in order of increasing atomic number (the number of protons in the nucleus of an atom).
+According to their shared physical and chemical properties, the elements can be classified into the major categories of metals, metalloids and nonmetals.
+Until then, they are formally identified by their atomic number (e.g., "element 113"), or by their provisional systematic name ("ununtrium", symbol "Uut").
+Gallium and germanium have higher electronegativities than aluminium and silicon respectively because of the d-block contraction.
+Groups usually have more significant periodic trends than periods and blocks, explained below.
+As such, mercury could not be regarded as a transition metal by any reasonable interpretation of the ordinary meaning of the term.
+Despite these advantages the 32-column form is generally avoided by editors on account of its undue rectangular ratio (compared to a book page ratio).
+Going one further, Stowe's Physicist's Periodic Table (1989) has been described as being four-dimensional (having three spatial dimensions and one colour dimension).
+Modern quantum mechanical theories of atomic structure explain group trends by proposing that elements within the same group generally have the same electron configurations in their valence shell.
+Ionization energy becomes greater up and to the right of the periodic table.
+Lavelle further argued for the retention of lanthanum under yttrium given several well-known reference books featured periodic tables with such an arrangement.
+Specific regions of the periodic table can be referred to as ''blocks'' in recognition of the sequence in which the electron shells of the elements are filled.
+Elements of the fourth period immediately after the first row of the transition metals have unusually small atomic radii because the 3d-electrons are not effective at shielding the increased nuclear charge, and smaller atomic size correlates with higher electronegativity.
+The anomalously high electronegativity of lead, particularly when compared to thallium and bismuth, appears to be an artifact of data selection (and data availability)—methods of calculation other than the Pauling method show the normal periodic trends for these elements.
+The first was to leave gaps in the table when it seemed that the corresponding element had not yet been discovered.
+By the 1930s Deming's table was appearing in handbooks and encyclopaedias of chemistry.

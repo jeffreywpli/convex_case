@@ -1,0 +1,200 @@
+In either case the low-resistance ranges of the meter pass much more current through the test leads than do high-resistance ranges, in order for the voltages present to be at reasonable levels (generally below 10 volts) but still measurable.
+Carbon film and composition resistors can fail (open circuit) if running close to their maximum dissipation.
+A resistor network that is a combination of parallel and series connections can be broken up into smaller parts that are either one or the other.
+It is called a potentiometer because it can be connected as an adjustable voltage divider to provide a variable potential at the terminal connected to the tapping point.
+Some complex networks of resistors cannot be resolved in this manner, requiring more sophisticated circuit analysis.
+Early 20th century resistors, essentially uninsulated, were dipped in paint to cover their entire body for color-coding.
+Excess noise of a practical resistor is observed only when current flows through it.
+Note that other types of resistors (e.g., carbon composition) are also available in MELF packages.
+Power resistors are physically larger and may not use the preferred values, color codes, and external packages described below.
+Cases are usually tan, brown, blue, or green, though other colors are occasionally found such as dark red or dark gray.
+The electrical function of a resistor is specified by its resistance: common commercial resistors are manufactured over a range of more than nine orders of magnitude.
+One sort of photodetector, the photoresistor, has a resistance which varies with illumination.
+Such a device is called a rheostat and has two terminals.
+Unlike thin film resistors, the material may be applied using different techniques than sputtering (though this is one of the techniques).
+Varying shapes, coupled with the resistivity of amorphous carbon (ranging from 500 to 800&nbsp;μΩ&nbsp;m), can provide a wide range of resistance values.
+A carbon pile resistor can be incorporated in automatic voltage regulators for generators, where the carbon pile controls the field current to maintain relatively constant voltage.
+A family of discrete resistors is also characterized according to its form factor, that is, the size of the device and the position of its leads (or terminals) which is relevant in the practical manufacturing of circuits using them.
+Between the blocks, and soldered or brazed to them, are one or more strips of low temperature coefficient of resistance (TCR) manganin alloy.
+It passes a current whose magnitude can vary by a factor of 1012 in response to changes in applied pressure.
+Carbon composition resistors were commonly used in the 1960s and earlier, but are not popular for general use now as other types have better specifications, such as tolerance, voltage dependence, and stress.
+It is important in small value resistors (100–0.0001&nbsp;ohm) where lead resistance is significant or even comparable with respect to resistance standard value.
+When the value can be expressed without the need for an SI prefix, an "R" is used instead of the decimal separator.
+With the strain gauge and a filter, amplifier, and analog/digital converter, the strain on an object can be measured.
+Generally, the Y-Δ transform, or matrix methods can be used to solve such problems.
+Sulfur resistant and anti-corrosive resistors are sold into automotive, industrial, and military applications.
+Carbon composition resistors have poor stability with time and were consequently factory sorted to, at best, only 5% tolerance.
+For example, ''1R2'' indicates 1.2&nbsp;Ω, and ''18R'' indicates 18&nbsp;Ω.
+= 47 × 103 ohms = 47 kilohms
+Surface mounted resistors of larger sizes (metric 1608 and above) are printed with numerical values in a code related to that used on axial resistors.
+All types offer a convenient way of selecting and quickly changing a resistance in laboratory, experimental and development work without needing to attach resistors one by one, or even stock each value.
+Usually the resistance is accurate to high precision, ranging from laboratory/calibration grade accuracy of 20 parts per million, to field grade at 1%.
+A logical scheme is to produce resistors in a range of values which increase in a geometric progression, so that each value is greater than its predecessor by a fixed multiplier or percentage, chosen to match the tolerance of the range.
+One range of ultra-precision foil resistors offers a TCR of 0.14&nbsp;ppm/°C, tolerance ±0.005%, long-term stability (1 year) 25&nbsp;ppm, (3 years) 50&nbsp;ppm (further improved 5-fold by hermetic sealing), stability under load (2000 hours) 0.03%, thermal EMF 0.1&nbsp;μV/°C, noise −42&nbsp;dB, voltage coefficient 0.1&nbsp;ppm/V, inductance 0.08&nbsp;μH, capacitance 0.5&nbsp;pF.
+Tolerances are typically quite large, and can be in the order of 30%.
+Since resistors are specified and manufactured over a very large range of values, the derived units of milliohm (1 mΩ = 10−3 Ω), kilohm (1 kΩ = 103 Ω), and megohm (1 MΩ = 106 Ω) are also in common usage.
+The resistor's impedance goes to infinity.
+Through-hole components typically have "leads" (pronounced \ˈlēdz\) leaving the body "axially," that is, on a line parallel with the part's longest axis.
+This composite of glass and conductive ceramic (cermet) material is then fused (baked) in an oven at about 850&nbsp;°C.
+An alternative failure mode can be encountered where large value resistors are used (hundreds of kilohms and higher).
+Sometimes these values are marked as ''10'' or ''22'' to prevent a mistake.
+A potentiometer or ''pot'' is a three-terminal resistor with a continuously adjustable tapping point controlled by rotation of a shaft or knob or by a linear slider.
+This may be due to dirt or corrosion and is typically perceived as "crackling" as the contact resistance fluctuates; this is especially noticed as the device is adjusted.
+Excessive power dissipation may raise the temperature of the resistor to a point where it can burn the circuit board or adjacent components, or even cause a fire.
+Thin film resistors are usually far more expensive than thick film resistors.
+Resistors with higher power ratings are physically larger and may require heat sinks.
+This is specified in unit of μV/V/decade – μV of noise per volt applied across the resistor per decade of frequency.
+Electronic analog computers used them in quantity for setting coefficients, and delayed-sweep oscilloscopes of recent decades included one on their panels.
+A typical application would be non-critical pull-up resistors.
+Metal-oxide film resistors are made of metal oxides which results in a higher operating temperature and greater stability/reliability than Metal film.
+Large wirewound resistors may be rated for 1,000 watts or more.
+= 22 × 102 ohms = 2.2 kilohms
+All resistors have a maximum voltage rating; this may limit the power dissipation for higher resistance values.
+For five and six color-banded resistors, the third band is a third digit, fourth band multiplier and fifth is tolerance.
+If the average power dissipated by a resistor is more than its power rating, damage to the resistor may occur, permanently altering its resistance; this is distinct from the reversible change in resistance due to its temperature coefficient when it warms.
+They are used in applications with high endurance demands.
+For higher power wirewound resistors, either a ceramic outer case or an aluminum outer case on top of an insulating layer is used – if the outer case is ceramic, such resistors are sometimes described as "cement" resistors, though they do not actually contain any traditional cement.
+= 10 × 100 ohm = 10 ohms
+The failure rate of resistors in a properly designed circuit is low compared to other electronic components such as semiconductors and electrolytic capacitors.
+The voltage dropped across large value resistors can be exceeded before the power dissipation reaches its limiting value.
+Moreover, if internal moisture content, from exposure for some length of time to a humid environment, is significant, soldering heat creates a non-reversible change in resistance value.
+Metal Electrode Leadless Face (MELF) resistors often use the same technology, and are also cylindrically shaped but are designed for surface mounting.
+The range of resistance provided, the maximum resolution, and the accuracy characterize the box.
+A single resistor may be used, or a pair (half bridge), or four resistors connected in a Wheatstone bridge configuration.
+Compared to carbon composition they feature low noise, because of the precise distribution of the pure graphite without binding.
+Some carbon composition resistors can exhibit thermoelectric offsets as high as 400 µV/°C, whereas specially constructed resistors can reduce this number to 0.05 µV/°C.
+Thick film resistors, when first manufactured, had tolerances of 5%, but standard tolerances have improved to 2% or 1% in the last few decades.
+= 499 × 102 ohms = 49.9 kilohm
+Exceeding this voltage causes the resistor to degrade slowly reducing in resistance.
+The ends of the wire are soldered or welded to two caps or rings, attached to the ends of the core.
+This induced DC voltage can degrade the precision of instrumentation amplifiers in particular.
+Surface-mount resistors are marked numerically, if they are big enough to permit marking; more-recent small sizes are impractical to mark.
+Potentiometers which are seldom adjusted, especially in dirty or harsh environments, are most likely to develop this problem.
+Resistors are manufactured in values from a few milliohms to about a gigaohm in IEC60063 ranges appropriate for their tolerance.
+An alternate construction is resistance wire wound on a form, with the wiper sliding axially along the coil.
+The result is a reasonable tolerance (0.5%, 1%, or 2%) and a temperature coefficient that is generally between 50 and 100 ppm/K.
+Since 1990 the international resistance standard has been based on the quantized Hall effect discovered by Klaus von Klitzing, for which he won the Nobel Prize in Physics in 1985.
+While there is no minimum working voltage for a given resistor, failure to account for a resistor's maximum rating may cause the resistor to incinerate when current is run through it.
+The voltage generated across the test resistance in that case is linearly proportional to its resistance, which is measured and displayed.
+Such industrial grade resistors can be as large as a refrigerator; some designs can handle over 500 amperes of current, with a range of resistances extending lower than 0.04 ohms.
+This sulfur chemically reacts with the silver layer to produce non-conductive silver sulfide.
+This Johnson–Nyquist noise is a fundamental noise source which depends only upon the temperature and resistance of the resistor, and is predicted by the fluctuation–dissipation theorem.
+These resistors are designed to withstand unusually high temperatures of up to 450&nbsp;°C.
+Difficulties in precisely measuring the physical constants to replicate this standard result in variations of as much as 30&nbsp;ppm.
+Resistors of extremely high precision are manufactured for calibration and laboratory use.
+Using Ohm's law, the two other forms can be derived.
+This scheme has been adopted as the '''E6''' series of the IEC 60063 preferred number values.
+Measuring low-value resistors, such as fractional-ohm resistors, with acceptable accuracy requires four-terminal connections.
+While not an example of "noise" per se, a resistor may act as a thermocouple, producing a small DC voltage differential across it due to the thermoelectric effect if its ends are at different temperatures.
+There are flameproof resistors that fail (open circuit) before they overheat dangerously.
+Closer-tolerance resistors had silver (±10%) or gold-colored (±5%) paint on the other end.
+The use of a SI prefix symbol or the letter "R" circumvents the problem that decimal separators tend to "disappear" when photocopying a printed circuit diagram.
+Metal film resistors are usually coated with nickel chromium (NiCr), but might be coated with any of the cermet materials listed above for thin film resistors.
+Practical resistors as discrete components can be composed of various compounds and forms.
+ASTM B809 is an industry standard that tests a part's susceptibility to sulfur.
+One pair of terminals applies a known, calibrated current to the resistor, while the other pair senses the voltage drop across the resistor.
+There can also be failure of resistors due to mechanical stress and adverse environmental factors including humidity.
+There are other United States military procurement MIL-R- standards.
+High-resolution multiturn potentiometers are used in a few precision applications.
+The primary resistance element of a foil resistor is a special alloy foil several micrometers thick.
+A volume control for an audio device is a common use of a potentiometer.
+They are usually set with dials that include a simple turns counter and a graduated dial, and can typically achieve three digit resolution.
+For example, ''8k2'' in a circuit diagram indicates a resistor value of 8.2&nbsp;kΩ.
+One side of each clip applies the measuring current, while the other connections are only to sense the voltage drop.
+The first two bands represent first two digits to measure their value in ohms.
+They are used in applications such as dynamic braking and load banking for locomotives and trams, neutral grounding for industrial AC distribution, control loads for cranes and heavy equipment, load testing of generators and harmonic filtering for electric substations.
+The ohm (symbol: Ω) is the SI unit of electrical resistance, named after Georg Simon Ohm.
+A carbon film is deposited on an insulating substrate, and a helix is cut in it to create a long, narrow resistive path.
+Some laboratory quality ohmmeters, especially milliohmmeters, and even some of the better digital multimeters sense using four input terminals for this purpose, which may be used with special test leads.
+''000'' and ''0000'' sometimes appear as values on surface-mount zero-ohm links, since these have (approximately) zero resistance.
+Earlier power wirewound resistors, such as brown vitreous-enameled types, however, were made with a different system of preferred values, such as some of those mentioned in the first sentence of this section.
+The completed resistor was painted for color-coding of its value.
+For example, for a tolerance of ±20% it makes sense to have each resistor about 1.5 times its predecessor, covering a decade in 6 values.
+The European notation BS 1852 avoids using a decimal separator, and replaces the decimal separator with the SI prefix symbol for the particular value.
+This process of sorting parts based on post-production measurement is known as "binning", and can be applied to other components than resistors (such as speed grades for CPUs).
+Higher concentrations of carbon, which is a good conductor, result in lower resistance.
+Resistors required to dissipate substantial amounts of power, particularly used in power supplies, power conversion circuits, and power amplifiers, are generally referred to as ''power resistors''; this designation is loosely applied to resistors with power ratings of 1 watt or greater.
+= 22 × 100 ohm = 22 ohms
+Fixed resistors have resistances that only change slightly with temperature, time or operating voltage.
+The power rating is not usually marked and is deduced from the size.
+Similarly, the resistance of a humistor varies with humidity.
+Precision resistors are marked with a four-digit code, in which the first three digits are the significant figures and the fourth is the power of ten.
+where ''V'' (volts) is the voltage across the resistor and ''I'' (amps) is the current flowing through it.
+They also have much lower noise levels, on the level of 10–100 times less than thick film resistors.
+Wider spacing leaves gaps; narrower spacing increases manufacturing and inventory costs to provide resistors that are more or less interchangeable.
+Early resistors were made in more or less arbitrary round numbers; a series might have 100, 125, 150, 200, 300, etc.
+Standard-tolerance surface-mount technology (SMT) resistors are marked with a three-digit code, in which the first two digits are the first two significant digits of the value and the third digit is the power of ten (the number of zeroes).
+The actual values used are in the IEC 60063 lists of preferred numbers.
+They usually absorb much less than a watt of electrical power and require little attention to their power rating.
+They may have four terminals, using one pair to carry an operating current and the other pair to measure the voltage drop; this eliminates errors caused by voltage drops across the lead resistances, because no charge flows through voltage sensing leads.
+The resistance of NTC thermistors exhibit a strong negative temperature coefficient, making them useful for measuring temperatures.
+Special carbon film resistors are used in applications requiring high pulse stability.
+Due to their high price, these resistors are no longer used in most applications.
+A carbon pile resistor is made of a stack of carbon disks compressed between two metal contact plates.
+These resistors, however, if never subjected to overvoltage nor overheating were remarkably reliable considering the component's size.
+The rule was "body, tip, dot", providing two significant digits for value and the decimal multiplier, in that sequence.
+Each of the two so-called Kelvin clips has a pair of jaws insulated from each other.
+A common type of axial-leaded resistor today is the metal-film resistor.
+Surface mount resistors have been known to fail due to the ingress of sulfur into the internal makeup of the resistor.
+Since their introduction in the 1960s, foil resistors have had the best precision and stability of any resistor available.
+A typical low power potentiometer ''(see drawing)'' is constructed of a flat resistance element ''(B)'' of carbon composition, metal film, or conductive plastic, with a springy phosphor bronze wiper contact ''(C)'' which moves along the surface.
+The color bands of the carbon resistors can be three, four, five or, six bands.
+The current, in accordance with Ohm's law, is inversely proportional to the sum of the internal resistance and the resistor being tested, resulting in an analog meter scale which is very non-linear, calibrated from infinity to 0 ohms.
+Others have leads coming off their body "radially" instead.
+Resistors are also implemented within integrated circuits.
+The μV/V/decade value is frequently given in dB so that a resistor with a noise index of 0&nbsp;dB exhibits 1 μV (rms) of excess noise for each volt across the resistor in each frequency decade.
+Large bolts threaded into the blocks make the current connections, while much smaller screws provide volt meter connections.
+Values ranged from fractions of an ohm to 22 megohms.
+Thin film resistors are usually specified with tolerances of 0.1, 0.2, 0.5, or 1%, and with temperature coefficients of 5 to 25 ppm/K.
+High-power resistors that can dissipate many watts of electrical power as heat may be used as part of motor controls, in power distribution systems, or as test loads for generators.
+There are various devices whose resistance changes with various quantities.
+This is often the case for the startup resistors feeding the SMPS integrated circuit.
+Most axial resistors use a pattern of colored stripes to indicate resistance, which also indicate tolerance, and may also be extended to show temperature coefficient and reliability class.
+The primary standard for resistance, the "mercury ohm" was initially defined in 1884 in as a column of mercury 106.3&nbsp;cm long and  in cross-section, at .
+Inexpensive boxes with lesser accuracy are also available.
+Adjusting the clamping pressure changes the resistance between the plates.
+Excess noise is thus an example of 1/''f'' noise.
+In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+A sensible spacing, E6 is used for ±20% components; E12 for ±10%; E24 for ±5%; E48 for ±2%, E96 for ±1%; E192 for ±0.5% or better.
+In practice the factor used is 1.4678, giving values of 1.47, 2.15, 3.16, 4.64, 6.81, 10 for the 1–10-decade (a decade is a range increasing by a factor of 10; 0.1–1 and 10–100 are other examples); these are rounded in practice to 1.5, 2.2, 3.3, 4.7, 6.8, 10; followed, by 15, 22, 33, … and preceded by … 0.47, 0.68, 1.
+Operating a resistor too close to its power rating can limit the resistor's lifespan or cause a significant change in its resistance.
+The strain gauge, invented by Edward E. Simmons and Arthur C. Ruge in 1938, is a type of resistor that changes value with applied strain.
+Thin film surface mount resistors typically have lower noise and better thermal stability than thick film surface mount resistors.
+The term ''grid resistor'' is sometimes used to describe a resistor of any type connected to the control grid of a vacuum tube.
+Wire leads in low power wirewound resistors are usually between 0.6 and 0.8&nbsp;mm in diameter and tinned for ease of soldering.
+A digital multimeter, using active electronics, may instead pass a specified current through the test resistance.
+The strain resistor is bonded with adhesive to an object that is subjected to mechanical strain.
+Thick-film and carbon composition resistors generate more excess noise than other types at low frequencies.
+In heavy-duty industrial high-current applications, a grid resistor is a large convection-cooled lattice of stamped metal alloy strips connected in rows between two electrodes.
+Although this technique is more common on hybrid PCB modules, it can also be used on standard fibreglass PCBs.
+Carbon composition resistors consist of a solid cylindrical resistive element with embedded wire leads or metal end caps to which the lead wires are attached.
+A ''' resistor''' is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
+For example, one box offers resistances from 0 to 100 megohms, maximum resolution 0.1 ohm, accuracy 0.1%.
+In amplifying faint signals, it is often necessary to minimize electronic noise, particularly in the first stage of amplification.
+A resistor of 100 ohms ±20% would be expected to have a value between 80 and 120 ohms; its E6 neighbors are 68 (54–82) and 150 (120–180) ohms.
+Metal film resistors possess good noise characteristics and low non-linearity due to a low voltage coefficient.
+When self-cleaning of the contact is insufficient, improvement can usually be obtained through the use of contact cleaner (also known as "tuner cleaner") spray.
+In a high-voltage circuit, attention must sometimes be paid to the rated maximum working voltage of the resistor.
+Since their resistance can be large until they are allowed to heat up due to the passage of current, they are also commonly used to prevent excessive current surges when equipment is powered on.
+Resistances available range from 1 ohm to 10 megohm.
+A simple ohmmeter may apply a voltage from a battery across the unknown resistor (with an internal resistor of a known value in series) producing a current which drives a meter movement.
+Accordingly, a selection of 100 ohms resistors with a tolerance of ±10%, might not lie just around 100 ohm (but no more than 10% off) as one would expect (a bell-curve), but rather be in two groups – either between 5 and 10% too high or 5 to 10% too low (but not closer to 100 ohm than that) because any resistors the factory had measured as being less than 5% off would have been marked and sold as resistors with only ±5% tolerance or better.
+Shunts are rated by full-scale current, and often have a voltage drop of 50 mV at rated current.
+Default tolerance was ±20%.
+A typical shunt consists of two solid metal blocks, sometimes brass, mounted on an insulating base.
+Resistors are rated according to their maximum power dissipation.
+The crackling noise associated with turning the shaft of a dirty potentiometer in an audio circuit (such as the volume control) is greatly accentuated when an undesired DC voltage is present, often indicating the failure of a DC blocking capacitor in the circuit.
+This is not a resistor technology; it is an electronic circuit topology.
+An ohm is equivalent to a volt per ampere.
+A safe design generally uses overrated resistors in power applications to avoid this danger.
+Variable resistors can also degrade in a different manner, typically involving poor contact between the wiper and the body of the resistance.
+Resistors as manufactured are subject to a certain percentage tolerance, and it makes sense to manufacture values that correlate with the tolerance, so that the actual value of a resistor overlaps slightly with its neighbors.
+Carbon composition resistors can be printed directly onto printed circuit board (PCB) substrates as part of the PCB manufacturing process.
+Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment.
+For example, SMD thin film resistors, with 0.5% tolerances, and with 25 ppm/K temperature coefficients, when bought in full size reel quantities, are about twice the cost of 1%, 250 ppm/K thick film resistors.
+Resistances less than 10 ohms have 'R' to indicate the position of the decimal point (radix point).
+Because wirewound resistors are coils they have more undesirable inductance than other types of resistor, although winding the wire in sections with alternately reversed direction can minimize inductance.
+Applications of wirewound resistors are similar to those of composition resistors with the exception of the high frequency.
+The aluminum-cased types are designed to be attached to a heat sink to dissipate the heat; the rated power is dependent on being used with a suitable heat sink, e.g., a 50 W power rated resistor overheats at a fraction of the power dissipation if not used with a heat sink.
+Wirewound resistors are commonly made by winding a metal wire, usually nichrome, around a ceramic, plastic, or fiberglass core.
+This power is converted into heat which must be dissipated by the resistor's package before its temperature rises excessively.

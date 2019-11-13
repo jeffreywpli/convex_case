@@ -1,0 +1,200 @@
+A visual display unit, computer monitor or just display, is a piece of electrical equipment, usually separate from the computer case, which displays visual images without producing a permanent computer record.
+The operating system can be located on any storage, but is typically installed on a hard disk or solid-state drive.
+The emerging markets were expected to double their installed PCs by 2012 and to take 70% of the second billion PCs.
+To address the electronic waste issue affecting developing countries and the environment, extended producer responsibility (EPR) acts have been implemented in various countries and states.
+IBM PC compatible computers use an x86-compatible microprocessor, manufactured by Intel, AMD, VIA Technologies or Transmeta.
+Intended primarily to be used by one person at a time, they are commonly connected to a local area network and run multi-user operating systems.
+The system's utilities and libraries usually come from the GNU operating system, announced in 1983 by Richard Stallman.
+Within the computer, either integral to the motherboard or plugged into it as an expansion card, there is pre-processing circuitry to convert the microprocessor's output data to a format compatible with the display unit's circuitry.
+CD-RW, DVD-RW) as a transportable storage medium.
+The separate applications in a suite usually have a user interface that has some commonality making it easier for the user to learn and use each application.
+Initially, the 5.25-inch and 3.5-inch floppy drives were the principal forms of removable storage for backup of user files and distribution of software.
+It is connected to a TV set or an appropriately sized computer display, and is often used as a digital photo viewer, music and video player, TV receiver, and digital video recorder.
+In 1973 the IBM Los Gatos Scientific Center developed a portable computer prototype called SCAMP (Special Computer APL Machine Portable) based on the IBM PALM processor with a Philips compact cassette drive, small CRT and full function keyboard.
+"Unfortunately, it seems clear that the Windows 8 launch not only didn’t provide a positive boost to the PC market, but appears to have slowed the market," said IDC Vice President Bob O’Donnell.
+A gaming computer is a standard desktop computer that typically has high-performance hardware, such as a more powerful video card, processor and memory, in order to handle the requirements of demanding video games, which are often simply called "PC games".
+It was created by Stan Frankel and was used for science and engineering as well as basic data processing.
+The general goal in a HTPC is usually to combine many or all components of a home theater setup into one box.
+Capabilities of the personal computers hardware can sometimes be extended by the addition of expansion cards connected via an expansion bus.
+Early computer owners in the 1960s had to write their own programs to do any useful calculations with the machines, which even did not include an operating system.
+Global PC sales fell sharply in the first quarter of 2013, according to IDC data.
+Some internal upgrades to laptops, such as memory and hard disk drive upgrades are often easily performed, while a display or keyboard upgrade is usually difficult or impossible.
+In the 2010s, several companies such as Hewlett-Packard and Sony sold off their PC and laptop divisions.
+"PC" is an initialism for "personal computer".
+Besides the regular computer manufacturers, companies making especially rugged versions of computers have sprung up, offering alternatives for people operating their machines in extreme weather or environments.
+It is an essential part of modern multimedia-enriched computing.
+Laptops have both a power cable that can be plugged in and high-capacity batteries that can power the device, enhancing its portability.
+Companies like Shuttle Inc. and AOpen have popularized small cases, for which FlexATX is the most common motherboard size.
+The graphics card or sound card may employ a break out box to keep the analog parts away from the electromagnetic radiation inside the computer case.
+Laptops are also a little more expensive compared to desktops, as the miniaturized components for laptops themselves are expensive.
+It is used as an operating system for a wide variety of computer hardware, including desktop computers, netbooks, supercomputers, video game systems such as the Steam Machine or PlayStation&nbsp;3 (until this option was removed remotely by Sony in 2010), several arcade games, and embedded devices such as mobile phones, portable media players, routers, and stage lighting systems.
+Multiple applications bundled together as a package are sometimes referred to as an ''application suite''.
+It is usually faster and more convenient to move large amounts of data by removing the card from the mobile device, instead of communicating with the mobile device through a USB interface.
+Sales of 90.3 million units in the 4th quarter of 2012 represented a 4.9% decline from sales in the 4th quarter of 2011.
+They are usually constructed from steel or aluminum combined with plastic, although other materials such as wood have been used for specialized units.
+Typical examples of software applications are word processors, spreadsheets, and media players.
+The motherboard, also referred to as system board or main board, is the primary circuit board within a personal computer, and other major system components plug directly into it or via a cable.
+In addition to the alphabetic keys found on a typewriter, computer keyboards typically have a numeric keyboard and a row of function keys and special keys, such as CNTRL, ALT, DEL and Esc.
+Lead is found in a cathode ray tube (CRT) display, and on all of the printed circuit boards and most expansion cards.
+External devices such as a computer monitor or visual display unit, keyboard, and a pointing device (mouse) are usually found in a personal computer.
+Desktop replacement computers are sometimes called ''desknotes'', as a portmanteau of words "desktop" and "notebook," though the term is also applied to desktop replacement computers in general.
+The shipments were 264 million units in the year 2007, according to iSuppli, up 11.2% from 239 million in 2006.
+Modern mice use optical technology to directly trace movement of the surface under the mouse and are much more accurate, durable and almost maintenance free.
+The Programma 101 was the first commercial "desktop personal computer", produced by the Italian company Olivetti and invented by the Italian engineer Pier Giorgio Perotto, inventor of the magnetic card system.
+PC gaming is popular among the high-end PC market.
+Netbooks are sometimes considered to belong to this category, though they are sometimes separated into a category of their own (see below).
+As of June 2008, the number of personal computers in use worldwide hit one billion,  while another billion is expected to be reached by 2014.
+Of the latter figure, 75% were professional or work related, while the rest were sold for personal or home use.
+Single-unit PCs (also known as all-in-one PCs) are a subtype of desktop computers that combine the monitor and case of the computer within a single unit.
++2014 worldwide PC vendor unit shipment estimates
+In the interests of saving power, weight and space, laptop graphics cards are in many cases integrated into the CPU or chipset and use system RAM, resulting in reduced graphics performance when compared to an equivalent desktop machine.
+Often significantly less expensive than other laptops, by mid-2009 netbooks had been offered to users "free of charge", with an extended service contract purchase of a cellular data plan.
+The United States had received 38.8% (394 million) of the computers shipped, Europe 25% and 11.7% had gone to the Asia-Pacific region, the fastest-growing market as of 2002.
+Home computers at that time had graphics compatible with television signals, but with low resolution by modern standards owing to the limited memory available to the eight-bit processors available at the time.
+The central processing unit, or CPU, is a part of a computer that executes instructions of a software program.
+308.3 million units in 2009
+In August 2013, Credit Suisse published research findings that attributed around 75% of the operating profit share of the PC industry to Microsoft (operating system) and Intel (semiconductors).
+Cases are available in different sizes and shapes; the size and shape of a computer case is usually determined by the configuration of the motherboard that it is designed to accommodate, since this is the largest and most central component of most computers.
+A workstation is a high-end personal computer designed for technical, mathematical, or scientific applications.
+The RAM, graphics card and processor are in most cases mounted directly onto the motherboard.
+Pocket PCs have many of the capabilities of modern desktop PCs.
+A PC's main memory is a fast primary storage device that is directly accessible by the CPU, and is used to store the currently executing program and immediately needed data.
+At the request of Paul Terrell, owner of the Byte Shop, Steve Jobs was given his first purchase order, for 50 Apple I computers, only if the computers were assembled and tested and not a kit computer.
+Prior to the widespread usage of PCs, a computer that could fit on a desk was remarkably small, leading to the "desktop" nomenclature.
+Early home computers used compact audio cassettes for file storage; these were at the time a very low cost storage solution, but were displaced by floppy disk drives when manufacturing costs dropped, by the mid-1980s.
+The keyboard and the mouse are external devices plugged into the computer through connectors on an I/O panel on the back of the computer case.
+Usually, all of the hardware and interfaces needed to operate a laptop, such as the graphics card, audio devices or USB ports (previously parallel and serial ports), are built into a single unit.
+The compact size and lack of moving parts or dirt-sensitive media, combined with low cost and high capacity, have made USB flash drives a popular and useful accessory for any personal computer user.
+A pocket PC is a hardware specification for a handheld-sized computer (personal digital assistant, PDA) that runs the Microsoft Windows Mobile operating system.
+The inner components of the PC are often located directly behind the monitor and many of such PCs are built similarly to laptops.
+In 2002, 136.7 million PCs were shipped, at an estimated value of $175 billion.
+Many tablet computers have USB ports, to which a keyboard or mouse can be connected.
+The most popular style for desktop computers is ATX, although microATX and similar layouts became very popular for a variety of uses.
+Windows Server 2016 is currently in Beta Testing.
+The first successfully mass marketed personal computer was the Commodore PET introduced in January 1977.
+For example, BD-ROMs, DVD-RWs, and various optical disc recorders may all be added by the user to certain PCs.
+The Silicon Valley Toxics Coalition founded the Electronics TakeBack Coalition, a coalition that advocates for the production of environmentally friendly products.
+Often a motherboard will also contain one or more peripheral buses and physical connectors for expansion purposes.
+Linux is a family of Unix-like computer operating systems.
+Linux is one of the most prominent examples of free software and open source development: typically all underlying source code can be freely modified, used, and redistributed by anyone.
+Personal computers may be connected to a local area network (LAN), either by a cable or a wireless connection.
+Although flash memory has dropped in cost, the prevailing form of mass storage in personal computers is still the hard disk drive.
+Desktop PCs typically have a case that has extra empty space inside, where users can install new components.
+Often, specific functions can be achieved by pressing multiple keys at once or in succession, such as inputting characters with accents or opening a task manager.
+The LGP - 30 was the very first example of a personal computer, created in 1956.
+Multi-monitor setups are quite common in the 2010s, as they enable a user to display multiple programs at the same time (e.g., an email inbox and a word processing program).
+Another seminal product in 1973 was the Xerox Alto, developed at Xerox's Palo Alto Research Center (PARC), it had a graphical user interface (GUI) which later served as inspiration for Apple Computer's Macintosh, and Microsoft's Windows operating system.
+Usually, disk drives are mounted in the same case as the motherboard; expansion chassis are also made for additional disk storage.
+All computers require either fixed or removable storage for their operating system, programs and user-generated material.
+In 1968, Hewlett-Packard was ordered to pay about $900,000 in royalties to Olivetti after their Hewlett-Packard 9100A was ruled to have copied some of the solutions adopted in the Programma 101, including the magnetic card, the architecture and other similar components.
+PCs are intended to be operated directly by an end-user with only a general knowledge of computers, rather than by a computer expert or technician.
+An operating system (OS) manages computer resources and provides programmers with an interface used to access those resources.
+The term "monitor" is also used, particularly by technicians in broadcasting television, where a picture of the broadcast data is displayed to a highly standardized reference monitor for confidence checking purposes.
+A typical desktop computer consists of a computer case (or "tower"), a metal chassis that holds the power supply, motherboard, hard disk drive, and often an optical disc drive.
+Software applications are common for word processing, Internet browsing, Internet faxing, e-mail and other digital messaging, multimedia playback, playing of computer game, and computer programming.
+In English, the most common layout is the QWERTY layout, which was originally used in typewriters.
+While this is slow compared to storing the operating system on a hard disk drive, it is typically used for installation of operating systems, demonstrations, system recovery, or other special purposes.
+In the late 1960s such a machine would have been nearly as large as two desks and would have weighed about half a ton.
+Plastic is found mostly in the housing of the computation and display circuitry.
+System software supports applications and provides common services such as memory management, network connectivity and device drivers, all of which may be used by applications but are not directly of interest to the end user.
+Software for personal computers, such as applications ("apps") and video games, are typically developed and distributed independently from the hardware or OS manufacturers, whereas software for many mobile phones and other portable systems is approved and distributed through a centralized online store.
+In the 2010s, PCs are typically connected to the Internet, allowing access to the World Wide Web and other resources.
+ARM architecture processors "sold 15 billion microchips in 2015, which was more than US rival Intel had sold in its history" and ARM-based smartphones and tablets, those are also effectively personal computers though not usually described as such now outnumber traditional PCs (that are by now predominantly Intel-based while a small minority is AMD-based).
+For Microsoft Windows systems, the average selling price (ASP) showed a decline in 2008/2009, possibly due to low-cost netbooks, drawing $569 for desktop computers and $689 for laptops at U.S. retail in August 2008.
+They see flaws in two principal tenets of EPR: First EPR relies on the idea that if the manufacturers have to pay for environmental harm, they will adapt their practices.
+All these systems were less reliable and slower than purpose-built magnetic tape drives.
+Since the early 1990s, Microsoft operating systems and Intel hardware dominated much of the personal computer market, first with MS-DOS and then with Windows.
+When the IBM PC was introduced, most existing business-oriented personal computers used text-only display adapters and had no graphics capability.
+Some mouse wheels may be tilted from side to side to allow sideways scrolling.
+A subtype of desktops, called nettops, was introduced by Intel in February 2008, characterized by low cost and lean functionality.
+This trend reflects the rising of emerging markets as well as the relative stagnation of mature regions.
+Somewhat larger and more expensive systems (for example, running CP/M), or sometimes a home computer with additional interfaces and devices, although still low-cost compared with minicomputers and mainframes, were aimed at office and small business use, typically using "high resolution" monitors capable of at least 80 column text display, and often no graphical or color drawing capability.
+Mature markets like the United States, Western Europe and Japan accounted for 58% of the worldwide installed PCs.
+By the early 1970s, people in academic or research institutions had the opportunity for single-person use of a computer system in interactive mode for extended durations, although these systems would still have been too expensive to be owned by a single person.
+The demonstration required technical support staff and a mainframe time-sharing computer that were far too costly for individual business use at the time.
+Most modern personal computers have multiple physical PCI Express expansion slots, with some of the having PCI slots as well.
+In the absence of comprehensive national legislation or regulation on the export and import of electronic waste, the Silicon Valley Toxics Coalition and BAN (Basel Action Network) teamed up with 32 electronic recyclers in the US and Canada to create an e-steward program for the orderly disposal of manufacturers and customers electronic waste.
+A desktop replacement computer (DTR) is a personal computer that provides the full capabilities of a desktop computer while remaining mobile.
+A motherboard contains a microprocessor, the CPU supporting circuitry (mostly integrated circuits) that provide the interface between  memory and input/output peripheral circuits, main memory, and facilities for initial setup of the computer immediately after power-on (often called boot firmware or, in IBM PC compatible computers, a BIOS or UEFI).
+A USB flash drive performs much of the data transfer and backup functions formerly done with floppy drives, Zip disks and other devices.
+It may have the capability to run an alternative operating system like NetBSD or Linux.
+On older models, and today on budget models, graphics circuitry may be integrated with the motherboard, but for modern and flexible machines, they are connected by the PCI, AGP, or PCI Express interface.
+The iOS devices, however, are not considered PCs.
+They work on a wider variety of surfaces and can even operate on walls, ceilings or other non-horizontal surfaces.
+It quickly grew after being on the cover of ''Popular Electronic'', which helped spark interest in the product and made it the first commercially successful personal computer
+Computer recycling is best handled by the electronic waste (e-waste) industry, and kept segregated from the general community dump.
+A '''personal computer''' ('''PC''') is a general-purpose computer whose size, capabilities, and price make it feasible for individual use.
+In newer PCs, the CPU contains over a million transistors in one integrated circuit chip called the microprocessor.
+The TakeBack Coalition works with policy makers, recyclers, and smart businesses to get manufacturers to take full responsibility of their products.
+Solid state drives (SSDs) are a much faster replacement for traditional mechanical hard disk drives, but are also more expensive in terms of cost per gigabyte.
+The CPU design implemented in the Datapoint 2200 became the basis for x86 architecture used in the original IBM PC and its descendants.
+In 1999, Asia had 14.1 million units shipped.
+Practical use required adding peripherals such as keyboards, computer displays, disk drives, and printers.
+In the same year, the NEC PC-98 was introduced, which was a very popular personal computer that sold in more than 18 million units.
+and 302.2 million units in 2008.
+They are generally designed around an operators language, and many different versions for different languages exist.
+They typically could be used with a television already in the home as the computer display, with low-detail blocky graphics and a limited color range, and text about 40 characters wide by 25 characters tall.
+OS&nbsp;X (formerly Mac OS&nbsp;X) is a line of operating systems developed, marketed and sold by Apple Inc.. OS&nbsp;X is the successor to the original Mac OS, which had been Apple's primary operating system since 1984.
+A number of companies, such as Alienware, manufacture prebuilt gaming computers, and companies such as Razer and Logitech market mice, keyboards and headsets geared toward gamers.
+Most 2010s-era computers only require users to plug in the power supply, monitor, and other cables.
+Internal upgrades are either not manufacturer-recommended, can damage the laptop if done with poor care or knowledge, or in some cases impossible, making the desktop PC more modular and upgradable.
+According to an April 2014 market analysis, Gaming platforms like Steam (software), Uplay, Origin, and GOG.com (as well as competitive e-sports titles like League of Legends) are largely responsible for PC systems overtaking console revenue in 2013.
+Computer communications involve internal modem cards, modems, network adapter cards, and routers.
+The product line features the new Intel Atom processor, which specifically enables nettops to consume less power and fit into small enclosures.
+A similar subtype of laptops (or notebooks) is the netbook, described below.
+Toxic chemicals found in some computer hardware include lead, mercury, cadmium, chromium, plastic (PVC), and barium.
+However, Microsoft's early attempts were overshadowed by the release of Apple's iPad; following in its footsteps, most modern tablets use slate designs and run mobile operating systems such as Android and iOS, giving them functionality similar to smartphones.
+Interchange of data such as photographs from digital cameras is greatly expedited by installation of a card reader, which is often compatible with several forms of flash memory devices.
+The introduction of the microprocessor, a single chip with all the circuitry that formerly occupied large cabinets, led to the proliferation of personal computers after 1975.
+Workstations were characterized by high-performance processors and graphics displays, with large-capacity local disk storage, networking capability, and running under a multitasking operating system.
+Mice traditionally detected movement and communicated with the computer with an internal "mouse ball", and used optical encoders to detect rotation of the ball and tell the computer where the mouse has moved.
+In 2000, 140.2 million personal computers were shipped, at an estimated value of $226 billion.
+Such tape drives were uncommon in consumer-type personal computers but were a necessity in business or industrial use.
+They are the primary devices used for inputting text.
+For large amounts of data, a tape drive can be used or extra hard disks can be put together in an external case.
+While the Programma 101 was one of the first ''desktop'' personal computer, it wasn't necessarily the first personal computer.
+During the early 1980s, home computers were further developed for household use, with software for personal productivity, programming and games.
+HTPCs are also referred to as media center systems or media servers.
+In the 2010s, users have access to a wide range of commercial software, free software ("freeware") and free and open-source software, which are provided in ready-to-run or ready-to-compile form.
+Standard peripheral buses often used for adding expansion cards in personal computers include PCI, PCI Express (PCIe), and AGP (a high-speed PCI bus dedicated to graphics adapters, found in older computers).
+It was developed as a joint development exercise by Microsoft, Intel and Samsung, among others.
+Following came the Commodore 64, totaled 17 million units sold.
+In 2011, Deloitte consulting firm predicted that, smartphones and tablet computers as computing devices would surpass the PCs sales (as has happened since 2012).
+Another famous personal computer, the revolutionary Amiga 1000, was unveiled by Commodore on July 23, 1985.
+However, since the introduction of the One Laptop per Child foundation and its low-cost XO-1 laptop, the computing industry started to pursue the price too.
+Over the course of their evolution, netbooks have ranged in their screen sizes from below five inches to over 13 inches, with weights around  ().
+In the developed world, there has been a vendor tradition to keep adding functions to maintain high prices of personal computers.
+Large flash memory is currently more expensive than hard disk drives of similar size (as of mid-2014) but are starting to appear in laptop computers because of their low weight, small size and low power requirements.
+They are often marketed as "companion devices", with an intention to augment other ways in which a user can access computer resources.
+In the past, mice had a single button that users could press down on the device to "click" on whatever the pointer on the screen was hovering over.
+In most cases, they contain an array of keys specifically organized with the corresponding letters, numbers, and functions printed or engraved on the button.
+Windows 8, which was designed to look similar to tablet/smartphone software, was cited as a contributing factor in the decline of new PC sales.
+Because SCAMP was the first to emulate APL\1130 performance on a portable, single user computer, ''PC Magazine'' in 1983 designated SCAMP a "revolutionary concept" and "the world's first personal computer".
+Some tablets may run a traditional PC operating system such as Windows or Linux; Microsoft attempted to enter the tablet market in 2002 with its Microsoft Tablet PC specifications, for tablets and convertible laptops running Windows XP.
+The GNU contribution is the basis for the alternative name GNU/Linux.
+The images from computer monitors originally contained only text, but as graphical user interfaces emerged and became common, they began to display more images and multimedia content.
+Modern mice have two, three or more buttons, providing a "right click" function button on the mouse, which performs a secondary action on a selected object, and a scroll wheel, which users can rotate using their fingers to "scroll" up or down.
+More recently, the phrase usually indicates a particular style of computer case.
+Worldwide shipments of personal computers surpassed the 100-million mark in 1999, growing to 113.5 million units from 93.3 million units in 1998.
+In 2001, 125 million personal computers were shipped in comparison to 48,000 in 1977.
+Successful demonstrations of the 1973 SCAMP prototype led to the IBM 5100 portable microcomputer launched in 1975 with the ability to be programmed in both APL and BASIC for engineers, analysts, statisticians and other business problem-solvers.
+Closing the laptop also protects the screen and keyboard during transportation.
+However, it is sometimes used in a different sense, referring to a personal computer with an Intel x86-compatible processor, very often running (but not necessarily limited to) Microsoft Windows, which is a combination sometimes also called Wintel, although large portion of PCs are not shipped with preinstalled Windows operating systems.
+In this sense, the term "desktop" refers specifically to a horizontally oriented case, usually intended to have the display screen placed on top to save desk space.
+Second EPR assumes the current design practices are environmentally inefficient.
+Some tablets may use a "hybrid" or "convertible" design, offering a keyboard that can either be removed as an attachment, or a screen that can be rotated and folded directly over top the keyboard.
+A measurable amount of lead or mercury can easily cause serious brain damage or ruin drinking water supplies.
+Minimal programming was done with toggle switches to enter instructions, and output was provided by front panel lamps.
+According to IDC, in 2013 PC shipments dropped by 9.8% as the greatest drop-ever in line with consumers trends to use mobile devices.
+Sometimes a secondary daughter board is connected to the motherboard to provide further expandability or to satisfy space constraints.
+According to research firm NPD, the average selling price of all Windows portable PCs has fallen from $659 in October 2008 to $519 in October 2009.
+In 1982 "The Computer" was named Machine of the Year by ''Time'' Magazine.
+The most recent version of OS&nbsp;X is codenamed El Capitan.
+Apple Macintosh computers were initially built with the Motorola 680x0 family of processors, then switched to the PowerPC series; in 2006, they switched to x86-compatible processors made by Intel.
+A Live CD represents the concept of running an operating system directly from a CD.
+It was built starting in 1972 and about 90,000 units were sold.
+If the mass storage controller provides additional ports for expandability, a PC may also be upgraded by the addition of extra hard disk or optical disc drives.
+However, it was back-ordered and not available until later in the year.
+Microsoft Windows is the collective brand name of several operating systems made by Microsoft which, as of 2015, are installed on PCs built by HP, Dell and Lenovo, the three remaining high volume manufacturers.
+Netbooks, also called mini notebooks or subnotebooks, are a subgroup of laptops acting as a category of small, lightweight and inexpensive laptop computers suited for general computing tasks and accessing web-based applications.
+An operating system processes system data and user input, and responds by allocating and managing tasks and internal system resources as a service to users and programs of the system.

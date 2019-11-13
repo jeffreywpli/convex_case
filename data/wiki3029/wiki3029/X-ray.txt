@@ -1,0 +1,200 @@
+In August 1896 Dr. HD.
+He found that something came through, that would expose photographic plates and cause fluorescence.
+Each such X-ray would add less than 1 per 1,000,000 to the lifetime cancer risk.
+The strength of these interactions depends on the energy of the X-rays and the elemental composition of the material, but not much on chemical properties, since the X-ray photon energy is much higher than chemical binding energies.
+While the shooting itself had not been lethal, "gangrene had developed along the path of the bullet, and McKinley died of septic shock due to bacterial infection" six days later.
+In 1894 Nikola Tesla noticed damaged film in his lab that seemed to be associated with Crookes tube experiments and began investigating this ''radiant energy of "invisible" kinds''.
+The voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.
+The first medical X-ray made in the United States was obtained using a discharge tube of Pulyui's design.
+CT and fluoroscopy entail higher doses of radiation than do plain X-rays.
+These X-rays have a continuous spectrum.
+The maximum energy of the produced X-ray photon is limited by the energy of the incident electron, which is equal to the voltage on the tube times the electron charge, so an 80&nbsp;kV tube cannot create X-rays with an energy greater than 80&nbsp;keV.
+#''Bremsstrahlung'': This is radiation given off by the electrons as they are scattered by the strong electric field near the high-''Z'' (proton number) nuclei.
+In 1895, Thomas Edison investigated materials' ability to fluoresce when exposed to X-rays, and found that calcium tungstate was the most effective substance.
+When placing an X-ray tube on the opposite side of a wooden door Röntgen had noted the same blue glow, seeming to emanate from the eye itself, but thought his observations to be spurious because he only saw the effect when he used one type of tube.
+The probability of a photoelectric absorption per unit mass is approximately proportional to ''Z''3/''E''3, where ''Z'' is the atomic number and ''E'' is the energy of the incident photon.
+This definition has several problems: other processes also can generate these high-energy photons, or sometimes the method of generation is not known.
+Occasionally, one term or the other is used in specific contexts due to historical precedent, based on measurement (detection) technique, or based on their intended use rather than theirength or source.
+The risk of radiation is greater to unborn babies, so in pregnant patients, the benefits of the investigation (X-ray) should be balanced with the potential hazards to the unborn fetus.
+X-rays have much shorter wavelength than visible light, which makes it possible to probe structures much smaller than what can be seen using a normal microscope.
+In its simplest form, a fluoroscope consists of an X-ray source and a fluorescent screen, between which a patient is placed.
+Radiographs are useful in the detection of pathology of the skeletal system as well as for detecting some disease processes in soft tissue.
+The first medical use was less than a month after his paper on the subject.
+Depending on the procedure and the technology, a single dental X-ray of a human results in an exposure of 0.5 to 4 mrem.
+Fluoroscopy is an imaging technique commonly used by physicians or radiation therapists to obtain real-time moving images of the internal structures of a patient through the use of a fluoroscope.
+He measured the penetrating power of these rays through various materials.
+Accurate estimation of effective doses due to CT is difficult with the estimation uncertainty range of about ±19% to ±32% for adult head scans depending upon the method used.
+An outer electron will fill the vacant electron position and produce either a characteristic photon or an Auger electron.
+The increase is traceable to the growth in the use of medical imaging procedures, in particular computed tomography (CT), and to the growth in the use of nuclear medicine.
+The transferred energy can be directly obtained from the scattering angle from the conservation of energy and momentum.
+Whenever charged particles (electrons or ions) of sufficient energy hit a material, x-rays are produced.
+On 3 February 1896 Gilman Frost, professor of medicine at the college, and his brother Edwin Frost, professor of physics, exposed the wrist of Eddie McCarthy, whom Gilman had treated some weeks earlier for a fracture, to the X-rays and collected the resulting image of the broken bone on gelatin photographic plates obtained from Howard Langill, a local photographer also interested in Röntgen's work.
+Hermann von Helmholtz formulated mathematical equations for X-rays.
+He won the 1917 Nobel Prize in Physics for this discovery.
+It is not known what exact mechanism in the eye produces the visibility: it could be due to conventional detection (excitation of rhodopsin molecules in the retina), direct excitation of retinal nerve cells, or secondary detection via, for instance, X-ray induction of phosphorescence in the eyeball with conventional retinal detection of the secondarily produced visible light.
+The probability for different scattering angles are described by the Klein–Nishina formula.
+They had to contain a small quantity of gas (invariably air) as a current will not flow in such a tube if they are fully evacuated.
+Short nanosecond bursts of X-rays peaking at 15-keV in energy may be reliably produced by peeling pressure-sensitive adhesive tape from its backing in a moderate vacuum.
+This is called ''hardening'' the beam since it shifts the center of the spectrum towards higher energy (or harder) x-rays.
+Dosage due to dental X-rays varies significantly depending on the procedure and the technology (film or digital).
+X-rays were found emanating from Crookes tubes, experimental discharge tubes invented around 1875, by scientists investigating the cathode rays, that is energetic electron beams, that were first created in the tubes.
+However, the mica had a limited life, and the restoration process was difficult to control.
+Röntgen discovered its medical use when he made a picture of his wife's hand on a photographic plate formed due to X-rays.
+These often took the form of a small side tube which contained a small piece of mica, a mineral that traps relatively large quantities of air within its structure.
+It has become an important method for visualizing cellular and histological structures in a wide range of biological and medical studies.
+Unlike visible light, which gives a relatively stable view of the universe, the X-ray universe is unstable.
+Though X-rays are otherwise invisible, it is possible to see the ionization of the air molecules if the intensity of the X-ray beam is high enough.
+Bones contain much calcium, which due to its relatively high atomic number absorbs x-rays efficiently.
+The tube was fastened at the other side at a distance of one-half inch from the hair."
+Medical X-rays are a significant source of man-made radiation exposure.
+He postulated a dispersion theory before Röntgen made his discovery and announcement.
+X-rays interact with matter in three main ways, through photoabsorption, Compton scattering, and Rayleigh scattering.
+After Röntgen identified the x-ray Tesla began making X-ray images of his own using high voltages and tubes of his own design, as well as Crookes tubes.
+This was a result of Pulyui's inclusion of an oblique "target" of mica, used for holding samples of fluorescent material, within the tube.
+This is likely to be the result of recombination of electrical charges produced by triboelectric charging.
+An abdominal or chest CT would be the equivalent to 2–3 years of background radiation to the whole body, or 4–5 years to the abdomen or chest, increasing the lifetime cancer risk between 1 per 1,000 to 1 per 10,000.
+Phase-contrast X-ray imaging refers to a variety of techniques that use phase information of a coherent x-ray beam to image soft tissues.
+On November 8, 1895, German physics professor Wilhelm Röntgen stumbled on X-rays while experimenting with Lenard and Crookes tubes and began studying them.
+Radiation exposure from medical imaging in 2006 made up about 50% of total ionizing radiation exposure in the United States.
+Crookes tubes were unreliable.
+When she saw the picture, she said "I have seen my death."
+For instance, the effective dose to the torso from a CT scan of the chest is about 5 mSv, and the absorbed dose is about 14 mGy.
+The discovery of X-rays stimulated a veritable sensation.
+The amount of absorbed radiation depends upon the type of X-ray test and the body part involved.
+A photoabsorbed photon transfers all its energy to the electron with which it interacts, thus ionizing the atom to which the electron was bound and producing a photoelectron that is likely to ionize more atoms in its path.
+Two months after his initial discovery, he published his paper.
+These two images are then digitally subtracted, leaving an image of only the iodinated contrast outlining the blood vessels.
+Due to their penetrating ability, hard X-rays are widely used to image the inside of objects, e.g., in medical radiography and airport security.
+This makes it a type of ionizing radiation, and therefore harmful to living tissue.
+In medical imaging this increased cancer risk is generally greatly outweighed by the benefits of the examination.
+However, he did not work with actual X-rays.
+X-rays can also be produced by fast protons or other positive ions.
+For technical and political reasons, the overall project (including the X-ray laser) was de-funded (though was later revived by the second Bush Administration as National Missile Defense using different technologies).
+In 1901, U.S. President William McKinley was shot twice in an assassination attempt.
+These cross-sectional images can be combined into a three-dimensional image of the inside of the body and used for diagnostic and therapeutic purposes in various medical disciplines.
+He built a Crookes tube (later called a "Lenard tube") with a "window" in the end made of thin aluminum, facing the cathode so the cathode rays would strike it.
+The intensity of the X-rays increases linearly with decreasing frequency, from zero at the energy of the incident electrons, the voltage on the X-ray tube.
+By 2006, however, medical procedures in the United States were contributing much more ionizing radiation than was the case in the early 1980s.
+This was probably a conservative estimate, if one considers that nearly every paper around the world extensively reported about the new discovery, with a magazine such as ''Science'' dedicating as many as 23 articles to it in that year alone.
+A second image is then taken of the same region after an iodinated contrast agent has been injected into the blood vessels within this area.
+The first use of X-rays under clinical conditions was by John Hall-Edwards in Birmingham, England on 11 January 1896, when he radiographed a needle stuck in the hand of an associate.
+While generally considered invisible to the human eye, in special circumstances X-rays can be visible.
+This used a hot cathode that caused an electric current to flow in a vacuum.
+Compton scattering is the predominant interaction between X-rays and soft tissue in medical imaging.
+This voltage accelerated the electrons coming from the cathode to a high enough velocity that they created X-rays when they struck the anode or the glass wall of the tube.
+Nevertheless, Edison dropped X-ray research around 1903, even before the death of Clarence Madison Dally, one of his glassblowers.
+An X-ray laser device was proposed as part of the Reagan Administration's Strategic Defense Initiative in the 1980s, but the only test of the device (a sort of laser "blaster" or death ray, powered by a thermonuclear explosion) gave inconclusive results.
+For radiation protection direct exposure hazard is often evaluated using ionization chambers, while dosimeters are used to measure the radiation dose a person has been exposed to.
+The knowledge that X-rays are actually faintly visible to the dark-adapted naked eye has largely been forgotten today; this is probably due to the desire not to repeat what would now be seen as a recklessly dangerous and potentially harmful experiment with ionizing radiation.
+Hawks, a graduate of Columbia College, suffered severe hand and chest burns from an x-ray demonstration.
+A very high radiation dose over a short period of time causes radiation sickness, while lower doses can give an increased risk of radiation-induced cancer.
+Rayleigh scattering is the dominant elastic scattering mechanism in the X-ray regime.
+On 14 February 1896 Hall-Edwards was also the first to use X-rays in a surgical operation.
+Experimental and epidemiological data currently do not support the proposition that there is a threshold dose of radiation below which there is no increased risk of cancer.
+Wilhelm Röntgen was the first to systematically study them, in 1895.
+The Coolidge X-ray tube was invented during the following year by William D. Coolidge.
+A small electrical heater heated the mica, causing it to release a small amount of air, thus restoring the tube's efficiency.
+Brandes, in an experiment a short time after Röntgen's landmark 1895 paper, reported after dark adaptation and placing his eye close to an X-ray tube, seeing a faint "blue-gray" glow which seemed to originate within the eye itself.
+A child who had been shot in the head was brought to the Vanderbilt laboratory in 1896.
+In early 1896, several weeks after Röntgen's discovery, Ivan Romanovich Tarkhanov irradiated frogs and insects with X-rays, concluding that the rays "not only photograph, but also affect the living function".
+For this reason, X-rays are widely used to image the inside of visually opaque objects.
+Although Pulyui had studied with Röntgen at the University of Strasbourg in the years 1873–75, his biographer Gaida (1997) asserts that his subsequent research was conducted independently.
+Daniel reported that 21 days after taking a picture of Dudley's skull (with an exposure time of one hour), he noticed a bald spot  in diameter on the part of his head nearest the X-ray tube: "A plate holder with the plates towards the side of the skull was fastened and a coin placed between the skull and the head.
+The use of X-rays for medical purposes (which developed into the field of radiation therapy) was pioneered by Major John Hall-Edwards in Birmingham, England.
+It was formed on the basis of the electromagnetic theory of light.
+Avoiding unnecessary X-rays (especially CT scans) reduces radiation dose and any associated cancer risk.
+However, as time passed, the X-rays caused the glass to absorb the gas, causing the tube to generate "harder" X-rays until it soon stopped operating.
+In about 1906, the physicist Charles Barkla discovered that X-rays could be scattered by gases, and that each element had a characteristic X-ray spectrum.
+So the resulting output of a tube consists of a continuous bremsstrahlung spectrum falling off to zero at the tube voltage, plus several spikes at the characteristic lines.
+Early in 1896, just a few weeks after Röntgen published his first X-ray photograph, Pulyui published high-quality X-ray images in journals in Paris and London.
+In 2006, medical exposure constituted nearly half of the total radiation exposure of the U.S. population from all sources.
+This reduces the amount of X-rays reaching the detector in the shadow of the bones, making them clearly visible on the radiograph.
+There are several technologies being used for x-ray phase-contrast imaging, all utilizing different principles to convert phase variations in the x-rays emerging from an object into intensity variations.
+It is also used for material characterization using X-ray spectroscopy.
+These include propagation-based phase contrast, talbot interferometry, refraction-enhanced imaging, and x-ray interferometry.
+Before trying to find the bullet an experiment was attempted, for which Dudley "with his characteristic devotion to science" volunteered.
+In medical X-ray tubes the target is usually tungsten or a more crack-resistant alloy of rhenium (5%) and tungsten (95%), but sometimes molybdenum for more specialized applications, such as when softer X-rays are needed as in mammography.
+These methods provide higher contrast compared to normal absorption-contrast x-ray imaging, making it possible to see smaller details.
+To generate an image of the cardiovascular system, including the arteries and veins (angiography) an initial image is taken of the anatomical region of interest.
+Using sources considerably more advanced than sticky tape, at least one startup firm is exploiting tribocharging in the development of highly portable, ultra-miniaturized X-ray devices.
+The scattered photon can go in any direction, but a direction similar to the original direction is more likely, especially for high-energy X-rays.
+The beamline from the wiggler at the  ID11 at the European Synchrotron Radiation Facility is one example of such high intensity.
+With the widespread experimentation with x‑rays after their discovery in 1895 by scientists, physicians, and inventors came many stories of burns, hair loss, and worse in technical journals of the time.
+This rule is not valid close to inner shell electron binding energies where there are abrupt changes in interaction probability, so called absorption edges.
+This method may use a contrast material.
+Many physicians claimed there were no effects from x-ray exposure at all.
+In medical diagnostic applications, the low energy (soft) X-rays are unwanted, since they are totally absorbed by the body, increasing the radiation dose without contributing to the image.
+Crookes tubes created free electrons by ionization of the residual air in the tube by a high DC voltage of anywhere between a few kilovolts and 100 kV.
+In 1904, John Ambrose Fleming invented the thermionic diode, the first kind of vacuum tube.
+This idea was quickly applied to X-ray tubes, and hence heated-cathode X-ray tubes, called "Coolidge tubes", completely replaced the troublesome cold cathode tubes by about 1920.
+Since man-made sources accounted for only 18% of the total radiation exposure, most of which came from natural sources (82%), medical X-rays only accounted for 10% of ''total'' American radiation exposure; medical procedures as a whole (including nuclear medicine) accounted for 14% of total radiation exposure.
+In crystallography, a copper target is most common, with cobalt often being used when fluorescence from iron content in the sample might otherwise present a problem.
+The radiologist or surgeon then compares the image obtained to normal anatomical images to determine whether there is any damage or blockage of the vessel.
+The intensity of X-ray triboluminescence is sufficient for it to be used as a source for X-ray imaging.
+A head CT scan (1.5mSv, 64mGy) that is performed once with and once without contrast agent, would be equivalent to 40 years of background radiation to the head.
+Hard X-rays can traverse relatively thick objects without being much absorbed or scattered.
+When the electrons hit the target, X-rays are created by two different atomic processes:
+Computed tomography (CT scanning) is a medical imaging modality where tomographic images or slices of specific areas of the body are obtained from a large series of two-dimensional X-ray images taken in different directions.
+X-rays with high photon energies (above 5–10 keV, below 0.2–0.1&nbsp;nm wavelength) are called ''hard X-rays'', while those with lower energy are called ''soft X-rays''.
+In 1877 Ukrainian-born Ivan Pulyui, a lecturer in experimental physics at the University of Vienna, constructed various designs of vacuum discharge tube to investigate their properties.
+X-ray photons carry enough energy to ionize atoms and disrupt molecular bonds.
+Dental radiography is commonly used in the diagnoses of common oral problems, such as cavities.
+The most often seen applications are in medical radiography and airport security scanners, but similar techniques are also important in industry (e.g.
+Many experimenters including Elihu Thomson at Edison's lab, William J. Morton, and Nikola Tesla also reported burns.
+(Some measurement techniques do not distinguish between detected wavelengths.)
+Röntgen threw himself into investigating these unknown rays systematically.
+This is compared to the roughly 40% chance of a US citizen developing cancer during their lifetime.
+Photoabsorption or photoelectric absorption is the dominant interaction mechanism in the soft X-ray regime and for the lower hard X-ray energies.
+Part of the energy of the photon is transferred to the scattering electron, thereby ionizing the atom and increasing the wavelength of the X-ray.
+industrial radiography and industrial CT scanning) and research (e.g.
+#''Characteristic X-ray emission'' (X-ray fluorescence): If the electron has enough energy it can knock an orbital electron out of the inner electron shell of a metal atom, and as a result electrons from higher energy levels then fill up the vacancy and X-ray photons are emitted.
+Compton scattering is an inelastic scattering of the X-ray photon by an outer shell electron.
+In February 1896, Professor John Daniel and Dr. William Lofland Dudley of Vanderbilt University reported hair loss after Dr. Dudley was X-rayed.
+From 1886 to 1888 he had studied in the Hermann Helmholtz laboratory in Berlin, where he became familiar with the cathode rays generated in vacuum tubes when a voltage was applied across separate electrodes, as previously studied by Heinrich Hertz and Philipp Lenard.
+The spectral lines generated depend on the target (anode) element used and thus are called characteristic lines.
+The ionizing capability of X-rays can be utilized in cancer treatment to kill malignant cells using radiation therapy.
+X-rays can be generated by an X-ray tube, a vacuum tube that uses a high voltage to accelerate the electrons released by a hot cathode to a high velocity.
+However, modern fluoroscopes couple the screen to an X-ray image intensifier and CCD video camera allowing the images to be recorded and played on a monitor.
+It is estimated that the additional radiation will increase a person's cumulative risk of getting cancer by age 75 by 0.6–1.8%.
+However, the general trend of high absorption coefficients and thus short penetration depths for low photon energies and high atomic numbers is very strong.
+The Chandra X-ray Observatory, launched on July 23, 1999, has been allowing the exploration of the very violent processes in the universe which produce X-rays.
+Usually these are transitions from upper shells into K shell (called K lines), into L shell (called L lines) and so on.
+The use of X-rays as a treatment is known as radiation therapy and is largely used for the management (including palliation) of cancer; it requires higher radiation doses than those received for imaging alone.
+One common practice is to distinguish between the two types of radiation based on their source: X-rays are emitted by electrons, while gamma rays are emitted by the atomic nucleus.
+Then in 1908, he had to have his left arm amputated because of the spread of X-ray dermatitis on his arm.
+Elihu Thomson deliberately exposed a finger to an x-ray tube over a period of time and suffered pain, swelling, and blistering.
+On 3 August 1905 at San Francisco, California, Elizabeth Fleischman, American woman X-ray pioneer, died from complications as a result of her work with X-rays.
+In January 1896, on reading of Röntgen's discovery, Frank Austin of Dartmouth College tested all of the discharge tubes in the physics laboratory and found that only the Pulyui tube produced X-rays.
+One common alternative is to distinguish X- and gamma radiation on the basis of wavelength (or, equivalently, frequency or photon energy), with radiation shorter than some arbitrary wavelength, such as 10−11 m (0.1 Å), defined as gamma radiation.
+By contrast, soft X-rays are easily absorbed in air; the attenuation length of 600 eV (~2&nbsp;nm) X-rays in water is less than 1 micrometer.
+Spelling of ''X-ray(s)'' in the English language includes the variants ''x-ray(s)'', ''xray(s)'', and ''X ray(s)''.
+For higher atomic number substances this limit is higher.
+Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3×1016 Hz to 3×1019 Hz) and energies in the range 100 eV to 100 keV.
+He found they could also pass through books and papers on his desk.
+There are conflicting accounts of his discovery because Röntgen had his lab notes burned after his death, but this is a likely reconstruction by his biographers: Röntgen was investigating cathode rays from a Crookes tube (which he had wrapped in black cardboard so that the visible light from the tube would not interfere), using a fluorescent screen painted with barium platinocyanide.
+"A worried McKinley aide sent word to inventor Thomas Edison to rush an X-ray machine to Buffalo to find the stray bullet.
+However, these two definitions often coincide since the electromagnetic radiation emitted by X-ray tubes generally has a longer wavelength and lower photon energy than the radiation emitted by radioactive nuclei.
+Other effects were sometime blamed for the damage including ultraviolet rays and (according to Tesla) ozone.
+A specialized source of X-rays which is becoming widely used in research is synchrotron radiation, which is generated by particle accelerators.
+It arrived but wasn't used."
+The penetration depth varies with several orders of magnitude over the X-ray spectrum.
+Röntgen's biographer Otto Glasser estimated that, in 1896 alone, as many as 49 essays and 1044 articles about the new rays were published.
+In 1987, they accounted for 58% of exposure from man-made sources in the United States.
+This allows the photon energy to be adjusted for the application so as to give sufficient transmission through the object and at the same time good contrast in the image.
+Since Röntgen's discovery that X-rays can identify bone structures, X-rays have been used for medical imaging.
+The attenuation length is about four orders of magnitude longer for hard X-rays (right half) compared to soft X-rays (left half).
+X-rays beams are used for treating skin cancers using lower energy x-ray beams while higher energy beams are used for treating cancers within the body such as brain, lung, prostate, and breast.
+Some notable examples are the very common chest X-ray, which can be used to identify lung diseases such as pneumonia, lung cancer, or pulmonary edema, and the abdominal x-ray, which can detect bowel (or intestinal) obstruction, free air (from visceral perforations) and free fluid (in ascites).
+This can be used in X-ray microscopy to acquire high resolution images, but also in X-ray crystallography to determine the positions of atoms in crystals.
+His letter of January 6, 1893 (describing his discovery as "electric photography") to The Physical Review was duly published and an article entitled ''Without Lens or Light, Photographs Taken With Plate and Object in Darkness'' appeared in the San Francisco Examiner.
+In the US, there are an estimated 62&nbsp;million CT scans performed annually, including more than 4&nbsp;million on children.
+To place the increased risk in perspective, a plain chest X-ray will expose a person to the same amount from background radiation that people are exposed to (depending upon location) every day over 10 days, while exposure from a dental X-ray is approximately equivalent to 1 day of environmental background radiation.
+For soft tissue photoabsorption dominates up to about 26 keV photon energy where Compton scattering takes over.
+The name stuck, although (over Röntgen's great objections) many of his colleagues suggested calling them '''Röntgen rays'''.
+Diagnostic X-rays (primarily from CT scans due to the large dose used) increase the risk of developmental problems and cancer in those exposed.
+'''X-radiation''' (composed of '''X-rays''') is a form of electromagnetic radiation.
+X-ray spectra can be measured either by energy dispersive or wavelength dispersive spectrometers.
+This process produces an emission spectrum of X-rays at a few discrete frequencies, sometimes referred to as the spectral lines.
+Many of the early Crookes tubes undoubtedly radiated X-rays, because early researchers noticed effects that were attributable to them, as detailed below.
+It has been suggested that at least some of these "Lenard rays" were actually X-rays.
+Up until 2010, 5&nbsp;billion medical imaging studies have been conducted worldwide.

@@ -1,0 +1,200 @@
+The  at flight speed depends on how well the intake compresses the air before it is handed over to the engine compressors.
+As their jet thrust is augmented by a propeller, turboprops are occasionally referred to as a type of hybrid jet engine.
+It decreases nonlinearly to 98% at altitude cruise conditions.
+The first patent for using a gas turbine to power an aircraft was filed in 1921 by Frenchman Maxime Guillaume.
+Jet engines date back to the invention of the aeolipile before the first century AD.
+No complex air inlet.
+Extreme thermal stresses of combustion chamber can make reuse harder.
+Ramjets are the most basic type of ram powered jet engines.
+For an airbreathing engine an exhaust velocity equal to the vehicle velocity, or a  equal to one, gives zero thrust with no net momentum change.
+There are also extra pressure losses in the bypass duct and an extra propelling nozzle.
+The efficiency is further modified by how smoothly the air and the combustion gases flow through the engine, how well the flow is aligned (known as incidence angle) with the moving and stationary passages in the compressors and turbines.
+In turboprop engines, a portion of the engine's thrust is produced by spinning a propeller, rather than relying solely on high-speed jet exhaust.
+A more recent aircraft, the Tupolev Tu-22 supersonic bomber, was fitted with four SPRD-63 boosters for take-off.
+Turbofans are usually more efficient than turbojets at subsonic speeds, but their large frontal area also generates more drag.
+Some early jet aircraft needed rocket assistance to take off from high altitude airfields or when the day temperature was high.
+Low-bypass turbofans often use a mixed exhaust nozzle meaning that the bypassed flow and the core flow exit from the same nozzle.
+The turbine rotor temperature is not the highest in the engine but is the highest at which energy transfer takes place ( higher temperatures occur in the combustor).
+Most airbreathing jet engines that are in use are turbofan jet engines, which give good efficiency at speeds just below the speed of sound.
+Non-optimum angles, as well as non-optimum passage and blade shapes can cause thickening and separation of Boundary layers and formation of Shock waves as explained in Effects of Mach number and shock losses in turbomachines.
+In addition to propulsive efficiency, another factor is ''cycle efficiency''; a jet engine is a form of heat engine.
+it is not moving an aircraft or supplying energy for the aircraft's electrical, hydraulic and air systems.
+Meanwhile, in Britain the Gloster E28/39 had its maiden flight on 15 May 1941 and the Gloster Meteor finally entered service with the RAF in July 1944.
+However, although very powerful, at reasonable flight speeds rockets are very inefficient and so jet propulsion technology stalled for hundreds of years.
+Only some of this air taken from the compressors returns to the turbine flow to contribute to thrust production.
+through  systems of multiple shocks.
+The efficiency of turbojet engines was still rather worse than piston engines, but by the 1970s, with the advent of high-bypass turbofan jet engines (an innovation not foreseen by the early commentators such as Edgar Buckingham, at high speeds and high altitudes that seemed absurd to them), fuel efficiency was about the same as the best piston and propeller engines.
+The afterburner also has to make up for the pressure loss across the turbomachine which is a drag item at higher speeds where the epr will be less than 1.0.
+In general, jet engines are combustion engines.
+Von Ohain's first device was strictly experimental and could run only under external power, but he was able to demonstrate the basic concept.
+This understanding comes under the engineering discipline Jet engine performance.
+For commercial jet aircraft the jet noise has reduced from the turbojet through bypass engines to turbofans as a result of a progressive reduction in propelling jet velocities.
+giving a total of 11,100 lb.
+The advent of the turbofan replaced the very distinctive jet noise with another sound known as "buzz saw" noise.
+A turbojet engine is a gas turbine engine that works by compressing air with an inlet and a compressor (axial, centrifugal, or both), mixing fuel with the compressed air, burning the mixture in the combustor, and then passing the hot, high pressure air through a turbine and a nozzle.
+This, combined with greatly decreased fuel consumption, permitted routine transatlantic flight by twin-engined airliners by the turn of the century, where before a similar journey would have required multiple fuel stops.
+Although the aerodynamic loads on the compressor and turbine blades contribute to the rotor thrust they are small compared to cavity loads inside the rotor which result from the secondary air system pressures and sealing diameters on discs, etc.
+The velocity of the jet ('''''ve''''') must exceed the true airspeed of the aircraft ('''''v''''') if there is to be a net forward thrust on the aircraft.
+This air comes from its own compressor and is called secondary air.
+The rotor thrust on a thrust bearing is not related to the engine thrust.
+The formula for air-breathing engines moving at speed  with an exhaust velocity , and neglecting fuel flow, is:
+There are a large number of different types of jet engines, all of which achieve forward thrust from the principle of ''jet propulsion''.
+The earliest attempts at airbreathing jet engines were hybrid designs in which an external power source first compressed air, which was then mixed with fuel and burned for jet thrust.
+Thrust augmentation has taken many forms, most commonly to supplement inadequate take-off thrust.
+Even though overall energy efficiency  is:
+If the nozzle is choked, the pressure at the nozzle exit plane is greater than atmospheric pressure, and extra terms must be added to the above equation to account for the pressure thrust.
+= the mass rate of intake air that flows to the core engine
+The main effect is that the output of the engine as a whole has a much higher mass per second, and therefore generates much more thrust, despite not having ignited much of its airflow.
+It can be seen in the table (just below) that the subsonic turbofans such as General Electric's CF6 turbofan use a lot less fuel to generate thrust for a second than did the Concorde's Rolls-Royce/Snecma Olympus 593 turbojet.
+The efficiency is also limited by the overall pressure ratio that can be achieved.
+These requirements, which cause installation losses, reduce its efficiency.
+Propeller engines handle larger air mass flows, and give them smaller acceleration, than jet engines.
+In aircraft engines, those three core components are often called the "gas generator."
+Looking inside the "black box" shows that the thrust results from all the unbalanced momentum and pressure forces created within the engine itself.
+Ohain was then introduced to Ernst Heinkel, one of the larger aircraft industrialists of the day, who immediately saw the promise of the design.
+The engine converts internal energy in the fuel to kinetic energy in the exhaust, producing thrust.
+Gas turbines are rotary engines that extract energy from a flow of combustion gas.
+This device directed steam power through two nozzles to cause a sphere to spin rapidly on its axis.
+The engine is more efficient.
+This was the motivation behind the development of the gas turbine engine, commonly called a "jet" engine.
+The velocity of the air entering the nozzle is low, about Mach 0.4, a prerequisite for minimizing pressure losses in the duct leading to the nozzle.
+In rocketry, the propellant is also the exhaust, and this means that a high energy propellant gives better propellant efficiency but can in some cases actually give ''lower'' energy efficiency.
+A '''jet engine''' is a reaction engine discharging a fast-moving jet that generates thrust by jet propulsion.
+The main problems were safety, reliability, weight and, especially, sustained operation.
+= the mass rate of total air flow entering the turbofan = '''''ṁc''''' + '''''ṁf'''''
+The above pressure and temperature are shown on a Thermodynamic cycle diagram.
+At any given throttle, the thrust and efficiency of a rocket motor improves slightly with increasing altitude (because the back-pressure falls thus increasing net thrust at the nozzle exit plane), whereas with a turbojet (or turbofan) the falling density of the air entering the intake (and the hot gases leaving the nozzle) causes the net thrust to decrease with increasing altitude.
+Fairly small surface area to keep cool, and no turbine in hot exhaust stream.
+The propelling nozzle at speeds above about Mach 2 usually has extra internal thrust losses because the exit area is not big enough as a trade-off with external afterbody drag.
+On 16 January 1930 in England, Whittle submitted his first patent (granted in 1932).
+At the same time forward speed increases the  by increasing the Overall pressure ratio.
+Jet aircraft use such engines for long-distance travel.
+Limitations in design and practical engineering and metallurgy prevented such engines reaching manufacture.
+The velocity ('''''ve''''') can be calculated thermodynamically based on adiabatic expansion.
+Extremely noisy, parts subject to extreme mechanical fatigue, hard to start detonation, not practical for current use
+With the advent of turbofans with their loss-making machinery what goes on inside the engine has been separated by Bennett, for example, between gas generator and transfer machinery giving .
+While a turbojet engine uses all of the engine's output to produce thrust in the form of a hot high-velocity exhaust gas jet, a turbofan's cool low-velocity bypass air yields between 30% and 70% of the total thrust produced by a turbofan system.
+The efficiency of the engine is controlled primarily by the operating conditions inside the engine which are the pressure produced by the compressor and the temperature of the combustion gases at the first set of rotating turbine blades.
+is dependent on the Thermodynamic cycle parameters, maximum pressure and temperature, and on component efficiencies, ,  and  and duct pressure losses.
+The rate of flow of fuel entering the engine is very small compared with the rate of flow of air.
+The name "scramjet" comes from "'''S'''upersonic '''C'''ombusting '''Ramjet'''."
+Turbojets are particularly suitable for aircraft travelling at very high speeds.
+For any type of combustion chamber there is a ''rich'' and ''weak limit'' to the air-fuel ratio, beyond which the flame is extinguished.
+and a pressure thrust of 1800 lb.
+After many lesser technical difficulties were solved, mass production of this engine started in 1944 as a powerplant for the world's first jet-fighter aircraft, the Messerschmitt Me 262 (and later the world's first jet-bomber aircraft, the Arado Ar 234).
+Requires liquid hydrogen fuel which has very low density and requires heavily insulated tankage.
+Unlike Whittle's design, Ohain used hydrogen as fuel, supplied under external pressure.
+Sometimes an extra disc known as a balance piston has to be added inside the rotor.
+Whittle had his first engine running in April 1937.
+Early jet aircraft used turbojet engines which were relatively inefficient for subsonic flight.
+Works in a vacuum; indeed, works best outside the atmosphere, which is kinder on vehicle structure at high speed.
+The combustion efficiency of most aircraft gas turbine engines at sea level takeoff conditions
+Whittle's team experienced near-panic when the engine would not stop, accelerating even after the fuel was switched off.
+The nozzle thrust is highest if the static pressure of the gas reaches the ambient value as it leaves the nozzle.
+Many of these engines are derived from older military turbojets such as the Pratt & Whitney J57 and J75 models.
+It does not contribute to making thrust so makes the engine less efficient.
+= the velocity of the air flow bypassed around the core engine
+Again, it will be known for a particular engine design that a reduced requirement for cooling flow of x% will reduce the specific fuel consumption by y%.
+Consequently, the thrust characteristics of a rocket motor are different from that of an air breathing jet engine, and thrust is independent of velocity.
+Thrust/weight ratio over 100.
+They are quite similar to turbofans in many respects, except that they use a traditional propeller to provide the majority of thrust, rather than a ducted fan.
+This is a measure of its efficiency.
+= the mass rate of hot combustion exhaust flow from the core engine
+= the velocity of the hot exhaust gas from the core engine
+All the air ingested by the inlet is passed through the compressor, combustor, and turbine, unlike the turbofan engine described below.
+Can be less efficient than a propeller at low speed, more expensive, higher weight in boat due to entrained water, will not perform well if boat is heavier than the jet is sized for
+Early aft-fan arrangements which added bypass airflow to a turbojet were known as thrust augmentors.
+Therefore, rocket engines do not have ram drag and the gross thrust of the rocket engine nozzle is the net thrust of the engine.
+Even before the start of World War II, engineers were beginning to realize that engines driving propellers were self-limiting in terms of the maximum performance which could be attained; the limit was due to issues related to propeller efficiency, which declined as blade tips approached the speed of sound.
+In 1928, RAF College Cranwell cadet Frank Whittle formally submitted his ideas for a turbojet to his superiors.
+This has improved constantly over time as new materials have been introduced to allow higher maximum cycle temperatures.
+Jet engine designs are frequently modified for non-aircraft applications, as industrial gas turbines or marine powerplants.
+High-bypass turbofans often have ratios from 4:1 up to 8:1, with the Rolls-Royce Trent XWB approaching 10:1.
+'''''ṁ&thinsp;e'''''
+Ram powered engines are considered the most simple type of air breathing jet engine because they can contain no moving parts.
+Distortion of the engine structure has to be controlled with suitable mount locations to maintain acceptable rotor and seal clearances and prevent rubbing.
+Water, or other coolant, injection into the compressor or combustion chamber and fuel injection into the jetpipe (afterburning/reheat) became standard ways to increase thrust, known as 'wet' thrust to differentiate with the no-augmentation 'dry' thrust.
+A key trait of ramjet engines is that combustion is done at subsonic speeds.
+Compressor inlet cooling increases the aerodynamic speed and flow and thrust.
+They all measure the same thing.
+However, these losses are more than made up  by the improvement in propulsive efficiency.
+In the aircraft the engine gives away some of its thrust-producing potential, or fuel, to power these systems.
+Whittle would later concentrate on the simpler centrifugal compressor only, for a variety of practical reasons.
+Also at supersonic speeds the divergent area is less than required to give complete internal expansion to ambient pressure as a trade-off with external body drag.
+It may even change direction at some RPM.
+The compressor is powered by the turbine, which extracts energy from the expanding gas passing through it.
+The sound power radiated from a jet varies with the jet velocity raised to the eighth power for velocities up to 2,000&nbsp;ft/sec and varies with the velocity cubed above 2,000&nbsp;ft/sec.
+The legacy of the axial-flow engine is seen in the fact that practically all jet engines on fixed-wing aircraft have had some inspiration from this design.
+The slower average velocity of the mixed exhaust air (low specific thrust) is also less wasteful of energy for subsonic flight, and allows the engine to be more efficient and much quieter, while the fan also allows greater thrust to be available at slow speeds.
+Conventional rocket engines, however, do not have an intake, the oxidizer and fuel both being carried within the vehicle.
+All of the above considerations are basic to the engine running on its own and, at the same time, doing nothing useful, i.e.
+In the second case a small increase in the maximum mechanical speed and turbine temperature were allowed, together with nitrous oxide injection into the afterburner and simultaneous increase in afterburner fuel flow.
+It may be as high as the 1000K exhaust gas temperature for a supersonic afterburning engine or 2200K with afterburner lit.
+This broad definition includes turbojets, turbofans, rocket engines, ramjets, and pulse jets.
+As can be seen in the following table, rocket engines generally achieve much higher thrust-to-weight ratios than duct engines such as turbojet and turbofan engines.
+In October 1929 he developed his ideas further.
+Air-fuel ratio ranges from 50:1 to 130:1.
+The first gas turbine to successfully run self-sustaining was built in 1903 by Norwegian engineer Ægidius Elling.
+There are many different variations of gas turbines, but they all use a gas generator system of some type.
+Very few moving parts.
+Rocket engines of course have no upper limit.
+For turbojet engines altitudes of about 40&nbsp;km appear to be possible, whereas for ramjet engines 55&nbsp;km may be achievable.
+Turbofans differ from turbojets in that they have an additional fan at the front of the engine, which accelerates air in a duct bypassing the core gas turbine engine.
+Although a bypass engine improves propulsive efficiency it incurs losses of its own inside the engine itself.
+Scramjets are mechanically very similar to ramjets.
+A compressor map shows that the airflow reduces with increasing compressor inlet temperature although the compressor is still running at maximum RPM (but reduced aerodynamic speed).
+Propellant consumption in jet engines is measured by '''Specific Fuel Consumption''', '''Specific impulse''' or '''Effective exhaust velocity'''.
+The faster the incoming air is, however, the less efficient it becomes to slow it to subsonic speeds.
+The temperature entering the nozzle may be as low as sea level ambient for a fan nozzle in the cold air at cruise altitudes.
+The intake compression ratio, which can be as high as 32:1 at Mach 3, adds to that of the engine compressor to give the Overall pressure ratio and  for the Thermodynamic cycle.
+Specific impulse and effective exhaust velocity are strictly proportional, whereas specific fuel consumption is inversely proportional to the others.
+Practical axial compressors were made possible by ideas from A.A.Griffith in a seminal paper in 1926 ("An Aerodynamic Theory of Turbine Design").
+In one such system, called a ''thermojet'' by Secondo Campini but more commonly, motorjet, the air was compressed by a fan driven by a conventional piston engine.
+Like a ramjet, they consist of an inlet, a combustor, and a nozzle.
+At high Mach numbers afterburners supply progressively more of the engine thrust as the thrust from the turbomachine drops off towards zero at which speed the engine pressure ratio (epr) has fallen to 1.0 and all the engine thrust comes from the afterburner.
+In common parlance, the term ''jet engine'' loosely refers to an internal combustion airbreathing jet engine.
+The low loss from the propelling nozzle of a turbojet is added to with extra losses due to inefficiencies in the added turbine and fan.
+It does not apply to rocket engines.
+In the subsonic case the noise is produced by eddies and in the supersonic case by Mach waves.
+The overall efficiency of the engine at flight speed is defined as .
+The aircraft "holds" the engine on the outer casing of the engine at some distance from the engine centreline (at the engine mounts).
+The origin is the shockwaves originating at the supersonic fan blades at takeoff thrust.
+Turbofans designed for subsonic civilian aircraft also usually have a just a single front fan, because their additional thrust is generated by a large additional mass of air which is only moderately compressed, rather than a smaller amount of air which is greatly compressed.
+As an example, an early turbojet, the Bristol Olympus Mk.
+They consist of three sections; an inlet to compress incoming air, a combustor to inject and combust fuel, and a nozzle to expel the hot gases and produce thrust.
+In other words, less fuel will be required to give take-off thrust, for example.
+The comparatively large frontal fan has several effects.
+Duct engines have to deal with air which is two to three orders of magnitude less dense and this gives pressures over much larger areas, which in turn results in more engineering materials being needed to hold the engine together and for the air compressor.
+When a de Laval nozzle is used to accelerate a hot engine exhaust, the outlet velocity may be locally supersonic.
+Another difference between ramjets and scramjets comes from how each type of engine compresses the oncoming airflow: while the inlet provides most of the compression for ramjets, the high speeds at which scramjets operate allow them to take advantage of the compression generated by shock waves, primarily oblique shocks.
+Since the npr changes with engine thrust setting and flight speed this is seldom the case.
+Also, because the additional air has not been ignited, no extra fuel is needed to provide this thrust.
+Very high-speed (hypersonic) exhaust.
+Since the increase in air speed is small, at high flight speeds the thrust available to propeller-driven aeroplanes is small.
+To keep the load within the bearing specification seal diameters are chosen accordingly as, many years ago, on the backface of the impeller in the de Havilland Ghost engine.
+Modern subsonic jet aircraft usually use more complex high-bypass turbofan engines.
+The nozzle size, together with the area of the turbine nozzles, determines the operating pressure of the compressor.
+101, had a momentum thrust of 9300 lb.
+These may be included in a transmission, or transfer, efficiency .
+Mach 3 manned flight has provided an interesting illustration of how these losses can increase dramatically in an instant.
+*''propulsive efficiency'' (): how much of the energy of the jet ends up in the vehicle body rather than being carried away as kinetic energy of the jet.
+How efficiency is affected by forward speed and by supplying energy to aircraft systems is mentioned later.
+The  aft-fan fitted to the General Electric CJ805-3 turbojet augmented the take-off thrust from 11,650lb to 16,100lb.
+These are used in electrical power generation, for powering water, natural gas, or oil pumps, and providing propulsion for ships and locomotives.
+Together, the thrust produced by the fan and core are much more fuel efficient, and provides a much higher output, than could be produced by the core alone.
+Very high-temperature combustion and high expansion-ratio nozzle gives very high efficiency, at very high speeds.
+Examples of this type of design were the Caproni Campini N.1, and the Japanese Tsu-11 engine intended to power Ohka kamikaze planes towards the end of World War II.
+Typically, turbofans in civilian aircraft usually have a pronounced large front area to accommodate a very large fan, as their design involves a much larger mass of air bypassing the core so they can benefit from these effects, while in military aircraft, where noise and efficiency are less important compared to performance and drag, a smaller amount of air typically bypasses the core.
+Alan Arnold Griffith published ''An Aerodynamic Theory of Turbine Design'' in 1926 leading to experimental work at the RAE.
+The pressure is the highest air pressure in the engine.
+Therefore, ramjet engines are limited to approximately Mach 5.
+This is primarily because rockets almost universally use dense liquid or solid reaction mass which gives a much smaller volume and hence the pressurization system that supplies the nozzle is much smaller and lighter for the same performance.
+Thrust augmentation of existing afterburning engine installations for special short-duration tasks has been the subject of studies for launching small payloads into low earth orbits using aircraft such as McDonnell Douglas F-4 Phantom II, McDonnell Douglas F-15 Eagle, Dassault Rafale and Mikoyan MiG-31, and also for carrying experimental packages to high altitudes  using a Lockheed SR-71.
+None were entirely successful and the N.1 ended up being slower than the same design with a traditional engine and propeller combination.
+A propfan engine (also called "unducted fan", "open rotor", or "ultra-high bypass") is a jet engine that uses its gas generator to power an exposed fan, similar to turboprop engines.
+By the 1950s the jet engine was almost universal in combat aircraft, with the exception of cargo, liaison and other specialty types.
+Gas turbine and ram powered engines differ, however, in how they compress the incoming airflow.
+They have an upstream compressor coupled to a downstream turbine with a combustion chamber in-between.
+Whittle was unable to interest the government in his invention, and development continued at a slow pace.
+This only happens if the nozzle exit area is the correct value for the nozzle pressure ratio (npr).
+Other underexpanded examples were the XB-70 and SR-71.

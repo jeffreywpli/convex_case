@@ -1,0 +1,200 @@
+Close your eyelids, then periodically rapidly blink open and closed.
+By default, SDDS units use an onboard Sony Cinema Sound Processor, and when the system is set up in this manner, the theatre's entire sound system can be equalized in the digital domain.
+CDS was available on both 35&nbsp;mm and 70&nbsp;mm films.
+Also, the geometry of the theater and screen are more amenable to inclusion within a newly constructed but otherwise conventional multiple theater complex than is the dome style theater.
+Nowadays film projectors are considered obsolete as high-resolution digital projectors offer many advantages over traditional film units.
+It also provides sufficient drag to prevent film motion during the frame display, while still allowing free motion under control of the intermittent mechanism.
+A clean projection booth kept at the proper humidity is of great importance, as are cleaning devices that can remove dirt from the film print as it plays.
+The Hobbit was shot at 48 frames/sec and projected at the higher frame rate at specially equipped theaters.
+They set that as the sound speed at which a satisfactory reproduction and amplification of sound could be conducted.
+1953 saw the development of wide screen films using special lenses for filming and projection.
+When reel 2 on projector "B" is finished, the changeover switches the live show from projector "B" back to projector "A," and so on for the rest of the show.
+16mm projectors are converted to 9,5mm and it is still possible to buy film stock (from the French Color City company).
+This pawl advances only when the film is to be moved to the next image.
+A single image of the series of images comprising the movie is positioned and held flat within an aperture called the gate.
+Due to their relatively low resolution (usually only 2K), the images at the time showed pixelization blocks in some scenes, much like images on early widescreen televisions.
+As with motion picture cameras, the intermittent motion of the gate requires that there be loops above and below the gate in order to serve as a buffer between the constant speed enforced by the sprockets above and below the gate and the intermittent motion enforced at the gate.
+After another ten and a half feet (3.2 m) of film is shown (seven seconds at 24 frames/sec), the changeover cue should appear, which signals the projectionist to actually make the changeover.
+For techniques used to display pictures with a three-dimensional appearance, see the 3-D film article for some movie history and the stereoscopy article for technical information.
+To prevent having to interrupt the show when one reel ends and the next is mounted, two projectors are used in what is known as a "changeover system," after the switching mechanism that operates between the end of one reel on the first projector and the beginning of the next reel on the second projector.
+When the projectionist removes a finished reel from the projector it is "tails out," and needs to be rewound before the next show.
+16&nbsp;mm enjoys widespread use today as a format for short films, independent features and music videos, being a relatively economical alternative to 35&nbsp;mm.
+Before the advent of certain wide screen technologies, lenses always reproduced the exact proportions of the film image onto the screen.
+Variable area does have slightly less frequency response than variable density, but because of the grain and variable infrared absorption of various film stocks, variable density has a lower signal-to-noise ratio.
+Optical stereo is recorded and read through a bilateral variable area track, recorded using Dolby Stereo matrix encoding and Dolby noise reduction.
+exposing the other side.
+Aspect ratios are controlled by the lens with the appropriate aperture plate, a piece of metal with a precisely cut rectangular hole in the middle of equivalent aspect ratio.
+The most popular home content were comedic shorts (typically less than 20 minutes in length in the original release) and bundles of cartoons previously seen in movie theaters.
+Rewinding risks rubbing the film against itself, which can cause scratching of the film and smearing of the emulsion which carries the pictures.
+Each spool requires its own motor in order to set proper tensioning for the film, since it has to travel (relatively) much further between the projector film transport and the spools.
+As each reel is taken off of the projector, it must be re-wound onto another empty reel.
+In a variant called SR-D EX, the left and right surround channels can be dematrixed into left, right, and back surround, using a matrix system similar to Dolby Pro Logic.
+SDDS was the least commercially successful of the three competing digital sound systems for 35mm film.
+Different lenses are used for different aspect ratios.
+Digital sound heads are usually above the gate.
+35&nbsp;mm film is typically run vertically through the camera and projector.
+In a theater setting there is often a separate machine for rewinding reels.
+A more sophisticated movie projector was invented by Frenchman Louis Le Prince while working in Leeds.
+This is very useful when dealing with the mass crowds that an extremely popular film may generate in the first few days of showing, as it allows for a single print to serve more patrons.
+The additional two tracks are for an extra pair of screen channels (Left Center and Right Center) located between the 3 regular screen channels (Left, Center and Right).
+It became very popular in Europe over the next few decades and is still used by a small number of enthusiasts today.
+Striped magnetic film is motion picture film in which 'stripes' of magnetic oxide are placed on the film between the sprocket holes and the edge of the film, and sometimes also between the sprocket holes and the image.
+A positive curvature lens concentrates the reflected and direct light toward the film gate.
+It is the complete automation of projection that has enabled the modern "multiplex" cinema - a single site typically containing from 8 to 24 theaters with only a few projection and sound technicians, rather than a platoon of projectionists.
+The IMAX flat screen system uses large format film, a wide and deep screen, and close and quite steep "stadium" seating.
+It was the first digital system that could handle up to eight channels of sound.
+A '''movie projector''' is an opto-mechanical device for displaying motion picture film by projecting it onto a screen.
+The information is then decoded, decompressed and converted to analog; this can happen either in a separate Dolby Digital processor that feeds signals to the cinema sound processor, or digital decoding can be built into the cinema processor.One disadvantage of this system is if the digital printing is not entirely within the space between the sprocket holes;if the track was off a bit on either the top or the bottom,the sound track would be unplayable,and a replacement reel would have to be ordered.
+Three or more platters are stacked together to create a platter system.
+In 35&nbsp;mm, this can be mono or stereo, on the left side of the projected image, with the sound head 21 frames after the gate
+A rotating petal or gated cylindrical shutter interrupts the emitted light during the time the film is advanced to the next frame.
+If the two reels are synced, there should be one frame of "beep" sound exactly on the "2" frame of the countdown - 2 seconds or 48 frames before the picture start.
+This technique was first introduced in September, 1953 by Hazard E. Reeves for Cinemascope.
+This allows the whole spool to be immediately rewound after a showing; the extra two spools on the other side allow for a film to be shown while another is being rewound or even made up directly onto the tower.
+However 70mm film continued to be used for prestigious "roadshow" screenings until the introduction of digital sound on 35mm film in the early 1990s removed one of the major justifications for using this expensive format.
+As the photocell picks up the light in varying intensities, the electricity produced is intensified by an amplifier, which in turn powers a loudspeaker, where the electrical impulses are turned into air vibrations and thus, sound waves.
+It premiered with the film ''Dick Tracy'' and was used with several other films, such as ''Days of Thunder'' and ''Terminator 2: Judgement Day''.
+Because of this, care must be taken in inspecting a film so that it should not break in the gate and be damaged, particularly if it is flammable cellulose nitrate film stock.
+The stop-motion images were initially painted onto the glass, as silhouettes.
+The plate also has spring-loaded runners to help hold film while in place and advance it during motion.
+This means that a film print carrying all three of these formats (and the analog optical format, usually Dolby SR) can be played in whichever format the theater is equipped to handle.
+A changeover with this system is often clearly visible as a wipe on the screen.
+The disadvantages of the platter system are that the film can acquire diagonal scratches on it if proper care is not taken while threading film from platter to projector, and the film has more opportunity to collect dust and dirt as long lengths of film are exposed to the air.
+In 1888, he used an updated version of his camera to film the first ever motion picture, the ''Roundhay Garden Scene''.
+Although magnetic audio was of excellent quality it also had significant disadvantages.
+(See Frame rate and Flicker fusion threshold.)
+The space between solid points represented amplitude and was picked up by the photo-electric cell on the other side of a steady, thin beam of light being shined through it.
+The wide image is compressed horizontally in half onto the film in the camera using additional cylindrical elements within the lens (known as "scope" in theater projection parlance), with a corresponding lens used in the projector to expand the image to the wide screen.
+The 16&nbsp;mm film is then split lengthwise into two 8&nbsp;mm pieces that are spliced to make a single projectable film with sprockets holes on one side.
+In the 1970s and early 1980s, optical sound Super-8&nbsp;mm copies were produced mainly for airline in-flight movies.
+The unexposed film is supplied in the 8&nbsp;mm width, not split during processing as is the earlier 8&nbsp;mm.
+Each of these stripes has one channel of the audio recorded on it.
+The two-reel system was used almost universally for movie theaters before the advent of the single-reel system in order to be able to show feature-length films.
+CDS did not achieve widespread use and ultimately failed.
+Sony ceased the sale of SDDS processors in 2001-2002.
+The projector operator operates two projectors, starting the first reel of the show on projector "A."
+While neither a technical nor a commercial success, the business model survives as implemented by the documentary production, limited release locations, and long running exhibitions of IMAX dome movies.
+The extra five millimeters of film accommodated the soundtrack, usually a six track magnetic stripe.
+The audio data in an SDDS track is compressed in the 20-bit ATRAC2 compression scheme at a ratio of about 4.5:1.
+70&nbsp;mm film is also used in both the flat and domed IMAX projection system.
+A critical part of understanding these visual perception phenomena is that the eye ''is not a camera'', i.e.
+The single reel system can allow for the complete automation of the projection booth operations, given the proper auxiliary equipment.
+This was introduced in 1952 with Cinerama, holding six tracks of stereophonic sound.
+Film could also be pre-striped for direct sound recording in suitably equipped cameras for later projection.
+Film prints equipped with CDS did not have the conventional analog optical or magnetic soundtracks to serve as a back-up in case the digital sound was unreadable.
+If done properly, a changeover should be virtually unnoticeable to an audience.
+Films are identified as "short subjects," taking one reel or less of film, "two-reelers," requiring two reels of film (such as some of the early Laurel & Hardy, 3 Stooges, and other comedies), and "features," which can take any number of reels (although most are limited to 1½ to 2 hours in length, enabling the theater to have multiple showings throughout the day and evening, each showing with a feature, commercials, and intermission to allow the audiences to change).
+Some projectors can even accommodate up to 6000 feet (1,830 m), which minimizes the number of changeovers (see below) in a showing.
+The multiplex also offers a great amount of flexibility to a theater operator, enabling theaters to exhibit the same popular production in more than one auditorium with staggered starting times.
+Over 300,000 projectors were produced and sold mainly in France and England, and many commercial features were available in the format.
+The film being wound on the takeup reel is being wound "head in, tails out."
+Optical sound constitutes the recording and reading of amplitude based on the amount of light that is projected through a soundtrack area on a film using an illuminating light or laser and a photocell or photodiode.
+This large capacity alleviates the need for a changeover on an average-length feature; all of the reels are spliced together into one giant one.
+Today, this system is usually used only for very low-budget or student productions, or for screening rough cuts of films before the creation of a final married print.
+1930–1960), "going to the movies" meant seeing a short subject (a newsreel, short documentary, a "2-reeler," etc.
+The advantage of a platter is that the film need not be rewound after each show, which can save labor.
+It also prevents the lens from scarring or cracking from excessive heat.
+Some productions intended for 35&nbsp;mm anamorphic release were also released using 70&nbsp;mm film stock.
+Showscan and Maxivision) which project at higher rates—60 frames/sec for Showscan and 48 for Maxivision.
+The intermittent movement in these projectors is usually provided by a Geneva drive, also known as the Maltese Cross mechanism.
+Usually there's an audio POP that play 48 frames (2 seconds at 24 frame per second) before first frame of action (FFOA) that helps to sync audio and video during printing processes or postproduction.
+The field of view is tilted, as is the projection hemisphere, so one may view a portion of the ground in the foreground.
+These dome theaters are mostly located in large and prosperous science and technology museums.
+As this required specific projectors it was largely unsuccessful as a presentation method while remaining attractive as filming, intermediate, and source for production printing and as an intermediate step in special effects to avoid film granularity, although the latter is now supplanted by digital methods.
+Dolby Digital officially premiered with the film ''Batman Returns'', but it was earlier tested at some screenings of ''Star Trek VI: The Undiscovered Country''.
+The projectionist usually uses a separate rewind machine and a spare empty reel, and rewinds the film so it is "head out," ready to project again for the next show.
+The viewer does not see the transition, thus tricking the brain into believing a moving image is on screen.
+In 1888 Le Prince took out a patent for a 16-lens device that combined a motion picture camera with a projector.
+The information is decoded and decompressed before being passed along to the cinema sound processor.
+The most common theater installation would use dual gauge 35/70mm projectors.
+They also allow for much easier, less expensive, and more reliable storage and distribution of content, including the ability to display live broadcasts.
+The tower system largely resembles the two-reel system, except in that the tower itself is generally a separate piece of equipment used with a slightly modified standard projector.
+All films, even those in the standard Academy ratio, have extra image on the frame that is meant to be masked off in the projection.
+Release prints with Dolby Digital always include an analog Dolby Stereo soundtrack with Dolby SR noise reduction, thus these prints are known as Dolby SR-D prints.
+As each spool gains or loses film, the tension must be periodically checked and adjusted so that the film can be transported on and off the spools without either sagging or snapping.
+It is often referred to as 65/70, as the camera uses film 65&nbsp;mm wide, but the projection prints are 70&nbsp;mm wide.
+By 2009, movie theatres started replacing the film projectors with digital projectors.
+This showed some commercial success as a limited location (only in major cities) exhibition of the technology in ''This is Cinerama'', but the only memorable story-telling film made for this technology was ''How the West Was Won'', widely seen only in its Cinemascope re-release.
+A second series of discs, made in 1892–94, used outline drawings printed onto the discs photographically, then colored by hand.
+The advent of 35&nbsp;mm prints with digital soundtracks in the 1990s largely supplanted the widespread release of the more expensive 70&nbsp;mm prints.
+The way the film is fed from the platter to the projector is not unlike an eight-track audio cartridge.
+The Lumière brothers invented the first successful movie projector.
+Magnetic sound prints were expensive, 35mm magnetic prints cost roughly twice as much as optical sound prints, whilst 70mm prints could cost up to 15 times as much.
+The alternative and ultimately the successor of variable density has been the ''variable area'' track, in which a clear, vertical waveform against black represents the sound, and the width of the waveform is equivalent to the amplitude.
+thread a single length of film through multiple projectors.
+Magnetic stripes could be added to carry encoded sound to be added after film development.
+Stereophonic releases throughout 1953 also used an interlocked full-coat for three-channel stereophonic sound.
+When Warner Bros. and Western Electric were trying to find the proper projection speed for the new sound pictures, Western Electric went to the Warner Theater in LA and noted the average speed at which films were projected there.
+If done fast enough you will be able to randomly "trap" the image between frames, or during shutter motion.
+Because a single film reel does not contain enough film to show an entire feature, the film is distributed on multiple reels.
+This is similar to the claw mechanism in a motion picture camera.
+The effect is to fill the visual field to a greater degree than is possible with conventional wide screen systems.
+Smooth wheels with triangular pins called sprockets engage perforations punched into one or both edges of the film stock.
+Each disc can hold slightly over 90 minutes of sound, so longer films will require a second disc.
+Most of the platters in a platter system will be occupied by film prints; whichever platter happens to be empty serves as the "take-up reel" to receive the film that is playing from another platter.
+Created by Kodak and ORC (Optical Radiation Corporation), Cinema Digital Sound was the first attempt to bring multi-channel digital sound to first-run theaters.
+In 2015, numerous popular filmmakers—including Quentin Tarantino and Christopher Nolan—lobbied large studios to commit to purchase a minimum amount of 35 mm film from Kodak.
+Generally, the frame rate of 16 frames per second (frame/s) is regarded as the lowest frequency at which continuous motion is perceived by humans.
+While this reel is being shown, the projectionist threads the second reel on projector "B."
+By 2006, the advent of much higher 4K resolution digital projection had removed any traces of pixelization.
+This 35mm four-track magnetic sound format was used from 1954 through 1982 for "roadshow" screenings of big-budget feature films.
+In most cases this is a reflective surface which may be either aluminized (for high contrast in moderate ambient light) or a white surface with small glass beads (for high brilliance under dark conditions).
+DTS was premiered on ''Jurassic Park''.
+The cinematograph was also exhibited at the Paris Exhibition of 1900.
+Of the three digital formats currently in use, DTS is the only one that has been used with 70&nbsp;mm presentations.
+In the gate of the projector head, there is no space for a reader, and the film is not travelling smoothly at the gate position.
+Developed by Kodak, this film stock uses very small sprocket holes close to the edge that allow more of the film stock to be used for the images.
+The film winds through a series of rollers from the platter stack to the projector, through the projector, through another series of rollers back to the platter stack, and then onto the platter serving as the take-up reel.
+In the case of a double feature, each film plays from a full platter onto an empty platter, swapping positions on the platter stack throughout the day.
+This cue signals the projectionist to start the motor of the projector containing the next reel.
+The gauge is still alive today.
+A bit for bit version is used on Blu-ray Discs and HD DVDs called Dolby TrueHD.
+Dolby Digital data is printed in the spaces between the perforations on the soundtrack side of the film, 26 frames before the picture.
+It also moves in a discrete amount at a time, equal to the number of perforations that make up a frame (4 for 35&nbsp;mm, 5 for 70&nbsp;mm).
+A 70&nbsp;mm print made from a 35&nbsp;mm negative is significantly better in appearance than an all-35&nbsp;mm process, and allowed for a release with 6 track magnetic audio.
+In the mid-1950s the VistaVision system presented wide screen movies in which the film moved horizontally, allowing much more film to be used for the image as this avoided the anamorphic reduction of the image to fit the frame width.
+The systems became more compact than the larger machines of four years earlier.
+Mechanical sequence when image is shown twice and then advanced.
+This was a popular format for audio-visual use in schools and as a high-end home entertainment system before the advent of broadcast television.
+The three formats that followed, Dolby Digital, DTS and SDDS, can co-exist with each other and the analog optical soundtrack on a single version of the film print.
+Even though this technology was soon made obsolete by video equipment, the majority of small-gauge films used magnetic sound rather than optical sound for a higher frequency range.
+Some projectors have a third, mechanically controlled douser that automatically closes when the projector slows down (called a "fire shutter" or "fire douser"), to protect the film if the projector stops while the first douser is still open.
+The pictures were privately exhibited in Hunslet.
+When this second cue appears, the projectionist has one and a half feet (457&nbsp;mm), or one second at 24 frame/s, to make the changeover.
+Speeds ranged from about 18 frame/s on up - sometimes even faster than modern sound film speed (24 frame/s).
+As the reel being shown approaches its end, the projectionist looks for cue marks at the upper-right corner of the picture.
+The zoopraxiscope projected images from rotating glass disks in rapid succession to give the impression of motion.
+The first commercial, public screening of cinematographic films happened in Paris on 28 December 1895.
+Most lamp houses in a professional theatrical setting produce sufficient heat to burn the film should the film remain stationary for more than a fraction of a second.
+Another disadvantage of not having an analog back-up track is that CDS required extra film prints be made for the theaters equipped to play CDS.
+These early projectors played the movie stored on a server and played back through the projector.
+(Interestingly this threshold varies across different species; a higher proportion of rod cells in the retina will create a higher threshold level.)
+Four tracks are present on the film: Left, Center, Right and Surround.
+Three types of DTS sound exist: DTS-ES (Extended Surround), an 8 channel digital system; DTS-6, a 6 track digital system, and a now-obsolete 4 channel system.
+The audio data in a DTS track is compressed in the 20-bit APTX-100 compression scheme at a ratio of about 4.5:1.
+35&nbsp;mm VistaVision was a wide screen orthographic system.
+Film format introduced by Pathé Frères in 1922 as part of the Pathé Baby amateur film system.
+In older theaters, there may be manually operated, sliding covers in front of the projection booth's windows.
+This system makes it possible to project a film multiple times without needing to rewind it.
+They made their first film, ''Sortie de l'usine Lumière de Lyon'', in 1894, which was publicly screened at L'Eden, La Ciotat a year later.
+As the pawl retreats for the next cycle it is drawn back and does not engage the film.
+Some projectors have a second, electrically controlled douser that is used for changeovers (sometimes called a "changeover douser" or "changeover shutter").
+When the first cue is seen, the motor of the starting projector is started.
+Dolby Digital produces 6 discrete channels.
+Prior to modern wide screen, the industry standard image ratio of width to height was 1.37:1.
+Outer sprockets rotate continuously while the frame advance sprockets are controlled by the mechanism shown - a Geneva drive.
+The feed and takeup reels are held vertically on the axis, except behind the projector, on oversized spools with 12,000 foot (3,660 m) capacity or about 133 minutes at 24 frame/s.
+), a cartoon, and the feature.
+A consumer version of Dolby Digital is also used on most DVDs, often at higher data rates than the original film.
+Although one-reel long-play systems tend to be more popular with the newer multiplexes, the two-reel system is still in significant use to this day.
+Twelve feet before the "first frame of action," Academy leaders have a "START" frame.
+For the 16&nbsp;mm projectors that were often used in schools and churches, the projector could be re-configured to rewind films.
+This will not work with television due to the persistence of the phosphors nor with LCD or DLP light projectors due to the continuity of image, although certain color artifacts may appear with some digital projection technologies.
+Usually these are dots or circles, although they can also be slashes.
+DTS-ES derives a back surround channel from the left surround and right surround channels using Dolby Pro Logic.
+If it doesn't occur within one second, the tail leader of the reel coming to an end will be projected on the screen.
+It was conceived initially as an inexpensive format to provide copies of commercially made films to home users.
+This technique is called anamorphic projection and various implementations have been marketed under several brand names, including CinemaScope, Panavision and Superscope, with Technirama implementing a slightly different anamorphic technique using vertical expansion to the film rather than horizontal compression.
+In 16&nbsp;mm, this optical soundtrack is a single mono track placed on the right side of the projected image, and the sound head is 26 frames after the gate.
+The first form of optical sound was represented by horizontal bands of clear (white) and solid (black) area.
+Since films are still transported in multiple reels they must be joined together when placed on the projector reel and taken apart when the film is to be returned to the distributor.

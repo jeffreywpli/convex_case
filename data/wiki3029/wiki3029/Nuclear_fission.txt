@@ -1,0 +1,200 @@
+The first fission bomb, codenamed "The Gadget", was detonated during the Trinity Test in the desert of New Mexico on July 16, 1945.
+The excess mass '''Δm'''&nbsp;=&nbsp;'''M'''&nbsp;–&nbsp;'''Mp''' is the invariant mass of the energy that is released as photons (gamma rays) and kinetic energy of the fission fragments, according to the mass-energy equivalence formula ''E''&nbsp;=&nbsp;''mc''2.
+On June 28, 1941, the Office of Scientific Research and Development was formed in the U.S. to mobilize scientific resources and apply the results of research to national defense.
+Development of nuclear weapons was the motivation behind early research into nuclear fission which the Manhattan Project during World War II (September 1, 1939–September 2, 1945) carried out most of the early scientific work on fission chain reactions, culminating in the three events involving fission bombs that occurred during the war.
+Instead, bombarding 238U with slow neutrons causes it to absorb them (becoming 239U) and decay by beta emission to 239Np which then decays again by the same process to 239Pu; that process is used to manufacture 239Pu in breeder reactors.
+The latter figure means that a nuclear fission explosion or criticality accident emits about 3.5% of its energy as gamma rays, less than 2.5% of its energy as fast neutrons (total of both types of radiation ~ 6%), and the rest as kinetic energy of fission fragments (this appears almost immediately when the fragments impact surrounding matter, as simple heat).
+The most common fission process is binary fission, and it produces the fission products noted above, at 95±15 and 135±15&nbsp;'''u'''.
+In wartime Germany, failure to appreciate the qualities of very pure graphite led to reactor designs dependent on heavy water, which in turn was denied the Germans by Allied attacks in Norway, where heavy water was produced.
+According to Frisch:
+Frisch suggested the process be named "nuclear fission," by analogy to the process of living cell division into two cells, which was then called binary fission.
+The possibility of isolating uranium-235 was technically daunting, because uranium-235 and uranium-238 are chemically identical, and vary in their mass by only the weight of three neutrons.
+After English physicist James Chadwick discovered the neutron in 1932, Enrico Fermi and his colleagues in Rome studied the results of bombarding uranium with neutrons in 1934.
+In anywhere from 2 to 4 fissions per 1000 in a nuclear reactor, a process called ternary fission produces three positively charged fragments (plus neutrons) and the smallest of these may range from so small a charge and mass as a proton (Z=1), to as large a fragment as argon (Z=18).
+With enough uranium, and with pure-enough graphite, their "pile" could theoretically sustain a slow-neutron chain reaction.
+In Birmingham, England, Frisch teamed up with Peierls, a fellow German-Jewish refugee.
+Bohr soon thereafter went from Princeton to Columbia to see Fermi.
+Also, an average of 2.5&nbsp;neutrons are emitted, with a mean kinetic energy per neutron of ~2&nbsp;MeV (total of 4.8&nbsp;MeV).
+Thus to slow down the secondary neutrons released by the fissioning uranium nuclei, Fermi and Szilard proposed a graphite "moderator," against which the fast, high-energy secondary neutrons would collide, effectively slowing them down.
+Large-scale natural uranium fission chain reactions, moderated by normal water, had occurred far in the past and would not be possible now.
+Once the nuclear lobes have been pushed to a critical distance, beyond which the short range strong force can no longer hold them together, the process of their separation proceeds from the energy of the (longer range) electromagnetic repulsion between the fragments.
+The fission of U235 by a slow neutron yields nearly identical energy to the fission of U238 by a fast neutron.
+Use of ordinary water (as opposed to heavy water) in nuclear reactors requires enriched fuel&nbsp;— the partial separation and relative enrichment of the rare 235U isotope from the far more common 238U isotope.
+For the same reason, larger nuclei (more than about eight nucleons in diameter) are less tightly bound per unit mass than are smaller nuclei; breaking a large nucleus into two or more intermediate-sized nuclei releases energy.
+The variation in specific binding energy with atomic number is due to the interplay of the two fundamental forces acting on the component nucleons (protons and neutrons) that make up the nucleus.
+Glenn Seaborg, Joseph W. Kennedy, Arthur Wahl, and Italian-Jewish refugee Emilio Segrè shortly thereafter discovered 239Pu in the decay products of 239U produced by bombarding 238U with neutrons, and determined it to be a fissile material, like 235U.
+After separation, the two drops would be driven apart by their mutual electric repulsion and would acquire high speed and hence a very large energy, about 200&nbsp;MeV in all; where could that energy come from?
+The liquid drop model of the atomic nucleus predicts equal-sized fission products as an outcome of nuclear deformation.
+Breeder reactors are a specialized form of research reactor, with the caveat that the sample being irradiated is usually the fuel itself, a mixture of 238U and 235U.
+This work was taken over by the U.S. Army Corps of Engineers in 1943, and known as the Manhattan Engineer District.
+In December, Werner Heisenberg delivered a report to the German Ministry of War on the possibility of a uranium bomb.
+Assuming that the cross section for fast-neutron fission of 235U was the same as for slow neutron fission, they determined that a pure 235U bomb could have a critical mass of only 6&nbsp;kg instead of tons, and that the resulting explosion would be tremendous.
+It is an exothermic reaction which can release large amounts of energy both as electromagnetic radiation and as kinetic energy of the fragments (heating the bulk material where fission takes place).
+However, neutrons almost invariably impact and are absorbed by other nuclei in the vicinity long before this happens (newly created fission neutrons move at about 7% of the speed of light, and even moderated neutrons move at about 8&nbsp;times the speed of sound).
+This makes possible a self-sustaining nuclear chain reaction that releases energy at a controlled rate in a nuclear reactor or at a very rapid uncontrolled rate in a nuclear weapon.
+When a uranium nucleus fissions into two daughter nuclei fragments, about 0.1 percent of the mass of the uranium nucleus appears as the fission energy of ~200&nbsp;MeV.
+(The high purity for carbon is required because many chemical impurities such as the boron-10 component of natural boron, are very strong neutron absorbers and thus poison the chain reaction and end it prematurely.)
+The experiment involved placing uranium oxide inside of an ionization chamber and irradiating it with neutrons, and measuring the energy thus released.
+Thus less energy is needed in the smaller nuclei and the difference to the state before is set free.
+But Joliot-Curie did not, and in April 1939 his team in Paris, including Hans von Halban and Lew Kowarski, reported in the journal ''Nature'' that the number of neutrons emitted with nuclear fission of 235U was then reported at 3.5 per fission.
+It was thus a possibility that the fission of uranium could yield vast amounts of energy for civilian or military purposes (i.e., electric power generation or atomic bombs).
+This extra energy results from the Pauli exclusion principle allowing an extra neutron to occupy the same nuclear orbital as the last neutron in the nucleus, so that the two form a pair.
+In 1911, Ernest Rutherford proposed a model of the atom in which a very small, dense and positively charged nucleus of protons (the neutron had not yet been discovered) was surrounded by orbiting, negatively charged electrons (the Rutherford model).
+However, much was still unknown about fission and chain reaction systems.
+So here was the source for that energy; it all fitted!
+Roosevelt ordered that a scientific committee be authorized for overseeing uranium work and allocated a small sum of money for pile research.
+The next day, the Fifth Washington Conference on Theoretical Physics began in Washington, D.C. under the joint auspices of the George Washington University and the Carnegie Institution of Washington.
+This energy release profile holds true for thorium and the various minor actinides as well.
+Nuclei are bound by an attractive nuclear force between nucleons, which overcomes the electrostatic repulsion between protons.
+The remaining energy to initiate fission can be supplied by two other mechanisms: one of these is more kinetic energy of the incoming neutron, which is increasingly able to fission a fissionable heavy nucleus as it exceeds a kinetic energy of one MeV or more (so-called fast neutrons).
+A nuclear bomb is designed to release all its energy at once, while a reactor is designed to generate a steady supply of useful power.
+Neutrino radiation is ordinarily not classed as ionizing radiation, because it is almost entirely not absorbed and therefore does not produce effects (although the very rare neutrino event is ionizing).
+See Fission products (by element) for a description of fission products sorted by element.
+Uranium-238, for example, has a near-zero fission cross section for neutrons of less than one MeV energy.
+In an atomic bomb, this heat may serve to raise the temperature of the bomb core to 100&nbsp;million kelvin and cause secondary emission of soft X-rays, which convert some of this energy to ionizing radiation.
+By contrast, most chemical oxidation reactions (such as burning coal or TNT) release at most a few eV per event.
+Under these conditions, the 6.5% of fission which appears as delayed ionizing radiation (delayed gammas and betas from radioactive fission products) contributes to the steady-state reactor heat production under power.
+Typically, reactors also require inclusion of extremely chemically pure neutron moderator materials such as deuterium (in heavy water), helium, beryllium, or carbon, the latter usually as graphite.
+The energy dynamics of pure fission bombs always remain at about 6% yield of the total in radiation, as a prompt result of fission.
+However, no odd-even effect is observed on fragment '''mass number''' distribution.
+The total rest masses of the fission products ('''Mp''') from a single reaction is less than the mass of the original fuel nucleus ('''M''').
+This energy, resulting from the neutron capture, is a result of the attractive nuclear force acting between the neutron and nucleus.
+Elemental isotopes that undergo induced fission when struck by a free neutron are called fissionable; isotopes that undergo fission when struck by a slow-moving thermal neutron are also called fissile.
+By coincidence, her nephew Otto Robert Frisch, also a refugee, was also in Sweden when Meitner received a letter from Hahn dated 19 December describing his chemical proof that some of the product of the bombardment of uranium with neutrons was barium.
+The two nuclei produced are most often of comparable but slightly different sizes, typically with a mass ratio of products of about 3 to 2, for common fissile isotopes.
+Bombarding 238U with fast neutrons induces fissions, releasing energy as long as the external neutron source is present.
+So-called neutron bombs (enhanced radiation weapons) have been constructed which release a larger fraction of their energy as ionizing radiation (specifically, neutrons), but these are all thermonuclear devices which rely on the nuclear fusion stage to produce the extra radiation.
+These difficulties—among many others— prevented the Nazis from building a nuclear reactor capable of criticality during the war, although they never put as much effort as the United States into nuclear research, focusing on other technologies (see German nuclear energy project for more details).
+Eventually, in 1932, a fully artificial nuclear reaction and nuclear transmutation was achieved by Rutherford's colleagues Ernest Walton and John Cockcroft, who used artificially accelerated protons against lithium-7, to split this nucleus into two alpha particles.
+Several heavy elements, such as uranium, thorium, and plutonium, undergo both spontaneous fission, a form of radioactive decay and ''induced fission'', a form of nuclear reaction.
+...Lise Meitner... worked out that the two nuclei formed by the division of a uranium nucleus together would be lighter than the original uranium nucleus by about one-fifth the mass of a proton.
+No larger fragments than protons or helium nuclei (alpha particles) had ever been chipped away from nuclei, and to chip off a large number not nearly enough energy was available.
+Among the heavy actinide elements, however, those isotopes that have an odd number of neutrons (such as U-235 with 143 neutrons) bind an extra neutron with an additional 1 to 2 MeV of energy over an isotope of the same element with an even number of neutrons (such as U-238 with 146 neutrons).
+The products of nuclear fission, however, are on average far more radioactive than the heavy elements which are normally fissioned as fuel, and remain so for significant amounts of time, giving rise to a nuclear waste problem.
+*''breeder reactors'' are intended to produce nuclear fuels in bulk from more abundant isotopes.
+At three ore deposits at Oklo in Gabon, sixteen sites (the so-called Oklo Fossil Reactors) have been discovered at which self-sustaining nuclear fission took place approximately 2&nbsp;billion years ago.
+Such a reaction using neutrons was an idea he had first formulated in 1933, upon reading Rutherford's disparaging remarks about generating power from his team's 1932 experiment using protons to split lithium.
+The remainder of the delayed energy (8.8 MeV/202.5 MeV&nbsp;= 4.3% of total fission energy) is emitted as antineutrinos, which as a practical matter, are not considered "ionizing radiation."
+Almost all of the rest of the radiation (6.5% delayed beta and gamma radiation) is eventually converted to heat in a reactor core or its shielding.
+Looking further left on the curve of binding energy, where the fission products cluster, it is easily observed that the binding energy of the fission products tends to center around 8.5 MeV per nucleon.
+In a nuclear reactor or nuclear weapon, the overwhelming majority of fission events are induced by bombardment with another particle, a neutron, which is itself produced by prior fission events.
+However, in nuclear reactors, the fission fragment kinetic energy remains as low-temperature heat, which itself causes little or no ionization.
+Apart from fission induced by a neutron, harnessed and exploited by humans, a natural form of spontaneous radioactive decay (not requiring a neutron) is also referred to as fission, and occurs especially in very high-mass-number isotopes.
+The fission reaction also releases ~7&nbsp;MeV in prompt gamma ray photons.
+In engineered nuclear devices, essentially all nuclear fission occurs as a "nuclear reaction" — a bombardment-driven process that results from the collision of two subatomic particles.
+The total ''prompt fission'' energy amounts to about 181 MeV, or ~ 89% of the total energy which is eventually released by fission over time.
+A theory of the fission based on shell model has been formulated by Maria Goeppert Mayer.
+The exact isotope which is fissioned, and whether or not it is fissionable or fissile, has only a small impact on the amount of energy released.
+Two other fission bombs, codenamed "Little Boy" and "Fat Man", were used in combat against the Japanese cities of Hiroshima and Nagasaki in on August 6 and 9, 1945 respectively.
+Nuclear fission of heavy elements produces energy because the specific binding energy (binding energy per mass) of intermediate-mass nuclei with atomic numbers and atomic masses close to 62Ni and 56Fe is greater than the nucleon-specific binding energy of very heavy nuclei, so that energy is released when heavy nuclei are broken apart.
+Typical fission events release about two hundred million eV (200&nbsp;MeV) of energy for each fission event.
+Ironically, they were still officially considered "enemy aliens" at the time.
+No, said Lise Meitner; Hahn was too good a chemist for that.
+On 25 January 1939, a Columbia University team conducted the first nuclear fission experiment in the United States, which was done in the basement of Pupin Hall; the members of the team were Herbert L. Anderson, Eugene T. Booth, John R. Dunning, Enrico Fermi, G. Norris Glasoe, and Francis G. Slack.
+However, the binary process happens merely because it is the most probable.
+Both approaches were extremely novel and not yet well understood, and there was considerable scientific skepticism at the idea that they could be developed in a short amount of time.
+They had the idea of using a purified mass of the uranium isotope 235U, which had a cross section just determined, and which was much larger than that of 238U or natural uranium (which is 99.3% the latter isotope).
+Production of such materials at industrial scale had to be solved for nuclear power generation and weapons production to be accomplished.
+Nuclear fissions in fissile fuels are the result of the nuclear excitation energy produced when a fissile nucleus captures a neutron.
+In July 1945, the first atomic explosive device, dubbed "Trinity", was detonated in the New Mexico desert.
+Most nuclear fuels undergo spontaneous fission only very slowly, decaying instead mainly via an alpha-beta decay chain over periods of millennia to eons.
+Most of these models were still under the assumption that the bombs would be powered by slow neutron reactions—and thus be similar to a reactor undergoing a meltdown.
+The energy of nuclear fission is released as kinetic energy of the fission products and fragments, and as electromagnetic radiation in the form of gamma rays; in a nuclear reactor, the energy is converted to heat as the particles and gamma rays collide with the atoms that make up the reactor and its working fluid, usually water or occasionally heavy water or molten salts.
+Such devices use radioactive decay or particle accelerators to trigger fissions.
+The smallest of these fragments in ternary processes ranges in size from a proton to an argon nucleus.
+The remaining ~ 11% is released in beta decays which have various half-lives, but begin as a process in the fission products immediately; and in delayed gamma emissions associated with these beta decays.
+Nuclear fission can occur without neutron bombardment as a type of radioactive decay.
+Just as the term nuclear "chain reaction" would later be borrowed from chemistry, so the term "fission" was borrowed from biology.
+For example, 238U, the most abundant form of uranium, is fissionable but not fissile: it undergoes induced fission when impacted by an energetic neutron with over 1&nbsp;MeV of kinetic energy.
+If no additional energy is supplied by any other mechanism, the nucleus will not fission, but will merely absorb the neutron, as happens when U-238 absorbs slow and even some fraction of fast neutrons, to become U-239.
+Thus, in any fission event of an isotope in the actinide's range of mass, roughly 0.9 MeV is released per nucleon of the starting element.
+While overheating of a reactor can lead to, and has led to, meltdown and steam explosions, the much lower uranium enrichment makes it impossible for a nuclear reactor to explode with the same destructive power as a nuclear weapon.
+The more sophisticated nuclear shell model is needed to mechanistically explain the route to the more energetically favorable outcome, in which one fission product is slightly smaller than the other.
+In nuclear fission events the nuclei may break into any combination of lighter nuclei, but the most common event is not fission to equal mass nuclei of about mass&nbsp;120; the most common event (depending on isotope and process) is a slightly unequal fission in which one daughter nucleus has a mass of about 90 to 100&nbsp;'''u''' and the other the remaining 130 to 140&nbsp;'''u'''.
+However, this process cannot happen to a great extent in a nuclear reactor, as too small a fraction of the fission neutrons produced by any type of fission have enough energy to efficiently fission U-238 (fission neutrons have a mode energy of 2 MeV, but a median of only 0.75 MeV, meaning half of them have less than this insufficient energy).
+Simultaneously, they communicated these results to Meitner in Sweden.
+The origin of this energy is the nuclear force, which intermediate-sized nuclei allows to act more efficiently, because each nucleon has more neighbors which are within the short range attraction of this force.
+This ancient process was able to use normal water as a moderator only because 2&nbsp;billion years before the present, natural uranium was richer in the shorter-lived fissile isotope 235U (about 3%), than natural uranium available today (which is only 0.7%, and must be enriched to 3% to be usable in light-water reactors).
+The discovery of nuclear fission occurred in 1938 in the buildings of Kaiser Wilhelm Society for Chemistry, today part of the Free University of Berlin, following nearly five decades of work on the science of radioactivity and the elaboration of new nuclear physics that described the components of atoms.
+Fermi concluded that his experiments had created new elements with 93 and 94 protons, which the group dubbed ausonium and hesperium.
+In 1917, Rutherford was able to accomplish transmutation of nitrogen into oxygen, using alpha particles directed at nitrogen 14N + α → 17O + p.&nbsp; This was the first observation of a nuclear reaction, that is, a reaction in which particles from one decay are used to transform another atomic nucleus.
+An assembly that supports a sustained nuclear chain reaction is called a critical assembly or, if the assembly is almost entirely made of a nuclear fuel, a critical mass.
+The most common small fragments, however, are composed of 90% helium-4 nuclei with more energy than alpha particles from alpha decay (so-called "long range alphas" at ~ 16 MeV), plus helium-6 nuclei, and tritons (the nuclei of tritium).
+In a reactor that has been operating for some time, the radioactive fission products will have built up to steady state concentrations such that their rate of decay is equal to their rate of formation, so that their fractional total contribution to reactor heat (via beta decay) is the same as these radioisotopic fractional contributions to the energy of fission.
+Power reactors generally convert the kinetic energy of fission products into heat, which is used to heat a working fluid and drive a heat engine that generates mechanical or electrical power.
+Critical fission reactors are the most common type of nuclear reactor.
+(The award was actually given to Hahn in 1945, as "the Nobel Committee for Chemistry decided that none of the year's nominations met the criteria as outlined in the will of Alfred Nobel."
+Such neutrons would escape rapidly from the fuel and become a free neutron, with a mean lifetime of about 15&nbsp;minutes before decaying to protons and beta particles.
+The reason is that energy released as antineutrinos is not captured by the reactor material as heat, and escapes directly through all materials (including the Earth) at nearly the speed of light, and into interplanetary space (the amount absorbed is minuscule).
+Most fissions are binary fissions (producing two charged fragments), but occasionally (2 to 4 times per 1000 events), ''three'' positively charged fragments are produced, in a ternary fission.
+Meitner, an Austrian Jew, lost her citizenship with the "Anschluss", the occupation and annexation of Austria into Nazi Germany in March 1938, but she fled in July 1938 to Sweden and started a correspondence by mail with Hahn in Berlin.
+For uranium-235 (total mean fission energy 202.5&nbsp;MeV), typically ~169&nbsp;MeV appears as the kinetic energy of the daughter nuclei, which fly apart at about 3% of the speed of light, due to Coulomb repulsion.
+The top-secret Manhattan Project, as it was colloquially known, was led by General Leslie R. Groves.
+But there was another problem.
+It is enough to deform the nucleus into a double-lobed "drop," to the point that nuclear fragments exceed the distances at which the nuclear force can hold two groups of charged nucleons together and, when this happens, the two fragments complete their separation and then are driven further apart by their mutually repulsive charges, in a process which becomes irreversible with greater and greater distance.
+Perhaps a drop could divide itself into two smaller drops in a more gradual manner, by first becoming elongated, then constricted, and finally being torn rather than broken in two?
+(The amount actually turned out to be 15&nbsp;kg, although several times this amount was used in the actual uranium (Little Boy) bomb).
+In February 1940 they delivered the Frisch–Peierls memorandum.
+Work by Henri Becquerel, Marie Curie, Pierre Curie, and Rutherford further elaborated that the nucleus, though tightly bound, could undergo different forms of radioactive decay, and thereby transmute into other elements.
+The fission of a heavy nucleus requires a total input energy of about 7 to 8 million electron volts (MeV) to initially overcome the nuclear force which holds the nucleus into a spherical or nearly spherical shape, and from there, deform it into a two-lobed ("peanut") shape in which the lobes are able to continue to separate from each other, pushed by their mutual positive charge, in the most common process of binary fission (two positively charged fission products + neutrons).
+However, not all were convinced by Fermi's analysis of his results.
+Some work in nuclear transmutation had been done.
+Marie Curie had been separating barium from radium for many years, and the techniques were well-known.
+In August 1945, two more atomic devices &ndash; "Little Boy", a uranium-235 bomb, and "Fat Man", a plutonium bomb &ndash; were used against the Japanese cities of Hiroshima and Nagasaki.
+The most common nuclear fuels are 235U (the isotope of uranium with an atomic mass of 235 and of use in nuclear reactors) and 239Pu (the isotope of plutonium with an atomic mass of 239).
+The chemical element isotopes that can sustain a fission chain reaction are called nuclear fuels, and are said to be ''fissile''.
+There, the news on nuclear fission was spread even further, which fostered many more experimental demonstrations.
+Simultaneous work by Szilard and Walter Zinn confirmed these results.
+In nuclear reactions, a subatomic particle collides with an atomic nucleus and causes changes to it.
+The working fluid is usually water with a steam turbine, but some designs use other materials such as gaseous helium.
+This would result in the production of heat, as well as the creation of radioactive fission products.
+In America, J.&nbsp;Robert Oppenheimer thought that a cube of uranium deuteride 10&nbsp;cm on a side (about 11&nbsp;kg of uranium) might "blow itself to hell."
+However, too few of the neutrons produced by 238U fission are energetic enough to induce further fissions in 238U, so no chain reaction is possible with this isotope.
+About 6 MeV of the fission-input energy is supplied by the simple binding of an extra neutron to the heavy nucleus via the strong force; however, in many fissionable isotopes, this amount of energy is not enough for fission.
+In short, Meitner and Frisch had correctly interpreted Hahn's results to mean that the nucleus of uranium had split roughly in half.
+But how could barium be formed from uranium?
+The pile would use natural uranium as fuel.
+If enough nuclear fuel is assembled in one place, or if the escaping neutrons are sufficiently contained, then these freshly emitted neutrons outnumber the neutrons that escape from the assembly, and a ''sustained nuclear chain reaction'' will take place.
+It is also difficult to extract useful power from a nuclear bomb, although at least one rocket propulsion system, Project Orion, was intended to work by exploding fission bombs behind a massively padded and shielded spacecraft.
+*''power reactors'' are intended to produce heat for nuclear power, either as part of a generating station or a local power system such as a nuclear submarine.
+Rabi said he told Enrico Fermi; Fermi gave credit to Lamb.
+Niels Bohr improved upon this in 1913 by reconciling the quantum behavior of electrons (the Bohr model).
+For example, Little Boy weighed a total of about four tons (of which 60&nbsp;kg was nuclear fuel) and was  long; it also yielded an explosion equivalent to about 15&nbsp;kilotons of TNT, destroying a large part of the city of Hiroshima.
+This would be extremely explosive, a true "atomic bomb."
+Fission is a form of nuclear transmutation because the resulting fragments are not the same element as the original atom.
+The word "critical" refers to a cusp in the behavior of the differential equation that governs the number of free neutrons present in the fuel: if less than a critical mass is present, then the amount of neutrons is determined by radioactive decay, but if a critical mass or more is present, then the amount of neutrons is controlled instead by the physics of the chain reaction.
+For this reason, the reactor decay heat output begins at 6.5% of the full reactor steady state fission power, once the reactor is shut down.
+Barium had an atomic mass 40% less than uranium, and no previously known methods of radioactive decay could account for such a large difference in the mass of the nucleus.
+This is an important effect in all reactors where fast neutrons from the fissile isotope can cause the fission of nearby 238U nuclei, which means that some small part of the 238U is "burned-up" in all nuclear fuels, especially in fast breeder reactors that operate with higher-energy neutrons.
+In England, James Chadwick proposed an atomic bomb utilizing natural uranium, based on a paper by Rudolf Peierls with the mass needed for critical state being 30–40&nbsp;tons.
+Fermi had shown much earlier that neutrons were far more effectively captured by atoms if they were of low energy (so-called "slow" or "thermal" neutrons), because for quantum reasons it made the atoms look like much larger targets to the neutrons.
+This tendency for fission product nuclei to beta-decay is the fundamental cause of the problem of radioactive high level waste from nuclear reactors.
+In 2013, there are 437 reactors in 31 countries.
+The results suggested the possibility of building nuclear reactors (first called "neutronic reactors" by Szilard and Fermi) and even nuclear bombs.
+The President received the letter on 11&nbsp;October 1939&nbsp;— shortly after World War II began in Europe, but two years before U.S. entry into it.
+She and Frisch correctly interpreted the results as evidence of nuclear fission.
+For proving that the barium resulting from his bombardment of uranium with neutrons was the product of nuclear fission, Hahn was awarded the Nobel Prize for Chemistry in 1944 (the sole recipient) "for his discovery of the fission of heavy nuclei".
+The feat was popularly known as "splitting the atom", although it was not the modern nuclear fission reaction later discovered in heavy elements, which is discussed below.
+The electrostatic repulsion is of longer range, since it decays by an inverse-square rule, so that nuclei larger than about 12&nbsp;nucleons in diameter reach a point that the total electrostatic repulsion overcomes the nuclear force and causes them to be spontaneously unstable.
+In such a reaction, free neutrons released by each fission event can trigger yet more events, which in turn release more neutrons and cause more fissions.
+But the explosive effects of nuclear fission chain reactions can be reduced by using substances like moderators which slow down the speed of secondary neutrons.
+In the summer, Fermi and Szilard proposed the idea of a nuclear reactor (pile) to mediate this process.
+In September, Fermi assembled his first nuclear "pile" or reactor, in an attempt to create a slow neutron-induced chain reaction in uranium, but the experiment failed to achieve criticality, due to lack of proper materials, or not enough of the proper materials which were available.
+Bohr grabbed him by the shoulder and said: “Young man, let me explain to you about something new and exciting in physics.” It was clear to a number of scientists at Columbia that they should try to detect the energy released in the nuclear fission of uranium from neutron bombardment.
+Also because of the short range of the strong binding force, large stable nuclei must contain proportionally more neutrons than do the lightest elements, which are most stable with a '''1&nbsp;to&nbsp;1 ratio''' of protons and neutrons.
+Other sites, notably the Berkeley Radiation Laboratory and the Metallurgical Laboratory at the University of Chicago, played important contributing roles.
+Overall scientific direction of the project was managed by the physicist J. Robert Oppenheimer.
+Devices that produce engineered but non-self-sustaining fission reactions are subcritical fission reactors.
+Frisch was skeptical, but Meitner trusted Hahn's ability as a chemist.
+Finally, carbon had never been produced in quantity with anything like the purity required of a moderator.
+But nuclei differed from ordinary drops in one important way: they were electrically charged, and that was known to counteract the surface tension.
+In the United States, an all-out effort for making atomic weapons was begun in late 1942.
+In this case, the first experimental atomic reactors would have run away to a dangerous and messy "prompt critical reaction" before their operators could have manually shut them down (for this reason, designer Enrico Fermi included radiation-counter-triggered control rods, suspended by electromagnets, which could automatically drop into the center of Chicago Pile-1).
+The result is two fission fragments moving away from each other, at high energy.
+The Einstein–Szilárd letter suggested the possibility of a uranium bomb deliverable by ship, which would destroy "an entire harbor and much of the surrounding countryside."
+Meanwhile, the possibility of ''combining'' nuclei—nuclear fusion—had been studied in connection with understanding the processes which power stars.
+For a description of their social, political, and environmental aspects, see nuclear power.
+The amount of free energy contained in nuclear fuel is millions of times the amount of free energy contained in a similar mass of chemical fuel such as gasoline, making nuclear fission a very dense source of energy.
+(For example, by alpha decay: the emission of an alpha particle—two protons and two neutrons bound together into a particle identical to a helium nucleus.)
+The actual mass of a ''critical mass'' of nuclear fuel depends strongly on the geometry and surrounding materials.
+Fission products have, on average, about the same ratio of neutrons and protons as their parent nucleus, and are therefore usually unstable to beta decay (which changes neutrons to protons) because they have proportionally too many neutrons compared to stable isotopes of similar mass.

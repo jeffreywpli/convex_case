@@ -1,0 +1,200 @@
+Radiation therapy has several applications in non-malignant conditions, such as the treatment of trigeminal neuralgia, acoustic neuromas, severe thyroid eye disease, pterygium, pigmented villonodular synovitis, and prevention of keloid scar growth, vascular restenosis, and heterotopic ossification.
+The precise treatment intent (curative, adjuvant, neoadjuvant, therapeutic, or palliative) will depend on the tumor type, location, and stage, as well as the general health of the patient.
+From 2005 to 2010, a hospital in Missouri overexposed 76 patients (most with brain cancer) during a five-year period because new radiation equipment had been set up incorrectly.
+Examples are the infusion of metaiodobenzylguanidine (MIBG) to treat neuroblastoma, of oral iodine-131 to treat thyroid cancer or thyrotoxicosis, and of hormone-bound lutetium-177 and yttrium-90 to treat neuroendocrine tumors (peptide receptor radionuclide therapy).
+In 2002, the United States Food and Drug Administration (FDA) approved ibritumomab tiuxetan (Zevalin), which is an anti-CD20 monoclonal antibody conjugated to yttrium-90.
+: The salivary glands and tear glands have a radiation tolerance of about 30&nbsp;Gy in 2&nbsp;Gy fractions, a dose which is exceeded by most radical head and neck cancer treatments.
+This minimizes radiation exposure to health care personnel.
+The pattern of radiation delivery is determined using highly tailored computing applications to perform optimization and treatment simulation (Treatment Planning).
+This can help reduce the chance of surviving cancer cells dividing and growing in the intervals between each radiation therapy dose.
+Cobalt machines were relatively cheap, robust and simple to use, although due to its 5.27 year half-life the cobalt had to be replaced about every 5 years.
+The effect of radiotherapy on control of cancer has been shown to be limited to the first five years after surgery, particularly for breast cancer.
+Isotopes commonly used in the treatment of bone metastasis are strontium-89 and samarium (153Sm) lexidronam.
+Pelvic radiation disease includes radiation proctitis, producing bleeding, diarrhoea and urgency, and can also cause radiation cystitis when the bladder is affected.
+Dry mouth (xerostomia) and dry eyes (xerophthalmia) can become irritating long-term problems and severely reduce the patient's quality of life.
+Radiation-induced hypopituitarism mainly affects growth hormone and gonadal hormones.
+Auger therapy (AT) makes use of a very high dose of ionizing radiation in situ that provides molecular modifications at an atomic scale.
+'''Stereotactic body radiation therapy''' (SBRT) refers to one or several stereotactic radiation treatments with the body, such as the lungs.
+Studies found, for example, that the IQ of 5 year old children declined each year after treatment by several IQ points.
+In North America, Australia, and Europe, the typical fractionation schedule for adults is 1.8 to 2&nbsp;Gy per day, five days a week.
+Fractionation regimens are individualised between different radiation therapy centers and even between individual doctors.
+VMAT also has the potential to give additional advantages in patient treatment, such as reduced delivery time of radiation, compared with conventional static field intensity modulated radiotherapy (IMRT).
+Some types of cancer are notably radioresistant, that is, much higher doses are required to produce a radical cure than may be safe in clinical practice.
+Radiation oncology is the medical specialty concerned with prescribing radiation, and is distinct from radiology, the use of radiation in medical imaging and diagnosis.
+This is because physicians must manually delineate the tumors one CT image at a time through the entire disease site which can take much longer than 3DCRT preparation.
+Radiation oncologists perform stereotactic treatments, often with the help of a neurosurgeon for tumors in the brain or spine.
+Although medical errors are exceptionally rare, radiation oncologists, medical physicists and other members of the radiation therapy treatment team are working to eliminate them.
+External beam radiotherapy (teletherapy) began at the turn of the century with relatively low voltage (<150&nbsp;kV) x-ray machines.
+The results of TARGIT  TARGIT IORT for breast cancer are discussed in  a podcast of the TARGIT-A and ELIOT trials on the Lancet website.
+New techniques are being developed to better control this uncertainty—for example, real-time imaging combined with real-time adjustment of the therapeutic beams.
+Infertility can be efficiently avoided by sparing at least one gonad from radiation.
+Cobalt therapy, teletherapy machines using megavolt gamma rays emitted by cobalt-60, a radioisotope produced by irradiating ordinary cobalt metal in a reactor, revolutionized the field between the 1950s and the early 1980s.
+Tumor cells in a hypoxic environment may be as much as 2 to 3 times more resistant to radiation damage than those in a normal oxygen environment.
+There are various types of medical implantable devices that are used for this purpose.
+Low doses of radiation are used typically three gray of radiation for five days, with a break of three months followed by another phase of three gray of radiation for five days.
+The temporary sources are usually placed by a technique called afterloading.
+When Dupuytren's disease is at the nodules and cords stage or fingers are at a minimal deformation stage of less than 10 degrees, then radiation therapy is used to prevent further progress of the disease.
+Additionally, the usual delay between the surgical removal of the tumor and EBRT may allow a repopulation of the tumor cells.
+APBI can be performed with either brachytherapy or with external beam radiation.
+Radium was believed to have wide curative powers and radiotherapy was applied to many diseases.
+In photon therapy, most of the radiation effect is through free radicals.
+Intensity-modulated radiation therapy (IMRT) is an advanced type of high-precision radiation that is the next generation of 3DCRT.
+Conventional radiation techniques such as external beam radiotherapy (EBRT) following surgical removal of the tumor have several drawbacks: The tumor bed where the highest dose should be applied is frequently missed due to the complex localization of the wound cavity even when modern radiotherapy planning is used.
+The specificity of this technique is to modify the three parameters during the treatment.
+:As part of the general inflammation that occurs, swelling of soft tissues may cause problems during radiation therapy.
+In particular, tumors in the head-and-neck demonstrate this behavior.
+It may also be used as part of adjuvant therapy, to prevent tumor recurrence after surgery to remove a primary malignant tumor (for example, early stages of breast cancer).
+The following three sections refer to treatment using x-rays.
+Changes in prolactin-secretion is usually mild, and vasopressin deficiency appears to be very rare as a consequence of radiation.
+When treating liver malignancies and metastases, it is possible for collateral radiation to cause gastric, stomach or duodenal ulcers  This collateral radiation is commonly caused by non-targeted delivery (reflux) of the radioactive agents being infused.
+There are two types of stereotactic radiation.
+; Mouth, throat and stomach sores
+40&nbsp;Gy in 15 fractions or 42.5&nbsp;Gy in 16 fractions, have been shown to be as effective as more protracted 5-6 week treatments with respect to both cancer control and cosmesis (UK START and Canadian trials).
+This is a radiation treatment in which the total dose of radiation is divided into large doses.
+Intraoperative radiation therapy or IORT is a special type of radiation therapy that is delivered immediately after surgical removal of the cancer.
+The worry is that some high-dose treatments may be limited by the radiation toxicity capacity of healthy tissues which lie close to the target tumor volume.
+The cancer occurs within the treated area of the patient.
+The main side effects reported are fatigue and skin irritation, like a mild to moderate sun burn.
+:The gonads (ovaries and testicles) are very sensitive to radiation.
+The goal of IORT is to improve local tumor control and survival rates for patients with different types of cancer.
+A major use of systemic radioisotope therapy is in the treatment of bone metastasis from cancer.
+The radiation dose is consistent with the 3-D shape of the tumor by controlling, or modulating, the radiation beam’s intensity.
+It was found that while superficial tumors could be treated with low voltage x-rays, more penetrating, higher energy beams were required to reach tumors inside the body, requiring higher voltages.
+: Radiation has potentially excess risk of death from heart disease seen after some past breast cancer RT regimens.
+Surgical intervention may be considered prior to treatment with radiation.
+These uncertainties can be caused by internal movement (for example, respiration and bladder filling) and movement of external skin marks relative to the tumor position.
+Conventional external beam radiation therapy (2DXRT) is delivered via two-dimensional beams using kilovoltage therapy x-ray units or medical linear accelerators which generate high energy x-rays.
+Radiation therapy works by damaging the DNA of cancerous cells.
+It is necessary to include a margin of normal tissue around the tumor to allow for uncertainties in daily set-up and internal tumor motion.
+Another method is to shrink the tumor with neoadjuvant chemotherapy prior to radical radiation therapy.
+: Radiation is a potential cause of cancer, and secondary malignancies are seen in a very small minority of patients – usually less than 1/1000.
+Many low-dose palliative treatments (for example, radiation therapy to bony metastases) cause minimal or no side effects, although short-term pain flare-up can be experienced in the days following treatment due to oedema compressing nerves in the treated area.
+Through the 1920s the hazards of radiation exposure were not understood, and little protection was used.
+It is also common to combine radiation therapy with surgery, chemotherapy, hormone therapy, immunotherapy or some mixture of the four.
+The microspheres are approximately 30&nbsp;µm in diameter (about one-third of a human hair) and are delivered directly into the artery supplying blood to the tumors.
+Radiation therapy may be curative in a number of types of cancer if they are localized to one area of the body.
+One commonly treated site where there is very good evidence for such treatment is in breast cancer.
+In some cancer types, prolongation of the fraction schedule over too long can allow for the tumor to begin repopulating, and for these tumor types, including head-and-neck and cervical squamous cell cancers, radiation treatment is preferably completed within a certain amount of time.
+Cells have mechanisms for repairing single-strand DNA damage and double-stranded DNA damage.
+Radiation therapy is in itself painless.
+Stereotactic radiation is a specialized type of external beam radiation therapy.
+It is important to distinguish the radiosensitivity of a particular tumor, which to some extent is a laboratory measure, from the radiation "curability" of a cancer in actual clinical practice.
+Historically, the three main divisions of radiation therapy are external beam radiation therapy (EBRT or XRT) or teletherapy, brachytherapy or sealed source radiation therapy, and systemic radioisotope therapy or unsealed source radiotherapy.
+Similarly, many of the common, moderately radioresponsive tumors are routinely treated with curative doses of radiation therapy if they are at an early stage.
+; Damage to the epithelial surfaces
+The subspecialty of oncology that focuses on radiotherapy is called '''radiation oncology'''.
+: Tissues which have been irradiated tend to become less elastic over time due to a diffuse scarring process.
+This began a new era in medical treatment and research.
+However, mistakes do occasionally occur; for example, the radiation therapy machine Therac-25 was responsible for at least six accidents between 1985 and 1987, where patients were given up to one hundred times the intended dose; two people were killed directly by the radiation overdoses.
+A single treatment gives comparable pain relief and morbidity outcomes to multiple-fraction treatments, and for patients with limited life expectancy, a single treatment is best to improve patient comfort.
+Fractionation allows normal cells time to recover, while tumor cells are generally less efficient in repair between fractions.
+It is used primarily for treating left-sided breast cancer.
+An example of this problem is seen in radiation of the prostate gland, where the sensitivity of the adjacent rectum limited the dose which could be safely prescribed using 2DXRT planning to such an extent that tumor control may not be easily achievable.
+Charged particles such as protons and boron, carbon, and neon ions can cause direct damage to cancer cell DNA through high-LET (linear energy transfer) and have an antitumor effect independent of tumor oxygen supply because these particles act mostly via direct energy transfer usually causing double-stranded DNA breaks.
+Prior to the invention of the CT, physicians and physicists had limited knowledge about the true radiation dosage delivered to both cancerous and healthy tissue.
+Depending on the area being treated, this may include the skin, oral mucosa, pharyngeal, bowel mucosa and ureter.
+Depending on the radiation delivery method, several angles or sources may be used to sum to the total necessary dose.
+Treatment planning is generally performed on dedicated computers using specialized treatment planning software.
+An enhancement of virtual simulation is '''3-dimensional conformal radiation therapy (3DCRT)''', in which the profile of each radiation beam is shaped to fit the profile of the target from a beam's eye view (BEV) using a multileaf collimator (MLC) and a variable number of beams.
+Modern radiation therapy aims to reduce side effects to a minimum and to help the patient understand and deal with side effects that are unavoidable.
+For children, a typical fraction size may be 1.5 to 1.8&nbsp;Gy per day, as smaller fraction sizes are associated with reduced incidence and severity of late-onset side effects in normal tissues.
+This approach decreases the exposure of healthy tissue and resulting side effects, compared both to external beam radiation therapy and older methods of breast brachytherapy.
+Some doctors say an advantage to stereotactic treatments is that they deliver the right amount of radiation to the cancer in a shorter amount of time than traditional treatments, which can often take 6 to 11 weeks.
+In 1937 the entire world supply of radium for radiotherapy was 50 grams, valued at £800,000, or $50 million in 2005 dollars.
+One problem with stereotactic treatments is that they are only suitable for certain small tumors.
+The rates of onset of damage and recovery from it depend upon the turnover rate of epithelial cells.
+Combining radiation therapy with immunotherapy is an active area of investigation and has shown some promise for melanoma and other cancers.
+These medications were the first agents of what is known as radioimmunotherapy, and they were approved for the treatment of refractory non-Hodgkins lymphoma.
+Indirect ionization happens as a result of the ionization of water, forming free radicals, notably hydroxyl radicals, which then damage the DNA.
+The advantage of this energy deposition profile is that less energy is deposited into the healthy tissue surrounding the target tissue.
+These advances allowed radiation oncologists to better see and target tumors, which have resulted in better treatment outcomes, more organ preservation and fewer side effects.
+: The gastrointestinal tract can be damaged following abdominal and pelvic radiotherapy.
+Unfortunately, IMRT is limited by its need for additional time from experienced medical personnel.
+The planner will try to design a plan that delivers a uniform prescription dose to the tumor and minimizes dose to surrounding healthy tissues.
+Nausea for any reason can be treated with antiemetics.
+It can be a magnetic transponder which senses the magnetic field generated by several transmitting coils, and then transmits the measurements back to the positioning system to determine the location.
+Solid tumors can outgrow their blood supply, causing a low-oxygen state known as hypoxia.
+Linear accelerators can produce higher energies, have more collimated beams, and do not produce radioactive waste with its attendant disposal problems like radioisotope therapies.
+They also more precisely target the tumor using the Bragg peak effect.
+This results in better tumor targeting, lessened side effects, and improved treatment outcomes than even 3DCRT.
+The dose increases while the particle penetrates the tissue, up to a maximum (the Bragg peak) that occurs near the end of the particle's range, and it then drops to (almost) zero.
+; Cognitive decline
+It may also be used as palliative treatment (where cure is not possible and the aim is for local disease control or symptomatic relief) or as therapeutic treatment (where the therapy has survival benefit and it can be curative).
+In some cases, two fractions per day are used near the end of a course of treatment.
+IMRT also improves the ability to conform the treatment volume to concave tumor shapes, for example when the tumor is wrapped around a vulnerable structure such as the spinal cord or a major organ or blood vessel.
+Systemic radioisotope therapy (RIT) is a form of targeted therapy.
+When the treatment volume conforms to the shape of the tumor, the relative toxicity of radiation to the surrounding normal tissues is reduced, allowing a higher dose of radiation to be delivered to the tumor than conventional techniques would allow.
+The reaction may become more severe during the treatment and for up to about one week following the end of radiation therapy, and the skin may break down.
+Typical symptoms are soreness, diarrhoea, and nausea.
+Radiation therapy is synergistic with chemotherapy, and has been used before, during, and after chemotherapy in susceptible cancers.
+Renal cell cancer and melanoma are generally considered to be radioresistant but radiation therapy is still a palliative option for many patients with metastatic melanoma.
+Lymphoma may be radically curable if it is localised to one area of the body.
+Ionizing radiation works by damaging the DNA of cancerous tissue leading to cellular death.
+This new technology is called image-guided radiation therapy (IGRT) or four-dimensional radiation therapy.
+In particle therapy (proton therapy being one example), energetic ionizing particles (protons or carbon ions) are directed at the target tumor.
+For this reason, 3-dimensional conformal radiation therapy is becoming the standard treatment for a number of tumor sites.
+The radiation dose intensity is elevated near the gross tumor volume while radiation among the neighboring normal tissues is decreased or avoided completely.
+The radioisotopes travel selectively to areas of damaged bone, and spare normal undamaged bone.
+A third technique is to enhance the radiosensitivity of the cancer by giving certain drugs during a course of radiation therapy.
+Many patient positioning devices have been developed for this purpose, including masks and cushions which can be molded to the patient.
+Targeting double-stranded breaks increases the probability that cells will undergo cell death.
+However, the use of assisted reproductive technologies and micromanipulation techniques might increase this risk.
+APBI normally involves two high-dose fractions per day for five days, compared to whole breast irradiation, in which a single, smaller fraction is given five times a week over a six-to-seven-week period.
+Skin reactions tend to be worse in areas where there are natural folds in the skin, such as underneath the female breast, behind the ear, and in the groin.
+; Radiation enteropathy
+The first medical linear accelerator was used at the Hammersmith Hospital in London in 1953.
+CHART, used to treat lung cancer, consists of three smaller fractions per day.
+Cancer cells are generally less differentiated and more stem cell-like; they reproduce more than most healthy differentiated cells, and have a diminished ability to repair sub-lethal damage.
+As with any distressing treatment, some patients vomit immediately during radiotherapy, or even in anticipation of it, but this is considered a psychological response.
+Treatment planning for all body sites is designed to minimize, if not completely exclude dose to the gonads if they are not the primary area of treatment.
+Side effects from radiation are usually limited to the area of the patient's body that is under treatment.
+Similarly, sweat glands in treated skin (such as the armpit) tend to stop working, and the naturally moist vaginal mucosa is often dry following pelvic irradiation.
+: Lymphedema, a condition of localized fluid retention and tissue swelling, can result from damage to the lymphatic system sustained during radiation therapy.
+AT differs from conventional radiation therapy in several aspects; it neither relies upon radioactive nuclei to cause cellular radiation damage at a cellular dimension, nor engages multiple external pencil-beams from different directions to zero-in to deliver a dose to the targeted area with reduced dose outside the targeted tissue/organ locations.
+'''Stereotactic radiosurgery''' (SRS) is when doctors use a single or several stereotactic radiation treatments of the brain or spine.
+Besides the tumour itself, the radiation fields may also include the draining lymph nodes if they are clinically or radiologically involved with tumor, or if there is thought to be a risk of subclinical malignant spread.
+Brachytherapy is commonly used as an effective treatment for cervical, prostate, breast, and skin cancer and can also be used to treat tumours in many other body sites.
+Short course hypofractionated treatments over 3–4 weeks e.g.
+This means that the irradiation only affects a very localized area – exposure to radiation of healthy tissues further away from the sources is reduced.
+Much research has been devoted to overcoming hypoxia including the use of high pressure oxygen tanks, hyperthermia therapy (heat therapy which dilates blood vessels to the tumor site), blood substitutes that carry increased oxygen, hypoxic cell radiosensitizer drugs such as misonidazole and metronidazole, and hypoxic cytotoxins (tissue poisons), such as tirapazamine.
+Volumetric modulated arc therapy (VMAT) is a new radiation technique, which can achieve highly conformal dose distributions on target volume coverage and sparing of normal tissues.
+These potentially harmful effects can be avoided by delivering the radiation more precisely to the targeted tissues leading to immediate sterilization of residual tumor cells.
+This schedule, known as a concomitant boost regimen or hyperfractionation, is used on tumors that regenerate more quickly when they are smaller.
+ASTRO has launched a safety initiative called   Target Safely that, among other things, aims to record errors nationwide so that doctors can learn from each and every mistake and prevent them from happening.
+In afterloading a hollow tube or applicator is placed surgically in the organ to be treated, and the sources are loaded into the applicator after the applicator is implanted.
+This x-ray exposure is especially bad for children, due to their growing bodies, and they have a 30% chance of a second malignancy after 5 years post initial RT.
+Radiation therapy is commonly applied to the cancerous tumor because of its ability to control cell growth.
+Late side effects occur months to years after treatment and are generally limited to the area that has been treated.
+Overconfidence in the accuracy of imaging may increase the chance of missing lesions that are invisible on the planning scans (and therefore not included in the treatment plan) or that move between or during a treatment (for example, due to respiration or inadequate patient immobilization).
+Another example is the injection of yttrium-90 radioactive glass or resin microspheres into the hepatic artery to radioembolize liver tumors or liver metastases.
+Medical linear particle accelerators, developed since the 1940s, began replacing x-ray and cobalt units in the 1980s and these older therapies are now declining.
+Typically the skin starts to become pink and sore several weeks into treatment.
+The patient receives small skin marks to guide the placement of treatment fields.
+There has been some concern, particularly with IMRT, about increased exposure of normal tissue to radiation and the consequent potential for secondary malignancy.
+This difference is very important in cases where the close proximity of other organs makes any stray ionization very damaging (example: head and neck cancers).
+The logic behind hypofractionation is to lessen the possibility of the cancer returning by not giving the cells enough time to reproduce and also to exploit the unique biological radiation sensitivity of some tumors.
+Prior to World War 2, the only practical sources of radiation for radiotherapy were radium and its "emanation", radon gas, and the x-ray tube.
+In contrast, adrenocorticotrophic hormone (ACTH) and thyroid stimulating hormone (TSH) deficiencies are the least common among people with radiation-induced hypopituitarism.
+Total body irradiation (TBI) is a radiation therapy technique used to prepare the body to receive a bone marrow transplant.
+The esophagus can also become sore if it is treated directly, or if, as commonly occurs, it receives a dose of collateral radiation during treatment of lung cancer.
+Plus treatments are given with extreme accuracy, which should limit the effect of the radiation on healthy tissues.
+Producing megavolt x-rays required voltages on the x-ray tube of 3 to 5 million volts, which required huge expensive installations.
+This technique is well established and is generally quick and reliable.
+Hair loss may be permanent with a single dose of 10&nbsp;Gy, but if the dose is fractionated permanent hair loss may not occur until dose exceeds 45&nbsp;Gy.
+It uses focused radiation beams targeting a well-defined tumor using extremely detailed imaging scans.
+Oxygen is a potent radiosensitizer, increasing the effectiveness of a given dose of radiation by forming DNA-damaging free radicals.
+The field of radiation therapy began to grow in the early 1900s largely due to the groundbreaking work of Nobel Prize–winning scientist Marie Curie (1867–1934), who discovered the radioactive elements polonium and radium in 1898.
+This damage is either direct or indirect ionization of the atoms which make up the DNA chain.
+Another aspect is that wound fluid has a stimulating effect on tumor cells.
+Patients receiving palliative radiation to treat uncomplicated painful bone metastasis should not receive more than a single fraction of radiation.
+Single-strand DNA damage is then passed on through cell division; damage to the cancer cells' DNA accumulates, causing them to die or reproduce more slowly.
+In contrast, IMRT's use of uncharged particles causes its energy to damage healthy cells when it exits the body.
+Brachytherapy (internal radiation therapy) is delivered by placing radiation source(s) inside or next to the area requiring treatment.
+To spare normal tissues (such as skin or organs which radiation must pass through to treat the tumor), shaped radiation beams are aimed from several angles of exposure to intersect at the tumor, providing a much larger absorbed dose there than in the surrounding, healthy tissue.
+One of the major limitations of photon radiation therapy is that the cells of solid tumors become deficient in oxygen.
+Due to complex radiobiology, very large tumors respond less well to radiation than smaller tumors or microscopic disease.
+This is particularly the case for head and neck cancers in a series of pivotal trials performed by Professor Christopher Nutting of the Royal Marsden Hospital.
+Due to their relatively large mass, protons and other charged particles have little lateral side scatter in the tissue—the beam does not broaden much, stays focused on the tumor shape, and delivers small dose side-effects to surrounding tissue.
+Before treatment, a CT scan is often performed to identify the tumor and surrounding normal structures.
+Also, the IMRT technology has only been used commercially since the late 1990s even at the most advanced cancer centers, so radiation oncologists who did not learn it as part of their residency programs must find additional sources of education before implementing IMRT.
+ASTRO also publishes a list of questions for patients to ask their doctors about radiation safety to ensure every treatment is as safe as possible.

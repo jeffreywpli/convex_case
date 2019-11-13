@@ -1,0 +1,200 @@
+If the numbers of both the protons and neutrons in a given nuclide are even then , i.e.
+A Hahn echo decay experiment can be used to measure the dephasing time, as shown in the animation below.
+For example, various expensive biological samples, such as nucleic acids, including RNA and DNA, or proteins, can be studied using nuclear magnetic resonance for weeks or months before using destructive biochemical experiments.
+It is a powerful technique that can provide detailed information on the topology, dynamics and three-dimensional structure of molecules in solution and the solid state.
+One notes that correct alignment of the sample rotation axis as close as possible to ''θ''m is essential for cancelling out the dipolar interactions whose strength for angles sufficiently far from ''θ''m is usually greater than ~10&nbsp;kHz for C–H bonds in solids, for example, and it is thus greater than their CSA values.
+The ''z''-component of the magnetic moment is simply:
+NMR differs from other implementations of quantum computers in that it uses an ensemble of systems, in this case molecules.
+Earth's field NMR (EFNMR) is typically stimulated by applying a relatively strong dc magnetic field pulse to the sample and, after the end of the pulse, analyzing the resulting low frequency alternating magnetic field that occurs in the Earth's magnetic field due to free induction decay (FID).
+*''MW''std: molecular weight of standard
+This oscillating magnetization vector induces a current in a nearby pickup coil, creating an electrical signal oscillating at the NMR frequency.
+Rabi, Bloch, and Purcell observed that magnetic nuclei, like  and , could absorb RF energy when placed in a magnetic field and when the RF was of a frequency specific to the identity of the nuclei.
+The variation observed in these spectra with changing physical and chemical properties is modeled using chemometrics to yield predictions on unknown samples.
+* Type and quantity of fluid hydrocarbons
+This technique complements X-ray crystallography in that it is frequently applicable to molecules in a liquid or liquid crystal phase, whereas crystallography, as the name implies, is performed on molecules in a solid phase.
+(There is also a smaller but significant contribution to the observed FID shortening from the RF inhomogeneity of the resonant pulse).
+These studies are possible because nuclei are surrounded by orbiting electrons, which are charged particles that generate small, local magnetic fields that add to or subtract from the external magnetic field, and so will partially shield the nuclei.
+Various magnetometers use NMR effects to measure magnetic fields, including proton precession magnetometers (PPM) (also known as proton magnetometers), and Overhauser magnetometers.
+High resolution FT-NMR spectrometers operating in the 60&nbsp;MHz range with shielded permanent magnet systems yield high resolution  NMR spectra of refinery and petrochemical streams.
+This is unnecessary in conventional NMR investigations of molecules, since rapid "molecular tumbling" averages out the chemical shift anisotropy (CSA).
+Consider nuclei which have a spin of one-half, like ,  or .
+In solid-state NMR spectroscopy, magic angle spinning is required to average out this orientation dependence in order to obtain values close to the average chemical shifts.
+This manifests in both CW and pulsed NMR; in the first case (CW) this happens by using too much continuous power that keeps the upper spin levels completely populated; in the second case (pulsed), each pulse (that is at least a 90° pulse) leaves the sample saturated, and four to five times the (longitudinal) relaxation time (5''T''1) must pass before the next pulse or pulse sequence can be applied.
+Richard R. Ernst was one of the pioneers of pulse NMR, and he won a Nobel Prize in chemistry in 1991 for his work on Fourier Transform NMR and his development of multi-dimensional NMR (see below).
+This is called ''T''2 or ''transverse relaxation''.
+This technique requires the use of an internal standard of a known purity.
+Another use for nuclear magnetic resonance is data acquisition in the petroleum industry for petroleum and natural gas exploration and recovery.
+adding the spectra from repeated measurements.
+Hence the overall signal-to-noise ratio increases as the square-root of the number of spectra measured.
+It is this feature that is exploited in imaging techniques; if a sample is placed in a non-uniform magnetic field then the resonance frequencies of the sample's nuclei depend on where in the field they are located.
+There are different angles for the sample spinning relative to the applied field for the averaging of quadrupole interactions and paramagnetic interactions, correspondingly ~30.6° and ~70.1°.
+Two different types of NMR analysis are utilized to provide real time analysis of feeds and products in order to control and optimize unit operations.
+Therefore, the character of the tritium nucleus is again magnetic dipolar, ''not quadrupolar''—like its non-radioactive deuteron cousin—and the tritium nucleus total spin value is again , just like for the simpler, abundant hydrogen isotope, 1H nucleus (the ''proton'').
+In the corresponding FT-NMR spectrum—meaning the Fourier transform of the free induction decay—the ''T''2* time is inversely related to the width of the NMR signal in frequency units.
+*Increasing temperature, which evens out the population of states.
+The prediction results are provided to control systems via analogue or digital outputs from the spectrometer.
+As noted above, the sensitivity of nuclear magnetic resonance signals is also dependent on the presence of a magnetically susceptible nuclide and, therefore, either on the natural abundance of such nuclides or on the ability of the experimentalist to artificially enrich the molecules, under study, with such nuclides.
+Experiments of the nuclear Overhauser variety may be employed to establish distances between atoms, as for example by 2D-FT&nbsp;NMR of molecules in solution.
+Recently, real-time applications of NMR in liquid media have been developed using specifically designed flow probes (flow cell assemblies) which can replace standard tube probes.
+Most nuclides (with some rare exceptions) that have both even numbers of protons and even numbers of neutrons, also have zero nuclear magnetic moments, and they also have zero magnetic dipole and quadrupole moments.
+The application of nuclear magnetic resonance best known to the general public is magnetic resonance imaging for medical diagnosis and magnetic resonance microscopy in research settings, however, it is also widely used in chemical studies, notably in NMR spectroscopy such as proton NMR, carbon-13 NMR, deuterium NMR and phosphorus-31 NMR.
+It is this magnetic moment that allows the observation of NMR absorption spectra caused by transitions between nuclear spin levels.
+The principle of NMR usually involves two sequential steps:
+A concept developed by Sven Hartmann and Erwin Hahn was utilized in transferring magnetization from protons to less sensitive nuclei (popularly known as cross-polarization) by M.G.
+He was the first to report the introduction of the MAS (magic angle sample spinning; MASS) technique that allowed him to achieve spectral resolution in solids sufficient to distinguish between chemical groups with either different chemical shifts or distinct Knight shifts.
+An important feature of EFNMR spectrometry compared with high-field NMR is that some aspects of molecular structure can be observed more clearly at low fields and low frequencies, whereas other aspects observable at high fields are not observable at low fields.
+The amount of shielding depends on the exact local environment.
+*''P'': purity of internal standard
+The use of pulses of different shapes, frequencies and durations in specifically designed patterns or ''pulse sequences'' allows the spectroscopist to extract many different types of information about the molecule.
+For single pulse experiments, shorter RF pulses that tip the magnetization by less than 90° can be used, which loses some intensity of the signal, but allows for shorter ''recycle delays''.
+NMR phenomena are also utilized in low-field NMR, NMR spectroscopy and MRI in the Earth's magnetic field (referred to as Earth's field NMR), and in several types of magnetometers.
+NMR logging, a subcategory of electromagnetic logging, measures the induced magnet moment of hydrogen nuclei (protons) contained within the fluid-filled pore space of porous media (reservoir rocks).
+For example, the  nucleus has an overall spin value .
+The associated quantum number is known as the magnetic quantum number, ''m'', and can take values from +''S'' to −''S'', in integer steps.
+Biochemical information can also be obtained from living tissue (e.g.
+In simple terms, a short pulse of a given "carrier" frequency "contains" a range of frequencies centered about the carrier frequency, with the range of excitation (bandwidth) being inversely proportional to the pulse duration, i.e.
+Because these protons primarily occur in pore fluids, NMR effectively responds to the volume, composition, viscosity, and distribution of these fluids, for example oil, gas or water.
+In the Earth's magnetic field, NMR frequencies are in the audio frequency range, or the very low frequency and ultra low frequency bands of the radio frequency spectrum.
+*Saturation of the sample with energy applied at the resonant radiofrequency.
+Unlike conventional logging measurements (e.g., acoustic, density, neutron, and resistivity), which respond to both the rock matrix and fluid properties and are strongly dependent on mineralogy, NMR-logging measurements respond to the presence of hydrogen protons.
+This means both that the magnitude of angular momentum is quantized (i.e.
+The most common volumes are the bound fluid and free fluid.
+For example, a hydrogen bonded to an oxygen will be shielded differently from a hydrogen bonded to a carbon atom.
+The nucleus has two possible spin states: ''m'' =  or ''m'' = − (also referred to as spin-up and spin-down, or sometimes α and β spin states, respectively).
+This signal is known as the free induction decay (FID), and it contains the vector sum of the NMR responses from all the excited spins.
+As a result, the different nuclear spin states have different energies in a non-zero magnetic field.
+Typically this standard will have a high molecular weight to facilitate accurate weighing, but relatively few protons so as to give a clear peak for later integration e.g.
+*The perturbation of this alignment of the nuclear spins by employing an electro-magnetic, usually radio frequency (RF) pulse.
+Although NMR spectra could be, and have been, obtained using a fixed magnetic field and sweeping the frequency of the electromagnetic radiation, this more typically involved using a fixed frequency source and varying the current (and hence magnetic field) in an electromagnet to observe the resonant absorption signals.
+Other limitations on sensitivity arise from the quantum-mechanical nature of the phenomenon.
+However, a proton and neutron will have lower energy when their spins are parallel, '''not anti-parallel'''.
+The energy of a magnetic moment '''μ''' when in a magnetic field '''B'''0 is given by:
+* The volume (porosity) and distribution (permeability) of the rock pore space
+Early attempts to acquire the NMR spectrum more efficiently than simple CW methods involved illuminating the target simultaneously with more than one frequency.
+NMR allows the observation of specific quantum mechanical magnetic properties of the atomic nucleus.
+The precessing nuclei can also fall out of alignment with each other (returning the net magnetization vector to a non-precessing field) and stop producing a signal.
+Because the nuclear magnetic resonance ''timescale'' is rather slow, compared to other spectroscopic methods, changing the temperature of a ''T''2* experiment can also give information about fast reactions, such as the Cope rearrangement or about structural dynamics, such as ring-flipping in cyclohexane.
+human brain tumors) with the technique known as in vivo magnetic resonance spectroscopy or chemical shift NMR Microscopy.
+Under those circumstances the observed spectra are no-longer dictated by chemical shifts but primarily by ''J''-coupling interactions which are independent of the external magnetic field.
+In four dimensions, three will be varied.
+This can be mitigated by signal averaging i.e.
+Their inexpensive portable nature makes these instruments valuable for field use and for teaching the principles of NMR and MRI.
+*The alignment (polarization) of the magnetic nuclear spins in an applied, constant magnetic field '''B'''0.
+The overall spin of the nucleus is determined by the spin quantum number ''S''.
+In simple cases, an exponential decay is measured which is described by the ''T''2 time.
+In its first few decades, nuclear magnetic resonance spectrometers used a technique known as continuous-wave spectroscopy (CW spectroscopy).
+Since the resolution of the imaging technique depends on the magnitude of magnetic field gradient, many efforts are made to develop increased field strength, often using superconductors.
+The resulting response by the total magnetization ('''M''') of the nuclear spins is the phenomenon that is exploited in NMR spectroscopy and magnetic resonance imaging.
+This also makes nuclear magnetic resonance a good choice for analyzing dangerous samples.
+*''MW''spl: molecular weight of sample
+In less formal language, we can talk about the two spin states of a spin  as being ''aligned'' either with or against the magnetic field.
+Because of the difference in the actual relaxation mechanisms involved (for example, intermolecular versus intramolecular magnetic dipole-dipole interactions ), ''T''1 is usually (except in rare cases) longer than ''T''2 (that is, slower spin-lattice relaxation, for example because of smaller dipole-dipole interaction effects).
+*''n''Hstd: the integrated area of the peak selected for comparison in the standard, corrected for the number of protons in that functional group
+In terms of the net magnetization vector, this corresponds to tilting the magnetization vector away from its equilibrium position (aligned along the external magnetic field).
+The above expression involving cos2&nbsp;''θ''m has its origin in a calculation that predicts the magnetic dipolar interaction effects to cancel out for the specific value of ''θ''m called the magic angle.
+In practice, the value of ''T''2* which is the actually observed decay time of the observed NMR signal, or free induction decay (to  of the initial amplitude immediately after the resonant RF pulse), also depends on the static magnetic field inhomogeneity, which is quite significant.
+Since incoming radiation is equally likely to cause stimulated emission (a transition from the upper to the lower state) as absorption, the NMR effect depends on an excess of nuclei in the lower states.
+The energy of an absorbed photon is then , where ''ν''0 is the resonance radiofrequency that has to match (that is, it has to be equal to the Larmor precession frequency ''ν''L of the nuclear magnetization in the constant magnetic field '''B'''0).
+* Hydrocarbon producibility
+The size of the echo is recorded for different spacings of the two pulses.
+Additional structural and chemical information may be obtained by performing double-quantum NMR experiments for quadrupolar nuclei such as .
+Also, nuclear magnetic resonance is one of the techniques that has been used to design quantum automata, and also build elementary quantum computers.
+'''NMR quantum computing''' uses the spin states of molecules as qubits.
+''S'' can only take on a restricted range of values), and also that the orientation of the associated angular momentum is quantized.
+*''w''spl: weight of sample
+*''w''std: weight of internal standard
+Unless the local symmetry of such molecular orbitals is very high (leading to "isotropic" shift), the shielding effect will depend on the orientation of the molecule with respect to the external field ('''B'''0).
+Moreover, there is a much smaller number of molecules and materials with unpaired electron spins that exhibit ESR (or electron paramagnetic resonance (EPR)) absorption than those that have NMR absorption spectra.
+spectra require longer acquisition times since carbon-13 is not the common isotope of carbon (unlike hydrogen, where  is the common isotope).
+NMR logs provide information about the quantities of fluids present, the properties of these fluids, and the sizes of the pores containing these fluids.
+Though nuclear magnetic resonance is used to study solids, extensive atomic-level molecular structural detail is especially challenging to obtain in the solid state.
+By running the log with different acquisition parameters, direct hydrocarbon typing and enhanced diffusion are possible.
+Although the fundamental concept of 2D-FT&nbsp;NMR was proposed by Jean Jeener from the Free University of Brussels at an International Conference, this idea was largely developed by Richard Ernst who won the 1991 Nobel prize in Chemistry for his work in FT&nbsp;NMR, including multi-dimensional FT&nbsp;NMR, and especially 2D-FT&nbsp;NMR of small molecules.
+Spin-spin coupling is observed in NMR of hydrogen-1 (&nbsp;NMR), since its natural abundance is nearly 100%; isotope enrichment is required for most other elements.
+All isotopes that contain an odd number of protons and/or neutrons (see Isotope) have an intrinsic magnetic moment and angular momentum, in other words a nonzero spin, while all nuclides with even numbers of both have a total spin of zero.
+the Fourier transform of a short pulse contains contributions from all the frequencies in the neighborhood of the principal frequency.
+This reveals the decoherence which is not refocused by the 180° pulse.
+Many scientific techniques exploit NMR phenomena to study molecular physics, crystals, and non-crystalline materials through nuclear magnetic resonance spectroscopy.
+* Chemical shifts of several ppm are clearly separated in high field NMR spectra, but have separations of only a few millihertz at proton EFNMR frequencies, so are usually lost in noise etc.
+It might appear from the above that all nuclei of the same nuclide (and hence the same ''γ'') would resonate at the same frequency.
+, an abundant spin-1 nucleus, is difficult to study for this reason.
+In three dimensions, two time sequences will be varied.
+An example of nuclear magnetic resonance being used in the determination of a structure is that of buckminsterfullerene (often called "buckyballs", composition C60).
+NMR spectroscopy is one of the principal techniques used to obtain physical, chemical, electronic and structural information about molecules due to either the chemical shift, Zeeman effect, or the Knight shift effect, or a combination of both, on the resonant frequencies of the nuclei present in the sample.
+Specifically, sensitive magnetometers turn out to be good detectors for zero field NMR.
+Thus, structural and dynamic information is obtainable (with or without "magic angle" spinning (MAS)) from NMR studies of quadrupolar nuclei (that is, those nuclei with spin ) even in the presence of magnetic "dipole-dipole" interaction broadening (or simply, dipolar broadening) which is always much smaller than the quadrupolar interaction strength because it is a magnetic vs. an electric interaction effect.
+Gibby, Alex Pines and John S. Waugh.
+In zero field NMR all magnetic fields are shielded such that magnetic fields below 1&nbsp;nT (nanotesla) are achieved and the nuclear precession frequencies of all nuclei are close to zero and indistinguishable.
+There is little signal averaging by thermal motion in the solid state, where most molecules can only undergo restricted vibrations and rotations at room temperature, each in a slightly different electronic environment, therefore exhibiting a different NMR absorption peak.
+Fourier methods can be applied to many types of spectroscopy.
+If ''γ'' is positive (true for most isotopes) then  is the lower energy state.
+See also Earth's field NMR.
+Suitable peaks are selected for both compounds and the purity of the sample determined via the following equation.
+By studying ''T''2 information, a chemist can determine the identity of a compound by comparing the observed nuclear precession frequencies to known frequencies.
+In many other cases of ''non-radioactive'' nuclei, the overall spin is also non-zero.
+As one of the two major spectroscopic techniques used in metabolomics, NMR is used to generate metabolic fingerprints from biological fluids to obtain information about disease states or toxic insults.
+The most commonly studied nuclei are  and , although nuclei from isotopes of many other elements (e.g.
+See the articles on carbon-13 NMR and proton NMR for detailed discussions.
+A zero magnetic field environment does not provide any polarization hence it is the combination of zero field NMR with hyperpolarization schemes that makes zero field NMR attractive.
+Therefore, the spin ground state for the deuteron (the deuterium nucleus, or the 2H isotope of hydrogen)—that has only a proton and a neutron—corresponds to a spin value of '''1''', ''not of zero''.
+and this difference results in a small population bias toward the lower energy state.
+Time-domain NMR (TD-NMR) spectrometers operating at low field (2–20&nbsp;MHz for ) yield free induction decay data that can be used to determine absolute hydrogen content values, rheological information, and component composition.
+From this information, it is possible to infer or estimate:
+If a nucleus is placed in a magnetic field, however, the interaction between the nuclear magnetic moment and the external magnetic field mean the two states no longer have the same energy.
+*Non-magnetic effects, such as electric-quadrupole coupling of spin-1 and spin- nuclei with their local environment, which broaden and weaken absorption peaks.
+At low enough temperatures, a distinction can be made between the axial and equatorial hydrogens in cyclohexane.
+In contrast, carbon and nitrogen have useful isotopes but which occur only in very low natural abundance.
+This process is also called ''T''1, "spin-lattice" or "longitudinal magnetic" relaxation, where ''T''1 refers to the mean time for an individual nucleus to return to its thermal equilibrium state of the spins.
+there is no overall spin.
+This now famous form of carbon has 60 carbon atoms forming a sphere.
+The development of NMR as a technique in analytical chemistry and biochemistry parallels the development of electromagnetic technology and advanced electronics and their introduction into civilian use.
+In addition, two hydrogen nuclei can interact via a process known as spin-spin coupling, if they are on the same molecule, which will split the lines of the spectra in a recognizable way.
+For quantum states separated by energy equivalent to radio frequencies, thermal energy from the environment causes the populations of the states to be close to equal.
+Such a variation in the electronic environment of the resonating nuclei results in a blurring of the observed spectra—which is often only a broad Gaussian band for non-quadrupolar spins in a solid- thus making the interpretation of such "dipolar" and "chemical shift anisotropy" (CSA) broadened spectra either very difficult or impossible.
+In ''multidimensional nuclear magnetic resonance'' there will be a sequence of pulses and, at least, one variable time period.
+, , , , , , , , , , , , , , ) have been studied by high-field NMR spectroscopy as well.
+Accurately weighed portions of both the standard and sample are combined and analysed by NMR.
+These states are degenerate, that is they have the same energy.
+A permeability estimate is made using a transform such as the Timur-Coates or SDR permeability transforms.
+Hence, such nuclides do not exhibit any NMR absorption spectra.
+Parallel spin alignment does not infringe upon the Pauli Exclusion Principle.
+A revolution in NMR occurred when short pulses of radio-frequency radiation began to be used—centered at the middle of the NMR spectrum.
+Such magnetic resonance frequencies typically correspond to the radio frequency (or RF) range of the electromagnetic spectrum for magnetic fields up to roughly 20&nbsp;T. It is this magnetic resonant absorption which is detected in NMR.
+NMR is primarily used for structural determination, however it can also be used for purity determination, providing that the structure and molecular weight of the compound is known.
+Electron spin resonance (ESR) is a related technique in which transitions between electronic spin levels are detected rather than nuclear ones.
+Usually the ''z''- axis is chosen to be along '''B'''0, and the above expression reduces to:
+High resolution NMR instead probes molecules using the rarer  isotope, which has spin-.
+Thus, a nucleus with a long ''T''2 relaxation time gives rise to a very sharp NMR peak in the FT-NMR spectrum for a very homogeneous ("well-shimmed") static magnetic field, whereas nuclei with shorter ''T''2 values give rise to broad FT-NMR peaks even when the magnet is shimmed well.
+When this absorption occurs, the nucleus is described as being ''in resonance''.
+In general, this electronic shielding reduces the magnetic field ''at the nucleus'' (which is what determines the NMR frequency).
+The effectiveness of NMR can also be improved using hyperpolarization, and/or using two-dimensional, three-dimensional and higher-dimensional multi-frequency techniques.
+Resonant absorption by nuclear spins will occur only when electromagnetic radiation of the correct frequency (e.g., equaling the Larmor precession rate) is being applied to match the energy difference between the nuclear spin levels in a constant magnetic field of the appropriate strength.
+The two fields are usually chosen to be perpendicular to each other as this maximizes the NMR signal strength.
+Then, Jake Schaefer and Ed Stejskal demonstrated also the powerful use of cross-polarization under MASS conditions (CP-MAS) which is now routinely employed to measure high resolution spectra of low-abundance and low-sensitivity nuclei, namely carbon-13, in solids.
+It can be a very selective technique, distinguishing among many atoms within a molecule or collection of molecules of the same type but which differ only in terms of their local chemical environment.
+Multi-dimensional nuclear magnetic resonance spectroscopy is a kind of FT NMR in which there are at least two pulses and, as the experiment is repeated, the pulse sequence is systematically varied.
+Electrons, similar to the nucleus, are also charged and rotate with a spin to produce a magnetic field opposite to the magnetic field produced by the nucleus.
+Interactions that can be detected are usually classified into two kinds.
+Professor Raymond Andrew at the University of Nottingham in the UK pioneered the development of high-resolution solid-state nuclear magnetic resonance.
+Further structural data can be elucidated by observing ''spin-spin coupling'', a process by which the precession frequency of a nucleus can be influenced by the magnetization transfer from nearby chemically bound nuclei.
+The angular momentum associated with nuclear spin is quantized.
+NMR spectroscopy is used to unambiguously identify known and novel compounds, and as such, is usually required by scientific journals for identity confirmation of synthesized new compounds.
+Once the nuclear spin population is relaxed, it can be probed again, since it is in the initial, equilibrium (mixed) state.
+The restricted range of the NMR frequencies made it relatively easy to use short (millisecond to microsecond) radio frequency pulses to excite the entire NMR spectrum.
+This is the origin of the counterintuitive, but still common, "high field" and "low field" terminology for low frequency and high frequency regions respectively of the NMR spectrum.
+The ''z''-component of the angular momentum vector ('''S''') is therefore , where ''ħ'' is the reduced Planck constant.
+The lowering of energy for parallel spins has to do with the quark structure of these two nucleons.
+The basic principles are similar but the instrumentation, data analysis, and detailed theory are significantly different.
+In addition to providing static information on molecules by determining their 3D structures in solution, one of the remarkable advantages of NMR over X-ray crystallography is that it can be used to obtain important dynamic information.
+Applying such a pulse to a set of nuclear spins simultaneously excites all the single-quantum NMR transitions.
+NMR is also routinely used in advanced medical imaging techniques, such as in magnetic resonance imaging (MRI).
+These effects are exploited in some types of magnetometers, EFNMR spectrometers, and MRI imagers.
+Both ''T''1 and ''T''2 depend on the rate of molecular motions as well as the gyromagnetic ratios of both the resonating and their strongly interacting, next-neighbor nuclei that are not at resonance.
+Then, just as electrons pair up in atomic orbitals, so do even numbers of protons or even numbers of neutrons (which are also spin- particles and hence fermions) pair up giving zero overall spin.
+NMR has now entered the arena of real-time process control and process optimization in oil refineries and petrochemical plants.
+The NMR absorption (radio) frequency for tritium is however slightly higher than that of 1H because the tritium nucleus has a slightly higher gyromagnetic ratio than 1H.
+This shift in the NMR frequency due to the electronic molecular orbital coupling to the external magnetic field is called chemical shift, and it explains why NMR is able to probe the chemical structure of molecules, which depends on the electron density distribution in the corresponding molecular orbitals.
+However, in 1990 the spectrum was obtained by R. Taylor and co-workers at the University of Sussex and was found to contain a single peak, confirming the unusual structure of buckminsterfullerene.
+Unfortunately, buckminsterfullerene contains no hydrogen and so  nuclear magnetic resonance has to be used.
+These spectrometers are used in mining, polymer production, cosmetics and food manufacturing as well as coal analysis.
+While the NMR signal is constant between scans and so adds linearly, the random noise adds more slowly – proportional to the square root of the number of spectra (see random walk).

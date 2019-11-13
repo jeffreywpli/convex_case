@@ -1,0 +1,200 @@
+For some applications it is important to use a higher temperature range.
+Another price explosion for tantalum in 2000/2001 forced the development of niobium electrolytic capacitors with manganese dioxide electrolyte, which have been available since 2002.
+Electrolytic capacitors with solid electrolyte do not have wear-out failures so they do not have a lifetime specification in the sense of non-solid aluminum electrolytic capacitors.
+The stacked second foil got its own terminal additional to the anode terminal and the container no longer had an electrical function.
+The percentage of allowed deviation of the measured capacitance from the rated value is called the capacitance tolerance.
+He coined the term "valve metal" for such metals.
+Lowering the electrolyte level influences the electrical parameters of the capacitors.
+An unambiguous and general specification of tolerable transients or peak voltages is not possible.
+This influences the capacitance value of electrolytic capacitors, which depends on measuring frequency and temperature.
+Leakage current in solid MnO2 tantalum electrolytic capacitors generally drops very much faster than for non-solid electrolytic capacitors but remain at the level reached.
+The most often cited source for recalculation of failure rate is the MIL-HDBK-217F, the “bible” of failure rate calculations for electronic components.
+Tantalum capacitors with solid electrolyte have no wear-out mechanism so that the constant failure rate is least, up to the point when all capacitors fail.
+The published figures show that both capacitor types, tantalum and aluminum, are reliable components, comparable with other electronic components and achieving safe operation for decades under normal conditions.
+The next step in ESR reduction was the development of conducting polymers by Alan J. Heeger, Alan MacDiarmid and Hideki Shirakawa in 1975.
+On the alternate halves of the AC cycles, one of the oxides on the foil acts as a blocking dielectric, preventing reverse current from damaging the electrolyte of the other one.
+This rule is also known as Arrhenius rule.
+Aluminum electrolytic capacitors with non-solid electrolytes normally can be charged up to the rated voltage without any current surge, peak or pulse limitation.
+That is, “n” number of failed components per 105 hours, or in FIT the ten-thousand-fold value per 109 hours.
+Applying a lower voltage may have a positive influence on electrolytic capacitors.
+It was filled with a borax electrolyte dissolved in water, in which a folded aluminum anode plate was inserted.
+Therefore, the volume of a capacitor is defined by the product of capacitance and voltage, the so-called "CV product".
+Rubens idea adopted the stacked construction of a silver mica capacitor.
+These aluminum electrolytic capacitors with polymer electrolytes reached very low ESR values directly comparable to ceramic multilayer capacitors (MLCCs).
+This also ensures the continuing solderability of the terminals.
+Smaller or low voltage electrolytic capacitors may be connected in parallel without any safety correction action.
+The required capacitance tolerance is determined by the particular application.
+For every 10&nbsp;°C lower temperature the evaporation is reduced by half.
+Although the leakage current of non-solid e-caps is higher than current flow over insulation resistance in ceramic or film capacitors, the self-discharge of modern non-solid electrolytic capacitors with organic electrolytes takes several weeks.
+As a liquid medium which has ion conductivity caused by moving ions, non-solid electrolytes can easily fit the rough structures.
+''ESR'' influences the remaining superimposed AC ripple behind smoothing and may influence the circuit functionality.
+Applying a DC voltage from outside, an oxide layer was formed on the surface of the anode.
+Like other conventional capacitors, electrolytic capacitors store the electric energy statically by charge separation in an electric field in the dielectric oxide layer between two electrodes.
+The lifetime of polymer electrolytic capacitors is specified in terms similar to non-solid e-caps but its lifetime calculation follows other rules, leading to much longer operational lifetimes.
+In 1997 Sanyo followed with the "POSCAP" polymer tantalum chips.
+If the inductance ''ESL'' is small, the dissipation factor can be approximated as:
++ Characteristics of the different oxide layers in aluminum, tantalum and niobium electrolytic capacitors
+With the goal of reducing ESR for inexpensive non-solid e-caps from the mid-1980s in Japan, new water-based electrolytes for aluminum electrolytic capacitors were developed.
+The voltage proof of electrolytic capacitors decreases with increasing temperature.
+Tantalum electrolytic capacitors of a given CV value theoretically are therefore smaller than aluminum electrolytic capacitors.
+The stored charge is measured with a special discharge method and is called the DC capacitance.
+The advantage of these capacitors was that they were significantly smaller and cheaper than all other capacitors at this time relative to the realized capacitance value.
+Solid Tantalum capacitors which are exposed to surge, peak or pulse currents, for example, in highly inductive circuits, should be used with a voltage derating.
+The reliability prediction is generally expressed in a failure rate λ, abbreviated '''FIT''' ('''F'''ailures '''I'''n '''T'''ime.
+The electrical properties of aluminum, tantalum and niobium electrolytic capacitors have been greatly improved by the polymer electrolyte.
+File:Screw-terminal-e-caps-IMG 5126.JPG|Aluminum electrolytic capacitors with screw terminals
+Niobium electrolytic capacitors are in direct competition with industrial tantalum electrolytic capacitors because niobium is more readily available.
+Already in his patent from 1896 Pollak wrote that the capacitance of the capacitor increase by roughening the surface of the anode foil.
+For such applications electrolytic capacitors can be connected in series for increased voltage-withstanding capability.
+For tantalum electrolytic capacitors the surge voltage can be 1.3 times the rated voltage, rounded off to the nearest volt.
+Most modern electrolytic systems are chemically inert and without corrosion problems, even after storage times of two years or longer.
+and by an inductive reactance ''XL'' (Inductance)
+This statement should not be confused with the self-healing process during field crystallization, see below, Reliability (Failure rate).
+The requirements for capacitors increased in terms of lowering the equivalent series resistance (ESR) for bypass and decoupling capacitors.
+The reliability of electrolytic capacitors is empirically determined by identifying the failure rate in production accompanying endurance tests, see Reliability engineering.
+Electrolytic capacitors with solid manganese oxide or polymer electrolyte, and aluminum as well as tantalum electrolytic capacitors can not withstand transients or peak voltages higher than surge voltage.
+All electrolytic capacitors are "aged" during manufacturing by applying rated voltage at high temperature for a sufficient time to repair all cracks and weaknesses that may have occurred during production.
+In 1964 the first aluminum electrolytic capacitors with solid electrolyte SAL electrolytic capacitor came on the market, developed by Philips.
+A capacitor can also act as an AC resistor.
+The capacitance value specified in the data sheets of the manufacturers is called the rated capacitance CR or nominal capacitance CN and is the value for which the capacitor has been designed.
+By applying a positive voltage to the above-mentioned anode material in an electrolytic bath an oxide barrier layer with a thickness corresponding to the applied voltage will be formed (formation).
+The electrical conductivity decreases as a function of time, in agreement with a granular metal type structure, in which aging is due to the shrinking of the conductive polymer grains.
+File:Single-ended-e-caps-IMG 5117.JPG|Radial or single-ended aluminum electrolytic capacitors
+For such applications the AC resistance, the impedance, is as important as the capacitance value.
+Besides measuring, the impedance can be calculated using the idealized components of a capacitor's series-equivalent circuit, including an ideal capacitor ''C'', a resistor ''ESR'', and an inductance ''ESL''.
+The impedance ''Z'' is the vector sum of reactance and resistance; it describes the phase difference and the ratio of amplitudes between sinusoidally varying voltage and sinusoidally varying current at a given frequency.
+The new series of non-solid e-caps with water-based electrolyte was described in the data sheets as having "Low-ESR", "Low-Impedance", "Ultra-Low-Impedance" or "High-Ripple Current".
+With Ruben's invention, together with the invention of wound foils separated with a paper spacer 1927 by A. Eckel of Hydra-Werke (Germany), the actual development of e-caps began.
+The higher the temperature and applied voltage the higher the failure rate, for example.
+Solid electrolytes which have electron conductivity can fit the rough structures with the help of special chemical processes like pyrolysis for manganese dioxide or polymerization for conducting polymers.
+Niobium orNiobium oxide
+or for aluminum capacitors
+The conductivity of conductive polymers such as polypyrrole (PPy)  or PEDOT is better than that of TCNQ by a factor of 100 to 500, and close to the conductivity of metals.
+Applying a positive voltage to a "wet" capacitor causes a reforming (self-healing) process which repairs all weakened dielectric layers, and the leakage current remain at a low level.
+The leakage current value depends on the voltage applied, on the temperature of the capacitor, and on measuring time.
+In military and space applications only tantalum electrolytic capacitors have the necessary approvals.
+The dissipation factor is determined by the tangent of the phase angle between the capacitive reactance ''XC'' minus the inductive reactance ''XL'' and the ''ESR''.
+Non-solid electrolytic capacitors using organic solvents like GBL as electrolyte do not have problems with high leakage current after longer storage times.
+This is one reason for the high capacitance values of electrolytic capacitors compared to conventional capacitors.
+Aluminum electrolytic capacitors with non-solid electrolyte are relatively insensitive to high and short-term transient voltages higher than surge voltage, if the frequency and the energy content of the transients are low.
+But a great difference exists in the case of wear-out failures.
+The non-solid or so-called "wet" aluminum electrolytic capacitors were and are the cheapest among all other conventional capacitors.
+Voltages with reverse polarity, or voltage or ripple current higher than specified (as little as 1 or 1.5 volts may suffice), can destroy the dielectric and thus the capacitor.
+Low energy transient voltages lead to a voltage limitation similar to a zener diode.
+The Japanese manufacturer Rubycon was a leader in the development of new water-based electrolyte systems with enhanced conductivity in the late 1990s.
+For tantalum capacitors a DC bias voltage of 1.1 to 1.5&nbsp; V for types with a rated voltage ≤2.5&nbsp;V, or 2.1 to 2.5&nbsp;V for types with a rated voltage of >2.5&nbsp;V, may be applied during the measurement to avoid reverse voltage.
+Relativepermittivity
+The “end of life” point is defined by the appearance of wear-out failures or degradation failures when either capacitance, impedance, ESR or leakage current exceed their specified change limits.
+In order to prevent shocks most very large capacitors are shipped with shorting wires that need to be removed before the capacitors are used.
+This and the storage principle distinguish them from electrochemical capacitors or supercapacitors, in which the electrolyte generally is the ionic conductive connection between two electrodes and the storage occurs with statically double-layer capacitance and electrochemical pseudocapacitance.
+* rated capacitance, series E12, tolerance ±10%, letter code "K"
+The dissipation factor is used for capacitors with very low losses in frequency-determining circuits where the reciprocal value of the dissipation factor is called the quality factor (Q), which represents a resonator's bandwidth.
+The polymer electrolyte has a small deterioration of conductivity caused by a thermal degradation mechanism in the conductive polymer.
+Niobium pentoxide Nb2O5
+Although solid tantalum capacitors offered capacitors with lower ESR and leakage current values than the aluminum e-caps, 1980 a price shock for tantalum in the industry reduces the applications of Ta-e-caps especially in the entertainment industry dramatically.
+Because the forming voltage defines the oxide layer thickness, the voltage proof of the later electrolytic capacitor can be produced very simply for the desired rated value.
+But especially for electrolytic capacitors with high rated voltage the voltage at the terminals generated by the dielectric absorption can be a safety risk to personnel or circuits.
+The dielectric thickness of electrolytic capacitors is very slight, in the range of nanometers per volt.
+This is the number of failures that can be expected in one billion (109) component-hours of operation (e.g., 1000 components for 1&nbsp;million hours, or 1&nbsp; million components for 1000 hours which is 1&nbsp;ppm/1000 hours) at fixed working conditions during the period of constant random failures.
+In 1993 NEC introduced its SMD polymer tantalum electrolytic capacitors, called "NeoCap".
+In practice different safety margins to reach reliable components makes a comparison difficult.
+The heat generated by the ripple current also influences the lifetime of aluminum and tantalum electrolytic capacitors with solid polymer electrolytes.
+Individual components fail at random times but at a predictable rate.
+In these, the capacitors have two anode foils with full-thickness oxide layers connected in reverse polarity.
+Date of the table: March 2015
+In other words, the impedance is a frequency-dependent AC resistance and possesses both magnitude and phase at a particular frequency.
+This oxide layer acts as dielectric in an electrolytic capacitor.
+In data sheets of electrolytic capacitors only the impedance magnitude ''|Z|'' is specified, and simply written as ''"Z".''
+It also influenced the development of aluminum electrolytic capacitors.
+The phenomenon that can form an oxide layer on aluminum and other metals like tantalum, niobium, manganese, titanium, zinc, cadmium etc.
+Transients for this type of e-caps may destroy the components.
+The DC capacitance is about 10% higher than the 100/120&nbsp;Hz AC capacitance.
+* rated capacitance, series E3, tolerance ±20%, letter code "M"
+It characterizes the change of thermic reaction speed.
+File:Tantalum-SMD-Chip-Molded.jpg| Construction of a typical SMD tantalum electrolytic chip capacitor with solid electrolyte
+His invention was supported by R. J. Millard, who introduced the "reform" step in 1955, a significant improvement in which the dielectric of the capacitor was repaired after each dip-and-convert cycle of MnO2 deposition, which dramatically reduced the leakage current of the finished capacitors.
+But even after exceeding the specified limits and the capacitors having reached their “end of life” the electronic circuit is not in immediate danger; only the functionality of the capacitors is reduced.
+Aluminum electrolytic capacitors form the bulk of the electrolytic capacitors used in electronics because of the large diversity of sizes and the inexpensive production.
+During charging, the voltage across each of the capacitors connected in series is proportional to the inverse of the individual capacitor’s leakage current.
+Therefore, the capacitance values of electrolytic capacitors are not directly comparable and differ from those of film capacitors or ceramic capacitors, whose capacitance is measured at 1&nbsp;kHz or higher.
+For a 100&nbsp;µF/25&nbsp;V tantalum chip capacitor used with a series resistance of 0.1&nbsp;Ω the failure rate is 0.02 FIT.
+However, solid polymer electrolytic capacitors, aluminum as well as tantalum and niobium electrolytic capacitors also have a lifetime specification.
+It was not until 1983 when a new step toward ESR reduction was taken by Sanyo with its "OS-CON" aluminum electrolytic capacitors.
+Tantalum electrolytic capacitors with solid manganese dioxide electrolyte do not have wear-out failures so they do not have a lifetime specification in the sense of non-solid aluminum electrolytic capacitors.
+These capacitors used a solid organic conductor, the charge transfer salt TTF-TCNQ (tetracyanoquinodimethane), which provided an improvement in conductivity by a factor of 10 compared with the manganese dioxide electrolyte.
+The properties of this oxide layers are given in the following table:
+Nearly all commercial series of non-solid electrolytics fulfill the 1000 hour shelf life test.
+For aluminum electrolytic capacitors the decades from 1970 to 1990 were marked by the development of various new professional series specifically suited to certain industrial applications, for example with very low leakage currents or with long life characteristics, or for higher temperatures up to 125&nbsp;°C.
+That increases the later capacitance value, depending on the rated voltage, by a factor of up to 200 for non-solid aluminum electrolytic capacitors as well as for solid tantalum electrolytic capacitors.
+Then ''Z'' is given by
+The standardized measuring condition for e-caps is an AC measuring method with 0.5&nbsp;V at a frequency of 100/120&nbsp;Hz and a temperature of 20&nbsp;°C.
+Billions of tested capacitor unit-hours would be needed to establish failure rates in the very low level range which are required today to ensure the production of large quantities of components without failures.
+There are many different electrolytes in use.
+With frequencies above the resonance the impedance increases again due to the ''ESL'' of the capacitor.
+Since every capacitor differs a little bit in individual leakage current, the capacitors with a higher leakage current will get less voltage.
+* rated capacitance, series E6, tolerance ±20%, letter code "M"
+The basic unit of an electrolytic capacitor's capacitance is the microfarad (μF, or less correctly, uF).
+Niobium is a sister metal to tantalum and serves as valve metal generating an oxide layer during anodic oxidation.
+For tantalum electrolytic capacitors lowering the voltage applied increases the reliability and reduces the expected failure rate.
+Standard electrolytic capacitors are polarized components due to their asymmetrical construction, and may only be operated with a higher voltage (ie, more positive) on the anode than on the cathode at all times.
+Applying a higher voltage than specified may destroy electrolytic capacitors.
+The tested failure rates are often complemented with figures resulting from feedback from the field from big users concerning failed components (field failure rate), which mostly results in a lower failure rate than tested.
+For aluminum electrolytic capacitors a lower applied voltage can in some cases extend the lifetime.
+If possible the voltage profile should be a ramp turn-on, as this reduces the peak current experienced by the capacitor.
+The capacitance decreases and the impedance and ESR increase with decreasing amounts of electrolyte.
+They ground tantalum to a powder, which they pressed into a cylindrical form and then sintered at high a temperature between 1500 and 2000&nbsp;°C under vacuum conditions to produce a pellet ("slug").
+File:CMS tantalum capacitor.JPG| Typical tantalum SMD capacitor
+In this case the impedance at the angular frequency ''ω'' is given by the geometric (complex) addition of ''ESR'', by a capacitive reactance ''XC''
+Some manufacturers may have their own FIT calculation tables for tantalum capacitors.
+Field failure rates for aluminum e-caps are in the range of 0.5 to 20&nbsp;FIT.
+Tantalum electrolytic capacitors, usually used in the SMD version, have a higher specific capacitance than the aluminum electrolytic capacitors and are used in devices with limited space or flat design such as laptops.
+In 1991 Panasonic came on the market with its "SP-Cap", called polymer aluminum electrolytic capacitors.
+In general, a capacitor is seen as a storage component for electric energy.
+In 1952 a targeted search at Bell Labs by D. A. McLean and F. S. Power for a solid electrolyte led to the invention of manganese dioxide as a solid electrolyte for a sintered tantalum capacitor.
+Commercially available industrially produced tantalum capacitors now have reached as standard products the high MIL standard "C" level, which is 0.01%/1000 h at 85&nbsp;°C and UR or 1 failure per 107 hours at 85&nbsp;°C and UR.
+File:Tantal-Elko-Axial-P1040292c.jpg|Axial style tantalum electrolytic capacitors
+Also, tantalum capacitors with non-solid electrolyte, the "wet tantalums", do not have a lifetime specification because they are hermetically sealed and evaporation of electrolyte is minimized.
+At the same time in Berlin, Germany, the "Hydra-Werke", an AEG company, started the production of e-caps in large quantities.
+The ancestor of the modern electrolytic capacitor was patented by Samuel Ruben in 1925, who teamed with Philip Mallory, the founder of the battery company that is now known as Duracell International.
+Lowering the voltage applied at a higher temperature maintains safety margins.
+This construction with different styles of anode construction but with a case as cathode and container for the electrolyte was used up to the 1930s and was called a "wet" electrolytic capacitor, in the sense of its having a high water content.
+In the special case of resonance, in which the both reactive resistances ''XC'' and ''XL'' have the same value (''XC=XL''), then the impedance will only be determined by ''ESR''.
+The relevant development of solid electrolyte tantalum capacitors began some years after William Shockley, John Bardeen and Walter Houser Brattain invented the transistor in 1947.
+Aluminum oxide Al2O3
+SQC Online, the online statistical calculator for acceptance sampling and quality control, provides an online tool for short examination to calculate given failure rate values for given application conditions.
+Related to the capacitorm ''ESR'' accounts for internal heat generation if a ripple current flows over the capacitor.
+However, a particular problem with non-solid aluminum models may occur after storage or unpowered periods.
+Exceeding the limit tends to result in catastrophic failures with short components.
+For some capacitor types therefore the IEC standard specifies a "temperature derated voltage" for a higher temperature, the "category voltage UC".
+The specification of the leakage current in data sheets is often given by multiplication of the rated capacitance value ''CR'' with the value of the rated voltage ''UR'' together with an addendum figure, measured after a measuring time of 2 or 5 minutes, for example:
+This internal heat reduces the lifetime of non-solid aluminum electrolytic capacitors or influences the reliability of solid tantalum electrolytic capacitors.
+They can be stored for up to 10 years without problems
+As to the basic construction principles of electrolytic capacitors, there are three different types: aluminum, tantalum, and niobium capacitors.
+William Dubilier, whose first patent for electrolytic capacitors was filed in 1928, industrialized the new ideas for electrolytic capacitors and started the first large commercial production in 1931 in the Cornell-Dubilier (CD) factory in Plainfield, New Jersey.
+The first solid electrolyte of manganese dioxide developed 1952 for tantalum capacitors had a conductivity 10 times better than all other types of non-solid electrolytes.
+Charles Pollak (born Karol Pollak), a producer of accumulators, found out that the oxide layer on an aluminum anode remained stable in a neutral or alkaline electrolyte, even when the power was switched off.
+In number of pieces, these capacitors cover about 10% of the total capacitor market, or about 100 to 120 billion pieces.
+This very slow electrolyte drying-out depends on the temperature, the applied ripple current load, and the applied voltage.
+A new conductive polymer for tantalum polymer capacitors was presented by Kemet at the "1999 Carts" conference.
+The first more common application of wet aluminum electrolytic capacitors was in large telephone exchanges, to reduce relay hash (noise) on the 48 volt DC power supply.
+Breakdownvoltage(V/µm)
+All anode materials are either etched or sintered and have a rough surface structure with a much higher surface area compared to a smooth surface of the same area or the same volume.
+Solid tantalum electrolytic capacitors with manganese dioxide electrolyte or polymer electrolyte are damaged by peak or pulse currents.
+Bipolar electrolytic (aka non-polarized) capacitors which may be operated with either polarity are special constructions with two anodes connected in series.
+Basic principle for calculating the time under operational conditions is the so-called “10-degree-rule”.
+The solution found by R. L. Taylor and H. E. Haring of the Bell labs in early 1950 was based on experiences with ceramics.
+The category voltage is the maximum DC voltage or peak pulse voltage that may be applied continuously to a capacitor at any temperature within the category temperature range TC.
+With this specification the lifetime at operational conditions can be estimated by special formulas or graphs specified in the data sheets of serious manufacturers.
+It should be noted that industrially produced tantalum capacitors nowadays are very reliable components.
+Although fundamental inventions came from Bell Labs, the inventions for manufacturing commercially viable tantalum electrolytic capacitors came from researchers at the Sprague Electric Company.
+Their properties are comparable.
+Reliability normally is shown as a bathtub curve and is divided into three areas: early failures or infant mortality failures, constant random failures and wear out failures.
+Generally they are distinguished into two species, “non-solid” and “solid” electrolytes.
+Failures totalized in a failure rate are short circuit, open circuit, and degradation failures (exceeding electrical parameters).
+Then the dielectric is used only for blocking DC.
+On the other hand, the voltage strengths of these oxide layers are quite high.
+This failure rate model implicitly assumes the idea of "random failure".
+Storage times can be tested using accelerated shelf-life testing, which requires storage without applied voltage at the upper category temperature for a certain period, usually 1000 hours.
+For other conditions of applied voltage, current load, temperature, capacitance value, circuit resistance (for tantalum capacitors), mechanical influences and humidity, the FIT figure can be recalculated with acceleration factors standardized for industrial or military contexts.
+It is good to know that for tantalum capacitors the failure rate is often specified in essence at 85&nbsp;°C and rated voltage UR as reference conditions and expressed as percent failed components per thousand hours (n&nbsp;%/1000&nbsp;h).
+File:Snap-In Electrolytic Capacitor.jpg|Aluminum electrolytic capacitor with "snap-in" terminals

@@ -1,0 +1,200 @@
+Compacts often have macro capability and zoom lenses, but the zoom range (up to 30x) is generally enough for candid photography but less than is available on bridge cameras (more than 60x), or the interchangeable lenses of DSLR cameras available at a much higher cost.
+In September 2014, Sony announced the Cyber-shot SmartShot DSC-QX30 as well as the α SmartShot ILCE-QX1, the latter with E-mount instead of a built-in lens.
+Most modern digital camera backs use CCD or CMOS matrix sensors.
+Some compact digital cameras use a hybrid autofocus system similar to what is commonly available on DSLRs.
+These were factory built cameras, however, not aftermarket conversions.
+Medium format and large format cameras (those using film stock greater than 35&nbsp;mm), have a low unit production, and typical digital backs for them cost over $10,000.
+Image:USB flash drive.jpg|USB flash drive
+Sales of traditional digital cameras have declined due to the increasing use of smartphones for casual photography, which also enable easier manipulation and sharing of photos through the use of apps and web-based services.
+A rangefinder is a device to measure subject distance, with the intent to adjust the focus of a camera's objective lens accordingly (open-loop controller).
+* Thermal printer &mdash; known only in one model of camera that printed images immediately rather than storing
+Other unusual formats include:
+Rotating line cameras, with about 10,000 color pixels in its sensor line, are able, , to capture about 120,000 lines during one full 360 degree rotation, thereby creating a single digital image of 1,200 Megapixels.
+Wi-Fi integrated Memory cards (SDHC, SDXC) can transmit stored images, video and other files to computers or smartphones.
+Many digital cameras have preset modes for different applications.
+This CCD array is a little smaller than a frame of 120 film and much larger than a 35 mm frame (36 x 24&nbsp;mm).
+Rugged compact cameras typically include protection against submersion, hot and cold conditions, shock and pressure.
+In January 2008, Silicon Image announced a new technology for sending video from mobile devices to a television in digital form.
+As a remote camera, a phone app using Android or iOS is needed to send live video, change settings, take photos, or use time lapse.
+A notable exception is the Nikon E2 and Nikon E3, using additional optics to convert the 35mm format to a 2/3 CCD-sensor.
+In the mid to late 1990s digital cameras became common among consumers.
+Most digital cameras achieve focus through analysis of the image captured by the objective lens and distance estimation, if it is provided at all, is only a byproduct of the focusing process (closed-loop controller).
+These 3D compact stereo cameras can capture 3D panoramic photos with dual lens or even single lens for play back on a 3D TV.
+There are also a number of add-on camera modules for smartphones called lens-style cameras (lens camera).
+In 2013, sales fell to about 4 million per month.
+Autofocus is accomplished using sensors in the mirror box.
+For example, Phase One produces a 39 million pixel digital camera back with a 49.1 x 36.8&nbsp;mm CCD in 2008.
+Stand alone cameras can be used as remote camera.
+Many digital cameras include a video output port.
+Big physical size and small sensor allow superzoom and wide aperture.
+Most have image stabilization and built-in flash.
+* Kodak PixPro smart lens camera series, announced in 2014.
+Many cameras, especially high-end ones, support a raw image format.
+Such cameras are also commonly used to make photo finishes, to determine the winner when multiple competitors cross the finishing line at nearly the same time.
+* Cameras with integrated Wi-Fi or specific Wi-Fi adapters mostly allow camera control, especially shutter release, exposure control and more (tethering) from computer or smartphone apps additionally to the transfer of media data.
+Many incorporate a retractable lens assembly that provides optical zoom.
+Unfortunately, as with Texas Instruments employee Willis Adcock's filmless camera (US patent 4,057,830) in 1972, the technology had yet to catch up with the concept.
+Terms used to describe such properties include waterproof, freezeproof, heatproof, shockproof and crushproof, respectively.
+The ''linear'' or ''tri-linear'' sensors in scanning cameras utilize only a single line of photosensors, or three lines for the three colors.
+Almost all include an automatic mode, or "auto mode", which automatically makes all camera settings for the user.
+The CR2 and CR-V3 batteries are lithium based, intended for a single use.
+The translucent mirror also sends light along a second path to the sensor.
+Thus a bridge camera may better suit outdoor daytime activities, except when seeking professional-quality photos.
+MILC camera models are available with various sensor sizes including: a small 1/2.3&nbsp;inch sensor, as is commonly used in bridge cameras such as the original Pentax Q (more recent Pentax Q versions have a slightly larger 1/1.7&nbsp;inch sensor); a 1&nbsp;inch sensor; a Micro Four Thirds sensor; an APS-C sensor such as the Sony NEX series, Fujifilm X series, Pentax K-01, and Canon EOS M; and some, such as the Sony Alpha 7, use a full frame (35 mm) sensor.
+This gives them weaker low-light performance, greater depth of field, generally closer focusing ability, and smaller components than cameras using larger sensors.
+In 2011, compact digital cameras sold 10 million per month.
+Mobile phones incorporating digital cameras were introduced in Japan in 2001 by J-Phone.
+Traditionally maintaining consistent light over large 2D areas is quite difficult.
+In late 2008, a new type of camera emerged called mirrorless interchangeable-lens camera (MILC), which uses various sensors and offers lens interchangeability.
+Cameras with a small sensor use a back-side-illuminated CMOS (BSI-CMOS) sensor.
+* Onboard flash memory &mdash; Cheap cameras and cameras secondary to the device's main use (such as a camera phone)
+Multiple rows of sensors may be used to make colored images, or to increase sensitivity by TDI (Time delay and integration).
+The most common originally was to use a single image sensor with three filters passed in front of the sensor in sequence to obtain the additive color information.
+Most manufacturers of digital cameras do not provide drivers and software to allow their cameras to work with Linux or other free software.
+Some DVD recorders and television sets can read memory cards used in cameras; alternatively several types of flash card readers have TV output capability.
+Bridge cameras physically resemble DSLRs, and are sometimes called DSLR-shape or DSLR-like.
+A few cameras used other removable storage such as Microdrives (very small hard disk drives), CD single (185&nbsp;MB), and 3.5" floppy disks.
+Similarly, Samsung introduced the Galaxy S4 Zoom, having a 16-megapixel camera and 10x optical zoom, combining traits from the Galaxy S4 Mini with the Galaxy Camera.
+They have no viewfinder or LCD.
+Digital and movie cameras share an optical system, typically using a lens with a variable diaphragm to focus light onto an image pickup device.
+A raw image is the unprocessed set of pixel data directly from the camera's sensor, often saved in a proprietary format.
+As of 2014, bridge cameras come in two principal classes in terms of sensor size, firstly the more traditional 1/2.3" sensor (as measured by image sensor format) which gives more flexibility in lens design and allows for handholdable zoom from 20 to 24mm (35mm equivalent) wide angle all the way up to over 1000 mm supertele, and secondly a 1" sensor that allows better image quality particularly in low light (higher ISO) but puts greater constraints on lens design, resulting in zoom lenses that stop at 200mm (constant aperture, e.g.
+Light-field cameras were introduced in 2013 with one consumer product and several professional ones.
+Some digital cameras can crop and stitch pictures and perform other elementary image editing.
+Other cameras are supported by the gPhoto project.
+In 2012, Nikon and Samsung released the Coolpix S800c and Galaxy Camera, the first two digital cameras to run the Android operating system.
+Some are waterproof to a considerable depth up to 82 feet (27 m); others only 10 feet (3m), but only a few will float.
+Due to it also being water resistant, the Nico360 can be used as action camera.
+Improvements in single-shot cameras and image file processing at the beginning of the 21st century made single shot cameras almost completely dominant, even in high-end commercial photography.
+In 2013, Sony released two add-on camera models without display, to be used with a smartphone or tablet, controlled by a mobile application via WiFi.
+Adobe Systems has released the DNG format, a royalty-free raw image format used by at least 10 camera manufacturers.
+The color intensity values not captured for each pixel can be interpolated from the values of adjacent pixels which represent the color being calculated.
+Linescan cameras are also extensively used in imaging from satellites (see push broom scanner).
+However, the higher color fidelity and larger file sizes and resolutions available with multi-shot and scanning backs make them attractive for commercial photographers working with stationary subjects and large-format photographs.
+The 360-degree camera can take picture or video 360 degrees using two lenses back-to-back and shooting at the same time.
+* Cameraphones and some high-end stand-alone digital cameras also use cellular networks to connect for sharing images.
+Recent formats include MP4, which is based on the QuickTime format and uses newer compression algorithms to allow longer recording times in the same space.
+For example, Phase One's P45 39&nbsp;MP image back creates a single TIFF image of size up to 224.6&nbsp;MB, and even greater pixel counts are available.
+Many of these cameras can store images in a raw format in addition to supporting JPEG.
+A CCD sensor has one amplifier for all the pixels, while each pixel in a CMOS active-pixel sensor has its own amplifier.
+The Bayer filter pattern is a repeating 2x2 mosaic pattern of light filters, with green ones at opposite corners and red and blue in the other two positions.
+Nico360 was launched in 2016 and claimed as the world's smallest 360-degree camera with size 46 x 46 x 28 mm (1.8 x 1.8 x 1.1 in) and price less than $200.
+MHL sends pictures as a video stream, up to 1080p resolution, and is compatible with HDMI.
+One kind weighs 2.31 ounces, with a periscope shape, IPx7 water-resistance and dust-resistance rating and can be enhanced to IPx8 by using a cap.
+The lines are continuously fed to a computer that joins them to each other and makes an image.
+In comparison, consumer digital cameras use arrays ranging from 36 x 24&nbsp;mm (full frame on high end consumer DSLRs) to 1.28 x 0.96&nbsp;mm (on camera phones) CMOS sensor.
+The rangefinder and lens focusing mechanism may or may not be coupled.
+Some DSLRs have a "live view" mode that allows framing using the screen with image from the sensor.
+* Sony SmartShot QX series, announced and released in mid 2013.
+Other formats that are used in cameras (but not for pictures) are the Design Rule for Camera Format (DCF), an ISO specification, used in almost all camera since 1998, which defines an internal file structure and naming.
+Some cameras use a larger sensor including, at the high end, a pricey full-frame sensor compact camera, such as Sony Cyber-shot DSC-RX1, but have capability near that of a DSLR.
+The very large sensor these backs use leads to enormous image sizes.
+A few high end compact digital cameras have a hotshoe for connecting to an external flash.
+Image:MicroDrive1GB.jpg|Microdrive (CF-II)
+It is usually inappropriate to attempt to capture a subject that moves with anything but a single-shot system.
+For example, mobile phones, PDAs and laptop computers.
+Rechargeable RCR-V3 lithium-ion batteries are also available as an alternative to non-rechargeable CR-V3 batteries.
+, MILC cameras are available which appeal to both amateurs and professionals.
+Image:Floppy disk 90mm.JPG|3.5" floppy disks
+The high proportion of green takes advantage of properties of the human visual system, which determines brightness mostly from green and is far more sensitive to brightness than to hue or saturation.
+In addition to general purpose digital cameras, specialized cameras including multispectral imaging equipment and astrographs are used for scientific, military, medical and other special purposes.
+Many of them only capture grayscale images.
+Some high end travel compact cameras have 30x optical zoom have full manual control with lens ring, electronic viewfinder, Hybrid Optical Image Stabilization, built-in flash, Full HD 60p, RAW, burst shooting up to 10fps, built-in Wi-Fi with NFC and GPS altogether.
+The majority have a built-in flash, but only a few have a hotshoe.
+Most ruggedized or water-resistant models do not retract, and most with (superzoom) capability do not retract fully.
+Lens is a 146 degree wide angle or standard lens, with fixed focus.
+Some battery grips for DSLRs come with a separate holder to accommodate AA cells as an external power source.
+, most cameras use proprietary lithium-ion batteries while some use standard AA batteries or primarily use a proprietary Lithium-ion rechargeable battery pack but have an optional AA battery holder available.
+* Other cameras use wireless connections, via Bluetooth or IEEE 802.11 Wi-Fi, such as the Kodak EasyShare One.
+This is especially beneficial for burst mode shooting in low-light conditions and also for tracking when taking video.
+Many camera phones and most stand alone digital cameras store image data in flash memory cards or other removable media.
+Linescan cameras are widely used in scanners.
+Formats for movies are AVI, DV, MPEG, MOV (often containing motion JPEG), WMV, and ASF (basically the same as WMV).
+Rendering to standard images from raw sensor data allows more flexibility in making major adjustments without losing image quality or retaking the picture.
+The most common off-the-shelf battery size used is AA.
+A variety of additional features are available depending on the model of the camera.
+* Vivicam smart lens camera series from Vivitar/Sakar, announced in 2014.
+For example, a 1,000 by 1,000 pixel sensor would have 1,000,000 pixels, or 1 megapixel.
+This is reminiscent of the original instant camera, popularized by Polaroid in 1972.
+HDMI has been adopted by many high-end digital camera makers, to show photos in their high-resolution quality on an HDTV.
+These are simpler and more compact than DSLRs due to not having a lens reflex system.
+Most stand-alone cameras use SD format, while a few use CompactFlash or other types.
+In this case, the camera moves horizntally.
+A DSLT uses a '''fixed''' translucent mirror instead of a '''moving''' reflex mirror as in DSLR.
+DSLR and MILC sales also declined in 2013 by 10–15% after almost ten years of double digit growth.
+A digital rotating line camera offers images of very high total resolution.
+Nokia released the 808 PureView and Lumia 1020 in 2012 and 2013; the two devices respectively run the Symbian and Windows Phone operating systems, and both include a 41-megapixel camera (along with a camera grip attachment for the latter).
+In common parlance, the term "rangefinder camera" is interpreted very narrowly to denote manual-focus cameras with a visually-read out optical rangefinder based on parallax.
+In response to the convenience and flexibility of smartphone cameras, some manufacturers produced "smart" digital cameras that combine features of traditional cameras with those of a smartphone.
+Earlier ones used a camera tube; later ones digitized the signal.
+Cameras can be equipped with a varying amount of environmental sealing to provide protection against splashing water, moisture (humidity and fog), dust and sand, or complete waterproofness to a certain depth and for a certain duration.
+Furthermore, Panasonic Lumic DMC-CM1 is an Android KitKat 4.4 smartphone with 20MP, 1" sensor, the largest sensor for a smartphone ever, with Leica fixed lens equivalent of 28mm at F2.8, can take RAW image and 4K video, has 21mm thickness.
+Each memory slot can accept either Compact Flash or SD Card.
+The diaphragm and shutter admit the correct amount of light to the imager, just as with film but the image pickup device is electronic rather than chemical.
+Most have a built-in flash usually of low power, sufficient for nearby subjects.
+Most have wide angle and fixed focus, and can take motion and still pictures, usually without sound.
+The matrix sensor captures the entire image frame at once, instead of incrementing scanning the frame area through the prolonged exposure.
+Mobile operating systems such as Android allow automatic upload and backup or sharing of images over Wi-Fi to photo sharing and cloud services.
+Digital single-lens reflex cameras (DSLR) use a reflex mirror that can reflect the light and also can swivel from one position to another position and back to initial position.
+Raw files initially had to be processed in specialized image editing programs, but over time many mainstream editing programs, such as Google's Picasa, have added support for raw images.
+An external card reader allows convenient direct access to the images on a collection of storage media.
+Also used is the Digital Print Order Format (DPOF), which dictates what order images are to be printed in and how many copies.
+Another multiple shot method is called Microscanning.
+A translucent mirror or transmissive mirror or semi-transparent mirror is a mirror which reflects the light to two things at the same time.
+Still, many cameras use the standard USB storage protocol, and are thus easily usable.
+Many computers have a card reader built in, at least for SD cards.
+The second method with smartphones is to send a picture as an email attachment.
+"Bridge cameras", in contrast, have held their ground with functionality that most smartphone cameras lack, such as optical zoom and other advanced features.
+The two major types of digital image sensor are CCD and CMOS.
+Some also have manual controls.
+Most cameras include Exif data that provides metadata about the picture.
+The total amount of light is not changed, just some of the light travels one path and some of it travels the other.
+Instead they can be mounted to a smartphone and use its display and controls.
+In bright sun, the quality difference between a good compact camera and a digital SLR is minimal but bridge cameras are more portable, cost less and have a greater zoom ability.
+Buttons or menus on the camera allow the user to select the photo, advance from one to another, or automatically send a "slide show" to the TV.
+In a typical sensor, the pixel count is the product of the number of rows and the number of columns.
+These cameras also tend to be highly modular, with handgrips, film backs, winders, and lenses available separately to fit various needs.
+A few expensive ones use a full-frame sensor as DSLR professional cameras.
+With a line scan camera all that is necessary is to provide even illumination across the “line” currently being viewed by the camera.
+The technology of the time, however, meant that rather than being digital "backs" the bodies of these cameras were mounted on large, bulky digital units, often bigger than the camera portion itself.
+Some other camera backs use CCD arrays similar to typical cameras.
+Many industrial applications require a wide field of view.
+Digital cameras come in a wide range of sizes, prices and capabilities.
+Many early professional SLR cameras, such as the Kodak DCS series, were developed from 35&nbsp;mm film cameras.
+Compared to CCDs, CMOS sensors use less power.
+In most models, an auto actuating lens cover protects the lens from elements.
+Until early 2014, only Sony had released DSLT cameras.
+For the majority of 35&nbsp;mm film cameras the answer is no, the reworking and cost would be too great, especially as lenses have been evolving as well as cameras.
+It reflects it along the path to a pentaprism/pentamirror which then goes to an optical view finder (OVF) as is done with a reflex mirror in DSLR cameras.
+Scanning may be accomplished by moving the sensor (for example, when using color co-site sampling) or by rotating the whole camera.
+The third method is called ''scanning'' because the sensor moves across the focal plane much like the sensor of an image scanner.
+Typically, compact digital cameras incorporate a nearly silent leaf shutter into the lens but play a simulated camera sound  for skeuomorphic purposes.
+Some bridge cameras have a lens thread to attach accessories such as wide-angle or telephoto converters as well as filters such as UV or Circular Polarizing filter and lens hoods.
+For example, a portrait might use a wider aperture to render the background out of focus, and would seek out and focus on a human face rather than other image content.
+USB is now the most widely used method (most cameras are viewable as USB mass storage), though some have a FireWire port.
+In 2014, Kodak released its first Micro Four Third system camera.
+Compact digital cameras typically contain a small sensor which trades-off picture quality for compactness and simplicity; images can usually only be stored using lossy compression (JPEG).
+In 2003 camera phones outsold stand-alone digital cameras, and in 2006 they outsold film and digital stand-alone cameras.
+Touchscreen LCD and GPS do not work underwater.
+Many devices have a built-in digital camera.
+A line-scan camera traditionally has a single row of pixel sensors, instead of a matrix of them.
+Starting in 2011, some compact digital cameras can take 3D still photos.
+Live preview is almost always used to frame the photo on an integrated LCD.
+A third version combined the two methods without a Bayer filter on the chip.
+(Canon EOS-1D Mark IV and Nikon D3S have ISO 12800 plus Hi-3 ISO 102400 with the Canon EOS-1Dx's ISO of 204800)
+A common alternative is the use of a card reader which may be capable of reading several types of storage media, as well as high speed transfer of data to the computer.
+Because there is no time at which light is not traveling along both paths, DSLT cameras get the benefit of continuous auto-focus tracking.
+This provides potentially more accurate color, but requires a slightly more complicated interpolation process.
+They use interchangeable lenses for versatility.
+This method uses a single sensor chip with a Bayer filter and physically moved the sensor on the focus plane of the lens to construct a higher resolution image than the native resolution of the chip.
+There are several methods of application of the multi-shot technique.
+Almost all proprietary batteries are lithium-ion.
+For low cost and small size, these cameras typically use image sensor formats with a diagonal between 6 and 11&nbsp;mm, corresponding to a crop factor between 7 and 4.
+In addition to being able to take still photographs almost all compact cameras have the ability to record video.
+The relatively long exposure times, in the range of seconds or even minutes generally limit scan backs to studio applications, where all aspects of the photographic scene are under the photographer's control.
+* Olympus Air lens camera, announced in 2014 and released in 2015, the lens camera is open platform using Android (operating system) and can detach into 2 parts (sensor part and lens part) and all Micro Four Thirds System lenses can be attached to sensor part of the lens camera.
+DSLRs have also lost ground to Mirrorless interchangeable-lens camera (MILC)s offering the same sensor size in a smaller camera.
+Within the constraints of correct exposure various parameters can be changed, including exposure, aperture, focusing, light metering, white balance, and equivalent sensitivity.
+It can have a microphone and speaker, And it can take photos and video.
+The DCF 1998 defines a logical file system with 8.3 filenames and makes the usage of either FAT12, FAT16, FAT32 or exFAT mandatory for its physical layer in order to maximize platform interoperability.
+Lens-style cameras include:

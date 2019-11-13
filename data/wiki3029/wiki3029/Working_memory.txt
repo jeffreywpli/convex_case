@@ -1,0 +1,200 @@
+Studies show that musicians are able to serially repeat a significantly greater number of digits than nonmusicians.
+Those to-be-remembered words that had a high degree of overlap with the processed words were recalled worse, lending some support to the idea of interference through feature overwriting.
+Later research revealed this number depends on the category of chunks used (e.g., span may be around seven for digits, six for letters, and five for words), and even on features of the chunks within a category.
+In a series of experiments, Barrouillet and colleagues have shown that memory for lists of letters depends neither on the number of processing steps nor the total time of processing but on cognitive load.
+The advantage of recognition tasks is that they require minimal movement (just pressing one of two keys), making fixation of the head in the scanner easier.
+He argued that working memory depends to a large degree on the pre-frontal cortex, which deteriorates more than other brain regions as we grow old.
+Right Brodmann 10 and 47 in the ventral frontal cortex were involved more frequently with demand for manipulation such as dual-task requirements or mental operations, and Brodmann 7 in the posterior parietal cortex was also involved in all types of executive function.
+The noise effects appear to be more pronounced for non-native English speakers than native English speakers when the target stimulus is presented in English.
+The brain map of an individual, he argues, can be altered by this activation to create a larger area of the brain activated by a particular type of sensory experience.
+Later research has shown similar delay-active neurons also in the posterior parietal cortex, the thalamus, the caudate, and the globus pallidus.
+Errors in serial recall tasks are often confusions of neighboring items on a memory list (so-called transpositions), showing that retrieval competition plays a role in limiting our ability to recall lists in order, and probably also in other working memory tasks.
+Another hypothesis is that memory traces in working memory decay within a few seconds, unless refreshed through rehearsal, and because the speed of rehearsal is limited, we can maintain only a limited amount of information.
+The later work of Joaquin Fuster recorded the electrical activity of neurons in the PFC of monkeys while they were doing a delayed matching task.
+Research identifies the frontal cortex, parietal cortex, anterior cingulate cortex, and parts of the basal ganglia as crucial.
+Working memory also develops later and at a slower pace than short-term memory.
+Adolescents who start drinking at a young age show a decreased BOLD response in these brain regions.&nbsp;Alcohol dependent young women in particular exhibit less of a BOLD response in parietal and frontal cortices when performing a spatial working memory task.&nbsp;Binge drinking, specifically, can also affect one’s performance on working memory tasks, particularly visual working memory.&nbsp;Additionally, there seems to be a gender difference in regards to how alcohol affects working memory.
+This theory assumes a general deficit in old age in the ability to inhibit irrelevant, or no-longer relevant, information.
+This theory assumes that representations in working memory decay unless they are refreshed.
+While increasing demands on selection selectively changes activation in the rostral superior frontal sulcus and posterior cingulate/precuneus.
+So far, there is no direct evidence that working memory uses this binding mechanism, and other mechanisms have been proposed as well.
+Increased activation during these tasks was found in the PFC and, in several studies, also in the anterior cingulate cortex (ACC).
+Daneman and Carpenter invented the first version of this kind of task, the "reading span", in 1980.
+One slave system, the phonological loop (PL), stores phonological information (that is, the sound of language) and prevents its decay by continuously refreshing it in a rehearsal loop.
+The superior working memory performance of musicians is believed to reflect a greater storage capacity, rather than processing superiority.
+A current debate concerns the function of these brain areas.
+Working memory is a theoretical concept central both to cognitive psychology and neuroscience.
+Such attention allows for example for the voluntarily shifting in regard to goals of a person's information processing to spatial locations or objects rather than ones that capture  their attention due to their sensory saliency (such as an ambulance siren).
+(low attention  low working memory).
+Particularly strong evidence for a role of working memory for development comes from a longitudinal study showing that working-memory capacity at one age predicts reasoning ability at a later age Studies in the Neo-Piagetian tradition have added to this picture by analyzing the complexity of cognitive tasks in terms of the number of items or relations that have to be considered simultaneously for a solution.
+Musicians outperform nonmusicians in this task.
+In this experiment, students were asked to memorise the final word of up to twenty sentences, and repeat back each word in serial order.
+Subjects read a number of sentences (usually between two and six) and tried to remember the last word of each sentence.
+However, strategies that target the specific strengths and weaknesses of the student's working memory profile are available for educators.
+The first consists of long-term memory representations that are activated.
+The component is episodic because it is assumed to bind information into a unitary episodic representation.
+A further problem for the decay hypothesis comes from experiments in which the recall of a list of letters was delayed, either by instructing participants to recall at a slower pace, or by instructing them to say an irrelevant word once or three times in between recall of each letter.
+# '''The Pitch Proximity Effect''' – perhaps the tonal version of the phonological similarity effect.
+#* Inferior parietal lobe
+In 1974, Baddeley and Hitch introduced the multicomponent model of working memory.
+Measures of working-memory capacity are strongly related to performance in other complex cognitive tasks, such as reading comprehension, problem solving, and with measures of intelligence quotient.
+The resource hypothesis, for example, was meant to explain the trade-off between maintenance and processing: The more information must be maintained in working memory, the slower and more error prone concurrent processes become, and with a higher demand on concurrent processing memory suffers.
+Using this last feature, Guida and colleagues have proposed the "personalisation method" as a way to operationalise the long-term working memory.
+The absence of this phenomena in musicians supports the theory of an exclusive tonal loop in musicians.
+Working memory is organized into two embedded levels.
+Yet another idea is that representations held in working memory capacity interfere with each other.
+The persistent firing of certain neurons in the delay period of working memory tasks shows that the brain has a mechanism of keeping representations active without external input.
+These processes are sensitive to age: working memory is associated with cognitive development, and research shows that its capacity tends to decline with old age.
+The one-element focus is embedded in the four-element focus and serves to select a single chunk for processing.
+'''Parkinson's disease''':&nbsp;Patients with Parkinson's show signs of a reduced verbal function of working memory.
+The earliest mention of experiments on the neural basis of working memory can be traced back to more than 100 years ago, when Hitzig and Ferrier described ablation experiments of the prefrontal cortex (PFC); they concluded that the frontal cortex was important for cognitive rather than sensory processes.
+Working memory has been suggested to involve two processes with different neuroanatomical locations in the frontal and parietal lobes.
+:: However, during verbal working memory musicians additionally recruit the right insular cortex, and during tonal working memory additionally recruit the right globus pallidus, right caudate nucleus and left cerebellum.
+# '''Forward Digit Span Task''' – this exercises verbal working memory.
+Short-term memory is the ability to remember information over a brief period (in the order of seconds).
+Theories exist both regarding the theoretical structure of working memory and the role of specific parts of the brain involved in working memory.
+Alcohol has an effect on the Blood Oxygenation Level Dependent (BOLD) response.
+For example, if the processing task consists of adding digits, then having to add another digit every half second places a higher cognitive load on the system than having to add another digit every two seconds.
+When the individual wishes to perform a process on each of these digits—for example, adding the number two to each digit—separate processing is required for each digit, as most individuals can not perform several mathematical processes in parallel.
+An example would be that in learning to play guitar, the area activated by sensory impressions of the instrument is larger in the brain of a player than it is in a nonplayer.
+Measures of performance on tests of working memory increase continuously between early childhood and adolescence, while the structure of correlations between different tests remains largely constant.
+Many research laboratories around the world are studying various aspects of working memory.
+The interference hypothesis predicts that processing steps use up memory slots, but the simple decay hypothesis predicts that increased processing time causes memory to decay.
+The majority of them performed very poorly in academic achievements, independent of their IQ.
+When using different materials the person who could recall 80 digits was not exceptional when it came to recalling words.
+# '''Visual Oddball Task''' – this exercises visual working memory and is identical to the audio oddball task, bar the use of visual stimuli instead of auditory stimuli.
+The BOLD response affects regions of the brain such as the basal ganglia and thalamus when performing a working memory task.
+These effects seem to be a function of frontal brain areas.
+Mood states (positive or negative) can have an influence on the neurotransmitter dopamine, which in turn can affect problem solving.
+The study help answer questions about how Alzheimer's can deteriorate the working memory and ultimately obliterate memory functions.
+When there are small time intervals in which the processing task does not require attention, this time can be used to refresh memory traces.
+Working memory capacity is typically seen as a stable trait within an individual and is greatly influenced by genetic makeup.
+In Torkel Klingberg's 2009 book ''The Overflowing Brain'', he proposes that working memory is enhanced through exposure to excess neural activation.
+This has led some researchers to argue that the role of PFC in working memory is in controlling attention, selecting strategies, and manipulating information in working memory, but not in maintenance of information.
+The study's conclusion that improving or augmenting the brain's working memory ability increases fluid intelligence is backed by some
+Working memory is generally considered to have limited capacity.
+Consequently, this study supports previous findings suggesting that working memory underlies general intelligence.
+The earliest quantification of the capacity limit associated with short-term memory was the "magical number seven" suggested by Miller in 1956.
+While trying to retrieve the first word, the second word, which is represented in proximity, is accidentally retrieved as well, and the two compete for being recalled.
+Oberauer has extended Cowan's model by adding a third component, a more narrow focus of attention that holds only one chunk at a time.
+Delaying recall had virtually no effect on recall accuracy.
+The presentation of common stimuli is randomly interrupted by deviant stimuli.
+There is a tendency for spatial tasks to recruit more right-hemisphere areas, and for verbal and object working memory to recruit more left-hemisphere areas.
+Whereas most adults can repeat about seven digits in correct order, some individuals have shown impressive enlargements of their digit span—up to 80 digits.
+The greater a person's working memory capacity, the greater their ability to resist sensory capture.
+It includes visual representation of the possible moves, and awareness of the flow of information into and out of memory, all stored for a limited amount of time.
+People performing better on the task showed larger increase of activation in these areas, and their activation was correlated more over time, suggesting that their neural activity in these two areas was better coordinated, possibly due to stronger connectivity.
+According to various studies musicians show enhanced working memory.
+First, a selection operation that retrieves the most relevant item, and second an updating operation that changes the focus of attention made upon it.
+It has been found that the amount of trade-off depends on the similarity of the information to be remembered and the information to be processed.
+The activation during verbal working memory tasks can be broken down into one component reflecting maintenance, in the left posterior parietal cortex, and a component reflecting subvocal rehearsal, in the left frontal cortex (Broca's area, known to be involved in speech production).
+What we now call working memory was formerly referred to variously as a "short-term store" or short-term memory, primary memory, immediate memory, operant memory, and provisional memory.
+These findings support the theory that through musical training, musicians develop a dedicated musical storage system.
+Much less is known on how the brain accomplishes short-term maintenance and goal-directed manipulation of information.
+It is believed that this is due to the cognitive demands and repetitive nature of musical training.
+The work of Jacobsen and Fulton in the 1930s first showed that lesions to the PFC impaired spatial working memory performance in monkeys.
+Several authors  have proposed that symptoms of ADHD arise from a primary deficit in a specific executive function (EF) domain such as working memory, response inhibition or a more general weakness in executive control.
+Older adults are more susceptible than others to the effects of alcohol on working memory.
+The central executive is responsible ''inter alia'' for directing attention to relevant information, suppressing irrelevant information and inappropriate actions, and coordinating cognitive processes when more than one task is simultaneously performed.
+It is also important to note that capacity of working memory generally increases with age.
+One of the oldest ideas is that new items simply replace older ones in working memory.
+This statement describes a relation between three variables (country, ingredient, and amount of sugar), which is the maximum most individuals can understand.
+This trade-off has been investigated by tasks like the reading-span task described above.
+One is that a limited pool of cognitive resources needed to keep representations active and thereby available for processing, and for carrying out processes.
+In children with learning disabilities such as dyslexia, ADHD, and developmental coordination disorder, a similar pattern is evident.
+Much has been learned over the last two decades on where in the brain working memory functions are carried out.
+Half of the mice were given an injection that is similar to Alzheimer's effects, and the other half were not.
+In a classroom, common characteristics of working memory impairment include a failure to remember instructions and an inability to complete learning activities.
+Working memory is often used synonymously with short-term memory, but neuropsychologists have noted that the two forms of memory are distinct, particularly since they arise from different neural subsystems within the prefrontal cortex.
+Working memory performance may also be increased by high intensity exercise.
+That is, the chunks in working memory act as retrieval cues that point to the digits they contain.
+In 1935 and 1936, Carlyle Jacobsen and colleagues were the first to show the deleterious effect of prefrontal ablation on delayed response.
+Working memory is an important process for reasoning and the guidance of decision making and behavior.
+Working memory, categorization, and reasoning have been shown as related functions of structural organization theory.
+It has been shown in one study that working memory training increases the density of prefrontal and parietal dopamine receptors (specifically, DRD1) in test persons.
+Unsurprisingly, success on the task was closely linked to an individual’s reading comprehension ability.
+Numerous models have been proposed for how working memory functions, both anatomically and cognitively.
+The second level is called the focus of attention.
+It has been speculated that synchronous firing of neurons involved in working memory oscillate with frequencies in the theta band (4 to 8&nbsp;Hz).
+# '''Audio Oddball Task''' – this exercises auditory working memory.
+Several other factors affect a person's measured span, and therefore it is difficult to pin down the capacity of short-term or working memory to a number of chunks.
+However, the authors concluded that EF weaknesses neither are necessary nor sufficient to cause all cases of ADHD.
+Of those, three that are well known are summarized below.
+Brain imaging has also revealed that working memory functions are not limited to the PFC.
+Both are associated with the frontal brain, self-direction and self-regulation, but cause–effect have not been confirmed, so it is unclear whether working memory dysfunction leads to ADHD, or ADHD distractibility leads to poor functionality of working memory, or if there is some other connection.
+An explanation on the neural level of the decline of working memory and other cognitive functions in old age has been proposed by West.
+Adding larger digits takes more time than adding smaller digits, and therefore cognitive load is higher when larger digits must be added.
+Across a broad range of tasks, children manage task versions of the same level of complexity at about the same age, consistent with the view that working memory capacity limits the complexity they can handle at a given age.
+Other authors interpret the activity in parietal cortex as reflecting executive functions, because the same area is also activated in other tasks requiring attention but not memory
+The marked effects of stress on PFC structure and function may help to explain how stress can cause or exacerbate mental illness.
+Then they were expected to go through a maze that is a task to test working memory.
+In addition, the components and features of each chunk must be bound together to prevent them from being mixed up.
+One person studied by Ericsson and his colleagues, for example, used an extensive knowledge of racing times from the history of sports in the process of coding chunks: several such chunks could then be combined into a higher-order chunk, forming a hierarchy of chunks.
+We need to hold only a few concepts in working memory, which serve as cues to retrieve everything associated to them by the retrieval structures.
+For instance, span is lower for long than short words.
+Nonetheless, Cowan proposed that working memory has a capacity of about four chunks in young adults (and fewer in children and old adults).
+Research suggests a close link between the working memory capacities of a person and their ability to control the information from the environment that they can selectively enhance or ignore.
+The BOLD response correlates increased blood oxygenation with brain activity, which makes this response a useful tool for measuring neuronal activity.
+Noise (unwanted sounds) has been found to adversely affect working memory.
+Fuster found neurons in the PFC that fired mostly during the delay period, suggesting that they were involved in representing the food location while it was invisible.
+Without appropriate intervention, these children lag behind their peers.
+Keeping representations active, however, is not enough if the task demands maintaining more than one chunk of information.
+This feat is possible by extensive training on an encoding strategy by which the digits in a list are grouped (usually in groups of three to five) and these groups are encoded as a single unit (a chunk).
+One difficulty for the time-based resource-sharing model, however, is that the similarity between memory materials and materials processed also affects memory accuracy.
+None of these hypotheses can explain the experimental data entirely.
+Several forms of interference have been discussed by theorists.
+Domain knowledge retrieval structures are similar to patterns and schemas.
+'''Working memory''', a core executive function, is a cognitive system with a limited capacity that is responsible for the transient holding, processing, and manipulation of information.
+In the example, neurons representing redness would fire in synchrony with neurons representing the triangular shape, but out of sync with those representing the square shape.
+The focus is regarded as having a limited capacity and holds up to four of the activated representations.
+These findings are also difficult to explain for the decay hypothesis, because decay of memory representations should depend only on how long the processing task delays rehearsal or recall, not on the content of the processing task.
+Successful retrieval in the first attempt – something the animal can achieve after some training on the task – requires holding the location of the food in memory over the delay period.
+There is extensive evidence that working memory is linked to key learning outcomes in literacy and numeracy, as first implicated by Daneman and Carpenter (1980).
+This idea has been advanced, among others, by Graeme Halford, who illustrated it by our limited ability to understand statistical interactions between variables.
+Twenty-one patients with Parkinson's were tested in comparison to the control group of 28 participants of the same age.The researchers found that both hypotheses were the reason working memory function is reduced which did not fully agree with their hypothesis that it is either one or the other.
+The more stress in one's life, the lower the efficiency of working memory in performing simple cognitive tasks.
+fMRI research has extended this research to humans, and confirms that reduced working memory caused by acute stress links to reduced activation of the PFC, and stress increased levels of catecholamines.
+There are several hypotheses about the nature of the capacity limit.
+Updating the attentional focus has been found to involve the transient activation in the caudal superior frontal sulcus and posterior parietal cortex.
+Several explanations have been offered for this decline in psychology.
+Another form of interference is retrieval competition.
+Memory for sequences of proximal pitch tones is reduced compared to distal pitch.
+It can be used, for example, for constructing and manipulating visual images and for representing mental maps.
+Working memory is impaired by acute and chronic psychological stress.
+Working memory tasks require monitoring (i.e.,&nbsp;the manipulation of information or behaviors) as part of completing goal-directed actions in the setting of interfering processes and distractions.
+This research has confirmed that areas in the PFC are involved in working memory functions.
+A "central executive" is responsible for supervising the integration of information and for coordinating "slave systems" that are responsible for the short-term maintenance of information.
+The debate is not entirely resolved but most of the evidence supports the functional distinction.
+The ability to override sensory capture of attention differs greatly between individuals and this difference closely links to their working memory capacity.
+Drawing on the finding of general slowing of cognitive processes as people grow older, Salthouse argues that slower processing leaves more time for working-memory contents to decay, thus reducing effective capacity.
+One experiment directly manipulated the amount of overlap of phonological features between words to be remembered and other words to be processed.
+Due to the nature of this test, called a complex span task, results are thought to accurately assess an individual’s working memory, particularly their central executive system.
+However, the decline of working-memory capacity cannot be entirely attributed to slowing because capacity declines more in old age than speed.
+Experimental research and research on individual differences in working memory, however, has used largely recall tasks (e.g.,&nbsp;the reading span task, see below).
+While women perform better on verbal working memory tasks after consuming alcohol compared to men, they appear to perform worse on spatial working memory tasks as indicated by less brain activity.&nbsp;&nbsp;Finally, age seems to be an additional factor.
+A recent human lesion study conducted by Barbey and colleagues provides evidence to support the role of the dorsolateral prefrontal cortex in working memory.
+The idea is that each word, digit, or other item in working memory is represented as a bundle of features, and when two items share some features, one of them steals the features from the other.
+Episodic text structures function exclusively during text comprehension.
+There can be many of these—there is theoretically no limit to the activation of representations in long-term memory.
+'''Huntington's disease''':&nbsp;A group of researchers hosted a study that researched the function and connectivity of working memory over a 30-month longitudinal experiment.
+Refreshing them requires an attentional mechanism that is also needed for any concurrent processing task.
+The multiple-component models of working memory include proposed subsystems that store and manipulate visual images or verbal information, as well as a central executive that coordinates the subsystems.
+This random controlled study has found that a period of working memory training increases a range of cognitive abilities and increases IQ test scores.
+Working memory is a short-term memory buffer that allows for the manipulation of stored information, while short-term memory is only involved in the short-term storage of information and does not entail the manipulation or organization of material held in memory.
+Brodmann's areas (BAs) 6, 8, and 9, in the superior frontal cortex was involved when working memory must be continuously updated and when memory for temporal order had to be maintained.
+In effect, this would mean that musicians have two working memory systems: the phonological loop, and the tonal loop – supporting rehearsal of tonal information.
+'''Alzheimer's disease''': As Alzheimer's disease becomes more serious, less working memory functions.
+Similarly, working memory deficits have been identified in national curriculum low-achievers as young as seven years of age.
+For example, when the task is to remember a list of 7 words in their order, we need to start recall with the first word.
+In a large-scale screening study, one in ten children in mainstream classrooms were identified with working memory deficits.
+The cognitive processes needed to achieve this include the executive and attention control of short-term memory, which permit the interim integration, processing, disposal, and retrieval of information.
+It found that there were certain places in the brain where most connectivity was decreased in pre-Huntington diseased patients, in comparison to the control group that remained consistently functional.
+One way of establishing such bindings is by having the neurons that represent features of the same chunk fire in synchrony, and those that represent features belonging to different chunks fire out of sync.
+Concerning this last typology, Kintsch, Patel and Ericsson consider that every reader is able to form an episodic text structure during text comprehension, if the text is well written and if the content is familiar.
+The neuromodulatory arousal systems markedly alter PFC working memory function; for example, either too little or too much dopamine or norepinephrine impairs PFC network firing and working memory performance.
+The first corresponds to Ericsson and Kintsch's "classic" retrieval structure; this is developed deliberately and is arbitrary (for example, the method of loci).
+The episodic buffer resembles Tulving's concept of episodic memory, but it differs in that the episodic buffer is a temporary store.
+Working memory is essential for navigating complex cognitive tasks such as comprehension, learning and reasoning.
+P300 waves are elicited significantly earlier and have greater amplitude in musicians compared to P300s elicited in nonmusicians.
+strongly depends on the time it takes to speak the contents aloud, and on the lexical status of the contents (whether the contents are words known to the person or not).
+Another study of the same group has shown that, after training, measured brain activity related to working memory increased in the prefrontal cortex, an area that many researchers have associated with working memory functions.

@@ -1,0 +1,200 @@
+RAB drilling is used most frequently in the mineral exploration industry.
+Diamond rigs can also be part of a multi-combination rig.
+A sonic drill head works by sending high frequency resonant vibrations down the drill string to the drill bit, while the operator controls these frequencies to suit the specific conditions of the soil/rock geology.
+Drilling rigs can be massive structures housing equipment used to drill water wells, oil wells, or natural gas extraction wells, or they can be small enough to be moved manually by one person and are called augers.
+Archaeological evidence of the drilling tools used in deep-well dwelling are kept and displayed in the Zigong Salt Industry Museum.
+This provides three essential functions&nbsp;— lubrication, cooling, and removal of drill cuttings from the hole.
+It is because of deviation that drill holes must be surveyed if deviation will impact the usefulness of the information returned.
+When lifted, the trapdoor closes and the cuttings are then raised and removed.
+In the diagram, these are "stands" of drill pipe which are 2 or 3 joints of drill pipe connected together and "stood" in the derrick vertically, usually to save time while tripping pipe.
+Drilling rigs can be described using any of the following attributes:
+Research includes technologies based on the utilization of water jet, chemical plasma, hydrothermal spallation or laser.
+Auger drilling is done with a helical screw which is driven into the ground with rotation; the earth is lifted up the borehole by the blade of the screw.
+These offer the same pressure and sealing capacity found in standard pipe rams, while offering the versatility of sealing on various sizes of drill pipe, production tubing and casing without changing standard pipe rams.
+File:Move It Rig Move Safety for Roughnecks.webm|Rig move safety for roughnecks
+The tungsten buttons are the cutting face of the bit.
+The advantage of direct push technology is that in the right soil type it can produce a large number of high quality samples quickly and cheaply, generally from 50 to 75 meters per day.
+Cable tool rigs are simpler and cheaper than similarly sized rotary rigs, although loud and very slow to operate.
+This is preferred because there is no need to return intact samples to surface for assay as the objective is to reach a formation containing oil or natural gas.
+The air inside the rod string must be pressurised enough to overcome this water pressure at the bit face.
+An internal spring system isolates these vibrational forces from the rest of the drill rig.
+*Desander / desilter: contains a set of hydrocyclones that separate sand and silt from the drilling fluid.
+This is a common scenario where exploration drilling is being performed in a very isolated location.
+Cable tool rigs now are nearly obsolete in the United States.
+*Mud motor: a hydraulically powered device positioned just above the drill bit used to spin the bit independently from the rest of the drill string.
+In early oil exploration, drilling rigs were semi-permanent in nature and the derricks were often built on site and left in place after the completion of the well.
+*Rotary table: (#20) rotates the drill string along with the attached tools and bit.
+In some cases, mine shafts are dug with auger drills.
+Alternatively, stand-alone air compressors which have an output of 900-1150cfm at 300-350 psi each are used in sets of 2, 3, or 4, which are all routed to the rig through a multi-valve manifold.
+The drilling of wells for the manufacture of salt began by the Song Dynasty in China.
+The drilling and production of oil and gas can pose a safety risk and a hazard to the environment from the ignition of the entrained gas causing dangerous fires and also from the risk of oil leakage polluting water, land and groundwater.
+Direct push techniques are generally limited to shallow soil sample recovery in unconsolidated soil materials.
+This is because of the torque of the turning bit working against the cutting face, because of the flexibility of the steel rods and especially the screw joints, because of reaction to foliation and structure within the rock, and because of refraction as the bit moves into different rock layers of varying resistance.
+However, water circulation must be maintained to return the drill cuttings to surface, and more importantly to maintain cooling and lubrication of the cutting surface of the bit; while at the same time reduce friction on the steel walls of the rods turning against the rock walls of the hole.
+In the United States drilling wages would average around US$200 per day per man, while in Africa it is only US$6 per day per man, so a slow drilling machine can still be used in undeveloped countries with depressed wages.
+For these reasons, redundant safety systems and highly trained personnel are required by law in all countries with significant production.
+Oil and natural gas drilling rigs are used not only to identify geologic reservoirs but also to create holes that allow the extraction of oil or natural gas from those reservoirs.
+Most CPT rigs are heavily ballasted (20 metric tons is typical) as a counter force against the pushing force of the hydraulic rams which are often rated up to 20&nbsp;kN.
+Originally pressurized water was used instead of mud, and was almost useless in hard rock before the diamond cutting bit.
+The frequency is generally between 50 and 150 hertz (cycles per second) and can be varied by the operator.
+Motor vehicle fatalities on the job for these workers is 8.5 times the rate of the rest of the US working population, which can be attributed to the low rate of seatbelt use.
+The diamonds used to make diamond core bits are a variety of sizes, fine to microfine industrial grade diamonds, and the ratio of diamonds to metal used in the matrix affects the performance of the bits cutting ability in different types of rock formations  .
+If the borehole is dry, water is added so that the drill cuttings will flow into the bailer.
+For percussion techniques, the main limitation is air pressure.
+File:Move It Rig Move Safety for Truckers.webm|Rig move safety for truckers
+The drill cuttings are removed by injection of compressed air into the hole via the annular area between the innertube and the drill rod.
+The majority of large diameter water supply wells, especially deep wells completed in bedrock aquifers, were completed using this drilling method.
+Direct push rigs typically are limited to drilling in unconsolidated soil materials and very soft rock.
+Multi-combination rigs are a dual setup rig capable of operating in either a reverse circulation (RC) and diamond drilling role (though not at the same time).
+Hollow stem auger drilling is used for softer ground such as swamps where the hole will not stay open by itself for environmental drilling, geotechnical drilling, soil engineering and geochemistry reconnaissance work in exploration for mineral deposits.
+As the cuttings are removed inside the rods and are less prone to contamination compared to conventional drilling where the cuttings pass to the surface via outside return between the outside of the drill rod and the walls of the hole.
+This method is more costly and slower than RAB.
+Core samples are retrieved via the use of a core tube, a hollow tube placed inside the rod string and pumped with water until it locks into the core barrel.
+Compressors on an RC rig have an output of around 1000 cfm at 500 psi (500&nbsp;L·s−1 at 3.4&nbsp;MPa).
+Collaring a hole is needed to stop the walls from caving in and bogging the rod string at the top of the hole.
+Rotating hollow drill pipes carry down bentonite and barite infused drilling muds to lubricate, cool, and clean the drilling bit, control downhole pressures, stabilize the wall of the borehole and remove drill cuttings.
+With depth, volume is added to the in-rod string, requiring larger compressors to achieve operational pressures.
+*Mud pump: (#4) reciprocal type of pump used to circulate drilling fluid through the system.
+Direct push rigs include both cone penetration testing (CPT) rigs and direct push sampling rigs such as a PowerProbe or Geoprobe.
+Mechanised versions of this system persisted until about 1970, using a cam to rapidly raise and drop what, by then, was a steel cable up to 3&nbsp;mm
+RAB produces lower quality samples because the cuttings are blown up the outside of the rods and can be contaminated from contact with other rocks.
+When water return is lost the rods will vibrate, this is called "rod chatter", and that will damage the drill rods, and crack the joints.
+Drilling continues with the addition of rods to the top of the drill string.
+Large truck rigs also require a much higher overhead clearance to operate.
+It is a modification of one invented by Fauvelle in 1845, and used in the early years of the oil industry in some of the oil-producing countries in Europe.
+As the core is drilled, the core barrel slides over the core as it is cut.
+These rigs use the same technology and equipment as the oil drilling rigs, just on a smaller scale.
+The bailer is a bucket-like tool with a trapdoor in the base.
+Holes within the bit allow water to be delivered to the cutting face.
+Air core drilling can achieve depths approaching 300 metres in good conditions.
+A cable tool rig can drill  to  of hard rock a day.
+In ideal conditions, CPT rigs can achieve production rates of up to 250–300 meters per day.
+RC drilling is similar to air core drilling, in that the drill cuttings are returned to surface inside the rods.
+The rods are hollow and contain an inner tube which sits inside the hollow outer rod barrel.
+#23 is the annular (often referred to as the "Hydril", which is one manufacturer) and #24 is the pipe rams and blind rams.
+Marine rigs may operate thousands of miles distant from the supply base with infrequent crew rotation or cycle.
+Small to medium-sized drilling rigs are mobile, such as those used in mineral exploration drilling, blast-hole, water wells and environmental investigations.
+The core is washed, measured and broken into smaller pieces using a hammer or sawn through to make it fit into the sample trays.
+This is a problem as trying to recover the rods may take hours and in some cases weeks.
+*Mud tanks: (#1) often called mud pits, provides a reserve store of drilling fluid until it is required down the wellbore.
+The diamonds are set within a matrix of varying hardness, from brass to high-grade steel.
+This is usually caused by operator error, over-stressed metal, or adverse drilling conditions causing downhole equipment to get stuck in a part of the hole.
+When the drill reaches hard rock, a "collar" is put down the hole around the rods, which is normally PVC piping.
+The winch is retracted, pulling the core tube to the surface.
+An "overshot" attached to the end of the winch cable is lowered inside the rod string and locks on to the backend (aka head assembly), located on the top end of the core barrel.
+This can take place while the well is being drilled, using Measurement While Drilling tools, or after drilling, by lowering measurement tools into the newly drilled hole.
+The Driller's assistant unscrews the backend off the core tube using tube wrenches, then each part of the tube is taken and the core is shaken out into core trays.
+Auger drilling is restricted to generally soft unconsolidated material or weak weathered rock.
+During the drilling process, the drill string is periodically removed from the borehole and a bailer is lowered to collect the drill cuttings (rock fragments, soil, etc.).
+The equipment associated with a rig is to some extent dependent on the type of rig but (#23 & #24) are devices installed at the wellhead to prevent fluids and gases from unintentionally escaping from the borehole.
+This helps to bring up the sample to the surface by making the sand stick together.
+While this does not meet the proper definition of drilling, it does achieve the same result&nbsp;— a borehole.
+According to ''Salt: A World History'', a Qing Dynasty well, also located in Zigong, "continued down to 3,300 feet 1,000&nbsp;m making it at the time the deepest drilled well in the world."
+Diamond drilling has remained essentially unchanged since its inception.
+The cuttings are blown up the outside of the rods and collected at surface.
+Mining drilling rigs are used for two main purposes, exploration drilling which aims to identify the location and quality of a mineral, and production drilling, used in the production-cycle for mining.
+This method of drilling is used to drill the weathered regolith, as the drill rig and steel or tungsten blades cannot penetrate fresh rock.
+Drilling rigs can sample sub-surface mineral deposits, test rock, soil and groundwater physical properties, and also can be used to install sub-surface fabrications, such as underground utilities, instrumentation, tunnels or wells.
+Weight on bit, the force exerted on the cutting face of the bit by the drill rods in the hole above the bit, must also be monitored.
+Drilling rigs create some safety challenges for those who work on them.
+Matrix hardness, diamond size and dosing can be varied according to the rock which must be cut.
+RC drilling proved much faster and more efficient, and continues to improve with better metallurgy, deriving harder, more durable bits, and compressors delivering higher air pressures at higher volumes, enabling deeper and faster penetration.
+This can be counteracted, however, with the use of "stabilizers" also known as "reamers", which are large cylindrical pieces of steel attached to the drill string, and made to perfectly fit the size of the hole being drilled.
+The rig is first set up to drill as an RC rig and once the desired metres are drilled, the rig is set up for diamond drilling.
+The cuttings are then blown back to surface up the inner tube where they pass through the sample separating system and are collected if needed.
+Where possible, air core drilling is preferred over RAB drilling as it provides a more representative sample.
+Most drill holes deviate slightly from their planned trajectory.
+Oil well drilling utilises tri-cone roller, carbide embedded, fixed-cutter diamond, or diamond-impregnated drill bits to wear away at the cutting face.
+Although RC drilling is air-powered, water is also used to reduce dust, keep the drill bit cool, and assist in pushing cutting back upwards, but also when "collaring" a new hole.
+Also known as ballistic well drilling and sometimes called "spudders", these rigs raise and drop a drill string with a heavy carbide tipped drilling bit that chisels through the rock by finely pulverizing the subsurface materials.
+Until internal combustion engines were developed in the late 19th century, the main method for drilling rock was muscle power of man or animal.
+Diamond drilling is much slower than reverse circulation (RC) drilling due to the hardness of the ground being drilled.
+RAB drilling at extreme depth, if it encounters water, may rapidly clog the outside of the hole with debris, precluding removal of drill cuttings from the hole.
+Underground mining (hard rock) uses a variety of drill rigs dependent on the desired purpose, such as production, bolting, cabling, and tunnelling.
+They are mostly used in Africa or Third-World countries.
+Usually, when something is lost (breaks off) in the hole, it is not the drill string, but rather from the bit, hammer, or stabilizer to the bottom of the drill string (bit).
+Without sufficient lubrication and cooling, the matrix of the drill bit will soften.
+Direct push technology includes several types of drilling rigs and drilling equipment which advances a drill string by pushing or hammering without rotating the drill string.
+New portable drillcat technology uses smaller portable trailer mounted rigs with shorter  drill pipe.
+*Degasser: a device that separates air and/or gas from the drilling fluid.
+The auxiliary is a vehicle, carrying an auxiliary engine and a booster engine.
+(This tool is also known as a Down-the-hole drill.)
+RC drilling utilises much larger rigs and machinery and depths of up to 500 metres are routinely achieved.
+Alternatively, small, light CPT rigs and offshore CPT rigs will use anchors such as screwed-in ground anchors to create the reactive force.
+Instead, the engines are mounted on the auxiliary vehicle.
+These engines are connected to the rig by high pressure air hoses.
+Another form of well logging is electronic and is frequently employed to evaluate the existence of possible oil and gas deposits in the borehole.
+Casing is simply a hollow sheath which protects the hole against collapse during drilling, and is made of metal or PVC.
+Similar to a pipe wrench.
+RC drilling ideally produces dry rock chips, as large air compressors dry the rock out ahead of the advancing drill bit.
+Larger land rigs must be broken apart into sections and loads to move to a new place, a process which can often take weeks.
+*Elevators: a gripping device that is used to latch to the drill pipe or casing to facilitate the lowering or lifting (of pipe or casing) into or out of the borehole.
+It contains jets through which the drilling fluid exits.
+Since the drill string must be raised and lowered to advance the boring, the casing (larger diameter outer piping) is typically used to hold back upper soil materials and stabilize the borehole.
+Although this drilling method has largely been supplanted in recent years by other, faster drilling techniques, it is still the most practicable drilling method for large diameter, deep bedrock wells, and in widespread use for small rural water supply wells.
+Drilling of 1200 to 1800 metres is common and at these depths, ground is mainly hard rock.
+This frees up the drilling rig to drill another hole and streamlines the operation as well as allowing for specialization of certain services, i.e., completions vs. drilling.
+The use of high-powered air compressors, which push 900-1150&nbsp;cfm of air at 300-350&nbsp;psi down the hole also ensures drilling of a deeper hole up to ~1250&nbsp;m due to higher air pressure which pushes all rock cuttings and any water to the surface.
+The rotary system of drilling was in general use in Texas in the early 1900s.
+In the place of #24 Variable bore rams or VBRs can be used.
+A newer rotary drillcat top head rig equipped with down-the-hole (DTH) hammer can drill  or more per day, depending on size and formation hardness.
+It also holds other supplies needed for maintenance on the rig.
+The bits made with hard steel with a low diamond count are ideal for softer highly fractured rock while others made of softer steels and high diamond ratio are good for coring in hard solid rock.
+This applies to all drilling methods, except that in diamond core drilling the use of thinner rods and casing may permit the hole to continue.
+Air must be delivered to the piston at sufficient pressure to activate the reciprocating action, and in turn drive the head into the rock with sufficient strength to fracture and pulverise it.
+Secondly, groundwater is ubiquitous, and increases in pressure with depth in the ground.
+Automated Drill Rig (ADR) is a state-of-the-art automated full-sized walking land-based drill rig that drills long lateral sections in horizontal wells for the oil and gas industry.
+Resonance magnifies the amplitude of the drill bit, which fluidizes the soil particles at the bit face, allowing for fast and easy penetration through most geological formations.
+The speed and depth of penetration is largely dependent on the soil type, the size of the sampler, and the weight and power of the rig.
+This, of course, is all dependent on the density and weight of the rock being drilled, and on how worn the drill bit is.
+A unique drilling operation in deep ocean water was named Project Mohole.
+One safety concern is the use of seatbelts for workers driving between two locations.
+The common Bucyrus-Erie 22 can drill down to about .
+Sizable machinery is used, enabling depths of several kilometres to be penetrated.
+Cable tool rigs are a traditional way of drilling water wells.
+Other, heavier, truck rigs are more complicated, thus requiring more skill to run.
+*Drill pipe: (#16) joints of hollow tubing used to connect the surface equipment to the bottom hole assembly (BHA) and acts as a conduit for the drilling fluid.
+Diamond drilling can routinely achieve depths in excess of 1200 m. In cases where money is no issue, extreme depths have been achieved, because there is no requirement to overcome water pressure.
+ADRs are agile rigs that can move from pad to pad to new well sites faster than other full-sized drilling rigs.
+Each has its advantages and disadvantages, in terms of the depth to which it can drill, the type of sample returned, the costs involved and penetration rates achieved.
+This is why depths in excess of 500 m for reverse circulation drilling are rarely achieved, because the cost is prohibitive and approaches the threshold at which diamond core drilling is more economic.
+Some light duty drilling rigs are like a mobile crane and are more usually used to drill water wells.
+RAB drilling is used primarily for mineral exploration, water bore drilling and blast-hole drilling in mines, as well as for other applications such as engineering, etc.
+These have sets of rollers on the side, usually with tungsten buttons, that constantly break down cuttings being pushed upwards.
+There are a variety of drill mechanisms which can be used to sink a borehole into the ground.
+Alternatively, the hole can be reamed; this is the usual practice in oil well drilling where the hole size is maintained down to the next casing point.
+According to the "Oil Patch Daily News", "Each rig will generate 50,000 man-hours of work during the construction phase and upon completion, each operating rig will directly and indirectly employ more than 100 workers."
+Often diamond holes will start off at a large diameter and when outside diameter is lost, thinner rods put down inside casing to continue, until finally the hole becomes too narrow.
+Primarily in onshore oil and gas fields once a well has been drilled, the drilling rig will be moved off of the well and a service rig (a smaller rig) that is purpose-built for completions will be moved on to the well to get the well on line.
+It is cheap and fast.
+The most commonly used RC drill bits are 5-8&nbsp;inches (13–20&nbsp;cm) in diameter and have round tungsten 'buttons' that protrude from the bit, which are required to drill through shale and abrasive rock.
+Large truck drills can use over  of fuel per day, while the smaller Deeprock Style portable drills use a mere  of fuel per day.
+Vibrations may also be generated within the drill head.
+Since cable tool drilling does not use air to eject the drilling chips like a rotary, instead using a cable strung bailer, technically there is no limitation on depth.
+Compared to conventional drilling rigs", Ensign, an international oilfield services contractor based in Calgary, Alberta, that makes ADRs claims that they are "safer to operate,  have "enhanced controls intelligence," "reduced environmental footprint, quick mobility and advanced communications between field and office."
+Most companies will regularly re-grind the buttons on their drill bits in order to prevent this, and to speed up progress.
+Oil well drilling commonly uses a process of controlled deviation called directional drilling (e.g., when several wells are drilled from one surface location).
+Techniques vary among drill operators and what the rig they are using is capable of, some diamond rigs need to drill slowly to lengthen the life of drill bits and rods, which are very expensive and time consuming to replace at extremely deep depths.
+The core does not drop out of the inside of the core tube when lifted because either a split ring core lifter or basket retainer allow the core to move into, but not back out of the tube.
+Reverse circulation rig setups usually consist of a support vehicle, an auxiliary vehicle, as well as the rig itself.
+Small mobile drilling rigs are also used to drill or bore piles.
+*Shale shaker: (#2) separates drill cuttings from the drilling fluid before it is pumped back down the borehole.
+The drill string is composed of the upper drill rods, a set of "jars" (inter-locking "sliders" that help transmit additional energy to the drill bit and assist in removing the bit if it is stuck) and the drill bit.
+Air core drilling and related methods use hardened steel or tungsten blades to bore a hole into unconsolidated ground.
+Small augers can be mounted on the back of a utility truck, with large augers used for sinking piles for bridge foundations.
+*Solids control: solids control equipment is for preparing drilling mud for the drilling rig.
+Sometimes the surface location can be offset laterally to take advantage of the expected deviation tendency, so the bottom of the hole will end up near the desired location.
+A '''drilling rig''' is a machine that creates holes in the earth sub-surface.
+As the buttons wear down, drilling becomes slower and the rod string can potentially become bogged in the hole.
+Occasionally, "Super-Foam" (a.k.a.
+The drill bit has three blades arranged around the bit head, which cut the unconsolidated ground.
+In June 2005 the first specifically designed slant automated drilling rig (ADR), Ensign Rig No.
+Examining rock chips extracted from the mud is known as mud logging.
+Occasionally the collar may be made from metal casing.
+Normally VBRs are used when utilizing a tapered drill string (when different size drill pipe is used in the complete drill string).
+The drill cuttings travel around the inside of the cyclone until they fall through an opening at the bottom and are collected in a sample bag.
+This makes smaller, more portable rigs preferable in remote or hard-to-reach places, and they are more cost effective when fuel prices are high.
+There are many types and designs of drilling rigs, with many drilling rigs capable of switching or combining different drilling technologies as needed.
+Collars may be up to 60 metres deep, depending on the ground, although if drilling through hard rock a collar may not be necessary.
+Other equipment can force acid or sand into reservoirs to facilitate extraction of the oil or natural gas; and in remote locations there can be permanent living accommodation and catering for crews (which may be more than a hundred).
+The term "rig" therefore generally refers to the complex of equipment that is used to penetrate the surface of the Earth's crust.

@@ -1,0 +1,200 @@
+The customarily stated minimalist version of such a law postulates only that all bodies, which when thermally connected would be in thermal equilibrium, should be said to have the same temperature by definition, but by itself does not establish temperature as a quantity expressed as a real number on a scale.
+As the energy of the system increases in the population inversion, a system with a negative temperature is not colder than absolute zero, but rather it has a higher energy than at positive temperature, and may be said to be in fact hotter at negative temperatures.
+The following table shows the temperature conversion formulas for conversions to and from the Celsius scale.
+The United States commonly uses the Fahrenheit scale, on which water freezes at  and boils at  at sea-level atmospheric pressure.
+where the Boltzmann constant, , is the ideal gas constant divided by the Avogadro number, and ''vrms'' is the root-mean-square speed.
+Every valid temperature scale has its own one-to-one map into the hotness manifold.
+Conversely, a loss of heat from a closed system, without phase change, without change of volume, and without change in external force fields acting on it, decreases its temperature.
+The kinetic theory assumes that pressure is caused by the force associated with individual atoms striking the walls, and that all energy is translational kinetic energy.
+At the point of maximum entropy, the temperature function shows the behavior of a singularity, because the slope of the entropy function decreases to zero at first and then turns negative.
+As a collection of classical material particles, temperature is a measure of the mean energy of motion, called kinetic energy, of the particles, whether in solids, liquids, gases, or plasmas.
+the energy region of the interactions under consideration.
+Microscopically in the description of quantum mechanics, however, matter still has zero-point energy even at absolute zero, because of the uncertainty principle.
+Such scales are valid only within convenient ranges of temperature.
+These physical facts justify a mathematical statement that hotness exists on an ordered one-dimensional manifold.
+One is Kelvin's, that its formal character is independent of the properties of particular materials.
+It is not necessarily the case that the particles that escape and are measured have the same velocity distribution as the particles that remain in the bulk of the system, but sometimes a good sample is possible.
+Real world bodies are often not in thermodynamic equilibrium and not homogeneous.
+it will have a greater heat capacity than a monatomic gas.
+The Carnot cycle is considered to start from an initial condition of the working body that was reached by the completion of a reversible adiabatic compression.
+Absolute zero is the null point of the thermodynamic temperature scale, also called absolute temperature.
+It may be convenient to classify them as empirically and theoretically based.
+For each kind of change under specified conditions, the heat capacity is the ratio of the quantity of heat transferred to the magnitude of the change.
+Historically, there are several scientific approaches to the explanation of temperature: the classical thermodynamic description based on macroscopic empirical variables that can be measured in a laboratory; the kinetic theory of gases which relates the macroscopic description to the probability distribution of the energy of motion of gas particles; and a microscopic explanation based on statistical physics and quantum mechanics.
+For example, in a series of coin tosses, a perfectly ordered system would be one in which either every toss comes up heads or every toss comes up tails.
+An example of such a component is a spin system within a body, as follows.
+As the energy increases further by continued population of the excited state, the negative temperature approaches zero asymptotically.
+The ideal gas thermometer is, however, not theoretically perfect for thermodynamics.
+The physical reason is that the ideal gas law, exactly read, refers to the limit of infinitely high temperature and zero pressure.
+In the study of QCD matter one routinely encounters temperatures of the order of a few hundred MeV, equivalent to about .
+The equipartition theorem of kinetic theory asserts that each classical degree of freedom of a freely moving particle has an average kinetic energy of  where  denotes Boltzmann's constant.
+A more physically informative version of such a law views empirical temperature as a chart on a hotness manifold.
+The Rankine scale, still used in fields of chemical engineering in the U.S., is an absolute scale based on the Fahrenheit increment.
+If molecules, or atoms, or electrons, are emitted from a material and their velocities are measured, the spectrum of their velocities often nearly obeys a theoretical law called the Maxwell–Boltzmann distribution, which gives a well-founded measurement of temperatures for which the law holds.
+In addition to this, a real system or object can never be brought to a temperature of absolute zero by thermodynamic means.
+This is a fundamental character of temperature and thermometers for bodies in their own thermodynamic equilibrium.
+Since temperature is the inverse of the derivative of the entropy, the temperature formally goes to infinity at this point, and switches to negative infinity as the slope turns negative.
+On the other hand, it makes no sense to speak of the internal energy at a point, while when local thermodynamic equilibrium prevails, it makes good sense to speak of the temperature at a point.
+Empirically based temperature scales rely directly on measurements of simple physical properties of materials.
+In the fundamental physical description, using natural units, temperature may be measured directly in units of energy.
+The engine consists of four bodies.
+At energies higher than this point, the spin degree of freedom therefore exhibits formally a negative thermodynamic temperature.
+If classical thermodynamic equilibrium conditions for matter are fulfilled to good approximation in such a 'cell', then it is homogeneous and a temperature exists for it.
+The temperature of absolute zero occurs at   =  (or ), and the freezing point of water at sea-level atmospheric pressure occurs at  = .
+It can then well be that different empirical thermometers disagree about which is the hotter, and if this is so, then at least one of the bodies does not have a well defined absolute thermodynamic temperature.
+Empirical temperature scales are historically older, while theoretically based scales arose in the middle of the nineteenth century.
+It indicates the absolute temperature as proportional to the average kinetic energy of the random microscopic motions of those of their constituent microscopic particles, such as electrons, atoms, and molecules, that move freely within the material.
+The thermometric body should be composed of a material that has a strictly monotonic relation between its chosen empirical thermometric variable and the amount of adiabatic isochoric work done on it.
+For everyday applications, it is often convenient to use the Celsius scale, in which  corresponds very closely to the freezing point of water and  is its boiling point at sea level.
+In order to settle the structure and sense of operation of the Carnot cycle, it is convenient to use such a material also for the working body; because most materials are of this kind, this is hardly a restriction of the generality of this definition.
+the reciprocal of the temperature is the rate of increase of entropy with respect to energy.
+This does not require the two thermometers to have a linear relation between their numerical scale readings, but it does require that the relation between their numerical readings shall be strictly monotonic.
+For historical reasons, the triple point temperature of water is fixed at 273.16 units of the measurement increment.
+The kinetic theory offers a valuable but limited account of the behavior of the materials of macroscopic bodies, especially of fluids.
+Its natural, intrinsic origin or null point is absolute zero at which the entropy of any system is at a minimum.
+This means that for a perfectly ordered set of coin tosses, there is only one set of toss outcomes possible: the set in which 100% of tosses come up the same.
+The amounts of energy transferred as heat from the heat reservoirs are measured through the changes in the non-deformation variable of the working body, with reference to the previously known properties of that body, the amounts of work done on the work reservoir, and the first law of thermodynamics.
+If the value of the resistance is known then the temperature can be found.
+Quantum-mechanically, however, zero-point motion remains and has an associated energy, the zero-point energy.
+Such a non-equilibrium situation is either transient in time or is maintained by external factors that drive a flow of energy through the body of interest.
+The cycle is imagined to run so slowly that at each point of the cycle the working body is in a state of thermodynamic equilibrium.
+This is because the entropy of an ideal gas at its absolute zero of temperature is not a positive semi-definite quantity, which puts the gas in violation of the third law of thermodynamics.
+Heating will also cause, through equipartitioning, the energy associated with vibrational and rotational modes to increase.
+The second law states that any process will result in either no change or a net increase in the entropy of the universe.
+An example is a diathermic wall that is permeable only to heat; the intensive variable for this case is temperature.
+Nevertheless, a Kelvin temperature has a definite numerical value, that has been arbitrarily chosen by tradition.
+The temperature in kelvins can be defined as the pressure in pascals of one mole of gas in a container of one cubic meter, divided by the gas constant.
+It is customary to express temperature as energy in units of electronvolts (eV) or kiloelectronvolts (keV).
+On the other hand, there are multiple combinations that can result in disordered or mixed systems, where some fraction are heads and the rest tails.
+Because liquid droplets commonly exist in clouds at sub-zero temperatures,  is better defined as the melting point of ice.
+It is framed in terms of an idealized device called a Carnot engine, imagined to define a continuous cycle of states of its working body.
+To find this relationship, the relationship between heat, work and temperature is first considered.
+If heat capacity is measured for a well defined amount of substance, the specific heat is the measure of the heat required to increase the temperature of such a unit quantity by one unit of temperature.
+It is also possible to define temperature in terms of the second law of thermodynamics which deals with entropy.
+In other systems, vibrational and rotational motions also contribute degrees of freedom.
+An exceptionally suitable system is the ideal gas, which can provide a temperature scale that matches the absolute Kelvin scale.
+Temperature is basically defined for a body in its own state of internal thermodynamic equilibrium, and in this definition, on an absolute scale, it is always positive.
+Theoretically based temperature scales are used to provide calibrating standards for practical empirically based thermometers.
+The amounts of energy transferred as heat respectively from reservoir 1 and from reservoir 2 may then be denoted respectively  and .
+His definitive publication, which sets out the definition just stated, was printed in 1853, a paper read in 1851.
+A material is of no use as a thermometer near one of its phase-change temperatures, for example its boiling-point.
+This means that they must be at different fixed temperatures, one, labeled here with the number 1, hotter than the other, labeled here with the number 2.
+Then, 1 eV corresponds to .
+Especially, it was used for calorimetry, which contributed greatly to the discovery of thermodynamics.
+In fact the lowest temperature ever obtained in a macroscopic system was 20 nK, which was achieved in 1995 at NIST.
+Measurement of the spectrum of electromagnetic radiation from an ideal three-dimensional black body can provide an accurate temperature measurement because the frequency of maximum spectral radiance of black-body radiation is directly proportional to the temperature of the black body; this is known as Wien's displacement law, and has a theoretical explanation in Planck's law and the Bose–Einstein law.
+This function corresponds to the entropy of the system, which was described previously.
+This definition serves the following purposes: it fixes the magnitude of the kelvin as being precisely 1 part in 273.16 parts of the difference between absolute zero and the triple point of water; it establishes that one kelvin has precisely the same magnitude as one degree on the Celsius scale; and it establishes the difference between the null points of these scales as being  ( =  and  = ).
+Theoretically based temperature scales are based directly on theoretical arguments, especially those of thermodynamics, of kinetic theory, and of quantum mechanics.
+For a system, where entropy ''S''(''E'') is a function of its energy ''E'', the temperature ''T'' is given by:
+The non-deformation state variable of a closed system is represented as a real number.
+There are four limbs in such a Carnot cycle.
+The generalized temperature is obtained by considering time ensembles instead of configuration-space ensembles given in statistical mechanics in the case of thermal and particle exchange between a small system of fermions (''N'' even less than 10) with a single/double-occupancy system.
+This can be tested by connecting the heat reservoirs successively to an auxiliary empirical thermometric body that starts each time at a convenient fixed intermediate temperature.
+The efficiency depends only on ''qC''/''qH''.
+Then the absolute or thermodynamic temperatures,  and ,  of the reservoirs are defined so that to be such that
+The quantity of heat transferred, , divided by the observed temperature change, , is the body's heat capacity at constant volume, .
+For example, the length of a column of mercury, confined in a glass-walled capillary tube, is dependent largely on temperature, and is the basis of the very useful mercury-in-glass thermometer.
+It makes good sense, for example, to say of the extensive variable , or of the extensive variable , that it has a density per unit volume, or a quantity per unit mass of the system, but it makes no sense to speak of density of temperature per unit volume or quantity of temperature per unit mass of the system.
+The translational motion of the particle has three degrees of freedom, so that, except at very low temperatures where quantum effects predominate, the average translational kinetic energy of a freely moving particle in a system with temperature  will be .
+The International System of Units (SI) defines a scale and unit for the kelvin or thermodynamic temperature by using the reliably reproducible temperature of the triple point of water as a second reference point (the first reference point being 0&nbsp;K at absolute zero).
+There is a variety of kinds of temperature scale.
+Kelvin's original work postulating absolute temperature was published in 1848.
+The coldest theoretical temperature is absolute zero, at which the thermal motion of atoms and molecules reaches its minimum – classically, this would be a state of motionlessness, but quantum uncertainty dictates that the particles still possess a finite zero-point energy.
+(10) is the defining relation of temperature.
+An empirical temperature is a numerical scale for the hotness of a thermodynamic system.
+In thermodynamics, two bodies are often considered as connected by contact with a common wall, which has some specific permeability properties.
+If internal energy is considered as a function of the volume and entropy of a homogeneous system in thermodynamic equilibrium, thermodynamic absolute temperature appears as the partial derivative of internal energy with respect the entropy at constant volume.
+Numerical details are settled by making one of the heat reservoirs a cell at the triple point of water, which is defined to have an absolute temperature of 273.16 K.  The zeroth law of thermodynamics allows this definition to be used to measure the absolute or thermodynamic temperature of an arbitrary body of interest, by making the other heat reservoir have the same temperature as the body of interest.
+Many engineering fields in the U.S., notably high-tech and US federal specifications (civil and military), also use the Kelvin and Celsius scales.
+Its zero point, , is defined to coincide with the coldest physically-possible temperature (called absolute zero).
+A definite sense of greater hotness can be had, independently of calorimetry, of thermodynamics, and of properties of particular materials, from Wien's displacement law of thermal radiation: the temperature of a bath of thermal radiation is proportional, by a universal constant, to the frequency of the maximum of its frequency spectrum; this frequency is always positive, but can have values that tend to zero.
+The kinetic energy, a concept of classical mechanics, is half the mass of a particle times its speed squared.
+The spectrum of velocities has to be measured, and the average calculated from that.
+In a given frequency band, the noise-power has equal contributions from every frequency, and is called Johnson noise.
+This can only be the case if:
+An ideal material on which a temperature scale can be based is the ideal gas.
+For study by methods of classical irreversible thermodynamics, a body is usually spatially and temporally divided conceptually into 'cells' of small size.
+The resistor has two terminals and is in effect a one-dimensional body.
+A temperature scale can now be chosen with the property that:
+Consequently, temperature can vary from point to point in a medium that is not in global thermodynamic equilibrium, but in which there is local thermodynamic equilibrium.
+where the subscript indicates a reversible process.
+The process of cooling involves removing internal energy from a system.
+It explains macroscopic phenomena through the classical mechanics of the microscopic particles.
+For a very large number of coin tosses, the combinations to ~50% heads and ~50% tails dominates and obtaining an outcome significantly different from 50/50 becomes extremely unlikely.
+In an ideal monatomic gas, the kinetic energy is found exclusively in the purely translational motions of the particles.
+Since the first function is independent of ''T''2, this temperature must cancel on the right side, meaning ''f''(''T''1,''T''3) is of the form ''g''(''T''1)/''g''(''T''3) (i.e.
+While the zeroth law permits the definitions of many different empirical scales of temperature, the second law of thermodynamics selects the definition of a single preferred, absolute temperature, unique up to an arbitrary scale factor, whence called the thermodynamic temperature.
+The accepted fundamental thermodynamic temperature scale is the Kelvin scale, based on an ideal cyclic process envisaged for a Carnot heat engine.
+Temperature is one of the principal quantities in the study of thermodynamics.
+In the previous section certain properties of temperature were expressed by the zeroth law of thermodynamics.
+When a temperature difference does exist heat flows spontaneously from the warmer system to the colder system until they are in thermal equilibrium.
+They rely on theoretical properties of idealized devices and materials.
+When no more energy can be removed, the system is at absolute zero, though this cannot be achieved experimentally.
+The main one is called the working body.
+For example, above the boiling point of mercury, a mercury-in-glass thermometer is impracticable.
+Most materials expand with temperature increase, but some materials, such as water, contract with temperature increase over some specific range, and then they are hardly useful as thermometric materials.
+Temperature is important in all fields of natural science, including physics, geology, chemistry, atmospheric sciences, medicine, and biology, as well as most aspects of daily life.
+Such hotness may be defined as existing on a one-dimensional manifold, stretching between hot and cold.
+This physical idea is also expressed by Bailyn as a possible version of the zeroth law of thermodynamics: "All diathermal walls are equivalent."
+The microscopic description in statistical mechanics is based on a model that analyzes a system into its fundamental particles of matter or into a set of classical or quantum-mechanical oscillators and considers the system as a statistical ensemble of microstates.
+On the absolute Kelvin scale, however, this temperature is 194.6 K. On the absolute scale of thermodynamic temperature no material can have a temperature smaller than or equal to 0 K, both of which are forbidden by the third law of thermodynamics.
+However, this is not the macroscopic temperature of the material, but instead the temperature of only very specific degrees of freedom, that are isolated from others and do not exchange energy by virtue of the equipartition theorem.
+With this set-up, the four limbs of the reversible Carnot cycle are characterized by amounts of energy transferred, as work from the working body to the work reservoir, and as heat from the heat reservoirs to the working body.
+While for bodies in their own thermodynamic equilibrium states, the notion of temperature requires that all empirical thermometers must agree as to which of two bodies is the hotter or that they are at the same temperature, this requirement is not safe for bodies that are in steady states though not in thermodynamic equilibrium.
+Rearranging Equation 6 gives a new definition for temperature in terms of entropy and heat:
+In the quantum mechanical description of electron and nuclear spin systems that have a limited number of possible states, and therefore a discrete upper limit of energy they can attain, it is possible to obtain a negative temperature, which is numerically indeed less than absolute zero.
+Absolute zero is defined as precisely  and .
+This definition rests on the physical assumption that there are readily available walls permeable only to heat.
+It is possible to measure the average kinetic energy of constituent microscopic particles if they are allowed to escape from the bulk of the system.
+The cycle is closed by reversible adiabatic compression of the working body, with no energy transferred as heat, but energy being transferred to it as work from the work reservoir.
+Heating results in an increase in temperature due to an increase in the average translational kinetic energy of the molecules.
+In particular, when the body is described by stating its internal energy , an extensive variable, as a function of its entropy , also an extensive variable, and other state variables , with ), then the temperature is equal to the partial derivative of the internal energy with respect to the entropy:
+In spite of these restrictions, most generally used practical thermometers are of the empirically based kind.
+From there, the working body is initially connected by a wall permeable only to heat to the heat reservoir number 1, so that during the first limb of the cycle it expands and does work on the work reservoir.
+Subtracting the right hand side of Equation 5 from the middle portion and rearranging gives:
+Depending on the surroundings and the walls separating them from the body, various changes are possible in the body.
+Absolute zero is denoted as 0&nbsp;K on the Kelvin scale, −273.15&nbsp;°C on the Celsius scale, and  −459.67&nbsp;°F on the Fahrenheit scale.
+Thus, it is expected that there is some relationship between temperature and entropy.
+Because of the 100 degree interval, it is called a centigrade scale.
+(9) can be derived from the principles underlying the fundamental thermodynamic relation.
+The Kelvin scale is also called the '''thermodynamic scale'''.
+This is a matter for study in non-equilibrium thermodynamics.
+Carnot's theorem states that all reversible engines operating between the same heat reservoirs are equally efficient.
+In the United States, the Fahrenheit scale is widely used.
+where ''E''F is the Fermi energy.
+For example, dry ice has a sublimation temperature of  which is equivalent to .
+Thus the system naturally progresses to a state of maximum disorder or entropy.
+Experimental physicists, for example Galileo and Newton, found that there are indefinitely many empirical temperature scales.
+It refers to systems closed to transfer of matter, and has special emphasis on directly experimental procedures.
+When the two bodies have been in contact for a very long time, and have settled to a permanent steady state, the relevant intensive variables are equal in the two bodies; for a diathermal wall, this statement is sometimes called the zeroth law of thermodynamics.
+Although this is the lowest absolute temperature described by the model, the third law of thermodynamics postulates that absolute zero cannot be attained by any physical system.
+This generalized temperature tends to the ordinary temperature when ''N'' goes to infinity.
+In monatomic perfect gases and, approximately, in most gases, temperature is a measure of the mean particle kinetic energy.
+For solids, the thermal energy is associated primarily with the vibrations of its atoms or molecules about their equilibrium position.
+The Kelvin scale is called '''absolute''' for two reasons.
+This statement helps to define temperature but it does not, by itself, complete the definition.
+It is possible to extend the definition of temperature even to systems of few particles, like in a quantum dot.
+It is an empirical scale.
+The third limb of the cycle sees the working body connected, through a wall permeable only to heat, to the heat reservoir 2, contracting and accepting energy as work from the work reservoir.
+where ''wcy'' is the work done per cycle.
+Implicitly for this definition, the second law of thermodynamics provides information that establishes the virtuous character of the temperature so defined.
+Some natural gases show so nearly ideal properties over suitable temperature ranges that they can be used for thermometry; this was important during the development of thermodynamics, and is still of practical importance today.
+The quality of hotness refers to the state of material only in a particular locality, and in general, apart from bodies held in a steady state of thermodynamic equilibrium, hotness varies from place to place.
+In addition, rigorous and purely mathematical treatments have provided an axiomatic approach to classical thermodynamics and temperature.
+This can be understood in terms of probability.
+Because ''qC'' and ''qH'' correspond to heat transfer at the temperatures ''TC'' and ''TH'', respectively, ''qC''/''qH'' should be some function of these temperatures:
+The microscopic definition of temperature is only meaningful in the thermodynamic limit, meaning for large ensembles of states or particles, to fulfill the requirements of the statistical model.
+Likewise, when the body is described by stating its entropy  as a function of its internal energy , and other state variables , with , then the reciprocal of the temperature is equal to the partial derivative of the entropy with respect to the internal energy:
+It also determines the probability distribution function of the energy.
+This relationship suggests the existence of a state function, ''S'', defined by:
+Thermal radiation is initially defined for a cavity in thermodynamic equilibrium.
+The second limb of the cycle sees the working body expand adiabatically and reversibly, with no energy exchanged as heat, but more energy being transferred as work to the work reservoir.
+When two systems in thermal contact are at the same temperature no heat transfers between them.
+When brought into contact with a system at a positive temperature, energy will be transferred from the negative temperature regime to the positive temperature region.
+The fourth body is able to exchange energy with the working body only through adiabatic work; it may be called the work reservoir.
+As a practical matter it is not possible to use a gas thermometer to measure absolute zero temperature since the gases tend to condense into a liquid long before the temperature reaches zero.
+They are more or less comparable with practically feasible physical devices and materials.
+For example, if the change is an increase in temperature at constant volume, with no phase change and no chemical change, then the temperature of the body rises and its pressure increases.
+For a system undergoing such a phase change so slowly that departure from thermodynamic equilibrium can be neglected, its temperature remains constant as the system is supplied with latent heat.
+The substances and states of the two heat reservoirs should be chosen so that they are not in thermal equilibrium with one another.

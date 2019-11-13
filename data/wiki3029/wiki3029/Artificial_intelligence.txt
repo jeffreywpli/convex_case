@@ -1,0 +1,200 @@
+The word "robot" itself was coined by Karel Čapek in his 1921 play ''R.U.R.
+When access to digital computers became possible in the middle 1950s, AI research began to explore the possibility that human intelligence could be reduced to symbol manipulation.
+;''The artificial brain argument'': The brain can be simulated by machines and because brains are intelligent, simulated brains must also be intelligent; thus machines can be intelligent.
+By this method, ignorance can be distinguished from probabilistic statements that an agent makes with high confidence.
+Modern artificial intelligence techniques are pervasive and are too numerous to list here.
+The main areas promoted are: general machine intelligence, conversational behavior, data-mining, robotic cars, robot soccer and games.
+LSTM is often trained by Connectionist Temporal Classification (CTC).
+For example, a chess master will avoid a particular chess position because it "feels too exposed" or an art critic can take one look at a statue and instantly realize that it is a fake.
+One proposal to deal with this is to ensure that the first generally intelligent AI is 'Friendly AI', and will then be able to control subsequently developed AIs.
+In order to solve this particular problem, one must solve all the problems.
+# Sub-human: performs worse than most humans.
+Progress slowed and in 1974, in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects, both the U.S. and British governments cut off exploratory research in AI.
+(Rossum's Universal Robots)''.
+Computationalism argues that the relationship between mind and body is similar or identical to the relationship between software and hardware and thus may be a solution to the mind-body problem.
+Ray Kurzweil has used Moore's law (which describes the relentless exponential improvement in digital technology) to calculate that desktop computers will have the same processing power as human brains by the year 2029, and predicts that the singularity will occur in 2045.
+Emotion and social skills play two roles for an intelligent agent.
+John Haugeland, who coined the term GOFAI (Good Old-Fashioned Artificial Intelligence), also proposed that AI should more properly be referred to as synthetic intelligence, a term which has since been adopted by some non-GOFAI researchers.
+Deep Blue became the first computer chess-playing system to beat a reigning world chess champion, Garry Kasparov on 11 May 1997.
+By 1985 the market for AI had reached over a billion dollars.
+Classification is used to determine what category something belongs in, after seeing a number of examples of things from several categories.
+(See Dreyfus' critique of AI.)
+However, onlookers commonly discount the behavior of an artificial intelligence program by arguing that it is not "real" intelligence after all; thus "real" intelligence is whatever intelligent behavior people can do that machines still can not.
+The main categories of networks are acyclic or feedforward neural networks (where the signal passes in only one direction) and recurrent neural networks (which allow feedback and short-term memories of previous input events).
+Concern over risk from artificial intelligence has led to some high-profile donations and investments.
+Rodney Brooks' subsumption architecture was an early proposal for such a hierarchical system.
+A few of the most general of these methods are discussed below.
+The first work that is now generally recognized as AI was McCullough and Pitts' 1943 formal design for Turing-complete "artificial neurons".
+In reinforcement learning the agent is rewarded for good responses and punished for bad ones.
+Subjective logic models uncertainty in a different and more explicit manner than fuzzy-logic: a given binomial opinion satisfies belief + disbelief + uncertainty = 1 within a Beta distribution.
+Research in machine ethics is key to alleviating concerns with autonomous systems—it could be argued that the notion of autonomous machines without such a dimension is at the root of all fear concerning machine intelligence.
+;''Gödelian arguments'': Gödel himself, John Lucas (in 1961) and Roger Penrose (in a more detailed argument from 1989 onwards) made highly technical arguments that human mathematicians can consistently see the truth of their own "Gödel statements" and therefore have computational abilities beyond that of mechanical Turing machines.
+Supervised learning includes both classification and numerical regression.
+As with the related problem of sub-symbolic reasoning, it is hoped that situated AI, computational intelligence, or statistical AI will provide ways to represent this kind of knowledge.
+Or does it necessarily require solving a large number of completely unrelated problems?
+During the 1960s, symbolic approaches had achieved great success at simulating high-level thinking in small demonstration programs.
+The most general are called upper ontologies, which attempt to provide a foundation for all other knowledge.
+Political scientist Charles T. Rubin believes that AI can be neither designed nor guaranteed to be benevolent.
+; Logic-based: Unlike Newell and Simon, John McCarthy felt that machines did not need to simulate human thought, but should instead try to find the essence of abstract reasoning and problem solving, regardless of whether people used the same algorithms.
+Default logics, non-monotonic logics and circumscription are forms of logic designed to help with default reasoning and the qualification problem.
+Control theory, the grandchild of cybernetics, has many important applications, especially in robotics.
+I think the worry stems from a fundamental error in not distinguishing the difference between the very real recent advances in a particular aspect of AI, and the enormity and complexity of building sentient volitional intelligence."
+There is no single classifier that works best on all given problems; this is also referred to as the "no free lunch" theorem.
+The solution, for many problems, is to use "heuristics" or "rules of thumb" that eliminate choices that are unlikely to lead to the goal (called "pruning the search tree").
+;Agent architectures and cognitive architectures: Researchers have designed systems to build intelligent systems out of interacting intelligent agents in a multi-agent system.
+General intelligence is among the field's long-term goals.
+In 1989, Yann LeCun and colleagues applied backpropagation to such an architecture.
+AI has progressed using "sub-symbolic" problem solving: embodied agent approaches emphasize the importance of sensorimotor skills to higher reasoning; neural net research attempts to simulate the structures inside the brain that give rise to this skill; statistical approaches to AI mimic the human ability to guess.
+In contrast to the standard Turing test, CAPTCHA administered by a machine and targeted to a human as opposed to being administered by a human and targeted to a machine.
+Smaller problems provide more achievable goals and there are an ever-increasing number of positive results.
+In his book ''Superintelligence'', Nick Bostrom provides an argument that artificial intelligence will pose a threat to mankind.
+The shared mathematical language has also permitted a high level of collaboration with more established fields (like mathematics, economics or operations research).
+For example, optical character recognition is no longer perceived as an exemplar of "artificial intelligence" having become a routine technology.
+At the same time, Japan's fifth generation computer project inspired the U.S and British governments to restore funding for academic research.
+; Knowledge-based: When computers with large memories became available around 1970, researchers from all three traditions began to build knowledge into AI applications.
+Heuristics supply the program with a "best guess" for the path on which the solution lies.
+By the 1980s progress in symbolic AI seemed to stall and many believed that symbolic systems would never be able to imitate all the processes of human cognition, especially perception, robotics, learning and pattern recognition.
+I think there is potentially a dangerous outcome there."
+His laboratory at Stanford (SAIL) focused on using formal logic to solve a wide variety of problems, including knowledge representation, planning and learning.
+Classifiers are functions that use pattern matching to determine a closest match.
+Some suggest that to ensure that AI-equipped machines (sometimes called "smart machines") will act ethically requires a new kind of AI.
+Neural networks can be applied to the problem of intelligent control (for robotics) or learning, using such techniques as  Hebbian learning, GMDH or competitive learning.
+The most widely used classifiers are the neural network,
+When Deep Blue beat Garry Kasparov in chess, the machine was acting intelligently.
+The idea also appears in modern science fiction, such as the film ''A.I.
+Around the 1940s, Alan Turing's theory of computation suggested that a machine, by shuffling symbols as simple as "0" and "1", could simulate any conceivable act of mathematical deduction.
+Researchers disagree about many issues.
+This question is closely related to the philosophical problem as to the nature of human consciousness, generally referred to as the hard problem of consciousness.
+With social media sites overtaking TV as a source for news for young people and news organisations increasingly reliant on social media platforms for generating distribution, major publishers now use artificial intelligence (AI) technology to post stories more effectively and generate higher volumes of traffic.
+Some question whether this kind of check could really remain in place.
+A number of researchers began to look into "sub-symbolic" approaches to specific AI problems.
+Research projects that attempt to build a complete knowledge base of commonsense knowledge (e.g., Cyc) require enormous amounts of laborious ontological engineering—they must be built, by hand, one complicated concept at a time.
+Planning algorithms search through trees of goals and subgoals, attempting to find a path to a target goal, a process called means-ends analysis.
+If it can feel, does it have the same rights as a human?
+A wide variety of platforms has allowed different aspects of AI to develop, ranging from expert systems such as Cyc to deep-learning frameworks to robot platforms such as the Roomba with open interface.
+A hierarchical control system provides a bridge between sub-symbolic AI at its lowest, reactive levels and traditional symbolic AI at its highest levels, where relaxed time constraints permit planning and world modelling.
+Recognition of the ethical ramifications of behavior involving machines, as well as recent and potential developments in machine autonomy, necessitate this.
+Weizenbaum was also bothered that AI researchers (and some philosophers) were willing to view the human mind as nothing more than a computer program (a position now known as computationalism).
+Gaussian mixture model,
+High-profile examples of AI include autonomous vehicles (such as drones and self-driving cars), medical diagnosis, creating art (such as poetry), proving mathemetical theorems, playing games (such as Chess or Go), search engines (such as Google search), online assistants (such as Siri), image recognition in photographs, spam filtering, and targeting online advertisements.
+In the twenty-first century AI techniques became an essential part of the technology industry, helping to solve many challenging problems in computer science.
+For example, performance at draughts (i.e.
+With his Calculus ratiocinator, Gottfried Leibniz extended the concept of the calculating machine (Wilhelm Schickard engineered the first one around 1623), intending to perform operations on concepts rather than numbers.
+Several extensions of logic have been designed to handle specific domains of knowledge, such as: description logics; situation calculus, event calculus and fluent calculus (for representing events and time); causal calculus; belief calculus; and modal logics.
+Machine perception is the ability to use input from sensors (such as cameras, microphones, tactile sensors, sonar and others more exotic) to deduce aspects of the world.
+Roger Schank described their "anti-logic" approaches as "scruffy" (as opposed to the "neat" paradigms at CMU and Stanford).
+Physicist Stephen Hawking, Microsoft founder Bill Gates and SpaceX founder Elon Musk have expressed concerns about the possibility that AI could evolve to the point that humans could not control it, with Hawking theorizing that this could "spell the end of the human race".
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications.
+Simple exhaustive searches are rarely sufficient for most real world problems: the search space (the number of places to search) quickly grows to astronomical numbers.
+AI researchers have developed several specialized languages for AI research, including Lisp and Prolog.
+John Haugeland named these approaches to AI "good old fashioned AI" or "GOFAI".
+A problem like machine translation is considered "AI-complete".
+Technological singularity is when accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing or even ending civilization.
+Precise mathematical tools have been developed that analyze how an agent can make choices and plan, using decision theory, decision analysis, and information value theory.
+To keep AI ethical, some have suggested teaching new technologies equipped with AI, such as driver-less cars, to render moral decisions on their own.
+kernel methods such as the support vector machine,
+A key concept from the science of economics is "utility": a measure of how valuable something is to an intelligent agent.
+If this AI's goals do not reflect humanity's - one example is an AI told to compute as many digits of pi as possible - it might harm humanity in order to acquire more resources or prevent itself from being shut down, ultimately to better achieve its goal.
+Hierarchical temporal memory is an approach that models some of the structural and algorithmic properties of the neocortex.
+Recent advances in deep artificial neural networks and distributed computing have led to a proliferation of software libraries, including Deeplearning4j, TensorFlow, Theano and Torch.
+In March 2016, AlphaGo won 4 out of 5 games of Go in a match with Go champion Lee Sedol, becoming the first computer Go-playing system to beat a professional Go player without handicaps.
+This topic has also recently begun to be discussed in academic publications as a real source of risks to civilization, humans, and planet Earth.
+Some of them built machines that used electronic networks to exhibit rudimentary intelligence, such as W. Grey Walter's turtles and the Johns Hopkins Beast.
+These tools are truly scientific, in the sense that their results are both measurable and verifiable, and they have been responsible for many of AI's recent successes.
+Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
+Edward Fredkin argues that "artificial intelligence is the next stage in evolution", an idea first proposed by Samuel Butler's "Darwin among the Machines" (1863), and expanded upon by George Dyson in his book of the same name in 1998.
+The time has come for adding an ethical dimension to at least some machines.
+The study of non-learning artificial neural networks began in the decade before the field of AI research was founded, in the work of Walter Pitts and Warren McCullough.
+Many of these researchers gathered for meetings of the Teleological Society at Princeton University and the Ratio Club in England.
+They can be tuned according to examples, making them very attractive for use in AI.
+machine learning), and traditional symbolic AI.
+AI has since become firmly rooted in popular culture and is in many films, such as ''The Terminator'' (1984) and ''A.I.
+A computer asks a user to complete a simple test then generates a grade for that test.
+In the course of 50 years of research, AI has developed a large number of tools to solve the most difficult problems in computer science.
+More complicated agents include human beings and organizations of human beings (such as firms).
+Examples of these kinds of tests start in the late nineties devising intelligence tests using notions from Kolmogorov complexity and data compression.
+A major goal is to have the computer understand enough concepts to be able to learn by reading from sources like the Internet, and thus be able to add to its own ontology.
+The goal of the institute is to "grow wisdom with which we manage" the growing power of technology.
+To Weizenbaum these points suggest that AI research devalues human life.
+Classifier performance depends greatly on the characteristics of the data to be classified.
+All the observations combined with their class labels are known as a data set.
+;''The AI effect'': Machines are ''already'' intelligent, but observers have failed to recognize it.
+He argues that "any sufficiently advanced benevolence may be indistinguishable from malevolence."
+This coincided with the development of the embodied mind thesis in the related field of cognitive science: the idea that aspects of the body (such as movement, perception and visualization) are required for higher intelligence.
+Joseph Weizenbaum wrote that AI applications can not, by definition, successfully simulate genuine human empathy and that the use of AI technology in fields such as customer service or psychotherapy was deeply misguided.
+Two major advantages of mathematical definitions are their applicability to nonhuman intelligences and their absence of a requirement for human testers.
+Musk also funds companies developing artificial intelligence such as Google DeepMind and Vicarious to "just keep an eye on what's going on with artificial intelligence.
+A quite different approach measures machine intelligence through tests which are developed from ''mathematical'' definitions of intelligence.
+Artificial intelligence can also be evaluated on specific problems such as small problems in chemistry, hand-writing recognition and game-playing.
+Other soft computing approaches to AI include fuzzy systems, evolutionary computation and many statistical tools.
+The improved software would be even better at improving itself, leading to recursive self-improvement.
+In the 1940s and 1950s, a number of researchers explored the connection between neurology, information theory, and cybernetics.
+A class can be seen as a decision that has to be made.
+In the late 1990s and early 21st century, AI began to be used for logistics, data mining, medical diagnosis and other areas.
+The performance of these classifiers have been compared over a wide range of tasks.
+Evolutionary computation uses a form of optimization search.
+Also, in an effort to facilitate human-computer interaction, an intelligent machine might want to be able to ''display'' emotions—even if it does not actually experience them itself—in order to appear sensitive to the emotional dynamics of human interaction.
+This is known as the AI Effect: "AI is whatever hasn't been done yet."
+The research was centered in three institutions: Carnegie Mellon University, Stanford and MIT, and each one developed its own style of research.
+A common concern about the development of artificial intelligence is the potential threat it could pose to mankind.
+Along with concurrent discoveries in neurology, information theory and cybernetics, this led researchers to consider the possibility of building an electronic brain.
+The application of soft computing to AI is studied collectively by the emerging discipline of computational intelligence.
+Many tools are used in AI, including versions of search and mathematical optimization, logic, methods based on probability and economics.
+Attempts to create artificial intelligence has experienced many setbacks, including the ALPAC report of 1966, the abandonment of perceptrons in 1970, the Lighthill Report of 1973 and the collapse of the Lisp machine market in 1987.
+Affective computing is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects.
+The philosophical position that John Searle has named "strong AI" states: "The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds."
+LSTM combined with CNNs also improved automatic image captioning and a plethora of other applications.
+Are there limits to how intelligent machines&nbsp;– or human-machine hybrids&nbsp;– can be?
+This AI would be able to monitor, supervise, and if need be, correct the first order AI.
+Since the 19th century, artificial beings are common in fiction, as in Mary Shelley's ''Frankenstein'' or Karel Čapek's ''R.U.R.
+Can a machine solve any problem that a human being can solve using intelligence?
+In the 1990s, AI researchers developed sophisticated mathematical tools to solve specific subproblems.
+For many problems, it is possible to begin the search with some form of a guess and then refine the guess incrementally until no more refinements can be made.
+Their work revived the non-symbolic viewpoint of the early cybernetics researchers of the 1950s and reintroduced the use of control theory in AI.
+Since 2011, fast implementations of CNNs on GPUs have
+The simplest intelligent agents are programs that solve specific problems.
+However, it is a very difficult challenge and at present all agents fail.
+The new intelligence could thus increase exponentially and dramatically surpass humans.
+; Bottom-up, embodied, situated, behavior-based or nouvelle AI: Researchers from the related field of robotics, such as Rodney Brooks, rejected symbolic AI and focused on the basic engineering problems that would allow robots to move and survive.
+The field was founded on the claim that human intelligence "can be so precisely described that a machine can be made to simulate it."
+Artificial Intelligence'' (2001).
+When a new observation is received, that observation is classified based on previous experience.
+By 1960, this approach was largely abandoned, although elements of it would be revived in the 1980s.
+He argues that sufficiently intelligent AI, if it chooses actions based on achieving some goal, will exhibit convergent behavior such as acquiring resources or protecting itself from being shut down.
+This insight, that digital computers can simulate any process of formal reasoning, is known as the Church–Turing thesis.
+Critics argue that these techniques (with few exceptions) are too focused on particular problems and have failed to address the long-term goal of general intelligence.
+The implications of artificial intelligence have been a persistent theme in science fiction.
+In computer science, an ideal "intelligent" machine is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at some goal.
+Approaches based on cybernetics or neural networks were abandoned or pushed into the background.
+Regression is the attempt to produce a function that describes the relationship between inputs and outputs and predicts how the outputs should change as the inputs change.
+Computationalism is the position in the philosophy of mind that the human mind or the human brain (or both) is an information processing system and that thinking is a form of computing.
+;The subsymbolic form of some commonsense knowledge: Much of what people know is not represented as "facts" or "statements" that they could express verbally.
+Further, investigation of machine ethics could enable the discovery of problems with current ethical theories, advancing our thinking about Ethics."
+Today, neural networks are often trained by the backpropagation algorithm, which had been around since 1970 as the reverse mode of automatic differentiation published by Seppo Linnainmaa, and was introduced to neural networks by Paul Werbos.
+In the early 1980s, AI research was revived by the commercial success of expert systems, a form of AI program that simulated the knowledge and analytical skills of human experts.
+A variety of perspectives of this nascent field can be found in the collected edition "Machine Ethics" that stems from the AAAI Fall 2005 Symposium on Machine Ethics.
+None of these things are true about all birds.
+Mary Shelley's ''Frankenstein'' considers a key issue in the ethics of artificial intelligence: if a machine can be created that has intelligence, could it also ''feel''?
+Or is human biology as irrelevant to AI research as bird biology is to aeronautical engineering?
+Numerous researchers now use variants of a deep learning recurrent NN called
+Frequently, when a technique reaches mainstream use, it is no longer considered artificial intelligence; this phenomenon is described as the AI effect.
+If research into Strong AI produced sufficiently intelligent software, it might be able to reprogram and improve itself.
+For example, if a bird comes up in conversation, people typically picture an animal that is fist sized, sings, and flies.
+The machine should interpret the emotional state of humans and adapt its behaviour to them, giving an appropriate response for those emotions.
+Can a machine intentionally cause harm?
+The field of machine ethics is concerned with giving machines ethical principles, or a procedure for discovering a way to resolve the ethical dilemmas they might encounter, enabling them to function in an ethically responsible manner through their own ethical decision making.
+Among the most difficult problems in knowledge representation are:
+Knowledge like this informs, supports and provides a context for symbolic, conscious knowledge.
+: Artificial Intelligence'', in which humanoid machines have the ability to feel emotions.
+;The breadth of commonsense knowledge: The number of atomic facts that the average person knows is astronomical.
+Determining a suitable classifier for a given problem is still more an art than science.
+Many of the problems above may require general intelligence to be considered solved.
+They and their students wrote programs that were, to most people, simply astonishing: computers were winning at checkers, solving word problems in algebra, proving logical theorems and speaking English.
+The simplest AI applications can be divided into two types: classifiers ("if shiny then diamond") and controllers ("if shiny then pick up").
+Similar to shallow artificial neural networks, deep neural networks can model complex non-linear relationships.
+The Kinect, which provides a 3D body–motion interface for the Xbox 360 and the Xbox One use algorithms that emerged from lengthy AI research as do intelligent personal assistants in smartphones.
+Intelligence is required for robots to be able to handle such tasks as object manipulation and navigation, with sub-problems of localization (knowing where you are, or finding out where other things are), mapping (learning what is around you, building a map of the environment), and motion planning (figuring out how to get there) or path planning (going from one point in space to another point, which may involve compliant motion – where the robot moves while maintaining physical contact with an object).
+Some straightforward applications of natural language processing include information retrieval, text mining, question answering and machine translation.
+Or are there hard limits to what a machine can accomplish?
+A derivative of the Turing test is the Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA).
+Fuzzy logic, is a version of first-order logic which allows the truth of a statement to be represented as a value between 0 and 1, rather than simply True (1) or False (0).

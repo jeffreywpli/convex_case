@@ -1,0 +1,200 @@
+Programming languages differ from natural languages in that natural languages are only used for interaction between people, while programming languages also allow humans to communicate instructions to machines.
+Some languages are very popular for particular kinds of applications.
+Statically typed languages can be either ''manifestly typed'' or ''type-inferred''.
+Even when a program is well-defined within a language, it may still have a meaning that is not intended by the person who wrote it.
+The earliest computers were often programmed without the help of a programming language, by writing programs in absolute machine language.
+Edsger W. Dijkstra took the position that the use of a formal language is essential to prevent the introduction of meaningless constructs, and dismissed natural language programming as "foolish".
+In order to bypass this downside, a number of languages have ''type loopholes'', usually unchecked casts that may be used by the programmer to explicitly allow a normally disallowed operation between different types.
+In the first case, the programmer must explicitly write types at certain textual positions (for example, at variable declarations).
+Known as EDSAC 2 Autocode, it was a straight development from Mercury Autocode adapted for local circumstances, and was noted for its object code optimisation and source-language diagnostics which were advanced for the time.
+Natural language is often used to specify the execution semantics of languages commonly used in practice.
+In this case the "commands" are simply programs, whose execution is chained together.
+''Strong typing'' prevents the above.
+* estimates of the number of existing lines of code written in the language which may underestimate languages not often found in public searches
+More generally, a programming language may describe computation on some, possibly abstract, machine.
+However, the usage of both terms varies among authors, including the exact scope of each.
+A significant difference is that a programming language can be fully described and studied in its entirety, since it has a precise and finite definition.
+the desired result is specified, not how to achieve it).
+Some languages, including Perl and Lisp, contain constructs that allow execution during the parsing phase.
+The ''dynamic semantics'' (also known as ''execution semantics'') of a language defines how and when the various constructs of a language should produce a program behavior.
+More refined paradigms include procedural programming, object-oriented programming, functional programming, and logic programming; some languages are hybrids of paradigms or multi-paradigmatic.
+A great deal of research in programming languages has been aimed at blurring the distinction between a program as a set of instructions and a program as an assertion about the desired answer, which is the main feature of declarative programming.
+In some cases, the language designers may treat the library as a separate entity from the language.
+Although there have been attempts to design one "universal" programming language that serves all purposes, all of them have failed to be generally accepted as filling this role.
+The 1960s and 1970s also saw considerable debate over the merits of ''structured programming'', and whether programming languages should be designed to support it.
+Strongly typed languages are often termed ''type-safe'' or ''safe''.
+Flow-Matic was a major influence in the design of COBOL, since only it and its direct descendant AIMACO were in actual use at the time.
+C++ combined object-oriented and systems programming.
+On the other hand, there are some programming languages which are more graphical in nature, using visual relationships between symbols to specify a program.
+The formal design and study of type systems is known as ''type theory''.
+There are, broadly, two approaches to programming language implementation: ''compilation'' and ''interpretation''.
+Among other things, this may permit a single variable to refer to values of different types at different points in the program execution.
+It is still popular language for high-performance computing and is used for programs that benchmark and rank the world's fastest supercomputers.
+; Function and target
+One important trend in language design for programming large-scale systems during the 1980s was an increased focus on the use of ''modules'', or large-scale organizational units of code.
+The 1980s were years of relative consolidation.
+In some implementations that make use of the interpreter approach there is no distinct boundary between compiling and interpreting.
+* "John is a married bachelor."
+atom       ::= number | symbol
+For example, Java is both an object-oriented language (because it encourages object-oriented organization) and a concurrent language (because it contains built-in constructs for running multiple threads in parallel).
+Combining and averaging information from various internet sites, langpop.com claims that in 2013 the ten most popular programming languages are (in descending order by overall popularity): C, Java, PHP, JavaScript, C++, Python, Shell, Ruby, Objective-C and C#.
+From the early 1800s, "programs" were used to direct the behavior of machines such as Jacquard looms and player pianos.
+In this vein, languages used in computing that have a different goal than expressing computer programs are generically designated computer languages.
+Many important restrictions of this type, like checking that identifiers are used in the appropriate context (e.g.
+Indeed, some languages are designed so that the meanings of certain syntactic constructs cannot even be described without referring to the core library.
+For instance, most programming languages use English language keywords, while a minority do not.
+High-level languages which are untyped include BCPL, Tcl, and some varieties of Forth.
+* an ''atom'' is either a ''number'' or a ''symbol'';
+Other languages may be classified as being deliberately esoteric or not.
+These are often scripting or markup languages, such as REXX or SGML, and have only one data type—most commonly character strings which are used for both symbolic and numeric data.
+It was developed for the UNIVAC I at Remington Rand during the period from 1955 until 1959.
+All programming languages have some primitive building blocks for the description of data and the processes or transformations applied to them (like the addition of two numbers or the selection of an item from a collection).
+Many proprietary languages are widely used, in spite of their proprietary nature; examples include MATLAB and VBScript.
+The second autocode was developed for the Mark 1 by R. A. Brooker in 1954 and was called the "Mark 1 Autocode".
+But the program would still be syntactically correct, since type declarations provide only semantic information.
+Most programming languages are purely textual; they use sequences of text including words, numbers, and punctuation, much like written natural languages.
+Hopper found that business data processing customers were uncomfortable with mathematical notation, and in early 1955, she and her team wrote a specification for an English programming language and implemented a prototype.
+''Fifth generation programming languages'' (5GL) are programming languages based on solving problems using constraints given to the program, rather than using an algorithm written by a programmer.
+Traditionally, programming languages have been regarded as describing computation in terms of imperative sentences, i.e.
+These primitives are defined by syntactic and semantic rules which describe their structure and meaning respectively.
+One usage describes programming languages as a subset of computer languages.
+The line between a language and its core library differs from language to language.
+Unlike machine code, Short Code statements represented mathematical expressions in understandable form.
+Another usage regards programming languages as theoretical constructs for programming abstract machines, and computer languages as the subset thereof that runs on physical computers, which have finite hardware resources.
+The United States government standardized Ada, a systems programming language derived from Pascal and intended for use by defense contractors.
+The syntax of a language describes the possible combinations of symbols that form a syntactically correct program.
+The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning).
+These developments were not fundamentally novel, rather they were refinements of many existing languages and paradigms (although their syntax was often based on the C family of programming languages).
+On the other hand, ideas about an algorithm can be communicated to humans without the precision required for execution by using pseudocode, which interleaves natural language with code written in a programming language.
+A contemporary but separate thread of development, Atlas Autocode was developed for the University of Manchester Atlas 1 machine.
+For instance, markup languages are sometimes referred to as computer languages to emphasize that they are not meant to be used for programming.
+There are many ways of defining execution semantics.
+Modula-2, Ada, and ML all developed notable module systems in the 1980s, which were often wedded to generic programming constructs.
+* Programs range from tiny scripts written by individual hobbyists to huge systems written by hundreds of programmers.
+Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common.
+Some languages may make the transition from closed to open; for example, Erlang was originally an Ericsson's internal programming language.
+* Programs may be written once and not change for generations, or they may undergo continual modification.
+The term ''computer language'' is sometimes used interchangeably with programming language.
+not adding an integer to a function name), or that subroutine calls have the appropriate number and type of arguments, can be enforced by defining them as rules in a logic called a type system.
+The goal of a type system is to verify and usually enforce a certain level of correctness in programs written in that language by detecting certain incorrect operations.
+The following are examples of well-formed token sequences in this grammar: 12345, () and (a b c232 (1)).
+Another early programming language was devised by Grace Hopper in the US, called FLOW-MATIC.
+The functional languages community moved to standardize ML and Lisp.
+But as artificial constructs, they also differ in fundamental ways from languages that have evolved through usage.
+Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard), while other languages (such as Perl) have a dominant implementation that is treated as a reference.
+The programs, in decimal or binary form, were read in from punched cards or magnetic tape, or toggled in on switches on the front panel of the computer.
+In contrast, an ''untyped language'', such as most assembly languages, allows any operation to be performed on any data, which are generally considered to be sequences of bits of various lengths.
+The practical necessity that a programming language support adequate abstractions is expressed by the abstraction principle; this principle is sometimes formulated as a recommendation to the programmer to make proper use of such abstractions.
+Most mainstream statically typed languages, such as C++, C# and Java, are manifestly typed.
+A type system defines how a programming language classifies values and expressions into ''types'', how it can manipulate those types and how they interact.
+''Strong'' and ''static'' are now generally considered orthogonal concepts, but usage in the literature differs.
+In JavaScript, for example, the expression 2 * x implicitly converts x to a number, and this conversion succeeds even if x is null, undefined, an Array, or a string of letters.
+The syntax of most programming languages can be specified using a Type-2 grammar, i.e., they are context-free grammars.
+The following C language fragment is syntactically correct, but performs operations that are not semantically defined (the operation *p >> 4 has no meaning for a value having a complex type and p->im is not defined because the value of p is the null pointer):
+It is generally possible to implement a language using either technique.
+Thousands of different programming languages have been created, mainly in the computer field, and many more still are being created every year.
+By contrast, natural languages have changing meanings given by their users in different communities.
+This grammar specifies the following:
+One common trend in the development of programming languages has been to add more ability to solve problems using a higher level of abstraction.
+In most typed languages, the type system is used only to type check programs, but a number of languages, usually functional ones, infer types, relieving the programmer from the need to write type annotations.
+: The theory of computation classifies languages by the computations they are capable of expressing.
+By purpose, programming languages might be considered general purpose, system programming languages, scripting languages, domain-specific languages, or concurrent/distributed languages (or a combination of these).
+John C. Reynolds emphasizes that formal specification languages are just as much programming languages as are the languages intended for execution.
+Many programming languages require computation to be specified in an imperative form (i.e., as a sequence of operations to perform), while other languages use other forms of program specification such as the declarative form (i.e.
+As with type-inferred languages, dynamically typed languages do not require the programmer to write explicit type annotations on expressions.
+Moreover, LaTeX, which is mostly used for structuring documents, also contains a Turing complete subset.
+Natural language programming has been proposed as a way to eliminate the need for a specialized language for programming.
+However, notice that the use of the generic pointer, the '''void*''' pointer, does allow for casting of pointers to other pointers without needing to do an explicit cast.
+XSLT, for example, is a Turing complete XML dialect.
+In some cases, such programs may exhibit undefined behavior.
+At the University of Manchester, Alick Glennie developed Autocode in the early 1950s.
+An early high-level programming language to be designed for a computer was Plankalkül, developed for the German Z3 by Konrad Zuse between 1943 and 1945.
+In Japan and elsewhere, vast sums were spent investigating so-called "fifth generation" languages that incorporated logic programming constructs.
+Thus C has been called both strongly typed and weakly, statically typed.
+A programming language provides a structured mechanism for defining pieces of data, and the operations or transformations that may be carried out automatically on that data.
+Examples include checking that every identifier is declared before it is used (in languages that require such declarations) or that the labels on the arms of a case statement are distinct.
+Many programming languages have been designed from scratch, altered to meet new needs, and combined with other languages.
+is grammatically well-formed but has no generally accepted meaning.
+As new programming languages have developed, features have been added that let programmers express ideas that are more remote from simple translation into underlying hardware instructions.
+An ''implementation'' of a programming language provides a way to write programs in that language and execute them on one or more configurations of hardware and software.
+* the number of books sold that teach or describe the language
+In the second case, the compiler ''infers'' the types of expressions and declarations based on context.
+* a ''number'' is an unbroken sequence of one or more decimal digits, optionally preceded by a plus or minus sign;
+* "Colorless green ideas sleep furiously."
+A programming language, it used a compiler to automatically convert the language into machine code.
+Newer programming languages like Java and C# have definite assignment analysis, a form of data flow analysis, as part of their static semantics.
+In broad strokes, programming languages divide into ''programming paradigms'' and a classification by ''intended domain of use,'' with general-purpose programming languages distinguished from domain-specific programming languages.
+However, a language's core library is often treated as part of the language by its users, and some language specifications even require that this library be made available in all implementations.
+Results from this field of research have seen limited application to programming language design and implementation outside academia.
+For example, the data represented by "this text between the quotes" is a string, and in many programming languages dividing a number by a string has no meaning and will be rejected by the compilers.
+Any decidable type system involves a trade-off: while it rejects many incorrect programs, it can also prohibit some correct, albeit unusual programs.
+Hybrid approaches have been taken in Structured English and SQL.
+It is difficult to determine which programming languages are most widely used, and what usage means varies by context.
+Perl, originally a Unix scripting tool first released in 1987, became common in dynamic websites.
+There is no overarching classification scheme for programming languages.
+Markup languages like XML, HTML or troff, which define structured data, are not usually considered programming languages.
+However, many manifestly typed languages support partial type inference; for example, Java and C# both infer types in certain limited cases.
+: Programming languages usually contain abstractions for defining and manipulating data structures or controlling the flow of execution.
+Other languages are regularly used to write many different kinds of applications.
+Edsger Dijkstra, in a famous 1968 letter published in the Communications of the ACM, argued that GOTO statements should be eliminated from all "higher level" programming languages.
+A programmer uses the abstractions present in the language to represent the concepts involved in a computation.
+For example, PostScript programs are frequently created by another program to control a computer printer or display.
+Alan Perlis was similarly dismissive of the idea.
+Programming languages may, however, share the syntax with markup languages if a computational semantics is defined.
+The output of a compiler may be executed by hardware or a program called an interpreter.
+Conversely, Scheme contains multiple coherent subsets that suffice to construct the rest of the language as library macros, and so the language designers do not even bother to say which portions of the language must be implemented as language constructs, and which must be implemented as parts of a library.
+Additionally, some programming languages allow for some types to be automatically converted to other types; for example, an int can be used where the program expects a float.
+Since most languages are textual, this article discusses textual syntax.
+Traits often considered important for what constitutes a programming language include:
+The next step was development of so-called ''second-generation programming languages'' (2GL) or assembly languages, which were still closely tied to the instruction set architecture of the specific computer.
+Current directions include security and reliability verification, new kinds of modularity (mixins, delegates, aspects), and database integration such as Microsoft's LINQ.
+This is extremely similar to somehow casting an array of bytes to any kind of datatype in C without using an explicit cast, such as (int) or (char).
+An alternative definition for "weakly typed" refers to languages, such as Perl and JavaScript, which permit a large number of implicit type conversions.
+He also argues that textual and even graphical input formats that affect the behavior of a computer are programming languages, despite the fact they are commonly not Turing-complete, and remarks that ignorance of programming language concepts is the reason for many flaws in input formats.
+* counts of language references (i.e., to the name of the language) found using a web search engine.
+Some, but not all, authors restrict the term "programming language" to those languages that can express ''all'' possible algorithms.
+However, it was not implemented until 1998 and 2000.
+''Programming'' is the process by which programmers combine these primitives to compose new programs, or adapt existing ones to new uses or a changing environment.
+Languages that have constructs that allow the programmer to alter the behavior of the parser make syntax analysis an undecidable problem, and generally blur the distinction between parsing and execution.
+The combination of the language definition, a program, and the program's inputs must fully specify the external behavior that occurs when the program is executed, within the domain of control of that program.
+The need for diverse programming languages arises from the diversity of contexts in which languages are used:
+* an ''expression'' is either an ''atom'' or a ''list'';
+Programming languages share properties with natural languages related to their purpose as vehicles for communication, having a syntactic form separate from its semantics, and showing ''language families'' of related languages branching one from another.
+If the type declaration on the first line were omitted, the program would trigger an error on compilation, as the variable "p" would not be defined.
+Many syntactically correct programs are nonetheless ill-formed, per the language's rules; and may (depending on the language specification and the soundness of the implementation) result in an error on translation or execution.
+For example, in Java, a string literal is defined as an instance of the java.lang.String class; similarly, in Smalltalk, an anonymous function expression (a "block") constructs an instance of the library's BlockContext class.
+The most important of these artifacts are the language ''specification'' and ''implementation''.
+The task is further complicated by the fact that languages can be classified along multiple axes.
+For example, COBOL is still strong in the corporate data center, often on large mainframes; Fortran in scientific and engineering applications; Ada in aerospace, transportation, military, real-time and embedded applications; and C in embedded applications and operating systems.
+Once data has been specified, the machine must be instructed to perform operations on the data.
+A special case of typed languages are the ''single-type'' languages.
+One language may occupy the greater number of programmer hours, a different one have more lines of code, and a third may consume the most CPU time.
+Brooker also developed an autocode for the Ferranti Mercury in the 1950s in conjunction with the University of Manchester.
+A programming language's surface form is known as its syntax.
+The invalid operation may be detected when the program is compiled ("static" type checking) and will be rejected by the compiler with a compilation error message, or it may be detected when the program is run ("dynamic" type checking), resulting in a run-time exception.
+Programming language evolution continues, in both industry and research.
+symbol     ::= 'A'-'Z''a'-'z'.
+The first code and compiler was developed in 1952 for the Mark 1 computer at the University of Manchester and is considered to be the first compiled high-level programming language.
+It may seem odd to some professional programmers that C could be "weakly, statically typed".
+Languages commonly arise by combining the elements of several predecessor languages with new ideas in circulation at the time.
+list       ::= '(' expression* ')'
+Because programmers are less tied to the complexity of the computer, their programs can do more computing with less effort from the programmer.
+expression ::= atom | list
+* a ''symbol'' is a letter followed by zero or more of any characters (excluding whitespace); and
+An assembly language is not so much a paradigm as a direct model of an underlying machine architecture.
+These are generally called imperative programming languages.
+However, type errors cannot be automatically detected until a piece of code is actually executed, potentially making debugging more difficult.
+The rapid growth of the Internet in the mid-1990s created opportunities for new languages.
+For example, the semantics may define the strategy by which expressions are evaluated to values, or the manner in which control structures conditionally execute statements.
+While constructed languages are also artificial languages designed from the ground up with a specific purpose, they lack the precise and complete semantic definition that a programming language has.
+Many languages allow a function called an exception handler to be written to handle this exception and, for example, always return "-1" as the result.
+Such implicit conversions are often useful, but they can mask programming errors.
+The FLOW-MATIC compiler became publicly available in early 1958 and was substantially complete in 1959.
+A given programming language does not usually have a single ancestor language.
+The meaning given to a combination of symbols is handled by semantics (either formal or hard-coded in a reference implementation).
+The version for the EDSAC 2 was devised by D. F. Hartley of  University of Cambridge Mathematical Laboratory in 1961.
+''Dynamic typing'', also called ''latent typing'', determines the type-safety of operations at run time; in other words, types are associated with ''run-time values'' rather than ''textual expressions''.
+The first ''high-level programming languages'', or ''third-generation programming languages'' (3GL), were written in the 1950s.
+Many production languages provide means to bypass or subvert the type system, trading type-safety for finer control over the program's execution (see casting).
+Here the virtual machine, just before execution, translates the blocks of bytecode which are going to be used to machine code, for direct execution on the hardware.
+Some general purpose languages were designed largely with educational goals.

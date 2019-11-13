@@ -1,0 +1,200 @@
+'''Telecommunication''' is the transmission of signs, signals, messages, writings, images and sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems.
+It formed the basis of experimental broadcasts done by the British Broadcasting Corporation beginning 30 September 1929.
+This is important because telephone calls can negotiate a contract so as to guarantee themselves a constant bit rate, something that will ensure a caller's voice is not delayed in parts or cut off completely.
+For example, one radio station can broadcast radio waves into free space at frequencies in the neighborhood of 94.5&nbsp;MHz (megahertz) while another radio station can simultaneously broadcast radio waves at frequencies in the neighborhood of 96.1&nbsp;MHz.
+In 2008, estimates placed the telecommunication industry's revenue at $4.7 trillion or just under 3 percent of the gross world product (official exchange rate).
+Frontinus said that Julius Caesar used pigeons as messengers in his conquest of Gaul.
+Protocols are often talked about in terms of their place in the OSI reference model (pictured on the right), which emerged in 1983 as the first step in an unsuccessful attempt to build a universally adopted networking protocol suite.
+However, for most of the twentieth century televisions depended upon the cathode ray tube invented by Karl Braun.
+This system of dividing the medium into channels according to frequency is called "frequency-division multiplexing".
+Next, the radio receiver is the destination of the radio signal, and this is where it is converted from electricity to sound for people to listen to.
+Another way of dividing a communications medium into channels is to allocate each sender a recurring segment of time (a "time slot", for example, 20 milliseconds out of each second), and to allow each sender to send messages only within its own time slot.
+However, not all important developments were made through the Request for Comment process.
+Digital transmission overcomes this problem because digital signals are reduced to discrete values upon reception and hence small perturbations do not affect the final output.
+These protocols ensure that data transferred between two parties remains completely confidential.
+His code was an important advance over Wheatstone's signaling method.
+Lastly, improvements in multiplexing have led to an exponential growth in the data capacity of a single fibre.
+This is helpful because low-frequency analog signals cannot be effectively transmitted over free space.
+a private corporate style network, but the Internet is not generally managed in this way and so there can be a big difference in the quality of VoIP calls over a private network and over the public Internet.
+The Internet is thus an exchange of messages between computers.
+The conventional telephone was invented independently by Alexander Bell and Elisha Gray in 1876.
+Increasingly these phones are being serviced by systems where the voice content is transmitted digitally such as GSM or W-CDMA with many markets choosing to depreciate analog systems such as AMPS.
+It is a compound of the Greek prefix ''tele-'' (τηλε-), meaning "distant", and the Latin ''communicare'', meaning "to share", and its written use was recorded in 1904 by the French engineer and novelist Édouard Estaunié.
+However semaphore suffered from the need for skilled operators and expensive towers at intervals of ten to thirty kilometres (six to nineteen miles).
+In 1936, the BBC broadcast propaganda to the Arab World to partly counter similar broadcasts from Italy, which also had colonial interests in North Africa.
+These messages carry with them the originating computer's IP address allowing for two-way communication.
+audio and video) without detriment.
+This is because for most intercontinental communication the Internet shares the same infrastructure as the public switched telephone network.
+Examples of this include the atmosphere for sound communications, glass optical fibers for some kinds of optical communications, coaxial cables for communications by way of the voltages and electric currents in them, and free space for communications using visible light, infrared waves, ultraviolet light, and radio waves.
+An analog communications network consists of one or more switches that establish a connection between two or more users.
+In December 1901, Guglielmo Marconi established wireless communication between St. John's, Newfoundland (Canada) and Poldhu, Cornwall (England), earning him the 1909 Nobel Prize in physics (which he shared with Karl Braun).
+In one meaning, a channel is the physical medium that carries a signal between the transmitter and the receiver.
+In a digital signal, the information is encoded as a set of discrete values (for example, a set of ones and zeros).
+An example of this process is a disc jockey's voice being impressed into a 96&nbsp;MHz carrier wave using frequency modulation (the voice would then be received on a radio as the channel "96&nbsp;FM").
+However, it was not until the 1960s that researchers started to investigate packet switching &mdash; a technology that would allow chunks of data to be sent to different computers without first passing through a centralized mainframe.
+And in 1849, Paul Julius Reuter started a pigeon service to fly stock prices between Aachen and Brussels, a service that operated for a year until the gap in the telegraph link was closed.
+These threats exist if there are any methods for connecting remotely to the LAN.
+The first transatlantic telegraph cable was successfully completed on 27 July 1866, allowing transatlantic telecommunication for the first time.
+Also, the first commercial electrical telegraph is purported to have been constructed by Wheatstone and Cooke and opened on 9 April 1839.
+Another advantage of digital systems over analog is that their output is easier to store in memory, i.e.
+The traffic contract is essentially an agreement between the client and the network about how the network is to handle the data; if the network cannot meet the conditions of the traffic contract it does not accept the connection.
+In 2000, market research group Ipsos MORI reported that 81% of 15- to 24-year-old SMS users in the United Kingdom had used the service to coordinate social arrangements and 42% to flirt.
+Sir Charles Wheatstone and Sir William Fothergill Cooke invented the electric telegraph in 1837.
+In September 1981, RFC 791 introduced the Internet Protocol v4 (IPv4) and RFC 793 introduced the Transmission Control Protocol (TCP) &mdash; thus creating the TCP/IP protocol that much of the Internet relies upon today.
+Both TCP and UDP packets carry port numbers with them to specify what application or process the packet should be handled by.
+Although short-distance calls may be handled from end-to-end as analog signals, increasingly telephone service providers are transparently converting the signals to digital signals for transmission.
+The Greeks also conveyed the names of the victors at the Olympic Games to various cities using homing pigeons.
+At the network layer, things become standardized with the Internet Protocol (IP) being adopted for logical addressing.
+The choice of modulation for analog radio is typically between amplitude ('''AM''') or frequency modulation ('''FM''').
+This leads to the adoption of media and protocols that best suit the local network situation.
+The sending of radio waves from one place to another has nothing to do with the presence or absence of an atmosphere between the two.
+The exception is the United States which has chosen to adopt HD Radio.
+Sales of mobile phones in 2005 totalled 816.6 million with that figure being almost equally shared amongst the markets of Asia/Pacific (204 m), Western Europe (164 m), CEMEA (Central Europe, the Middle East and Africa) (153.5 m), North America (148 m) and Latin America (102 m).
+Any computer on the Internet has a unique IP address that can be used by other computers to route information to it.
+For both types of network, repeaters may be necessary to amplify or recreate the signal when it is being transmitted over long distances.
+In Côte d'Ivoire, coffee growers share mobile phones to follow hourly variations in coffee prices and sell at the best price.
+This can be readily explained by the fact that radio transmitters contain power amplifiers that operate with electrical powers measured in watts or kilowatts, but radio receivers deal with radio powers that are measured in the microwatts or nanowatts.
+This form of noise is called additive noise, with the understanding that the noise can be negative or positive at different instants of time.
+The first commercial telephone services were set-up in 1878 and 1879 on both sides of the Atlantic in the cities of New Haven and London.
+However small-scale radio communication had already been demonstrated in 1893 by Nikola Tesla in a presentation to the National Electric Light Association.
+This allows lower-level protocols to be customized for the network situation while not changing the way higher-level protocols operate.
+On 25 March 1925, John Logie Baird was able to demonstrate the transmission of moving pictures at the London department store Selfridges.
+When they are not connected with the Internet, they also have the advantages of privacy and security.
+The service revenue of the global telecommunications industry was estimated to be $1.5 trillion in 2010, corresponding to 2.4% of the world’s gross domestic product (GDP).
+This is self-evident in the case of online retailer Amazon.com but, according to academic Edward Lenert, even the conventional retailer Walmart has benefited from better telecommunication infrastructure compared to its competitors.
+With TCP, packets are retransmitted if they are lost and placed in order before they are presented to higher layers.
+Even relatively poor communities have been noted to use telecommunication to their advantage.
+20th and 21st century technologies for long-distance communication usually involve electrical and electromagnetic technologies, such as telegraph, telephone, and teleprinter, networks, radio, microwave transmission, fiber optics, and communications satellites.
+In 1792, Claude Chappe, a French engineer, built the first fixed visual telegraphy system (or semaphore line) between Lille and Paris.
+In 1947, at the Atlantic City Conference, the ITU decided to "afford international protection to all frequencies registered in a new international frequency list and used in conformity with the Radio Regulation."
+TAT-8 itself was able to carry 10 times as many telephone calls as the last copper cable laid at that time and today's optic fibre cables are able to carry 25 times as many telephone calls as TAT-8.
+In digital television broadcasting, there are three competing standards that are likely to be adopted worldwide.
+Voice over Internet Protocol (VoIP) allows data packets to be used for synchronous voice communications.
+Early means of communicating over a distance included visual signals, such as beacons, smoke signals, semaphore telegraphs, signal flags, and optical heliographs.
+The receiver is then tuned so as to pick up the high-frequency wave and a demodulator is used to retrieve the signal containing the visual or audio information.
+For television, this includes the elimination of problems such as snowy pictures, ghosting and other distortion.
+From this example, a problem with digital transmissions can also be seen in that if the noise is great enough it can significantly alter the decoded message.
+There are several different modulation schemes available to achieve this two of the most basic being amplitude modulation (AM) and frequency modulation (FM).
+By 1854, he was able to demonstrate a transmission across the Firth of Tay from Dundee, Scotland to Woodhaven, a distance of two miles (3&nbsp;km), using water as the transmission medium.
+That prioritization is fine when the network has sufficient capacity for all the VoIP calls taking place at the same time and the network is enabled for prioritization i.e.
+Despite the growth of the Internet, the characteristics of local area networks (LANs)--computer networks that do not extend beyond a few kilometers—remain distinct.
+For an analog signal, the signal is varied continuously with respect to the information.
+Telecommunication has played a significant role in social relationships.
+One notable instance of their use was during the Spanish Armada, when a beacon chain relayed a signal from Plymouth to London.
+Starting with the operation of TAT-8 in 1988, the 1990s saw the widespread adoption of systems based on optical fibers.
+The prefix "tel" means "far, far off, operating over distance"... from Greek tele-, combining form of tele "far off, afar, at or to a distance," related to teleos (genitive telos) "end, goal, completion, result," from PIE root *kwel-"; "tel" also means " "far" in space and time".
+Finally, at the application layer, are many of the protocols Internet users would be familiar with such as HTTP (web browsing), POP3 (e-mail), FTP (file transfer), IRC (Internet chat), BitTorrent (file sharing) and XMPP (instant messaging).
+The benefit of communicating with optic fibers is that they offer a drastic increase in data capacity.
+There are analog communication systems and digital communication systems.
+On 10 November 2014, President Obama recommended the Federal Communications Commission reclassify broadband Internet service as a telecommunications service in order to preserve net neutrality.
+Some of these concepts are discussed below.
+An exception is the United States that ended analog television transmission (by all but the very low-power TV stations) on 12 June 2009 after twice delaying the switchover deadline,Kenya also ended analog television transmission in December 2014 after multiple delays.
+Telecommunication through radio broadcasts is called broadcast communication because it is between one powerful transmitter and numerous low-power but sensitive radio receivers.
+Other examples of pre-modern long-distance communication included audio messages such as coded drumbeats, lung-blown horns, and loud whistles.
+Both inventors viewed their device as "an improvement to the existing electromagnetic telegraph" not as a new device.
+Telecommunication occurs when the exchange of information between communication participants includes the use of technology.
+Countries, their governments, insurgents, terrorists, and militiamen have all used telecommunication and broadcasting techniques to promote propaganda.
+However Meucci's device was of little practical value because it relied upon the electrophonic effect and thus required users to place the receiver in their mouth to "hear" what was being said.
+This is because the Internet places no constraints on what physical medium or data link protocol is used.
+Patriotic propaganda for political movements and colonization started the mid-1930s.
+This configuration of a centralized computer or mainframe with remote dumb terminals remained popular throughout the 1950s.
+Additional technologies, such as DHCP, allowed TCP/IP-based computers to self-configure in the network.
+On the other hand, unless the additive noise disturbance exceeds a certain threshold, the information contained in digital signals will remain intact.
+Nevertheless, devices like the telephone system were originally advertised with an emphasis on the practical dimensions of the device (such as the ability to conduct business or order home services) as opposed to the social dimensions.
+These are the ATSC, DVB and ISDB standards; the adoption of these standards thus far is presented in the captioned map.
+This is because networks on this scale do not require all the features associated with larger networks and are often more cost-effective and efficient without them.
+This electrical signal is then sent through the network to the user at the other end where it is transformed back into sound by a small speaker in that person's handset.
+As a result of competition from the electrical telegraph, the last commercial line was abandoned in 1880.
+Noise that is not additive noise is a much more difficult situation to describe or analyze, and these other kinds of noise will be omitted here.
+In a broadcast system, the central high-powered broadcast tower transmits a high-frequency electromagnetic wave to numerous low-powered receivers.
+In the Middle Ages, chains of beacons were commonly used on hilltops as a means of relaying a signal.
+In cities throughout the world, home owners use their telephones to order and arrange a variety of home services ranging from pizza deliveries to electricians.
+The chief advantage of digital broadcasts is that they prevent a number of complaints common to traditional analog broadcasts.
+Once the connection is made, the caller's voice is transformed to an electrical signal using a small microphone in the caller's handset.
+Communications signals can be sent either by analog signals or digital signals.
+The first version of such a television to show promise was produced by Philo Farnsworth and demonstrated to his family on 7 September 1927.
+On the microeconomic scale, companies have used telecommunications to help build global business empires.
+Many countries have enacted legislation which conforms to the ''International Telecommunication Regulations'' established by the International Telecommunication Union (ITU), which is the "leading UN agency for information and communication technology issues."
+In this way, these sites can play important role in everything from organising social engagements to courtship.
+Such functions also existed in the AppleTalk/ IPX/ NetBIOS protocol sets.
+Modulation can also be used to transmit the information of low-frequency analog signals at higher frequencies.
+The other meaning of the term "channel" in telecommunications is seen in the phrase communications channel, which is a subdivision of a transmission medium so that it can be used to send multiple streams of information simultaneously.
+In terms of Internet access, roughly half of all countries have fewer than one out of 20 people with Internet access.
+This increase in data capacity is due to several factors: First, optic fibres are physically much smaller than competing technologies.
+In the mid-1980s, several sets of communication protocols emerged to fill the gaps between the data-link layer and the application layer of the OSI reference model.
+A practical example of why this is important is because it allows an Internet browser to run the same code regardless of whether the computer it is running on is connected to the Internet through an Ethernet or Wi-Fi connection.
+When optic fibers are used, the distinction must be made between multimode fibers and single-mode fibers.
+Each station in this example is separated from its adjacent stations by 200&nbsp;kHz, and the difference between 200&nbsp;kHz and 180&nbsp;kHz (20&nbsp;kHz) is an engineering allowance for the imperfections in the communication system.
+Modulation can be used to represent a digital message as an analog waveform.
+Using forward error correction a receiver can correct a handful of bit errors in the resulting message but too much noise will lead to incomprehensible output and hence a breakdown of the transmission.
+Several following sections discuss the impact of telecommunication on society.
+two voltage states (high and low) are easier to store than a continuous range of states.
+For the Internet, the physical medium and data link protocol can vary several times as packets traverse the globe.
+It is estimated that the 51% of the information flowing through two-way telecommunications networks in the year 2000 were flowing through the Internet (most of the rest (42%) through the landline telephone).
+The data packets are marked as voice type packets and can be prioritized by the network administrators so that the real-time, synchronous conversation is less subject to contention with other types of data traffic which can be delayed (i.e.
+The term "channel" has two different meanings.
+file transfer or email) or buffered in advance (i.e.
+The high-frequency wave sent by the tower is modulated with a signal containing visual or audio information.
+This is the informational equivalent of two newspaper pages per person per day in 1986, and six entire newspapers per person per day by 2007.
+All three standards use MPEG-2 for video compression.
+Telecommunication has a significant social, cultural and economic impact on modern society.
+The history of broadcasting discusses some debates in relation to balancing conventional communication such as printing and telecommunication such as radio broadcasting.
+Some radio communication systems use TDM within an allocated FDM channel.
+Because certain application-level protocols use certain ports, network administrators can manipulate traffic to suit particular requirements.
+In terms of new subscriptions over the five years from 1999, Africa has outpaced other markets with 58.2% growth.
+The profiles can list a person's age, interests, sexual preference and relationship status.
+, an estimated 21.9% of the world population has access to the Internet with the highest access rates (measured as a percentage of the population) in North America (73.6%), Oceania/Australia (59.5%) and Europe (48.1%).
+It is suitable for public telephone networks because it establishes a pathway for data through the network and associates a traffic contract with that pathway.
+Prior to social networking sites, technologies like short message service (SMS) and the telephone also had a significant impact on social interactions.
+"Communication" was first used as an English word in the late 14th century.
+ARPANET development centered around the Request for Comment process and on 7 April 1969, RFC 1 was published.
+This method of dividing the medium into communication channels is called "time-division multiplexing" ('''TDM'''), and is used in optical fiber communication.
+This is to combat attenuation that can render the signal indistinguishable from the noise.
+Pigeon post is thought to have Persians roots and was used by the Romans to aid their military.
+"The Sunni insurgents even have their own television station, Al-Zawraa, which while banned by the Iraqi government, still broadcasts from Erbil, Iraqi Kurdistan, even as coalition pressure has forced it to switch satellite hosts several times."
+TCP/IP existed at this point, but it was typically only used by large government and research facilities.
+These are known as PAL (German designed), NTSC (North American designed), and SECAM (French designed).
+Mobile phones have had a significant impact on telephone networks.
+Using this measure, Sweden, Denmark and Iceland received the highest ranking while the African countries Nigeria, Burkina Faso and Mali received the lowest.
+In a telephone network, the caller is connected to the person they want to talk to by switches at various telephone exchanges.
+This is commonly called "keying" – a term derived from the older use of Morse Code in telecommunications – and several keying techniques exist (these include phase-shift keying, frequency-shift keying, and amplitude-shift keying).
+In digital audio broadcasting, standards are much more unified with practically all countries choosing to adopt the Digital Audio Broadcasting standard (also known as the Eureka 147 standard).
+The advantage of this is that digitized voice data can travel side-by-side with data from the Internet and can be perfectly reproduced in long distance communication (as opposed to analog signals that are inevitably impacted by noise).
+These included Appletalk, IPX, and NetBIOS with the dominant protocol set during the early 1990s being IPX due to its popularity with MS-DOS users.
+In practice, most intercontinental communication will use the Asynchronous Transfer Mode (ATM) protocol (or a modern equivalent) on top of optic fiber.
+With UDP, packets are not ordered or retransmitted if lost.
+Assisting communication across many modern optic fibre networks is a protocol known as Asynchronous Transfer Mode (ATM).
+Above the transport layer, there are certain protocols that are sometimes used and loosely fit in the session and presentation layers, most notably the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols.
+Commonly, the noise in a communication system can be expressed as adding or subtracting from the desirable signal in a completely random way.
+At the moment, the most widely used version of the Internet Protocol is version four but a move to version six is imminent.
+There have also been dramatic changes in telephone communication behind the scenes.
+The term is often used in its plural form, '''telecommunications''', because it involves many different technologies.
+A patent for the token ring protocol was filed by Olof Soderblom on 29 October 1974 and a paper on the Ethernet protocol was published by Robert Metcalfe and David Boggs in the July 1976 issue of ''Communications of the ACM''.
+Homing pigeons have occasionally been used throughout history by different cultures.
+In 1832, James Lindsay gave a classroom demonstration of wireless telegraphy to his students.
+This last channel is called the "free space channel".
+A 2003 survey by the International Telecommunication Union (ITU) revealed that roughly a third of countries have fewer than one mobile subscription for every 20 people and one-third of countries have fewer than one land-line telephone subscription for every 20 people.
+Baird's device relied upon the Nipkow disk and thus became known as the mechanical television.
+It comes from Old French comunicacion (14c., Modern French communication), from Latin communicationem (nominative communicatio), noun of action from past participle stem of communicare "to share, divide out; communicate, impart, inform; join, unite, participate in," literally "to make common," from communis".
+Examples are to restrict Internet access by blocking the traffic destined for a particular port or to affect the performance of certain applications by assigning priority.
+Multimode fibers can be thought of as thicker optical fibers that are cheaper to manufacture devices for, but that suffers from less usable bandwidth and worse attenuation – implying poorer long-distance performance.
+These sites allow users to communicate with each other as well as post photographs, events and profiles for others to see.
+The Internet works in part because of protocols that govern how the computers and routers communicate with each other.
+On 11 September 1940, George Stibitz was able to transmit problems using teletype to his Complex Number Calculator in New York and receive the computed results back at Dartmouth College in New Hampshire.
+HD Radio, unlike Eureka 147, is based upon a transmission method known as in-band on-channel transmission that allows digital information to "piggyback" on normal AM or FM analog transmissions.
+ATSC uses Dolby Digital AC-3 for audio compression, ISDB uses Advanced Audio Coding (MPEG-2 Part 7) and DVB has no standard for audio compression but typically uses MPEG-1 Part 3 Layer 2.
+Hence, these systems use a hybrid of TDM and FDM.
+The choice of modulation also varies between the schemes.
+In a simplified example, if a binary message 1011 was transmitted with signal amplitudes 1.0 0.0 1.0 1.0 and received with signal amplitudes 0.9 0.2 1.1 0.9 it would still decode to the binary message 1011 — a perfect reproduction of what was sent.
+Telecommunication over fixed lines is called point-to-point communication because it is between one transmitter and one receiver.
+Whereas Asynchronous Transfer Mode (ATM) or Multiprotocol Label Switching (MPLS) are typical data-link protocols for larger networks such as WANs; Ethernet and Token Ring are typical data-link protocols for LANs.
+A number of key concepts reoccur throughout the literature on modern telecommunication theory and systems.
+Some digital communications networks contain one or more routers that work together to transmit information to the correct user.
+Once again, some of their advantages include privacy and security.
+By the year 2007 the Internet clearly dominated and captured 97% of all the information in telecommunication networks (most of the rest (2%) through mobile phones).
+During the propagation and reception, the information contained in analog signals will inevitably be degraded by undesirable physical noise.
+Despite the modest popularity of IBM Token Ring in the 1980s and 1990s, virtually all LANs now use either wired or wireless Ethernet facilities.
+In Bangladesh's Narshingdi district, isolated villagers use cellular phones to speak directly to wholesalers and arrange a better price for their goods.
+The onset of World War II brought on the first explosion of international broadcasting propaganda.
+However, purposefully lacking a direct connection to the Internet does not provide assured protection from hackers, military forces, or economic powers.
+Hence, any computer on the Internet can send a message to any other computer using its IP address.

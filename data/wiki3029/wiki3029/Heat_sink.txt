@@ -1,0 +1,200 @@
+For such composite systems, the temperature drop across the interface may be appreciable.
+Many shapes exist in the literature ranging from elliptical and cylindrical cylinders, conical shapes to more sharpened surfaces such as rhombus, square sections.
+It is shown that the thick plate can significantly improve the heat transfer between the heat source and the cooling fluid by way of conducting the heat current in an optimal manner.
+Nowadays synthetic diamond is used as submounts for high-power integrated circuits and laser diodes.
+* A heat sink is not a device with the "magical ability to absorb heat like a sponge and send it off to a parallel universe".
+The data for the thermal resistance and heat transfer coefficient are shown in the diagram, which shows that for an increasing air flow rate, the thermal resistance of the heat sink increases.
+The rate at which heat is transferred by conduction, , is proportional to the product of the temperature gradient and the cross-sectional area through which heat is transferred.
+Easy removal/rework.
+To ensure that the component temperature does not overheat, a thermal engineer seeks to find an efficient heat transfer path from the device to the environment.
+A heat sink design must fulfill both its thermal as well as its mechanical requirements.
+Devices that run cooler last longer.
+One of the methods to determine the performance of a heat sink is to use heat transfer and fluid dynamics theory.
+'''Application notes'''
+For thermal management applications, the outstanding thermal conductivity and diffusivity of diamond is an essential.
+To decrease the spreading resistance in the base of a heat sink:
+Cannot provide mechanical attachment for heavier heat sinks or for high vibration environments.
+Attachment methods include thermally conductive tape or epoxy, wire-form z clips, flat spring clips, standoff spacers, and push pins with ends that expand after installing.
+For the straight fin it was 44&nbsp;°C or 6&nbsp;°C better than the pin fin.
+The sum of these resistances is the total thermal resistance from the die to the ambient air.
+Diamond is another heat sink material, and its thermal conductivity of 2000 W/m•K exceeds copper five-fold.
+The thermal resistance from the base of the fins to the air, , can be calculated by the following formulas.
+Another method of manufacture is to solder the fins into the heat sink base.
+Can be repositioned in field.
+; Wire form Z-clips
+Copper has excellent heat sink properties in terms of its thermal conductivity, corrosion resistance, biofouling resistance, and antimicrobial resistance ''(see Main Article: Copper in heat exchangers)''.
+These cavities are usually utilized to extract heat from a variety of heat generating bodies to a heat sink.
+Two additional design factors also influence the thermal/mechanical performance of the thermal design:
+A threaded standoff is essentially a hollow metal tube with internal threads.
+The heat sink could be the copper foil of a circuit board, or else a separate heat sink mounted onto the component or circuit board.
+is the air mass flow rate in kg/s.
+* If there is no air flow around the heat sink, energy cannot be transferred.
+The above equations show that
+Following are factors that influence the performance of thermal tape:
+Ducted flow is where the air is forced to flow through a channel which fits tightly over the heat sink.
+Thermal adhesive or thermal grease improve the heat sink's performance by filling air gaps between the heat sink and the heat spreader on the device.
+'''Heat sink fin type'''
+Push pin with compression springs
+Requires holes in the board or solder anchors.
+For semiconductor devices used in a variety of consumer and industrial electronics, the idea of ''thermal resistance'' simplifies the selection of heat sinks.
+Fourier's law of heat conduction, simplified to a one-dimensional form in the ''x''-direction, shows that when there is a temperature gradient in a body, heat will be transferred from the higher temperature region to the lower temperature region.
+* k is the thermal conductivity of the fin material
+'''Thermal performance'''
+Heat transfer is therefore due to conduction across the actual contact area and to conduction (or natural convection) and radiation across the gaps.
+This section will discuss the aforementioned methods for the determination of the heat sink thermal performance.
+A pin is by far one of the more common heat sink types available on the market.
+More expensive than tape or epoxy.
+In this case, finned heat sinks operating in either natural-convection or forced-flow will not be affected significantly by surface emissivity.
+Care is needed in selection of push pin size.
+The shape of fins must be optimized to maximize heat transfer density and to minimize the pressure drop in the coolant fluid across the heat sink where the space and the materials used for the finned surfaces are constraints.
+Cavities (inverted fins) embedded in a heat source are the regions formed between adjacent fins that stand for the essential promoters of nucleate boiling or condensation.
+In the simplest case, this means partially gripping a component using a heavy metal crocodile clip, hemostat or similar clamp.
+Pin fin heat sink performance is significantly better than straight fins when used in their intended application where the fluid flows axially along the pins (see figure 17) rather than only tangentially across the pins.
+A heat sink is usually made out of copper and/or aluminium.
+In a vacuum or in outer space, there is no convective heat transfer, thus in these environments, radiation is the only factor governing heat flow between the heat sink and the environment.
+# For each interface between two objects in contact with each other, there will be a temperature drop across the interface.
+This tape is applied to the base of the heat sink, which is then attached to the component.
+What this means is that it will give a visual or post-processed result of a simulation, like the images in figures 16 and 17, and the CFD animations in figure 18 and 19, but the quantitative or absolute accuracy of the result is sensitive to the inclusion and accuracy of the appropriate parameters.
+Insufficient pressure results in areas of non-contact with trapped air, and results in higher-than-expected interface thermal resistance.
+Silicone coated fabrics, gap fillers
+; Threaded standoffs with compression springs
+If it is not, then the base resistance is primarily spreading resistance:
+** Water: 500 to 10,000 W/(m2K)
+** Aluminium: 120 to 240 W/(m·K)
+As heat flows through the fin, the combination of the thermal resistance of the heat sink impeding the flow and the heat lost due to convection, the temperature of the fin and, therefore, the heat transfer to the fluid, will decrease from the base to the end of the fin.
+Kordyban has compared the performance of a pin fin and a straight fin heat sink of similar dimensions.
+Provide cushioning and sealing while still allowing heat transfer.
+Relatively long assembly time.
+Placing a conductive thick plate as a heat transfer interface between a heat source and a cold flowing fluid (or any other heat sink) may improve the cooling performance.
+More expensive than tape and epoxy, wire form z-clips attach heat sinks mechanically.
+To understand the principle of a heat sink, consider Fourier's law of heat conduction.
+Requires holes in the board which increases complexity of traces in PCB.
+Therefore, seeking for more efficient designs of high conductivity pathways, embedded into a heat generating body constitutes a formidable challenge.
+When compact heat exchangers are calculated, the logarithmic mean air temperature is used.
+A case study of a LED based downlighter shows an example of the calculations done in order to calculate the required heat sink necessary for the effective cooling of lighting system.
+Once the heat sink base and fin resistances are known, then the heat sink thermal resistance,  can be calculated as:
++ Selection Based on Contact Pressure
+** The increase in heat sink thermal resistance with decrease in flow rate will be shown later in this article.
+Some mechanical strength.
+To use the z-clips, the printed circuit board must have anchors.
+'''Interface gap values'''
+Light-emitting diode (LED) performance and lifetime are strong functions of their temperature.
+The other end accepts a screw which compresses the spring, completing the assembly.
+Fin efficiency is defined as the actual heat transferred by the fin, divided by the heat transfer were the fin to be isothermal (hypothetically the fin having infinite thermal conductivity).
+Aluminium heat sinks can be extruded, but the less ductile copper cannot.
+Highest preload for the thermal interface material.
+Lasance and Eggink also found that for the bypass configurations that they tested, the flared heat sink performed better than the other heat sinks tested.
+These run the entire length of the heat sink.
+A heat sink is designed to maximize its surface area in contact with the cooling medium surrounding it, such as the air.
+Temporary heat sinks are sometimes used while soldering circuit boards, preventing excessive heat from damaging sensitive nearby electronics.
+Strongest mechanical attachment.
+Too great an insertion force can result in the die cracking and consequent component failure.
++ Selection Based on Interface Gap
+Adapted from data of
+Concerning the latter, the component must remain in thermal contact with its heat sink with reasonable shock and vibration.
+On the other hand, electrical components such as magnetic reed switches can malfunction if exposed to hotter soldering irons, so this practice is still very much in use.
+The idea of thermal resistance of a semiconductor heat sink is an approximation.
+Experiments can give a quantitative description of flow phenomena using measurements for one quantity at a time, at a limited number of points and time instances.
+Flaring the fins decreases flow resistance and makes more air go through the heat sink fin channel; otherwise, more air would bypass the fins.
+Aluminium alloys 6060 (low stress), 6061 and 6063 are commonly used, with thermal conductivity values of 166 and 201 W/m•K, respectively.
+Available for processors and ball grid array (BGA) components, clips allow the attachment of a BGA heat sink directly to the component.
+Although the pin fin has 194&nbsp;cm2 surface area while the straight fin has 58&nbsp;cm2, the temperature difference between the heat sink base and the ambient air for the pin fin is .
+CFD can give an insight into flow patterns that are difficult, expensive or impossible to study using experimental methods.
+; Thermally conductive tape
+Using the mean air temperature is an assumption that is valid for relatively short heat sinks.
+In general, the more surface area a heat sink has, the better it works.
+Thermal grease, epoxy, phase change materials, graphite or aluminium tapes.
+Strong mechanical attachment.
+* tf is the fin thickness (m)
+'''Temperature difference, Tcase−Tair °C'''
+Thermal tapes, including graphite, polyimide, and aluminium tapes
+Thermal contact resistance occurs due to the voids created by surface roughness effects, defects and misalignment of the interface.
+# The method by which the heat sink is mounted on a component or processor.
+* hf is the convection coefficient of the fin
+Matte-black surfaces will radiate much more efficiently than shiny bare metal.
+Requires holes in the board which increases complexity of trace layout.
+In addition to the mechanical attachment that the z-clip provides, it also permits using higher-performance thermal interface materials, such as phase change types.
+Deflect the spring until the other side of the clip can be placed in the other anchor.
+One end is secured with a screw through a hole in the PCB.
+* Use a vapor chamber or heat pipe in the heat sink base.
+Allows for pre-attachment.
+The clips therefore require no holes in the PCB.
+The heat sink base thermal resistance, , can be written as follows if the source is a uniformly applied the heat sink base.
+The heat flow between the semiconductor die and ambient air is modeled as a series of resistances to heat flow; there is a resistance from the die to the device case, from the case to the heat sink, and from the heat sink to the ambient air.
+Relatively inexpensive.
+The compression spring holds the assembly together and maintains contact between the heat sink and component.
+In a heat sink, this means that heat does not distribute uniformly through the heat sink base.
+Heat sinks are used with high-power semiconductor devices such as power transistors and optoelectronics such as lasers and light emitting diodes (LEDs), where the heat dissipation ability of the component itself is insufficient to moderate its temperature.
+It is assumed that the heat sink base is higher in temperature than the air.
+This nonuniformity increases the heat sink's effective thermal resistance.
+Silicone coated fabrics
+To decrease the thermal contact resistance, the surface roughness can be decreased while the interface pressure is increased.
+Numerical methods or computational fluid dynamics (CFD) provide a qualitative (and sometimes even quantitative) prediction of fluid flows.
+When selecting a TIM, care must be taken with the values supplied by the manufacturer.
+'''Products types available'''
+In such arrangement, the heat source is cooled under the thick plate instead of being cooled in direct contact with the cooling fluid.
+Natural convection requires free flow of air over the heat sink.
+A fin of a heat sink may be considered to be a flat plate with heat flowing in one end and being dissipated into the surrounding fluid as it travels to the other.
+The epoxy bond between the heat sink and component is semi-permanent/permanent.
+Stand-offs with compression springs
+As well, it works well in any orientation.
+In general, a heat sink performance is a function of material thermal conductivity, dimensions, fin type, heat transfer coefficient, air flow rate, and duct size.
+From a design standpoint, it is best to strike a balance by selecting a tape thickness that provides maximum "wettablilty" with minimum thermal resistance.
+Copper is three times as dense and more expensive than aluminium.
+Must have "keep out" zone around the BGA for the clip.
+where  is the heat sink base thickness,  is the heat sink material thermal conductivity and  is the area of the heat sink base.
+Highest thermal interface material preload.
++ Summary of heat sink attachment methods
+** Air: 10 to 100 W/(m2K)
+The inlet air temperature of the heat sink is therefore higher, which also results in a higher heat sink base temperature.
+Composite materials can be used.
+Can be used to thermally couple differing-height components to a heat spreader or heat sink.
+'''Product types available'''
+Using the equations 5 to 13 and the dimensional data in, the thermal resistance for the fins was calculated for various air flow rates.
+The most common heat sink materials are aluminium alloys.
+Such materials are often used as substrates for chips, as their thermal expansion coefficient can be matched to ceramics and semiconductors.
+Electrical resistivity may be important depending upon electrical design details.
+If fins are not aligned vertically, or if fins are too close together to allow sufficient air flow between them, the efficiency of the heat sink will decline.
+This makes re-work very difficult and at times impossible.
+Properly applied thermal interface materials displace the air that is present in the gaps between the two objects with a material that has a much-higher thermal conductivity.
+# Thicker tapes tend to provide better "wettability" with uneven component surfaces.
+Easy removal and installation.
+This means that some fins are at a lower temperature than if the heat source were uniform across the base of the heat sink.
+The use of RoHS solder must be allowed for because such solder is mechanically weaker than traditional Pb/Sn solder.
+Most epoxies are two-part liquid formulations that must be thoroughly mixed before being applied to the heat sink, and before the heat sink is placed on the component.
+'''Electrical insulation'''
+The epoxy chosen must be formulated for this purpose.
+Requires no holes or anchors.
+Heat sink attachment methods and thermal interface materials also affect the die temperature of the integrated circuit.
+Most manufacturers give a value for the thermal conductivity of a material.
+First and foremost, copper is an excellent conductor of heat.
+Thermal resistance is defined as temperature rise per unit of power, analogous to electrical resistance, and is expressed in units of degrees Celsius per watt (°C/W).
+In situations where convection is low, such as a flat non-finned panel with low airflow, radiative cooling can be a significant factor.
+Commercial extruded aluminium heat sinks have a thermal resistance (heat sink to ambient air) ranging from  for a large sink meant for TO3 devices, up to as high as  for a clip-on heat sink for a TO92 small plastic case.
+'''Surface area cm²'''
+The two most attractive advantages of this method are that no additional pumping power and no extra heat transfer surface area, that is quite different from fins (extended surfaces).
+Heat transfer by radiation is a function of both the heat sink temperature, and the temperature of the surroundings that the heat sink is optically coupled with.
+Because the space occupied by high conductivity materials together with the cost are the two elements of major concern.
+Specifically, results of the experimental, numerical and theoretical methods should all be within 10% of each other to give high confidence in the results.
+Copper has around twice the thermal conductivity of aluminium and faster, more efficient heat absorption.
+Fin efficiency is increased by decreasing the fin aspect ratio (making them thicker or shorter), or by using more conductive material (copper instead of aluminium, for example).
+'''Dielectric strength'''
+However, these improving methods are not always practical or possible for electronic equipment.
+In computers, heat sinks are used to cool central processing units or graphics processors.
+As such, a heat sink is included in the design to disperse heat to improve efficient energy use.
+Equations 6 and 7 are applicable for straight fins.
+Either type requires holes to be designed into the board.
+The contact between the device case and heat sink may have a thermal resistance of between , depending on the case size, and use of grease or insulating mica washer.
+Complicated assembly.
+Makes board rework difficult since it can damage component.
+A typical heat sink assembly uses two to four standoffs, which tends to make this the most costly heat sink attachment design.
+Creates "permanent" interface bond.
+have published data on tests conducted on pin fin, straight fin and flared fin heat sinks.
+Extra assembly steps.
+The emissivity of a material is tremendously frequency dependent, and is related to absorptivity (of which shiny metal surfaces have very little).
+The concept of a pin fin heat sink is to try to pack as much surface area into a given volume as possible.
+The popular 2N3055 power transistor in a TO3 case has an internal thermal resistance from junction to case of .
+; Push pins with compression springs
+Ideal for large heat sinks.
+Air velocity, choice of material, protrusion design and surface treatment are factors that affect the performance of a heat sink.
+Another disadvantage is the need for holes in the PCB.

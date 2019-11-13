@@ -1,0 +1,200 @@
+The Clausius equation of δ''q''rev/''T'' = Δ''S'' introduces the measurement of entropy change, Δ''S''.
+If ''W'' is the number of microstates that can yield a given macrostate, and each microstate has the same ''a priori'' probability, then that probability is ''p=1/W''.
+This results in an "entropy gap" pushing the system further away from the posited heat death equilibrium.
+In Boltzmann's definition, entropy is a measure of the number of possible microscopic states (or microstates) of a system in thermodynamic equilibrium.
+As an example, for a glass of ice water in air at room temperature, the difference in temperature between a warm room (the surroundings) and cold glass of ice and water (the system and not part of the room), begins to be equalized as portions of the thermal energy from the warm surroundings spread to the cooler system of ice and water.
+The possibility that the Carnot function could be the temperature as measured from a zero temperature, was suggested by Joule in a letter to Kelvin.
+There are two related definitions of entropy: the thermodynamic definition and the statistical mechanics definition.
+More explicitly, an energy ''TR S'' is not available to do useful work, where ''TR'' is the temperature of the coldest accessible reservoir or heat sink external to the system.
+In the case of transmitted messages, these probabilities were the probabilities that a particular message was actually transmitted, and the entropy of the message system was a measure of the average amount of information in a message.
+Reversible phase transitions occur at constant temperature and pressure.
+The equilibrium state of a system maximizes the entropy because we have lost all information about the initial conditions except for the conserved variables; maximizing the entropy maximizes our ignorance about the details of the system.
+In which ''CD'' is the "disorder" capacity of the system, which is the entropy of the parts contained in the permitted ensemble, ''CI'' is the "information" capacity of the system, an expression similar to Shannon's channel capacity, and ''CO'' is the "order" capacity of the system.
+In other words, the entropy that leaves the system is greater than the entropy that enters the system, implying that some irreversible process prevents the cycle from outputting the maximum amount of work as predicted by the Carnot equation.
+Entropy can be calculated for a substance as the standard molar entropy from absolute zero (also known as absolute entropy) or as a difference in entropy from some other reference state which is defined as zero entropy.
+Clausius called this state function ''entropy''.
+A definition of entropy based entirely on the relation of adiabatic accessibility between equilibrium states was given by  E.H.Lieb and J. Yngvason in 1999.
+Mixing a hot parcel of a fluid with a cold one produces a parcel of intermediate temperature, in which the overall increase in entropy represents a "loss" which can never be replaced.
+Statistical mechanics demonstrates that entropy is governed by probability, thus allowing for a decrease in disorder even in an isolated system.
+In other words, in any natural process there exists an inherent tendency towards the dissipation of useful energy.
+Building on this work, in 1824 Lazare's son Sadi Carnot published ''Reflections on the Motive Power of Fire'' which posited that in all heat-engines, whenever "caloric" (what is now known as heat) falls through a temperature difference, work or motive power can be produced from the actions of its fall from a hot to cold body.
+Flows of both heat () and work, i.e.
+Shannon entropy is a broad and general concept which finds applications in information theory as well as thermodynamics.
+One can see that entropy was discovered through mathematics rather than through laboratory results.
+Each system, by definition, must have its own absolute temperature applicable within all areas in each respective system in order to calculate the entropy transfer.
+For further discussion, see ''Exergy''.
+For certain simple transformations in systems of constant composition, the entropy changes are given by simple formulas.
+: = the rate of entropy flow due to the flow of heat across the system boundary.
+Since the 1990s, leading ecological economist and steady-state theorist Herman Daly — a student of Georgescu-Roegen — has been the economists profession's most influential proponent of the entropy pessimism position.
+This expression becomes, via some steps, the Gibbs free energy equation for reactants and products in the system: Δ''G'' the Gibbs free energy change of the system = Δ''H'' the enthalpy change −''T'' Δ''S'' the entropy change.
+As the second law of thermodynamics shows, in an isolated system internal portions at different temperatures tend to adjust to a single uniform temperature and thus produce equilibrium.
+For instance, a quantity of gas at a particular temperature and pressure has its state fixed by those values, and has a particular volume that is determined by those values.
+Since entropy is a state function, the entropy change of the system for an irreversible path is the same as for a reversible path between the same two states.
+Note, also, that if there are multiple heat flows, the term  is replaced by  where  is the heat flow and  is the temperature at the ''jth'' heat flow port into the system.
+For example, if observer A uses the variables ''U'', ''V'' and ''W'', and observer B uses ''U'', ''V'', ''W'', ''X'', then, by changing ''X'', observer B can cause an effect that looks like a violation of the second law of thermodynamics to observer A.
+If external pressure ''P'' bears on the volume ''V'' as the only external parameter, this relation is:
+In the Carnot cycle, the working fluid returns to the same state it had at the start of the cycle, hence the line integral of any state function, such as entropy, over the cycle is zero.
+As time progresses, the second law of thermodynamics states that the entropy of an isolated system never decreases.
+To obtain the absolute value of the entropy, we need the third law of thermodynamics, which states that ''S'' = 0 at absolute zero for perfect crystals.
+In contrast to  the macrostate, which characterizes plainly observable average quantities, a microstate specifies all molecular details about the system including the position and velocity of every molecule.
+From a macroscopic perspective, in classical thermodynamics the entropy is interpreted as a state function of a thermodynamic system: that is, a property depending only on the current state of the system, independent of how that state came to be achieved.
+This density matrix formulation is not needed in cases of thermal equilibrium so long as the basis states are chosen to be energy eigenstates.
+In a thermodynamic system, pressure, density, and temperature tend to become uniform over time because this equilibrium state has higher probability (more possible combinations of microstates) than any other; see statistical mechanics.
+heat produced by friction.
+Historically, the concept of entropy evolved to explain why some processes (permitted by conservation laws) occur spontaneously while their time reversals (also permitted by conservation laws) do not; systems tend to progress in the direction of increasing entropy.
+Other cycles, such as the Otto cycle, Diesel cycle and Brayton cycle, can be analyzed from the standpoint of the Carnot cycle.
+The thermodynamic definition of entropy was developed in the early 1850s by Rudolf Clausius and essentially describes how to measure the entropy of an isolated system in thermodynamic equilibrium with its parts.
+For an open thermodynamic system in which heat and work are transferred by paths separate from the paths for transfer of matter, using this generic balance equation, with respect to the rate of change with time ''t'' of the extensive quantity entropy ''S'', the entropy balance equation is:
+those in which heat, work, and mass flow across the system boundary.
+The basic generic balance expression states that dΘ/dt, i.e.
+In the 1850s and 1860s, German physicist Rudolf Clausius objected to the supposition that no change occurs in the working body, and gave this "change" a mathematical interpretation by questioning the nature of the inherent loss of usable heat when work is done, e.g.
+Since the latter is valid over the entire cycle, this gave Clausius the hint that at each stage of the cycle, work and heat would not be equal, but rather their difference would be a state function that would vanish upon completion of the cycle.
+It follows from the second law of thermodynamics that the entropy of a system that is not isolated may decrease.
+One of the simpler entropy order/disorder formulas is that derived in 1984 by thermodynamic physicist Peter Landsberg, based on a combination of thermodynamics and information theory arguments.
+In thermodynamics, such a system is one in which the volume, number of molecules, and internal energy are fixed (the microcanonical ensemble).
+Later, scientists such as Ludwig Boltzmann, Josiah Willard Gibbs, and James Clerk Maxwell gave entropy a statistical basis.
+where ''k''B is the Boltzmann constant, equal to .
+However, irreversible processes increase the combined entropy of the system and its environment.
+Using this concept, in conjunction with the density matrix he extended the classical concept of entropy into the quantum domain.
+Reversibility is an ideal that some real processes approximate and that is often presented in study exercises.
+Increases in entropy correspond to irreversible changes in a system, because some energy is expended as waste heat, limiting the amount of work a system can do.
+Henceforth, the essential problem in statistical thermodynamics, i.e.
+Otherwise the process cannot go forward.
+In a different basis set, the more general expression is
+Clausius wrote that he "intentionally formed the word Entropy as similar as possible to the word Energy", basing the term on the Greek ἡ τροπή ''tropē'', "transformation".
+where  is the density matrix,  is trace (linear algebra) and  is the matrix logarithm.
+Entropy is equally essential in predicting the extent and direction of complex chemical reactions.
+A special case of entropy increase, the entropy of mixing, occurs when two or more different substances are mixed.
+For isolated systems, entropy never decreases.
+The second law of thermodynamics, states that a closed system has entropy which may increase or otherwise remain constant.
+The most general interpretation of entropy is as a measure of our uncertainty about a system.
+Defining the  entropies of the reference states to be 0 and 1 respectively the entropy of a state  is defined as the largest number   such that  is adiabatically accessible from a composite state consisting of an amount  in the state  and a complementary amount, , in the state .
+It is also, remarkably, a fundamental and very useful function of state.
+The Shannon entropy (in nats) is:
+The entropy change of a system at temperature ''T'' absorbing an infinitesimal amount of heat δ''q''
+In an isolated system such as the room and ice water taken together, the dispersal of energy from warmer to cooler always results in a net increase in entropy.
+This account, in terms of heat and work, is valid only for cases in which the work and heat transfers are by paths physically distinct from the paths of entry and exit of matter from the system.
+The state function was called the internal energy and it became the first law of thermodynamics.
+Carnot based his views of heat partially on the early 18th century "Newtonian hypothesis" that both heat and light were types of indestructible forms of matter, which are attracted and repelled by other matter, and partially on the contemporary views of Count Rumford who showed (1789) that heat could be created by friction as when cannon bores are machined.
+However, as calculated in the example, the entropy of the system of ice and water has increased more than the entropy of the surrounding room has decreased.
+Alternatively, in chemistry, it is also referred to one mole of substance, in which case it is called the ''molar entropy'' with a unit of .
+Recent work has cast some doubt on the heat death hypothesis and the applicability of any simple thermodynamic model to the universe in general.
+It was originally devised by Claude Shannon in 1948 to study the amount of information in a transmitted message.
+Physical chemist Peter Atkins, for example, who previously wrote of dispersal leading to a disordered state, now writes that "spontaneous changes are always accompanied by a dispersal of energy".
+The statistical definition was developed by Ludwig Boltzmann in the 1870s by analyzing the statistical behavior of the microscopic components of the system.
+The difference between an isolated system and closed system is that heat may ''not'' flow to and from an isolated system, but heat flow to and from a closed system is possible.
+More specifically, total entropy is conserved in a reversible process and not conserved in an irreversible process.
+The change in entropy (ΔS) of a system was originally defined for a thermodynamically reversible process as
+For most practical purposes, this can be taken as the fundamental definition of entropy since all other formulas for ''S'' can be mathematically derived from it, but not vice versa.
+Thus it was found to be a function of state, specifically a thermodynamic state of the system.
+Consistent with the Boltzmann definition, the second law of thermodynamics needs to be re-worded as such that entropy increases over time, though the underlying principle remains the same.
+The first law of thermodynamics, deduced from the heat-friction experiments of James Joule in 1843, expresses the concept of energy, and its conservation in all processes; the first law, however, is unable to quantify the effects of friction and dissipation.
+In economics, Georgescu-Roegen's work has generated the term 'entropy pessimism'.
+The traditional qualitative description of entropy is that it refers to changes in the status quo of the system and is a measure of "molecular disorder" and the amount of wasted energy in a dynamical energy transformation from one state or form to another.
+Other complicating factors, such as the energy density of the vacuum and macroscopic quantum effects, are difficult to reconcile with thermodynamical models, making any predictions of large-scale thermodynamics extremely difficult.
+The expressions for the two entropies are similar.
+If the universe can be considered to have generally increasing entropy, then – as Sir Roger Penrose has pointed out – gravity plays an important role in the increase because gravity causes dispersed matter to accumulate into stars, which collapse eventually into black holes.
+This applies whether the process is reversible or irreversible.
+Entropy can be defined for any Markov processes with reversible dynamics and the detailed balance property.
+For such applications, Δ''S'' must be incorporated in an expression that includes both the system and its surroundings, Δ''S''universe = Δ''S''surroundings + Δ''S'' system.
+Von Neumann established a rigorous mathematical framework for quantum mechanics with his work ''Mathematische Grundlagen der Quantenmechanik''.
+or, equivalently, the expected value of the logarithm of the probability that a microstate will be occupied
+Often, if two properties of the system are determined, then the state is determined and the other properties' values can also be determined.
+The definition of the information entropy is, however, quite general, and is expressed in terms of a discrete set of probabilities ''pi so that
+However, the escape of energy from black holes might be possible due to quantum activity, see Hawking radiation.
+The concept of entropy has been found to be generally useful and has several other formulations.
+He argues that when constraints operate on a system, such that it is prevented from entering one or more of its possible or permitted states, as contrasted with its forbidden states, the measure of the total amount of "disorder" in the system is given by:
+It is a mathematical construct and has no easy physical analogy.
+The role of entropy in cosmology remains a controversial subject since the time of Ludwig Boltzmann.
+the rate of change of Θ in the system, equals the rate at which Θ enters the system at the boundaries, minus the rate at which Θ leaves the system across the system boundaries, plus the rate at which Θ is generated within the system.
+The entropy of a system depends on its internal energy and its external parameters, such as its volume.
+and if entropy is measured in units of ''k'' per nat, then the entropy is given by:
+temperature, pressure, entropy, heat capacity.
+Thus, the fact that the entropy of the universe is steadily increasing, means that its total energy is becoming less useful: eventually, this will lead to the "heat death of the Universe".
+In Boltzmann's 1896 ''Lectures on Gas Theory'', he showed that this expression gives a measure of entropy for systems of atoms and molecules in the gas phase, thus providing a measure for the entropy of classical thermodynamics.
+For a reversible process, entropy behaves as a conserved quantity and no change occurs in total entropy.
+Hence, from this perspective, entropy measurement is thought of as a kind of clock.
+The entropy of the room has decreased as some of its energy has been dispersed to the ice and water.
+In 1877 Boltzmann visualized a probabilistic way to measure the entropy of an ensemble of ideal gas particles, in which he defined entropy to be proportional to the logarithm of the number of microstates such a gas could occupy.
+Although his work was blemished somewhat by mistakes, a full chapter on the economics of Georgescu-Roegen has approvingly been included in one elementary physics textbook on the historical development of thermodynamics.
+He provided in this work a theory of measurement, where the usual notion of wave function collapse is described as an irreversible process (the so-called von Neumann or projective measurement).
+Entropy is the only quantity in the physical sciences that seems to imply a particular direction of progress, sometimes called an arrow of time.
+In any process where the system gives up energy Δ''E'', and its entropy falls by Δ''S'', a quantity at least ''T''R Δ''S'' of that energy must be given up to the system's surroundings as unusable heat (''T''R is the temperature of the system's external surroundings).
+Transfer as heat entails entropy transfer  where ''T'' is the absolute thermodynamic temperature of the system at the point of the heat flow.
+Thermodynamic entropy is a non-conserved state function that is of great importance in the sciences of physics and chemistry.
+Chemical reactions cause changes in entropy and entropy plays an important role in determining in which direction a chemical reaction spontaneously proceeds.
+Carnot did not distinguish between  and , since he was using the incorrect hypothesis that caloric theory was valid, and hence heat was conserved (the incorrect assumption that  and  were equal) when, in fact,  is greater than .
+Nevertheless, for both closed and isolated systems, and indeed, also in open systems, irreversible thermodynamics processes may occur.
+In summary, the thermodynamic definition of entropy provides the experimental definition of entropy, while the statistical definition of entropy extends the concept, providing an explanation and a deeper understanding of its nature.
+The interpretative model has a central role in determining entropy.
+We can only obtain the change of entropy by integrating the above formula.
+The early classical definition of the properties of the system assumed equilibrium.
+Carathéodory linked entropy with a mathematical definition of irreversibility, in terms of trajectories and integrability.
+Understanding the role of thermodynamic entropy in various processes requires an understanding of how and why that information changes as the system evolves from its initial to its final condition.
+The qualifier "for a given set of macroscopic variables" above has deep implications: if two observers use different sets of macroscopic variables, they see different entropies.
+in a reversible way, is given by ''δq/T''.
+In statistical mechanics this reflects that the ground state of a system is generally non-degenerate and only one microscopic configuration corresponds to it.
+''P''''i'' = 1/Ω, where Ω is the number of microstates); this assumption is usually justified for an isolated system in equilibrium.
+Since both internal energy and entropy are monotonic functions of temperature ''T'', implying that the internal energy is fixed when one specifies the entropy and the volume, this relation is valid even if the change from one state of thermal equilibrium to another with infinitesimally larger entropy and volume happens in a non-quasistatic way (so during this change the system may be very far out of thermal equilibrium and then the entropy, pressure and temperature may not exist).
+A recently developed educational approach avoids ambiguous terms and describes such spreading out of energy as dispersal, which leads to loss of the differentials required for work even though the total energy remains constant in accordance with the first law of thermodynamics (compare discussion in next section).
+For example, gas in a container with known volume, pressure, and temperature could have an enormous number of possible configurations of the individual gas molecules, and which configuration the gas is actually in may be regarded as random.
+The interpretation of entropy in statistical mechanics is the measure of uncertainty, or ''mixedupness'' in the phrase of Gibbs, which remains about a system after its observable macroscopic properties, such as temperature, pressure and volume, have been taken into account.
+Now equating () and () gives
+Carnot reasoned that if the body of the working substance, such as a body of steam, is returned to its original state at the end of a complete engine cycle, that "no change occurs in the condition of the working body".
+Following the second law of thermodynamics, entropy of an isolated system always increases.
+It is reversible heat divided by temperature.
+Hence, entropy can be understood as a measure of molecular disorder within a macroscopic system.
+: = the rate of entropy production within the system.
+Jacob Bekenstein and Stephen Hawking have shown that black holes have the maximum possible entropy of any object of equal size.
+For fusion (melting) of a solid to a liquid at the melting point ''T''m, the entropy of fusion is
+The second law of thermodynamics requires that, in general, the total entropy of any system can't decrease other than by increasing the entropy of some other system.
+Over time the temperature of the glass and its contents and the temperature of the room become equal.
+According to Carnot's principle, work can only be produced by the system when there is a temperature difference, and the work should be some function of the difference in temperature and the heat absorbed ().
+Hence, in a system isolated from its environment, the entropy of that system tends not to decrease.
+This means the line integral  is path-independent.
+Secondly, it is impossible for any device operating on a cycle to produce net work from a single temperature reservoir; the production of net work requires flow of heat from a hotter reservoir to a colder reservoir, or a single expanding reservoir undergoing adiabatic cooling, which performs adiabatic work.
+The French mathematician Lazare Carnot proposed in his 1803 paper ''Fundamental Principles of Equilibrium and Movement'' that in any machine the accelerations and shocks of the moving parts represent losses of ''moment of activity''.
+Following on from the above, it is possible (in a thermal context) to regard entropy as an indicator or measure of the ''effectiveness'' or ''usefulness'' of a particular quantity of energy.
+Unlike many other functions of state, entropy cannot be directly observed but must be calculated.
+This relationship was expressed in increments of entropy equal to the ratio of incremental heat transfer divided by temperature, which was found to vary in the thermodynamic cycle but eventually return to the same value at the end of every cycle.
+In chemical engineering, the principles of thermodynamics are commonly applied to "open systems", i.e.
+According to the Clausius equality, for a reversible cyclic process:
+The right-hand side of the first equation would be the upper bound of the work output by the system, which would now be converted into an inequality
+The entropy gap is widely believed to have been originally opened up by the early rapid exponential expansion of the universe.
+The second law of thermodynamics states that an isolated system's entropy never decreases.
+The concept of entropy arose from Rudolf Clausius's study of the Carnot cycle.
+While these are the same units as heat capacity, the two concepts are distinct.
+In the setting of Lieb and Yngvason one starts by picking, for a unit amount of the substance under consideration, two reference states    and  such that the latter is adiabatically accessible from the former but not vice versa.
+It has the dimension of energy divided by temperature, which has a unit of joules per kelvin (J&nbsp;K−1) in the International System of Units (or kg&nbsp;m2&nbsp;s−2&nbsp;K−1 in terms of base units).
+In mechanics, the second law in conjunction with the fundamental thermodynamic relation places limits on a system's ability to do useful work.
+The entropy of the thermodynamic system is a measure of how far the equalization has progressed.
+In statistical mechanics, entropy is a measure of the number of ways in which a system may be arranged, often taken to be a measure of "disorder" (the higher the entropy, the higher the disorder).
+The entropy of a black hole is proportional to the surface area of the black hole's event horizon.
+Later, the thermodynamic properties, including entropy, were given an alternative definition in terms of the statistics of the motions of the microscopic constituents of a system — modeled at first classically, e.g.
+To derive the Carnot efficiency,  (a number less than one), Kelvin had to evaluate the ratio of the work output to the heat absorbed during the isothermal expansion with the help of the Carnot-Clapeyron equation which contained an unknown function, known as the Carnot function.
+For the case of equal probabilities (i.e.
+Similarly, the total amount of "order" in the system is given by:
+Here  is the number of moles of gas and  is the ideal gas constant.
+The above definition is sometimes called the macroscopic definition of entropy because it can be used without regard to any microscopic description of the contents of a system.
+Then the previous equation reduces to
+This fact has several important consequences in science: first, it prohibits "perpetual motion" machines; and second, it implies the arrow of entropy has the same direction as the arrow of time.
+The more such states available to the system with appreciable probability, the greater the entropy.
+In many processes it is useful to specify the entropy as an intensive property independent of the size, as a specific entropy characteristic of the type of system studied.
+The summation is over all the possible microstates of the system, and ''pi'' is the probability that the system is in the ''i''-th microstate.
+Entropy is not a conserved quantity: for example, in an isolated system with non-uniform temperature, heat might irreversibly flow and the temperature become more uniform such that entropy increases.
+It is often said that entropy is an expression of the disorder, or randomness of a system, or of our lack of information about it.
+But the entropy of a pure substance is usually given as an intensive property—either entropy per unit mass (SI unit: J&nbsp;K−1&nbsp;kg−1) or entropy per unit amount of substance (SI unit: J&nbsp;K−1&nbsp;mol−1).
+Entropy change also measures the mixing of substances as a summation of their relative quantities in the final mixture.
+The classical thermodynamic definition of entropy has more recently been extended into the area of non-equilibrium thermodynamics.
+Newtonian particles constituting a gas, and later quantum-mechanically (photons, phonons, spins, etc.).
+However, the entropy change of the surroundings will be different.
+The second law of thermodynamics states that entropy in an isolated system – the combination of a subsystem under study and its surroundings – increases during all spontaneous chemical and physical processes.
+each message is equally probable), the Shannon entropy (in bits) is just the number of yes/no questions needed to determine the content of the message.
+Important examples are the Maxwell relations and the relations between heat capacities.
+The fact that entropy is a function of state is one reason it is useful.
+To derive a generalized entropy balanced equation, we start with the general balance equation for the change in any extensive quantity Θ in a thermodynamic system, a quantity that may be either conserved, such as energy, or non-conserved, such as entropy.
+These equations also apply for expansion into a finite vacuum or a throttling process, where the temperature, internal energy and enthalpy for an ideal gas remain constant.
+When the second equation is used to express the work as a difference in heats, we get
+This makes the concept somewhat obscure or abstract, akin to how the concept of energy arose.
+The statistical mechanics description of the behavior of a system is necessary as the definition of the properties of a system using classical thermodynamics become an increasingly unreliable method of predicting the final state of a system that is subject to some process.
+Romanian American economist Nicholas Georgescu-Roegen, a progenitor in economics and a paradigm founder of ecological economics, made extensive use of the entropy concept in his magnum opus on ''The Entropy Law and the Economic Process''.

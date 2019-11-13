@@ -1,0 +1,200 @@
+The clarity of strongly differentiated major and minor sections gives way to a more equivocal sense of key and mode.
+Conversely, in the late 18th century or "Classical" period, the title "sonata" is typically given to a work composed of three or four movements.
+* ''First subject group'', ''P'' (Prime) – this consists of one or more themes, all of them in the tonic key.
+Comparing the recordings of Schnabel, from the beginning of modern recording, with those of Barenboim and then Pratt shows a distinct shift in how the structure of the sonata form is presented to the listener over time.
+The 20th century brought a wealth of scholarship that sought to found the theory of the sonata form on basic tonal laws.
+This occurs in the slow movements of Mozart's quartets KV 387, KV 458, KV 465, KV 575, and KV 589.
+While it is typically used in the first movement of multi-movement pieces, it is sometimes used in subsequent movements as well—particularly the final movement.
+The term ''sonata'' is first found in the 17th century, when instrumental music had just begun to become increasingly separated from vocal music.
+The first movement of Richard Strauss's second symphony, in F minor, modulates to the submediant D-flat major, as do the F minor first movements of Brahms' first clarinet sonata and piano quintet; all three works balance this downward third by moving up to the major mediant (A-flat major) for the key of the second movement.
+The ''Coda'' is optional.
+It begins in F-sharp minor, moves into A major, then through B-flat major to F major.
+*the second subject group recapitulated in a key other than tonic, as in Richard Strauss's 2nd symphony.
+Since its establishment, the sonata form became the most common form in the first movement of works entitled "sonata", as well as other long works of classical music, including the symphony, concerto, string quartet, and so on.
+Although the Italian term ''sonata'' often refers to a piece in sonata form, it is essential to separate the two.
+In recent times, two other musicologists, James Hepokoski and Warren Darcy, have presented, without reference to Keller, their analysis, which they term Sonata Theory, of the sonata-allegro form and the sonata cycle in terms of genre expectations, and categorized both the sonata-allegro movement and the sonata cycle by the compositional choices made to respect or depart from conventions.
+For instance in the first movement of Richard Strauss's 2nd symphony in F minor, the recapitulation begins with the first subject group in tonic but modulates to the mediant A-flat major for the second subject group before modulating back to F minor for the coda.
+Another example occurs in the finale of Mozart's string quartet KV 387, where the opening of the first subject group is cut, and in the quintet KV 515, where a later portion of the first subject group is cut.
+The retransition prolongates over the dominant chord on G, but suddenly takes up the first theme in the flattened mediant E-flat major.
+About halfway through his career, Beethoven also began to experiment with other tonal relationships between the tonic and the second subject group.
+Accordingly, there is a large body of theory on what unifies and distinguishes practice in the sonata form, both within eras and between eras.
+Another role that these codas sometimes serve is to return to the minor mode in minor-key movements where the recapitulation proper concludes in the parallel major, as in the first movements of Beethoven's 5th Symphony or Schumann's Piano Concerto, or rarely, to restore the home key after an off-tonic recapitulation, such as in the first movements of Brahms's Clarinet Quintet and Dvorak's Symphony No.
+These changes produce changes in performance practice: when sections are clear, then there is less need to emphasize the points of articulation.
+Among the many sonatas are numerous examples of the true sonata form being crafted into place.
+It has led to changes in how works are edited; for example, the phrasing of Beethoven's piano works has undergone a shift to longer and longer phrases that are not always in step with the cadences and other formal markers of the sections of the underlying form.
+It is also common in overtures, occurring for example in Schubert's ''Overture in the Italian Style'' in C, D 590.
+Occasionally, the retransition can begin with a false recapitulation, in which the opening material of the first theme group is presented before the development has completed.
+Although it is rare, the second subject group's melody can be different compared to the exposition, like Haydn's Symphony No.
+9, as well as in many Romantic concertos, such as Grieg's A minor concerto or Brahms' B-flat major concerto.
+Its originators implied that there was a set template to which Classical and Romantic composers aspired, or should aspire.
+And in the last movement of Schubert's ninth symphony in C major, the first subject group is in the flattened mediant E-flat major, modulates to the subdominant F major and then back to tonic for the second subject group and coda.
+Marx may be the originator of the term "sonata form".
+In some pieces by Haydn and Mozart, such as Mozart's Piano Sonata No.
+The work of Heinrich Schenker and his ideas about "foreground," "middleground," and "background" became enormously influential in the teaching of composition and interpretation.
+According to the ''Grove Dictionary of Music and Musicians'', sonata form is "the most important principle of musical form, or formal type, from the Classical period well into the 20th century".
+In the more complex sonata expositions there can be brief modulations to fairly remote keys, followed by reassertion of the tonic.
+Their study focuses on the normative period of sonata practice, notable ones being the works of Haydn, Mozart, Beethoven, Schubert, and their close contemporaries, projecting this practice forward to development of the sonata-allegro form into the 19th and 20th centuries.
+Its theory begins with the description, in the 18th century, of schematics for works, and was codified in the early 19th century.
+A structural feature that the special textural situation of the concerto makes possible is the 'ownership' of certain themes or materials by the solo instrument; such materials will thus not be exposed until the 'solo' exposition.
+The exposition is commonly repeated, particularly in classical works, and more likely in solo or chamber works than for concerti.
+However, Schoenberg and other theorists who used his ideas as a point of departure see the theme and variations as having an underlying role in the construction of formal music, calling the process ''continuing variation'', and argue from this idea that the sonata-allegro form is a means of structuring the continuing variation process.
+The first movement of Schubert's Quartet in D minor, D. 810 ("Death and the Maiden"), for example, has three separate key and thematic areas, in D minor, F major, and A minor.
+An example of the more extended type is the coda to the first movement of Beethoven's Eroica Symphony, and an exceptionally long coda appears at the end of the finale of Beethoven's eighth symphony.
+The sonata form as it is described is strongly identified with the norms of the Classical period in music.
+It is not necessarily the case that the move to the dominant key in the exposition is marked by a new theme.
+The term 'sonata form' is controversial and has been called misleading by scholars and composers almost from its inception.
+An important variant on traditional sonata-allegro form is found in the first movement of the Classical concerto.
+* The first required section is the ''exposition''.
+At different times the sonata form has been taken to be quite rigid, and at other times a freer interpretation has been considered permissible.
+Even before it had been described the form had become central to music making, absorbing or altering other formal schemas for works.
+The material of the second group is often different in rhythm or mood from that of the first group (frequently, it is more lyrical).
+As a formal model it is usually best exemplified in the first movements of multi-movement works from this period, whether orchestral or chamber, and has, thus, been referred to frequently as "first-movement form" or "sonata-allegro form" (since the typical first movement in a three- or four-movement cycle will be in allegro tempo).
+It is also possible to have the second subject group in a key other than tonic while the first subject group is in the home key.
+The exposition need not only have two key areas.
+In the 20th century, emphasis moved from the study of themes and keys to how harmony changed through the course of a work and the importance of cadences and transitions in establishing a sense of "closeness" and "distance" in a sonata.
+Often, this occurs as late as the coda, as in Mozart's String Quintet in D major K. 593, Haydn's "Drumroll" Symphony, or Beethoven's Piano Sonata No.
+A special case is the recapitulation that begins in the tonic minor, for example in the slow movement of Haydn's quartet Op.
+In the Classical era, the importance of sections and cadences and underlying harmonic progressions gives way to an emphasis on themes.
+The primary thematic material for the movement is presented in the ''Exposition''.
+In the finale of the original 1872 version of Tchaikovsky's 2nd Symphony, the first subject group begins in the tonic C major, modulates to E-flat major, then through E major, and then modulates back to tonic for the second subject group and coda.
+Slow movements, in particular, are seen as being similar to sonata-allegro form, with differences in phrasing and less emphasis on the development.
+On occasion, the material of introduction reappears in its original tempo later in the movement.
+The original meaning of the term (derived from the Italian word ''suonare'', to sound on instrument) referred to a piece for playing, distinguished from ''cantata'', a piece for singing.
+In time, theory on the layout of the first movement became more and more focused on understanding the practice of Haydn, Mozart, and, later, Beethoven.
+1) or even the minor dominant (Brahms Piano Concerto No.
+Rarely, a major-mode sonata form movement will modulate to a minor key for the second subject area, such as the mediant minor (Beethoven Sonata Op.
+The transition from the development to the recapitulation is a crucial moment in the work.
+Codas may be quite brief tailpieces, or they may be very long and elaborate.
+It may or may not contain material that is later stated in the exposition.
+Similarly, Chopin's Piano Concerto in F minor uses F minor, A-flat major, and C minor in its first movement's exposition.
+16 in C, K. 545, or the finale of his String Quartet No.
+The ''Introduction'' section is optional, or may be reduced to a minimum.
+The exposition typically concludes with a '''closing theme''', a ''codetta'', or both.
+*a 'third subject group' in a different key than the other two, used by Schubert (e.g.
+* a separate development section including a retransition
+In general, the ''Development'' starts in the same key as the exposition ended, and may move through many different keys during its course.
+7, or the first movement of Mozart's piano sonata in D major, KV 311.
+Some composers, most notably Schubert, composed sonata forms with three or more key areas.
+For composers, the sonata form is like the plot of a play or movie script, describing when the crucial plot points are, and the kinds of material that should be used to connect them into a coherent and orderly whole.
+It is also possible for the second subject group to be omitted, like the fourth movement of Shostakovich's Symphony No.
+The same section in most sonata form movements has prominent harmonic and thematic parallelisms (although in some works from the 19th century and onward, some of these parallelisms are subject to considerable exceptions), which include:
+Each of the sections is often further divided or characterized by the particular means by which it accomplishes its function in the form.
+The most common practice, for Beethoven and many other composers from the Romantic era, was to use the mediant or submediant, rather than the dominant, for the second group.
+One example is Henryk Wieniawski's Violin Concerto No.
+Explanations for why an extended coda is present vary.
+The coda will end, however, with a perfect authentic cadence in the original key.
+However, sonata form is currently viewed as a model for musical analysis, rather than compositional practice.
+In the first subject group of Schubert's Piano Sonata in B-flat, D. 960, for example, the theme is presented three times, in B-flat major, in G-flat major, and then again in B-flat major.
+The standard definition focuses on the thematic and harmonic organization of tonal materials that are presented in an exposition, elaborated and contrasted in a development and then resolved harmonically and thematically in a recapitulation.
+(On occasion, it will actually return to the sub-dominant key and then proceed with the same transition as in the exposition).
+Subsections of works are sometimes analyzed as being in sonata form, in particular single movement works, such as the ''Konzertstück in F minor'' of Carl Maria von Weber.
+After the final cadence of the recapitulation, the movement may continue with a '''coda''' which will contain material from the movement proper.
+In addition, the standard definition recognizes that an introduction and a coda may be present.
+As a sign of this the word "sonata" is sometimes prepended to the name of the form, in particular in the case of the "sonata-rondo" form.
+Sometimes this effect is also used for false reprises in the "wrong key" that are soon followed by the actual recapitulation in the tonic, such as in the first movement of Haydn's quartet Op.
+The surprise that ensues when the music continues to modulate toward the tonic can be used for either comic or dramatic effect.
+The 20th century would see a continued expansion of acceptable practice, leading to the formulation of ideas by which there existed a "sonata principle" or "sonata idea" that unified works of the type, even if they did not explicitly meet the demands of the normative description.
+Interestingly, the latter case transposes the second repeat of its exposition by a fifth, starting on the minor dominant (instead of the tonic) and finishing on the major mediant (instead of the submediant).
+Perhaps the most extensive contemporary description of the sonata-form type of movement may have been given by the theorist H. C. Koch in 1793: like earlier German theorists and unlike many of the descriptions of the form we are used to today, he defined it in terms of the movement's plan of modulation and principal cadences, without saying a great deal about the treatment of themes.
+At the end, the music will usually return to the tonic key in preparation of the recapitulation.
+In his work, the sonata-allegro was a well-implied 'background form' against whose various detailed features composers could compose their individual 'foregrounds'; the 'meaningful contradiction' of expected background by unexpected foreground was seen as generating the expressive content.
+Theorists of this school include Erwin Ratz and William E. Caplin.
+In the recapitulation section, the key of the first subject group may be in a key other than tonic, most often in the subdominant, known as a "subdominant recapitulation".
+The exposition presents the primary thematic material for the movement: one or two themes or theme groups, often in contrasting styles and in opposing keys, connected by a modulating transition.
+49 in E flat major.
+*and an extended coda section that pursues developmental, rather than concluding, processes, often found in Beethoven's middle-period works, such as his third symphony.
+Codas, when present, vary considerably in length, but like introductions are not part of the "argument" of the work.
+In addition, the character of the music would signal such a return.
+*''Codetta'', ''K'' – the purpose of this is to bring the exposition section to a close with a perfect cadence in the same key as the second group.
+Examples include Beethoven's ''Appassionata'' sonata.
+However, as what Grove, following Charles Rosen, calls a "principle"—a typical approach to shaping a large piece of instrumental music—it can be seen to be active in a much greater variety of pieces and genres, from minuet to concerto to sonata-rondo.
+Only when the 'solo exposition' is under way does the solo instrument assert itself and participate in the move to (classically) the dominant or relative major.
+The introduction increases the weight of the movement, and also permits the composer to begin the exposition with a theme that would be too light to start on its own, as in Haydn's Symphony No.
+Chopin even experimented with expositions that do not modulate at all, in the opening movements of his first piano sonata (remaining in C minor throughout) and his first piano concerto (moving from E minor to E major).
+A host of musical details are determined by the harmonic meaning of a particular note, chord or phrase.
+There was a period of a wide variety of layouts and formal structures within first movements that gradually became expected norms of composition.
+The general key of the movement is C major, and it would then follow that the retransition should stress the dominant seventh chord on G. Instead, it builds in strength over the dominant seventh chord on C, as if the music were proceeding to F major, only to take up immediately the first theme in C major.
+The home key of the movement is C major.
+* The exposition is followed by the  ''development'' where the harmonic and textural possibilities of the thematic material are explored.
+Another possibility for minor-key sonata form movements was to modulate to the mediant minor, as in the first movement of Brahms' first symphony; the second subject group starts in the relative E-flat major and then goes to the parallel mediant E-flat minor.
+More important cadences are emphasized by pauses, dynamics, sustaining and so on.
+In such cases, the second theme will often return initially in the tonic minor in the recapitulation, with the major mode restored later on.
+31/1, i), the relative minor (first movements of Beethoven Triple Concerto and Brahms Piano Trio No.
+This model was derived from study and criticism of Beethoven's piano sonatas.
+Also in the late Romantic period, it was possible for a minor-key sonata form movement to modulate to the major dominant, as in the first movements of Tchaikovsky's first symphony and Brahms' fourth symphony.
+* The movement may conclude with a ''coda'', beyond the final cadence of the recapitulation.
+Such expositions are often called '''monothematic''', meaning that one theme serves to establish the opposition between tonic and dominant keys.
+Over the last half-century, a critical tradition of examining scores, autographs, annotations, and the historical record has changed, sometimes subtly, on occasion dramatically, the way the sonata form is viewed.
+At this time, the term implies a binary form, usually AABB with some aspects of three part forms.
+Prototypically the 'tutti exposition' does not feature the soloist (except, in early classical works, in a 'continuo' role), and does not contain the decisive sonata-exposition modulation to the secondary key.
+Often, though not always, the last measure or measures of the exposition are slightly different between the repeats, one to point back to the tonic, where the exposition began, and the second to point towards the development.
+Schenker believed that inevitability was the key hallmark of a successful composer, and that, therefore, works in sonata form should demonstrate an inevitable logic.
+Developments in the Classical era are typically shorter due to how much composers of that era valued symmetry, unlike the more expressive Romantic era in which development sections gain a much greater importance.
+This codified form is still used in the pedagogy of the sonata form.
+The last part of the development section is called the ''Retransition'': It prepares for the return of the first subject group in the tonic, most often through a grand prolongation of the dominant seventh.
+The sonata form, because it describes the shape and hierarchy of a movement, tells performers what to emphasize, and how to shape phrases of music.
+It is not always used, and some works end the exposition on the second subject group.
+The fact that so-called monothematic expositions usually have additional themes is used by Charles Rosen to illustrate his theory that the Classical sonata form's crucial element is some sort of ''dramatization'' of the arrival of the dominant.
+Rarely, as in the fourth movement of Haydn's String Quartet in B-flat major, Op.
+Even works that do not adhere to the standard description of a sonata form often present analogous structures or can be analyzed as elaborations or expansions of the standard description of sonata form.
+Mozart also occasionally wrote such expositions: for instance in the Piano Sonata K. 570 or the String Quintet K. 593.
+The second subject group is even more wide-ranging.
+For instance, the first movement of the "Waldstein" sonata, in C major, modulates to the mediant E major, while the opening movement of the "Hammerklavier" sonata, in B-flat major, modulates to the submediant G major, and the thirteenth string quartet in the same key modulating to the flattened submediant key of G-flat major.
+During the late Romantic period, it was also possible to modulate to remote tonal areas to represent divisions of the octave.
+It was originally promulgated by Anton Reicha in ''Traité de haute composition musicale'' in 1826, by Adolf Bernhard Marx in ''Die Lehre von der musikalischen Komposition'' in 1845, and by Carl Czerny in 1848.
+1, did composers perform the ''tour de force'' of writing a complete sonata exposition with just one theme.
+Occasionally, especially in some Romantic works, the sonata form extends only as far as the end of the exposition, at which point the piece transitions directly into the next movement instead of a development section.
+Indeed, Beethoven's extended codas often serve the purpose of further development of thematic material.
+If it is extended, it is, in general, slower than the main section and frequently focuses on the dominant key.
+Haydn in particular was fond of using the opening theme, often in a truncated or otherwise altered form, to announce the move to the dominant, as in the first movement of his Sonata Hob.
+Some Romantic works even exhibit progressive tonality in sonata form: for example, the second movement 'Quasi-Faust' from Charles-Valentin Alkan's ''Grande sonate 'Les quatre âges''' is in D-sharp minor, and while the exposition travels from D-sharp minor to the major subdominant G-sharp major, the recapitulation begins again in D-sharp minor and ends in the relative major F-sharp major, and stays there till the end of the movement.
+For example, Mozart's String Quintet in C, K. 515, visits C minor and D-flat major as chromaticism within the C-major first subject group, before finally moving to D major, the dominant of the dominant major (G major), preparing the second subject group in the dominant.
+The practice of Haydn and Mozart, as well as other notable composers, became increasingly influential on a generation that sought to exploit the possibilities offered by the forms that Haydn and Mozart had established in their works.
+It is also possible for the first subject group to begin in tonic (or a key other than tonic), modulate to another key and then back to tonic for the second subject group.
+Using a new theme was a very common way to achieve this, but other resources such as changes in texture, salient cadences and so on were also accepted practice.
+From the 1950s onward, Hans Keller developed a 'two-dimensional' method of analysis that explicitly considered form and structure from the point of view of ''listener expectations''.
+The Romantic era in music was to accept the centrality of this practice, codify the form explicitly and make instrumental music in this form central to concert and chamber composition and practice, in particular for works that were meant to be regarded as "serious" works of music.
+Schubert was a prominent user of the subdominant recapitulation; it appears for example in the opening movements of his second and fifth symphonies, as well as those of his piano sonatas D 279, D 459, D 537, D 575, as well as the finale of D 664.
+If the first group is in a major key, the second group will usually be in the dominant key.
+Contentious opinions include those of prominent critics such as Eduard Hanslick, who praised the form for its intelligibility.
+The early binary sonatas by Domenico Scarlatti provide excellent examples of the transition from binary to sonata-allegro form.
+For this reason, changes in performance practice bring changes to the understanding of the relative importance of various aspects of the sonata form.
+The recapitulation begins in D minor and modulates to F major, and goes back to the parallel F minor for the coda.
+Sometimes, the third movement of such works is the recapitulation of the first movement (one example being Franz Strauss' Horn Concerto in C Minor), making the entire work effectively a single-movement sonata.
+Towards the end of the recapitulation of a concerto movement in sonata form, there is usually a cadenza for the soloist alone.
+*a monothematic exposition, where the same material is presented in different keys, often used by Haydn;
+However, if the first group is in minor key, the second group will usually be the relative major.
+There is little disagreement that on the largest level, the form consists of three main sections: an exposition, a development, and a recapitulation; however, beneath this, sonata form is difficult to pin down in a single model.
+It also carries with it expressive and stylistic connotations: "sonata style", for Donald Tovey as for other theorists of his time, was characterized by drama, dynamism, and a "psychological" approach to theme and expression.
+In a few cases, usually in late Classical and early Romantic concertos, the development section consists of or ends with another exposition, often in the relative minor of the tonic key.
+On the other hand, it is also possible for the subject groups to be reversed in order, like the fourth movement of Bruckner's Symphony No.
+16 in C, K. 545 and Schubert's fifth symphony;
+* a full (or close to full) recapitulation of the second subject group
+Many works by Schubert and later composers utilized even further harmonic convolutions.
+A more recent example is Edmund Rubbra's 2nd Symphony.
+It will usually consist of one or more themes from the exposition altered and on occasion juxtaposed and may include new material or themes – though exactly what is acceptable practice is a point of contention.
+XVI/35, as well as the opening movements of Chopin's second and third piano sonatas.
+103 ("The Drumroll") and Beethoven's Quintet for Piano and Winds Op.
+*''Transition'', ''T'' – in this section the composer modulates from the key of the first subject to the key of the second.
+As the title for a single-movement piece of instrumental music—the past participle of ''suonare'', "to sound," as opposed to ''cantata'', the past participle of ''cantare,'' "to sing"—"sonata" covers many pieces from the Baroque and mid-18th century that are not "in sonata form".
+However, it almost always shows a greater degree of tonal, harmonic, and rhythmic instability than the other sections.
+Here, the sonata-allegro's customary 'repeated exposition' is replaced by two different but related sections: the 'tutti exposition' and the 'solo exposition'.
+Some Classical slow movements involve a different sort of truncation, in which the development section is replaced altogether by a short retransition.
+In the theory of sonata form it is often asserted that other movements stand in relation to the sonata-allegro form, either, per Charles Rosen that they are really "sonata forms", plural – or as Edward T. Cone asserts, that the sonata-allegro is the ideal to which other movement structures "aspire".
+False or deceptive cadences are given some of the characteristics of a real cadence, and then this impression is undercut by going forward more quickly.
+It has continued to be influential through the subsequent history of classical music through to the modern period.
+This term is misleading, since most "monothematic" works have multiple themes: most works so labeled have additional themes in the second subject group.
+Another exception is the fourth movement of Schubert's Ninth Symphony.
+Because of its centrality to classical music, the sonata form has been a topic of interest to music critics since its origin.
+When they are less clear, greater importance is placed on varying the tempo during the course of the music to give "shape" to the music.
+* the simultaneous return of the first subject group and the tonic
+Early examples of simple preclassical sonata forms include Pergolesi's Trio Sonata No.
+The sonata form is a guide to composers as to the schematic for their works, for interpreters to understand the grammar and meaning of a work, and for listeners to understand the significance of musical events.
+In the simplest example, playing of a cadence should be in relationship to the importance of that cadence in the overall form of the work.
+The situation is only seemingly different in the case of such late classical works as Beethoven's Fourth and Fifth Piano Concertos, where the soloist is heard at the outset: as the later unfolding of those movements makes clear, the opening piano solo or early piano flourishes actually ''precede'' the start of the exposition proper.
+This device is also found in an early Mozart concerto, No.
+The first subject group need not be entirely in the tonic key.
+Although the late 18th century witnessed the most exemplary achievements in the form, above all from Joseph Haydn and Wolfgang Amadeus Mozart, compositional theory of the time did not use the term "sonata form".
+Beethoven began also to use the submediant major with more frequency in minor-key sonata-form movements, as in the first movements of the ninth symphony, the final piano sonata, and the eleventh and fifteenth string quartets.
+*the first subject recapitulated in the 'wrong' key, often the subdominant, as in Mozart's Piano Sonata No.
+This has an improvisatory character (it may or may not actually be improvised), and, in general, serves to prolong the harmonic tension on a dominant-quality chord before the orchestra ends the piece in the tonic.

@@ -1,0 +1,200 @@
+It had been developed by Yakov Modestovich Gakkel (ru.wiki) and built by Baltic Shipyard in Saint Petersburg.
+**Initially, pairs of motors are connected in series across the main generator.
+Once the concept of diesel-electric drive was accepted, the pace of development quickened, and by 1925 a small number of diesel locomotives of 600 horsepower were in service in the United States.
+Repair or overhaul of the main workings of a steam locomotive required the locomotive to be out of service for as long as it took for the work to be carried out in full.
+The filling and draining is carried out with the transmission under load, and results in very smooth range changes with no break in the transmitted power.
+This effect is analogous to what happens in an automobile automatic transmission at start-up, where it is in first gear and thus producing maximum torque multiplication.
+Early diesel-electric locomotives in the United States used direct current (DC) traction motors, but alternating current (AC) motors came into widespread use in the 1990s, starting with the Electro-Motive SD70MAC in 1993 and followed by the General Electric's AC4400CW in 1994 and AC6000CW in 1995.
+Current North American practice is for four axles for high-speed passenger or "time" freight, or for six axles for lower-speed or "manifest" freight.
+Generally, diesel traction in Italy was of less importance than in other countries, as it was amongst the most advanced countries in electrification of the main lines and, as a result of Italian geography, even on many domestic connections freight transport over sea is cheaper than rail transport.
+Industry sources were beginning to suggest “the outstanding advantages of this new form of motive power”.
+Preserved examples of flameproof diesel locomotives include:
+Switching locomotives are of particular concern as they typically operate in a limited area, often in or near urban centers, and spend much of their time idling.
+In 1924, two diesel-electric locomotives were taken in service by the Soviet railways, almost at one time:
+As the load on the engine changes, its rotational speed will also change.
+In 1930, Armstrong Whitworth of the United Kingdom delivered two 1,200&nbsp;hp locomotives using engines of Sulzer design to Buenos Aires Great Southern Railway of Argentina.
+Ultimately, the source of the energy dissipated in the dynamic braking grid is the motion of the locomotive as imparted to the traction motor armatures.
+In 1914, world's first functional diesel-electric railcars were produced for the ''Königlich-Sächsische Staatseisenbahnen'' (Royal Saxon State Railways) by Waggonfabrik Rastatt with electric equipment from Brown, Boveri & Cie and diesel engines from Swiss Sulzer AG.
+The first regular use of diesel-electric locomotives was in switching (shunter) applications.
+The result is that all locomotives in a consist behave as one in response to the engine driver's control movements.
+By the mid-1960s, diesel locomotives had effectively replaced steam locomotives where electric traction was not in use.
+It was not, strictly, a diesel because it used a hot bulb engine (also known as a semi-diesel) but it was the precursor of the diesel.
+* Some Australian railway companies bought McKeen railcars.
+The result is a more efficient and reliable drive that requires relatively little maintenance and is better able to cope with overload conditions that often destroyed the older types of motors.
+The aggregate effect of the above is to cause each traction motor to generate electric power and dissipate it as heat in the dynamic braking grid.
+Its twin-engine design was not successful, and the unit was scrapped after a short testing and demonstration period.
+It had been designed by a team led by Yuri Lomonosov and built 1923–1924 by Maschinenfabrik Esslingen in Germany.
+Steam-diesel hybrid locomotives can use steam generated from a boiler or diesel to power a piston engine.
+The positioning of the reverser and movement of the throttle together is conceptually like shifting an automobile's automatic transmission into gear while the engine is idling
+In North American railroading, a cow-calf set is a pair of switcher-type locomotives: one (the cow) equipped with a driving cab, the other (the calf) without a cab, and controlled from the cow through cables.
+For years, it was thought by American government scientists who measure air pollution that diesel locomotive engines were relatively clean and emitted far less health-threatening emissions than those of diesel trucks or other vehicles; however, the scientists discovered that because they used faulty estimates of the amount of fuel consumed by diesel locomotives, they grossly understated the amount of pollution generated annually (In Europe, where most major railways have been electrified, there is less concern).
+General Electric continued to be interested in developing a practical diesel railway locomotive, and approached Ingersoll-Rand in 1924.
+However, one study published in 1959 suggested that many of the comparisons between diesel and steam locomotives were made unfairly mostly because diesels were newer.
+The lights fitted to diesel locomotives vary from country to country.
+Elimination of the brushes and commutator, in turn, disposed of the possibility of a particularly destructive type of event referred to as a flashover, which could result in immediate generator failure and, in some cases, start an engine room fire.
+Annual maintenance costs for steam locomotives accounted for 25% of the initial purchase price.
+With the capability to deliver 1,200 volts to the traction motors, the necessity for "transition" was eliminated.
+Soon after Dr. Rudolf Diesel patented his first compression ignition engine in 1892, it was considered for railway propulsion.
+If the locomotive is running "light" (that is, not coupled to the rest of a train) and is not on an ascending grade, it will easily accelerate.
+Therefore, it is incumbent upon the engine driver to carefully monitor the amount of power being applied at start-up to avoid damage.
+In addition, the traction motors will not be connected to the main generator and the generator's field windings will not be excited (energized) — the generator will not produce electricity with no excitation.
+In older locomotives, the throttle mechanism was ratcheted so that it was not possible to advance more than one power position at a time.
+As opposed to steam and electric engines, internal combustion engines work efficiently only within a limited range of turning frequencies.
+Hydraulic drive systems using a hydrostatic hydraulic drive system have been applied to rail use.
+This locomotive demonstrated that the diesel-electric power unit could provide many of the benefits of an electric locomotive without the railroad having to bear the sizeable expense of electrification.
+Therefore, diesel traction became economic for shunting, before it became economic for hauling trains.
+*Generator / rectifier transition
+Some of those series for regional traffic were begun with gasoline motors and then continued with diesel motors, such as Hungarian BCmot (The class code doesn't tell anything but "railmotor with 2nd and 3rd class seats".
+Modern examples included   shunting locomotives by CMI Group (Belgium), 4 to 12 tonne  narrow gauge industrial locomoitves by Atlas Copco subsidiary GIA.
+To match engine speed to load speed over the entire speed range of a locomotive some additional method is required to give sufficient range.
+The Long Island Rail Road, Metro-North Railroad and New Jersey Transit Rail Operations operate dual-mode diesel-electric/third-rail (catenary on NJTransit) locomotives between non-electrified territory and New York City because of a local law banning diesel-powered locomotives in Manhattan tunnels.
+As speed decreases, the braking effect decays and usually becomes ineffective below approximately 16&nbsp;km/h (10&nbsp;mph), depending on the gear ratio between the traction motors and axles.
+Consequently, the fan is powered by the output of the traction motors and will tend to run faster and produce more airflow as more energy is applied to the grid.
+VR has abandoned some weak-conditioned units of 2700 series Dv12s.
+Maintaining acceptable operating parameters was one of the principal design considerations that had to be solved in early diesel-electric locomotive development and, ultimately, led to the complex control systems in place on modern units.
+The load regulator is essentially a large potentiometer that controls the main generator power output by varying its field excitation and hence the degree of loading applied to the engine.
+Experience with early gasoline powered locomotives and railcars was valuable for the development of diesel traction.
+It had ten driving axles in three bogies (1' Co' Do' Co' 1').
+For example, only four trainlines are required to encode all possible throttle positions.
+In 1922, they were sold to Swiss Compagnie du Chemin de fer Régional du Val-de-Travers (fr.wiki), where they were used in regular service up to the electrification of the line in 1944.
+Practice in the U.S. has traditionally been for a cab at one end of the locomotive with limited visibility if the locomotive is not operated cab forward.
+With diesel locomotives spare parts could be mass-produced and held in stock ready for use and many parts and sub-assemblies could be standardised across an operator's fleet using different models of locomotive from the same builder.
+Therefore, the traction motors impose drag and the locomotive acts as a brake.
+The world’s first diesel-powered locomotive was operated in the summer of 1912 on the Winterthur-Romanshorn Railroad in Switzerland, but was not a commercial success.
+It offered greater flexibility and performance than the steam locomotive, as well as substantially lower operating and maintenance costs, other than where electric traction was in use due to policy decisions.
+This brought greater efficiencies to the operator, as individual locomotives could be relatively low-powered for use as a single unit on light duties but marshaled together to provide the power needed on a heavy train still under the control of a single crew.
+In France, the first diesel railcar was Renault VH, 115 units produced 1933/34.
+Diesel-powered or "oil-engined" railcars, generally diesel-mechanical, were developed by various European manufacturers in the 1930s, e.g.
+While initial costs of diesel engines were high, steam locomotives were custom-made for specific railway routes and lines and, as such, economies of scale were difficult to achieve.
+At the time, American railroad work rules required that each operating locomotive in a train had to have on board a full crew.
+Power transmission was a primary concern.
+Early internal combustion engine-powered locomotives and railmotors used gasoline as their fuel.
+In such cases, dynamic brakes are usually applied in conjunction with the air brakes, the combined effect being referred to as blended braking.
+Parts could be interchanged between diesel locomotives of the same or similar design, reducing down-time; for example, a locomotive's faulty prime mover may be removed and quickly replaced with another spare unit, allowing the locomotive to return to service whilst the original prime mover is repaired (and which can in turn be held in reserve to be fitted to another locomotive).
+Originally, the traction motors and generator were DC machines.
+In Germany and Finland, diesel-hydraulic systems have achieved high reliability in operation.
+Serial production of diesel locomotives in Germany began after World War II.
+Fiat claims a first Italian diesel-electric locomotive built in 1922, but little detail is available.
+** Reconnecting the two separate internal main generator stator windings of two rectifiers from parallel to series to increase the output voltage.
+Diesel engines can be started and stopped almost instantly, meaning that a diesel locomotive has the potential to incur no costs when not being used.
+Following the development of high-capacity silicon rectifiers in the 1960s, the DC generator was replaced by an alternator using a diode bridge to convert its output to DC.
+By the mid-1950s, with economic recovery from the Second World War, production of diesel locomotives had begun in many countries and the diesel locomotive was on its way to becoming the dominant type of locomotive.
+Since 1934, it was used as a stationary electric generator.
+Following this development, the 1923 Kaufman Act banned steam locomotives from New York City because of severe pollution problems.
+In the UK the diesel-hydraulic principle gained a poor reputation due to the poor durability and reliability of the Maybach Mekydro hydraulic transmission.
+Hydrostatic drives are also utilised in railway maintenance machines (tampers, rail grinders).
+This basic design lends itself well to multiple unit (MU) operation by producing discrete conditions that assure that all units in a consist respond in the same way to throttle position.
+At the same time, main generator field excitation will be proportionally increased to absorb the higher power.
+While the steam engine manufacturer Baldwin offered almost five hundred steam models in its heyday, EMD offered fewer than ten diesel varieties.
+Placing the throttle into the first power position will cause the traction motors to be connected to the main generator and the latter's field coils to be excited.
+The load regulator's job is relatively complex, because although the prime mover's power output is proportional to RPM and fuel rate, the main generator's output is not (which characteristic was not correctly handled by the Ward Leonard elevator- and hoist-type drive system that was initially tried in early locomotives).
+A pair of fully capable "Dash 2" units would be rated .
+This improvement was accomplished largely through improvements in silicon diode technology.
+This will translate into increased electrical output to the traction motors, with a corresponding increase in tractive force.
+Locomotive power output, and thus speed, is typically controlled by the engine driver using a stepped or "notched" throttle that produces binary-like electrical signals corresponding to throttle position.
+There is still debate over the relative merits of hydraulic vs. electrical transmission systems: advantages claimed for hydraulic systems include lower weight, high reliability, and lower capital cost.
+* The engine Ээл2 (Eel2 original number Юэ 001/Yu-e 001) started on October 22.
+Green Goats are a type of hybrid switching locomotive utilizing a small diesel engine and a large bank of rechargeable batteries.
+Instead, a quite complex electro-hydraulic Woodward governor was employed.
+The response to this law was to electrify high-traffic rail lines.
+* The engine Щэл1 (Shch-el 1, original number ''Юэ2/Yu-e 2)'', started on November 9.
+On the other hand, if a long train is being started, the locomotive may stall as soon as some of the slack has been taken up, as the drag imposed by the train will exceed the tractive force being developed.
+This has the effect of increasing the armature current, producing a corresponding increase in motor torque and speed.
+Since this was discovered, to reduce the effects of the diesel locomotive on humans (who are breathing the noxious emissions) and on plants and animals, it is considered practical to install traps in the diesel engines to reduce pollution levels and other forms (e.g., use of biodiesel).
+Some are radio controlled without an operating engineer present in the cab.
+After revising their calculations, they concluded that the annual emissions of nitrogen oxide, a major ingredient in smog and acid rain, and soot would be by 2030 nearly twice what they originally assumed.
+In older locomotives, it was necessary for the engine driver to manually execute transition by use of a separate control.
+(synchro-self-shifting) gearbox used by Hudswell Clarke.
+However, the technology was not developed enough to be reliable.
+Older locomotives may be fitted with a Gyralite or Mars Light instead of the ditch lights.
+In the 21st century series production standard gauge diesel-hydraulic designs include the Voith Gravita, ordered by Deutsche Bahn, and the Vossloh G2000, G1206 and G1700 designs, all manufactured in Germany for freight use.
+Latest development of the "Flameproof Diesel Vehicle Applied New Exhaust Gas Dry Type Treatment System” does not need the water supply.
+This feature was intended to prevent rough train handling due to abrupt power increases caused by rapid throttle motion ("throttle stripping," an operating rules violation on many railroads).
+The governor has two external control outputs: fuel injector setting, which determines the engine fuel rate, and load regulator position, which affects main generator excitation.
+For UK-built locomotives, a number of incompatible control systems are used, but the most common is the Blue Star system, which is electro-pneumatic and fitted to most early diesel classes.
+The German railways (DRG) being very pleased with the performance of that engine, diesel-hydraulics became the mainstream in diesel locomotives in Germany.
+They can safely be operated by one person, making them ideal for switching/shunting duties in yards (although for safety reasons many main-line diesel locomotives continue to have 2-man crews: an engineer and a conductor/switchman) and the operating environment is much more attractive, being much quieter, fully weatherproof and without the dirt and heat that is an inevitable part of operating a steam locomotive.
+In fact, in this last respect diesel locomotives may perform worse than steam locomotives.
+Hydraulic transmission for locomotives was developed in Germany.
+The ''Cristiani Compressed Steam System'' used a diesel engine to power a compressor to drive and recirculate steam produced by a boiler; effectively using steam as the power transmission medium, with the diesel engine being the prime mover
+Further, the thermal efficiency of steam was considerably less than that of diesel engines.
+A number of attempts to use diesel-mechanical propulsion in high power applications have been made (e.g., the 1,500&nbsp;kW (2000 horsepower) British Rail 10100 locomotive), although none have proved successful in the end.
+The net effect is to adjust both the fuel rate and the load regulator position so that engine RPM and torque (and thus power output) will remain constant for any given throttle setting, regardless of actual road speed.
+This change is referred to as "transition," a process that is analogous to shifting gears in an automobile.
+In 1906, Rudolf Diesel, Adolf Klose and the steam and Diesel engine manufacturer Gebrüder Sulzer founded Diesel-Sulzer-Klose GmbH to manufacture Diesel-powered locomotives.
+The frame and cylinders of the steam locomotive would be retained and the boiler would be replaced by a diesel engine driving an air compressor.
+Today, this important function would be performed by the Engine control unit, itself being a part of the Locomotive control unit.
+For the same reason, Amtrak operates a fleet of dual-mode locomotives in the New York area.
+In 1929, the Canadian National Railways became the first North American railway to use diesels in mainline service with two units, 9000 and 9001, from Westinghouse.
+** Resistance is connected in parallel with the motor field.
+The computer adjusts the feedback value to match the reference value by controlling the excitation of the main generator, as described above.
+Since this plateau will usually be reached at a speed substantially less than the maximum that may be desired, something must be done to change the drive characteristics to allow continued acceleration.
+An experienced engine driver can accomplish these steps in a coordinated fashion that will result in a nearly imperceptible start.
+The governor also incorporates a separate overspeed protective mechanism that will immediately cut off the fuel supply to the injectors and sound an alarm in the cab in the event the prime mover exceeds a defined RPM.
+When these temperatures show that the unit is close to having its coolant freeze, the system restarts the diesel engine to warm the coolant and other systems.
+As the locomotive accelerates, the now-rotating motor armatures will start to generate a counter-electromotive force (back EMF, meaning the motors are also trying to act as generators), which will oppose the output of the main generator and cause traction motor current to decrease.
+At this point, the locomotive will essentially cease to accelerate, unless on a downgrade.
+The sheer number of unique steam locomotives meant that there was no feasible way for spare-part inventories to be maintained.
+EMD circumvented that requirement by coupling the individual units of the demonstrator with drawbars instead of conventional knuckle couplers and declaring the combination to be a single locomotive.
+A locomotive's control system is designed so that the main generator electrical power output is matched to any given engine speed.
+Preparing and firing a steam locomotive for use from cold can take many hours, although it may be kept in readiness between uses with a small fire to maintain a slight heat in the boiler, but this requires regular stoking and frequent attention to maintain the level of water in the boiler.
+Diesel locomotives can be worked in multiple with a single crew controlling multiple locomotives throughout a single train—something not practical with steam locomotives.
+by William Beardmore and Company for the Canadian National Railways (the Beardmore Tornado engine was subsequently used in the R101 airship).
+Several types of diesel locomotive have been developed, differing mainly in the means by which mechanical power is conveyed to the driving wheels (drivers).
+Fairbanks-Morse developed a unique opposed-piston engine that was used in their locomotives, as well as in submarines.
+In the 21st century designs using hydraulic transmission include Bombardier's Turbostar, Talent, RegioSwinger families; diesel engined versions of Siemens's Desiro platform, and the Stadler Regio-Shuttle.
+In recent years, automatic start/stop systems such as SmartStart have been adopted, which monitor coolant and engine temperatures.
+In mountainous regions, it is common to interpose helper locomotives in the middle of the train, both to provide the extra power needed to ascend a grade and to limit the amount of stress applied to the draft gear of the car coupled to the head-end power.
+Diesel’s theoretical studies demonstrated potential thermal efficiencies for a compression ignition engine of 36% (compared with 6–10% for steam), and an 1897 one-cylinder prototype operated at a remarkable 26% efficiency.
+The governor has two external inputs: requested engine speed, determined by the engine driver's throttle setting, and actual engine speed (feedback).
+Present North American practice is to pair two  GP40-2 or SD40-2 road switchers, often nearly worn-out and very soon ready for rebuilding or scrapping, and to utilize these for so-called "transfer" uses, for which the TR-2, TR-3 and TR-4 engines were originally intended, hence the designation TR, for "transfer".
+In Finland, over 200 Finnish-built VR class Dv12 and Dr14 diesel-hydraulics with Voith transmissions have been continuously used since the early 1960s.
+Therefore, the net power produced by the locomotive will remain constant for any given throttle setting (''see power curve graph for notch 8'').
+The Denver & Rio Grande Western also bought three, all of which were later sold to SP.
+The helper units in such distributed power configurations are controlled from the lead unit's cab through coded radio signals.
+The engine driver could not, for example, pull the throttle from notch 2 to notch 4 without stopping at notch 3.
+Where two connected units were present, EMD called these TR-2s (approximately ); where three units, TR-3s (approximately ).
+Residents of several neighborhoods are most likely exposed to diesel emissions at levels several times higher than the national average for urban areas.
+two axle machine built by Priestman Brothers was used on the Hull Docks.
+Diesel-hydraulic locomotives are less efficient than diesel-electrics.
+These special locomotives can operate as an electric locomotive or as a diesel locomotive.
+Blended braking is also commonly used with commuter trains to reduce wear and tear on the mechanical brakes that is a natural result of the numerous stops such trains typically make during a run.
+However, the Great Depression curtailed demand for Westinghouse’s electrical equipment, and they stopped building locomotives internally, opting to supply electrical parts instead.
+The engine must be allowed to continue to run when the locomotive is stopped.
+After painstaking analysis of financial records and technological progress, the author found that if research had continued on steam technology instead of diesel, there would be negligible financial benefit in converting to diesel locomotion.
+* Series / Parallel or "motor transition".
+At standstill, main generator output is initially low voltage/high current, often in excess of 1000 amperes per motor at full power.
+In newer designs controlled by a “traction computer,” each engine speed step is allotted an appropriate power output, or “kW reference”, in software.
+An experienced engine driver will be able to recognize an incipient stall and will gradually advance the throttle as required to maintain the pace of acceleration.
+Torque in a series-wound motor is approximately proportional to the square of the current.
+The original engineer Henry Deane envisaged diesel operation to overcome such problems.
+Steam engines also required large quantities of coal and water, which were expensive variable operating costs.
+This changed as development reduced the size and weight of the engine.
+Early U.S. practice was to add power units without cabs (booster or B units) and the arrangement was often A-B, A-A, A-B-A, A-B-B, or A-B-B-A where A was a unit with a cab.
+Many UK-built locomotives have a ten-position throttle.
+As in Europe, the usage of internal combustion engines advanced more readily in self-propelled railcars than in locomotives.
+A diesel-electric locomotive's power output is independent of road speed, as long as the unit’s generator current and voltage limits are not exceeded.
+A German proposal of 1929 did result in a prototype but a similar British proposal of 1932, to use an LNER Class R1 locomotive, never got beyond the design stage.
+Small numbers of prototype diesel locomotives were produced in a number of countries through the mid-1920s.
+Modern locomotives no longer have this restriction, as their control systems are able to smoothly modulate power and avoid sudden changes in train loading regardless of how the engine driver operates the controls.
+Currently, almost all diesel locomotives are diesel-electric, although the diesel-hydraulic type was widely used between the 1950s and 1970s.
+After the First World War broke out in 1914, all further trials were stopped.
+Later on, work rules were amended and the semi-permanent coupling of units with drawbars was eliminated in favour of couplers, as servicing had proved to be somewhat cumbersome owing to the total length of the consist (about 200 feet or nearly 61 meters).
+This arrangement is also known as master-slave.
+The locomotive weight was 95 tonnes and the power was 883&nbsp;kW with a maximum speed of 100&nbsp;km/h.
+The first-generation BR diesel hydraulics were significantly less efficient (c. 65%) than diesel electrics (c. 80%) — moreover initial versions were found in many countries to be mechanically more complicated and more likely to break down.
+When the locomotive is at or near standstill, current flow will be limited only by the DC resistance of the motor windings and interconnecting circuitry, as well as the capacity of the main generator itself.
+North American locomotives, such as those built by EMD or General Electric, have nine throttle positions, one idle and eight power (as well as an emergency stop position that shuts down the prime mover).
+Due to shortage of petrol products during World War I, they remained unused for regular service in Germany.
+Center cabs were sometimes used for switch locomotives.
+One method is to follow the torque converter with a mechanical gearbox which switches ratios automatically, similar to an automatic transmission on a car.
+The unit successfully demonstrated—in switching, road freight and passenger service—on a baker’s dozen of railroads, and became the prototype for 33 units of 600 horsepower AGEIR boxcab switching locomotives built by a consortium of GE, I-R and the American Locomotive Company for several New York City railroads.
+This would mean that diesel locomotives would be releasing more than 800,000 tons of nitrogen oxide and 25,000 tons of soot every year within a quarter of a century, in contrast to the EPA's previous projections of 480,000 tons of nitrogen dioxide and 12,000 tons of soot.
+But it became a model for several classes of Soviet diesel locomotives.
+They were classified as DET 1 and DET 2 (de.wiki).
+With DC motors, various connection combinations are utilized to adapt the drive to varying operating conditions.
+Steady improvements in diesel design (many developed by Sulzer Ltd. of Switzerland, with whom Dr. Diesel was associated for a time) gradually reduced its physical size and improved its power-to-weight ratio to a point where one could be mounted in a locomotive.
+Hydrokinetic transmission (also called hydrodynamic transmission) uses a torque converter.
+Therefore, the engine's potential as a railroad prime mover was not initially recognized.
+Cow-calf sets are used in heavy switching and hump yard service.
+(see RENFE Classes 340, 350, 352, 353, 354)

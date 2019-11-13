@@ -1,0 +1,200 @@
+This means that a malicious or malfunctioning program may not only prevent any other programs from using the CPU, but it can hang the entire system if it enters an infinite loop.
+A real-time operating system may be single- or multi-tasking, but when multitasking, it uses specialized scheduling algorithms so that a deterministic nature of behavior is achieved.
+In an OS, distributed and cloud computing context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines.
+Control Data Corporation developed the SCOPE operating system in the 1960s, for batch processing.
+In the 1980s UNIX, VMS and many others had operating systems that were built this way.
+A protected mode timer is set by the kernel which triggers a return to supervisor mode after the specified time has elapsed.
+Before the widespread use of UNIX, TOPS-10 was a particularly popular system in universities, and in the early ARPANET community.
+While some systems may simply distinguish between "privileged" and "non-privileged", systems commonly have a form of requester ''identity'', such as a user name.
+Memory protection enables the kernel to limit a process' access to the computer's memory.
+Linux has superseded Unix on many platforms and is used on most supercomputers including the top 207.
+Some network services allow the resources of a computer to be accessed transparently, such as SSH which allows networked users direct access to a computer's command line interface.
+Distributed computations are carried out on more than one machine.
+In the 1980s, Apple Computer Inc. (now Apple Inc.) abandoned its popular Apple II series of microcomputers to introduce the Apple Macintosh computer with an innovative graphical user interface (GUI) to the Mac OS.
+Notable supported mainframe operating systems include:
+Access to data stored on disks is a central feature of all operating systems.
+For example, Windows has modified its user interface almost every time a new major version of Windows is released, and the Mac&nbsp;OS GUI changed dramatically with the introduction of Mac&nbsp;OS&nbsp;X in 1999.
+Each port number is usually associated with a maximum of one running program, which is responsible for handling requests to that port.
+An event-driven system switches between tasks based on their priorities or external events while time-sharing operating systems switch tasks based on clock interrupts
+Internal security is also vital if auditing is to be of any use, since a program can potentially bypass the operating system, inclusive of bypassing auditing.
+Prior to its merging with OS X, the server edition OS X Server was architecturally identical to its desktop counterpart and usually ran on Apple's line of Macintosh server hardware.
+Networks can essentially allow a computer's operating system to access the resources of a remote computer to support the same functions as it could if those resources were connected directly to the local computer.
+Server editions of Windows are widely used.
+Because of its open license model, the Linux kernel code is available for study and modification, which resulted in its use on a wide range of computing machinery from supercomputers to smart-watches.
+Other specialized classes of operating systems, such as embedded and real-time systems, exist for many applications.
+The United States Government Department of Defense (DoD) created the ''Trusted Computer System Evaluation Criteria'' (TCSEC) which is a standard that sets basic requirements for assessing the effectiveness of security.
+The user interface is usually referred to as a shell and is essential if human interaction is to be supported.
+Internal security, or security from an already running program is only possible if all possibly harmful requests must be carried out through interrupts to the operating system kernel.
+Early systems had utilized microprogramming to implement features on their systems in order to permit different underlying computer architectures to appear to be the same as others in a series.
+The Linux kernel is used in some popular distributions, such as Red Hat, Debian, Ubuntu, Linux Mint and Google's Android.
+If a program wishes to access hardware, for example, it may interrupt the operating system's kernel, which causes control to be passed back to the kernel.
+The two most common forms of a user interface have historically been the command-line interface, where computer commands are typed out line-by-line, and the graphical user interface, where a visual environment (most commonly a WIMP) is present.
+At the operating system level, there are a number of software firewalls available, as well as intrusion detection/prevention systems.
+This implies that all programs must be limited in how much time they are allowed to spend on the CPU without being interrupted.
+At Cambridge University in England the job queue was at one time a washing line (clothes line) from which tapes were hung with different colored clothes-pegs to indicate job-priority.
+(See above sections on Interrupts and Dual Mode Operation.)
+The AmigaOS is an exception, having preemptive multitasking from its very first version.
+Plato was remarkably innovative for its time, featuring real-time chat, and multi-user graphical games.
+CPUs might have other modes similar to protected mode as well, such as the virtual modes in order to emulate older processor types, such as 16-bit processors on a 32-bit one, or 32-bit processors on a 64-bit one.
+"UNIX-like" is commonly used to refer to the large set of operating systems which resemble the original UNIX.
+In recent years, Microsoft has expended significant capital in an effort to promote the use of Windows as a server operating system.
+While the project was highly successful in duplicating the functionality of various parts of UNIX, development of the GNU Hurd kernel proved to be unproductive.
+Control is passed to a process by the kernel, which allows the program access to the CPU and memory.
+Security of operating systems has long been a concern because of highly sensitive data held on computers, both of a commercial and military nature.
+Yet other operating systems are used almost exclusively in academia, for operating systems education or to do research on operating system concepts.
+The specific way in which files are stored on a disk is called a file system, and enables files to have names and attributes.
+Under versions of Windows before Vista and versions of Linux before 2.6, all driver execution was co-operative, meaning that if a driver entered an infinite loop it would freeze the system.
+Various methods of memory protection exist, including memory segmentation and paging.
+For example, POSIX and OS abstraction layers provide commonalities that reduce porting costs.
+This was the genesis of the modern-day operating system.
+They can create, delete, open, and close files, as well as gather various information about them, including access permissions, size, free space, and creation and modification dates.
+Through the 1950s, many major features were pioneered in the field of operating systems, including batch processing, input/output interrupt, buffering, multitasking, spooling, runtime libraries, link-loading, and programs for sorting records in files.
+Unix interoperability was sought by establishing the POSIX standard.
+The operating system was first released in 1999 as Mac OS X Server 1.0, with a desktop-oriented version (Mac OS X v10.0 "Cheetah") following in March 2001.
+The alternative CP-67 system for the S/360-67 started a whole line of IBM operating systems focused on the concept of virtual machines.
+Programs can then deal with these file systems on the basis of filenames, and directories/folders, contained within a hierarchical structure.
+The first microcomputers did not have the capacity or need for the elaborate operating systems that had been developed for mainframes and minis; minimalistic operating systems were developed, often loaded from ROM and known as ''monitors''.
+Other operating systems are modular, separating the graphics subsystem from the kernel and the Operating System.
+From the late 1960s through the late 1970s, several hardware capabilities evolved that allowed similar or ported software to run on more than one system.
+Therefore, one can install and be running an insecure service, such as Telnet or FTP, and not have to be threatened by a security breach because the firewall would deny all traffic trying to connect to the service on that port.
+Computers store data on disks using files, which are structured in specific ways in order to allow for faster access, higher reliability, and to make better use of the drive's available space.
+In contrast, Sun Microsystems's Solaris can run on multiple types of hardware, including x86 and Sparc servers, and PCs.
+When the kernel has an appropriate device driver in place, it can then access the contents of the disk drive in raw format, which may contain one or more file systems.
+General Electric and MIT developed General Electric Comprehensive Operating Supervisor (GECOS), which introduced the concept of ringed security privilege levels.
+They are very compact and extremely efficient by design.
+The name "UNIX" is a trademark of The Open Group which licenses it for use with any operating system that has been shown to conform to their definitions.
+In 1961, Burroughs Corporation introduced the B5000 with the MCP, (Master Control Program) operating system.
+The server tools are now offered as an application.
+Freely distributed and ported to many minicomputers, it eventually also gained a following for use on PCs, mainly as FreeBSD, NetBSD and OpenBSD.
+'''OS X''' (formerly "Mac OS X")  is a line of open core graphical operating systems developed, marketed, and sold by Apple Inc., the latest of which is pre-loaded on all currently shipping Macintosh computers.
+Other methods of authentication, such as magnetic cards or biometric data, might be used instead.
+16-bit versions of Microsoft Windows used cooperative multi-tasking.
+Application software is generally written for use on a specific operating system, and sometimes even for specific hardware.
+Newer models also are released by manufacturers that provide more reliable or better performance and these newer models are often controlled differently.
+A VFS allows the operating system to provide programs with access to an unlimited number of devices with an infinite variety of file systems installed on them, through the use of specific device drivers and file system drivers.
+The kernel then processes the request.
+Since then, six more distinct "client" and "server" editions of OS X have been released, until the two were merged in OS X 10.7 "Lion".
+Unix-like systems run on a wide variety of computer architectures.
+32-bit versions of both Windows NT and Win9x, used preemptive multi-tasking.
+After programmable general purpose computers were invented, machine languages (consisting of strings of the binary digits 0 and 1 on punched paper tape) were introduced that sped up the programming process (Stern, 1981).
+Since Chromium OS targets computer users who spend most of their time on the Internet, it is mainly a web browser with limited ability to run local applications, though it has a built-in file manager and media player (in later versions, (modified) Android apps have also been supported, since the browser has been made to support them).
+ReactOS is a Windows-alternative operating system, which is being developed on the principles of Windows without using any of Microsoft's code.
+Protocols like ESound, or esd can be easily extended over the network to provide sound from local applications, on a remote system's sound hardware.
+HP's HP-UX and IBM's AIX are both descendants of the original System V Unix and are designed to run only on their respective vendor's hardware.
+Symbian OS also has an RTOS kernel (EKA2) starting with version 8.0b.
+Operating systems did not exist in their modern and more complex forms until the early 1960s.
+Embedded systems that have fixed deadlines use a real-time operating system such as VxWorks, PikeOS, eCos, QNX, MontaVista Linux and RTLinux.
+Later versions have all been based on the Windows NT kernel.
+The term "protected mode resource" generally refers to one or more CPU registers, which contain information that the running program isn't allowed to alter.
+Chrome OS is an operating system based on the Linux kernel and designed by Google.
+When computers in a group work in cooperation, they form a distributed system.
+In both segmentation and paging, certain protected mode registers specify to the CPU what memory address it should allow a running program to access.
+The philosophy governing preemptive multitasking is that of ensuring that all programs are given regular time on the CPU.
+Developers like Keith Bostic encouraged the project to replace any non-free code that originated with Bell Labs.
+Ken Thompson wrote B, mainly based on BCPL, based on his experience in the MULTICS project.
+They are able to operate with a limited number of resources.
+Later machines came with libraries of programs, which would be linked to a user's program to assist in operations such as input and output and generating computer code from human-readable symbolic code.
+OS X Server included work group management and administration software tools that provide simplified access to key network services, including a mail transfer agent, a Samba server, an LDAP server, a domain name server, and others.
+These features were included or not included in application software at the option of application programmers, rather than in a separate operating system used by all applications.
+UNIVAC, the first commercial computer manufacturer, produced a series of EXEC operating systems.
+Typically this constitutes an interface for communicating with the device, through the specific computer bus or communications subsystem that the hardware is connected to, providing commands to and/or receiving data from the device, and on the other end, the requisite interfaces to the operating system and software applications.
+Multi-tasking may be characterized in preemptive and co-operative types.
+Even very basic computers support hardware interrupts, and allow the programmer to specify code which may be run when that event takes place.
+In 1991, Finnish computer science student Linus Torvalds, with cooperation from volunteers collaborating over the Internet, released the first version of the Linux kernel.
+Competition among the various vendors of Unix (HP, IBM, Sun) led to much fragmentation, though an effort to standardize in the 1990s to COSE and CDE failed for various reasons, and were eventually eclipsed by the widespread adoption of GNOME and K Desktop Environment.
+Windows ME, released in 2000, was the last version in the Win9x family.
+External requests are often passed through device drivers to the operating system's kernel, where they can be passed onto applications, or carried out directly.
+This ensures that a program does not interfere with memory already in use by another program.
+After two years of legal disputes, the BSD project spawned a number of free derivatives, such as NetBSD and FreeBSD (both in 1993), and OpenBSD (from NetBSD in 1995).
+These were special-purpose systems that, for example, generated ballistics tables for the military or controlled the printing of payroll checks from data on punched paper cards.
+Windows CE and Minix 3 are some examples of embedded operating systems.
+In some cases, especially connections from the network, resources may be accessed with no authentication at all (such as reading files over a network share).
+Although estimates suggest that Linux is used on only 1.82% of all "desktop" (or laptop) PCs, it has been widely adopted for use in servers and embedded systems such as cell phones.
+Since programs time share, each program must have independent access to memory.
+Chromium OS differs from Chrome OS in that Chromium is open-source and used primarily by developers whereas Chrome OS is the operating system shipped out in Chromebooks.
+Many operating systems support one or more vendor-specific or open networking protocols as well, for example, SNA on IBM systems, DECnet on systems from Digital Equipment Corporation, and Microsoft-specific protocols (SMB) on Windows.
+In modern operating systems, memory which is accessed less frequently can be temporarily stored on disk or other media to make that space available for use by other programs.
+A file system driver is used to translate the commands used to access each specific file system into a standard set of commands that the operating system can use to talk to all file systems.
+However, in practice, third party drivers are usually available to give support for the most widely used file systems in most general-purpose operating systems (for example, NTFS is available in Linux through NTFS-3g, and ext2/3 and ReiserFS are available in Windows through third-party software).
+* UNIVAC EXEC 8 UNIVAC 1108, 1967, to OS 2200 Unisys Clearpath Dorado, present
+These libraries are composed with the application and configuration code to construct unikernels which are specialized, single address space, machine images that can be deployed to cloud or embedded environments.
+A typical example of a system that fulfills both roles is MINIX, while for example Singularity is used purely for research.
+When personal computers became popular in the 1980s, operating systems were made for them similar in concept to those used on larger computers.
+Unix was the first operating system not written in assembly language, making it very portable to systems different from its native PDP-11.
+This new driver ensures that the device appears to operate as usual from the operating system's point of view.
+Current client versions of Windows run on IA-32, x86-64 and 32-bit ARM microprocessors.
+An operating system such as UNIX supports a wide array of storage devices, regardless of their design or file systems, allowing them to be accessed through a common application programming interface (API).
+OS X is the successor to the original classic Mac OS, which had been Apple's primary operating system since 1984.
+Steve Jobs, upon leaving Apple Inc. in 1985, formed NeXT Inc., a company that manufactured high-end computers running on a variation of BSD called NeXTSTEP.
+The World Wide Web was also first demonstrated on a number of computers running an OS based on BSD called NeXTSTEP.
+(See section on memory management.)
+The user interface views the directory structure and requests services from the operating system that will acquire data from input hardware devices, such as a keyboard, mouse or credit card reader, and requests operating system services to display prompts, status messages and such on output hardware devices, such as a video monitor or printer.
+Network services include offerings such as file sharing, print services, email, web sites, and file transfer protocols (FTP), most of which can have compromised security.
+In the mobile (smartphone and tablet combined) sector Android by Google is dominant with 65% and iOS by Apple is placed second with around 25%.
+Early file systems were limited in their capacity, speed, and in the kinds of file names and directory structures they could use.
+"Virtual memory" provides the programmer or the user with the perception that there is a much larger amount of RAM in the computer than is really there.
+When the process is terminated for any reason, all of these resources are re-claimed by the operating system.
+Support for file systems is highly varied among modern operating systems, although there are several common file systems which almost all operating systems include support and drivers for.
+In the late 1970s, Control Data and the University of Illinois developed the PLATO operating system, which used plasma panel displays and long-distance time sharing networks.
+The processing of hardware interrupts is a task that is usually delegated to software called a device driver, which may be part of the operating system's kernel, part of another program, or both.
+Unlike its predecessor, OS X is a UNIX operating system built on technology that had been developed at NeXT through the second half of the 1980s and up until Apple purchased the company in early 1997.
+An early model which governed the allocation of time to programs was called cooperative multitasking.
+This includes everything from simple communication, to using networked file systems or even sharing another computer's graphics or sound hardware.
+Four operating systems are certified by The Open Group (holder of the Unix trademark) as Unix.
+In cooperation with the University of Minnesota, the Kronos and later the NOS operating systems were developed during the 1970s, which supported simultaneous batch and timesharing use.
+All user software needs to go through the operating system in order to use any of the hardware, whether it be as simple as a mouse or keyboard or as complex as an Internet component.
+They are used heavily for servers in business, as well as workstations in academic and engineering environments.
+Operating systems vary on file system support and on the disk formats they may be installed on.
+Various differences between file systems make supporting all file systems difficult.
+Cooperative multitasking is achieved by relying on each process to provide time to the other processes in a defined manner.
+MCP is still in use today in the Unisys ClearPath/MCP line of computers.
+Modern CPUs support multiple modes of operation.
+Attempts to access other addresses trigger an interrupt which cause the CPU to re-enter supervisor mode, placing the kernel in charge.
+At the front line of security are hardware devices known as firewalls or intrusion detection/prevention systems.
+A daemon, being a user program, can in turn access the local hardware resources of that computer by passing requests to the operating system kernel.
+Electronic systems of this time were programmed on rows of mechanical switches or by jumper wires on plug boards.
+In some cases, hobby development is in support of a "homebrew" computing device, for example, a simple single-board computer powered by a 6502 microprocessor.
+A user program may leave protected mode only by triggering an interrupt, causing control to be passed back to the kernel.
+In 2014, Android was first (currently not replicated by others, in a single year) operating system ever to ship on a billion devices, becoming the most popular operating system by installed base.
+Early computers were built to perform a series of single tasks, like a calculator.
+Interrupts may come from either the computer's hardware or the running program.
+Specific protocols for specific tasks may also be supported such as NFS for file access.
+Modern operating systems extend the concepts of application preemption to device drivers and kernel code, so that the operating system has preemptive control over internal run-times as well.
+Interrupt-based programming is directly supported by most modern CPUs.
+More recent revisions of these operating systems incorporate kernel preemption, where the kernel interrupts the driver to give it tasks, and then separates itself from the process until it receives a response from the device driver, or gives it more tasks to do.
+Under UNIX this kind of interrupt is referred to as a page fault.
+Computers and their operating systems cannot be expected to know how to control every device, both now and in the future.
+The components of an operating system all exist in order to make the different parts of a computer work together.
+NEXTSTEP would later be acquired by Apple Inc. and used, along with code from FreeBSD as the core of Mac OS X.
+The function of the device driver is then to translate these operating system mandated function calls into device specific calls.
+The Berkeley Software Distribution, known as BSD, is the UNIX derivative distributed by the University of California, Berkeley, starting in the 1970s.
+For backwards compatibility, Win9x could run real-mode MS-DOS and 16-bit Windows 3.x drivers.
+These limitations often reflected limitations in the operating systems they were designed for, making it very difficult for an operating system to support more than one file system.
+It is developed out in the open in the Chromium OS open source variant and Google makes a proprietary variant of it (similar to the split for the Chrome and Chromium browser).
+The operating system is also a set of services which simplify development and execution of application programs.
+Internal security is especially relevant for multi-user systems; it allows each user of the system to have private files that the other users cannot tamper with or read.
+A connected storage device, such as a hard drive, is accessed through a device driver.
+Each user had sole use of the computer for a limited period of time and would arrive at a scheduled time with program and data on punched paper cards or punched tape.
+The operating system provides an interface between an application program and the computer hardware, so that an application program can interact with the hardware only by obeying rules and procedures programmed into the operating system.
+* IBM OS/360 IBM System/360, 1966 to IBM z/OS, present
+Attempts to alter these resources generally causes a switch to supervisor mode, where the operating system can deal with the illegal operation the program was attempting (for example, by killing the program).
+This is called a segmentation violation or Seg-V for short, and since it is both difficult to assign a meaningful result to such an operation, and because it is usually a sign of a misbehaving program, the kernel generally resorts to terminating the offending program, and reports the error.
+They are designed to operate on small machines like PDAs with less autonomy.
+During development of the AS/400, IBM made an approach to Burroughs to licence MCP to run on the AS/400 hardware.
+However, when the operating system passes control to another program, it can place the CPU into protected mode.
+It manages memory access for programs in the RAM, it determines which programs get access to which hardware resources, it sets up or resets the CPU's operating states for optimal operation at all times, and it organizes the data for long-term non-volatile storage with file systems on such media as disks, tapes, flash memory, etc.
+In 1959, the SHARE Operating System was released as an integrated utility for the IBM 704, and later in the 709 and 7090 mainframes, although it was quickly supplanted by IBSYS/IBJOB on the 709, 7090 and 7094.
+Embedded operating systems are designed to be used in embedded computer systems.
+In the 1970s, UNIVAC produced the Real-Time Basic (RTB) system to support large-scale time sharing, also patterned after the Dartmouth BC system.
+If a program wishes additional resources (or wishes to shed resources) such as memory, it triggers an interrupt to get the kernel's attention.
+In the early 1950s, a computer could execute only one program at a time.
+A distributed operating system manages a group of distinct computers and makes them appear to be a single computer.
+While technically a graphical user interface is not an operating system service, incorporating support for one into the operating system kernel can allow the GUI to be more responsive by reducing the number of context switches required for the GUI to perform its output functions.
+It is possible to install Linux onto many types of file systems.
+Basic operating system features were developed in the 1950s, such as resident monitor functions that could automatically run different programs in succession to speed up processing.
+A subgroup of the Unix family is the Berkeley Software Distribution family, which includes FreeBSD, NetBSD, and OpenBSD.
+The B5000 was a stack machine designed to exclusively support high-level languages with no machine language or assembler, and indeed the MCP was the first OS to be written exclusively in a high-level language ESPOL, a dialect of ALGOL.
+Unix-like operating systems, e.g., Solaris, Linux, as well as AmigaOS support preemptive multitasking.
+Like all early main-frame systems, this batch-oriented system managed magnetic drums, disks, card readers and line printers.
+In 1995, Windows 95 was released which only used MS-DOS as a bootstrap.
+Executing an application program involves the creation of a process by the operating system kernel which assigns memory space and other resources, establishes a priority for the process in multi-tasking systems, loads program binary code into memory, and initiates execution of the application program which then interacts with the user and with hardware devices.

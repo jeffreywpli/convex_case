@@ -1,0 +1,200 @@
+Another example of commercial usage of gas turbines in a passenger ship is Stena Line's HSS class fastcraft ferries.
+The microstructure of these alloys is composed of different regions of composition.
+It will do  on a single charge of the batteries, but in addition it uses a pair of Bladon Micro Gas Turbines to re-charge the batteries extending the range to .
+Metropolitan-Vickers fitted their F2/3 jet engine with a power turbine.
+Reciprocating engines typically use simple motor oil (journal) bearings.
+While photos of the Firebird I may suggest that the jet turbine's thrust propelled the car like an aircraft, the turbine in fact drove the rear wheels.
+In July 2000 the ''Millennium'' became the first cruise ship to be propelled by gas turbines, in a Combined Gas and Steam Turbine configuration.
+The 1000&nbsp;°C temperatures and high speeds of microturbines make oil lubrication and ball bearings impractical; they require air bearings or possibly magnetic bearings.
+Microturbines also have a further advantage of having the majority of the waste heat contained in the relatively high temperature exhaust making it simpler to capture, whereas the waste heat of reciprocating engines is split between its exhaust and cooling system.
+However, the precision manufacture required for components and the temperature resistant alloys necessary for high efficiency often make the construction of a simple gas turbine more complicated than a piston engine.
+Closed-cycle gas turbines based on helium or supercritical carbon dioxide also hold promise for use with future high temperature solar and nuclear power generation.
+In 1950, designer F.R.
+Turbines have historically been more expensive to produce than piston engines, though this is partly because piston engines have been mass-produced in huge quantities for decades, while small gas turbine engines are rarities; however, turbines are mass-produced in the closely related form of the turbocharger.
+The power range varies from 1 megawatt up to 50 megawatts.
+Turboprop engines are  used on small aircraft such as the general-aviation Cessna 208 Caravan and Embraer EMB 312 Tucano military trainer, medium-sized commuter aircraft such as the Bombardier Dash 8 and large aircraft such as the Airbus A400M transport and the 60 year-old Tupolev Tu-95 strategic bomber.
+These improvements, of course, come at the expense of increased initial and operation costs, and they cannot be justified unless the decrease in fuel costs offsets the increase in other costs.
+Gas turbines offer a high-powered engine in a very small and light package.
+Several locomotive classes have been powered by gas turbines, the most recent incarnation being Bombardier's JetTrain.
+Compliant foil bearings were commercially introduced to gas turbines in the 1990s.
+The addition of these elements reduces the diffusion of the gamma prime phase, thus preserving the fatigue resistance, strength, and creep resistance.
+Aeroderivative gas turbines can also be used in combined cycles, leading to a higher efficiency, but it will not be as high as a  specifically designed industrial gas turbine.
+Gas turbine technology has steadily advanced since its inception and continues to evolve.
+HSS 1500-class ''Stena Explorer'', ''Stena Voyager'' and ''Stena Discovery'' vessels use combined gas and gas setups of twin GE LM2500 plus GE LM1600 power for a total of .
+They can also be run in a cogeneration configuration: the exhaust is used for space or water heating, or drives an absorption chiller for cooling the inlet air and increase the power output, technology known as Turbine Inlet Air Cooling.
+Built by Hawthorn Leslie at Hebburn-on-Tyne, UK, in accordance with plans and specifications drawn up by the Anglo-Saxon Petroleum Company and launched on the UK's Princess Elizabeth's 21st birthday in 1947, the ship was designed with an engine room layout that would allow for the experimental use of heavy fuel in one of its high-speed engines, as well as the future substitution of one of its diesel engines by a gas turbine.
+Gas turbines are also used in many liquid propellant rockets, the gas turbines are used to power a turbopump to permit the use of lightweight, low pressure tanks, which reduce the empty weight of the rocket.
+The centripetal turbine wheel drives a centrifugal compressor wheel through a common rotating shaft.
+When the gas turbine is used solely for shaft power, its thermal efficiency is about 30%.
+In the indirect system, a heat exchanger is used and only clean air with no combustion products travels through the power turbine.
+When external combustion is used, it is possible to use exhaust air from the turbine as the primary combustion air.
+The purpose of the gas turbine determines the design so that the most desirable energy form is maximized.
+The first large scale, partially gas-turbine powered ships were the Royal Navy's Type 81 (Tribal class) frigates with combined steam and gas powerplants.
+This did not reflect poorly on the marine-propulsion gas-turbine concept though, and the trial was a success overall.
+It operated for 9,700 hours using residual fuel(Bunker C) for 7,000 hours.
+The thermal efficiency is lower in the indirect type of external combustion; however, the turbine blades are not subjected to combustion products and much lower quality (and therefore cheaper) fuels are able to be used.
+The turbine shaft work is used to drive the compressor and other devices such as an electric generator that may be coupled to the shaft.
+At the 2010 Paris Motor Show Jaguar demonstrated its Jaguar C-X75 concept car.
+For instance, a consortium led by micro gas turbine company Bladon Jets has secured investment from the Technology Strategy Board to develop an Ultra Lightweight Range Extender (ULRE) for next generation electric vehicles.
+With this in mind the pioneer of modern Micro-Jets, Kurt Schreckling, produced one of the world's first Micro-Turbines, the FD3/67.
+A number of experiments have been conducted with gas turbine powered automobiles, the largest by Chrysler.
+The single most important and differentiating characteristic of ASME performance test codes, including PTC 22, is that the test uncertainty of the measurement indicates the quality of the test and is not to be used as a commercial tolerance.
+The car ran on petrol, paraffin (kerosene) or diesel oil, but fuel consumption problems proved insurmountable for a production car.
+These advances allow higher compression ratios and turbine inlet temperatures, more efficient combustion and better cooling of engine parts.
+Heat is added in the combustion chamber and the specific volume of the gas increases, accompanied by a slight loss in pressure.
+In effect the separation of the gas generator, by a fluid coupling (the hot energy-rich combustion gases), from the power turbine is analogous to an automotive transmission's fluid coupling.
+Between 1971 and 1981, Seatrain Lines operated a scheduled container service between ports on the eastern seaboard of the United States and ports in northwest Europe across the North Atlantic with four container ships of 26,000 tonnes DWT.
+Selection of the test code to be used is an agreement between the purchaser and the manufacturer, and has some significance to the design of the turbine and associated systems.
+External combustion has been used for the purpose of using pulverized coal or finely ground biomass (such as sawdust) as a fuel.
+Several AMC Hornets were powered by a small Williams regenerative gas turbines weighing  and producing  at 4450&nbsp;rpm.
+The General Electric LM2500, General Electric LM6000, Rolls-Royce RB211 and Rolls-Royce Avon are common models of this type of machine.
+Typical microturbine efficiencies are 25 to 35%.
+Speeds of  were claimed.
+Russia has stopped production of the T-80 in favour of the diesel-powered T-90 (based on the T-72), while Ukraine has developed the diesel-powered T-80UD and T-84 with nearly the power of the gas-turbine tank.
+The Steam Gun Boat ''Grey Goose'' was converted to Rolls-Royce gas turbines in 1952 and operated as such from 1953.
+Alternatively, the vehicle can use heavier types of batteries such as lead acid batteries (which are cheaper to buy) or safer types of batteries such as Lithium-Iron-Phosphate.
+This reduces the creep mechanisms experienced in the blade.
+Fuel efficiency was on a par with steam propulsion at  per hour, and power output was higher than expected at  due to the ambient temperature of the North Sea route being lower than the design temperature of the gas turbine.
+In the United States, ASME has produced several performance test codes on gas turbines.
+This special gas turbine/turbocharger can also work independently from the main engine as an ordinary APU.
+Chrysler built fifty Chrysler Turbine Cars in 1963 and conducted the only consumer trial of gas turbine-powered cars.
+The nickel-based blades are alloyed with aluminum and titanium to improve strength and creep resistance.
+Various successors have made good progress in the refinement of this mechanism.
+When in a combined heat and power cogeneration system, efficiencies of greater than 80% are commonly achieved.
+MIT started its millimeter size turbine engine project in the middle of the 1990s when Professor of Aeronautics and Astronautics Alan H. Epstein considered the possibility of creating a personal turbine which will be able to meet all the demands of a modern person's electrical needs, just as a large turbine can meet the electricity demands of a small city.
+Starting in 1954 with a modified Plymouth, the American car manufacturer Chrysler demonstrated several prototype gas turbine-powered cars from the early 1950s through the early 1980s.
+Turbo-compound engines (actually employed on some trucks) are fitted with blow down turbines which are similar in design and appearance to a turbocharger
+The most successful design by Designline is now operated in 5 cities in 6 countries, with over 30 buses in operation worldwide, and order for several hundred being delivered to Baltimore, and NYC.
+As temperatures are increased in an effort to improve turbine efficiency, creep becomes more significant.
+These ASME performance test codes have gained international recognition and acceptance for testing gas turbines.
+''Karjala'' is today a museum ship in Turku, and ''Turunmaa'' serves as a floating machine shop and training ship for Satakunta Polytechnical College.
+Fresh atmospheric air flows through a compressor that brings it to higher pressure.
+The Bold class Fast Patrol Boats ''Bold Pioneer'' and ''Bold Pathfinder'' built in 1953 were the first ships created specifically for gas turbine propulsion.
+However, the Finnjet also illustrated the shortcomings of gas turbine propulsion in commercial craft, as high fuel prices made operating her unprofitable.
+The German Navy launched the first  in 1961 with 2 Brown, Boveri & Cie gas turbines in the world's first combined diesel and gas propulsion system.
+While the turbocharger is a pressure turbine, a power recovery turbine is a velocity one.
+The objective of the consortium, which includes luxury car maker Jaguar Land Rover and leading electrical machine company SR Drives, is to produce the world’s first commercially viable - and environmentally friendly - gas turbine generator designed specifically for automotive applications.
+The United States Maritime Commission were looking for options to update WWII Liberty ships, and heavy-duty gas turbines were one of those selected.
+They were later joined by 12 upgraded Norrköping class ships, still with the same engines.
+After four years of service additional diesel engines were installed on the ship to reduce running costs during the off-season.
+The two-seater JET1 had the engine positioned behind the seats, air intake grilles on either side of the car, and exhaust outlets on the top of the tail.
+MIT's millimeter size turbine will deliver 500-700 W·h/kg in the near term, rising to 1200-1500 W∙h/kg in the longer term.
+This gave the ship a speed capability of 18 knots, up from 11 knots with the original power plant, and well in excess of the 15 knot targeted.
+The ''Turunmaa''s were paid off in 2002.
+For open wheel racing, 1967's revolutionary STP-Paxton Turbocar fielded by racing and entrepreneurial legend Andy Granatelli and driven by Parnelli Jones nearly won the Indianapolis 500; the Pratt & Whitney ST6B-62 powered turbine car was almost a lap ahead of the second place car when a gearbox bearing failed just three laps from the finish line.
+If the engine has a power turbine added to drive an industrial generator or a helicopter rotor, the exit pressure will be as close to the entry pressure as possible with only enough energy left to overcome the pressure losses in the exhaust ducting and expel the exhaust.
+Advantages are that microturbines may be designed with foil bearings and air-cooling operating without lubricating oil, coolants or other hazardous materials.
+Energy is then added by spraying fuel into the air and igniting it so the combustion generates a high-temperature flow.
+Most turbojet-powered model aircraft are now using these commercial and semi-commercial microturbines, rather than a Schreckling-like home-build.
+The first race car (in concept only) fitted with a turbine was in 1955 by a US Air Force group as a hobby project with a turbine loaned them by Boeing and a race car owned by Firestone Tire & Rubber company.
+The four ships in the class were named ''Euroliner'', ''Eurofreighter'', ''Asialiner'' and ''Asiafreighter''.
+The slightly smaller HSS 900-class ''Stena Carisma'', uses twin ABB– GT35 turbines rated at  gross.
+Some modification of the engine systems on those ships was undertaken to permit the burning of a lower grade of fuel (i.e., marine diesel).
+A large single-cycle gas turbine typically produces 100 to 400&nbsp;megawatts of electric power and has 35–40% thermal efficiency.
+Since then, gas turbine engines have been used as APUs in some tanks and as main powerplants in Soviet/Russian T-80s and U.S. M1 Abrams tanks, among others.
+They are lighter and smaller than diesels at the same sustained power output but the models installed to date are less fuel efficient than the equivalent diesel, especially at idle, requiring more fuel to achieve the same combat range.
+The superior power-to-weight ratio of the gas turbine and its fixed speed gearbox, allows for a much lighter prime mover than those in such hybrids as the Toyota Prius (which utilised a 1.8 litre petrol engine) or the Chevrolet Volt (which utilises a 1.4 litre petrol engine).
+In a jet engine only enough pressure and energy is extracted from the flow to drive the compressor and other components.
+These platforms don't need to use the engine in collaboration with a CHP system due to getting the gas at an extremely reduced cost (often free from burn off gas).
+In areas with a shortage of base-load and load following power plant capacity or with low fuel costs, a gas turbine powerplant may regularly operate most hours of the day.
+Following successful sea trials off the Northumbrian coast, the ''Auris'' set sail from Hebburn-on-Tyne in October 1951 bound for Port Arthur in the US and then Curacao in the southern Caribbean returning to Avonmouth after 44 days at sea, successfully completing her historic trans-Atlantic crossing.
+A French turbine powered car, the Socema-Gregoire, was displayed at the October 1952 Paris Auto Show.
+They were equipped with one  Rolls-Royce Olympus TM1 gas turbine and three Wärtsilä marine diesels for slower speeds.
+These engines are connected directly or via a gearbox to either a pump or compressor assembly.
+except for the turbine shaft being mechanically or hydraulically connected to the engine's crankshaft instead of to a centrifugal compressor, thus providing additional power instead of boost.
+In May 2011, Mitsubishi Heavy Industries achieved a turbine inlet temperature of 1,600&nbsp;°C on a 320 megawatt gas turbine, and 460 MW in gas turbine combined-cycle power generation applications in which gross thermal efficiency exceeds 60%.
+The marine gas turbine operates in a more corrosive atmosphere due to presence of sea salt in air and fuel and use of cheaper fuels.
+In a conventional turbine, up to half the generated power is used driving the compressor.
+Development is actively producing both smaller gas turbines and more powerful and efficient engines.
+Electronic power switching technology eliminates the need for the generator to be synchronized with the power grid.
+They used 2&nbsp;ft-4 main propulsion engines, 2&nbsp;ft-12 cruise engines and 3 Solar Saturn 750&nbsp;kW generators.
+Chapman had a reputation of building radical championship-winning cars, but had to abandon the project because there were too many problems with turbo lag.
+Brescia Italy is using serial hybrid buses powered by microturbines on routes through the historical sections of the city.
+The smaller the engine, the higher the rotation rate of the shaft(s) must be to attain the required blade tip speed.
+Recuperators are difficult to design and manufacture because they operate under high pressure and temperature differentials.
+The simple-cycle efficiencies of early gas turbines were practically doubled by incorporating inter-cooling, regeneration (or recuperation), and reheating.
+Therefore, many engines are used in CHP (Combined Heat and Power) configurations that can be small enough to be integrated into portable container configurations.
+In 1993 General Motors introduced the first commercial gas turbine powered hybrid vehicle—as a limited production run of the EV-1 series hybrid.
+Up to the late 1940s much of the progress on marine gas turbines all over the world took place in design offices and engine builder's workshops and development work was led by the British Royal Navy and other Navies.
+Toyota demonstrated several gas turbine powered concept cars, such as the Century gas turbine hybrid in 1975, the Sports 800 Gas Turbine Hybrid in 1979 and the GTV in 1985.
+Following the dramatic Organization of the Petroleum Exporting Countries (OPEC) price increases of the mid-1970s, operations were constrained by rising fuel costs.
+The first gas-turbine-powered naval vessel was the Royal Navy's Motor Gun Boat ''MGB 2009'' (formerly ''MGB 509'') converted in 1947.
+This vehicle, looking like an aircraft with wheels, used a unique combination of both jet thrust and the engine driving the wheels.
+However, it may be cheaper to buy electricity than to generate it.
+The batteries act as a "buffer" (energy storage) in delivering the required amount of power to the wheel motors, rendering throttle response of the gas turbine completely irrelevant.
+The same companies use pump sets to drive the fluids to land and across pipelines in various intervals.
+The ''John Sergeant'' was scrapped in 1972 at Portsmouth PA.
+A turbine is theoretically more reliable and easier to maintain than a piston engine, since it has a simpler construction with fewer moving parts but in practice turbine parts experience a higher wear rate due to their higher working speeds.
+Design concepts and vehicles were conducted by Chrysler, General Motors, Ford (in collaboration with AiResearch), and American Motors (in conjunction with Williams Research).
+They range in size from portable mobile plants to large, complex systems weighing more than a hundred tonnes housed in purpose-built buildings.
+Speed-tested to 365&nbsp;km/h or 227&nbsp;mph (according to some stories, the testing team ran out of road during the test), it holds the Guinness World Record for most powerful production motorcycle and most expensive production motorcycle, with a price tag of US$185,000.
+The Swedish Navy produced 6 Spica-class torpedo boats between 1966 and 1967 powered by 3 Bristol Siddeley Proteus 1282 turbines, each delivering .
+In the early 1990s Volvo introduced the Volvo Environmental Concept Car(ECC) which was a gas turbine powered hybrid car.
+The ''Auris'' then had all of its power plants replaced with a  directly coupled gas turbine to become the first civilian ship to operate solely on gas turbine power.
+This, in turn, limits the maximum power and efficiency that can be obtained by the engine.
+Using a thermal protective coating limits the temperature exposure of the nickel superalloy.
+Gas turbines can be particularly efficient when waste heat from the turbine is recovered by a heat recovery steam generator to power a conventional steam turbine in a combined cycle configuration.
+With their aft torpedo tubes replaced by antishipping missiles they served as missile boats until the last was retired in 2005.
+This arrangement is used to increase power-output flexibility with associated highly-reliable control mechanisms.
+The first passenger ferry to use a gas turbine was the GTS ''Finnjet'', built in 1977 and powered by two Pratt & Whitney FT 4C-1 DLF turbines, generating  and propelling the ship to a speed of 31&nbsp;knots.
+The first,  was commissioned in 1961.
+A turboprop engine is a turbine engine which drives an aircraft propeller using a reduction gear.
+When used in extended range electric vehicles the static efficiency drawback is irrelevant, since the gas turbine can be run at or near maximum power, driving an alternator to produce electricity either for the wheel motors, or for the batteries, as appropriate to speed and battery state.
+A major challenge facing turbine design is reducing the creep that is induced by the high temperatures.
+Piston engines (especially if turbocharged) also need well-maintained filters, but they are more resilient if the filter does fail.
+In marine racing applications the 2010 C5000 Mystic catamaran Miss GEICO uses two Lycoming T-55 turbines for its power system.
+The turbine can be run at optimum speed for its power output, and batteries and ultracapacitors can supply power as needed, with the engine cycled on and off to run it only at high efficiency.
+Long-term tests were conducted evaluate comparable cost efficiency.
+The second use of a gas turbine in an armoured fighting vehicle was in 1954 when a unit, PU2979, specifically developed for tanks by C. A. Parsons & Co., was installed and trialled in a British Conqueror tank.
+The GT24 engine was exhibited in 1977 without a vehicle.
+Since then, they have powered the U.S. Navy's s,  and s, and  guided missile cruisers.
+Simple turbines might have one main moving part, the compressor/shaft/turbine rotor assembly (see image above), with other moving parts in the fuel system.
+The Finnjet was also the first ship with a Combined diesel-electric and gas propulsion.
+Bell and Chief Engineer Maurice Wilks from British car manufacturers Rover unveiled the first car powered with a gas turbine engine.
+In order for tip speed to remain constant, if the diameter of a rotor is reduced by half, the rotational speed must double.
+This high-temperature high-pressure gas enters a turbine, where it expands down to the '''exhaust pressure''', producing a '''shaft work output''' in the process.
+Aeroderivatives are also used in electrical power generation due to their ability to be shut down, and handle load changes more quickly than industrial machines.
+There is, moreover, no need for a significant or variable-speed gearbox; turning an alternator at comparatively high speeds allows for a smaller and lighter alternator than would otherwise be the case.
+As a result of the U.S. Clean Air Act Amendments of 1970, research was funded to developing automotive gas turbine technology.
+The Finnish Navy commissioned two  corvettes, ''Turunmaa'' and ''Karjala'', in 1968.
+The liner RMS Queen Mary 2 uses a Combined Diesel and Gas Turbine configuration.
+The primary shaft bears the compressor and the high speed turbine (often referred to as the ''Gas Generator''), while a second shaft bears the low-speed turbine (a ''power turbine'' or ''free-wheeling turbine'' on helicopters, especially, because the gas generator turbine spins separately from the power turbine).
+The MTT Turbine Superbike appeared in 2000 (hence the designation of Y2K Superbike by MTT) and is the first production motorcycle powered by a turbine engine - specifically, a Rolls-Royce Allison model 250 turboshaft engine, producing about 283&nbsp;kW (380&nbsp;bhp).
+Basic principles of microturbine are based on micro-combustion.
+No production vehicles were made.
+These bearings are being surpassed by foil bearings, which have been successfully used in micro turbines and auxiliary power units.
+Exhaust heat can be used for water heating, space heating, drying processes or absorption chillers, which create cold for air conditioning from heat energy instead of electric energy.
+It was this poor throttling response that so bedevilled the 1950 Rover gas turbine-powered prototype motor car, which did not have the advantage of an intermediate electric drive train to provide sudden power spikes when demanded by the driver.
+Full-size gas turbines often use ball bearings.
+This electrically powered supercar has a top speed of  and can go from  in 3.4 seconds.
+In 1956 the ''John Sergeant'' was lengthened and equipped with a General Electric  HD gas turbine with exhaust-gas regeneration, reduction gearing and a variable-pitch propeller.
+Thrust bearings and journal bearings are a critical part of design.
+Another significant advantage is their ability to be turned on and off within minutes, supplying power during peak, or unscheduled, demand.
+The turbine design included a recuperator.
+The emergence of the continuously variable transmission may also alleviate the responsiveness problem.
+The majority of installations are used within the oil and gas industries.
+The relatively low fuel prices, the general desire in the industry to minimize installation costs, and the tremendous increase in the simple-cycle efficiency to about 40 percent left little desire for opting for these modifications.
+For this reason, CFD is one of the key computational tool used in Design & development of gas  turbine engines.
+According to Professor Epstein, current commercial Li-ion rechargeable batteries deliver about 120-150 W·h/kg.
+It is on display at the London Science Museum.
+In 1963, Jan Mowill initiated the development at Kongsberg Våpenfabrikk in Norway.
+They're also often used to provide power for the platform.
+The ''Auris'' operated commercially as a tanker for three-and-a-half years with a diesel-electric propulsion unit as originally commissioned, but in 1951 one of its four  diesel engines – which were known as "Faith", "Hope", "Charity" and "Prudence" - was replaced by the world’s first marine gas turbine engine, a  open-cycle gas turbo-alternator built by British Thomson-Houston Company in Rugby.
+It was designed by the French engineer Jean-Albert Grégoire.
+Those ships were powered by twin Allison gas turbines of the KF-501 series.
+This effectively reduces global heat losses, although heat losses associated with the combustion exhaust remain inevitable.
+In 1954 FIAT unveiled a concept car with a turbine engine, called Fiat Turbina.
+Aiding in these advances are computer based design (specifically CFD and finite element analysis) and the development of advanced materials: Base materials with superior high temperature strength (e.g., single-crystal superalloys that exhibit yield strength anomaly) or thermal barrier coatings that protect the structural material from ever higher temperatures.
+In 1951, the Diesel-electric oil tanker ''Auris'', 12,290 Deadweight tonnage (DWT) was used to obtain operating experience with a main propulsion gas turbine under service conditions at sea and so became the first ocean-going merchant ship to be powered by a gas turbine.
+Refractory elements such as rhenium and ruthenium can be added to the alloy to improve creep strength.
+Gas turbines accept most commercial fuels, such as petrol, natural gas, propane, diesel, and kerosene as well as renewable fuels such as E85, biodiesel and biogas.
+In 1971 Lotus principal Colin Chapman introduced the  Lotus 56B F1 car, powered by a Pratt & Whitney STN 6/76 gas turbine.
+The turbine blades are highly sensitive to dust and fine sand, so that in desert operations air filters have to be fitted and changed several times daily.
+They range from hand held units producing less than a kilowatt, to commercial sized systems that produce tens or hundreds of kilowatts.
+Oil and Gas platforms require these engines to drive compressors to inject gas into the wells to force oil up via another bore, or to compress the gas for transportation.
+During this time at sea the gas turbine burnt diesel fuel and operated without an involuntary stop or mechanical difficulty of any kind.
+Reduction of fuel costs was successful using a different untested fuel in a marine gas turbine but maintenance costs increased with the fuel change.
+, a modified , is to be the Navy's first amphibious assault ship powered by gas turbines.
+In a compressed air energy storage configuration, power, perhaps from a wind farm or bought on the open market at a time of low demand and low price, is used to drive the compressor, and the compressed air released to operate the turbine when required.
+The 605 MW General Electric 9HA achieved a 62.22% efficiency rate with temperatures as high as .
+They were the fastest vessels in the Finnish Navy; they regularly achieved speeds of 35 knots, and 37.3 knots during sea trials.

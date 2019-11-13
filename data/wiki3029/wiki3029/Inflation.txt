@@ -1,0 +1,200 @@
+The hyperinflation in the Weimar Republic of Germany is a notable example.
+It has today become a central focus of Taylor rule advocates.
+In India and the United States, an earlier version of the PPI was called the Wholesale Price Index.
+Low or moderate inflation may be attributed to fluctuations in real demand for goods and services, or changes in available supplies such as during scarcities.
+In the present commodity price indices are weighted by the relative importance of the components to the "all in" cost of an employee.
+This single price change would not, however, represent general inflation in an overall economy.
+Weighted pricing is a necessary means to measuring the impact of individual unit price changes on the economy's overall inflation.
+In this formula, the general price level is related to the level of real economic activity (''Q''), the quantity of money (''M'') and the velocity of money (''V'').
+Annual escalation clauses in employment contracts can specify retroactive or future percentage increases in worker pay which are not tied to any index.
+But often changing prices is itself a costly activity whether explicitly, as with the need to print new menus, or implicitly, as with the extra time and effort needed to change prices constantly.
+That is, when the general level of prices rise, each monetary unit buys fewer goods and services.
+A fixed exchange rate is usually used to stabilize the value of a currency, vis-a-vis the currency it is pegged to.
+;Social unrest and revolts: Inflation can lead to massive demonstrations and revolutions.
+Within the context of a fixed specie basis for money, one important controversy was between the quantity theory of money and the real bills doctrine (RBD).
+Under these assumptions, the primary driver of the change in the general price level is changes in the quantity of money.
+In many countries, employment contracts, pension benefits, and government entitlements (such as social security) are tied to a cost-of-living index, typically to the consumer price index.
+After the Bretton Woods agreement broke down in the early 1970s, countries gradually turned to floating exchange rates.
+A fundamental concept in inflation analysis is the relationship between inflation and unemployment, called the Phillips curve.
+The formula ''R = N-I'' approximates the correct answer as long as both the nominal interest rate and the inflation rate are small.
+There were different schools of thought as to the causes of inflation.
+This problem can be overcome by including all available price changes in the calculation, and then choosing the median value.
+The debate between currency, or quantity theory, and the banking schools during the 19th century prefigures current questions about the credibility of money in the present.
+They consider fiscal policy, or government spending and taxation, as ineffective in controlling inflation.
+Central banks such as the U.S. Federal Reserve increase the interest rate, slow or stop the growth of the money supply, and reduce the money supply.
+In a similar vein, Nobel laureate James Tobin noted that such inflation would cause businesses to substitute investment in physical capital (plant, equipment, and inventories) for money balances in their asset portfolios.
+Conceptually, inflation refers to the general trend of prices, not changes in any specific price.
+Therefore, some level of inflation could be considered desirable in order to minimize unemployment.
+Temporary controls may ''complement'' a recession as a way to fight inflation: the controls make the recession more efficient as a way to fight inflation (reducing the need to increase unemployment), while the recession prevents the kinds of distortions that controls cause when demand is high.
+However, since cash is still needed in order to carry out transactions this means that more "trips to the bank" are necessary in order to make withdrawals, proverbially wearing out the "shoe leather" with each trip.
+This can lead to prolonged disequilibrium and high unemployment in the labor market.
+For example, home heating costs are expected to rise in colder months, and seasonal adjustments are often used when measuring for inflation to compensate for cyclical spikes in energy or fuel demand.
+: is the velocity of money in final expenditures;
+Rapid increases in quantity of the money or in the overall money supply (or debasement of the means of exchange) have occurred in many different societies throughout history, changing with different forms of money used.
+When banks make loans, they usually first create new money, then lend it.
+Economists generally agree that in the long run, inflation is caused by increases in the money supply.
+;Hoarding: People buy durable and/or non-perishable commodities and other goods as stores of wealth, to avoid the losses expected from the declining purchasing power of money, creating shortages of the hoarded goods.
+This redistribution of purchasing power will also occur between international trading partners.
+If velocity is relatively unaffected by monetary policy, the long-run rate of increase in prices (the inflation rate) is equal to the long-run growth rate of the money supply plus the exogenous long-run rate of velocity growth minus the long run growth rate of real output.
+High or unpredictable inflation rates are regarded as harmful to an overall economy.
+Both the sorts of goods and services which are included in the "basket" and the weighted price used in inflation measures will be changed over time in order to keep pace with the changing marketplace.
+For example, if the official price of bread is too low, there will be too little bread at official prices, and too little investment in bread making by the market to satisfy future needs, thereby exacerbating the problem in the long term.
+However, in the short and medium term inflation may be affected by supply and demand pressures in the economy, and influenced by the relative elasticity of wages, prices and interest rates.
+On the other hand, if the central bank has a reputation of being "tough" on inflation, then such a policy announcement will be believed and inflationary expectations will come down rapidly, thus allowing inflation itself to come down rapidly with minimal economic disruption.
+Moderate inflation, once its expectation is incorporated into nominal interest rates, would give those interest rates room to go both up and down in response to shifting investment opportunities, or savers' preferences, and thus allow financial markets to function in a more normal fashion.
+In general, wage and price controls are regarded as a temporary and exceptional measure, only effective when coupled with policies designed to reduce the underlying causes of inflation during the wage and price control regime, for example, winning the war being fought.
+But when prices are constantly changing due to inflation, price changes due to genuine relative price signals are difficult to distinguish from price changes due to general inflation, so agents are slow to respond to them.
+Artificially low interest rates and the associated increase in the money supply are said to lead to reckless, speculative borrowing, resulting in clusters of malinvestments, which eventually have to be liquidated as they become unsustainable.
+By the nineteenth century, economists categorized three separate factors that cause a rise or fall in the price of goods: a change in the ''value'' or production costs of the good, a change in the ''price of money'' which then was usually a fluctuation in the commodity price of the metallic content in the currency, and ''currency depreciation'' resulting from an increased supply of currency relative to the quantity of redeemable metal backing the currency.
+Index prices in subsequent years are then expressed in relation to the base year price.
+The two related effects are known as the Mundell–Tobin effect.
+(This level of output corresponds to the Non-Accelerating Inflation Rate of Unemployment, NAIRU, or the "natural" rate of unemployment or the full-employment unemployment rate.)
+There can also be negative impacts to trade from an increased instability in currency exchange prices caused by unpredictable inflation.
+When looking at inflation, economic institutions may focus only on certain kinds of prices, or ''special indices'', such as the core inflation index which is used by central banks to formulate monetary policy.
+: is an index of the real value of final expenditures;
+It is broader than the CPI and contains a larger basket of goods and services.
+;Mundell–Tobin effect: The Nobel laureate Robert Mundell noted that moderate inflation would induce savers to substitute lending for some money holding as a means to finance future spending.
+In the 20th century, similar concepts in Keynesian economics include the NAIRU (Non-Accelerating Inflation Rate of Unemployment) and the Phillips curve.
+This practice would increase the money supply but at the same time the relative value of each coin would be lowered.
+Views on which factors determine low to moderate rates of inflation are more varied.
+Any movement to spend those hoards "once started would become a tremendous avalanche, which could rampage for a long time before it would spend itself."
+In the wake of the collapse of the international gold standard post 1913, and the move towards deficit financing of government, RBD has remained a minor topic, primarily of interest in limited contexts, such as currency boards.
+Monetarists assert that the empirical study of monetary history shows that inflation has always been a monetary phenomenon.
+In practice, velocity is not exogenous in the short run, and so the formula does not necessarily imply a stable short-run relationship between the money supply and nominal output.
+Wage and price controls have been successful in wartime environments in combination with rationing.
+Most inflation indices are calculated from weighted averages of selected price changes.
+1.2 for +20%, 0.8 for −20%).
+Inflation numbers are often seasonally adjusted in order to differentiate expected cyclical cost shifts.
+Governments and central banks primarily use monetary policy to control inflation.
+Argentina (1991–2002), Bolivia, Brazil, and Chile).
+Historically, a great deal of economic literature was concerned with the question of what causes inflation and what effect it has.
+This policy of using a fixed exchange rate to control inflation was used in many countries in South America in the later part of the 20th century (e.g.
+of prices implies a decrease in the purchasing power of the currency.
+Most frequently, the term "inflation" refers to a rise in a broad price index representing the overall price level for goods and services in the economy.
+The Austrian School stresses that inflation is not uniform over all assets, goods, and services.
+Therefore, most statistical agencies also report a measure of 'core inflation', which removes the most volatile components (such as food and oil) from a broad price index like the CPI.
+Producers for whom oil is a part of their costs could then pass this on to consumers in the form of increased prices.
+Consequently, inflation reflects a reduction in the purchasing power per unit of money a loss of real value in the medium of exchange and unit of account within the economy.
+The effect of inflation is not distributed evenly in the economy, and as a consequence there are hidden costs to some and benefits to others from this decrease in the purchasing power of money.
+Ludwig von Mises said that inflation should refer to an increase in the quantity of money that is not offset by a corresponding increase in the need for money, and that price inflation will necessarily follow.
+Under the Bretton Woods agreement, most countries around the world had currencies that were fixed to the U.S. dollar.
+Inflation is related to the value of currency itself.
+Most can be divided into two broad areas: quality theories of inflation and quantity theories of inflation.
+* '''Commodity price indices''', which measure the price of a selection of commodities.
+* '''GDP deflator''' is a measure of the price of all the goods and services included in gross domestic product (GDP).
+;Shoe leather cost: High inflation increases the opportunity cost of holding cash balances and can induce people to hold a greater portion of their assets in interest paying accounts.
+The quantity theory of inflation rests on the quantity equation of money that relates the money supply, its velocity, and the nominal value of exchanges.
+Where fixed exchange rates are imposed, higher inflation in one economy than another will cause the first economy's exports to become more expensive and affect the balance of trade.
+Inflation numbers may be averaged or otherwise subjected to statistical techniques in order to remove statistical noise and volatility of individual prices.
+The gold standard was partially abandoned via the international adoption of the Bretton Woods system.
+The currency itself has no ''innate value'', but is accepted by traders because it can be redeemed for the equivalent specie.
+In monetarism prices and wages adjust quickly enough to make other factors merely marginal behavior on a general trend-line.
+They may also be tied to a cost-of-living index that varies by geographic location if the employee moves.
+For example, with inflation, those segments in society which own physical assets, such as property, stock etc., benefit from the price/value of their holdings going up, when those who seek to acquire them will need to pay more for them.
+The term "inflation" originally referred to increases in the amount of money in circulation, and some economists still use the word in this way.
+This position is not universally accepted banks create money by making loans, but the aggregate volume of these loans diminishes as real interest rates increase.
+Song Dynasty China introduced the practice of printing paper money in order to create fiat currency.
+From the second half of the 15th century to the first half of the 17th, Western Europe experienced a major inflationary cycle referred to as the "price revolution", with prices on average rising perhaps sixfold over 150 years.
+At that time, the term inflation referred to the devaluation of the currency, and not to a rise in the price of goods.
+For example, if people choose to buy more cucumbers than tomatoes, cucumbers consequently become more expensive and tomatoes cheaper.
+Hence, any factor that increases aggregate demand can cause inflation.
+The effect of money on inflation is most obvious when governments finance spending in a crisis, such as a civil war, by printing money excessively.
+A central bank usually creates money lent to a national government.
+For example, a sudden decrease in the supply of oil, leading to increased oil prices, can cause cost-push inflation.
+Within this context, quantity theory applies to the level of fractional reserve accounting allowed against specie, generally gold, held by a bank.
+Core inflation is a measure of inflation for a subset of consumer prices that excludes food and energy prices, which rise and fall more than other prices in the short term.
+Unless the economy is already overinvesting according to models of economic growth theory, that extra investment resulting from the effect would be seen as positive.
+The former refers to such events as the oil shocks of the 1970s, while the latter refers to the price/wage spiral and inflationary expectations implying that the economy "normally" suffers from inflation.
+Currently, the quantity theory of money is widely accepted as an accurate model of inflation in the long run.
+If GDP exceeds its potential (and unemployment is below the NAIRU), the theory says that inflation will ''accelerate'' as suppliers increase their prices and built-in inflation worsens.
+Their ability to do so will depend on the degree to which their income is fixed.
+Under a fixed exchange rate currency regime, a country's currency is tied in value to another single currency or to a basket of other currencies (or sometimes to another measure of value, such as gold).
+This theory was important in the 19th century in debates between "Banking" and "Currency" schools of monetary soundness, and in the formation of the Federal Reserve.
+However, in the long run, aggregate demand can be held above productive capacity only by increasing the quantity of money in circulation faster than the real growth rate of the economy.
+* Built-in inflation is induced by adaptive expectations, and is often linked to the "price/wage spiral".
+The lower activity will place fewer demands on whatever commodities were driving inflation, whether labor or resources, and inflation will fall with total economic output.
+This differs from the CPI in that price subsidization, profits, and taxes may cause the amount received by the producer to differ from what the consumer paid.
+Uncertainty about the future purchasing power of money discourages investment and saving.
+Banks and other lenders adjust for this inflation risk either by including an inflation risk premium to fixed interest rate loans, or lending at an adjustable rate.
+However, money supply growth does not necessarily cause inflation.
+The Phillips curve model described the U.S. experience well in the 1960s but failed to describe the combination of rising inflation and economic stagnation (sometimes referred to as ''stagflation'') experienced in the 1970s.
+The quality theory of inflation rests on the expectation of a seller accepting currency to be able to exchange that currency at a later time for goods that are desirable as a buyer.
+Other economic concepts related to inflation include: deflation a fall in the general price level; disinflation a decrease in the rate of inflation; hyperinflation an out-of-control inflationary spiral; stagflation a combination of inflation, slow economic growth and high unemployment; reflation an attempt to raise the general level of prices to counteract deflationary pressures; and Asset price inflation a general rise in the prices of financial assets without a corresponding increase in the prices of goods or services.
+It involves workers trying to keep their wages up with prices (above the rate of inflation), and firms passing these higher labor costs on to their customers as higher prices, leading to a 'vicious circle'.
+This may be due to natural disasters, or increased prices of inputs.
+In some other cases, governments may intentionally report false inflation rates; for instance, the government of Argentina has been criticised for manipulating economic data, such as inflation and GDP figures, for political gain and to reduce payments on its inflation-indexed debt.
+This sometimes leads to hyperinflation, a condition where prices can double in a month or less.
+* '''Asset price inflation''' is an undue increase in the prices of real or financial assets, such as stock (equity) and real estate.
+Thus, the Phillips curve represents only the demand-pull component of the triangle model.
+The task of keeping the rate of inflation low and stable is usually given to monetary authorities.
+;Labour-market adjustments: Nominal wages are slow to adjust downwards.
+Another (although much less common) cause can be a rapid decline in the ''demand'' for money, as happened in Europe during the Black Death, or in the Japanese occupied territories just before the defeat of Japan in 1945.
+Producer price index measures the pressure being put on producers by the costs of their raw materials.
+Hyperinflation can lead to the abandonment of the use of the country's currency (for example as in North Korea) leading to the adoption of an external currency (dollarization).
+Debtors who have debts with a fixed nominal rate of interest will see a reduction in the "real" interest rate as the inflation rate rises.
+can of corn changes from $0.90 to $1.00 over the course of a year, with no change in quality, then this price difference represents inflation.
+For example, an increased desire to save could not push interest rates further down (and thereby stimulate investment) but would instead cause additional money hoarding, driving consumer prices further down and making investment in consumer goods production thereby less attractive.
+A weighted price is calculated by multiplying the unit price of an item by the number of that item the average consumer purchases.
+With high inflation, purchasing power is redistributed from those on fixed nominal incomes, such as some pensioners whose pensions are not indexed to the price level, towards those with variable incomes whose earnings may better keep pace with the inflation.
+The standard specifies how the gold backing would be implemented, including the amount of specie per currency unit.
+The inflation rate is the percentage rate of change of a price index over time.
+The inflation rate is widely calculated by calculating the movement or change in a price index, usually the consumer price index.
+Inflation measures are often modified over time, either for the relative weight of goods in the basket, or in the way in which goods and services from the present are compared with goods and services from the past.
+Some Keynesian economists also disagree with the notion that central banks fully control the money supply, arguing that central banks have little control, since the money supply adapts to the demand for bank credit issued by commercial banks.
+This is known as the theory of endogenous money, and has been advocated strongly by post-Keynesians as far back as the 1960s.
+The silver spread throughout a previously cash-starved Europe and caused widespread inflation.
+A rise in structural unemployment implies that a smaller percentage of the labor force can find jobs at the NAIRU, where the economy avoids crossing the threshold into the realm of accelerating inflation.
+Currency and banking schools of economics argue the RBD, that banks should also be able to issue currency against bills of trading, which is "real bills" that they buy from merchants.
+These negotiated increases in pay are colloquially referred to as cost-of-living adjustments ("COLAs") or cost-of-living increases because of their similarity to increases tied to externally determined indexes.
+If an economy finds itself in a recession with already low, or even zero, nominal interest rates, then the bank cannot cut these rates further (since negative nominal interest rates are impossible ) in order to stimulate the economy this situation is known as a liquidity trap.
+To measure overall inflation, the price change of a large "basket" of representative goods and services is measured.
+The Consumer Price Index (CPI), the Personal Consumption Expenditures Price Index (PCEPI) and the GDP deflator are some examples of broad price indices.
+In the Keynesian view, prices and wages adjust at different rates, and these differences have enough effects on real output to be "long term" in the view of people in an economy.
+For example, Monetarist economists believe that the link is very strong; Keynesian economists, by contrast, typically emphasize the role of aggregate demand in the economy rather than the money supply in determining inflation.
+This is the purpose of a price index, which is the combined price of a "basket" of many goods and services.
+For instance, when gold was used as currency, the government could collect gold coins, melt them down, mix them with other metals such as silver, copper or lead, and reissue them at the same nominal value.
+Some banks have a symmetrical inflation target while others only control inflation when it rises above a target, whether express or implied.
+A ''cost-of-living allowance'' (COLA) adjusts salaries based on changes in a cost-of-living index.
+Critics argue that this will cause arbitrary fluctuations in the inflation rate, and that monetary policy would essentially be determined by gold mining.
+Adam Smith and David Hume proposed a quantity theory of inflation for money, and a quality theory of inflation for production.
+The formula for calculating the annual percentage rate inflation in the CPI over the course of the year is:
+Thus, if a central bank has a reputation as being "soft" on inflation, when it announces a new policy of fighting inflation with restrictive monetary growth economic agents will not believe that the policy will persist; their inflationary expectations will remain high, and so will inflation.
+Built-in inflation reflects events in the past, and so might be seen as hangover inflation.
+The US Commerce Department publishes a deflator series for US GDP, defined as its nominal GDP measure divided by its real GDP measure.
+As the relative value of the coins becomes lower, consumers would need to give more coins in exchange for the same goods and services as before.
+These goods and services would experience a price increase as the value of each coin is reduced.
+Inflation can also impose hidden tax increases.
+However, one problem with this theory for policy-making purposes is that the exact level of potential output (and of the NAIRU) is generally unknown and tends to change over time.
+Economists such as Gottfried von Haberler, Milton Friedman, Gordon Tullock, Bryan Caplan, and Paul Krugman have argued that the theory is incorrect.
+Demographic factors also contributed to upward pressure on prices, with European population growth after depopulation caused by the Black Death pandemic.
+They add inefficiencies in the market, and make it difficult for companies to budget or plan long-term.
+Control of aggregate demand can be achieved using both monetary policy and fiscal policy (increased taxation or reduced government spending to reduce demand).
+There is also typically a delay between an increase in the PPI and any eventual increase in the CPI.
+Since there are many possible measures of the price level, there are many possible measures of price inflation.
+Economists generally believe that high rates of inflation and hyperinflation are caused by an excessive growth of the money supply.
+Over time, adjustments are made to the type of goods and services selected in order to reflect changes in the sorts of goods and services purchased by 'typical consumers'.
+;Room to maneuver: The primary tools for controlling the money supply are the ability to set the discount rate, the rate at which banks can borrow from the central bank, and open market operations, which are the central bank's interventions into the bonds market with the aim of affecting the nominal interest rate.
+Inflation also seems to act in an asymmetric way, rising more quickly than it falls.
+Salaries are typically adjusted annually in low inflation economies.
+;Financial market inefficiency with deflation: The second effect noted by Tsiang is that when savers have substituted money holding for lending on financial markets, the role of those markets in channeling savings into investment is undermined.
+* '''Historical inflation''' Before collecting consistent econometric data became standard for governments, and for the purpose of comparing absolute, rather than relative standards of living, various economists have calculated imputed inflation figures.
+It can also be used as a means to control inflation.
+Another example stems from unexpectedly high Insured losses, either legitimate (catastrophes) or fraudulent (which might be particularly prevalent in times of recession).
+The Federal Reserve Board pays particular attention to the core inflation rate to get a better estimate of long-term future inflation trends overall.
+Historically, large infusions of gold or silver into an economy also led to inflation.
+They often have perverse effects, due to the distorted signals they send to the market.
+For example, if the price of a 10&nbsp;oz.
+Monetarists assume that the velocity of money is unaffected by monetary policy (at least in the long run), and the real value of output is determined in the long run by the productive capacity of the economy.
+The question of whether the short-term effects last long enough to be important is the central topic of debate between monetarist and Keynesian economists.
+This often produces a severe recession, as productive capacity is reallocated and is thus often very unpopular with the people whose livelihoods are destroyed (see creative destruction).
+When currency was linked with the gold, if new gold deposits were found, the price of gold and the value of currency would fall, and consequently prices of all other goods would become higher.
+Moderate and stable inflation would avoid such a seesawing of price movements.
+In the early 1980s, when the federal funds rate exceeded 15 percent, the quantity of Federal Reserve dollars fell 8.1 percent, from US$8.6 trillion down to $7.9 trillion.
+That substitution would cause market clearing real interest rates to fall.
+Generally, these monetary authorities are the central banks that control monetary policy through the setting of interest rates, through open market operations, and through the setting of banking reserve requirements.
+For example, increases in payments to workers and pensioners often lag behind inflation, and for some people income is fixed.
+Inflation can act as a drag on productivity as companies are forced to shift resources away from products and services in order to focus on profit and losses from currency inflation.
+The Bretton Woods system broke down in 1971, causing most countries to switch to fiat money money backed only by the laws of the country.
+Thus, modern macroeconomics describes inflation using a Phillips curve that ''shifts'' (so the trade-off between inflation and unemployment changes) because of such matters as supply shocks and inflation becoming built into the normal workings of the economy.
+A U.S. silver certificate, for example, could be redeemed for an actual piece of silver.
+It is also used to adjust for the differences in real standard of living for the presence of technology.

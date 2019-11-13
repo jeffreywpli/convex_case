@@ -1,0 +1,200 @@
+* at low speed, the fan noise is due to the interaction of the blades with the distorted flow injected in the engine; this happens for example during the approach;
+The CFM56 uses an alternative approach: a single-stage, high-work unit.
+Afterburners are not used on high-bypass turbofan engines but may be used on either low-bypass turbofan or turbojet engines.
+A turbofan thus can be thought of as a turbojet being used to drive a ducted fan, with both of those contributing to the thrust.
+The core airflow needs to be large enough to give sufficient core power to drive the fan.
+They have created the very successful CFM56 series, used on Boeing 737, Airbus A340, and Airbus A320 family aircraft.
+The number of stages required depends on the engine cycle bypass ratio and how much supercharging (i.e., IP compression) is on the LP shaft, behind the fan.
+Some of their engine models include Progress D-436 available on the Antonov An-72/74, Yakovlev Yak-42, Beriev Be-200, Antonov An-148 and Tupolev Tu-334 and Progress D-18T that powers two of the world's largest airplanes, Antonov An-124 and Antonov An-225.
+# Naturally, as altitude increases, there is a decrease in air density and, therefore, the net thrust of an engine.
+However, the pilot can only afford to stay in afterburning for a short period, before aircraft fuel reserves become dangerously low.
+Afterburning is often designed to give a significant thrust boost for take off, transonic acceleration and combat maneuvers, but is very fuel intensive.
+Many turbofans have the basic two-spool configuration where both the fan and LP turbine (i.e., LP spool) are mounted on a second (LP) shaft, running concentrically with the HP spool (i.e., HP compressor driven by HP turbine).
+Consequently, more IPC stages are required to develop the necessary IPC pressure rise.
+The ALF502 and LF507 turbofans are produced by a partnership between Honeywell and China's state-owned Industrial Development Corporation.
+Other high-bypass turbofans are the Pratt & Whitney JT9D, the three-shaft Rolls-Royce RB211 and the CFM International CFM56; also the smaller TF34.
+At higher flight speeds, the ram rise in the intake increases nozzle pressure ratio to the point where the throat becomes choked (M=1.0).
+Even so, there are usually a few IP axial stages mounted on the LP shaft, behind the fan, to further supercharge the core compression system.
+The Turbo-Union RB199 military turbofan also has a three spool configuration, as do the military Kuznetsov NK-25 and NK-321.
+The first (experimental) high bypass turbofan engine was built and run on February 13, 1964 by AVCO-Lycoming.
+Consequently, afterburning can only be used for short portions of a mission.
+Although the higher temperature rise across the compression system implies a larger temperature drop over the turbine system, the mixed nozzle temperature is unaffected, because the same amount of heat is being added to the system.
+The second family is the 100&nbsp;inch (2.5 m) fan engine developed specifically for the Airbus A330 twinjet, and the third family has a diameter of  designed to power Boeing 777.
+See technical discussion below, item 2.
+Variable geometry (i.e., stators) enable high-pressure-ratio compressors to work surge-free at all throttle settings.
+In theory, by adding IP compressor stages, a modern military turbofan HP compressor could be used in a civil turbofan derivative, but the core would tend to be too small for high thrust applications.
+When lit, prodigious amounts of fuel are burnt in the afterburner, raising the temperature of exhaust gases by a significant degree, resulting in a higher exhaust velocity/engine specific thrust.
+These are installed in the nacelle, and they extend as much as possible to cover the largest area.
+At the smaller thrust sizes, instead of all-axial blading, the HP compressor  configuration may be axial-centrifugal (e.g., General Electric CFE738), double-centrifugal or even diagonal/centrifugal (e.g., Pratt & Whitney Canada PW600).
+Saturn holds a 50% stake in the PowerJet joint venture with Snecma.
+Consequently, modern military turbofans usually only have 5 or 6 HP compressor stages and only require a single-stage HP turbine.
+The gas temperature can therefore be even higher than the melting temperature of the blade.
+Thus, the mass flow can only be increased through the bypass airstream, usually by increasing fan diameter.
+The Soviet Union's engine technology was less advanced than the West's and its first wide-body aircraft, the Ilyushin Il-86, was powered by low-bypass engines.
+While this approach is probably less efficient, there are savings on cooling air, weight and cost.
+Thus, whereas all the air taken in by a turbojet passes through the turbine (through the combustion chamber), in a turbofan some of that air bypasses the turbine.
+The turbofans on twin engined airliners are further more powerful to cope with losing one engine during take-off, which reduces the aircraft's net thrust by half.
+For reasons of fuel economy, and also of reduced noise, almost all of today's jet airliners are powered by high-bypass turbofans.
+All modern turbofan engines are equipped with acoustic liners to damp the noise generated.
+Modern turbofans have either a large single-stage fan or a smaller fan with several stages.
+Some of their engine models include the CF6 (available on the Boeing 767, Boeing 747, Airbus A330 and more), GE90 (only the Boeing 777) and GEnx (developed for the Boeing 747-8 & Boeing 787 Dreamliner and proposed for the Airbus A350, currently in development) engines.
+The JT9D has the distinction of being chosen by Boeing to power the original Boeing 747 "Jumbo jet".
+The CF700 was the first small turbofan in the world to be certified by the Federal Aviation Administration (FAA).
+Introducing a (planetary) reduction gearbox, with a suitable gear ratio, between the LP shaft and the fan enables both the fan and LP turbine to operate at their optimum speeds.
+Reducing the core mass flow tends to increase the load on the LP turbine, so this unit may require additional stages to reduce the average stage loading and to maintain LP turbine efficiency.
+Consequently, the nozzle exit area controls the fan match and, being larger than the throat, pulls the fan working line slightly away from surge.
+One of the earliest turbofans was a derivative of the General Electric J79 turbojet, known as the CJ805-23, which featured an integrated aft fan/low-pressure (LP) turbine unit located in the turbojet exhaust jetpipe.
+Low specific thrust engines tend to have a high bypass ratio, but this is also a function of the temperature of the turbine system.
+Honeywell/ITEC F124 series is used in military jets, such as the Aero L-159 Alca and the Alenia Aermacchi M-346.
+However, better turbine materials and/or improved vane/blade cooling are required to cope with increases in both turbine rotor inlet temperature and compressor delivery temperature.
+Rather than adding stage/s to the LP turbine to drive the higher pressure ratio IP (intermediate pressure) compressor, Rolls-Royce mounts it on a separate shaft and drives it with an IP turbine.
+Increasing the overall pressure ratio of the compression system raises the combustor entry temperature.
+# closing variable stators within the compressor
+The first General Electric turbofan was the aft-fan CJ805-23 based on the  CJ805-3 turbojet.
+The fan noise is a tonal noise and its signature depends on the fan rotational speed:
+Now imagine we replace this set-up with an equivalent turbofan - same airflow and same fan pressure ratio.
+If the latter is held constant, the increase in (HP) compressor delivery temperature (from raising overall pressure ratio) implies an increase in HP mechanical speed.
+Newer Eagles and Falcons also come with GE F110 as an option, and the two are in competition.
+At high flight speeds, high-specific-thrust engines can pick up net thrust through the ram rise in the intake, but this effect tends to diminish at supersonic speeds because of shock wave losses.
+The nozzle acts as if it has variable geometry.
+The contribution of each noise source significantly evolved in the last decades: in typical 1960s design the jet was the main source whereas in modern turbofans the fan is the main noise source.
+Bypass ratios greater than 5:1 are increasingly common with the Rolls-Royce Trent XWB approaching 10:1.
+All of the large American turbofans (e.g., General Electric CF6, GE90 and GEnx plus Pratt & Whitney JT9D and PW4000) feature an IP compressor mounted on the LP shaft and driven, like the fan, by the LP turbine, the mechanical speed of which is dictated by the tip speed and diameter of the fan.
+The BR710 is typical of this configuration.
+Some of these are licensed or reverse engineered versions of European and Russian turbofans, and the other are indigenous models, but all are in development phase.
+Although some modern military and civil engines have peak RITs of the order of , such temperatures are only experienced for a short time (during take-off) on civil engines.
+This means the HP turbine nozzle guide vanes would have to be different from the original.
+This was derived from the General Electric J85/CJ610 turbojet (2,850&nbsp;lbf or 12,650 N) to power the larger Rockwell Sabreliner 75/80 model aircraft, as well as the Dassault Falcon 20 with about a 50% increase in thrust (4,200&nbsp;lbf or 18,700 N).
+Unlike some military engines, modern civil turbofans do not have any stationary inlet guide vanes in front of the fan rotor.
+Since the 1970s, most jet fighter engines have been low/medium bypass turbofans with a mixed exhaust, afterburner and variable area final nozzle.
+To reduce noise civilian turbofans have a specially shaped nozzle that limits the exhaust speed to subsonic speeds.
+However, a high specific thrust turbofan will, by definition, have a higher nozzle pressure ratio, resulting in a higher afterburning net thrust and, therefore, a lower afterburning specific fuel consumption (SFC).
+Turbojet engine noise is predominately jet noise from the high exhaust velocity, therefore turbofan engines are significantly quieter than a pure-jet of the same thrust with jet noise no longer the predominant source.
+The '''turbofan''' or '''fanjet''' is a type of airbreathing jet engine that is widely used in  aircraft propulsion.
+In that market it is competing with the Rolls-Royce Trent 900, the launch engine for the aircraft.
+* at high engine ratings, the fan tip is supersonic and this allows intense rotor-locked duct modes to propagate upstream; this noise is known as "buzz saw" and is typical at take-off.
+Civilian turbofan engines of the 1960s, such as the Pratt & Whitney JT8D and the Rolls-Royce Spey had bypass ratios closer to 1, and were similar to their military equivalents.
+In the RB211 and Trent 3-spool engine series, the HP compressor pressure ratio is modest so only a single HP stage is required.
+Eurojet GmbH was formed in 1986 to manage the development, production, support, maintenance, support and sales of the EJ200 turbofan engine for the Eurofighter Typhoon.
+The company is also developing the new Aviadvigatel PD-14 engine for the new Russian MS-21 airliner.
+F404) have variable inlet guide vanes to direct air onto the first fan rotor stage.
+However, compressor stall can be avoided, at throttled conditions, by progressively:
+Despite the simplicity of the turbomachinery configuration, the M53 requires a variable area mixer to facilitate part-throttle operation.
+The engine produces thrust through a combination of these two portions working in concert; engines that use more jet thrust relative to fan thrust are known as ''low bypass turbofans'', conversely those that have considerably more fan thrust than jet thrust are known as ''high bypass''.
+In 1939-1941 Soviet designer Arkhip Lyulka elaborated the design for the world's first turbofan engine, and acquired a patent for this new invention on April 22, 1941.
+The Rolls-Royce BR715 is a non-American example of this.
+Williams International is a manufacturer of small gas turbine engines based in Walled Lake, Michigan, United States.
+Turbofan engines come in a variety of engine configurations.
+# Specific thrust (net thrust/intake airflow) is an important parameter for turbofans and jet engines in general.
+Although far from common, the single-shaft turbofan is probably the simplest configuration, comprising a fan and high-pressure compressor driven by a single turbine unit, all on the same shaft.
+Rolls-Royce Trent 970s were the first engines to power the new Airbus A380.
+Engine Alliance is a 50/50 joint venture between General Electric and Pratt & Whitney formed in August 1996 to develop, manufacture, sell, and support a family of modern technology aircraft engines for new high-capacity, long-range aircraft.
+US civil engines use much higher HP compressor pressure ratios (e.g., ~23:1 on the General Electric GE90) and tend to be driven by a two-stage HP turbine.
+Modern twin engined airliners normally climb very steeply immediately after take-off.
+Pratt & Whitney and General Electric have a joint venture, Engine Alliance selling a range of engines for aircraft such as the Airbus A380.
+Further improvements in core thermal efficiency can be achieved by raising the overall pressure ratio of the core.
+The collaboration produced the V2500, the second most successful commercial jet engine program in production today in terms of volume, and the third most successful commercial jet engine program in aviation history.
+Most of the air flow through a high-bypass turbofan is low-velocity bypass flow: even when combined with the much higher velocity engine exhaust, the average exhaust velocity is considerably lower than in a pure turbojet.
+Turbofan engine noise propagates both upstream the inlet and downstream the primary nozzle and the by-pass duct.
+However, high specific thrust engines have a high dry SFC.
+The desired overall pressure ratio for the engine cycle is usually achieved by multiple axial stages on the core compression.
+Since the temperature rise across the whole engine (intake to nozzle) would be lower, the (dry power) fuel flow would also be reduced, resulting in a better specific fuel consumption (SFC).
+This is not a problem, since fan surge margin is much better at high flight speeds.
+Under these circumstances, the throat area dictates the fan match and, being smaller than the exit, pushes the fan working line slightly towards surge.
+Typical of this configuration are the long-established Honeywell TFE731, the Honeywell ALF 502/507, and the recent Pratt & Whitney PW1000G.
+Ishikawajima-Harima Heavy Industries is the Japan aircraft engine company.
+Higher overall pressure ratios can be achieved by either raising the HP compressor pressure ratio or adding an intermediate-pressure (IP) compressor between the fan and HP compressor, to supercharge or boost the latter unit helping to raise the overall pressure ratio of the engine cycle to the very high levels employed today (i.e., greater than 40:1, typically).
+#  Because military engines usually have to be able to fly very fast at sea level, the limit on HP compressor delivery temperature is reached at a fairly modest design overall pressure ratio, compared with that of a civil engine.
+Excessive cabin noise and relatively cheap jet fuel prevented the engines being put into service.
+The high bypass ratios (i.e., fan duct flow/core flow) used in modern civil turbofans tends to reduce the relative diameter of the attached IP compressor, causing its mean tip speed to decrease.
+However, this assumes that cycle improvements are obtained, while retaining the datum (HP) compressor exit flow function (non-dimensional flow).
+So turbofans can be made more fuel efficient by raising overall pressure ratio and turbine rotor inlet temperature in unison.
+As bypass ratio increases, the mean radius ratio of the fan and low-pressure turbine (LPT) increases.
+There is also a flight speed effect, termed thrust lapse rate.
+Most of the configurations discussed above are used in civilian turbofans, while modern military turbofans (e.g., SNECMA M88) are usually basic two-spool.
+EuroJet Turbo GmbH is a multi-national consortium, the partner companies of which are Rolls Royce of the United Kingdom, Avio of Italy, ITP of Spain and MTU Aero Engines of Germany.
+Klimov was formed in the early 1930s to produce and improve upon the liquid-cooled Hispano-Suiza 12Y V-12 piston engine for which the USSR had acquired a license.
+# Thrust growth on civil turbofans is usually obtained by increasing fan airflow, thus preventing the jet noise becoming too high.
+Reducing core flow also increases bypass ratio.
+Consequently, an engine sized to propel an aircraft at high subsonic flight speed (e.g., Mach 0.83) generate a relatively high thrust at low flight speed, thus enhancing runway performance.
+# The off-design behaviour of turbofans is illustrated under compressor map and turbine map.
+Jet noise is reduced with chevrons, sawtooth patterns on the exhaust nozzles, on the Rolls-Royce Trent 1000 and General Electric GEnx engines used on the Boeing 787.
+Three Chinese corporations build turbofan engines.
+A geared fan may reduce the number of required LPT stages in some applications.
+Low bypass ratio military turbofans usually have one LP turbine stage, but higher bypass ratio engines need two stages.
+Improved materials, and the introduction of twin compressors such as in the Bristol Olympus and Pratt & Whitney JT3C engines, increased the overall pressure ratio and thus the thermodynamic efficiency of engines, but they also led to a poor propulsive efficiency, as pure turbojets have a high specific thrust/high velocity exhaust better suited to supersonic flight.
+Pratt & Whitney is third behind GE and Rolls-Royce in market share.
+Consequently, if the fan is to rotate at its optimum blade speed the LPT blading will spin slowly, so additional LPT stages will be required, to extract sufficient energy to drive the fan.
+The first family has a  fan diameter and is designed to power the Boeing 767, Boeing 747, MD-11, and the Airbus A300.
+Through improvements in turbine cooling/material technology, a higher (HP) turbine rotor inlet temperature can be used, thus facilitating a smaller (and lighter) core and (potentially) improving the core thermal efficiency.
+cross border skirmishes) The latter engine is better for an aircraft that has to fly some distance, or loiter for a long time, before going into combat.
+Currently, Klimov is the manufacturer of the Klimov RD-33 turbofan engines.
+There is, however, a rise in nozzle pressure, because overall pressure ratio increases faster than the turbine expansion ratio, causing an increase in the hot mixer entry pressure.
+If one engine is lost, the climb-out is much shallower, but sufficient to clear obstacles in the flightpath.
+A high specific thrust/low bypass ratio turbofan normally has a multi-stage fan, developing a relatively high pressure ratio and, thus, yielding a high (mixed or cold) exhaust velocity.
+The fan is scaled to achieve the desired net thrust.
+Strictly speaking, cycle-wise the HP turbine rotor inlet temperature (after the temperature drop across the HPT stator) is more important than the (HP) turbine inlet temperature.
+Pratt & Whitney also have a joint venture, International Aero Engines with Japanese Aero Engine Corporation and MTU of Germany, specializing in engines for the Airbus A320 family.
+In a bid for increased efficiency with speed, a development of the ''turbofan'' and ''turboprop'' known as a propfan engine was created that had an unducted fan.
+The PW4000 series is the successor to the JT9D, and powers some Airbus A310, Airbus A300, Boeing 747, Boeing 767, Boeing 777, Airbus A330 and MD-11 aircraft.
+The fan blades are situated outside of the duct, so that it appears like a turboprop with wide scimitar-like blades.
+This improves the fan surge margin (see compressor map).
+Other noise sources are the fan, compressor and turbine.
+The Yakovlev Yak-42, a medium-range, rear-engined aircraft seating up to 120 passengers introduced in 1980 was the first Soviet aircraft to use high-bypass engines.
+So the first turbofan to run was apparently the German Daimler-Benz DB 670 (designated as the 109-007 by the RLM) with a first run date of 27 May 1943.
+International Aero Engines is a Zürich-registered joint venture between Pratt & Whitney, MTU Aero Engines and Japanese Aero Engine Corporation.
+However, the larger fan airflow requires more power from the core.
+The two variants are the GP7270 and the GP7277.
+decreasing thrust with increasing flight speed).
+It is fairly obvious, the higher the fan pressure ratio (fan discharge pressure/fan inlet pressure), the higher the jet velocity and the corresponding specific thrust.
+Although turbine blade (and vane) materials have improved over the years, much of the increase in (HP) turbine inlet temperatures is due to improvements in blade/vane cooling technology.
+The company currently offers several versions of the Aviadvigatel PS-90 engine that powers Ilyushin Il-96-300/400/400T, Tupolev Tu-204, Tu-214 series and the Ilyushin Il-76-MD-90.
+The acoustic performance of the engine can be experimentally evaluated by means of ground tests or in dedicated experimental test rigs.
+PowerJet is a 50-50 joint venture between Snecma (Safran) and NPO Saturn, created in July 2004.
+; Turbine rotor inlet temperature: gas absolute mean temperature at principal (e.g., HP) turbine rotor entry
+However, stressing considerations might limit this parameter, implying, despite an increase in overall pressure ratio, a reduction in HP compressor pressure ratio.
+Although several prototypes were built and ready for testing, Lyulka was in 1941 forced to abandon his research and evacuate to the Urals following the Nazi invasion of the Soviet Union.
+CFM International is a joint venture between GE Aircraft Engines and SNECMA of France.
+The range is also very popular with the re-engine market being used by Sierra Jet and Nextant to breathe new life into aging platforms.
+Overall pressure ratio can be increased by improving fan (or) LP compressor pressure ratio and/or HP compressor pressure ratio.
+They have been producing engines since the 1970s and the range produces between 1000 and 3600 pounds of thrust.
+Although modern combat aircraft tend to  use low bypass ratio turbofans, military transport aircraft (e.g., C-17 ) mainly use high bypass ratio turbofans (or turboprops) for fuel efficiency.
+If we choose a low (HP) turbine inlet temperature for the gas generator, the core airflow needs to be relatively high to compensate.
+Consequently, the HP compressor need only develop a modest pressure ratio (e.g., ~4.5:1).
+same specific thrust).
+Raising turbine inlet temperature tends to increase thermal efficiency and, therefore, improve fuel efficiency.
+The turbofan engine market is dominated by General Electric, Rolls-Royce plc and Pratt & Whitney, in order of market share.
+If we raise the turbine inlet temperature, the core airflow can be smaller, thus increasing bypass ratio.
+It produces jet engines for cruise missiles and small jet-powered aircraft.
+In the three-spool RB211/Trent the core compression system is split into two, with the IP compressor, which supercharges the HP compressor, being on a different coaxial shaft and driven by a separate (IP) turbine.
+A bypass flow can only be added to the turbojet if the turbine inlet temperature is allowed to increase to compensate for the smaller core flow.
+Some low-bypass ratio military turbofans (e.g.
+A smaller core flow/higher bypass ratio cycle can be achieved by raising the (HP) turbine rotor inlet temperature.
+The first production afterburning turbofan engine was the Pratt & Whitney TF30, which initially powered the F-111 Aardvark and F-14 Tomcat.
+Since the efficiency of propulsion is a function of the relative airspeed of the exhaust to the surrounding air, propellers are most efficient for low speed, pure jets for high speeds, and ducted fans in the middle.
+A similar trend occurs with unmixed turbofans.
+More recent large high-bypass turbofans include the Pratt & Whitney PW4000, the three-shaft Rolls-Royce Trent, the General Electric GE90/GEnx and the GP7000, produced jointly by GE and P&W.
+This aft-fan configuration was later exploited in the General Electric GE-36 UDF (propfan) demonstrator of the early 80s.
+This leads to a thermic clogging termed ''choked nozzle'' where the mass flow cannot be increased beyond a certain amount.
+Consider a mixed turbofan with a fixed bypass ratio and airflow.
+Obviously, the core of the turbofan must produce sufficient power to drive the fan via the low pressure (LP) turbine.
+In practice, changes to the non-dimensional speed of the (HP) compressor and cooling bleed extraction would probably make this assumption invalid, making some adjustment to HP turbine throat area unavoidable.
+Rolls-Royce and General Electric were jointly developing the F136 engine to power the Joint Strike Fighter, however, due to government budget cuts, the program has been eliminated.
+One of the problems with the aft fan configuration is hot gas leakage from the LP turbine to the fan.
+The core (or gas generator) of the engine must generate sufficient core power to at least drive the fan at its design flow and pressure ratio.
+Both General Electric and Pratt & Whitney/Allison demonstrated propfan engines in the 1980s.
+Increasing the latter may require better compressor materials.
+The engine was abandoned later while the war went on and problems could not be solved.
+The Honeywell HTF700 series is used in the Bombardier Challenger 300 and the Gulfstream G280.
+Rolls-Royce plc is the second largest manufacturer of turbofans and is most noted for their RB211 and Trent series, as well as their joint venture engines for the Airbus A320 and McDonnell Douglas MD-90 families (IAE V2500 with Pratt & Whitney and others), the Panavia Tornado (Turbo-Union RB199) and the Boeing 717 (BR700).
+Improvements in turbine cooling/material technology would allow the use of a higher turbine inlet temperature despite an increase in cooling air temperature which would result from any overall pressure-ratio increase.
+The PW4000 is certified for 180-minute ETOPS when used in twinjets.
+The ratio of the mass-flow of air bypassing the engine core compared to the mass-flow of air passing through the core is referred to as the  bypass ratio.
+This occurs when some of the compressor aerofoils stall (like the wings of an aircraft) causing a violent change in the direction of the airflow.
+If the local gas temperatures are low enough, downstream blades/vanes are uncooled and not adversely affected.
+The SNECMA M53, which powers Mirage fighter aircraft, is an example of a single-shaft turbofan.
+Also the fan pressure ratio is relatively high, to achieve a medium to high specific thrust.
+The British wartime Metrovick F.2 axial flow jet was given a fan, as the Metrovick F.3 in 1943, to create the first British turbofan.
+Changes must also be made to the fan to absorb the extra core power.
+Ivchenko-Progress is the Ukrainian aircraft engine company that succeeded the Soviet Ivchenko Design Bureau.
+There were at one time over 400 CF700 aircraft in operation around the world, with an experience base of over 10 million service hours.

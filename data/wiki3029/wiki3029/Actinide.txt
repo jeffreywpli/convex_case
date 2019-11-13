@@ -1,0 +1,200 @@
+The advantage of the second method is that elements heavier than plutonium, as well as neutron-deficient isotopes, can be obtained, which are not formed during neutron irradiation.
+Nuclear weapons tests have released at least six actinides heavier than plutonium into the environment; analysis of debris from a 1952 hydrogen bomb explosion showed the presence of americium, curium, berkelium, californium, einsteinium and fermium.
+The actinide series derives its name from the first element in the series, actinium.
+At present, there are two major methods of producing isotopes of transplutonium elements: irradiation of the lighter elements with either neutrons or accelerated charged particles.
+Another separation method uses polymeric resins as a polyelectrolyte.
+: {_{94}^{239}Pu}+_2^4He -> {_{96}^{242}Cm}+{_0^1n}.
+Dioxides of tetravalent actinides crystallize in the cubic system, same as in calcium fluoride.
+Thorium also has good electron emission properties, with long lifetime and low potential barrier for the emission.
+While actinium and the late actinides (from americium onwards) behave similarly to the lanthanides, the elements thorium through neptunium are much more similar to transition metals in their chemistry.
+bombarded uranium-238 with neon-22.
+Within the actinides, there are two overlapping groups: transuranium elements, which follow uranium in the periodic table—and transplutonium elements, which follow plutonium.
+Divalent americium is obtained only in dry compounds and non-aqueous solutions (acetonitrile).
+Actinium-225 is less available than actinium-228, but is more promising in radiotracer applications.
+Uranium has a valence from 3 to 6, the last being most stable.
+Therefore, the uranium ore is treated with sodium carbonate at elevated temperature and under oxygen pressure:
+in 1965, as acknowledged by the IUPAC in 1992.
+He also isolated the first sample of uranium metal by heating uranium tetrachloride with potassium.
+Protactinium is more abundant (10−12%) in the Earth's crust than actinium.
+These are used in nuclear reactors and nuclear weapons.
+: 2 Pu + 6 HCl → 2 PuCl3 + 3 H2
+In one tonne of thorium there is 5 gram of 228Ac.
+The upper limit of abundance of the longest-living isotope of plutonium, 244Pu, is 3%.
+The content of actinium in most natural objects corresponds to the isotopic equilibrium of parent isotope 235U, and it is not affected by the weak Ac migration.
+Prolonged neutron irradiation also produces a long-lived isotope 254Es (t1/2 = 275.5 days).
+Radioactive substances can harm human health via (i) local skin contamination, (ii) internal exposure due to ingestion of radioactive isotopes, and (iii) external overexposure by β-activity and γ-radiation.
+Three isotopes, 225Ac, 227Ac and 228Ac, were found in nature and the others were produced in the laboratory; only the three natural isotopes are used in applications.
+File:Uranyl Nitrate.jpg|Uranyl nitrate (UO2(NO3)2)
+However, in these reactions the regenerating hydrogen can react with the metal, forming the corresponding hydride.
+It was reported that in alkaline solution americium can be oxidized to the heptavalent state, but these data proved erroneous.
+More long-lived isotopes of curium (245–248Cm, all α-emitters) are formed as a mixture during neutron irradiation of plutonium or americium.
+Neptunium has valence states from 3 to 7, which can be simultaneously observed in solutions.
+Studies on animals also revealed that the most dangerous plutonium exposure route is through inhalation, after which 5–25% of inhaled substances is retained in the body.
+The strongest base is of actinium.
+Protactinium-233 is a β-emitter with a half-life of 26.97 days.
+Uranium reacts with acids and water much more easily than thorium.
+It is highly reactive, and quickly forms an oxide film in air.
+The other actinides are purely synthetic elements.
+Protactinium was possibly isolated in 1900 by William Crookes.
+Uranium and thorium were the first actinides discovered.
+In this case, only about 0.05% of soluble 0.01% insoluble compounds of plutonium absorbs into blood, and the rest is excreted.
+By reduction of thorium tetrachloride with potassium, he isolated the metal and named it thorium after the Norse god of thunder and lightning Thor.
+Other promising actinide isotopes for nuclear power are thorium-232 and its product from the thorium fuel cycle, uranium-233.
+There were several attempts to obtain isotopes of nobelium by Swedish (1957) and American (1958) groups, but the first reliable result was the synthesis of 256No by the Russian group (Georgy Flyorov ''et al.'')
+Both of these isotopes, especially 248Cm, have a longer half-life (3.48 years) and are much more convenient for carrying out chemical research than 242Cm and 244Cm, but they also have a rather high rate of spontaneous fission.
+In 1962–1966, there were attempts in the United States to produce transplutonium isotopes using a series of six underground nuclear explosions.
+249Cf is not formed in large quantities in a nuclear reactor because of the slow β-decay of the parent isotope 249Bk and a large cross section of interaction with neutrons, but it can be accumulated in the isotopically pure form as the β-decay product of (pre-selected) 249Bk.
+Thirty-one isotopes of actinium and eight excited isomeric states of some of its nuclides were identified by 2010.
+Instantaneous exposure of uranium-238 to a large neutron flux resulting from the explosion produced heavy isotopes of uranium, including uranium-253 and uranium-255, and their β-decay yielded einsteinium-253 and fermium-255.
+ThO2 + 2 Ca → 2 CaO + Th
+The largest chemical diversity among actinides is observed in americium, which can have valence between 2 and 6.
+After trials on animals, this maximum permissible dose was reduced to 0.65&nbsp;µg or 0.04 µCi.
+Emission of neutrons during the fission of uranium is important not only for maintaining the nuclear chain reaction, but also for the synthesis of the heavier actinides.
+At high pH, this results in precipitation of diuranate, which is treated with hydrogen in the presence of nickel yielding an insoluble uranium tetracarbonate.
+The decay of plutonium-238 produces relatively harmless alpha particles and is not accompanied by gamma-irradiation.
+Studies of known actinides and discoveries of further transuranic elements provided more data in support of this point of view, but the phrase "actinide hypothesis" (the implication being that "hypothesis" is something that has not been decisively proven) remained in active use by scientists through the late 1950s.
+Rich deposits of thorium minerals are located in the United States (440,000 tonnes), Australia and India (~300,000 tonnes each) and Canada (~100,000 tonnes).
+Actinide hexafluorides have properties close to anhydrides.
+Only 249Bk is available in large quantities; it has a relatively short half-life of 330 days and emits mostly soft β-particles, which are inconvenient for detection.
+Natural thorium consists of 0.02(2)% 230Th and 99.98(2)% 232Th; natural protactinium consists of 100% 231Pa; and natural uranium consists of 0.0054(5)% 234U, 0.7204(6)% 235U, and 99.2742(10)% 238U.
+Among all of these, the only isotopes that occur in sufficient quantities in nature to be detected in anything more than traces and have a measurable contribution to the atomic weights of the actinides are the primordial 232Th, 235U, and 238U, and three long-lived decay products of natural uranium, 230Th, 231Pa, and 234U.
+Rare-earth impurities are separated by increasing the pH in sulfate solution.
+Among the 16 known isotopes of einsteinium with mass numbers from 241 to 257 the most affordable is 253Es.
+from 243Am and 18O.
+Actinides, especially those with a small number of 5''f''-electrons, are prone to hybridization.
+Thus tetravalent protactinium in solutions is obtained by the action of strong reducing agents in a hydrogen atmosphere.
+Using actinides in nuclear fuel, sealed radioactive sources or advanced materials such as self-glowing crystals has many potential benefits.
+The "Fat Man"-type plutonium bombs produced during the Manhattan Project used explosive compression of plutonium to obtain significantly higher densities than normal, combined with a central neutron source to begin the reaction and increase efficiency.
+Reacting uranium dioxide with fluoric acid changes it to uranium tetrafluoride, which yields uranium metal upon reaction with magnesium metal:
+In 1965, 256Lr was synthesized by Flyorov ''et al.''
+Transuranium elements do not occur in sizeable quantities in nature and are commonly synthesized via nuclear reactions conducted with nuclear reactors.
+Berkelium, along with a valence of +3, also shows the valence of +4, more stable than that of curium; the valence 4 is observed in solid fluoride and dioxide.
+Owing to its scarcity in nature, most plutonium is produced synthetically.
+Sometimes thorium is extracted by electrolysis of a fluoride in a mixture of sodium and potassium chloride at 700–800&nbsp;°C in a graphite crucible.
+The pentachloride and black hexachloride of uranium were synthesized, but they are both unstable.
+The same isolation method was later used by Péligot for uranium.
+In presentations of the periodic table, the lanthanides and the actinides are customarily shown as two additional rows below the main body of the table, with placeholders or else a selected single element of each series (either lanthanum or lutetium, and either actinium or lawrencium, respectively) shown in a single cell of the main table, between barium and hafnium, and radium and rutherfordium, respectively.
+Its application is limited by the high price (about 1000 USD/g).
+Plutonium reacts with hydrogen even at temperatures as low as 25–50&nbsp;°C; it also easily forms halides and intermetallic compounds.
++ Content of plutonium in uranium and thorium ores
+Uranium mostly occurs in the Earth's crust as a mixture of its oxides in the minerals uraninite, which is also called pitchblende because of its black color.
+Adsorption from the digestive tract is much smaller (~0.05%) for actinium than radium.
+Tetravalent protactinium is chemically similar to uranium(IV) and thorium(IV).
+Mass ratio  239Pu/ore
+The first method is most important for applications, as only neutron irradiation using nuclear reactors allows the production of sizeable amounts of synthetic actinides; however, it is limited to relatively light elements.
+Among other trivalent actinides Ac3+ is least acidic, i.e.
+The first isotopes of transplutonium elements, americium-241 and curium-242, were synthesized in 1944 by Glenn T. Seaborg, Ralph A. James and Albert Ghiorso.
+Actinides easily react with halogens forming salts with the formulas MX3 and MX4 (X = halogen).
+Owing to the low abundance of actinides, their extraction is a complex, multistep process.
+The long residence time of plutonium in the body is partly explained by its poor solubility in water.
+233U has a much higher fission efficiency by low-energy (thermal) neutrons, compared e.g.
+Uranium from resins is washed with a solution of ammonium nitrate or nitric acid that yields uranyl nitrate, UO2(NO3)2·6H2O.
+Synthesis of transuranics gradually undermined this point of view.
+Californium produced by reactor-irradiation of plutonium mostly consists of 250Cf and 252Cf, the latter being predominant for large neutron fluences, and its study is hindered by the strong neutron radiation.
+Among the actinides, thorium and uranium are the easiest to isolate.
+The half-life of the longest-lived isotope of neptunium, 237Np, is negligible compared to the age of the Earth.
+Salts of high-valence actinides easily hydrolyze.
+It is used in the thermal reactor, and its concentration in natural uranium does not exceed 0.72%.
+The solution is treated with a reducing agent and neutralized with ammonium carbonate to pH = 8 that results in precipitation of Pu4+ compounds.
+The relative content of thorium and uranium isotopes is widely used to estimate the age of various objects, including stars (see radiometric dating).
+Thorium dioxide is a refractory material with the highest melting point among any known oxide (3390&nbsp;°C).
+Owing to the presence of d-shell, uranium (as well as many other actinides) forms organometallic compounds, such as UIII(C5H5)3 and UIV(C5H5)4.
+Uranium and thorium also have diverse current or historical uses, and americium is used in the ionization chambers of most modern smoke detectors.
+Owing to the close similarity of actinium and lanthanum and low abundance, pure actinium could only be produced in 1950.
+Most uranium chemistry studies were carried out on uranium-238 owing to its long half-life of 4.4 years.
+Reaction of uranium(VI) oxide with hydrogen results in uranium dioxide, which is similar in its properties with ThO2.
+The disadvantage of 243Am is production of the short-lived daughter isotope 239Np, which has to be considered in the data analysis.
+This isotope strongly absorbs thermal neutrons releasing much energy.
+Use of chemically unstable forms of actinides in MOX and sealed radioactive sources is not appropriate by modern safety standards.
+This oxide is amphoteric and forms several hydroxides, the most stable being UO2(OH)2.
+The most important are 241Am and 243Am, which are alpha-emitters and also emit soft, but intense γ-rays; both of them can be obtained in an isotopically pure form.
+Uranium is extracted from its ores in various ways.
+Therefore, this isotope (~160&nbsp;mg) is used as the energy source in heart pacemakers where it lasts about 5 times longer than conventional batteries.
+The discovery of actinium by Debierne was however questioned in 1971 and 2000, arguing that Debierne's publications in 1904 contradicted his earlier work of 1899–1900.
+: 4 HF + UO2 → UF4 + 2 H2O
+Actinides with the highest mass numbers are synthesized by bombarding uranium, plutonium, curium and californium with ions of nitrogen, oxygen, carbon, neon or boron in a particle accelerator.
+The name actinium comes from the Greek ''aktis, aktinos'' (ακτίς, ακτίνος), meaning beam or ray.
+247Bk is an alpha-emitter with a long half-life of 1,380 years, but it is hard to obtain in appreciable quantities; it is not formed upon neutron irradiation of plutonium because of the β-stability of isotopes of curium isotopes with mass number below 248.
+Only 231Pa and 234Pa have been found in nature.
+The disadvantage is that tetravalent uranium compounds precipitate as well.
+As a result, thorium salts have a weak tendency to hydrolyse.
++ Properties of some transplutonium isotope pairs
+By 1944 an observation that curium failed to exhibit oxidation states above 4 (whereas its supposed 6th period homolog, platinum, can reach oxidation state of 6) prompted Glenn Seaborg to formulate a so-called "actinide hypothesis".
+Actinides also produce carbides with the general formula of AnC or AnC2 (U2C3 for uranium) as well as sulfides An2S3 and AnS2.
+The mass number of this isotope was not clearly established (possibly 258 or 259) at the time.
+The discovery of the new elements and the new data on neutron capture were initially kept secret on the orders of the U.S.&nbsp;military until 1955 due to Cold War tensions.
+This is explained by the similarity of the electron energies at the 5''f'', 7''s'' and 6''d'' shells.
+Some isotopes of plutonium emit ionizing α-radiation, which damages the surrounding cells.
+Actinium-227 is used as a neutron source.
+Neptunium trioxide is unstable; thus, only Np3O8 could be obtained so far.
+Klaproth was able to precipitate a yellow compound (likely sodium diuranate) by dissolving pitchblende in nitric acid and neutralizing the solution with sodium hydroxide.
+Uranium easily yields a colorless hexafluoride, which sublimates at a temperature of 56.5&nbsp;°C; because of its volatility, it is used in the separation of uranium isotopes with gas centrifuge or gaseous diffusion.
+Even easier is to produce complex salts of pentavalent and hexavalent actinides.
+Protactinium forms soluble carbonates.
+So phosphates, fluorides, oxalates, iodates and carbonates of actinides are weakly soluble in water; they precipitate as hydrates, such as ThF4·3H2O and Th(CrO4)2·3H2O.
+Contamination via food is the least likely way.
+Fluorides, phosphates, hypophosphate, iodate and phenylarsonates of protactinium(IV) are insoluble in water and dilute acids.
+In another extraction method, monazite is decomposed with a 45% aqueous solution of sodium hydroxide at 140&nbsp;°C.
+The divalent state is proven for mendelevium and nobelium, and in nobelium it is more stable than the trivalent state.
+Fluorides are reduced with calcium, magnesium or barium:
+257Fm (t1/2 = 100 days) can accumulate upon prolonged and strong irradiation.
+have variable composition.
+Thus actinium is either synthesized in nuclear reactions from isotopes of radium or separated using ion-exchange procedures.
+Protactinium in the body tends to accumulate in the kidneys and bones.
+and  are also the common form of Np and Pu in the +6 oxidation state.
+Development of self-glowing actinide-doped materials with durable crystalline matrices is a new area of actinide utilization as the addition of alpha-emitting radionuclides to some glasses and crystals may confer luminescence.
+To dissolve ThO2 in acids, it is heated to 500–600&nbsp;°C; heating above 600&nbsp;°C produces a very resistant to acids and other reagents form of ThO2.
+Protactinium exhibits two valence states; the +5 is stable, and the +4 state easily oxidizes to protactinium(V).
+So, nobelium was produced by bombarding uranium-238 with neon-22 as
+File:U Oxstufen.jpg|Aqueous solutions of uranium III, IV, V, VI salts
+The longest-lived nobelium isotope 259No has a half-life of 1.5 hours.
+Only 60 years later, the French scientist Eugène-Melchior Péligot identified it with uranium oxide.
+However, even though four actinides were known by that time, it was not yet understood that they formed a family similar to lanthanides.
+Typically, uranium nucleus is divided into two fragments with the release of 2–3 neutrons, for example:
+Most of them contain the linear "uranyl" group, .
+Among 19 isotopes of curium, the most accessible are 242Cm and 244Cm; they are α-emitters, but with much shorter lifetime than the americium isotopes.
+Twenty nine isotopes of protactinium are known with mass numbers 212–240 as well as three excited isomeric states.
+228Ac-228Ra mixtures are widely used as an intense gamma-source in industry and medicine.
+It was the first transuranium element produced synthetically.
+Metallic thorium is separated from the anhydrous oxide, chloride or fluoride by reacting it with calcium in an inert atmosphere:
+For nobelium 11 isotopes are known with mass numbers 250–260 and 262.
+Most actinides exhibit a larger variety of valence states, and the most stable are +6 for uranium, +5 for protactinium and neptunium, +4 for thorium and plutonium and +3 for actinium and other actinides.
+The uranyl group acts as a hard acid and forms stronger complexes with oxygen-donor ligands than with nitrogen-donor ligands.
+Isotopes of californium with mass numbers 237–256 are formed in nuclear reactors; californium-253 is a β-emitter and the rest are α-emitters.
+An efficient method is the dissolution of thorium hydroxide in nitric acid, because the resulting solution can be purified by extraction with organic solvents:
+Uranium-239 converts via β-decay into plutonium-239, which, like uranium-235, is capable of spontaneous fission.
+Plutonium, neptunium and americium form two basic oxides: An2O3 and AnO2.
+However, the oxides of plutonium and neptunium with the chemical formula AnO2 and An2O3 are well characterized.
+Its main component is an aqueous solution of sodium carbonate, which converts uranium into a complex UO2(CO3)34−, which is stable in aqueous solutions at low concentrations of hydroxide ions.
+He then reduced the obtained yellow powder with charcoal, and extracted a black substance that he mistook for metal.
+The insoluble impurities are filtered and the uranium is extracted by reaction with hydroxides as (NH4)2U2O7 or with hydrogen peroxide as UO4·2H2O.
+Th(OH)4 + 4 HNO3 → Th(NO3)4 + 4 H2O
+Thorium is rather active chemically.
+File:UCl4.jpg|Uranium tetrachloride
+To extract plutonium, neutron-irradiated uranium is dissolved in nitric acid, and a reducing agent (FeSO4, or H2O2) is added to the resulting solution.
+A key need is application of actinide solid solutions in durable crystalline host phases.
+Neptunium (named for the planet Neptune, the next planet out from Uranus, after which uranium was named) was discovered by Edwin McMillan and Philip H. Abelson in 1940 in Berkeley, California.
+This inobservation was attributed to spontaneous fission owing to the large speed of the products and to other decay channels, such as neutron emission and nuclear fission.
+The atomic mass of uranium was then calculated as 120, but Dmitri Mendeleev in 1872 corrected it to 240 using his periodicity laws.
+The most popular among scientists are long-lived 237Np (t1/2 = 2.20 years) and short-lived 239Np, 238Np (t1/2 ~ 2 days).
+Plutonium(V) can enter polymerization reactions.
+Nitrates, chlorides, sulfates and perchlorates of actinides are water-soluble.
+The maximum safe dose of protactinium in the human body is 0.03 µCi that corresponds to 0.5 micrograms of 231Pa.
+This metal was discovered not by its own radiation but by the radiation of the daughter products.
+Like the lanthanides, the actinides form a family of elements with similar properties.
+The stability of Bk4+ in aqueous solution is close to that of Ce4+.
+One fission act of 1&nbsp;gram of 235U converts into about 1 MW·day.
+Thorium and uranium are the most abundant actinides in nature with the respective mass concentrations of 1.6% and 4%.
+Uranium(IV) compounds exhibit reducing properties, e.g., they are easily oxidized by atmospheric oxygen.
+Many compounds of uranium(IV) and uranium(VI) are non-stoichiometric, i.e.
+There are 19 isotopes of neptunium with mass numbers from 225 to 244; they are all highly radioactive.
+This oxide is also basic and corresponds to the uranium hydroxide (U(OH)4).
+Small addition of fluoride ions catalyses dissolution of thorium dioxide in acids.
+The redox potential \mathit E_\frac{M^4+}{AnO2^2+} increases from −0.32 V in uranium, through 0.34 V (Np) and 1.04 V (Pu) to 1.34 V in americium revealing the increasing reduction ability of the An4+ ion from americium to uranium.
+Tetravalent americium forms stable solid compounds (dioxide, fluoride and hydroxide) as well as complexes in aqueous solutions.
+Hydrolysis reactions of plutonium ions of different oxidation states are quite diverse.
+At the initial stage of poisoning, actinium accumulates in the liver.
+The most common fuel is oxide of uranium-235.
+The name was shortened to ''protactinium'' in 1949.
+All the isotopes have short lifetime, except for protactinium-231 (half-life 32,760 years).
+: UO3 + H2 → UO2 + H2O

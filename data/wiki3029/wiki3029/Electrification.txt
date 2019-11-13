@@ -1,0 +1,200 @@
+The more significant Electricity (Supply) Act of 1926, lead to the setting up of the National Grid.
+Swan's light began commercial production in 1881.
+The lamp used a magneto-electric generator and had a self-regulating mechanism to control the gap between the two carbon rods.
+British engineer R. E. B. Crompton improved the generator to allow better air cooling and made other mechanical improvements.
+Most studies of electrification and electric grids focused on industrial core countries in Europe and the United States.
+Many of their designs were adapted to the particular laws governing electrical distribution in the UK.
+Charles Merz, of the Merz & McLellan consulting partnership, built the Neptune Bank Power Station near Newcastle upon Tyne in 1901, and by 1912 had developed into the largest integrated power system in Europe.
+Nearly identical to Baily’s apparatus, French electrical engineer Marcel Deprez in 1880 published a paper that identified the rotating magnetic field principle and that of a two-phase AC system of currents to produce it.
+Some historians and sociologists considered the interplay of colonial politics and the development of electric grids: in India, Rao  showed that linguistics-based regional politics — not techno-geographical considerations — led to the creation of two separate grids; in colonial Zimbabwe (Rhodesia), Chikowero  showed that electrification was racially based and served the white settler community while excluding Africans; and in Mandate Palestine, Shamir  showed that  British electric concessions to a Zionist-owned company deepened the economic disparities between Arabs and Jews.
+His concern was one of the first electrical engineering firms in the world.
+It may also apply to changing industrial processes such as smelting, melting, separating or refining from coal or coke heating, or chemical processes to some type of electric process such as electric arc furnace, electric induction or resistance heating, or electrolysis or electrolytic separating.
+The first large scale central power station in America was Edison's Pearl Street Station in New York, which began operating in September 1882.
+The old Schoelkopf Power Station No.
+They also exhibited the invention in Turin in 1884, where it was adopted for an electric lighting system.
+William Fothergill Cooke and Charles Wheatstone developed a telegraph around 1838-40.
+The conversion efficiency for animal feed to work is between 4 and 5% compared to over 30% for electricity generated using coal.
+Later, in 1911, the world's first commercial geothermal power plant was built there.
+Ferranti believed in the success of alternating current power distribution early on, and was one of the few experts in this system in the UK.
+The Italian inventor Galileo Ferraris invented a polyphase AC induction motor in 1885.
+The efficiency of steam prime movers in converting the heat energy of fuel into mechanical work was a critical factor in the economic operation of steam central generating stations.
+In 1878 the world's first hydroelectric power scheme was developed at Cragside in Northumberland, England by William George Armstrong.
+The improvements in electrical generation technology increased the efficiency and reliability greatly in the 19th century.
+Electric motors were more efficient than human or animal power.
+As electricity prices fell, usage increased dramatically and central stations were scaled up to enormous sizes, creating significant economies of scale.
+On its completion in 1891 it was the first truly modern power station, supplying high-voltage AC power that was then "stepped down" with transformers for consumer use on each street.
+It was first exhibited at the Paris Exposition of 1878 and was heavily promoted by Gramme.
+Edison’s lamp was more successful than Swan’s because Edison used a thinner filament, giving it higher resistance and thus conducting much less current.
+Recent gains have been more modest - by the early 2010s 81 to 83 percent of the world's population had access to electricity.
+This allowed Sturgeon's motor to be the first capable of providing continuous rotary motion.
+Shop machines, such as woodworking lathes, were often powered with a one- or two-man crank.
+To be efficient steam engines needed to be several hundred horsepower.
+Sprague sold his motor through Edison Co.
+Most recent progress in electrification took place between the 1950s and 1980s.
+As a consequence, most early electric companies did not provide daytime service, with two-thirds providing no daytime service in 1897.
+Built on an unprecedented scale and pioneering the use of high voltage (10,000V) AC current, it generated 800 kilowatts and supplied central London.
+The arc light was installed along the half mile length of Avenue de l'Opéra, Place du Theatre Francais and around the Place de l'Opéra in 1878.
+Parsons turbines were widely introduced in English central stations by 1894; the first electric supply company in the world to generate electricity using turbo generators was Parsons' own electricity supply company Newcastle and District Electric Lighting Company, set up in 1894.
+By 1882 between 8 and 10 households were connected, with a total of 57 lights.
+Many electric railways generated their own power and also sold power and operated distribution systems.
+Hydroelectricity uses a water turbine to generate power.
+Because the carbon burned away, the gap had to be constantly readjusted.
+Broadly speaking, electrification was the build out of the electrical generating and distribution systems which occurred in Britain, the United States, and other countries from the mid-1880s until around 1950 and is in progress in rural areas in some developing countries.
+When lighting was practically the only use of electricity, demand was high during the first hours before the workday and the evening hours when demand peaked.
+Within Parson's lifetime, the generating capacity of a unit was scaled up by about 10,000 times.
+Electric motors were several times more efficient than small steam engines because central station generation was more efficient than small steam engines and because line shafts and belts had high friction losses.
+By 1929, the load factor around the world was greater than 50%, mainly due to motor load.
+'''Electrification''' is the process of powering by electricity and is usually associated with changing over from another power source.
+By the mid-1880s, other electric companies were establishing central power stations and distributing electricity, including Crompton & Co. and the Swan Electric Light Company in the UK, Thomson-Houston Electric Company and Westinghouse in the US and Siemens in Germany.
+André-Marie Ampère suggested a means of converting current from Pixii's magneto to DC using a rocking switch.
+This made them more compatible with AC generators with only two or four poles; no  gearbox or belted speed increaser was needed between the engine and the generator.
+In 1840 Wheatstone was using a magneto that he developed to power the telegraph.
+Reciprocating steam engines required high maintenance.
+By 1925 half of power was provided by central stations.
+He also built the first electromagnetic generator, called the Faraday disk, a type of homopolar generator, using a copper disc rotating between the poles of a horseshoe magnet.
+The broad meaning of the term, such as in the history of technology and economic history, usually applies to a region or national economy.
+The first successful arc lamp was developed by Russian engineer Pavel Yablochkov, and used the Gramme generator.
+Advances in recent decades greatly lowered the cost of wind power making it one of the most competitive alternate energies and competitive with higher priced natural gas (before shale gas).
+Mikhail Dolivo-Dobrovolsky introduced the first three-phase induction motor in 1890, a much more capable design that became the prototype used in Europe and the U.S. By 1895 GE and Westinghouse both had AC motors on the market.
+Italy was the world's only industrial producer of geothermal electricity until 1958.
+Italy supplies all of the electrified rail network with geothermal power.
+Speed of these motors is changed by switching sets of poles on or off, which was done with a special motor starter for larger motors, or a simple multiple speed switch for fractional horsepower motors.
+Electric street railways were ideal for load balancing.
+A decision was taken to use AC for power transmission from the Niagara Power Project to Buffalo, New York.
+The self-excited magnetic field dynamo did away with the battery to power electromagnets.
+The first person to conceive of a rotating magnetic field was Walter Baily who gave a workable demonstration of his battery-operated polyphase motor aided by a commutator on June 28, 1879 to the Physical Society of London.
+Compound winding, which gave more stable voltage with load, improved operating characteristics of generators.
+These were invented by Joseph Swan in 1878 in Britain and by Thomas Edison in 1879 in the US.
+Within weeks, a parliamentary committee recommended passage of the landmark 1882 Electric Lighting Act, which allowed the licensing of persons, companies or local authorities to supply electricity for any public or private purposes.
+This type of dynamo was made by several people in 1866.
+It was used to power a single arc lamp in his art gallery.
+Early projects used reciprocating steam engines, operating at relatively low speeds.
+In 1890 Westinghouse and Stanley built a system to transmit power several miles to a mine in Colorado.
+The light was much brighter than oil or gas lamps, and there was no soot.
+By the 1890s, single and poly-phase AC was undergoing rapid introduction.
+In the 1850s, many of these problems were solved by the arc lamp invented by William Petrie and William Staite.
+Most self-generated power became uneconomical as power prices fell.
+A power transformer developed by Lucien Gaulard and John Dixon Gibbs was demonstrated in London in 1881, and attracted the interest of Westinghouse.
+In the U.S. by 1902, 61% of generating capacity was AC, increasing to 95% in 1917.
+By 1884 Pearl Street was supplying 508 customers with 10,164 lamps.
+In 1905 he tried to influence Parliament to unify the variety of voltages and frequencies in the country's electricity supply industry, but it was not until World War I that Parliament began to take this idea seriously, appointing him head of a Parliamentary Committee to address the problem.
+A fundamental principle of thermodynamics is that the higher the temperature of the steam entering an engine, the higher the  efficiency.
+Steam turbines also had capital cost and operating advantages over reciprocating engines.
+Geothermal power is only used in a few areas.
+In the years of 1831–1832, Michael Faraday discovered the operating principle of electromagnetic generators.
+It was costly and ultimately impossible to provide a belt-drive between a low-speed engine and a high-speed generator in the very large ratings required for central station service.
+Multi-speed AC motors that have separately wired poles have long been available, the most common being two speed.
+The invention of Parson's steam turbine made cheap and plentiful electricity possible.
+A common approach was to feed a carbon electrode by gravity and maintain the gap with a pair of electromagnets, one of which retracted the upper carbon after the arc was started and the second controlled a brake on the gravity feed.
+It is easy to vary speed with DC motors, which made them suited for a number of applications such as electric street railways, machine tools and certain other industrial applications where speed control was desirable.
+Proposals submitted by vendors in 1890 included DC and compressed air systems.
+Frank J. Sprague improved on the DC motor in 1884 by solving the problem of maintaining a constant speed with varying load and reducing sparking from the brushes.
+In 1934 the Public Utility Holding Company Act recognized electric utilities as public goods of importance along with gas, water, and telephone companies and thereby were given outlined restrictions and regulatory oversight of their operations.
+For the historical cost see Ayres-Warr (2002) Fig.
+It produced a small DC voltage.
+This basic system remains in use today around the world.
+The first central station providing public power is believed to be one at Godalming, Surrey, U.K. autumn 1881.
+The modern steam turbine was invented in 1884 by the British Sir Charles Parsons, whose first model was connected to a dynamo that generated 7.5&nbsp;kW (10&nbsp;hp) of electricity.
+These arc lamps and designs similar to it, powered by large magnetos, were first installed on English lighthouses in the mid 1850s, but the power limitations prevented these models from being a proper success.
+Steam turbines were a fraction of the size and weight of comparably rated reciprocating steam engine.
+The power density of boilers was increased by using forced combustion air and by using compressed air to feed pulverized coal.
+The idea was that two out-of-phase, but synchronized, currents might be used to produce two magnetic fields that could be combined to produce a rotating field without any need for switching or for moving parts.
+By the end of the 19th century the highest efficiencies were over 90%.
+Carbon arc lamps were started by making contact between two carbon electrodes, which were then separated to within a narrow gap.
+The first commutator DC electric motor capable of turning machinery was invented by the British scientist William Sturgeon in 1832.
+The electrification of particular sectors of the economy is called by terms such as ''factory electrification'', ''household electrification'', ''rural electrification'' or ''railway electrification''.
+Various forms of incandescent light bulbs had numerous inventors; however, the most successful early bulbs were those that used a carbon filament sealed in a high vacuum.
+By 1890 there were 1000 central stations in operation.
+Wind energy's main problem is that it is intermittent and therefore needs grid extensions and energy storage to be a reliable main energy source.
+The first U.S. Parsons turbine was at Westinghouse Air Brake Co. near Pittsburgh.
+It was built at the Stowage, a site to the west of the mouth of Deptford Creek once used by the East India Company.
+For these reasons the smallest commercial steam engines were about 2 horsepower.
+1 near Niagara Falls in the U.S. side began to produce electricity in 1881.
+Dogs were sometimes used on machines such as a treadmill, which could be adapted to churn butter.
+The period of electrification of factories and households from 1900 to 1940, was one of high productivity and economic growth.
+The 1902 census listed 3,620 central stations.
+Vast gains were seen in the 1970s and 1980s - from 49 percent of the world's population in 1970 to 76 percent in 1990.
+This was above the need for many small shops.
+Steam turbines ran at higher speed than reciprocating engines, not being limited by the allowable speed of a piston in a cylinder.
+Electrification was called "the greatest engineering achievement of the 20th Century" by the National Academy of Engineering.
+The system was not a commercial success and the town reverted to gas.
+Despite the protestations of the Niagara commissioner William Thomson (Lord Kelvin) the decision was taken to build an AC system, which had been proposed by both Westinghouse and General Electric.
+His findings led to the Williamson Report of 1918, which in turn created the Electricity Supply Bill of 1919.
+He designed the building, the generating plant and the distribution system.
+Before widespread power distribution from central stations, many factories, large hotels, apartment and office buildings had their own power generation.
+The first large scale central distribution supply plant was opened at Holborn Viaduct in London in 1882.
+Cogeneration is still commonly practiced in many industries that use large amounts of both steam and power, such as pulp and paper, chemicals and refining.
+Elsewhere, wired electricity was often carried on and through the circuits of colonial rule.
+The most efficient thermal system is combined cycle in which a combustion turbine powers a generator using the high temperature combustion gases and then exhausts the cooler combustion gases to generate low pressure steam for conventional steam cycle generation.
+Equipped with 1000 incandescent lightbulbs that replaced the older gas lighting, the station lit up Holborn Circus including the offices of the General Post Office and the famous City Temple church.
+In the late 19th century specially designed ''power buildings'' leased space to small shops.
+Edison began commercial production of carbon filament bulbs in 1880.
+The condensate from steam engines was contaminated with oil and could not be reused, while condensate from a turbine is clean and typically reused.
+The earliest commercial uses of electricity were electroplating and the telegraph.
+Later segmented commutators were used to produce direct current.
+The cost of electricity fell dramatically in the first decades of the twentieth century due to the introduction of steam turbines and the improved load factor after the introduction of AC motors.
+Machinery to use horses for power cost $300 or less.
+For electric companies to increase profitability and lower rates, it was necessary to increase the load factor.
+The first magnetos only converted a few percent of mechanical energy to electricity.
+In 1916 Merz pointed out that the UK could use its small size to its advantage, by creating a dense distribution grid to feed its industries efficiently.
+The introduction of steam turbines motivated a series of improvements in temperatures and pressures.
+The Lit & Phil Library in Newcastle, was the first public room lit by electric light, and the Savoy Theatre was the first public building in the world lit entirely by electricity.
+Sebastian Ziani de Ferranti went into this business in 1882 when he set up a shop in London designing various electrical devices.
+In 1887 the London Electric Supply Corporation hired Ferranti for the design of their power station at Deptford.
+Other inventors were the American engineers Charles S. Bradley and Nikola Tesla, and the German technician Friedrich August Haselwander.
+A combination DC and compressed air system remained under consideration until late in the schedule.
+The Central Electricity Board standardised the nation's electricity supply and established the first synchronised AC grid, running at 132 kilovolts and 50 Hertz.
+Electricity production from solar energy either directly through photovoltaic cells or indirectly such as by producing steam to drive a steam turbine generator.
+In the United States it became a national objective after the power crisis during the summer of 1918 in the midst of World War I to consolidate supply.
+They were able to overcome the problem of starting up the AC motor by using a rotating magnetic field produced by a poly-phase current.
+Motors are used more during daytime and many run continuously.
+The station had six 200 horsepower Edison dynamos, each powered by a separate steam engine.
+Many power requirements were less than that of a horse.
+As late as the early 20th century, isolated power systems greatly outnumbered central stations.
+Wheatstone and Cooke made an important improvement in electrical generation by using a battery-powered electromagnet in place of a permanent magnet, which they patented in 1845.
+Steam turbines could be built to operate on higher pressure and temperature steam.
+Also, a small steam engine and boiler cost about $7,000 while an old blind horse that could develop 1/2 horsepower cost $20 or less.
+The introduction of the steam turbine fundamentally changed the economics of central station operations.
+In America, George Westinghouse who had become interested in the power transformer developed by Gaulard and Gibbs, began to develop his AC lighting system, using a transmission system with a 20:1 step up voltage with step-down.
+Swan's house, in Low Fell, Gateshead, was the world's first to have working light bulbs installed.
+Several mechanisms were developed to regulate the arc.
+The continued use of private electric generators is called microgeneration.
+Household sewing machines were powered with a foot treadle; however, factory sewing machines were steam-powered from a line shaft.
+Steam turbines can operate for years with almost no wear.
+Electric lighting was highly desirable.
+The speed of steam turbines did not fluctuate cyclically during each revolution; making parallel operation of AC generators feasible, and improved the stability of rotary converters for production of direct current for traction and industrial uses.
+Rural areas were electrified first in Europe, and in the US the Rural Electric Administration, established in 1935 brought electrification to rural areas.
+It was in the 1880s that the technology was commercially developed for large scale electricity generation and transmission.
+Despite the superiority of alternating current for most applications, a few existing DC systems continued to operate for several decades after AC became the standard for new systems.
+As a result, it gives the greatest degree of energy resilience and the energy system is going to electrification.
+The capital and operating cost per unit of power were also cheaper with central stations.
+In 1886, English engineer Elihu Thomson built an AC motor by expanding upon the induction-repulsion principle and his wattmeter.
+Geothermal requires very hot underground temperatures near the surface to generate steam which is used in a low temperature steam plant.
+Around 1832, Hippolyte Pixii improved the magneto by using a wire wound horseshoe, with the extra coils of conductor generating more current, but it was AC.
+The bill was the first step towards an integrated electricity system in the UK.
+The principle, later called Faraday's law, is that an electromotive force is generated in an electrical conductor that is subjected to a varying magnetic flux, as for example,  a wire moving through a magnetic field.
+Also, coal handling was mechanized and automated.
+The load factor adjusted upward by the turn of the 20th century—at Pearl Street the load factor increased from 19.3% in 1884 to 29.4% in 1908.
+John Hopkinson, a British physicist, invented the three-wire (three-phase) system for the distribution of electrical power, for which he was granted a patent in 1882.
+In economics, the efficiency of electrical generation has been shown to correlate with ''technological progress''.
+British engineer R. E. B. Crompton developed a more sophisticated design in 1878 which gave a much brighter and steadier light than the Yablochkov candle In 1878, he formed Crompton & Co. and began to manufacture, sell and install the Crompton lamp.
+With single phase current either a capacitor or coil (creating inductance) can be used on part of the circuit inside the motor to create a rotating magnetic field.
+The way this was eventually accomplished was through motor load.
+Steam turbines can be manufactured with capacities far larger than any steam engines ever made, giving important economies of scale.
+The ratio of the average load to the peak load of a central station is called the load factor.
+In 1882 the British inventor and electrical engineer Sebastian de Ferranti, working for the company Siemens collaborated with the distinguished physicist Lord Kelvin to pioneer AC power technology including an early transformer.
+The first Edison hydroelectric power plant, the Vulcan Street Plant, began operating September 30, 1882, in Appleton, Wisconsin, with an output of about 12.5 kilowatts.
+Steam turbines could be made in larger ratings than reciprocating engines, and generally had higher efficiency.
+This included the change over from line shaft and belt drive using steam engines and water power to electric motors.
+Although early electricity was very expensive compared to today, it was far cheaper and more convenient than oil or gas lighting.
+Often this was economically attractive because the exhaust steam could be used for building and industrial process heat, which today is known as cogeneration or combined heat and power (CHP).
+(See: Continuous production.)
+Central station electric power generating provided power more efficiently and at lower cost than small generators.
+The resulting increased conversion efficiency lowered electricity prices.
+The system was proposed after the town failed to reach an agreement on the rate charged by the gas company, so the town council decided to use electricity.
+It successfully lit four light bulbs.
+One of the biggest problems facing the early power companies was the hourly variable demand.
+The first practical generator, the Gramme machine was made by Z.T Gramme, who sold many of these machines in the 1870s.
+Steam engines and boilers also required operators and maintenance.
+Electric lighting was so much safer than oil or gas that some companies were able to pay for the electricity with the insurance savings.
+Threshing machine in 1881.

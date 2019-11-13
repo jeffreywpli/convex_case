@@ -1,0 +1,200 @@
+As electronics have improved many radars now can change their pulse repetition frequency, thereby changing their range.
+On the surface it would appear that then within a fixed interval of time one could obtain perfect, error free, detection.
+To do this one simply compresses all energy into an infinitesimal time slice.
+The electron beam must contain 5 to 10 times more power than the microwave output, which can produce enough heat to generate plasma.
+The next year, he added a spark-gap transmitter.
+Since the signal frequency is changing, by the time the signal returns to the aircraft the transmit frequency has changed.
+This is particularly true for electrically conductive materials such as metal and carbon fibre, making radar well-suited to the detection of aircraft and ships.
+In port or in harbour, vessel traffic service radar systems are used to monitor and regulate ship movements in busy waters.
+Constant false alarm rate, a form of automatic gain control (AGC), is a method that relies on clutter returns far outnumbering echoes from targets of interest.
+The space between each transmit pulse is divided into range cells or range gates.
+This can be adapted for systems that lack a coherent transmitter, such as time-domain pulse-amplitude radar.
+In 1895, Alexander Popov, a physics instructor at the Imperial Russian Navy school in Kronstadt, developed an apparatus using a coherer tube for detecting distant lightning strikes.
+Early radars used very long wavelengths that were larger than the targets and thus received a vague signal, where as some modern systems use shorter wavelengths (a few centimetres or less) that can image objects as small as a loaf of bread.
+Shot noise is the dominant source in most receivers.
+The Soviets produced their first mass production radars RUS-1 and RUS-2 Redut in 1939 but further development was slowed by the NKVD arrest of Oshchepkov and their sending him to the gulag.
+The traditional band names originated as code-names during World War II and are still in military and aviation use throughout the world.
+A corner reflector consists of three flat surfaces meeting like the inside corner of a box.
+The one notable exception to heterodyne (downconversion) radar systems is ultra-wideband radar.
+However, it is hygroscopic, leading to hydrolysis and formation of highly flammable alcohol.
+Clutter may also originate from multipath echoes from valid targets caused by ground reflection, atmospheric ducting or ionospheric reflection/refraction (e.g., anomalous propagation).
+Clutter is detected and neutralized in several ways.
+Jamming may be intentional, as with an electronic warfare tactic, or unintentional, as with friendly forces operating equipment that transmits using the same frequency range.
+:* Moving target indication, which integrates successive pulses and
+The weak absorption of radio waves by the medium through which it passes is what enables radar sets to detect objects at relatively long ranges—ranges at which other electromagnetic wavelengths, such as visible light, infrared light, and ultraviolet light, are too strongly attenuated.
+The massive redundancy associated with having a large number of array elements increases reliability at the expense of gradual performance degradation that occurs as individual phase elements fail.
+It is thus used in many different fields where the need for such positioning is crucial.
+They have been adopted in the United States by the Institute of Electrical and Electronics Engineers and internationally by the International Telecommunication Union.
+Since radio waves travel at the speed of light, accurate distance measurement requires high-speed electronics.
+Used as a visual sensor for experimental autonomous vehicles, high-resolution meteorological observation, and imaging.
+The ability of the radar system to overcome these unwanted signals defines its signal-to-noise ratio (SNR).
+Before the Second World War, researchers in France, Germany, Italy, Japan, the Netherlands, the Soviet Union, the United Kingdom, and the United States, independently and in great secrecy, developed technologies that led to the modern version of radar.
+The propagation factor accounts for the effects of multipath and shadowing and depends on the details of the environment.
+These problems can be overcome by incorporating a ground map of the radar's surroundings and eliminating all echoes which appear to originate below ground or above a certain height.
+Aperture synthesis by post-processing motion data from a single moving source, on the other hand, is widely used in space and airborne radar systems .
+Mainlobe jamming can generally only be reduced by narrowing the mainlobe solid angle and cannot fully be eliminated when directly facing a jammer which uses the same frequency and polarization as the radar.
+One serious limitation with this type of solution is that the broadcast is sent out in all directions, so the amount of energy in the direction being examined is a small part of that transmitted.
+For example, array elements producing a 5 degree phase shift for each wavelength across the array face will produce a beam pointed 5 degree away from the centreline perpendicular to the array face.
+When Watt then asked what might they do, Wilkins recalled the earlier report about aircraft causing radio interference.
+The German inventor Christian Hülsmeyer was the first to use radio waves to detect "the presence of distant metallic objects".
+This evolved in the civilian field into applications for aircraft, ships, and roads.
+Watt's team patented the device in GB593017.
+Jammers have an added effect of affecting radars along other lines of sight through the radar receiver's sidelobes (''sidelobe jamming'').
+This produces information about target velocity during the detection process.
+Corner reflectors on boats, for example, make them more detectable to  avoid collision or during a rescue.
+Radar absorbing material, containing resistive and sometimes magnetic substances, is used on military vehicles to reduce radar reflection.
+Aircraft safety depends upon continuous access to accurate weather radar information that is used to prevent injuries and accidents.
+In his report, Popov wrote that this phenomenon might be used for detecting objects, but he did nothing more with this observation.
+Phased array radars have been in use since the earliest years of radar in World War II (Mammut radar), but electronic device limitations led to poor performance.
+This led to the Daventry Experiment of 26 February 1935, using a powerful BBC shortwave transmitter as the source and their GPO receiver set up in a field while a bomber flew around the site.
+The radar signals that are reflected back towards the transmitter are the desirable ones that make radar work.
+These precautions do not completely eliminate reflection because of diffraction, especially at longer wavelengths.
+Modern radar systems perform the equivalent operation faster and more accurately using computers.
+The U.S. Navy has instituted a program named Pollution Prevention (P2) to eliminate or reduce the volume and toxicity of waste, air emissions, and effluent discharges.
+Since a nautical mile is defined as 1,852&nbsp;m, then dividing this distance by the speed of light (299,792,458&nbsp;m/s), and then multiplying the result by 2 yields a result of 12.36&nbsp;μs in duration.
+Linear polarization returns usually indicate metal surfaces.
+Each antenna element or group of antenna elements incorporates a discrete phase shift that produces a phase gradient across the array.
+Detection requires a signal that exceeds the noise floor by at least the signal to noise ratio.
+Less sophisticated filtering is required, and range ambiguity processing is not normally needed with weather radar in comparison with military radar intended to track air vehicles.
+High-resolution, also used for satellite transponders, frequency under K band (hence 'u')
+This feature is useful if target detection over a wide range of angles is more important than target location in three dimensions.
+The newest radars fire two pulses during one cell, one for short range (about ) and a separate signal for longer ranges (about ).
+The kind of signal integration used with moving target indication can improve noise up to  for each stage.
+The maximum return would be detected with an antenna at right angles to the target, and a minimum with the antenna pointed directly at it (end on).
+This includes factors such as environmental conditions and the size (or radar cross section) of the target.
+To get a reasonable amount of power on the "target", the transmitting aerial should also be directional.
+Adjusting the timing between when the transmitter sends a pulse and when the receiver stage is enabled will generally reduce the sunburst without affecting the accuracy of the range, since most sunburst is caused by a diffused transmit pulse reflected before it leaves the antenna.
+Phased array radars are valued for use in aircraft since they can track multiple targets.
+In 1897, while testing this equipment for communicating between two ships in the Baltic Sea, he took note of an interference beat caused by the passage of a third vessel.
+Active radar transmits a signal that is reflected back to the receiver.
+Pulse-Doppler is also used for ground based surveillance radar required to defend personnel and vehicles.
+This also allows small objects to be detected in an environment containing much larger nearby slow moving objects.
+The amount of frequency shift is used to measure distance.
+This was followed by a pulsed system demonstrated in May 1935 by Rudolf Kühnhold and the firm GEMA in Germany and then one in June 1935 by an Air Ministry team led by Robert A. Watson-Watt in Great Britain.
+Other users of the radio spectrum, such as the broadcasting and electronic countermeasures industries, have replaced the traditional military designations with their own systems.
+The loss of a U.S. Navy aircraft in 1978 was attributed to a silicate ester fire.
+Very long range, ground penetrating; 'very high frequency'
+the waves will reflect or scatter from the boundary between the materials.
+Passive radar depends upon the object sending a signal to the receiver.
+This beam configuration allows the radar operator to detect an aircraft at a specific azimuth but at an indeterminate height.
+Development of radar greatly expanded on 1 September 1936 when Watson-Watt became Superintendent of a new establishment under the British Air Ministry, Bawdsey Research Station located in Bawdsey Manor, near Felixstowe, Suffolk.
+Spoiled parabolic antennas produce a narrow beam in one dimension and a relatively wide beam in the other.
+Doppler separates clutter from aircraft and spacecraft using a frequency spectrum, so individual signals can be separated from multiple reflectors located in the same volume using velocity differences.
+SNR is defined as the ratio of the signal power to the noise power within the desired signal; it compares the level of a desired target signal to the level of background noise (atmospheric noise and noise generated within the receiver).
+When the reflector is moving at right angle to the radar beam, it has no relative velocity.
+Pulse-Doppler signal processing increases the maximum detection distance using less radiation in close proximity to aircraft pilots, shipboard personnel, infantry, and artillery.
+Thus the existing system for measuring distance, combined with a memory capacity to see where the target last was, is enough to measure speed.
+Millimetre band, subdivided as below.
+Meteorologists use radar to monitor precipitation and wind.
+There will also be flicker noise caused by electron transit through amplification devices, which is reduced using heterodyne amplification.
+Even by standards of the era, CH was crude; instead of broadcasting and receiving from an aimed antenna, CH broadcast a signal floodlighting the entire area in front of it, and then used one of Watt's own radio direction finders to determine the direction of the returned echoes.
+The amount of cancellation is side-lobe suppression.
+While this does not help detect targets masked by stronger surrounding clutter, it does help to distinguish strong target sources.
+The radar may try to unify the targets, reporting the target at an incorrect height, or eliminating it on the basis of jitter or a physical impossibility.
+If the object is ''moving'' either toward or away from the transmitter, there is a slight equivalent change in the frequency of the radio waves, caused by the Doppler effect.
+One way to obtain a distance measurement is based on the time-of-flight: transmit a short pulse of radio signal (electromagnetic radiation) and measure the time it takes for the reflection to return.
+Examples are breathing pattern detection for sleep monitoring  and hand and finger gesture detection for computer interaction.
+Distance may also be measured as a function of time.
+Wilkins made an extensive study of available units before selecting a model from the General Post Office.
+This process of directing artificial radio waves towards objects is called ''illumination'', although radio waves are invisible to the human eye or optical cameras.
+Noise is random and target signals are not.
+When the transmit frequency () is pulsed, using a pulse repeat frequency of , the resulting frequency spectrum will contain harmonic frequencies above and below  with a distance of .
+Wilkins returned a set of calculations demonstrating the system was basically impossible.
+This was important in the early development of this type when high frequency signal generation was difficult or expensive.
+When using a pulsed radar, the variation between the phase of successive returns gives the distance the target has moved between pulses, and thus its speed can be calculated.
+It can be used to detect aircraft, ships, spacecraft, guided missiles, motor vehicles, weather formations, and terrain.
+In modern radar systems, the internal noise is typically about equal to or lower than the external noise.
+A similar effect imposes a maximum range as well.
+Clutter moves with the wind or is stationary.
+In France in 1934, following systematic studies on the Split Anode Magnetron, the research branch of the Compagnie Générale de Télégraphie Sans Fil (CSF), headed by Maurice Ponte, with Henri Gutton, Sylvain Berline, and M. Hugon, began developing an obstacle-locating radio apparatus,  a part of which was installed on the liner ''Normandie'' in 1935.
+Robert Watson-Watt became an expert on the use of radio direction finding as part of his lightning experiments.
+Multiple letters are assigned to these bands by different groups.
+Work there resulted in the design and installation of aircraft detection and tracking stations called "Chain Home" along the East and South coasts of England in time for the outbreak of World War II in 1939.
+Jammers therefore can be much less powerful than their jammed radars and still effectively mask targets along the line of sight from the jammer to the radar (''mainlobe jamming'').
+In order to maximize range, longer times between pulses should be used, referred to as a pulse repetition time, or its reciprocal, pulse repetition frequency.
+The MiG-31M's SBI-16 Zaslon Passive electronically scanned array radar was considered to be the world's most powerful fighter radar, until the AN/APG-77 Active electronically scanned array was introduced on the Lockheed Martin F-22 Raptor.
+This signal processing is similar to that used in speed detecting Doppler radar.
+The war precipitated research to find better resolution, more portability, and more features for radar, including complementary navigation systems like Oboe used by the RAF's Pathfinder.
+Radar jamming refers to radio frequency signals originating from sources outside the radar, transmitting in the radar's frequency and thereby masking targets of interest.
+Short radio waves reflect from curves and corners in a way similar to glint from a rounded piece of glass.
+The first fighter aircraft to use phased array radar was the Mikoyan MiG-31.
+This is linked with computing systems to produce a real-time electronic weather map.
+When the two length scales are comparable, there may be resonances.
+Clutter is considered a passive interference source, since it only appears in response to radar signals sent by the radar.
+Reflected signals decline rapidly as distance increases, so noise introduces a radar range limitation.
+Half wavelength long wires or strips of conducting material, such as chaff, are very reflective but do not direct the scattered energy back toward the source.
+Weather radar uses a low PRF.
+Most countries have additional regulations to control which parts of each band are available for civilian or military use.
+K-band is used for detecting clouds by meteorologists, and by police for detecting speeding motorists.
+That distance can be displayed on an instrument, and it may also be available via the transponder.
+The thermal noise is given by ''kB T B'', where ''T'' is temperature, ''B'' is bandwidth (post matched filter) and ''kB'' is Boltzmann's constant.
+Random polarization returns usually indicate a fractal surface, such as rocks or soil, and are used by navigation radars.
+Low-frequency radar technology is dependent on resonances for detection, but not identification, of targets.
+Long range air traffic control and surveillance; 'L' for 'long'
+One example is "lidar", which uses ultraviolet, visible, or near infrared light from lasers rather than radio waves.
+At one time the memory consisted of a user making grease pencil marks on the radar screen and then calculating the speed using a slide rule.
+Radars use horizontal, vertical, linear, and circular polarization to detect different types of reflections.
+Coastal radar systems, over-the-horizon radar (OTH) radars; 'high frequency'
+Moderate range surveillance, Terminal air traffic control, long-range weather, marine radar; 'S' for 'short'
+As part of ongoing experiments, he asked the "new boy", Arnold Frederic Wilkins, to find a receiver suitable for use with shortwave transmissions.
+Because of the thinned array curse, such multiple aperture arrays, when used in transmitters, result in narrow beams at the expense of reducing the total power transmitted to the target.
+Mapping, short range, airport surveillance; frequency just above K band (hence 'a') Photo radar, used to trigger cameras which take pictures of license plates of cars running red lights, operates at 34.300 ± 0.100&nbsp;GHz.
+Phased array radars were originally used for missile defence (see for example Safeguard Program).
+In April 1940, ''Popular Science'' showed an example of a radar unit using the Watson-Watt patent in an article on air defence.
+Taylor submitted a report, suggesting that this might be used to detect the presence of ships in low visibility, but the Navy did not immediately continue the work.
+Through the use of a duplexer, the radar switches between transmitting and receiving at a predetermined rate.
+For similar reasons, objects intended to avoid detection will not have inside corners or surfaces and edges perpendicular to likely detection directions, which leads to "odd" looking stealth aircraft.
+:* Doppler processing, which uses filters to separate clutter from desirable signals.
+Phased array antennas are composed of evenly spaced similar antenna elements, such as aerials or rows of slotted waveguide.
+Monopulse can be improved by altering the elevation algorithm used at low elevation.
+The operator could determine the direction to a target by rotating the antenna so one display showed a maximum while the other showed a minimum.
+*Radar sensitivity and power of the return signal as computed in the radar equation.
+The French and Soviet systems, however, had continuous-wave operation and could not give the full performance that was ultimately at the center of modern radar.
+As the price of electronics has fallen, phased array radars have become more common.
+For a transmitted radar signal, the polarization can be controlled to yield different effects.
+Long-range radars tend to use long pulses with long delays between them, and short range radars use smaller pulses with less time between them.
+Radar was secretly developed by several nations in the period before and during World War II.
+Australia, Canada, New Zealand, and South Africa followed prewar Great Britain, and Hungary had similar developments during the war.
+Radar systems must overcome unwanted signals in order to focus on the targets of interest.
+In the past, radar AGC was electronically controlled and affected the gain of the entire radar receiver.
+K-band radar guns operate at 24.150 ± 0.100&nbsp;GHz.
+Since the electron is moving at a certain temperature (Plank spectrum) this noise source cannot be further eroded.
+In a real-world situation, pathloss effects should also be considered.
+Conversely, so-called "nodder" height finding radars use a dish with a narrow vertical beamwidth and wide azimuthal beamwidth to detect an aircraft at a specific height but with low azimuthal precision.
+The Doppler effect is only able to determine the relative speed of the target along the line of sight from the radar to the target.
+ballistic missile early warning), ground penetrating, foliage penetrating; 'ultra high frequency'
+Jamming is problematic to radar since the jamming signal only needs to travel one way (from the jammer to the radar receiver) whereas the radar echoes travel two ways (radar-target-radar) and are therefore significantly reduced in power by the time they return to the radar receiver.
+As a result, the Doppler measurement is only non-ambiguous if the Doppler frequency shift is less than half of , called the Nyquist frequency, since the returned frequency otherwise cannot be distinguished from shifting of a harmonic frequency above or below, thus requiring:
+Coolanol (silicate ester) was used in several military radars in the 1970s.
+These spectra are used to perform the detection process.
+The first aircraft to use a phased array radar was the B-1B Lancer.
+This is used with weather radar to measure radial wind velocity and precipitation rate in each different volume of air.
+Pulse-Doppler signal processing incorporates more sophisticated electronic filtering that safely eliminates this kind of weakness.
+Later, in 1943, Page greatly improved radar with the monopulse technique that was used for many years in most radar applications.
+*Line of sight, which depends on height above ground.
+Also, in late 1941 ''Popular Mechanics'' had an article in which a U.S. scientist speculated about the British early warning system on the English east coast and came close to what it was and how it worked.
+The modulation index riding on the receive signal is proportional to the time delay between the radar and the reflector.
+Example systems using this approach are AZUSA, MISTRAM, and UDOP.
+They are commonly used as radar reflectors to make otherwise difficult-to-detect objects easier to detect.
+Symmetric parabolic antennas produce a narrow "pencil" beam in both the X and Y dimensions and consequently have a higher gain.
+Eight years later, Lawrence A. Hyland at the Naval Research Laboratory observed similar fading effects from a passing aircraft; this led to a patent application as well as a proposal for serious work at the NRL (Taylor and Young were then at this laboratory) on radio-echo signals from moving targets.
+CW radar is ideal for determining the radial component of a target's velocity.
+The modern uses of radar are highly diverse, including air and terrestrial traffic control, radar astronomy, air-defence systems, antimissile systems, marine radars to locate landmarks and other ships, aircraft anticollision systems, ocean surveillance systems, outer space surveillance and rendezvous systems, meteorological precipitation monitoring, altimetry and flight control systems, guided missile target locating systems, ground-penetrating radar for geological observations, and range-controlled radar for public health surveillance.
+Phased array antenna can be built to conform to specific shapes, like missiles, infantry support vehicles, ships, and aircraft.
+The maximum range of a conventional radar can be limited by a number of factors:
+In aviation, aircraft are equipped with radar devices that warn of aircraft or other obstacles in or approaching their path, display weather information, and give accurate altitude readings.
+More than 230 Gneiss-2 stations were produced by the end of 1944.
+This requires a coherent transmitter.
+Another form of distance measuring radar is based on frequency modulation.
+During the 1920s the UK research establishment made many advances using radio techniques, including the probing of the ionosphere and the detection of lightning at long distances.
+The distance is one-half the product of the round trip time (because the signal has to travel to the target and then back to the receiver) and the speed of the signal.
+Police forces use radar guns to monitor vehicle speeds on the roads.
+It operated on a 50&nbsp;cm wavelength and the pulsed radar signal was created via a spark-gap.
+Clutter refers to radio frequency (RF) echoes returned from targets which are uninteresting to the radar operators.
+This clutter type is especially bothersome since it appears to move and behave like other normal (point) targets of interest.
+Only the radial component of the velocity is relevant.
+The signal can also be split among multiple filters for pulse-Doppler signal processing, which reduces the noise floor by the number of filters.
+The information provided by radar includes the bearing and range (and therefore position) of the object from the radar scanner.
+The first use of radar was for military purposes: to locate air, ground and sea targets.
+Radar relies on its own transmissions rather than light from the Sun or the Moon, or from electromagnetic waves emitted by the objects themselves, such as infrared wavelengths (heat).
+In newer air traffic control radar equipment, algorithms are used to identify the false targets by comparing the current pulse returns to those adjacent, as well as calculating return improbabilities.

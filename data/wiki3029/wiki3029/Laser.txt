@@ -1,0 +1,200 @@
+Further use of the words ''laser'' and ''maser'' in an extended sense, not referring to laser technology or devices, can be seen in usages such as ''astrophysical maser'' and ''atom laser''.
+That provoked a twenty-eight-year lawsuit, featuring scientific prestige and money as the stakes.
+* Military: Marking targets, guiding munitions, missile defense, electro-optical countermeasures (EOCM), alternative to radar, blinding troops.
+The gain medium absorbs pump energy, which raises some electrons into higher-energy ("excited") quantum states.
+Excimer lasers are a special sort of gas laser powered by an electric discharge in which the lasing medium is an excimer, or more precisely an exciplex in existing designs.
+A laser that produces light by itself is technically an optical oscillator rather than an optical amplifier as suggested by the acronym.
+In addition, the fiber's waveguiding properties tend to reduce thermal distortion of the beam.
+Meanwhile, in the Soviet Union, Nikolay Basov and Aleksandr Prokhorov were independently working on the quantum oscillator and solved the problem of continuous-output systems by using more than two energy levels.
+Today, it is accepted that even low-power lasers with only a few milliwatts of output power can be hazardous to human eyesight when the beam hits the eye directly or after reflection from a shiny surface.
+Many industrial and scientific lasers are in this class.
+Thus, the rate of transitions between two stationary states is enhanced beyond that due to spontaneous emission.
+However, all such devices are classified as "lasers" based on their method of producing light, i.e., stimulated emission.
+VECSELs are external-cavity VCSELs.
+This effect is called photodarkening.
+In 1955, Prokhorov and Basov suggested optical pumping of a multi-level system as a method for obtaining the population inversion, later a main method of laser pumping.
+Laser weapons capable of directly damaging or destroying a target in combat are still in the experimental stage.
+These lasers, such as the excimer laser and the copper vapor laser, can never be operated in CW mode.
+A transition from the higher to a lower energy state, however, produces an additional photon; this is the process of '''stimulated emission'''.
+Ultimately, the project was deemed to be infeasible, and was cancelled in December 2011, with the Boeing YAL-1 prototype being stored and eventually dismantled.
+Lasers used by hobbyists are generally of class IIIa or IIIb (see Safety), although some have made their own class IV types.
+Guiding of light allows extremely long gain regions providing good cooling conditions; fibers have high surface area to volume ratio which allows efficient cooling.
+Such devices would be one-shot weapons.
+Due to the Fourier limit (also known as energy-time uncertainty), a pulse of such short temporal length has a spectrum spread over a considerable bandwidth.
+Most laser diodes used in communication systems fall in that category.
+Staring into such a beam for several seconds is likely to cause damage to a spot on the retina.
+*Class 3R (formerly IIIa) lasers are usually up to 5&nbsp;mW and involve a small risk of eye damage within the time of the blink reflex.
+Although these tunable lasers are mainly known in their liquid form, researchers have also demonstrated narrow-linewidth tunable emission in dispersive oscillator configurations incorporating solid-state dye gain media.
+On the other hand, the light from a semiconductor laser typically exits the tiny crystal with a large divergence: up to 50°.
+This is a quantum phenomenon discovered by Einstein who derived the relationship between the A coefficient describing spontaneous emission and the B coefficient which applies to absorption and stimulated emission.
+These lasers are also commonly frequency doubled, tripled or quadrupled to produce 532&nbsp;nm (green, visible), 355&nbsp;nm and 266&nbsp;nm (UV) beams, respectively.
+*Class 1 is inherently safe, usually because the light is contained in an enclosure, for example in CD players.
+In conjunction, several advantages were expected from two-stage pumping of a three-level system.
+The Ho-YAG is usually operated in a pulsed mode, and passed through optical fiber surgical devices to resurface joints, remove rot from teeth, vaporize cancers, and pulverize kidney and gall stones.
+Due to the cost of lasers, some hobbyists use inexpensive means to obtain lasers, such as salvaging laser diodes from broken DVD players (red), Blu-ray players (violet), or even higher power laser diodes from CD or DVD burners.
+Simultaneously, at Columbia University, graduate student Gordon Gould was working on a doctoral thesis about the energy levels of excited thallium.
+Hobbyists also have been taking surplus pulsed lasers from retired military applications and modifying them for pulsed holography.
+Titanium-doped sapphire (Ti:sapphire) produces a highly tunable infrared laser, commonly used for spectroscopy.
+*Class 3B can cause immediate eye damage upon exposure.
+Thermal limitations in solid-state lasers arise from unconverted pump power that heats the medium.
+VCSEL devices typically have a more circular output beam than conventional laser diodes.
+The U.S. Patent Office denied his application, and awarded a patent to Bell Labs, in 1960.
+Furthermore, nonlinearity of the oscillating cloud would produce both spatial and temporal harmonics, so nuclear transitions of higher multipolarity could also be driven at multiples of the laser frequency.
+Such a laser is known as ''continuous wave'' (''CW'').
+Lasing without maintaining the medium excited into a population inversion  was discovered in 1992 in sodium gas and again in 1995 in rubidium gas by various international teams.
+A mode-locked laser is capable of emitting extremely short pulses on the order of tens of picoseconds down to less than 10 femtoseconds.
+The molecular fluorine laser,  emitting at 157&nbsp;nm in the vacuum ultraviolet is sometimes referred to as an excimer laser, however this appears to be a misnomer inasmuch as F2 is a stable compound.
+The wide gain spectrum of available dyes, or mixtures of dyes, allows these lasers to be highly tunable, or to produce very short-duration pulses (on the order of a few femtoseconds).
+(However the term is not applied to mode-locked lasers, where the ''intention'' is to create very short pulses at the rate of the round-trip time).
+However, compared to other hobbyists, laser hobbyists are far less common, due to the cost and potential dangers involved.
+The phase associated with the photon that is emitted is random.
+Space-based X-ray lasers pumped by a nuclear explosion have also been proposed as antimissile weapons.
+Depending on the optical design one or more of these transitions can be lasing simultaneously; the most commonly used lines are 458&nbsp;nm, 488&nbsp;nm and 514.5&nbsp;nm.
+Commercial laser diodes emit at wavelengths from 375&nbsp;nm to 3500&nbsp;nm.
+*Class 4 lasers can burn skin, and in some cases, even scattered light can cause eye and/or skin damage.
+In March 2009, Northrop Grumman claimed that its engineers in Redondo Beach had successfully built and tested an electrically powered solid state laser capable of producing a 100-kilowatt beam, powerful enough to destroy an airplane.
+In some other lasers it would require pumping the laser at a very high continuous power level which would be impractical or destroy the laser by producing excessive heat.
+When an electron absorbs energy either from light (photons) or heat (phonons), it receives that incident quantum of energy.
+Particles can interact with light by either absorbing or emitting photons.
+:''For a more complete list of laser types see this list of laser types.''
+These gain media could release stimulated emissions between an excited state and a lower excited state, not the ground state, facilitating the maintenance of a population inversion.
+Pulsed pumping is also required for three-level lasers in which the lower energy level rapidly becomes highly populated preventing further lasing until those atoms relax to the ground state.
+It has been shown that unstable laser resonators (not used in most lasers) produce fractal shaped beams.
+While FEL beams share the same optical traits as other lasers, such as coherent radiation, FEL operation is quite different.
+A laser consists of a gain medium, a mechanism to energize it, and something to provide optical feedback.
+In 1950, Alfred Kastler (Nobel Prize for Physics 1966) proposed the method of optical pumping, experimentally confirmed, two years later, by Brossel, Kastler, and Winter.
+The gain medium of a laser is normally a material of controlled purity, size, concentration, and shape, which amplifies the beam by the process of stimulated emission described above.
+As the electron in the atom makes a transition between two stationary states (neither of which shows a dipole field), it enters a transition state which does have a dipole field, and which acts like a small electric dipole, and this dipole oscillates at a characteristic frequency.
+Temporal coherence can be used to produce pulses of light as short as a femtosecond.
+When such an electron decays without external influence, emitting a photon, that is called "spontaneous emission".
+When the modulation rate is on time scales much slower than the cavity lifetime and the time period over which energy can be stored in the lasing medium or pumping mechanism, then it is still classified as a "modulated" or "pulsed" continuous wave laser.
+This drastically reduces the population of the lower energy state thus greatly facilitating a population inversion.
+In the case of extremely short pulses, that implies lasing over a considerable bandwidth, quite contrary to the very narrow bandwidths typical of CW lasers.
+When lasers were invented in 1960, they were called "a solution looking for a problem".
+In their most prevalent form these solid state dye lasers use dye-doped polymers as laser media.
+High-speed CD-RW burner
+DVD 24× dual-layer recording.
+* Laser lighting displays: Laser light shows.
+Neodymium is a common dopant in various solid-state laser crystals, including yttrium orthovanadate (Nd:YVO4), yttrium lithium fluoride (Nd:YLF) and yttrium aluminium garnet (Nd:YAG).
+Light bounces back and forth between the mirrors, passing through the gain medium and being amplified each time.
+However, quantum mechanical effects force electrons to take on discrete positions in orbitals.
+In the latter case, the photon is emitted in the same direction as the light that is passing by.
+* Cosmetic skin treatments: acne treatment, cellulite and striae reduction, and hair removal.
+The pursuit of a high-quantum-energy laser using transitions between isomeric states of an atomic nucleus has been the subject of wide-ranging academic research since the early 1970s.
+In analogy to electronic oscillators, this device is sometimes called a ''laser oscillator''.
+The extreme handicap that laser-induced blindness represents makes the use of lasers even as non-lethal weapons morally controversial, and weapons designed to cause blindness have been banned by the Protocol on Blinding Laser Weapons.
+These are called hybrid silicon laser.
+Laser diodes are also frequently used to optically pump other lasers with high efficiency.
+He continued developing the idea, and filed a patent application in April 1959.
+The beam of a single transverse mode (gaussian beam) laser eventually diverges at an angle which varies inversely with the beam diameter, as required by diffraction theory.
+Lasers that produce pulses can also be characterized based on the ''peak'' power of each pulse.
+Recent technology has allowed prototypes for laser communications and visible light communication in outer space.
+Again, because of the extremely short pulse duration, such a laser will produce pulses which achieve an extremely high peak power.
+Pulsed operation of lasers refers to any laser not classified as continuous wave, so that the optical power appears in pulses of some duration at some repetition rate.
+In 1928, Rudolf W. Ladenburg confirmed the existence of the phenomena of stimulated emission and negative absorption.
+Semiconductor lasers (laser diodes) are typically ''not'' referred to as solid-state lasers.
+Different applications need lasers with different output powers.
+Commonly used excimer molecules include ArF (emission at 193&nbsp;nm), KrCl (222&nbsp;nm), KrF (248&nbsp;nm), XeCl (308&nbsp;nm), and XeF (351&nbsp;nm).
+Gould's linguistic intention was using the "-aser" word particle as a suffix – to accurately denote the spectrum of the light emitted by the LASER device; thus x-rays: ''xaser'', ultraviolet: ''uvaser'', et cetera; none established itself as a discrete term, although "raser" was briefly popular for denoting radio-frequency-emitting devices.
+Among their many applications, lasers are used in optical disk drives, laser printers, and barcode scanners; DNA sequencing instruments, fiber-optic and free-space optical communication; laser surgery and skin treatments; cutting and welding materials; military and law enforcement devices for marking targets and measuring range and speed; and laser lighting displays in entertainment.
+Lasers that produce a continuous beam or a series of short pulses can be compared on the basis of their average power.
+According to Brian Strickland, manager for the United States Army's Joint High Power Solid State Laser program, an electrically powered laser is capable of being mounted in an aircraft, ship, or other vehicle because it requires much less space for its supporting equipment than a chemical laser.
+Such mode-locked lasers are a most versatile tool for researching processes occurring on extremely short time scales (known as femtosecond physics, femtosecond chemistry and ultrafast science), for maximizing the effect of nonlinearity in optical materials (e.g.
+This type of fiber consists of a fiber core, an inner cladding and an outer cladding.
+This encompasses a wide range of technologies addressing a number of different motivations.
+Output of the majority of commercially available solid-state lasers used for micro machining
+At a conference in 1959, Gordon Gould published the term LASER in the paper ''The LASER, Light Amplification by Stimulated Emission of Radiation''.
+Such a transition to the higher state is called absorption, and it destroys an incident photon (the photon's energy goes into powering the increased energy of the higher state).
+The communication range of free-space optical communication is currently of the order of several thousand kilometers, but has the potential to bridge interplanetary distances of millions of kilometers, using optical telescopes as beam expanders.
+An example of a suitable material is titanium-doped, artificially grown sapphire (Ti:sapphire) which has a very wide gain bandwidth and can thus produce pulses of only a few femtoseconds duration.
+The lasing medium in some ''dye lasers'' and ''vibronic solid-state lasers'' produces optical gain over a wide bandwidth, making a laser possible which can thus generate pulses of light as short as a few femtoseconds (10−15 s).
+The United States Navy is developing a laser weapon referred to as the Laser Weapon System or LaWS.
+Upon bathing the cell with blue light, it could be seen to emit directed and intense green laser light.
+Temporal (or longitudinal) coherence implies a polarized wave at a single frequency whose phase is correlated over a relatively great distance (the coherence length) along the beam.
+The concept originally was called an "optical maser".
+In 1917, Albert Einstein established the theoretical foundations for the laser and the maser in the paper ''Zur Quantentheorie der Strahlung'' (On the Quantum Theory of Radiation) via a re-derivation of Max Planck's law of radiation, conceptually based upon probability coefficients (Einstein coefficients) for the absorption, spontaneous emission, and stimulated emission of electromagnetic radiation.
+For example, the first working laser was a ruby laser, made from ruby (chromium-doped corundum).
+The indicated powers are for visible-light, continuous-wave lasers.
+Theodore Maiman characterized the first laser as having a power of one "Gillette" as it could burn through one Gillette razor blade.
+Later that year, the Iranian physicist Ali Javan, and William R. Bennett, and Donald Herriott, constructed the first gas laser, using helium and neon that was capable of continuous operation in the infrared (U.S. Patent 3,149,290); later, Javan received the Albert Einstein Award in 1993.
+Depending on the design of the cavity (whether the mirrors are flat or curved), the light coming out of the laser may spread out or form a narrow beam.
+The peak power of a pulsed laser is many orders of magnitude greater than its average power.
+Thin disk lasers have been shown to produce beams of up to one kilowatt.
+Hence, the light is amplified.
+Gould won his first minor patent in 1977, yet it was not until 1987 that he won the first significant patent lawsuit victory, when a Federal judge ordered the U.S. Patent Office to issue patents to Gould for the optically pumped and the gas discharge laser devices.
+Free-electron lasers, or FELs, generate coherent, high power radiation that is widely tunable, currently ranging in wavelength from microwaves through terahertz radiation and infrared to the visible spectrum, to soft X-rays.
+Holmium-doped YAG crystals emit at 2097&nbsp;nm and form an efficient laser operating at infrared wavelengths strongly absorbed by water-bearing tissues.
+* Medicine: Bloodless surgery, laser healing, surgical treatment, kidney stone treatment, eye treatment, dentistry.
+If the applied pump power is too small, the gain will never be sufficient to overcome the resonator losses, and laser light will not be produced.
+Quantum cascade lasers are semiconductor lasers that have an active transition between energy ''sub-bands'' of an electron in a structure containing several quantum wells.
+In a few situations it is possible to obtain lasing with only a single pass of EM radiation through the gain medium, and this produces a laser beam without any need for a resonant or reflective cavity (see for example nitrogen laser).
+Typical sealed CO2 lasers used in industrial laser cutting
+Lasers are characterized according to their wavelength in a vacuum.
+Silicon is the material of choice for integrated circuits, and so electronic and silicon photonic components (such as optical interconnects) could be fabricated on the same chip.
+A laser differs from other sources of light in that it emits light ''coherently''.
+Low to medium power laser diodes are used in laser pointers, laser printers and CD/DVD players.
+The optical resonator is sometimes referred to as an "optical cavity", but this is a misnomer: lasers use open resonators as opposed to the literal cavity that would be employed at microwave frequencies in a maser.
+Reflection from the ends of the crystal form an optical resonator, although the resonator can be external to the semiconductor in some designs.
+An electron in an excited state may decay to a lower energy state which is not occupied, according to a particular time constant characterizing that transition.
+The general idea of laser-beam weaponry is to hit a target with a train of brief pulses of light.
+That is possible due to the light being of a single spatial mode.
+Lasers are distinguished from other light sources by their coherence.
+This research has been international in scope, but mainly based in the former Soviet Union and the United States.
+Townes's maser was incapable of continuous output.
+The energy is typically supplied as an electric current or as light at a different wavelength.
+DVD player or DVD-ROM drive
+These devices can generate high power outputs with good beam quality, wavelength-tunable narrow-linewidth radiation, or ultrashort laser pulses.
+Fiber-optic communication using lasers is a key technology in modern communications, allowing services such as the Internet.
+In 1957, Charles Hard Townes and Arthur Leonard Schawlow, then at Bell Labs, began a serious study of the infrared laser.
+Thus, the "pencil beam" directly generated by a common helium–neon laser would spread out to a size of perhaps 500 kilometers when shone on the Moon (from the distance of the earth).
+Another type is a Raman laser, which takes advantage of Raman scattering to produce a laser from materials such as silicon.
+In a continuous wave (CW) laser, the balance of pump power against gain saturation and cavity losses produces an equilibrium value of the laser power inside the cavity; this equilibrium determines the operating point of the laser.
+Emission can be spontaneous or stimulated.
+There are some lasers that are not single spatial mode and consequently have light beams that diverge more than is required by the diffraction limit.
+Solid-state lasers or laser amplifiers where the light is guided due to the total internal reflection in a single mode optical fiber are instead called fiber lasers.
+Fiber lasers have a fundamental limit in that the intensity of the light in the fiber cannot be so high that optical nonlinearities induced by the local electric field strength can become dominant and prevent laser operation and/or lead to the material destruction of the fiber.
+For pulsed lasers and invisible wavelengths, other power limits apply.
+Green laser in current Holographic Versatile Disc prototype development
+Spatial coherence is typically expressed through the output being a narrow beam, which is diffraction-limited.
+This emission is in the thermal infrared at 10.6&nbsp;µm; such lasers are regularly used in industry for cutting and welding.
+Metal ion lasers are gas lasers that generate deep ultraviolet wavelengths.
+But each stimulated emission event returns an atom from its excited state to the ground state, reducing the gain of the medium.
+Some of the early studies were directed toward short pulses of neutrons exciting the upper isomer state in a solid so the gamma-ray transition could benefit from the line-narrowing of M&ouml;ssbauer effect.
+The power needed to project a high-powered laser beam of this kind is beyond the limit of current mobile power technology, thus favoring chemically powered gas dynamic lasers.
+Gould's notes included possible applications for a laser, such as spectrometry, interferometry, radar, and nuclear fusion.
+The gain medium will amplify any photons passing through it, regardless of direction; but only the photons in a spatial mode supported by the resonator will pass more than once through the medium and receive substantial amplification.
+It was conjectured that the nucleus of an atom, embedded in the near field of a laser-driven coherently-oscillating electron cloud would experience a larger dipole field than that of the driving laser.
+Extremely high powers in ultrashort pulses can be achieved with Yb:YAG.
+Living cells have been used to produce laser light.
+This is the mechanism of fluorescence and thermal emission.
+Since then, they have become ubiquitous, finding utility in thousands of highly varied applications in every section of modern society, including consumer electronics, information technology, science, medicine, industry, law enforcement, entertainment, and the military.
+In 1947, Willis E. Lamb and R. C. Retherford found apparent stimulated emission in hydrogen spectra and effected the first demonstration of stimulated emission.
+Even the first laser was recognized as being potentially dangerous.
+In recent years, some hobbyists have taken interests in lasers.
+This material can be of any state: gas, liquid, solid, or plasma.
+CDs and the like), barcode scanners, thermometers, laser pointers, holograms, bubblegrams.
+However, due to diffraction, that can only remain true well within the Rayleigh range.
+All these lasers can produce high powers in the infrared spectrum at 1064&nbsp;nm.
+Much of this is summarized in three review articles.
+In response to the external electric field at this frequency, the probability of the atom entering this transition state is greatly increased.
+Ytterbium is used in crystals such as Yb:YAG, Yb:KGW, Yb:KYW, Yb:SYS, Yb:BOYS, Yb:CaF2, typically operating around 1020–1050&nbsp;nm.
+The way to overcome this problem was to charge up large capacitors which are then switched to discharge through flashlamps, producing an intense flash.
+In other cases the application requires the production of pulses having as large an energy as possible.
+As ideas developed, they abandoned infrared radiation to instead concentrate upon visible light.
+This first semiconductor laser could only be used in pulsed-beam operation, and when cooled to liquid nitrogen temperatures (77&nbsp;K).
+Examples of pulsed systems with high peak power:
+Thus such a gain medium must have a gain bandwidth sufficiently broad to amplify those frequencies.
+When an electron is excited from a lower to a higher energy level, it will not stay that way forever.
+Solid-state lasers use a crystalline or glass rod which is "doped" with ions that provide the required energy states.
+The degree, character, and duration of vision impairment caused by eye exposure to laser light varies with the power of the laser, the wavelength(s), the collimation of the beam, the exact orientation of the beam, and the duration of exposure.
+In September 2007, the BBC News reported that there was speculation about the possibility of using positronium annihilation to drive a very powerful gamma ray laser.
+When the number of particles in one excited state exceeds the number of particles in some lower-energy state, population inversion is achieved and the amount of stimulated emission due to light that passes through is larger than the amount of absorption.
+This leads to emission lines and absorption lines.
+In laser ablation, for example, a small volume of material at the surface of a work piece can be evaporated if it is heated in a very short time, while supplying the energy gradually would allow for the heat to be absorbed into the bulk of the piece, never attaining a sufficiently high temperature at a particular point.
+Semiconductor lasers are diodes which are electrically pumped.
+Most "single wavelength" lasers actually produce radiation in several ''modes'' having slightly differing frequencies (wavelengths), often not in a single polarization.
+The back-formed verb ''to lase'' is frequently used in the field, meaning "to produce laser light," especially in reference to the gain medium of a laser; when a laser is operating it is said to be "lasing."
+If the gain (amplification) in the medium is larger than the resonator losses, then the power of the recirculating light can rise exponentially.
+Basov and Javan proposed the semiconductor laser diode concept.
+The index of the three concentric layers is chosen so that the fiber core acts as a single-mode fiber for the laser emission while the outer cladding acts as a highly multimode core for the pump laser.
+The cells were then placed between two tiny mirrors, just 20 millionths of a meter across, which acted as the "laser cavity" in which light could bounce many times through the cell.

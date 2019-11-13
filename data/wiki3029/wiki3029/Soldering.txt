@@ -1,0 +1,200 @@
+Copper, silver, and gold are easy.
+Aluminium soldering alloys generally have melting temperatures around .
+Plastic or metal mounting clips or holders may be used with large devices to aid heat dissipation and reduce joint stresses.
+It has a characteristically dull or grainy appearance immediately after the joint is made, rather than being smooth, bright and shiny.
+A temperature of 450&nbsp;°C is usually used as a practical delineating point between soldering and brazing .
+Of the three methods of connecting copper tubing, solder connections require the most skill, but soldering copper is a very reliable process, provided some basic conditions are provided:
+For soldering 44-pin chip carriers to a board using soldering preforms, power levels were on the order of 10 Watts and solder times approximately 1 second.
+Tin finishes are the most popular of lead-free finishes.
+Fluxes for soft solder are currently available in three basic formulations:
+A eutectic formulation has advantages when applied to soldering: the liquidus and solidus temperatures are the same, so there is no plastic phase, and it has the lowest possible melting point.
+Capillary action also takes place when the workpieces are very close together or touching.
+It is also unsuitable for high-temperature applications as it softens and melts.
+In this soldering process, heat is applied to the parts to be joined, causing the solder to melt and to bond to the workpieces in an alloying process called wetting.
+Many fluxes also act as a wetting agent in the soldering process, reducing the surface tension of the molten solder and causing it to flow and wet the workpieces more easily.
+Brazing provides the strongest joint but also requires the hottest temperatures to melt the filler metal, requiring a torch or other high temperature source and darkened goggles to protect the eyes from the bright light produced by the white-hot work.
+Other common solders include low-temperature formulations (often containing bismuth), which are often used to join previously-soldered assemblies without un-soldering earlier connections, and high-temperature formulations (usually containing silver) which are used for high-temperature operation or for first assembly of items which must not become unsoldered during subsequent operations.
+Common multipurpose propane torches, the same kind used for heat-stripping paint and thawing pipes, can be used for soldering pipes and other fairly large objects either with or without a soldering tip attachment; pipes are generally soldered with a torch by directly applying the open flame.
+(Note the heat sink will mean the use of more heat to complete the joint.)
+* 60/40: melts between
+Bristle brushes are usually used to apply plumbing paste flux.
+For PCB assembly and rework, either an alcohol or acetone is commonly used with cotton swabs or bristle brushes to remove flux residue after soldering.
+A wire feeder is used to supply solder.
+In Japan lead was phased out prior to legislation by manufacturers due to the additional expense in recycling products containing lead.
+Not being bright and shiny suggests a weak 'dry' joint.
+This induces currents in the part being soldered, which generates heat because of the higher resistance of a joint versus its surrounding metal (resistive heating).
+If the heat of the flame is not directed at the back of the fitting cup, and the solder wire applied degrees opposite the flame, then solder will quickly fill the opening of the fitting, trapping some flux inside the joint.
+Because of the size of the parts involved, and the high activity and contaminating tendency of the flame, plumbing fluxes are typically much more chemically active, and more acidic, than electronic fluxes.
+Nevertheless, this brings up the issue of how to deal with tin whiskers.
+Since the joint is produced using a metal with a lower melting temperature than the workpiece, the joint will weaken as the ambient temperature approaches the melting point of the filler metal.
+This solder is shaken into waves so the whole PCB is not submerged in solder, but rather touched by these waves.
+Soldering differs from welding in that soldering does not involve melting the work pieces.
+Lead-free construction has also extended to components, pins, and connectors.
+More recently, electrically heated soldering irons are used.
+The heating element is heated and cooled for each connection.
+These are heated by a coil or ceramic heating element inside the tip of the iron.
+Building codes currently almost universally require the use of lead-free solder for potable water piping, though traditional tin-lead solder is still available.
+Soldering operations can be performed with hand tools, one joint at a time, or ''en masse'' on a production line.
+Since copper pipe quickly conducts heat away from a joint, great care must be taken to ensure that the joint is properly heated through to obtain a good bond.
+Electrical resistance (usually described as a material's opposition to the flow of an electric current) is used to convert electric energy into thermal energy as an electric current (I) conducted through a material with resistance (R) releases power (P) equal to: P = I² R, where P is the power measured in watts, I is the current measured in amps and R is the resistance measured in ohms.
+Titanium, magnesium, cast irons, some high-carbon steels, ceramics, and graphite can be soldered but it involves a process similar to joining carbides: they are first plated with a suitable metallic element that induces interfacial bonding.
+These fluxes are called "no-clean" because the residue left after the solder operation is non-conductive and won't cause electrical shorts; nevertheless they leave a plainly visible white residue that resembles diluted bird-droppings.
+For environmental reasons (and the introduction of regulations such as the European RoHS (Restriction of Hazardous Substances Directive)), lead-free solders are becoming more widely used.
+Other alloys are used for plumbing, mechanical assembly, and other applications.
+This method makes it possible to create three-dimensional stained glass pieces.
+This will leave a bright, shiny, clean junction to be resoldered.
+The term ''silver solder'' likewise denotes the type of solder that is used.
+A number of products meet this specification.
+Since different components can be best assembled by different techniques, it is common to use two or more processes for a given PCB.
+However, it is possible to use an electrical tool to solder joints in copper pipe sized from 8mm to 22mm.
+Hand-soldering tools widely used for electronics work include the electric soldering iron, which can be fitted with a variety of tips ranging from blunt to very fine, to chisel heads for hot-cutting plastics rather than soldering.
+Iron, mild steel and nickel are next in difficulty.
+Oleic acid is the classic flux material that has been used to improve solderability.
+In electronic hand soldering the flux is embedded in the solder.
+Extra-easy solder contains 56% silver and has a melting point of .
+Soft solder is so called because of the soft lead that is its primary ingredient.
+If multiple joints are needed, then the jeweler will start with hard or extra-hard solder and switch to lower-temperature solders for later joints.
+In the hands of a skilled tradesman, the hotter flame of acetylene, MAPP, or propylene allows more joints to be completed per hour.
+The most common defect when hand-soldering results from the parts being joined not exceeding the solder's liquidus temperature, resulting in a "cold solder" joint.
+The residue resulting from the use of RA flux is corrosive and must be cleaned.
+It was ideal in that it was non-corrosive and non-conductive at normal temperatures but became mildly reactive (corrosive) at the elevated soldering temperatures.
+This is usually the result of the soldering iron being used to heat the solder directly, rather than the parts themselves.
+The beam is delivered via an optical fiber to the workpiece, with fiber diameters 800&nbsp;µm and smaller.
+Depending on the nature of flux material used, cleaning of the joints may be required after they have cooled.
+The impurities can be removed by mechanical cleaning or by chemical means, but the elevated temperatures required to melt the filler metal (the solder) encourages the work piece (and the solder) to re-oxidize.
+The distinction between soldering and brazing is based on the melting temperature of the filler alloy.
+There is evidence that soldering was employed as early as 5000 years ago in Mesopotamia.
+To simplify soldering, beginners are usually advised to apply the soldering iron and the solder separately to the joint, rather than the solder being applied direct to the iron.
+Components which dissipate large amounts of heat during operation are sometimes elevated above the PCB to avoid PCB overheating.
+This is usually a result of improper placement of the flame.
+If all metal surfaces are not properly fluxed and brought above the melting temperature of the solder in use, the result will be an unreliable "cold solder joint".
+For attachment of electronic components to a PCB, proper selection and use of flux helps prevent oxidation during soldering, which is essential for good wetting and heat transfer.
+If not properly cleaned, a flux may corrode the joint and cause eventual joint failure.
+The joint's tensile strength is dependent on the filler metal used.
+However, technicians trying to apply this guideline when using lead-free solder formulations may experience frustration, because these types of solders readily cool to a dull surface even if the joint is good.
+If the tube begins to discolor it means that the tube has been over-heated and is beginning to oxidize, stopping the flow of the solder and causing the soldered joint not to seal properly.
+Alloying silver with other metals changes the melting point, adhesion and wetting characteristics, and tensile strength.
+A non-eutectic formulation must remain still as the temperature drops through the liquidus and solidus temperatures.
+Up to 4000 W can be used in the heating element allowing fast soldering, good results with connections requiring high energy.
+This soldering / brazing operation can use a propane torch heat source.
+In the past, nearly all solders contained lead, but environmental and health concerns have increasingly dictated use of lead-free alloys for electronics and plumbing purposes.
+Desoldering wicks contain plenty of flux that will lift the contamination from the copper trace and any device leads that are present.
+For electronic work, flux-core solder is generally used, but additional flux may be used from a flux pen or dispensed from a small bottle with a syringe-like needle.
+These fluxes cannot be used in electronics because they are conductive and because they will eventually dissolve the small diameter wires.
+A heat sink may be used on the leads of heat sensitive components to reduce heat transfer to the component.
+* The tubing and fittings must be cleaned to bare metal with no tarnish
+* The joint must be dry (which can be challenging when repairing water pipes)
+Hot-air guns and pencils allow rework of component packages which cannot easily be performed with electric irons and guns.
+This removes excess solder as well as flux residue before it cools down and hardens.
+These materials are often advertised as "aluminium welding", but the process does not involve melting the base metal, and therefore is not properly a weld.
+However, even without the presence of lead, soldering can release fumes that are harmful and/or toxic to humans.
+Each alloy has characteristics that work best for certain applications, notably strength and conductivity, and each type of solder and alloy has different melting temperatures.
+Excess solder and unconsumed flux and residue is sometimes wiped from the soldering iron tip between joints.
+Any movement during the plastic phase may result in cracks, resulting in an unreliable joint.
+Silver solder is absorbed by the surrounding metal, resulting in a joint that is actually stronger than the metal being joined.
+Since the beam out of the end of the fiber diverges rapidly, lenses are used to create a suitable spot size on the workpiece at a suitable working distance.
+This eliminates hazardous solvents from the production environment, and from factory effluents.
+Soldering produces electrically-conductive, water- and gas-tight joints.
+In some applications, the PCB might also be coated in some form of protective material such as a lacquer to protect it and exposed solder joints from the environment.
+Silver soldering, as used by jewelers, machinists and in some plumbing applications, requires the use of a torch or other high-temperature source, and is much stronger than soft soldering.
+For that reason, the higher temperature processes produce joints which are effective at higher temperatures.
+Soldering is also used to join lead came and copper foil in stained glass work.
+This tinned layer will allow solder to flow into a new joint, resulting in a new joint, as well as making the new solder flow very quickly and easily.
+When the joint is properly wetted out, the solder and then the heat are removed, and while the joint is still very hot, it is usually wiped with a dry rag.
+Unfortunately, most lead-free solders are not eutectic formulations, melting at around , making it more difficult to create reliable joints with them.
+* 63/37: melts at  (eutectic: the only mixture that melts at a ''point'', instead of over a range)
+# No-clean fluxes -  mild enough to not "require" removal due to their non-conductive and non-corrosive residue.
+The solder looks shiny while molten, and suddenly hazes over as it solidifies even though it has not been disturbed during cooling.
+Different power ratings are available, and temperature can be controlled electronically.
+With a solder ring joint, the joint is heated until a ring of molten solder is visible around the edge of the fitting and allowed to cool.
+When the required temperature can be achieved by either flame or resistance methods the resistance heat is more localized because of direct contact, whereas the flame will spread thus heating a potentially larger area.
+Resistance soldering equipment, unlike conduction irons, can be used for difficult soldering and brazing applications where significantly higher temperatures may be required.
+After the joint is properly cleaned, fluxed and fitted, the torch flame is applied to the thickest part of the joint, typically the fitting with the pipe inside it, with the solder applied at the gap between the tube and the fitting.
+They are also suggested anywhere young children may come into contact with (since young children are likely to place things into their mouths), or for outdoor use where rain and other precipitation may wash the lead into the groundwater.
+The fraction represent percentage of tin first, then lead, totaling 100%:
+No-clean flux residue is acceptable on all 3 classes of PCBs as defined by IPC-610 provided it does not inhibit visual inspection, access to test points, or have a wet, tacky or excessive residue that may spread onto other areas.
+A "dry joint" occurs when the cooling solder is moved, and often occurs because the joint moves when the soldering iron is removed from the joint.
+With some fluxes, flux residue remaining on the joint may need to be removed, using water, alcohol or other solvents compatible with the parts in question.
+Jewelry components, machine tools and some refrigeration and plumbing components are often assembled and repaired by the higher temperature silver soldering process.
+Of all the brazing alloys, silver solders have the greatest strength and the broadest applications.
+RMA flux is formulated to result in a residue which is not significantly corrosive, with cleaning being preferred but optional.
+'''Resistance soldering''' is soldering in which the heat required to flow the solder is created by passing an electric current through the solder.
+A matte gray surface is a good indicator of a joint that was moved during soldering.
+The head provides a large thermal mass to store enough heat for soldering large areas before needing re-heating in the fire; the larger the head, the longer the working time.
+The tip of the iron is kept wetted with solder ("tinned") when hot to assist soldering, and when hot and cold to minimize oxidation and corrosion of the tip itself.
+Internal and external wire brushes are available for the common pipe and fitting sizes; emery cloth and wire-wool are frequently used as well, although metal wool products are discouraged, as they can contain oil, which would contaminate the joint.
+Resistance soldering is unlike using a conduction iron, where heat is produced within an element and then passed through a thermally conductive tip into the joint area.
+Hand-soldering techniques require a great deal of skill to use on what is known as fine-pitch soldering of chip packages.
+This makes resistance comparable to flame soldering in some situations.
+Soft soldering uses the lowest temperatures but does not make a strong joint and is unsuitable for mechanical load-bearing applications.
+These characteristics allow longer beads to be run without interrupting the work to change tips.
+Some fluxes go beyond the simple prevention of oxidation and also provide some form of chemical cleaning (corrosion).
+Other solder defects can be detected visually as well.
+United States Military Standard or MIL-SPEC specification MIL-R-4208 defines one standard for these zinc-based brazing/soldering alloys.
+When the surfaces are adequately heated, the solder will flow around the joint.
+Copper tubing conducts heat away much faster than a conventional hand-held soldering iron or gun can provide, so a propane torch is most commonly used to deliver the necessary power; for large tubing sizes and fittings a MAPP-fueled, acetylene-fueled, or propylene-fueled torch is used with atmospheric air as the oxidizer; MAPP/oxygen or acetylene/oxygen are rarely used because the flame temperature is much higher than the melting point of copper.
+Copper is only one material that is joined in this manner.
+Movement of metals being soldered before the solder has cooled will cause a highly unreliable cracked joint.
+Too much heat destroys the temper of hard-tempered copper tubing, and can burn the flux out of a joint before the solder is added, resulting in a faulty joint.
+RA and RMA fluxes contain rosin combined with an activating agent, typically an acid, which increases the wettability of metals to which it is applied by removing existing oxides.
+Too little solder will result in a dry and unreliable joint; too much solder (the familiar 'solder blob' to beginners) is not necessarily unsound, but tends to mean poor wetting.
+A joint may be good, but if a large amount of unnecessary solder is used then more heating is obviously required.
+A flux, often made of boric acid and denatured alcohol, is used to keep the metal and solder clean and to prevent the solder from moving before it melts.
+With silver soldering, small pieces of solder wire are placed onto the metal prior to heating.
+The simplest irons do not have temperature regulation; small irons rapidly cool when used to solder to, say, a metal chassis, while large irons have tips too cumbersome for working on PCBs and similar fine work.
+Fluxes are commonly used in induction soldering.
+Both lead-tin and silver-tin material can be soldered.
+For satellites, this will also reduce weight, slightly but usefully.
+Some soft solders are "silver-bearing" alloys used to solder silver-plated items.
+One of the obstacles to a successful solder joint is an impurity at the site of the joint, for example, dirt, oil or oxidation.
+Flux performance needs to be carefully evaluated; a very mild 'no-clean' flux might be perfectly acceptable for production equipment, but not give adequate performance for a poorly controlled hand-soldering operation.
+Suzanne Jenniches patented laser soldering in 1980.
+Toaster ovens and hand held infrared lights have been used by hobbyists to replicate production soldering processes on a much smaller scale.
+Properly done, the iron heats the parts to be connected, which in turn melt the solder, guaranteeing adequate heat in the joined parts for thorough wetting.
+Flux residues should be removed after the joint is complete or they can, eventually, erode through the copper substrates and cause failure of the joint.
+Because plumbing joints may be done at any angle, even upside down, plumbing fluxes are generally formulated as pastes which stay in place better than liquids.
+Soldering torches are often powered by butane and are available in sizes ranging from very small butane/oxygen units suitable for very fine but high-temperature jewelry work, to full-size oxy-fuel torches suitable for much larger work such as copper piping.
+Some fluxes for electronics are designed to be stable and inactive when cool and do not need to be cleaned off, though they still can be if desired, while other fluxes are acidic and must be removed after soldering to prevent corrosion of the circuits.
+One of the earliest forms of flux was charcoal, which acts as a reducing agent and helps prevent oxidation during the soldering process.
+A dry joint is weak mechanically and a poor conductor electrically.
+When silver solder melts, it tends to flow towards the area of greatest heat.
+Low power levels can lead to incomplete wetting and the formation of voids, both of which can weaken the joint.
+The solderability of a substrate is a measure of the ease with which a soldered joint can be made to that material.
+The soldering gun heats faster but has a larger and heavier body.
+Solder fittings, also known as ''capillary fittings'', are short sections of smooth pipe designed to slide over the outside of the mating tube, are usually used for copper joints.
+This technique is particularly suited to continuously soldering, in which case these coils wrap around a cylinder or a pipe that needs to be soldered.
+For non-electronic applications soldering torches use a flame rather than a soldering tip to heat solder.
+A 100 watt soldering iron may provide too much heat for printed circuit boards, while a 25 watt iron will not provide enough heat for large electrical connectors, joining copper roof flashing, or large stained-glass lead came.
+After inserting a through-hole mounted component, the excess lead is cut off, leaving a length of about the radius of the pad.
+Soldering and brazing are thought to have originated very early in the history of metal-working, probably before 4000 BC.
+All soldered joints require the same elements of cleaning of the metal parts to be joined, fitting up the joint, heating the parts, applying flux, applying the filler, removing heat and holding the assembly still until the filler metal has completely solidified.
+Small mechanical parts are often soldered or brazed as well.
+In electronics a 'concave' fillet is ideal.
+This bubble of trapped flux is the void; an area inside a soldered joint where solder is unable to completely fill the fittings' cup, because flux has become sealed inside the joint, preventing solder from occupying that space.
+JEDEC has created a classification system to help lead-free electronic manufacturers decide what provisions to take against whiskers, depending upon their application.
+When all the parts are heated through, the solder will melt and flow into the joint by capillary action.
+The American welding society defines brazing as using filler metals with melting points over  — or, by the traditional definition in the United States, above .
+Using a tool with too high a temperature can damage sensitive components, but protracted heating by a tool that is too cool or under powered can also cause extensive heat damage.
+Jewelers can somewhat control the direction the solder moves by leading it with a torch; it will even run straight up along a seam.
+Heat is only produced while each joint is being made, making resistance soldering more energy efficient.
+Some metals are easier to solder than others.
+The current movement brings the electronics industry back to the problems solved in the 1960s by adding lead.
+Since non-eutectic solder alloys have a small plastic range, the joint must not be moved until the solder has cooled down through both the liquidus and solidus temperatures.
+A soldering copper is a tool with a large copper head and a long handle which is heated in a blacksmith's forge fire and used to apply heat to sheet metal for soldering.
+The solder is usually referred to as easy, medium, or hard.
+If the joint has lumps or balls of otherwise shiny solder the metal has not 'wetted' properly.
+Fiber focus infrared soldering is technique where many infrared sources are led through fibers, then focused onto a single spot at which the connection is soldered.
+And, having no plastic phase allows for quicker wetting as the solder heats up, and quicker setup as the solder cools.
+Wavelengths are typically 808&nbsp;nm through 980&nbsp;nm.
+In high humidity, even non-corrosive flux might remain slightly active, therefore the flux may be removed to reduce corrosion over time.
+Fingerprints in no-clean residue are a class 3 defect
+# Traditional rosin fluxes - available in non-activated (R), mildly activated (RMA) and activated (RA) formulations.
+Excessive heating of a PCB may result in 'delamination' - the copper track may actually lift off the board, particularly on single sided PCBs without through hole plating.
+Sheetmetal work was traditionally done with "soldering coppers" directly heated by a flame, with sufficient stored heat in the mass of the soldering copper to complete a joint; torches or electrically-heated soldering irons are more convenient.
+This effect is accelerated as the soldering temperatures increase and can completely prevent the solder from joining to the workpiece.
+# Water-soluble fluxes -  higher activity fluxes designed to be removed with water after soldering (no VOCs required for removal).
+* Any pressure which is formed by heating of the tubing must have an outlet
+This allows a faster ramp up to the required solder melt temperature and minimizes thermal travel away from the solder joint, which helps to minimize the potential for thermal damage to materials or components in the surrounding area.
+Brazing filler metal is stronger than silver solder, which is stronger than lead-based soft solder.
+For hand soldering, the heat source tool should be selected to provide adequate heat for the size of joint to be completed.
+Plumbing and automotive applications, among others, typically use an acid-based (hydrochloric acid) flux which provides cleaning of the joint.

@@ -1,0 +1,200 @@
+Neutrinos are particles that are produced in great quantities by a supernova explosion, and they are not significantly absorbed by the interstellar gas and dust of the galactic disk.
+These are called Type&nbsp;IIn, where the 'n' stands for 'narrow'.
+Stars with an initial mass up to about 90 times the sun, or a little less at high metallicity, are expected to result in a type II-P supernova which is the most commonly observed type.
+The initial impetus can be substantial, propelling an object of more than a solar mass at a velocity of 500&nbsp;km/s or greater.
+Type&nbsp;INo hydrogen
+Type Ib/c and II-L, and possibly most type IIn, supernovae are only thought to be produced from stars having near-solar metallicity levels that result in high mass loss from massive stars, hence they are less common in older more distant galaxies.
+Faint Ib/c, or hypernova with GRB
+Again it should be observable wherever it occurs, but it is less likely that the progenitor will ever have been observed prior to the explosion.
+Even though the initial explosion energy was entirely normal the resulting supernova will have high luminosity and extended duration since it does not rely on exponential radioactive decay.
+Recent estimates predict that a Type&nbsp;II supernova would have to be closer than eight parsecs (26&nbsp;light-years) to destroy half of the Earth's ozone layer, and there are no such candidates closer than about 500 light years.
+Electron capture by magnesium in a degenerate O/Ne/Mg core causes gravitational collapse followed by explosive oxygen fusion, with very similar results.
+The core collapse of some massive stars may not result in a visible supernova.
+They can potentially be produced by various types of core collapse in different progenitor stars, possibly even by type Ia white dwarf ignitions, although it seems that most will be from iron core collapse in luminous supergiants or hypergiants (including LBVs).
+In type Ia white dwarf detonations, most of the energy is directed into heavy element synthesis and the kinetic energy of the ejecta.
+The field of supernova discovery has extended to other galaxies, starting with SN 1885A in the Andromeda galaxy.
+Studies of cosmology today rely on 56Ni radioactivity providing the energy for the optical brightness of supernovae of Type Ia, which are the "standard candles" of cosmology but whose diagnostic 847keV and 1238keV gamma rays were first detected only in 2014.
+Type&nbsp;IbShows a non-ionized helium (He I) line at 587.6&nbsp;nm
+At this temperature, neutrino-antineutrino pairs of all flavors are efficiently formed by thermal emission.
+The jets would also transfer energy into the expanding outer shell of the explosion to produce a super-luminous supernova.
+These types would now all be treated as peculiar Type II supernovae, of which many more examples have been discovered, although it is still debated whether SN 1961V was a true supernova following an LBV outburst or an imposter.
+This cloud of material sweeps up the surrounding interstellar medium during a free expansion phase, which can last for up to two centuries.
+Toward the end of the 20th century astronomers increasingly turned to computer-controlled telescopes and CCDs for hunting supernovae.
+If core collapse occurs during a supergiant phase when the star still has a hydrogen envelope, the result is a Type&nbsp;II supernova.
+When a massive star develops an iron core larger than the Chandrasekhar mass it will no longer be able to support itself by electron degeneracy pressure and will collapse further to a neutron star or black hole.
+Approximate energy (foe)
+Pair&nbsp;instability
+Those reactions produce highly unstable nuclei that are rich in neutrons and that rapidly beta decay into more stable forms.
+In the most extreme cases, ultra-stripped supernovae can occur in naked metal cores, barely above the Chandrasekhar mass limit.
+One specific type of non-standard Type Ia supernova develops hydrogen, and other, emission lines and gives the appearance of mixture between a normal Type Ia and a Type IIn supernova.
++ Fraction of core collapse supernovae types by progenitor
+Electron capture in a degenerate O+Ne+Mg core
+Supernovae play a significant role in enriching the interstellar medium with the heavier atomic mass chemical elements.
+Furthermore, the expanding shock waves from supernova explosions can trigger the formation of new stars.
+25–40 with low or solar metallicity
+Hence, for example, ''SN&nbsp;2003C'' designates the third supernova reported in the year 2003.
+The nature of ultra-stripped supernovae can be both iron core-collapse and electron capture supernovae, depending on the mass of the collapsing core.
+Despite widespread acceptance of the basic model, the exact details of initiation and of the heavy elements produced in the explosion are still unclear.
+One possible explanation for the asymmetry in the explosion is large-scale convection above the core.
+Theoretical studies of many supernovae indicate that most are triggered by one of two basic mechanisms: the sudden re-ignition of nuclear fusion in a degenerate star or the sudden gravitational collapse of a massive star's core.
+In the first instance, a degenerate white dwarf may accumulate sufficient material from a binary companion, either through accretion or via a merger, to raise its core temperature enough to trigger runaway nuclear fusion, completely disrupting the star.
+In the second case, the core of a massive star may undergo sudden gravitational collapse, releasing gravitational potential energy as a supernova.
+The visual light curve continues to decline at a rate slightly greater than the decay rate of the radioactive cobalt (which has the longer half life and controls the later curve), because the ejected material becomes more diffuse and less able to convert the high energy radiation into visual radiation.
+Type II supernovae with normal spectra dominated by broad hydrogen lines that remain for the life of the decline are classified on the basis of their light curves.
+The word ''supernova'' was coined by Walter Baade and Fritz Zwicky in 1931.
+Some calibrations are required to compensate for the gradual change in properties or different frequencies of abnormal luminosity supernovae at high red shift, and for small variations in brightness identified by light curve shape or spectrum.
+These stars are known as Wolf-Rayet stars, and they occur at moderate to high metallicity where continuum driven winds cause sufficiently high mass loss rates.
+It is pronounced  with the plural '''''supernovae'''''  or '''''supernovas''''' (abbreviated '''''SN''''', plural '''''SNe''''' after "supernovae").
+As part of the attempt to understand supernovae, astronomers have classified them according to their light curves and the absorption lines of different chemical elements that appear in their spectra.
+At the upper end of the mass range, the supernova is unusually luminous and extremely long-lived due to many solar masses of ejected 56Ni.
+The visual light curves of the different supernova types all depend at late times on radioactive heating, but they vary in shape and amplitude on the underlying mechanisms of the explosion, the way that visible radiation is produced, the epoch of its observation, and the transparency of the ejected material.
+Their optical energy output is driven by radioactive decay of nickel-56 (half life 6 days), which then decays to radioactive cobalt-56 (half life 77 days).
+Initial asymmetries have also been confirmed in Type&nbsp;Ia supernova explosions through observation.
+The dominant mechanism by which Type Ia supernovae are produced remains unclear.
+One class that is expected to have no more than a few thousand years before exploding are the WO Wolf-Rayet stars, which are known to have exhausted their core helium.
+Several progenitors of type IIb supernovae have been confirmed, and these were K and G supergiants, plus one A supergiant.
+There are a number of difficulties reconciling modelled and observed stellar evolution leading up to core collapse supernovae.
+The Type V class was coined for SN 1961V in NGC 1058, an unusual faint supernova or supernova imposter with a slow rise to brightness, a maximum lasting many months, and an unusual emission spectrum.
+However, since the use of modern equipment, particularly in this millennium, professional and amateur astronomers have been finding several hundreds of supernovae each year.
+Early asymmetries are detectable by measuring the polarization of the emitted light.
+Depending upon the type and energy of the supernova, it could be as far as 3000&nbsp;light-years away.
+The intensely radioactive nature of the ejecta gases, which is now known to be correct for most supernovae, was first calculated on sound nucleosynthesis grounds in the late 1960s.
+Although pair-instability supernovae are core collapse supernovae with spectra and light curves similar to type II-P, the nature of that explosion following core collapse is more like that of a giant type Ia with runaway fusion of carbon, oxygen, and silicon.
+The only other major competing process for producing elements heavier than iron is the s-process in large, old, red-giant AGB stars, which produces these elements slowly over longer epochs and which cannot produce elements heavier than lead.
+Because supernovae are relatively rare events within a galaxy, occurring about three times a century in the Milky Way, obtaining a good sample of supernovae to study requires regular monitoring of many galaxies.
+Such extreme catastrophes may also expel much, if not all, of its stellar  material away from the star, at velocities up to  or 10% of the speed of light.
+The term "Type IIb" is used to describe the combination of features normally associated with Types&nbsp;II and Ib.
+The brightest observed supernova, ASASSN-15lh, was detected in June 2015.
+The initial mass is the mass of the star prior to the supernova event, given in multiples of the Sun's mass, although the mass at the time of the supernova may be much lower.
+At very low metallicity, stars of around  will reach core collapse by pair instability while they still have a hydrogen atmosphere and an oxygen core and the result will be a supernova with Type&nbsp;II characteristics but a very large mass of ejected 56Ni and high luminosity.
+Proposed explanations for this kick include convection in the collapsing star and jet production during neutron star formation.
+Around 1% of these neutrinos are thought to deposit sufficient energy into the outer layers of the star to drive the resulting explosion, but again the details cannot be reproduced exactly in current models.
+Type II-P/L/NType II spectrum throughout
+Type Ia supernovae follow a characteristic light curve—the graph of luminosity as a function of time—after the explosion.
+Ejected Ni(solar masses)
+This only occurs when the material is sufficiently dense and compact, indicating that it has been produced by the progenitor star itself only shortly before the supernova occurs.
+Type I supernovae are subdivided on the basis of their spectra, with type Ia showing a strong ionised silicon absorption line.
+If the core mass is more than about  then neutron degeneracy is insufficient to stop the collapse and a black hole forms directly with no supernova explosion.
+During maximum brightness, the total equivalent radiant energies produced by supernovae may briefly outshine an entire output of a typical galaxy and emit energies equal to that created over the lifetime of any solar-like star.
+In some core collapse supernovae, fallback onto a black hole drives relativistic jets which may produce a brief energetic and directional burst of gamma rays and also transfers substantial further energy into the ejected material.
+These supernova have been dubbed '''Type Ia/IIn''', '''Type Ian''', '''Type IIa''' and '''Type IIan'''.
+The type codes, described above given to supernovae, are ''taxonomic'' in nature: the type number describes the light observed from the supernova, not necessarily its cause.
+Stars with initial masses less than about eight times the sun never develop a core large enough to collapse and they eventually lose their atmospheres to become white dwarfs.
+Very luminous progenitors, despite numerous supernovae being observed near enough that such progenitors would have been clearly imaged.
+These two processes are responsible for the electromagnetic radiation from type Ia supernovae.
+The main model for this is a sufficiently massive core that the explosion is insufficient to reverse the infall of the outer layers onto a black hole.
+The initial phases of the light curve decline steeply as the effective size of the photosphere decreases and trapped electromagnetic radiation is depleted.
+Adding the prefix "super-" distinguishes supernovae from ordinary novae, which are far less luminous.
+While most Type&nbsp;II supernovae show very broad emission lines which indicate expansion velocities of many thousands of kilometres per second, some, such as SN 2005gl, have relatively narrow features in their spectra.
+The light curve continues to decline in the B band while it may show a small shoulder in the visual at about 40 days, but this is only a hint of a secondary maximum that occurs in the infra-red as certain ionised heavy elements recombine to produce infra-red radiation and the ejecta become transparent to it.
+This type of supernova may not always completely destroy the white dwarf progenitor and could leave behind a zombie star.
+This is one scenario for producing high luminosity supernovae and is thought to be the cause of type Ic hypernovae and long duration gamma-ray bursts.
+These are useful for standard or calibrated candles to generate Hubble diagrams and make cosmological predictions.
+In the perspective of how long a star's lifetime is, its death is very brief.
+It is now proposed that higher mass red supergiants do not explode as supernovae, but instead evolve back towards hotter temperatures.
+These thermal neutrinos are several times more abundant than the electron-capture neutrinos.
+If the relativistic jets are too brief and fail to penetrate the stellar envelope then a low luminosity gamma-ray burst may be produced and the supernova may be sub-luminous.
+In these events, material previously ejected from the star creates the narrow absorption lines and causes a shock wave through interaction with the newly ejected material.
+Type&nbsp;IcWeak or no helium
+A number of close or well known stars have been identified as possible core collapse supernova candidates: the red supergiants Antares and Betelgeuze; the yellow hypergiant Rho Cassiopeiae; the luminous blue variable Eta Carinae that has already produced a supernova imposter explosion; and the brightest component, a Wolf–Rayet star in the Regor or Gamma Velorum system,  Others have gained notoriety as possible, although not very likely, progenitors for a gamma-ray burst; for example WR 104.
+The narrow spectral lines for which they are named occur because the supernova is expanding into a small dense cloud of circumstellar material.
+≥40 with near-solar metallicity
+The r-process produces about half of all the heavier isotopes of the elements beyond iron, including plutonium and uranium.
+The chances of the next supernova being a type Ia produced by a white dwarf are calculated to be about a third of those for a core collapse supernova.
+In Latin, ''nova'' means "new", referring astronomically to what appears to be a temporary new bright star.
+Their light curves are generally very broad and extended, occasionally also extremely luminous and referred to as a hypernova.
+For a narrow range of masses, stars evolve further before reaching core collapse to become WO stars with very little helium remaining and these are the progenitors of type Ic supernovae.
+The Big Bang produced hydrogen, helium, and traces of lithium, while all heavier elements are synthesized in stars and supernovae.
+There are several means by which a supernova of this type can form, but they share a common underlying mechanism.
+Supernovae create, fuse and eject the bulk of the chemical elements produced by nucleosynthesis.
+In type&nbsp;II-L the plateau is absent because the progenitor had relatively little hydrogen left in its atmosphere, sufficient to appear in the spectrum but insufficient to produce a noticeable plateau in the light output.
+Around half a solar mass of that mass is 56Ni generated from silicon burning.
+Electromagnetic radiation(foe)
+For even larger core masses, the core temperature becomes high enough to allow photodisintegration and the core collapses completely into a black hole.
+Matter from the giant is accreted by the white dwarf, causing the latter to increase in mass.
+Supernovae in M101 (1909) and M83 (1923 and 1957) were also suggested as possible type IV or type V supernovae.
+Stars with at least  (possibly as much as ) evolve in a complex fashion, progressively burning heavier elements at hotter temperatures in their cores.
+These are called type II-P referring to the plateau.
+Energy for the peak of the light curve of SN1987A was provided by the decay of 56Ni to 56Co (half life 6 days) while energy for the later light curve in particular fit very closely with the 77.3 day half-life of 56Co decaying to 56Fe.
+In 2009, elevated levels of nitrate ions were found in Antarctic ice, which coincided with the 1006 and 1054 supernovae.
+The different abundances of elements in the material that forms a star have important influences on the star's life, and may decisively influence the possibility of having planets orbiting it.
+Average peak absolute magnitude
+There is no formal sub-classification for the non-standard Type Ia supernovae.
+One examples is U Scorpii,  The nearest known type Ia supernova candidate is IK Pegasi (HR 8210), located at a distance of 150&nbsp;light-years, but observations suggest it will be several million years before the white dwarf can accrete the critical mass required to become a Type&nbsp;Ia supernova.
+Due to the wide range of astrophysical consequences of these events, astronomers now deem supernovae research, across the fields of stellar and galactic evolution, as an especially important area for investigation.
+In fact, a star's death may only last a few months.
+The next supernova in the Milky Way will likely be detectable even if it occurs on the far side of the galaxy.
+This is then followed by a declining light curve driven by radioactive decay although slower than in type&nbsp;I supernovae, due to the efficiency of conversion into light by all the hydrogen.
+Examples are SN 2002ic and SN 2005gj.
+SN 1885A, SN 1907A, etc.)
+Collapse of massive non-degenerate cores will ignite further fusion.
+A '''near-Earth supernova''' is a supernova close enough to the Earth to have noticeable effects on its biosphere.
+Some of the most distant supernovae recently observed appeared dimmer than expected.
+None, possible gamma-ray burst (GRB)
+Low redshift observations also anchor the low-distance end of the Hubble curve, which is a plot of distance versus redshift for visible galaxies.
+Within a few seconds, a substantial fraction of the matter in the white dwarf undergoes nuclear fusion, releasing enough energy (1–) to unbind the star in a supernova explosion.
+The light curves for type&nbsp;II supernovae are characterised by a much slower decline than type&nbsp;I, on the order of 0.05&nbsp;magnitudes per day, excluding the plateau phase.
+The peak luminosity varies considerably and there are even occasional type Ib/c supernovae orders of magnitude more and less luminous than the norm.
+Supernovae tend to enrich the surrounding interstellar medium with ''metals''—elements other than hydrogen and helium.
+It appears that a significant proportion of supposed type IIn supernovae are actually supernova imposters, massive eruptions of LBV-like stars similar to the Great Eruption of Eta Carinae.
+The earliest recorded supernova, SN 185, was viewed by Chinese astronomers in 185 AD, with the brightest recorded supernova being SN 1006, which occurred in 1006 AD and was described in detail by Chinese and Islamic astronomers.
+Fritz Zwicky defined additional supernovae types, although based on a very few examples that didn't cleanly fit the parameters for a Type I or Type II supernova.
+While such systems are popular with amateurs, there are also professional installations such as the Katzman Automatic Imaging Telescope.
+By 1938, the hyphen had been lost and the modern name was in use.
+Due to this, a typical human will only experience this rarity, on average, once in their lifetime.
+The last supernova of 2005 was SN&nbsp;2005nc, indicating that it was the 367th supernova found in 2005.
+Adding the prefix "super-" distinguishes supernovae from ordinary novae, which are far less luminous.
+These light curves are produced by the highly efficient conversion of kinetic energy of the ejecta into electromagnetic radiation by interaction with the dense shell of material.
+II-P, sometimes a hypernova, possible GRB
+Core collapse supernovae are on average visually fainter than type Ia supernovae, but the total energy released is far higher.
+In each of these two types there are subdivisions according to the presence of lines from other elements or the shape of the light curve (a graph of the supernova's apparent magnitude as a function of time).
+After several months, the light curve changes its decline rate again as positron emission becomes dominant from the remaining cobalt-56, although this portion of the light curve has been little-studied.
+These injected elements ultimately enrich the molecular clouds that are the sites of star formation.
+With a brightness of 570 billion Suns, ASASSN-15lh's peak luminosity was twice that of the previous record holder.
+In the initial explosion this hydrogen becomes heated and ionised.
+Type&nbsp;Ia supernovae are thought to be potentially the most dangerous if they occur close enough to the Earth.
+There is a fundamental difference between the balance of energy production in the different types of supernova.
+Plateau then around 50
+It was not until SN 1987A that direct observation of gamma-ray lines unambiguously identified the major radioactive nuclei.
+Type&nbsp;IIn supernovae are characterised by additional narrow spectral lines produced in a dense shell of circumstellar material.
+However, the explosion becomes more symmetrical with the passage of time.
+The giant star then sheds most of its envelope, losing mass until it can no longer continue nuclear fusion.
+Supernovae are the most likely, although not undisputed, candidate sites for the r-process, which is the rapid capture of neutrons that occurs at high temperature and high density of neutrons.
+The peak luminosity of the light curve is extremely consistent across normal Type Ia supernovae, having a maximum absolute magnitude of about −19.3.
+Only eight of them are known, and only four of those are in the Milky Way.
+When a supernova occurs inside a small dense cloud of circumstellar material, it will produce a shock wave that can efficiently convert a high fraction of the kinetic energy into electromagnetic radiation.
+About 1046&nbsp;joules, approximately 10% of the star's rest mass, is converted into a ten-second burst of neutrinos which is the main output of the event.
+Kinetic energies and nickel yields are somewhat lower than type Ia supernovae, hence the lower visual luminosity of supernovae, but energy from the de-ionisation of the many solar masses of remaining hydrogen can contribute to a much slower decline in luminosity and produce the plateau phase seen in the majority of core collapse supernovae.
+Days to peak luminosity
+Afterward pairs of lower-case letters are used: ''aa'', ''ab'', and so on.
+All Wolf-Rayet stars are expected to end their lives from the Wolf-Rayet phase within a million years or so, but again it is difficult to identify those that are closest to core collapse.
+Until 1987, two-letter designations were rarely needed; since 1988, however, they have been needed every year.
+The most recent directly observed supernova in the Milky Way was Kepler's Supernova in 1604, but remnants of two more recent supernovae have been found retrospectively.
+Approximate total energy1044 joules (foe)
+They are most commonly found in type Sc spirals, but also in the arms of other spiral galaxies and in irregular galaxies, especially starburst galaxies.
+''SN'', for SuperNova, is a standard prefix.
+For example, the sub-luminous SN 2008ha is often referred to as SN 2002cx-like or class Ia-2002cx.
+An outwardly expanding shock wave is generated, with matter reaching velocities on the order of 5,000–20,000&nbsp;km/s, or roughly 3% of the speed of light.
+Electron-positron pair production in a large post-helium burning core removes thermodynamic support and causes initial collapse followed by runaway fusion, resulting in a pair-instability supernova.
+Before the development of the telescope, there have only been five supernovae seen in the last millennium.
+The majority of type&nbsp;II supernovae show a prolonged plateau in their light curves as this hydrogen recombines, emitting visible light and becoming more transparent.
+Supernovae are the dominant mechanism for distributing these heavier elements, which are formed in a star during its period of nuclear fusion.
+A process that is  is necessary to allow the outer layers of the core to reabsorb around 1044&nbsp;joules (1&nbsp;foe) from the neutrino pulse, producing the visible explosion, although there are also other theories on how to power the explosion.
+What follows next depends on the mass and structure of the collapsing core, with low mass degenerate cores forming neutron stars, higher mass degenerate cores mostly collapsing completely to black holes, and non-degenerate cores undergoing runaway fusion.
+The similarity of SN 1961V to the Eta Carinae Great Outburst was noted.
+The expected progenitors of type Ib supernovae, luminous WC stars, are not observed at all.
+As the density increases, neutrino emission is cut off as they become trapped in the core.
+Observations of type Ib/c supernova do not match the observed or expected occurrence of Wolf Rayet stars and alternate explanations for this type of core collapse supernova involve stars stripped of their hydrogen by binary interactions.
+Nucleosynthesis during silicon burning yields nuclei roughly 1000-100,000 times more abundant than the r-process isotopes heavier than iron.
+Thus the search is split between high redshift and low redshift, with the boundary falling around a redshift range of ''z''&nbsp;=&nbsp;0.1–0.3—where ''z'' is a dimensionless measure of the spectrum's frequency shift.
+At this point it becomes a white dwarf star, composed primarily of carbon and oxygen.
+As a result, very little material is ejected from the exploding star (~0.1 MSun).
+The details of the energetics are still not fully understood, but the end result is the ejection of the entire mass of the original star at high kinetic energy.
+Supernovae are more energetic than novae.
+≥40 with very high metallicity
+Statistically, the next supernova is likely to be produced from an otherwise unremarkable red supergiant, but it is difficult to identify which of those supergiants are in the final stages of heavy element fusion in their cores and which have millions of years left.
+The most massive red supergiants are expected to shed their atmospheres and evolve to Wolf-Rayet stars before their cores collapse.
+SN 1961f in NGC 3003 was the prototype and only member of the Type IV class, with a light curve similar to a Type II-P supernova, with hydrogen absorption lines but weak hydrogen emission lines.
+This type of event may cause type IIn hypernovae.
+The radioactive decay of 56Ni through its daughters 56Co to 56Fe produces gamma-ray photons , primarily of 847keV and 1238keV, that are absorbed and dominate the heating and thus the luminosity of the ejecta at intermediate times (several weeks) to late times (several months).
+At moderate to high metallicity, stars near the upper end of that mass range will have lost most of their hydrogen when core collapse occurs and the result will be a Type&nbsp;II-L supernova.

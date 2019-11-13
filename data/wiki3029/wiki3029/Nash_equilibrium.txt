@@ -1,0 +1,200 @@
+Let  be a strategy profile of player  and  be a strategy profile of all players except for player .
+This simply states that each player gains no benefit by unilaterally changing their strategy, which is exactly the necessary condition for a Nash equilibrium.
+For this purpose, it suffices to show that
+If either player changes their probabilities, then the other player immediately has a better strategy at either (0%, 100%) or (100%, 0%).
+It has also been used to study to what extent people with different preferences can cooperate (see battle of the sexes), and whether they will take risks to achieve a cooperative outcome (see stag hunt).
+Informally, a set of strategies is a Nash equilibrium if no player can do better by unilaterally changing their strategy.
+If both A and B have strictly dominant strategies, there exists a unique Nash equilibrium in which each plays their strictly dominant strategy.
+The key to Nash's ability to prove existence far more generally than von Neumann lay in his definition of equilibrium.
+The Nash equilibrium may also have non-rational consequences in sequential games because players may "threaten" each other with non-rational moves.
+The contribution of Nash in his 1951 article ''Non-Cooperative Games'' was to define a mixed-strategy Nash equilibrium for any game with a finite set of actions and prove that at least one (mixed-strategy) Nash equilibrium must exist in such a game.
+The image to the right shows a simple sequential game that illustrates the issue with subgame imperfect Nash equilibria.
+If each player has chosen a strategy and no player can benefit by changing strategies while the other players keep theirs unchanged, then the current set of strategy choices and the corresponding payoffs constitutes a Nash equilibrium.
+# Intentional or accidental imperfection in execution.
+Since  we have that  is some positive scaling of the vector .
+They have proposed many related solution concepts (also called 'refinements' of Nash equilibria) designed to overcome perceived flaws in the Nash concept.
+The "payoff" of each strategy is the travel time of each route.
+If the 100 cars agreed that 50 travel via  and the other 50 through , then travel time for any single car would actually be 3.5, which is less than 3.75.
+In addition, the sum of the probabilities for each strategy of a particular player should be 1.
+Therefore, there exists a fixed point in   and a Nash equilibrium.
+In this case there is no particular reason for that player to adopt an equilibrium strategy.
+For the graph on the right, if, for example, 100 cars are travelling from A to D, then equilibrium will occur when 25 drivers travel via , 50 via , and 25 via .
+If only condition one holds then there are likely to be an infinite number of optimal strategies for the player who changed.
+To see this, we first note that if  then this is true by definition of the gain function.
+For such games the subgame perfect Nash equilibrium may be more meaningful as a tool of analysis.
+If a player A has a dominant strategy  then there exists a Nash equilibrium in which A plays .
+A refined Nash equilibrium known as coalition-proof Nash equilibrium (CPNE) occurs when players cannot do better even if they are allowed to communicate and make "self-enforcing" agreement to deviate.
+In a game theory context stable equilibria now usually refer to Mertens stable equilibria.
+Players wrongly distrusting each other's rationality may adopt counter-strategies to expected irrational play on their opponents’ behalf.
+Finally in the eighties, building with great depth on such ideas Mertens-stable equilibria were introduced as a solution concept.
+Every correlated strategy supported by iterated strict dominance and on the Pareto frontier is a CPNE.
+However, subsequent refinements and extensions of the Nash equilibrium concept share the main insight on which Nash's concept rests: all equilibrium concepts analyze what choices will be made when each player takes into account the decision-making of others.
+A strategy profile  is a Nash equilibrium (NE) if no unilateral deviation in strategy by any single player is profitable for that player, that is
+Each player improves their own situation by switching from "cooperating" to "defecting", given knowledge that the other player's best decision is to "defect".
+Further, it is possible for a game to have a Nash equilibrium that is resilient against coalitions less than a specified size, k. CPNE is related to the theory of the core.
+This is a major consideration in "chicken" or an arms race, for example.
+A game can have a pure-strategy or a mixed-strategy Nash equilibrium.
+This is because it may happen that a Nash equilibrium is not Pareto optimal.
+The payoff in economics is utility (or sometimes money), and in evolutionary biology is gene transmission; both are the fundamental bottom line of survival.
+Therefore,  and  such that .
+The prisoner's dilemma thus has a single Nash equilibrium: both players choosing to defect.
+As a result of these requirements, strong Nash is too rare to be useful in many branches of game theory.
+This rule does not apply to the case where mixed (stochastic) strategies are of interest.
+For (A,B) 25 is the maximum of the second column and 40 is the maximum of the first row.
+In Cournot's theory, firms choose how much output to produce to maximize their own profit.
+The prisoner's dilemma has a similar matrix as depicted for the coordination game, but the maximum reward for each player (in this case, 3) is obtained only when the players' decisions are different.
+It is especially helpful in two-person games where players have more than two strategies.
+(In the latter a pure strategy is chosen stochastically with a fixed probability).
+In 1965 Reinhard Selten proposed subgame perfect equilibrium as a refinement that eliminates equilibria which depend on non-credible threats.
+When the inequality above holds strictly (with &gt; instead of &ge;) for all players and all feasible alternative strategies, then the equilibrium is classified as a ''strict Nash equilibrium''.
+Let  denote the set of mixed strategies for the players.
+It has been used to study the adoption of technical standards, and also the occurrence of bank runs and currency crises (see coordination game).
+Introduction of imperfection will lead to its disruption either through loss to the player who makes the mistake, or through negation of the common knowledge criterion leading to possible victory for the player.
+Therefore,  is a Nash equilibrium for  as needed.
+So we finally have that
+For example, with payoffs 10 meaning no crash and 0 meaning a crash, the coordination game can be defined with the following payoff matrix:
+Suppose then that each player asks themselves: "Knowing the strategies of the other players, and treating the strategies of the other players as set in stone, can I benefit by changing my strategy?"
+Instead, one must ask what each player would do, ''taking into account'' the decision-making of the others.
+If one hunter trusts that the other will hunt the stag, they should hunt the stag; however if they suspect that the other will hunt the rabbit, they should hunt the rabbit.
+Game theorists use the Nash equilibrium concept to analyze the outcome of the strategic interaction of several decision makers.
+In cooperative games such a concept is not convincing enough.
+Same for cell (C,C).
+The subgame perfect equilibrium in addition to the Nash equilibrium requires that the strategy also is a Nash equilibrium in every subgame of that game.
+What has long made this an interesting case to study is the fact that this scenario is globally inferior to "both cooperating".
+Although each player is awarded less than optimal payoff, neither player has incentive to change strategy due to a reduction in the immediate payoff (from 2 to 1).
+There is an easy numerical way to identify Nash equilibria on a payoff matrix.
+It is easy to see that each  is a valid mixed strategy in .
+Stability is crucial in practical applications of Nash equilibria, since the mixed strategy of each player is not perfectly known, but has to be inferred from statistical distribution of their actions in the game.
+Both strategies are Nash equilibria of the game.
+Convexity follows from players' ability to mix strategies.
+Since  is the fixed point we have:
+But if every player prefers not to switch (or is indifferent between switching and not) then the set of strategies is a Nash equilibrium.
+''A payoff matrix – Nash equilibria in bold''
+When each player  chooses strategy  resulting in strategy profile  then player  obtains payoff .
+If both firms agree on the chosen technology, high sales are expected for both firms.
+Formally, a strong Nash equilibrium is a Nash equilibrium in which no coalition, taking the actions of its complements as given, can cooperatively deviate in a way that benefits all of its members.
+Every driver now has a total travel time of 3.75 (to see this, note that a total of 75 cars take the  edge, and likewise 75 cars take the  edge).
+Condition 1. is satisfied from the fact that  is a simplex and thus compact.
+Likewise, a group of players are in Nash equilibrium if each one is making the best decision possible, taking into account the decisions of the others in the game as long as the other party's decision remains unchanged.
+Nash proves that if we allow mixed strategies, then every game with a finite number of players in which each player can choose from finitely many pure strategies has at least one Nash equilibrium.
+If both players chose strategy B though, there is still a Nash equilibrium.
+This game has a unique pure-strategy Nash equilibrium: both players choosing 0 (highlighted in light red).
+Because   is continuous and compact,   is upper hemicontinuous.
+The (50%,50%) equilibrium is unstable.
+The Nash equilibrium may sometimes appear non-rational in a third-person perspective.
+Any other strategy can be improved by a player switching their number to one less than that of the other player.
+Driving on a road against an oncoming car, and having to choose either to swerve on the left or to swerve on the right of the road, is also a coordination game.
+If these cases are both met, then a player with the small change in their mixed strategy will return immediately to the Nash equilibrium.
+Thus, payoffs for any given strategy depend on the choices of the other players, as is usual.
+If player one goes right the rational player two would de facto be kind to him in that subgame.
+The caveat is that the stag must be cooperatively hunted, so if one player attempts to hunt the stag, while the other hunts the rabbit, he will fail in hunting (0 utility units), whereas if they both hunt it they will split the payload (2, 2).
+Here, , where , is a mixed-strategy profile in the set of all mixed strategies and  is the payoff function for player i.
+#  is compact, convex, and nonempty.
+Stated simply, Amy and Phil are in Nash equilibrium if Amy is making the best decision she can, taking into account Phil's decision while Phil's decision remains unchanged, and Phil is making the best decision he can, taking into account Amy's decision while Amy's decision remains unchanged.
+For instance, the prisoner’s dilemma is not a dilemma if either player is happy to be jailed indefinitely.
+Condition 2. is satisfied because players maximize expected payoffs which is a continuous function over a compact set.
+Thus, each strategy in a Nash equilibrium is a best response to all other strategies in that equilibrium.
+In these situations the assumption that the strategy observed is actually a NE has often been borne out by research.
+They showed that a mixed-strategy Nash equilibrium will exist for any zero-sum game with a finite set of actions.
+where the last inequality follows since  is a non-zero vector.
+Since the development of the Nash equilibrium concept, game theorists have discovered that it makes misleading predictions (or fails to make a unique prediction) in certain circumstances.
+If we assume that there are  "cars" traveling from A to D, what is the expected distribution of traffic in the network?
+An N×N matrix may have between 0 and N×N pure-strategy Nash equilibria.
+But this is a clear contradiction, so all the gains must indeed be zero.
+We now define  where
+Cournot also introduced the concept of best response dynamics in his analysis of the stability of equilibrium.
+However, in games such as elections with many more players than possible outcomes, it can be more common than a stable equilibrium.
+An application of Nash equilibria is in determining the expected flow of traffic in a network.
+The finiteness of the s ensures the compactness of .
+We claim that  is a Nash equilibrium in .
+This situation can be modeled as a "game" where every traveler has a choice of 3 strategies, where each strategy is a route from A to D (either , , or ).
+A famous example of this type of game was called the stag hunt; in the game two players may choose to hunt a stag or a rabbit, the former providing more meat (4 utility units) than the latter (1 utility unit).
+Nash equilibrium has been used to analyze hostile situations like war and arms races (see prisoner's dilemma), and also how conflict may be mitigated by repeated interaction (see tit-for-tat).
+As the cross product of a finite number of compact convex sets,  is also compact and convex.
+We can apply this rule to a 3×3 matrix:
+It is also broader than the definition of a Pareto-efficient equilibrium, since the Nash definition makes no judgements about the optimality of the equilibrium being generated.
+The gain function represents the benefit a player gets by unilaterally changing their strategy.
+That is, both players would be better off if they both chose to "cooperate" instead of both choosing to defect.
+and so the left term is zero, giving us that the entire expression is  as needed.
+In game theory, the '''Nash equilibrium''' is a solution concept of a non-cooperative game involving two or more players in which each player is assumed to know the equilibrium strategies of the other players, and no player has anything to gain by changing only his or her own strategy.
+So, not only must each player know the other players meet the conditions, but also they must know that they all know that they meet them, and know that they know that they know that they meet them, and so on.
+When Nash made this point to John von Neumann in 1949, von Neumann famously dismissed it with the words, "That's trivial, you know.
+Condition 3. is satisfied as a result of mixed strategies.
+Note that the payoff depends on the strategy profile chosen, i.e., on the strategy chosen by player  as well as the strategies chosen by all the other players.
+If the firms do not agree on the standard technology, few sales result.
+The modern game-theoretic concept of Nash equilibrium is instead defined in terms of mixed strategies, where players choose a probability distribution over possible actions.
+In the "driving game" example above there are both stable and unstable equilibria.
+Indeed, for cell (B,A) 40 is the maximum of the first column and 25 is the maximum of the second row.
+Let  be a game with  players, where  is the strategy set for player ,  is the set of strategy profiles and  is its payoff function evaluated at .
+Also we shall denote  as the gain vector indexed by actions in .
+This is also the Nash equilibrium if the path between B and C is removed, which means that adding another possible route can decrease the efficiency of the system, a phenomenon known as Braess' paradox.
+However, each player could improve their own situation by breaking the mutual cooperation, no matter how the other player possibly (or certainly) changes their decision.
+By our previous statements we have that
+The existence of a Nash equilibrium is equivalent to  having a fixed point.
+'''The rule goes as follows: if the first payoff number, in the payoff pair of the cell, is the maximum of the column of the cell and if the second number is the maximum of the row of the cell - then the cell represents a Nash equilibrium.'''
+In other words, it provides a way of predicting what will happen if several people or several institutions are making decisions at the same time, and if the outcome depends on the decisions of the others.
+It is also easy to check that each  is a continuous function of , and hence  is a continuous function.
+The players should thus coordinate, both adopting strategy A, to receive the highest payoff; i.e., 4.
+Another example of a coordination game is the setting where two technologies are available to two firms with comparable products, and they have to elect a strategy to become the market standard.
+Lower jail sentences are interpreted as higher payoffs (shown in the table).
+We add another where the probabilities for each player is (50%, 50%).
+However, their analysis was restricted to the special case of zero-sum games.
+We can now define the gain functions.
+# The first condition is not met if the game does not correctly describe the quantities a player wishes to maximize.
+If we admit mixed strategies (where a pure strategy is chosen at random, subject to some fixed probability), then there are three Nash equilibria for the same case: two we have seen from the pure-strategy form, where the probabilities are (0%,100%) for player one, (0%, 100%) for player two; and (100%, 0%) for player one, (100%, 0%) for player two respectively.
+Applying the Brouwer fixed point theorem to  and  we conclude that So  has a fixed point in , call it .
+Notice that this distribution is not, actually, socially optimal.
+The simple insight underlying John Nash's idea is that one cannot predict the result of the choices of multiple decision makers if one analyzes those decisions in isolation.
+The ''coordination game'' is a classic (symmetric) two player, two strategy game, with an example payoff matrix shown to the right.
+One particularly important issue is that some Nash equilibria may be based on threats that are not 'credible'.
+In this case unstable equilibria are very unlikely to arise in practice, since any minute change in the proportions of each strategy seen will lead to a change in strategy and the breakdown of the equilibrium.
+Researchers who apply games theory in these fields claim that strategies failing to maximize these for whatever reason will be competed out of the market or environment, which are ascribed the ability to test all strategies.
+The equilibrium is said to be stable.
+However, as a theoretical concept in economics and evolutionary biology, the NE has explanatory power.
+The game hence exhibits two equilibria at (stag, stag) and (rabbit, rabbit) and hence the players' optimal strategy depend on their expectation on what the other player may do.
+However, Nash's definition of equilibrium is broader than Cournot's.
+# The criterion of common knowledge may not be met even if all players do, in fact, meet all the other criteria.
+Therefore, if rational behavior can be expected by both parties the subgame perfect Nash equilibrium may be a more meaningful solution concept when such dynamic inconsistencies arise.
+In order for a player to be willing to randomize, their expected payoff for each strategy should be the same.
+This creates a system of equations from which the probabilities of choosing each strategy can be derived.
+However, the strong Nash concept is sometimes perceived as too "strong" in that the environment allows for unlimited private communication.
+This eliminates all non-credible threats, that is, strategies that contain non-rational moves in order to make the counter-player change their strategy.
+Equilibrium will occur when the time on all paths is exactly the same.
+If either player changes their probabilities slightly, they will be both at a disadvantage, and their opponent will have no reason to change their strategy in turn.
+Using the rule, we can very quickly (much faster than with formal analysis) see that the Nash equilibria cells are (B,A), (A,B), and (C,C).
+# There is common knowledge that all players meet these conditions, including this one.
+If these conditions are met, the cell represents a Nash equilibrium.
+When that happens, no single driver has any incentive to switch routes, since it can only add to their travel time.
+# In many cases, the third condition is not met because, even though the equilibrium must exist, it is unknown due to the complexity of the game, for instance in Chinese chess.
+In this case there are two pure-strategy Nash equilibria, when both choose to either drive on the left or on the right.
+Strong Nash equilibrium allows for deviations by every conceivable coalition.
+The Nash equilibrium is a superset of the subgame perfect Nash equilibrium.
+Just putting the problem in this framework allowed Nash to employ the Kakutani fixed point theorem in his 1950 paper, and a variant upon it in his 1951 paper used the Brouwer fixed point theorem to prove that there had to exist at least one set of mixed strategies that mapped back into themselves for non zero-sum games, namely, a set of strategies that did not call for a shift in strategies that could improve payoffs.
+However, The non-credible threat of being unkind at 2(2) is still part of the blue (L, (U,U)) Nash equilibrium.
+Now assume that the gains are not all zero.
+If instead, for some player, there is exact equality between  and some other strategy in the set , then the equilibrium is classified as a ''weak Nash equilibrium''.
+The Weierstrass extreme value theorem guarantees that there is always a maximum value.
+We have a game  where  is the number of players and  is the action set for the players.
+In the table to the right, if the game begins at the green square, it is in player 1's interest to move to the purple square and it is in player 2's interest to move to the blue square.
+If  is a strictly dominant strategy, A plays  in all Nash equilibria.
+For a mixed strategy , we let the gain for player  on action  be
+Consider the graph on the right.
+In the graph on the right, a car travelling via  experiences travel time of , where  is the number of cars traveling on edge .
+The Nash equilibrium defines stability only in terms of unilateral deviations.
+Condition 4. is satisfied by way of Berge's maximum theorem.
+Check all columns this way to find all NE cells.
+Mertens stable equilibria satisfy both forward induction and backward induction.
+Imagine two prisoners held in separate cells, interrogated simultaneously, and offered deals (lighter jail sentences) for betraying their fellow criminal.
+Due to the limited conditions in which NE can actually be observed, they are rarely treated as a guide to day-to-day behaviour, or observed in practice in human negotiations.
+This conclusion is drawn from the "stability" theory above.
+The Nash equilibrium was named after John Forbes Nash, Jr. A version of the Nash equilibrium concept was first known to be used in 1838 by Antoine Augustin Cournot in his theory of oligopoly.
+According to Nash, "an equilibrium point is an n-tuple such that each player's mixed strategy maximizes his payoff if the strategies of the others are held fixed.
+This game was used as an analogy for social cooperation, since much of the benefit that people gain in society depends upon people cooperating and implicitly trusting one another to act in a manner corresponding with cooperation.
+Other applications include traffic flow (see Wardrop's principle), how to organize auctions (see auction theory), the outcome of efforts exerted by multiple parties in the education process, regulatory legislation such as environmental regulations (see tragedy of the Commons), analysing strategies in marketing and even penalty kicks in football (see matching pennies).
+is nonempty as long as players have strategies.
+However, the best output for one firm depends on the outputs of others.
+The concept of the mixed-strategy Nash equilibrium was introduced by John von Neumann and Oskar Morgenstern in their 1944 book ''The Theory of Games and Economic Behavior''.
+John Nash showed that the latter situation could not arise in a range of well-defined games.
+A Cournot equilibrium occurs when each firm's output maximizes its profits given the output of the other firms, which is a pure-strategy Nash equilibrium.
+In the case of two players A and B, there exists a Nash equilibrium in which A plays  and B plays a best response to .
+''The driving game''

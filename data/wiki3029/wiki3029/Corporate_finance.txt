@@ -1,0 +1,200 @@
+* Raising capital via the issue of other forms of equity, debt and related securities for the refinancing and restructuring of businesses
+Note that for scenario based analysis, the various combinations of inputs must be ''internally consistent'' (see discussion at Financial modeling), whereas for the sensitivity approach these need not be so.
+Here: (1) using financial option theory as a framework, the decision to be taken is identified as corresponding to either a call option or a put option; (2) an appropriate valuation technique is then employed – usually a variant on the Binomial options model or a bespoke simulation model, while Black Scholes type formulae are used less often; see Contingent claim valuation.
+Maximizing shareholder value requires managers to be able to balance capital funding between investments in projects that increase the firm's long term profitability and sustainability, along with paying excess cash in the form of dividends to shareholders.
+Alternatives (complements) to NPV include Residual Income Valuation, MVA / EVA (Joel Stern, Stern Stewart & Co) and APV (Stewart Myers).
+* Management buy-out, buy-in or similar of companies, divisions or subsidiaries – typically backed by private equity
+This hypothesis, inspired in the behavioral finance literature, states that firms look for the cheaper type of financing regardless of their current levels of internal resources, debt and equity.
+The primary goal of corporate finance is to maximize or increase shareholder value.
+Financing a project through debt results in a liability or obligation that must be serviced, thus entailing cash flow implications independent of the project's degree of success.
+The (short term) goals of working capital are therefore not approached on the same basis as (long term) profitability, and working capital management applies different criteria in allocating resources: the main considerations are (1) cash flow / liquidity and (2) profitability / return on capital (of which cash flow is probably the most important).
+Given the uncertainty inherent in project forecasting and valuation, analysts will wish to assess the ''sensitivity'' of project NPV to the various inputs (i.e.
+-10%, -5%, 0%, 5%....), and then determine the sensitivity using this formula.
+* Management must attempt to match the long-term financing mix to the assets being financed as closely as possible, in terms of both timing and cash flows.
+Financial management overlaps with the financial function of the Accounting profession.
+Bonds require the corporations to make regular interest payments (interest expenses) on the borrowed capital until the debt reaches its maturity date, therein the firm must pay back the obligation in full.
+* Preference in assets, in the event of liquidation
+In addition to time horizon, working capital management differs from capital budgeting in terms of discounting and profitability considerations; they are also "reversible" to some extent.
+However economists have developed a set of alternative theories about how managers allocate a corporation's finances.
+Some analysts account for this uncertainty by adjusting the discount rate (e.g.
+In all instances, the appropriate dividend policy is usually directed by that which maximizes long-term shareholder value.
+The NPV is greatly affected by the discount rate.
+Choosing between investment projects will be based upon several inter-related criteria.
+* In this context, the most useful measure of profitability is Return on capital (ROC).
+This "capital budgeting" is the planning of value-adding, long-term corporate financial projects relating to investments funded through and affecting the firm's capital structure.
+actions) corresponding to the highest value path probability weighted; (3) this path is then taken as representative of project value.
+Such future cash flows are then discounted to determine their ''present value'' (see Time value of money).
+Management will therefore (sometimes) employ tools which place an explicit value on these options.
+See further under Real options valuation.
+This method was introduced to finance by David B. Hertz in 1964, although it has only recently become common: today analysts are even able to run simulations in spreadsheet based DCF models, typically using a risk-analysis add-in, such as ''@Risk'' or ''Crystal Ball''.
+The sensitivity of NPV to a change in that factor is then observed, and is calculated as a "slope": ΔNPV / Δfactor.
+The output is then a histogram of project NPV, and the average NPV of the potential investment – as well as its volatility and other sensitivities – is then observed.
+Managers must do an analysis to determine the appropriate allocation of the firm's capital resources and cash surplus between projects and payouts of dividends to shareholders, as well as paying back creditor related debt.
+These present values are then summed, and this sum net of the initial investment outlay is the NPV.
+See ''list of valuation topics''.
+The cash conversion cycle indicates the firm's ability to convert its resources into cash.
+This is the general case, however there are exceptions.
+(3) The "true" value of the project is then the NPV of the "most likely" scenario plus the option value.
+Thus, identifying the proper discount rate – often termed, the project "hurdle rate" – is critical to choosing good projects and investments for the firm.
+See Asset liability management; Treasury management; Credit risk; Interest rate risk.
+Various factors may be taken into consideration: where shareholders must pay tax on dividends, firms may elect to retain earnings or to perform a stock buyback, in both cases increasing the value of shares outstanding.
+Managing the corporation's working capital position to sustain ongoing business operations is referred to as ''working capital management''.
+(For example, a company would build a factory given that demand for its product exceeded a certain level during the pilot-phase, and outsource production otherwise.
+Even when employed, however, these latter methods do not normally properly account for changes in risk over the project's lifecycle and hence fail to appropriately adapt the risk adjustment.
+Once the tree is constructed: (1) "all" possible events and their resultant paths are visible to management; (2) given this "knowledge" of the events that could follow, and assuming rational decision making, management chooses the branches (i.e.
+* Raising seed, start-up, development or expansion capital
+Risk management  is the process of measuring risk and then developing and implementing strategies to manage ("hedge") that risk.
+Such an approach may not be appropriate where the risk of a particular project differs markedly from that of the firm's existing portfolio of assets.)
+* Raising debt and restructuring debt, especially when linked to the types of transactions listed above
+Projects that increase a firm's value may include a wide variety of different types of investments, including but not limited to, expansion policies, or mergers and acquisitions.
+As a general rule, shareholders of growth companies would prefer managers to retain earnings and pay no dividends (use excess cash to reinvest into the company's operations), whereas shareholders of value or secondary stocks would prefer the management of these companies to payout surplus earnings in the form of cash dividends when a positive return cannot be earned through the reinvestment of undistributed earnings.
+In the United States it is used, as above, to describe activities, analytical methods and techniques that deal with many aspects of a company's finances and capital.
+See Decision theory#Choice under uncertainty.
+A share buyback program may be accepted when the value of the stock is greater than the returns to be realized from the reinvestment of undistributed profits.
+When cash surplus exists and is not needed by the firm, then management is expected to pay out some or all of those surplus earnings in the form of cash dividends or to repurchase the company's stock through a share buyback program.
+assumptions) to the DCF model.
+Investments should be made on the basis of value-added to the future of the corporation.
+0% for "Worst Case", 10% for "Likely Case" and 20% for "Best Case"), where all key inputs are adjusted so as to be consistent with the growth assumptions, and calculate the NPV for each.
+As above, firm value is enhanced when, and if, the return on capital exceeds the cost of capital.
+with transactions in which capital is raised for the corporation.
+Working capital management is the management of the company's monetary funds that deal with the short-term operating balance of current assets and current liabilities; the focus here is on managing cash, inventories, and short-term borrowing and lending (such as the terms on credit extended to customers).
+One of the main alternative theories of how firms manage their capital funds is the Pecking Order Theory (Stewart Myers), which suggests that firms avoid external financing while they have internal financing available and avoid new equity financing while they can engage in new debt financing at reasonably low interest rates.
+Again, a DCF valuation would capture only one of these outcomes.)
+Here, a scenario comprises a particular outcome for economy-wide, "global" factors (demand for the product, exchange rates, commodity prices, etc...) ''as well as'' for company-specific factors (unit costs, etc...).
+Because this number effectively corresponds to the time that the firm's cash is tied up in operations and unavailable for other activities, management generally aims at a low net count.
+* Management must identify the "optimal mix" of financing – the capital structure that results in maximum firm value, (See Balance sheet, WACC) but must also take other factors into account (see trade-off theory below).
+The rating for preferreds is generally lower, since preferred dividends do not carry the same guarantees as interest payments from bonds and they are junior to all creditors.
+See also Enterprise risk management.
+Dividend policy is concerned with financial policies regarding the payment of a cash dividend in the present or paying an increased dividend at a later stage.
+See also Option pricing approaches under Business valuation.
+While it is impractical for small firms to have a formal risk management function, many still apply risk management informally.
+When companies reach maturity levels within their industry (i.e.
+The following features are usually associated with preferred stock:
+Here, the cash flow components that are (heavily) impacted by uncertainty are simulated, mathematically reflecting their "random characteristics".
+For example, shareholders of a "growth stock", expect that the company will, almost by definition, retain most of the excess cash surplus so as to fund future projects internally to help increase the value of the firm.
+(Real options in corporate finance were first discussed by Stewart Myers in 1977; viewing corporate strategy as a series of options was originally per Timothy Luehrman, in the late 1990s.)
+A further advancement which "overcomes the limitations of sensitivity and scenario analyses by examining the effects of all possible combinations of variables and their realizations"  is to construct stochastic or probabilistic financial models – as opposed to the traditional static and deterministic models as above.
+(For example, the viability of a mining project is contingent on the price of gold; if the price is too low, management will abandon the mining rights, if sufficiently high, management will develop the ore body.
+Terms of the preferred stock are stated in a "Certificate of Designation".
+The difference between the two valuations is the "value of flexibility" inherent in the project.
+(3) If no growth is possible by the company and excess cash surplus is not needed to the firm, then financial theory suggests that management should return some or all of the excess cash to shareholders (i.e., distribution via dividends).
+Managing any potential asset liability mismatch or duration gap entails matching the assets and liabilities respectively according to maturity pattern ("Cashflow matching") or duration ("immunization"); managing this relationship in the ''short-term'' is a major function of working capital management, as discussed below.
+Managers of growth companies (i.e.
+Secondly, both disciplines share the goal of enhancing, or preserving, firm value.
+In many cases, for example R&D projects, a project may open (or close) various paths of action to the company, but this reality will not (typically) be captured in a strict NPV approach.
+It is common for large corporations to have risk management teams; often these overlap with the internal audit function.
+'''Corporate finance''' is the area of finance dealing with the sources of funding and the capital structure of corporations and the actions that managers take to increase the value of the firm to the shareholders, as well as the tools and analysis used to allocate financial resources.
+higher ranking) to common stock, but subordinate to bonds in terms of claim (or rights to their share of the assets of the company).
+(A common error in choosing a discount rate for a project is to apply a WACC that applies to the entire firm.
+The hurdle rate is the minimum acceptable return on an investment – i.e., the project appropriate discount rate.
+These involve managing the relationship between a firm's short-term assets and its short-term liabilities.
+* Convertibility to common stock.
+The terms corporate finance and '''corporate financier''' are also associated with investment banking.
+Often, several variables may be of interest, and their various combinations produce a "value-surface", (or even a "value-space",) where NPV is then a function of several variables.
+This area is related to corporate finance in two ways.
+(Another measure is gross operating cycle which is the same as net operating cycle except that it does not take into account the creditors deferral period.)
+Managing short term finance and long term finance is one task of a modern CFO.
+If interest expenses cannot be made by the corporation through cash payments, the firm may also use collateral assets as a form of repaying their debt obligations (or through the process of liquidation).
+companies that earn approximately average or lower returns on invested capital), managers of these companies will use surplus cash to payout dividends to shareholders.
+It will also play an important role in short term cash- and treasury management; see above.
+The ''cost of equity'' (see CAPM and APT) is also typically higher than the ''cost of debt'' - which is, additionally, a deductible expense – and so equity financing may result in an increased hurdle rate which may offset any reduction in cash flow risk.
+Per the Modigliani and Miller framework, hedging is irrelevant since diversified shareholders are assumed to not care about firm-specific risks, whereas, on the other hand hedging is seen to create value in that it reduces the probability of financial distress.
+* ROV is usually used when the value of a project is ''contingent'' on the ''value'' of some other asset or underlying variable.
+As above, since both hurdle rate and cash flows (and hence the riskiness of the firm) will be affected, the financing mix will impact the valuation of the firm.
+These are visible from the DCF and include discounted payback period, IRR, Modified IRR, equivalent annuity, capital efficiency, and ROI.
+There are two interrelated considerations here:
+Although it is in principle different from managerial finance which studies the financial management of all firms, rather than corporations alone, the main concepts in the study of corporate finance are applicable to the financial problems of all kinds of firms.
+This requires estimating the size and timing of all of the ''incremental'' cash flows resulting from the project.
+Using a related technique, analysts also run scenario based forecasts of NPV.
+A more robust Monte Carlo model would include the possible occurrence of risk events (e.g., a credit crunch) that drive variations in one or more of the DCF model inputs.
+This histogram provides information not visible from the static DCF: for example, it allows for an estimate of the probability that a project has a net present value greater than zero (or any other value).
+There is a fundamental debate  relating to "Risk Management" and shareholder value.
+However, financial accounting is the reporting of historical financial information, while financial management is concerned with the allocation of capital resources to increase a firm's value to the shareholders.
+Management must allocate the firm's limited resources between competing opportunities (projects).
+These standard derivative instruments include options, futures contracts, forward contracts, and swaps; the "second generation" exotic derivatives usually trade OTC.
+Continuing the above example: instead of assigning three discrete values to revenue growth, and to the other relevant variables, the analyst would assign an appropriate probability distribution to each variable (commonly triangular or beta), and, where possible, specify the observed or supposed correlation between the variables.
+In conjunction with NPV, there are several other measures used as (secondary) selection criteria in corporate finance.
+The debate links the value of risk management in a market to the cost of bankruptcy in that market.
+Thus, the terms "corporate finance" and "corporate financier" may be associated with transactions in which capital is raised in order to create, develop, grow or acquire businesses.
+Management must also choose the ''form'' of the dividend distribution, generally as cash dividends or via a share buyback.
+The hurdle rate should reflect the riskiness of the investment, typically measured by volatility of cash flows, and must take into account the project-relevant financing mix.
+As an example, the analyst may specify various revenue growth scenarios (e.g.
+The primary goal of financial management is to maximize or to continually increase shareholder value.
+Working capital is measured through the difference between resources in cash or readily convertible into cash (Current Assets), and cash requirements (Current Liabilities).
+These investments, in turn, have implications in terms of cash flow and cost of capital.
+Debt payments can also be made in the form of sinking fund provisions, whereby the corporation pays annual installments of the borrowed debt above regular interest charges.
+In general this is as follows: As above, the goal of Corporate Finance is the maximization of firm value.
+Financial theory suggests that the dividend policy should be set based upon the type of company and what management determines is the best use of those dividend resources for the firm to its shareholders.
+For this purpose, the most common method is to use Monte Carlo simulation to analyze the project's NPV.
+Debt comes in several forms, such as through bank loans, notes payable, or bonds issued to the public.
+(See also rNPV, where cash flows, as opposed to scenarios, are probability-weighted.)
+For example, the analyst will determine NPV at various growth rates in annual revenue as specified (usually at set increments, e.g.
+Recent legal and regulatory developments in the U.S. will likely alter the makeup of the group of arrangers and financiers willing to arrange and provide financing for certain highly leveraged transactions.
+Financial risk management, typically, is focused on the impact on corporate value due to adverse changes in commodity prices, interest rates, foreign exchange rates and stock prices (market risk).
+In a typical sensitivity analysis the analyst will vary one key factor while holding all other inputs constant, ''ceteris paribus''.
+The two most common tools are Decision Tree Analysis (DTA) and Real options valuation (ROV); they may often be used interchangeably:
+Investment analysis (or capital budgeting) is concerned with the setting of criteria about which value-adding projects should receive investment funding, and whether to finance that investment with equity or debt capital.
+In the United Kingdom and Commonwealth countries, the terms "corporate finance" and "corporate financier" tend to be associated with investment banking – i.e.
+Equity financing is less risky with respect to cash flow commitments, but results in a dilution of share ownership, control and earnings.
+* Mergers, demergers and takeovers of public companies, including public-to-private deals
+* Equity issues by companies, including the flotation of companies on a recognised stock exchange in order to raise capital for development and/or to restructure ownership
+Other techniques, such as securitization, or hedging using interest rate- or credit derivatives, are also common.
+Preferred stock is an equity security which may have any combination of features not possessed by common stock including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument.
+firms that earn high rates of return on invested capital) will use most of the firm's capital resources and surplus cash on investments and projects so the company can continue to expand its business operations into the future.
+When no growth or expansion is possible by a corporation and excess cash surplus exists and is not needed, then management is expected to pay out some or all of those surplus earnings in the form of cash dividends or to repurchase the company's stock through a share buyback program.
+See Financial modeling.
+Alternatively, some companies will pay "dividends" from stock rather than in cash; see Corporate action.
+The goal of Working Capital (i.e.
+(2) These projects must also be financed appropriately.
+As a result, capital resource allocations relating to working capital are always current, i.e.
+Preferred stock is a special class of shares which may have any combination of features not possessed by common stock.
+Note that hedging-related transactions will attract their own accounting treatment: see Hedge accounting, Mark-to-market accounting, FASB 133, IAS 39.
+In turn, given further demand, it would similarly expand the factory, and maintain it otherwise.
+* Preference in dividends
+One of the more recent innovations in this area from a theoretical point of view is the Market timing hypothesis.
+Also, Capital structure substitution theory hypothesizes that management manipulates the capital structure such that earnings per share (EPS) are maximized.
+Because company specific, "over the counter" (OTC) contracts tend to be costly to create and monitor, derivatives that trade on well-established financial markets or exchanges are often preferred.
+Much of the theory here, falls under the umbrella of the Trade-Off Theory in which firms are assumed to trade-off the tax benefits of debt with the bankruptcy costs of debt when choosing how to allocate the company's resources.
+Corporations may rely on borrowed funds (debt capital or credit) as sources of investment to sustain ongoing business operations or to fund future growth.
+Achieving the goals of corporate finance requires that any corporate investment be financed appropriately.
+So, whereas in a DCF valuation the most likely or average or scenario specific cash flows are discounted, here the "flexible and staged nature" of the investment is modelled, and hence "all" potential payoffs are considered.
+Investors, or shareholders, expect that there will be an upward trend in value of the company (or appreciate in value) over time to make their investment a profitable purchase.
+In contrast to the scenario approach above, the simulation produces several ''thousand'' random but possible outcomes, or trials, "covering all conceivable real world contingencies in proportion to their likelihood;"  see Monte Carlo Simulation versus "What If" Scenarios.
+Use of the term "corporate finance" varies considerably across the world.
+This represents the time difference between cash payment for raw materials and cash collection for sales.
+The result is shown as a percentage, determined by dividing relevant income for the 12 months by capital employed; Return on equity (ROE) shows this result for the firm's shareholders.
+Shareholder value may also be increased when corporations payout excess cash surplus (funds from retained earnings that are not needed for business) in the form of dividends.
+These distributions would then be "sampled" repeatedly – incorporating this correlation – so as to generate several thousand random but possible scenarios, with corresponding valuations, which are then used to generate the NPV histogram.
+An application of this methodology is to determine an "unbiased" NPV, where management determines a (subjective) probability for each scenario – the NPV for the project is then the probability-weighted average of the various scenarios; see First Chicago Method.
+In general, each project's value will be estimated using a discounted cash flow (DCF) valuation, and the opportunity with the highest value, as measured by the resultant net present value (NPV) will be selected (applied to Corporate Finance by Joel Dean in 1951).
+* Financing joint ventures, project finance, infrastructure finance, public-private partnerships and privatisations
+The resultant statistics (average NPV and standard deviation of NPV) will be a more accurate mirror of the project's "randomness" than the variance observed under the scenario based approach.
+by increasing the cost of capital) or the cash flows (using certainty equivalents, or applying (subjective) "haircuts" to the forecast numbers).
+Shareholder value is increased when corporations invest equity capital and other funds into projects (or investments) that earn a positive rate of return for the owners.
+* DTA values flexibility by incorporating ''possible events'' (or states) and consequent ''management decisions''.
+The typical role of an investment bank is to evaluate the company's financial needs and raise the appropriate type of capital that best fits those needs.
+Managers use models such as the CAPM or the APT to estimate a discount rate appropriate for a particular project, and use the weighted average cost of capital (''WACC'') to reflect the financing mix selected.
+(Considerations as to Risk appetite and return targets remain identical, although some constraints – such as those imposed by loan covenants – may be more relevant here).
+Corporations can alternatively sell shares of the company to investors to raise capital.
+Preferreds are senior (i.e.
+* The most widely used measure of cash flow is the net operating cycle, or cash conversion cycle.
+See also Stress testing.
+Preferred stock usually carries no voting rights, but may carry a dividend and may have priority over common stock in the payment of dividends and upon liquidation.
+An emerging area in finance theory is right-financing whereby investment banks and corporations can enhance investment return and company value over time by determining the right investment objectives, policy framework, institutional structure, source of financing (debt or equity) and expenditure framework within a given economy and under given market conditions.
+Investors prefer to buy shares of stock in companies that will consistently earn a positive rate of return on capital in the future, thus increasing the market value of the stock of that corporation.
+Capital budgeting is also concerned with the setting of criteria about which projects should receive investment funding to increase the value of the firm, and whether to finance that investment with equity or debt capital.
+projects where returns exceed the hurdle rate, and excess cash surplus is not needed, then – finance theory suggests – management should return some or all of the excess cash to shareholders as dividends.
+* Callability, at the option of the corporation
+A further question, is the shareholder's desire to optimize risk versus taking exposure to pure risk (a risk event that only has a negative side, such as loss of life or limb).
+Firstly, firm exposure to business and market risk is a direct result of previous capital financial investments.
+* Secondary equity issues, whether by means of private placing or further issues on a stock market, especially where linked to one of the transactions listed above.
+In the context of long term, capital budgeting, firm value is enhanced through appropriately selecting and funding NPV positive investments.
+(1) Corporate management seeks to maximize the value of the firm by investing in projects which yield a positive net present value when valued using an appropriate discount rate in consideration of risk.
+The sources of financing are, generically, capital self-generated by the firm and capital from external funders, obtained by issuing new debt and equity (and hybrid- or convertible securities).
+short term) management is therefore to ensure that the firm is able to operate, and that it has sufficient cash flow to service long term debt, and to satisfy both maturing short-term debt and upcoming operational expenses.
+In so doing, firm value is enhanced when, and if, the return on capital exceeds the cost of capital; See Economic value added (EVA).
+Working capital is the amount of funds which are necessary to an organization to continue its ongoing business operations, until the firm is reimbursed through payments for the goods or services it has delivered to its customers.
+In a DCF model, by contrast, there is no "branching" – each scenario must be modelled separately.)
+* Mergers, demergers, acquisitions or the sale of private companies
+The discipline typically focuses on risks that can be hedged using traded financial instruments, typically derivatives; see Cash flow hedge, Foreign exchange hedge, Financial engineering.
+These are often used as estimates of the underlying "spot price" and volatility for the real option valuation as above; see Real options valuation: Valuation inputs.

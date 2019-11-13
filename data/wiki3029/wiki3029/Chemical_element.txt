@@ -1,0 +1,200 @@
+The letter "'''Q'''" is reserved for "heat" in a chemical reaction.
+IUPAC prefers that isotope symbols be written in superscript notation when practical, for example 12C and 235U.
+* Plutonium, which was first produced synthetically in 1940 by Glenn T. Seaborg, but is now also known from a few long-persisting natural occurrences
+The abundance of elements in Earth's crust differs from that in the Solar system (as seen in the Sun and heavy planets like Jupiter) mainly in selective loss of the very lightest elements (hydrogen and helium) and also volatile neon, carbon (as hydrocarbons), nitrogen and sulfur, as a result of solar heating in the early formation of the solar system.
+The first letter of a chemical symbol is always capitalized, as in the preceding examples, and the subsequent letters, if any, are always lower case (small letters).
+By 1818, Jöns Jakob Berzelius had determined atomic weights for forty-five of the forty-nine then-accepted elements.
+Chemical elements constitute all of the ordinary matter of the universe.
+Of these 118 elements, 94 occur naturally on Earth.
+The atomic number of an element is equal to the number of protons in each atom, and defines the element.
+The 1913 discovery by English physicist Henry Moseley that the nuclear charge is the physical basis for an atom's atomic number, further refined when the nature of protons and neutrons became appreciated, eventually led to the current definition of an element based on atomic number (number of protons per atomic nucleus).
+When an element has allotropes with different densities, one representative allotrope is typically selected in summary presentations, while densities for each allotrope can be stated where more detail is provided.
+* Gases such as hydrogen, oxygen, nitrogen, helium, argon, and neon
+A more refined classification is often shown in colored presentations of the periodic table.
+However, the element abundance in intergalactic space can still closely resemble primordial conditions, unless it has been enriched by some means.
+Isotopes considered stable are those for which no radioactive decay has yet been observed.
+The number of protons in the atomic nucleus also determines its electric charge, which in turn determines the number of electrons of the atom in its non-ionized state.
+However, the atomic mass in '''u''' of each isotope is quite close to its simple mass number (always within 1%).
+For example, the three familiar allotropes of carbon (amorphous carbon, graphite, and diamond) have densities of 1.8–2.1, 2.267, and 3.515 g/cm3, respectively.
+Of the 80 elements with at least one stable isotope, 26 have only one single stable isotope.
+For example, atmospheric air is primarily a mixture of nitrogen, oxygen, and argon, and native solid elements occur in alloys, such as that of iron and nickel.
+Density is often expressed in grams per cubic centimeter (g/cm3).
+The history of the discovery and use of the elements began with primitive human societies that found native elements like carbon, sulfur, copper and gold.
+The composition of the human body, by contrast, more closely follows the composition of seawater—save that the human body has additional stores of carbon and nitrogen necessary to form the proteins and nucleic acids, together with phosphorus in the nucleic acids and energy transfer molecule adenosine triphosphate (ATP) that occurs in the cells of all living organisms.
+* The halogens fluorine, chlorine, bromine, and iodine
+There are 80 elements that have at least one stable isotope and 38 that have exclusively radioactive isotopes, which decay over time into other elements.
+As of 2010, there are 118 known elements (in this context, "known" means observed well enough, even from just a few decay products, to have been differentiated from other elements).
+Even smaller amounts of boron may have been produced in the Big Bang, since it has been observed in some very old stars, while carbon has not.
+Put another way, a chemical element cannot be transformed into other chemical elements by chemical processes.
+The lightest chemical elements are hydrogen and helium, both created by Big Bang nucleosynthesis during the first 20 minutes of the universe in a ratio of around 3:1 by mass (or 12:1 by number of atoms), along with tiny traces of the next two elements, lithium and beryllium.
+This number may be a fraction that is ''not'' close to a whole number, due to the averaging process.
+In this typographical system, chemical symbols are not mere abbreviations—though each consists of letters of the Latin alphabet.
+However, a pure gold ingot would be both chemically and isotopically pure, since ordinary gold consists only of one isotope, 197Au.
+Aluminum at 8% by mass is more common in the Earth's crust than in the universe and solar system, but the composition of the far more bulky mantle, which has magnesium and iron in place of aluminum (which occurs there only at 2% of mass) more closely mirrors the elemental composition of the solar system, save for the noted loss of volatile elements to space, and loss of iron which has migrated to the Earth's core.
+In thermochemistry, an element is defined to have an enthalpy of formation of zero in its standard state.
+For example, sodium has the chemical symbol 'Na' after the Latin ''natrium''.
+These include some produced by cosmic rays or other nuclear reactions (see cosmogenic and nucleogenic nuclides), and others produced as decay products of long-lived primordial nuclides.
+"'''Y'''" is also often used as a general chemical symbol, although it is also the symbol of yttrium.
+The following graph (note log scale) shows the abundance of elements in our solar system.
+The radioisotopes typically decay into other elements upon radiating an alpha or beta particle.
+At over 1.9 years, over a billion times longer than the current estimated age of the universe, bismuth-209 (atomic number 83) has the longest known alpha decay half-life of any naturally occurring element, and is almost always considered on par with the 80 stable elements.
+National differences emerged over the names of elements either for convenience, linguistic niceties, or nationalism.
+Mendeleev, the first to arrange the elements in a periodic manner.
+Melting and boiling points, typically expressed in degrees Celsius at a pressure of one atmosphere, are commonly used in characterizing the various elements.
+As a result, the primordial abundance of atoms (or ions) consisted of roughly 75% 1H, 25% 4He, and 0.01% deuterium, with only tiny traces of lithium, beryllium, and perhaps boron.
+(Plutonium is usually also considered a transient element because primordial plutonium has by now decayed to almost undetectable traces.)
+Aristotle, c. 350 BCE, also used the term ''stoicheia'' and added a fifth element called aether, which formed the heavens.
+While known for most elements, either or both of these measurements is still undetermined for some of the radioactive elements available in only tiny quantities.
+Similarly, the polyatomic nonmetals, diatomic nonmetals and the noble gases are nonmetals viewed in the broader sense.
+the same atomic number, ''Z'').
+For the second meaning, the terms "elementary substance" and "simple substance" have been suggested, but they have not gained much acceptance in the English-language chemical literature, whereas in some other languages their equivalent is widely used (e.g.
+Iron-56 is particularly common, since it is the most stable element that can easily be made from alpha particles (being a product of decay of radioactive nickel-56, ultimately made from 14 helium nuclei).
+Most (66 of 94) naturally occurring elements have more than one stable isotope.
+The remaining 5 transient elements (technetium, promethium, astatine, francium, and neptunium) occur only rarely, as products of rare decay modes or nuclear reaction processes involving uranium or other heavy elements, and almost all natural plutonium occurs as such a product rather than as primordial plutonium-244 (half-life 80 million years).
+Of the 94 naturally occurring elements, those with atomic numbers 1 through 82 each have at least one stable isotope (except for technetium, element 43 and promethium, element 61, which have no stable isotopes).
+All of the known stable isotopes occur naturally (see primordial isotope).
+The table shows the twelve most common elements in our galaxy (estimated spectroscopically), as measured in parts per million, by mass.
+Since Latin was the common language of science at that time, they were abbreviations based on the Latin names of metals.
+Later chemical elements were also assigned unique chemical symbols, based on the name of the element, but not necessarily in English.
+However, other notations, such as carbon-12 and uranium-235, or C-12 and U-235, are also used.
+For example, an "'''X'''" indicates a variable group (usually a halogen) in a class of compounds, while "'''R'''" is a radical, meaning a compound structure such as a hydrocarbon chain.
+In general, such elements up to iron are made in large stars in the process of becoming supernovas.
+Certain kinds of organisms require particular additional elements, for example the magnesium in chlorophyll in green plants, the calcium in mollusc shells, or the iron in the hemoglobin in vertebrate animals' red blood cells.
+"'''E'''" is used in organic chemistry to denote an electron-withdrawing group or an electrophile; similarly "'''Nu'''" denotes a nucleophile.
+The more distant galaxies are being viewed as they appeared in the past, so their abundances of elements appear closer to the primordial mixture.
+In 1955, element 101 was discovered and named mendelevium in honor of D.I.
+The mean number of stable isotopes for the 80 stable elements is 3.1 stable isotopes per element.
+Elements in our galaxy
+The abundance of elements in the Solar System is in keeping with their origin from nucleosynthesis in the Big Bang and a number of progenitor supernova stars.
+Thus, all carbon isotopes have nearly identical chemical properties because they all have six protons and six electrons, even though carbon atoms may, for example, have 6 or 8 neutrons.
+hydrogen in water) as well as for a pure chemical substance consisting of a single element (e.g.
+This pattern of artificial production and later natural discovery has been repeated with several other radioactive naturally-occurring rare elements.
+The electrons are placed into atomic orbitals that determine the atom's various chemical properties.
+For example, all carbon atoms contain 6 protons in their atomic nucleus; so the atomic number of carbon is 6.
+Phosphorus, cobalt, and platinum were isolated before 1750.
+The nuclides of stable and radioactive elements are also available as a list of nuclides, sorted by length of half-life for those that are unstable.
+An example of a referral to a mass number is "magnesium-24," which is an atom with 24 nucleons (12 protons and 12 neutrons).
+For example, the formula for heavy water may be written D2O instead of 2H2O.
+The symbol for atomic number is ''Z''.
+The version of this classification used in the periodic tables presented here includes: actinides, alkali metals, alkaline earth metals, halogens, lanthanides, transition metals, post-transition metals, metalloids, polyatomic nonmetals, diatomic nonmetals, and noble gases.
+However astronomical observations suggest that ordinary observable matter is only approximately 15% of the matter in the universe: the remainder is dark matter, the composition of which is unknown, but it is not composed of chemical elements.
+The Germans were reluctant to relinquish naming rights to the French, often calling it ''cassiopeium''.
+Cosmic ray spallation (fragmentation) of carbon, nitrogen, and oxygen is important to the production of lithium, beryllium and boron.
+For purposes of international communication and trade, the official names of the chemical elements both ancient and more recently recognized are decided by the International Union of Pure and Applied Chemistry (IUPAC), which has decided on a sort of international English language, drawing on traditional English names even when an element's chemical symbol is based on a Latin or other traditional word, for example adopting "gold" rather than "aurum" as the name for the 79th element (Au).
+This fraction is about 15% of the total matter, with the remainder of the matter (85%) being dark matter.
+Very abundant hydrogen and helium are products of the Big Bang, but the next three elements are rare since they had little time to form in the Big Bang and are not made in stars (they are, however, produced in small quantities by the breakup of heavier elements in interstellar dust, as a result of impact by cosmic rays).
+These are also named by IUPAC, which generally adopts the name chosen by the discoverer.
+The remaining 10 naturally occurring elements possess half lives too short for them to have been present at the beginning of the Solar System, and are therefore considered transient elements.
+IUPAC officially recognized flerovium and livermorium, elements 114 and 116, in June 2011 and approved their names in May 2012.
+The symbols were not followed by a period (full stop) as with abbreviations.
+As they were identified as elements, the existing names for anciently-known elements (e.g., gold, mercury, iron) were kept in most countries.
+French ''corps simple'', Russian ''простое вещество'').
+A '''chemical element''' or '''element''' is a species of atoms having the same number of protons in their atomic nuclei (i.e.
+* The more common radioactive elements, including uranium, thorium, radium, and radon
+* Three scarce decay products of uranium or thorium, (astatine, francium, and protactinium), and
+Isotope names of chemical elements are also uncapitalized if written out, ''e.g.,'' carbon-12 or uranium-235.
+There are 118 elements that have been identified, of which the first 94 occur naturally on Earth with the remaining 24 being synthetic elements.
+The many radioisotopes that are not found in nature have been characterized after being artificially made.
+Elements with atomic numbers 1 through 40 are all stable, while those with atomic numbers 41 through 82 (except technetium and promethium) are metastable.
+The nature of dark matter is unknown, but it is not composed of atoms of chemical elements because it contains no protons, neutrons, or electrons.
+The first of these symbols were intended to be fully universal.
+Iron is the most abundant element (by mass) making up Earth, while oxygen is the most common element in the crust of Earth.
+For example, the relative atomic mass of chlorine is 35.453 '''u''', which differs greatly from a whole number due to being made of an average of 76% chlorine-35 and 24% chlorine-37.
+It was used extensively as such by American publications prior to the international standardization (in 1950).
+One element can form multiple substances different by their structure; they are called allotropes of the element.
+Isotopes are atoms of the same element (that is, with the same number of protons in their atomic nucleus), but having ''different'' numbers of neutrons.
+The first transuranium element (element with atomic number greater than 92) discovered was neptunium in 1940.
+The remaining naturally occurring elements were discovered or isolated in subsequent decades, and various additional elements have also been produced synthetically, with much of that work pioneered by Glenn T. Seaborg.
+Chemical element ''symbols'' (such as Cf for californium and Es for einsteinium), are always capitalized (see below).
+* Most of the rare-earth elements, including cerium, lanthanum, gadolinium, and neodymium.
+The name and symbol were officially endorsed by IUPAC on 19 February 2010.
+Carbon atoms may have different numbers of neutrons; atoms of the same element having different numbers of neutrons are known as isotopes of the element.
+Later civilizations extracted elemental copper, tin, lead and iron from their ores by smelting, using charcoal.
+Nuclear scientists, however, define a pure element as one that consists of only one stable isotope.
+Since 1999 claims for the discovery of new elements have been considered by the IUPAC/IUPAP Joint Working Party.
+The half-lives of these metastable "theoretical radionuclides" are so long (at least 100 million times longer than the estimated age of the universe) that their radioactive decay has yet to be detected by experiment.
+As a special case, the three naturally occurring isotopes of the element hydrogen are often specified as '''H''' for 1H (protium), '''D''' for 2H (deuterium), and '''T''' for 3H (tritium).
+It is generally agreed that no heavier elements than boron were produced in the Big Bang.
+This system restricts the terms "metal" and "nonmetal" to only certain of the more broadly defined metals and nonmetals, adding additional terms for certain sets of the more broadly viewed metals and nonmetals.
+Subsequent enrichment of galactic halos occurred due to stellar nucleosynthesis and supernova nucleosynthesis.
+The same applies to "W" (wolfram) for tungsten, "Fe" (ferrum) for iron, "Hg" (hydrargyrum) for mercury, "Sn" (stannum) for tin, "K" (kalium) for potassium, "Au" (aurum) for gold, "Ag" (argentum) for silver, "Pb" (plumbum) for lead, "Cu" (cuprum) for copper, and "Sb" (stibium) for antimony.
+Elements with atomic numbers 83 through 94 are unstable to the point that radioactive decay of all isotopes can be detected.
+That is why the atomic number, rather than mass number or atomic weight, is considered the identifying characteristic of a chemical element.
+Currently, IUPAC defines an element to exist if it has isotopes with a lifetime longer than the 10−14 seconds it takes the nucleus to form an electronic cloud.
+Ten materials familiar to various prehistoric cultures are now known to be chemical elements: Carbon, copper, gold, iron, lead, mercury, silver, sulfur, tin, and zinc.
+The largest number of stable isotopes that occur for a single element is 10 (for tin, element 50).
+Beginning with carbon, elements are produced in stars by buildup from alpha particles (helium nuclei), resulting in an alternatingly larger abundance of elements with even atomic numbers (these are also more stable).
+On Earth (and elsewhere), trace amounts of various elements continue to be produced from other elements as products of natural transmutation processes.
+These 94 elements have been detected in the universe at large, in the spectra of stars and also supernovae, where short-lived radioactive elements are newly being made.
+According to IUPAC, chemical elements are not proper nouns in English; consequently, the full name of an element is not routinely capitalized in English, even if derived from a proper noun, as in californium and einsteinium.
+Elements with atomic numbers 83 through 94 are unstable to the point that their radioactive decay can be detected.
+The current system of chemical notation was invented by Berzelius.
+In general, when expressed in '''u''' it differs in value slightly from the mass number for a given nuclide (or isotope) since the mass of the protons and neutrons is not exactly 1 '''u''', since the electrons contribute a lesser share to the atomic mass as neutron number exceeds proton number, and (finally) because of the nuclear binding energy.
+Only a minority of elements are found uncombined as relatively pure minerals.
+The first 94 elements have been detected directly on Earth as primordial nuclides present from the formation of the solar system, or as naturally-occurring fission or transmutation products of uranium and thorium.
+* Such now-familiar industrial materials as aluminium, silicon, nickel, chromium, magnesium, and tungsten
+Elements during this time were generally distinguished by their atomic weights, a property measurable with fair accuracy by available analytical techniques.
+The use of atomic numbers, rather than atomic weights, to distinguish elements has greater predictive value (since these numbers are integers), and also resolves some ambiguities in the chemistry-based view due to varying properties of isotopes and allotropes within the same element.
+The density at a selected standard temperature and pressure (STP) is frequently used in characterizing the elements.
+The mass number is always a simple whole number and has units of "nucleons."
+In chemistry, a pure element means a substance whose atoms all (or in practice almost all) have the same atomic number, or number of protons.
+Certain elements have no stable isotopes and are composed ''only'' of radioactive isotopes: specifically the elements without any stable isotopes are technetium (atomic number 43), promethium (atomic number 61), and all observed elements with atomic numbers greater than 82.
+In December 2015, IUPAC recognized elements 113, 115, 117 and 118, and announced the elements' proposed final names on 8 June 2016.
+In the second half of the twentieth century, physics laboratories became able to produce nuclei of chemical elements with half-lives too short for an appreciable amount of them to exist at any time.
+Elements heavier in atomic number than iron, as heavy as uranium and plutonium, are produced by explosive nucleosynthesis in supernovas and other cataclysmic cosmic events.
+Elements heavier than iron are made in energy-absorbing processes in large stars, and their abundance in the universe (and on Earth) generally decreases with their atomic number.
+By 1914, seventy-two elements were known, all naturally occurring.
+The terms "light" and "heavy" are sometimes also used informally to indicate relative atomic numbers (not densities), as in "lighter than carbon" or "heavier than lead", although technically the weight or mass of atoms of an element (their atomic weights or atomic masses) do not always increase monotonically with their atomic numbers.
+For example, trace (but detectable) amounts of carbon-14 (14C) are continually produced in the atmosphere by cosmic rays impacting nitrogen atoms, and argon-40 (40Ar) is continually produced by the decay of primordially occurring but unstable potassium-40 (40K).
+Of the 94 naturally occurring elements, 84 are considered primordial and either stable or weakly radioactive.
+Formation of elements with from six to twenty six protons occurred and continues to occur in main sequence stars via stellar nucleosynthesis.
+All but a few of the most inert elements, such as noble gases and noble metals, are usually found on Earth in chemically combined form, as chemical compounds.
+Chemists and nuclear scientists have different definitions of a ''pure element''.
+This practice can lead to the controversial question of which research group actually discovered an element, a question that delayed the naming of elements with atomic number of 104 and higher for a considerable amount of time.
+Except in the case of the isotopes of hydrogen (which differ greatly from each other in relative mass—enough to cause chemical effects), the isotopes of a given element are chemically nearly indistinguishable.
+Three additional materials now accepted as elements, arsenic, antimony, and bismuth, were recognized as distinct substances prior to 1500 AD.
+Parts per millionby mass
+Alchemists and chemists subsequently identified many more, with almost all of the naturally-occurring elements becoming known by 1900.
+Precursors of such controversies involved the nationalistic namings of elements in the late 19th century.
+Of these 10 transient elements, 5 (polonium, radon, radium, actinium, and protactinium) are relatively common decay products of thorium, uranium, and plutonium.
+Use of the periodic table is now ubiquitous within the academic discipline of chemistry, providing an extremely useful framework to classify, systematize and compare all the many different forms of chemical behavior.
+"'''Z'''" is also frequently used as a general variable group.
+Most of the hydrogen and helium in the universe was produced primordially in the first few minutes of the Big Bang.
+Similarly, the British discoverer of ''niobium'' originally named it ''columbium,'' in reference to the New World.
+The table has also found wide application in physics, geology, biology, materials science, engineering, agriculture, medicine, nutrition, environmental health, and astronomy.
+The elements studied to date as solid samples have eight kinds of crystal structures: cubic, body-centered cubic, face-centered cubic, hexagonal, monoclinic, orthorhombic, rhombohedral, and tetragonal.
+Before chemistry became a science, alchemists had designed arcane symbols for both metals and common compounds.
+The heaviest element that is believed to have been synthesized to date is element 118, ununoctium, on 9 October 2006, by the Flerov Laboratory of Nuclear Reactions in Dubna, Russia.
+They are intended as universal symbols for people of all languages and alphabets.
+If an element has isotopes that are not radioactive, these are termed "stable" isotopes.
+Carbon in everyday life and in chemistry is a mixture of 12C (about 98.9%), 13C (about 1.1%) and about 1 atom per trillion of 14C.
+Lists of the elements are available by name, by symbol, by atomic number, by density, by melting point, and by boiling point as well as ionization energies of the elements.
+For example, ''lutetium'' was named in reference to Paris, France.
+However, elements that are practical to sell in bulk in many countries often still have locally used national names, and countries whose national language does not use the Latin alphabet are likely to use the IUPAC element names.
+Only about 4% of the total mass of the universe is made of atoms or ions, and thus represented by chemical elements.
+Most of the remaining naturally occurring chemical elements were identified and characterized by 1900, including:
+(The remaining non-matter part of the mass of the universe is composed of the even more mysterious dark energy).
+On Earth, small amounts of new atoms are naturally produced in nucleogenic reactions, or in cosmogenic processes, such as cosmic ray spallation.
+Elements isolated or produced since 1900 include:
+At least two additional, two-letter generic chemical symbols are also in informal usage, "'''Ln'''" for any lanthanide element and "'''An'''" for any actinide element.
+* The three incidentally occurring natural elements (neptunium, promethium, and technetium), which were all first produced synthetically but later discovered in trace amounts in certain geological samples
+For example, the reference state for carbon is graphite, because the structure of graphite is more stable than that of the other allotropes.
+For example, the atomic mass of chlorine-35 to five significant digits is 34.969 '''u''' and that of chlorine-37 is 36.966 '''u'''.
+The names, nihonium (113, Nh), moscovium (115, Mc), tennessine (117, Ts), and oganesson (118, Og), are expected to be approved by the end of 2016.
+For example, a copper wire is 99.99% chemically pure if 99.99% of its atoms are copper, with 29 protons each.
+Four of these elements, bismuth (element 83), thorium (element 90), uranium (element 92), and plutonium (element 94), have one or more isotopes with half-lives long enough to survive as remnants of the explosive stellar nucleosynthesis that produced the heavy elements before the formation of our solar system.
+In this system, the alkali metals, alkaline earth metals, and transition metals, as well as the lanthanides and the actinides, are special groups of the metals viewed in a broader sense.
+(See element naming controversy).
+The properties of the chemical elements are summarized on the periodic table, which organizes the elements by increasing atomic number into rows ("periods") in which the columns ("groups") share recurring ("periodic") physical and chemical properties.
+* The three remaining undiscovered regularly occurring stable natural elements: hafnium, lutetium, and rhenium
+With his advances in the atomic theory of matter, John Dalton devised his own simpler symbols, based on circles, to depict molecules.
+Since several elements are gases at commonly encountered temperatures, their densities are usually stated for their gaseous forms; when liquefied or solidified, the gaseous elements have densities similar to those of the other elements.
+Nearby galaxies that have evolved along similar lines have a corresponding enrichment of elements heavier than hydrogen and helium.
+The relative atomic mass (historically and commonly also called "atomic weight") of an element is the ''average'' of the atomic masses of all the chemical element's isotopes as found in a particular environment, weighted by isotopic abundance, relative to the atomic mass unit ('''u''').
+The known elements have atomic numbers from 1 through 118, conventionally presented as Arabic numerals.
+Another commonly used basic distinction among the elements is their state of matter (phase), whether solid, liquid, or gas, at a selected standard temperature and pressure (STP).
+Different isotopes of a given element are distinguished by their mass numbers, which are conventionally written as a superscript on the left hand side of the atomic symbol (e.g., 238U).
+Most of the elements are solids at conventional temperatures and atmospheric pressure, while several are gases.
+Its principles are especially important in chemical engineering.
+All of the elements have some isotopes that are radioactive (radioisotopes), although not all of these radioisotopes occur naturally.
+Atoms of chemically pure elements may bond to each other chemically in more than one way, allowing the pure element to exist in multiple structures (spatial arrangements of atoms), known as allotropes, which differ in their properties.

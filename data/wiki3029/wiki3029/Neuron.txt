@@ -1,0 +1,200 @@
+As the disorder progresses, cognitive (intellectual) impairment extends to the domains of language (aphasia), skilled movements (apraxia), and recognition (agnosia), and functions such as decision-making and planning become impaired.
+Glutamate acts on several different types of receptors, and have effects that are excitatory at ionotropic receptors and a modulatory effect at metabotropic receptors.
+'''Myasthenia gravis''' is a neuromuscular disease leading to fluctuating muscle weakness and fatigability during simple activities.
+The neuron's place as the primary functional unit of the nervous system was first recognized in the early 20th century through the work of the Spanish anatomist Santiago Ramón y Cajal.
+This is also known as a wave of depolarization.
+Similarly GABA acts on several different types of receptors, but all of them have effects (in adult animals, at least) that are inhibitory.
+When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.
+Dopamine is synthesized from the amino acid tyrosine.
+The neurotransmitters diffuse across the synaptic cleft and activate receptors on the postsynaptic neuron.
+The term neurite is used to describe either a dendrite or an axon, particularly in its undifferentiated stage.
+In fact, there are examples of neurons forming even tighter coupling: the squid giant axon arises from the fusion of multiple axons.
+The interactions between ion channels and ion pumps produce a voltage difference across the membrane, typically a bit less than 1/10 of a volt at baseline.
+The primary symptoms are the results of decreased stimulation of the motor cortex by the basal ganglia, normally caused by the insufficient formation and action of dopamine, which is produced in the dopaminergic neurons of the brain.
+Dendrites typically branch profusely, getting thinner with each branching, and extending their farthest branches a few hundred micrometers from the soma.
+For example, glial cells, which are not considered neurons, play an essential role in information processing.
+PD is both chronic and progressive.
+Cl− causes hyperpolarization within the neuron, decreasing the probability of an action potential firing as the voltage becomes more negative (recall that for an action potential to fire, a positive voltage threshold must be reached).
+In a chemical synapse, the process of synaptic transmission is as follows: when an action potential reaches the axon terminal, it opens voltage-gated calcium channels, allowing calcium ions to enter the terminal.
+The conduction of nerve impulses is an example of an all-or-none response.
+A lack of 5-HT at postsynaptic neurons has been linked to depression.
+A typical neuron consists of a cell body (soma), dendrites, and an axon.
+*Cholinergic neurons—acetylcholine.
+There are different types of receptor response to stimulus, slowly adapting or tonic receptors respond to steady stimulus and produce a steady rate of firing.
+Neurons are highly specialized for the processing and transmission of cellular signals.
+Neurons communicate by chemical and electrical synapses in a process known as neurotransmission, also called synaptic transmission.
+Astrocytes are star-shaped glial cells that have also been observed to turn into neurons by virtue of the stem cell characteristic pluripotency.
+Since over 90% of the neurons in the brain release either glutamate or GABA, these labels encompass the great majority of neurons.
+If the voltage changes by a large enough amount, an all-or-none electrochemical pulse called an action potential is generated, which travels rapidly along the cell's axon, and activates synaptic connections with other cells when it arrives.
+A neurotransmitter can be thought of as a key, and a receptor as a lock: the same type of key can here be used to open many different types of locks.
+*The axon is a finer, cable-like projection that can extend tens, hundreds, or even tens of thousands of times the diameter of the soma in length.
+Some neurons also communicate via electrical synapses, which are direct, electrically conductive junctions between cells.
+Type I cells can be further divided by where the cell body or soma is located.
+:#NMDA receptors are another cation channel that is more permeable to Ca2+.
+Rather, it depends on the class of chemical receptors present on the postsynaptic neuron.
+In vertebrates, the majority of neurons belong to the central nervous system, but some reside in peripheral ganglia, and many sensory neurons are situated in sensory organs such as the retina and cochlea.
+This voltage has two functions: first, it provides a power source for an assortment of voltage-dependent protein machinery that is embedded in the membrane; second, it provides a basis for electrical signal transmission between different parts of the membrane.
+As it contains the nucleus, most protein synthesis occurs here.
+A lower estimate (published in 2009) is 86 billion neurons, of which 16.3 billion are in the cerebral cortex, and 69 billion in the cerebellum.
+Multiple sclerosis is a neurological disorder that results from demyelination of axons in the central nervous system.
+Neural coding is concerned with how sensory and other information is represented in the brain by neurons.
+'''Parkinson's disease''' (PD), also known as ''Parkinson disease'', is a degenerative disorder of the central nervous system that often impairs the sufferer's motor skills and speech.
+The fruit fly ''Drosophila melanogaster'', a common subject in biological experiments, has around 100,000 neurons and exhibits many complex behaviors.
+Because of this consistency, it is common for neuroscientists to simplify the terminology by referring to cells that release glutamate as "excitatory neurons", and cells that release GABA as "inhibitory neurons".
+Recent studies have also shown that the body contains a variety of stem cell types that have the capacity to differentiate into neurons.
+Of the four 5-HT receptor classes, 3 are GPCR and 1 is ligand gated cation channel.
+Glutamate is one of two primary excitatory amino acid neurotransmitter, the other being Aspartate.
+Only sponges and a few other simpler animals lack neurons.
+Axons and dendrites in the central nervous system are typically only about one micrometer thick, while some in the peripheral nervous system are much thicker.
+Neurons such as Purkinje cells in the cerebellum can have over 1000 dendritic branches, making connections with tens of thousands of other cells; other neurons, such as the magnocellular neurons of the supraoptic nucleus, have only one or two dendrites, each of which receives thousands of synapses.
+The theory was put forward by Santiago Ramón y Cajal in the late 19th century.
+It held that neurons are discrete cells (not connected in a meshwork), acting as metabolically distinct units.
+The nucleus can range from 3 to 18 micrometers in diameter.
+The canonical view of the neuron attributes dedicated functions to its various anatomical components; however dendrites and axons often act in ways contrary to their so-called main function.
+There are also other types of neurons that have consistent effects on their targets, for example "excitatory" motor neurons in the spinal cord that release acetylcholine, and "inhibitory" spinal neurons that release glycine.
+Unlike dendrites, an axon usually maintains the same diameter as it extends.
+Most ion channels are permeable only to specific types of ions.
+A typical neuron is divided into three parts: the soma or cell body, dendrites, and axon.
+Like all animal cells,  the cell body of every neuron is enclosed by a plasma membrane, a bilayer of lipid molecules with many types of protein structures embedded in it.
+Afferent and efferent also refer generally to neurons that, respectively, bring information to or send information from the brain region.
+When blood flow is suppressed, glutamate is released from presynaptic neurons causing NMDA and AMPA receptor activation more so than would normally be the case outside of stress conditions, leading to elevated Ca2+ and Na+ entering the post synaptic neuron and cell damage.
+Endoplasmic reticulum degrades and mitochondria swell up and eventually disintegrate.
+It is generally believed that neurons do not undergo cell division but recent research in dogs shows that in some instances in the retina they do.
+Some ion channels are voltage gated, meaning that they can be switched between open and closed states by altering the voltage difference across the membrane.
+The number of neurons in the brain varies dramatically from species to species.
+This makes it the most easily excited part of the neuron and the spike initiation zone for the axon: in electrophysiological terms it has the most negative action potential threshold.
+The effect upon the postsynaptic neuron is determined not by the presynaptic neuron or by the neurotransmitter, but by the type of receptor that is activated.
+Although neurons are very diverse and there are exceptions to nearly every rule, it is convenient to begin with a schematic description of the structure and function of a "typical" neuron.
+The axon carries nerve signals away from the soma (and also carries some types of information back to it).
+Also, electrical synapses are more common than previously thought, meaning that there are direct, cytoplasmic connections between neurons.
+The function of NMDA receptors is dependant on Glycine receptor binding as a co-agonist within the channel pore.
+The soma is usually about 10–25 micrometers in diameter and often is not much larger than the cell nucleus it contains.
+However, it is now becoming increasingly apparent that even single neurons can perform complex computations.
+Demyelination is the act of demyelinating, or the loss of the myelin sheath insulating the nerves.
+Neurons exist in a number of different shapes and sizes and can be classified by their morphology and function.
+Parkinson's disease belongs to a group of conditions called movement disorders.
+Other structural proteins that are important for neuronal function are actin and the tubulin of microtubules.
+These signals between neurons occur via synapses,  specialized connections with other cells.
+There are a number of other receptor types that are called quickly adapting or phasic receptors, where firing decreases or stops with steady stimulus; examples include: skin when touched by an object causes the neurons to fire, but if the object maintains even pressure against the skin, the neurons stop firing.
+Besides being an anatomical structure, the axon hillock is also the part of the neuron that has the greatest density of voltage-dependent sodium channels.
+:#Metabotropic receptors, GPCRs modulate synaptic transmission and postsynaptic excitability.
+*The dendrites of a neuron are cellular extensions with many branches.
+The cell membrane of the axon and soma contain voltage-gated ion channels that allow the neuron to generate and propagate an electrical signal (an action potential).
+Specialized types of neurons include: sensory neurons which respond to touch, sound, light and all other stimuli affecting the cells of the sensory organs that then send signals to the  spinal cord and brain, motor neurons that receive signals from the brain and spinal cord to cause muscle contractions and affect glandular outputs, and interneurons which connect neurons to other neurons within the same region of the brain, or spinal cord in neural networks.
+The two most common neurotransmitters in the brain, glutamate and GABA, have actions that are largely consistent.
+The myelin sheath in peripheral nerves normally runs along the axon in sections about 1&nbsp;mm long, punctuated by unsheathed nodes of Ranvier, which contain a high density of voltage-gated ion channels.
+Nicotinic receptors, are pentameric ligand-gated ion channels composed of alpha and beta subunits that bind nicotine.
+::Glutamate can cause excitotoxicity when blood flow to the brain is interrupted, resulting in brain damage.
+Degeneration follows with swelling of the axolemma, and eventually leads to bead like formation.
+A lipid bilayer is a powerful electrical insulator, but in neurons, many of the protein structures embedded in the membrane are electrically active.
+Estimates vary for an adult, ranging from 1014 to 5 x 1014 synapses (100 to 500 trillion).
+Sensory neurons can have axons that run from the toes to the posterior column of the spinal cord, over 1.5 meters in adults.
+Ramón y Cajal also postulated the Law of Dynamic Polarization, which states that a neuron receives signals at its dendrites and cell body and transmits them, as action potentials, along the axon in one direction: away from the cell body.
+Furthermore, in addition to the typical axodendritic and axosomatic synapses, there are axoaxonic (axon-to-axon) and dendrodendritic (dendrite-to-dendrite) synapses.
+The pacinian corpuscle is one such structure.
+Ligand binding opens the channel causing influx of Na+ depolarization and increases the probability of presynaptic neurotransmitter release.
+The electrical aspect depends on properties of the neuron's membrane.
+So-called OFF bipolar cells are, like most neurons, excited by the released glutamate.
+'''Alzheimer's disease''' (AD), also known simply as ''Alzheimer's'', is a neurodegenerative disease characterized by progressive cognitive deterioration together with declining activities of daily living and neuropsychiatric symptoms or behavioral changes.
+This is where the majority of input to the neuron occurs via the dendritic spine.
+The term ''neuron'' was coined by the German anatomist Heinrich Wilhelm Waldeyer.
+These include ion channels that permit electrically charged ions to flow across the membrane, and ion pumps that actively transport ions from one side of the membrane to the other.
+GABA is synthesized from glutamate neurotransmitters by the enzyme glutamate decarboxylase.
+When pressure is applied and the corpuscle is deformed, mechanical stimulus is transferred to the axon, which fires.
+The part of the axon where it emerges from the soma is called the axon hillock.
+Neurons can connect to each other to form neural networks.
+Dendrites contain granular endoplasmic reticulum or ribosomes, in diminishing amounts as the distance from the cell body increases.
+The cell body of a neuron is supported by a complex mesh of structural proteins called neurofilaments, which are assembled into larger neurofibrils.
+By inserting electrodes into the giant squid axons, accurate measurements were made of the membrane potential.
+Indeed, artificial intelligence research has followed this line.
+*Serotonergic neurons—serotonin.
+It has been estimated that the brain of a three-year-old child has about 1015 synapses (1 quadrillion).
+The soma may give rise to numerous dendrites, but never to more than one axon.
+The sheaths are formed by glial cells: oligodendrocytes in the central nervous system and Schwann cells in the peripheral nervous system.
+While the axon and axon hillock are generally involved in information outflow, this region can also receive input from other neurons.
+There are, however, many exceptions to these rules: for example, neurons can lack dendrites, or have no axon, and synapses can connect an axon to another axon or a dendrite to another dendrite.
+It is possible to identify the type of inhibitory effect a presynaptic neuron will have on a postsynaptic neuron, based on the proteins the presynaptic neuron expresses.
+*The soma is the body of the neuron.
+Thus the axon undergoes complete fragmentation.
+Acetylcholine is released from presynaptic neurons into the synaptic cleft.
+*Glutamatergic neurons—glutamate.
+:#AMPA and Kainate receptors both function as cation channels permeable to Na+ cation channels mediating fast excitatory synaptic transmission
+Given their diversity of functions performed in different parts of the nervous system, there is, as expected, a wide variety in their shape, size, and electrochemical properties.
+Neurons communicate with one another via synapses, where the axon terminal or ''en passant'' boutons (terminals located along the length of the axon) of one cell impinges upon another neuron's dendrite, soma or, less commonly, axon.
+Changes in the cross-membrane voltage can alter the function of voltage-dependent ion channels.
+Weakness is typically caused by circulating antibodies that block acetylcholine receptors at the post-synaptic neuromuscular junction, inhibiting the stimulative effect of the neurotransmitter acetylcholine.
+Synaptic signals may be excitatory or inhibitory.
+The disintegration is dependent on ubiquitin and calpain proteases (caused by influx of calcium ion), suggesting that axonal degeneration is an active process.
+If the net excitation received by a neuron over a short period of time is large enough, the neuron generates a brief pulse called an action potential, which originates at the soma and propagates rapidly along the axon, activating synapses onto other neurons as it goes.
+Glutamate receptors are one of four categories, three of which are ligand-gated ion channels and one of which is a G-protein coupled receptor (often referred to as GPCR).
+One estimate (published in 1988) puts the human brain at about 100 billion (1011) neurons and 100 trillion (1014) synapses.
+Around the cell body is a branching dendritic tree that receives signals from other neurons.
+The key to neural function is the synaptic signaling process, which is partly electrical and partly chemical.
+The axon leaves the soma at a swelling called the axon hillock, and can extend for great distances, giving rise to hundreds of branches.
+The process takes about roughly 24 hrs in the PNS, and longer in the CNS.
+Other types of adaptation are important in extending the function of a number of other neurons.
+High cytosolic calcium in the axon terminal also triggers mitochondrial calcium uptake, which, in turn, activates mitochondrial energy metabolism to produce ATP to support continuous neurotransmission.
+The distinction between excitatory and inhibitory neurotransmitters is not absolute, however.
+There are different internal structural characteristics between axons and dendrites.
+In other words, if a neuron responds at all, then it must respond completely.
+This can be likened to an intrinsic property of light where to get greater intensity of a specific frequency (color) there have to be more photons, as the photons can't become "stronger" for a specific frequency.
+To minimize metabolic expense while maintaining rapid conduction, many neurons have insulating sheaths of myelin around their axons.
+Synaptic signals from other neurons are received by the soma and dendrites; signals to other neurons are transmitted by the axon.
+An axon (also called a nerve fiber when myelinated) is a special cellular extension (process) that arises from the cell body at a site called the axon hillock and travels for a distance, as far as 1 meter in humans or even more in other species.
+There are several stimuli that can activate a neuron leading to electrical activity, including pressure, stretch, chemical transmitters, and changes of the electric potential across the cell membrane.
+Basophilic dyes such as aniline or (weakly) haematoxylin  highlight negatively charged components, and so bind to the phosphate backbone of the ribosomal RNA.
+By contrast, the nematode worm ''Caenorhabditis elegans'' has just 302 neurons, making it an ideal experimental subject as scientists have been able to map all of the organism's neurons.
+In humans, neurogenesis largely ceases during adulthood; but in two brain areas, the hippocampus and olfactory bulb, there is strong evidence for generation of substantial numbers of new neurons.
+Historically it has been thought that neurons are relatively simple devices and that the immense computational power of the brain comes from having a great many of them.
+In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still.
+Being larger than but similar in nature to human neurons, squid cells were easier to study.
+It is often possible for peripheral axons to regrow if they are severed.
+Named after German psychiatrist and neuropathologist Franz Nissl (1860–1919), they are involved in protein synthesis and their prominence can be explained by the fact that nerve cells are very metabolically active.
+The silver impregnation stains are an extremely useful method for neuroanatomical investigations because, for reasons unknown, it stains a very small percentage of cells in a tissue, so one is able to see the complete micro structure of individual neurons without much overlap from other cells in the densely packed brain.
+Dopamine is connected to mood and behavior, and modulates both pre and post synaptic neurotransmission.
+Fully differentiated neurons are permanently postmitotic; however, research starting around 2002 shows that additional neurons throughout the brain can originate from neural stem cells through the process of neurogenesis.
+This number declines with age, stabilizing by adulthood.
+The sheath enables action potentials to travel faster than in unmyelinated axons of the same diameter, whilst using less energy.
+Later discoveries yielded a few refinements to the simplest form of the doctrine.
+Numerous microscopic clumps called '''Nissl substance''' (or Nissl bodies) are seen when nerve cell bodies are stained with a basophilic ("base-loving") dye.
+The neuron doctrine is the now fundamental idea that neurons are the basic structural and functional units of the nervous system.
+Dendrites are thin structures that arise from the cell body, often extending for hundreds of micrometres and branching multiple times, giving rise to a complex "dendritic tree".
+Serotonin is synthesized from tryptophan by tryptophan hydroxylase, and then further by aromatic acid decarboxylase.
+A typical synapse, then, is a contact between the axon of one neuron and a dendrite or soma of another.
+Stimuli cause specific ion-channels within the cell membrane to open, leading to a flow of ions through the cell membrane, changing the membrane potential.
+Loss of dopamine neurons in the substantia nigra has been linked to Parkinson's disease.
+The signaling pathways leading to axolemma degeneration are currently unknown.
+Calcium causes synaptic vesicles filled with neurotransmitter molecules to fuse with the membrane, releasing their contents into the synaptic cleft.
+Glutamate is synthesized from the amino acid glutamine by the enzyme glutamate synthase.
+This leads to certain neurodegenerative disorders like multiple sclerosis and chronic inflammatory demyelinating polyneuropathy.
+The neurons of the skin and muscles that are responsive to pressure and vibration have filtering accessory structures that aid their function.
+In most cases, neurons are generated by special types of stem cells.
+Cajal's improvement, which involved a technique he called "double impregnation", is still in use.
+The human brain has a huge number of synapses.
+These structures consist of rough endoplasmic reticulum and associated ribosomal RNA.
+*Dopaminergic neurons—dopamine.
+These are found throughout the brain, but are particularly concentrated in the subventricular zone and subgranular zone.
+A report in ''Nature'' suggested that researchers had found a way to transform human skin cells into working nerve cells using a process called transdifferentiation in which "cells are forced to adopt new identities".
+The main goal of studying neural coding is to characterize the relationship between the stimulus and the individual or ensemble neuronal responses, and the relationships amongst the electrical activities of the neurons within the ensemble.
+Although most injury responses include a calcium influx signaling to promote resealing of severed parts, axonal injuries initially lead to acute axonal degeneration, which is rapid separation of the proximal and distal ends within 30 minutes of injury.
+The features that define a neuron are electrical excitability and the presence of synapses, which are complex membrane junctions that transmit signals to other cells.
+Each of the 1011 (one hundred billion) neurons has on average 7,000 synaptic connections to other neurons.
+Acetylcholine is synthesized from choline and acetyl coenzyme A.
+The anatomist Camillo Golgi grouped neurons into two types; type I with long axons used to move signals over long distances and type II with short axons, which can often be confused with dendrites.
+Such nonspiking neurons tend to be sensory neurons or interneurons, because they cannot carry signals long distances.
+Granular disintegration of the axonal cytoskeleton and inner organelles occurs after axolemma degradation.
+There are no neurons that lack a soma, but there are neurons that lack dendrites, and others that lack an axon.
+At the majority of synapses, signals are sent from the axon of one neuron to a dendrite of another.
+The cell body of a neuron frequently gives rise to multiple dendrites, but never to more than one axon, although the axon may branch hundreds of times before it terminates.
+Tyrosine is catalyzed into levadopa (or L-DOPA) by tyrosine hydroxlase, and levadopa is then converted into dopamine by amino acid decarboxylase.
+Drugs that block the presynaptic serotonin transporter are used for treatment, such as Prozac and Zoloft.
+The end of the axon has branching terminals (axon terminal) that release neurotransmitters into a gap called the synaptic cleft between the terminals and the dendrites of the next neuron.
+It is thought that neurons can encode both digital and analog information.
+A '''neuron''' (  or  , also known as a '''neurone''' or '''nerve cell''') is an electrically excitable cell that processes and transmits information through electrical and chemical signals.
+These tonic receptors most often respond to increased intensity of stimulus by increasing their firing frequency, usually as a power function of stimulus plotted against impulses per second.
+It acts as a ligand for both ligand-gated ion channels and metabotropic (GPCRs) muscarinic receptors.
+Many properties of neurons, from the type of neurotransmitters used to ion channel composition, are maintained across species, allowing scientists to study processes occurring in more complex organisms in much simpler experimental systems.
+For instance, the soma of a neuron can vary from 4 to 100 micrometers in diameter.
+Ramón y Cajal proposed that neurons were discrete cells that communicated with each other via specialized junctions, or spaces, between cells.
+Secondary symptoms may include high level cognitive dysfunction and subtle language problems.
+Dopamine is a neurotransmitter that acts on D1 type (D1 and D5) Gs coupled receptors, which increase cAMP and PKA, and D2 type (D2, D3, and D4) receptors, which activate Gi-coupled receptors that decrease cAMP and PKA.

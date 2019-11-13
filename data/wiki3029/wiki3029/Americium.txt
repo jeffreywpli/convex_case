@@ -1,0 +1,200 @@
+There are no further transitions observed up to 52 GPa, except for an appearance of a monoclinic phase at pressures between 10 and 15 GPa.
+Nearly all (99.541%) of 242m1Am decays by internal conversion to 242Am and the remaining 0.459% by α-decay to 238Np.
+: {2Am^V} -> {Am^{VI}} + Am^{IV}
+Those crystals are hygroscopic and have yellow-reddish color and a monoclinic crystal structure.
+Americium(IV) oxide is the main form of solid americium which is used in nearly all its applications.
+They can also be prepared by reacting metallic americium with an appropriate mercury halide HgX2, where X = Cl, Br or I:
+It decays by emission of a α-particle to 237Np; the half-life of this decay was first determined as 510 ± 20 years but then corrected to 432.2 years.
+Americium is an artificial element of recent origin, and thus does not have a biological requirement.
+Americium-241 has been used as a portable source of both gamma rays and alpha particles for a number of medical and industrial uses.
+Americium is produced mostly artificially in small quantities, for research purposes.
+This effect is less pronounced at room temperature, due to annihilation of radiation defects; also heating to room temperature the sample which was kept for hours at low temperatures restores its resistivity.
+All pentavalent and hexavalent americium compounds are complex salts such as KAmO2F2, Li3AmO4 and Li6AmO6, Ba3AmO6, AmO2F2.
+It is harmful to life.
+Both 242Cm and 242Pu transform via nearly the same decay chain through 238Pu down to 234U.
+Americium compounds are then selectively extracted using multi-step chromatographic and centrifugation techniques with an appropriate reagent.
+This ''fcc'' structure is equivalent to the closest packing with the sequence ABC.
+Tetravalent americium has also been observed in the aqueous phase.
+Americium compounds with oxidation state +4 and higher are strong oxidizing agents, comparable in strength to the permanganate ion () in acidic solutions.
+* Tetragonal AmBr2: ''a'' = 1159.2 ± 0.4 and ''c'' = 712.1 ± 0.3 pm.
+The most common oxidation state for americium is +3, in which americium compounds are rather stable against oxidation and reduction.
+The oxalate of americium(III), vacuum dried at room temperature, has the chemical formula Am2(C2O4)3·7H2O.
+: {Am^3+} + 3F^- -> {AmF3(v)}
+A ''bis''-triazinyl bipyridine complex was proposed in 2009 as such a reagent is highly selective to americium (and curium).
+In this sense, americium is chemically similar to most lanthanides.
+Such low-power reactors would be relatively safe to use as neutron sources for radiation therapy in hospitals.
+Upon heating in vacuum, it loses water at 240&nbsp;°C and starts decomposing into AmO2 at 300&nbsp;°C, the decomposition completes at about 470&nbsp;°C.
+Trinitite, the glassy residue left on the desert floor near Alamogordo, New Mexico, after the plutonium-based Trinity nuclear bomb test on 16 July 1945, contains traces of americium-241.
+Americium often enters landfills from discarded smoke detectors.
+These high oxidation states Am(IV), Am(V) and Am(VI) can be prepared from Am(III) by oxidation with ammonium persulfate in dilute nitric acid, with silver(I) oxide in perchloric acid, or with ozone or sodium persulfate in sodium carbonate solutions.
+Three americium oxides are known, with the oxidation states +2 (AmO), +3 (Am2O3) and +4 (AmO2).
+The reaction was conducted using elemental barium as reducing agent in a water- and oxygen-free environment inside an apparatus made of tantalum and tungsten.
+The bromide is an exception with the orthorhombic PuBr3-type structure and space group Cmcm.
+The β-γ transition is accompanied by a 6% decrease in the crystal volume; although theory also predicts a significant volume change for the α-β transition, it is not observed experimentally.
+Their color in aqueous solutions varies as follows: Am3+ (colorless to yellow-reddish), Am4+ (yellow-reddish), AmV; (yellow), AmVI (brown) and AmVII (dark green).
+The new element was isolated from its oxides in a complex, multi-step process.
+As with most other actinides, the isotopes of americium with odd number of neutrons have relatively high rate of nuclear fission and low critical mass.
+At the time, the periodic table had been restructured by Seaborg to its present layout, containing the actinide row below the lanthanide one.
+The discovery of americium and curium in 1944 was closely related to the Manhattan Project; the results were confidential and declassified only in 1945.
+The half-lives of other isotopes and isomers range from 0.64&nbsp;microseconds for 245m1Am to 50.8&nbsp;hours for 240Am.
+A tonne of spent nuclear fuel contains about 100&nbsp;grams of various americium isotopes, mostly 241Am and 243Am.
+Initial experiments yielded four americium isotopes: 241Am, 242Am, 239Am and 238Am.
+After cyclotron irradiation, the coating was dissolved with nitric acid, and then precipitated as the hydroxide using concentrated aqueous ammonia solution.
+The standard potential Am3+/Am0 is −2.08 ± 0.01&nbsp;V.
+Americium-242 is a short-lived isotope with a half-life of 16.02&nbsp;h. It mostly (82.7%) converts by β-decay to 242Cm, but also by electron capture to 242Pu (17.3%).
+Because it spontaneously converts to 241Am, 241Pu can be extracted and may be used to generate further 241Am.
+Americium-241 gamma rays were also used to provide passive diagnosis of thyroid function.
+Metallic americium is obtained by reduction from its compounds.
+Thus, Enterobacteriaceae of the genus ''Citrobacter'' precipitate americium ions from aqueous solutions, binding them into a metal-phosphate complex at their cell walls.
+Several unusual applications, such as nuclear batteries or fuel for space ships with nuclear propulsion, have been proposed for the isotope 242mAm, but they are as yet hindered by the scarcity and high price of this nuclear isomer.
+Seaborg leaked the synthesis of the elements 95 and 96 on the U.S. radio show for children ''Quiz Kids'' five days before the official presentation at an American Chemical Society meeting on 11 November 1945, when one of the listeners asked whether any new transuranium element beside plutonium and neptunium had been discovered during the war.
+In a light water reactor (LWR), 79% of 241Am converts to 242Am and 10% to its nuclear isomer 242mAm:
+Although americium was likely produced in previous nuclear experiments, it was first intentionally synthesized, isolated and identified in late autumn 1944, at the University of California, Berkeley, by Glenn T. Seaborg, Leon O. Morgan, Ralph A. James, and Albert Ghiorso.
+The latter needs to be produced first, according to the following nuclear process:
+Its melting point of 1173&nbsp;°C is significantly higher than that of plutonium (639&nbsp;°C) and europium (826&nbsp;°C), but lower than for curium (1340&nbsp;°C).
+The uptake to the liver depends on the individual and increases with age.
+Americium-241 was directly obtained from plutonium upon absorption of one neutron.
+The element was chemically identified at the Metallurgical Laboratory (now Argonne National Laboratory) of the University of Chicago.
+Specific lattice constants are:
+241Am neutron sources are also used in well logging applications, as well as in neutron radiography, tomography and other radiochemical investigations.
+For example, Am(III) has two sharp peaks at 504 and 811&nbsp;nm, Am(V) at 514 and 715&nbsp;nm, and Am(VI) at 666 and 992&nbsp;nm.
+Another known form of solid tetravalent americium chloride is KAmF5.
+In 1994, 17-year-old David Hahn extracted the americium from about 100 smoke detectors in an attempt to build a breeder nuclear reactor.
+Most americium(III) halides form hexagonal crystals with slight variation of the color and exact structure between the halogens.
+The half-life of this decay was initially determined at 17 hours, which was close to the presently accepted value of 16.02 h.
+Several other oxidation states are known, which range from +2 to +8 and can be identified by their characteristic optical absorption spectra.
+One more proposal which utilizes the high nuclear fission rate of 242mAm is a nuclear battery.
+Americium readily reacts with oxygen and dissolves well in acids.
+An alternative is the reduction of americium dioxide by metallic lanthanum or thorium:
+Americium was first produced in 1944 by the group of Glenn T. Seaborg from Berkeley, California, at the Metallurgical Laboratory of the University of Chicago, a part of the Manhattan Project.
+This effect makes somewhat uncertain the temperature of americium and some of its properties, such as electrical resistivity.
+Upon further compression to 23 GPa, americium transforms to an orthorhombic γ-Am structure similar to that of α-uranium.
+This problem is pertinent to uranium or plutonium rods, in which only surface layers provide alpha-particles.
+Americium(III) fluoride was first used for this purpose.
+This procedure is well known as nuclear transmutation, but it is still being developed for americium.
+The known chalcogenides of americium include the sulfide AmS2, selenides AmSe2 and Am3Se4, and tellurides Am2Te3 and AmTe2.
+Because many of the resulting states are metastable, they also emit gamma rays with the discrete energies between 26.3 and 158.5&nbsp;keV.
+There is no consistency on the status of this phase in the literature, which also sometimes lists the α, β and γ phases as I, II and III.
+Several studies have been reported on the biosorption and bioaccumulation of americium by bacteria and fungi.
+Heating the Am(IV) solution to 90&nbsp;°C did not result in its disproportionation or reduction, however a slow reduction was observed to Am(III) and assigned to self-irradiation of americium by alpha particles.
+Soil analysis revealed about 1,900 times higher concentration of americium inside sandy soil particles than in the water present in the soil pores; an even higher ratio was measured in loam soils.
+Furthermore, the element berkelium (243Bk isotope) had been first intentionally produced and identified by bombarding 241Am with alpha particles, in 1949, by the same Berkeley group, using the same 60-inch cyclotron.
+The discovery was kept secret and only released to the public in November 1945.
+Small thickness avoids the problem of self-absorption of emitted radiation.
+Scarcity and high price yet hinder application of americium as a nuclear fuel in nuclear reactors.
+Some of these BTP-type complexes selectively interact with americium and therefore are useful in its selective separation from lanthanides and another actinides.
+They are very sensitive to oxygen and oxidize in water, releasing hydrogen and converting back to the Am(III) state.
+Similarly, nobelium was produced at the Joint Institute for Nuclear Research, Dubna, Russia, in 1965 in several reactions, one of which included irradiation of 243Am with 15N ions.
+Such small critical mass is favorable for portable nuclear weapons, but those based on 242mAm are not known yet, probably because of its scarcity and high price.
+MOX fuel) is dissolved in nitric acid, and the bulk of uranium and plutonium is removed using a PUREX-type extraction ('''P'''lutonium –'''UR'''anium '''EX'''traction) with tributyl phosphate in a hydrocarbon.
+Americium is not synthesized directly from uranium – the most common reactor material – but from the plutonium isotope 239Pu.
+The pressure-temperature phase diagram of americium is thus rather similar to those of lanthanum, praseodymium and neodymium.
+The plutonium present in spent nuclear fuel contains about 12% of 241Pu.
+When compressed at room temperature to 5 GPa, α-Am transforms to the β modification, which has a face-centered cubic (''fcc'') symmetry, space group Fmm and lattice constant ''a''&nbsp;= 489&nbsp;pm.
+: {AmCl3} + H2O -> {AmOCl} + {2HCl}
+Following the lighter neptunium, plutonium, and heavier curium, americium was the fourth transuranium element to be discovered.
+: {2AmF3} + F2 -> {2AmF4}
+: {Am} + \overbrace{HgX2}^{mercury\ halide} ->\ce{400 - 500 ^\circ C} {AmX2} + {Hg}
+The fluoride is isotypic to LaF3 (space group P63/mmc) and the iodide to BiI3 (space group R).
+Americium-241 decays to 237Np emitting alpha particles of 5 different energies, mostly at 5.486&nbsp;MeV (85.2%) and 5.443&nbsp;MeV (12.8%).
+When freshly prepared, it has a silvery-white metallic lustre, but then slowly tarnishes in air.
+The critical mass for a bare 242mAm sphere is about 9–14&nbsp;kg (the uncertainty results from insufficient knowledge of its material properties).
+The second isotope 242Am was produced upon neutron bombardment of the already-created 241Am.
+In the periodic table, americium is located to the right of plutonium, to the left of curium, and below the lanthanide europium, with which it shares many similarities in physical and chemical properties.
+Americium(II) oxide was prepared in minute amounts and has not been characterized in details.
+They crystallize in the rock-salt lattice.
+Besides, one of the synthesis reactions for lawrencium, discovered by scientists at Berkeley and Dubna, included bombardment of 243Am with 18O.
+The initial oxalate dissolves in nitric acid with the maximum solubility of 0.25&nbsp;g/L.
+He also adds "The reason is not that americium is fundamentally less dangerous than the elements around it.
+However, this process is rather slow: half of the original amount of 241Pu decays to 241Am after about 15 years, and the 241Am amount reaches a maximum after 70 years.
+The residue was dissolved in perchloric acid.
+Existing americium is concentrated in the areas used for the atmospheric nuclear weapons tests conducted between 1945 and 1980, as well as at the sites of nuclear incidents, such as the Chernobyl disaster.
+There are two long-lived alpha-emitters, 241Am and 243Am with half-lives of 432.2 and 7,370&nbsp;years, respectively, and the nuclear isomer 242m1Am has a long half-life of 141&nbsp;years.
+The room temperature value for americium is lower than that of neptunium, plutonium and curium, but higher than for uranium, thorium and protactinium.
+Although americium produces less heat and electricity – the power yield is 114.7&nbsp;mW/g for 241Am and 6.31&nbsp;mW/g for 243Am (cf.
+In other regions, the average radioactivity of surface soil due to residual americium is only about 0.01&nbsp;picocuries/g (0.37&nbsp;mBq/g).
+This amount declines slowly as the americium decays into neptunium-237, a different transuranic element with a much longer half-life (about 2.14 million years).
+Americium monosilicide (AmSi) and "disilicide" (nominally AmSix with: 1.87 x).
+For example, a 2003 EU-funded project codenamed "EUROPART" studied triazines and other compounds as potential extraction agents.
+In the bones, americium is first deposited over cortical and trabecular surfaces and slowly redistributes over the bone with time.
+Other oxidation states have been observed between +2 and +7, which is the widest range among the actinide elements.
+The tetravalent americium(IV) fluoride (AmF4) is obtained by reacting solid americium(III) fluoride with molecular fluorine:
+All oxidation states have their characteristic optical absorption spectra, with a few sharp peaks in the visible and mid-infrared regions, and the position and intensity of these peaks can be converted into the concentrations of the corresponding oxidation states.
+The radiation passes through an ionization chamber, an air-filled space between two electrodes, and permits a small, constant current between the electrodes.
+The tetraboride can be obtained by heating an oxide or halide of americium with magnesium diboride in vacuum or inert atmosphere.
+A single 3.2&nbsp;kg 242mAm charge of such battery could provide about 140&nbsp;kW of power over a period of 80 days.
+This behavior is markedly different from that of its neighbor curium which exhibits antiferromagnetic transition at 52&nbsp;K. The thermal expansion coefficient of americium is slightly anisotropic and amounts to (7.5&nbsp;± 0.2)/°C along the shorter ''a'' axis and (6.2&nbsp;± 0.4)/°C for the longer ''c'' hexagonal axis.
+Borides of americium include AmB4 and AmB6.
+Compared to the alternative optical smoke detector, the ionization smoke detector is cheaper and can detect particles which are too small to produce significant light scattering; however, it is more prone to false alarms.
+The rules associated with the disposal of smoke detectors are relaxed in most jurisdictions.
+Both Am and Cm are mostly present in solutions in the +3 valence state; whereas curium remains unchanged, americium oxidizes to soluble Am(IV) complexes which can be washed away.
+If consumed, most of the americium is excreted within a few days, with only 0.05% absorbed in the blood, of which roughly 45%  goes to the liver and 45% to the bones, and the remaining 10% is excreted.
+It has been proposed to use bacteria for removal of americium and other heavy metals from rivers and streams.
+: {3AmO2+} + 4H+ -> {2AmO2^2+} + {Am^3+} + {2H2O}
+The 59.5409 keV gamma ray emissions from 241Am in such sources can be used for indirect analysis of materials in radiography and X-ray fluorescence spectroscopy, as well as for quality control in fixed nuclear density gauges and nuclear densometers.
+First plutonium-239 nitrate (239PuNO3) solution was coated on a platinum foil of about 0.5&nbsp;cm2 area, the solution was evaporated and the residue was converted into plutonium dioxide (PuO2) by annealing.
+It is widely used in commercial ionization chamber smoke detectors, as well as in neutron sources and industrial gauges.
+The crystal lattice of solid americium and its compounds contain small instrinsic radiogenic defects, due to metamicitization induced by self-irradiation with alpha particles, which accumulates with time; this can cause a drift of some material properties over time, more noticeable in older samples.
+For example, the element has been employed to gauge glass thickness to help create flat glass.
+Most synthesis routines yield a mixture of different actinide isotopes in oxide forms, from which isotopes of americium can be separated.
+The lanthanides and remaining actinides are then separated from the aqueous residue (raffinate) by a diamide-based extraction, to give, after stripping, a mixture of trivalent actinides and lanthanides.
+The isotope 242mAm (half-life 141 years) has the largest cross sections for absorption of thermal neutrons (5,700 barns), that results in a small critical mass for a sustained nuclear chain reaction.
+Americium-242 has a half-life of only 16 hours, which makes its further up-conversion to 243Am, extremely inefficient.
+There are proposals of very compact 10-kW high-flux reactors using as little as 20&nbsp;grams of 242mAm.
+Further separation was carried out by ion exchange, yielding a certain isotope of curium.
+Oxyhalides of americium in the form AmVIO2X2, AmVO2X, AmIVOX2 and AmIIIOX can be obtained by reacting the corresponding americium halide with oxygen or Sb2O3, and AmOCl can also be produced by vapor phase hydrolysis:
+It relies on the very high rate of nuclear fission of 242mAm, which can be maintained even in a micrometer-thick foil.
+Americium is relatively soft and easily deformable and has a significantly lower bulk modulus than the actinides before it: Th, Pa, U, Np and Pu.
+In a typical procedure, the spent reactor fuel (e.g.
+Americium has been produced in small quantities in nuclear reactors for decades, and kilograms of its 241Am and 243Am isotopes have been accumulated by now.
+Atmospheric americium compounds are poorly soluble in common solvents and mostly adhere to soil particles.
+Whereas the Am4+ ions are unstable in solutions and readily convert to Am3+, the +4 oxidation state occurs well in solids, such as americium dioxide (AmO2) and americium(IV) fluoride (AmF4).
+The capture of two neutrons by 239Pu (a so-called (n,γ) reaction), followed by a β-decay, results in 241Am:
+In chemical compounds, americium usually assumes the oxidation state +3, especially in solutions.
+Elevated levels of americium were also detected at the crash site of a US Boeing B-52 bomber aircraft, which carried four hydrogen bombs, in 1968 in Greenland.
+Americium is paramagnetic in a wide temperature range, from that of liquid helium, to room temperature and above.
+The associated procedure may involve several steps, where americium is first separated and then converted by neutron bombardment in special reactors to short-lived nuclides.
+The obtained 241Am can be used for generating heavier americium isotopes by further neutron capture inside a nuclear reactor.
+No, the difference is simply that there is a useful application for americium that requires only a very tiny amount, and for which a company was prepared to go through the effort required to carve out and get a regulatory exception."
+Any smoke that enters the chamber absorbs the alpha particles, which reduces the ionization and affects this current, triggering the alarm.
+It is especially noticeable at low temperatures, where the mobility of the produced lattice defects is relatively low, by broadening of X-ray diffraction peaks.
+Upon rapid β-decay, 242Am converts into the isotope of curium 242Cm (which had been discovered previously).
+The amount of americium in a typical new smoke detector is 1&nbsp;microcurie (37&nbsp;kBq) or 0.29 microgram.
+This isotope is preferred over 226Ra because it emits 5 times more alpha particles and relatively little harmful gamma radiation.
+The trivalent americium forms insoluble fluoride, oxalate, iodate, hydroxide, phosphate and other salts.
+The fission products of 242mAm can either directly propel the spaceship or they can heat up a thrusting gas; they can also transfer their energy to a fluid and generate electricity through a magnetohydrodynamic generator.
+Most americium is produced by uranium or plutonium being bombarded with neutrons in nuclear reactors – one tonne of spent nuclear fuel contains about 100&nbsp;grams of americium.
+So for americium-241, the resistivity at 4.2 K increases with time from about 2&nbsp;µOhm·cm to 10&nbsp;µOhm·cm after 40 hours, and saturates at about 16&nbsp;µOhm·cm after 140 hours.
+With its half-life of 432.2 years, the americium in a smoke detector includes about 3% neptunium after 19 years, and about 5% after 32 years.
+Americium is the only synthetic element to have found its way into the household, where the most common type of smoke detector uses 241Am in the form of americium dioxide as its source of ionizing radiation.
+Irradiation of 241Am by 12C or 22Ne ions yields the isotopes 247Es (einsteinium) or 260Db (dubnium), respectively.
+This led to americium being located right below its twin lanthanide element europium; it was thus by analogy named after the Americas: "The name americium (after the Americas) and the symbol Am are suggested for the element on the basis of its position as the sixth member of the actinide rare-earth series, analogous to europium, Eu, of the lanthanide series."
+As most other actinide dioxides, it is a black solid with a cubic (fluorite) crystal structure.
+Nevertheless, since it was first offered for sale in 1962, its price, about 1,500 USD per gram of 241Am, remains almost unchanged owing to the very complex separation procedure.
+Its  common isotopes are 241Am and 243Am.
+With all the potential benefits, the current applications of 242mAm are as yet hindered by the scarcity and high price of this nuclear isomer.
+Americium-243 transforms by α-emission into 239Np, which converts by β-decay to 239Pu, and the 239Pu changes into 235U by emitting an α-particle.
+In fact, the commonly available isotope, 241Am, is significantly ''more'' radioactive than weapons-grade plutonium, and at least as toxic.
+It is present in aqueous solution in the form of  ions (acidic) or  ions (alkaline) which are however unstable and subject to several rapid disproportionation reactions:
+It can be lowered to 3–5&nbsp;kg with a metal reflector and should become even smaller with a water reflector.
+The enthalpy of dissolution of americium metal in hydrochloric acid at standard conditions is −620.6&nbsp;± 1.3&nbsp;kJ/mol, from which the standard enthalpy change of formation (Δf''H''°) of aqueous Am3+ ion is −621.2&nbsp;± 2.0&nbsp;kJ/mol−1.
+After the discovery of americium isotopes 241Am and 242Am, their production and compounds were patented listing only Seaborg as the inventor.
+A large amount of work has been done on the solvent extraction of americium.
+Crystals of americium hexahydrate (AmCl3·6H2O) can be prepared by dissolving americium dioxide in hydrochloric acid and evaporating the liquid.
+They used a 60-inch cyclotron at the University of California, Berkeley.
+390&nbsp;mW/g for 238Pu) – and its radiation poses more threat to humans owing to neutron emission, the European Space Agency is considering using americium for its space probes.
+The pnictides of americium (243Am) of the AmX type are known for the elements phosphorus, arsenic, antimony and bismuth.
+For this purpose, black Am(OH)4 was dissolved in 15-M NH3F with the americium concentration of 0.01 M. The resulting reddish solution had a characteristic optical absorption spectrum which is similar to that of AmF4 but differed from other oxidation states of americium.
+Americium(III) oxide is a red-brown solid with a melting point of 2205&nbsp;°C.
+The critical masses of two other readily available isotopes, 241Am and 243Am, are relatively high – 57.6 to 75.6&nbsp;kg for 241Am and 209&nbsp;kg for 243Am.
+AmSix has a bright silvery lustre and a tetragonal crystal lattice (space group ''I''41/amd), it is isomorphic with PuSi2 and ThSi2.
+The pressure of the α-β transition decreases with increasing temperature, and when α-americium is heated at ambient pressure, at 770&nbsp;°C it changes into an ''fcc'' phase which is different from β-Am, and at 1075&nbsp;°C it converts to a body-centered cubic structure.
+At ambient conditions, americium is present in its most stable α form which has a hexagonal crystal symmetry, and a space group P63/mmc with lattice parameters ''a''&nbsp;= 346.8&nbsp;pm and ''c''&nbsp;= 1124&nbsp;pm, and four atoms per unit cell.
+Americium is a relatively soft radioactive metal with silvery appearance.
+Reduction of Am(III) compounds with sodium amalgam yields Am(II) salts – the black halides AmCl2, AmBr2 and AmI2.
+The crystal structure of americium changes with pressure and temperature.
+The crystal consists of a double-hexagonal close packing with the layer sequence ABAC and so is isotypic with α-lanthanum and several actinides such as α-curium.
+The biological half-life of 241Am is 50 years in the bones and 20 years in the liver, whereas in the gonads (testicles and ovaries) it remains permanently; in all these organs, americium promotes formation of cancer cells as a result of its radioactivity.
+Another proposed space-related application of americium is a fuel for space ships with nuclear propulsion.
+About 19 isotopes and 8 nuclear isomers are known for americium.
+Formation of the complexes of the type Am(n-C3H7-BTP)3, where BTP stands for 2,6-di(1,2,4-triazin-3-yl)pyridine, in solutions containing n-C3H7-BTP and Am3+ ions has been confirmed by EXAFS.

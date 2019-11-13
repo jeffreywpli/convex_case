@@ -1,0 +1,200 @@
+Translocation “kicks off” the tRNA at the E site and shifts the tRNA from the A site into the P site, leaving the A site free for an incoming tRNA to add another amino acid.
+# FGAR amidotransferase  catalyzes the addition of a nitrogen group to FGAR, forming formylglycinamidine ribonucleotide (FGAM).
+Furthermore, the enzyme glutamine synthetase (GS) is able to transfer ammonia onto glutamate and synthesize glutamine, replenishing glutamine.
+The prerequisite elements for biosynthesis include: precursor compounds, chemical energy (e.g.
+Therefore, after UTP is synthesized, it is must be converted into a deoxy form to be incorporated into DNA.
+This pathway involves nine enzyme-catalyzed reactions that convert aspartate to lysine.
+During the polymerization reaction catalyzed by DNA polymerase, a nucleophilic attack occurs by the 3’OH of the growing chain on the innermost phosphorus atom of a deoxynucleoside triphosphate; this yields the formation of a phosphodiester bridge that attaches a new nucleotide and releases pyrophosphate.
+Many intricate macromolecules are synthesized in a pattern of simple, repeated structures.
+Asparagine is synthesized by an ATP-dependent addition of an amino group onto aspartate; asparagine synthetase catalyzes the addition of nitrogen from glutamine or soluble ammonia to aspartate to yield asparagine.
+Some of these biosynthetic pathways are located within a single cellular organelle, while others involve enzymes that are located within multiple cellular organelles.
+# AICAR transformylase transfers a carbonyl group to AICAR, forming N-formylaminoimidazole- 4-carboxamide ribonucleotide (FAICAR).
+Directs protein synthesis and catalyzes the formation of the peptide bond
+# N-succinyldiaminopimelate aminotransferase catalyzes the transfer of an amino group from glutamate onto N-succinyl-L-2,6-diaminoheptanedioate to yield N-succinyl-L,L-diaminopimelic acid.
+Nucleotides are composed of a five-membered ring formed from ribose sugar in RNA, and deoxyribose sugar in DNA; these sugars are linked to a purine or pyrimidine base with a glycosidic bond and a phosphate group at the 5’ location of the sugar.
+For example, the synthesis of phospholipids requires acetyl CoA, while the synthesis of another membrane component, shingolipids, requires NADH and FADH for the formation the sphingosine backbone.
+In the first step of arginine biosynthesis in bacteria, glutamate is acetylated by transferring the acetyl group from acetyl-CoA at the N-α position; this prevents spontaneous cyclization.
+The next reaction is catalyzed by the enzyme pyrroline-5-carboxylate synthase (P5CS), which catalyzes the reduction of the ϒ-carboxyl group of L-glutamate 5-phosphate.
+# Succinyl-diaminopimelate desuccinylase catalyzes the removal of acyl group from N-succinyl-L,L-diaminopimelic acid to yield L,L-diaminopimelic acid.
+: {Amino~acid} + ATP  {aminoacyl-AMP} + PP_i
+# Aspartate-semialdehyde dehydrogenase catalyzes the reduction reaction by dephosphorylation of aspartyl-β-phosphate to yield aspartate-β-semialdehyde.
+The other pathway of glycine biosynthesis is known as the glycolytic pathway.
+These may be metal ions, vitamin derivatives such as NADH and acetyl CoA, or non-vitamin derivatives such as ATP.
+This reaction transfers a methyl group onto the uracil base of dUMP to generate dTMP.
+Cytosine is a nucleotide that is present in both DNA and RNA.
+# Tetrahydrodipicolinate N-succinyltransferase catalyzes the transfer of a succinyl group from succinyl-CoA on to tetrahydrodipicolinic acid to yield N-succinyl-L-2,6-diaminoheptanedioate.
+Nucleotides are the building blocks of DNA and RNA.
+*  Coenzymes or cofactors: cofactors are molecules that assist in chemical reactions.
+More generally, this synthesis occurs in three stages, with the first stage taking place in the cytoplasm and the second and third stages occurring in the endoplasmic reticulum.
+Cholesterol is synthesized from acetyl CoA.
+Lysine and isoleucine are considered part of the aspartate family even though part of their carbon skeleton is derived from pyruvate.
+:: Reactant ->enzyme Product
+The proper alignment of the ribosome with mRNA’s start codon
+'''Biosynthesis''' (also called '''biogenesis''' or '''anabolism''') is a multi-step, enzyme-catalyzed process where substrates are converted into more complex products in living organisms.
+In order for DNA replication to occur, a replication fork is created by enzymes called helicases which unwind the DNA helix.
+Unlike phospholipids, sphingolipids have a sphingosine backbone.
+Pyrroline-5-carboxylate is further reduced by the enzyme pyrroline-5-carboxylate reductase (P5CR) to yield a proline amino acid.
+Okazaki fragments are covalently joined by DNA ligase to form a continuous strand.
+The serine family of amino acid includes: serine, cysteine, and glycine.
+Subsequent steps are catalyzed by the enzymes N-acetylglutamate kinase, N-acetyl-gamma-glutamyl-phosphate reductase, and acetylornithine/succinyldiamino pimelate aminotransferase and yield the N-acetyl-L-ornithine.
+This process requires transfer RNA (tRNA) which serves as an adaptor by binding amino acids on one end and interacting with mRNA at the other end; the latter pairing between the tRNA and mRNA ensures that the correct amino acid is added to the chain.
+As the image denotes, during sphingosine synthesis, palmitoyl CoA and serine undergo a condensation reaction which results in the formation of dehydrosphingosine.
+# Diaminopimelate epimerase catalyzes the inversion of the α-carbon of L,L-diaminopimelic acid to yield meso-diaminopimelic acid.
+The stages are as follows:
+# The first step in purine biosynthesis is a condensation reaction, performed by glutamine-PRPP amidotransferase.
+The glutamate family of amino acids includes the amino acids that derive from the amino acid glutamate.
+Two types of strands are created simultaneously during replication: the leading strand, which is synthesized continuously and grows towards the replication fork, and the lagging strand, which is made discontinuously in Okazaki fragments and grows away from the replication fork.
+The conversion of squalene into cholesterol via several enzymatic reactions
+These elements create monomers, the building blocks for macromolecules.
+This enzyme transfers the amino group from glutamine to PRPP, forming 5-phosphoribosylamine.
+In this catalysis reaction, glutamine serves as the nitrogen source.
+For example, fatty acids join together to form phopspholipids.
+# Simple compounds that join together to create a macromolecule.
+# GAR synthetase  performs the condensation of activated glycine onto PRPP, forming glycineamide ribonucleotide (GAR).
+For example, the simplest structures of lipids are fatty acids.
+The DNA nucleosides adenosine and guanosine consist of a purine base attached to a ribose sugar with a glycosidic bond.
+The thymidylate synthase reaction, dUMP + 5,10-methylenetetrahydrofolate ⇔ dTMP + dihydrofolate, is shown to the right.
+The enzyme aspartate aminotransferase catalyzes the transfer of an amino group from aspartate onto α-ketoglutarate to yield glutamate and oxaloacetate.
+Then, lysophosphatidate is converted to phosphatidate via the addition of another fatty acid chain contributed by a second acyl CoA; all of these steps are catalyzed by the glycerol phosphate acyltransferase enzyme.
+In the simplest sense, the reactions that occur in biosynthesis have the following format:
+DNA synthesis, which takes place in the nucleus, is a semiconservative process, which means that the resulting DNA molecule contains an original strand from the parent structure and a new strand.
+The pathway is shown below:
+This primer is attached to the single-stranded DNA template, and DNA polymerase elongates the chain by incorporating nucleotides; DNA polymerase also proofreads the newly synthesized DNA strand.
+# DAP epimerase catalyzes the conversion of L,L-diaminopimelate to the meso form of L,L-diaminopimelate.
+There are two known pathways for the biosynthesis of glycine.
+This process often consists of metabolic pathways.
+This product is then reduced to form dihydrospingosine, which is converted to sphingosine via the oxidation reaction by FAD.
+The other amino acids, valine, methionine, leucine, isoleucine, phenylalanine, lysine, threonine and tryptophan for adults and histidine, and arginine for babies are obtained through diet.
+A protein is a polymer that is composed from amino acids that are linked by peptide bonds.
+These ceramides are synthesized from the acylation of sphingosine.
+The foundation of all biomembranes consists of a bilayer structure of phospholipids.
+The general equation for these examples is:
+The following reaction is catalyzed by the enzyme phosphoserine aminotransferase, which transfers an amino group from glutamate onto 3-phosphonooxypyruvate to yield L-phosphoserine.
+Then, to complete DNA replication, RNA primers are removed, and the resulting gaps are replaced with DNA and joined via DNA ligase.
+The combination of these two steps, both of which are catalyzed by aminoacyl tRNA synthetase, produces a charged tRNA that is ready to add amino acids to the growing polypeptide chain.
+The mechanism, which depicts the reaction UTP + ATP + glutamine ⇔ CTP + ADP + glutamate, is below:
+The synthesis of isopentenyl pyrophosphate, the “building block” of cholesterol
+The acetyl group of acetylornithine is removed by the enzyme acetylornithinase (AO) or ornithine acetyltransferase (OAT), and this yields ornithine.
+# N-acyldiaminopimelate deacylase catalyzes the deacylation of N-succinyl-L-diaminopimelate to yield L,L-diaminopimelate.
+In bacteria, the enzyme glutamate 5-kinase initiates the biosynthesis of proline by transferring a phosphate group from ATP onto glutamate.
+#:: {Precursor~molecule} + Cofactor ->enzyme macromolecule
+The two step mechanism of CAIR formation from AIR is mostly found in single celled organisms.
+The biosynthesis of nucleotides involves enzyme-catalyzed reactions that convert substrates into more complex products.
+One pathway involves the enzyme glutamine oxoglutarate aminotransferase (GOGAT) which removes the amide amino group of glutamine and transfers it onto 2-oxoglutarate, producing two glutamate molecules.
+# Dihydrodipicolinate synthase catalyzes the condensation reaction of aspartate-β-semialdehyde with pyruvate to yield dihydrodipicolinic acid.
+# 4-hydroxy-tetrahydrodipicolinate synthase adds a pyruvate group to the β-aspartyl-4-semialdehyde, and a water molecule is removed.
+The diaminopimelic acid biosynthetic pathway of lysine belongs to the aspartate family of amino acids.
+*  Chemical energy: chemical energy can be found in the form of high energy molecules.
+The most common of the two synthetic pathways is the diaminopimelic acid pathway; it consists of several enzymatic reactions that add carbon groups to aspartate to yield lysine:
+For some of these steps, chemical energy is required:
+# SAICAR lyase removes the carbon skeleton of the added aspartate, leaving the amino group and forming 5-aminoimidazole-4-carboxamide ribonucleotide (AICAR).
+Protein synthesis occurs in three phases: initiation, elongation, and termination.
+# DAP decarboxylase catalyzes the removal of the carboxyl group, yielding L-lysine.
+Proline has a functional group on the α-carbon that forms a ring with the amino group.
+The phospholipid molecule is amphipathic; it contains a hydrophilic polar head and a hydrophobic nonpolar tail.
+# N5-CAIR synthetase transfers a carboxyl group, forming the intermediate N5-carboxyaminoimidazole ribonucleotide (N5-CAIR).
+However, uracil is only found in RNA.
+Some important biological macromolecules include: proteins, which are composed of amino acid monomers joined via peptide bonds, and DNA molecules, which are composed of nucleotides joined via phosphodiester bonds.
+The enzyme CTP synthase catalyzes the next reaction step: the conversion of UTP to CTP by transferring an amino group from glutamine to uridine; this forms the cytosine base of CTP.
+This non-specificity allows ribonucleoside triphosphate reductase to convert all nucleotide triphosphates to deoxyribonucleotide by a similar mechanism.
+Cholesterol is a particularly important molecule.
+During translation, genetic material called mRNA  is read by ribosomes to generate a protein polypeptide chain.
+Only green plants and most microbes are able to synthesize all of the 20 standard amino acids that are needed by all living species.
+In turn, phospholipids and cholesterol interact noncovalently in order to form the lipid bilayer.
+This interaction is possible thanks to the ribosome, which serves as the site for protein synthesis.
+This reaction, called tRNA charging, is catalyzed by aminoacyl tRNA synthetase.
+The purine bases on DNA and RNA nucleotides are synthesized in a twelve-step reaction mechanism present in most single-celled organisms.
+# The final step involves the enzyme IMP synthase, which performs the purine ring closure and forms the inosine monophosphate (IMP) intermediate.
+This family includes: glutamate, glutamine, proline, and arginine.
+In biosynthesis, simple compounds are modified, converted into other compounds, or joined together to form macromolecules.
+In addition to binding an amino acid, tRNA has a three nucleotide unit called an anticodon that base pairs with specific nucleotide triplets on the mRNA called codons; codons  encode a specific amino acid.
+The following step requires the activation of glycine by the addition of a phosphate group from ATP.
+Organisms that use ethanol and acetate as the major carbon source utilize the glyconeogenic pathway to synthesize glycine.
+*  Catalytic enzymes: these molecules are special proteins that catalyze a reaction by increasing the rate of the reaction and lowering the activation energy.
+This pathway converts serine synthesized from the intermediates of glycolysis to glycine.
+The phospholipid heads interact with each other and aqueous media, while the hydrocarbon tails orient themselves in the center, away from water.
+#:: {Precursor~molecule} + ATP  {product~AMP} + PP_i
+There are various types of phospholipids; consequently, their synthesis pathways differ.
+ATP), and catalytic enzymes which may require coenzymes (e.g.NADH, NADPH).
+# GAR transformylase adds a formyl group onto the amino group of GAR, forming formylglycinamide ribonucleotide  (FGAR).
+The resulting molecule is aminoacyl-tRNA:
+In cells, there are two major pathways of incorporating nitrogen groups.
+There are more than 300 amino acids found in nature of which only twenty, known as the standard amino acids, are the building blocks for protein.
+Some variations of this basic equation which will be discussed later in more detail are:
+#:: {Molecule~1} + Molecule~2 -> macromolecule
+During serine biosynthesis, the enzyme phosphoglycerate dehydrogenase catalyzes the initial reaction that oxidizes 3-phospho-D-glycerate to yield 3-phosphonooxypyruvate.
+Purine bases are synthesized by converting phosphoribosyl pyrophosphate (PRPP) to inosine monophosphate (IMP), which is the first key intermediate in purine base biosynthesis.
+# Simple compounds which are converted into other compounds, usually as part of a multiple step reaction pathway.
+The aspartate family of amino acids includes: threonine, lysine, methionine, isoleucine, and aspartate.
+The enzyme N-acetylglutamate synthase (glutamate N-acetyltransferase) is responsible for catalyzing the acetylation step.
+A specific tRNA synthetase is responsible for recognizing and charging a particular amino acid.
+This causes cyclization and gives rise to (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate.
+In the case of NADH, the molecule transfers a hydrogen, whereas acetyl CoA transfers an acetyl group, and ATP transfers a phosphate.
+The biosynthesis of glutamate and glutamine is a key step in the nitrogen assimilation discussed above.
+# N-succinyl-α-amino-ε-ketopimelate-glutamate aminotransaminase catalyzes the transamination reaction that removes the keto group of N-acetyl α-amino-ε-ketopimelate and replaces it with an amino group to yield N-succinyl-L-diaminopimelate.
+GDH is able to transfer ammonia onto 2-oxoglutarate and form glutamate.
+Most microorganisms and plants obtain the sulfur for synthesizing methionine from the amino acid cysteine.
+DNA is composed of nucleotides that are joined by phosphodiester bonds.
+There are two distinct lysine biosynthetic pathways: the diaminopimelic acid pathway and the α-aminoadipate pathway.
+In the glycolytic pathway, the enzyme serine hydroxymethyltransferase catalyzes the cleavage of serine to yield glycine and transfers the cleaved carbon group of serine onto tetrahydrofolate, forming 5,10-methylene-tetrahydrofolate.
+In the case of methionine, the methyl carbon is derived from serine and the sulfur group, but in most organisms, it is derived from cysteine.
+An image illustrating this reaction is found to the right.
+The enzyme thymidylate synthetase is responsible for synthesizing thymine residues from dUMP to dTMP.
+# Siaminopimelate decarboxylase catalyzes the final step in lysine biosynthesis that removes the carbon dioxide group from meso-diaminopimelic acid to yield L-lysine.
+DNA synthesis is initiated by the RNA polymerase primase, which makes an RNA primer with a free 3’OH.
+This family also includes the amino acid lysine, which is derived from α-ketoglutarate.
+Not only does it serve as a component of lipid membranes, it is also a precursor to several steroid hormones, including cortisol, testosterone, and estrogen.
+This results in the formation of glutamate semialdehyde, which spontaneously cyclizes to pyrroline-5-carboxylate.
+# 4-hydroxy-tetrahydrodipicolinate reductase catalyzes the reduction of dihydrodipicolinic acid to yield tetrahydrodipicolinic acid.
+In contrast to uracil, thymine bases are found mostly in DNA, not RNA.
+The following reaction step, catalyzed by the enzyme O-acetyl serine (thiol) lyase, replaces the acetyl group of O-acetyl-L-serine with sulfide to yield cysteine.
+Furthermore, the conversion of serine to glycine provides the carbons needed for the biosynthesis of the methionine and histidine.
+Protein synthesis occurs via a process called translation.
+Cytosine biosynthesis is a two-step reaction which involves the conversion of UMP to UTP.
+The final step is catalyzed by the enzyme phosphoserine phosphatase, which dephosphorylates L-phosphoserine to yield L-serine.
+Higher eukaryotes employ a similar reaction mechanism in ten reaction steps.
+This lipid belongs to a class of molecules called sterols.
+This reaction that removes the 2’-OH of the ribose sugar to generate deoxyribose is not affected by the bases attached to the sugar.
+# Aspartate kinase initiates the diaminopimelic acid pathway by phosphorylating aspartate and producing aspartyl phosphate.
+Sterols have four fused rings and a hydroxyl group.
+Cysteine biosynthesis is a two-step reaction that involves the incorporation of inorganic sulfur.
+After the uridine nucleotide base is synthesized, the other bases, cytosine and thymine are synthesized.
+Examples of these biosynthetic pathways include the production of lipid membrane components and nucleotides.
+The pathway starts with glycerol 3-phosphate, which gets converted to lysophosphatidate via the addition of a fatty acid chain provided by acyl coenzyme A.
+Before translation can begin, the process of binding a specific amino acid to its corresponding tRNA must occur.
+The biosynthesis of aspartate is a one step reaction that is catalyzed by a single enzyme.
+Phospholipid synthesis continues in the endoplasmic reticulum, and the biosynthesis pathway diverges depending on the components of the particular phospholipid.
+This is followed by the transfer of the aminoacyl group from aminoacyl-AMP to a tRNA molecule.
+However, the first step in phospholipid synthesis involves the formation of phosphatidate or diacylglycerol 3-phosphate at the endoplasmic reticulum  and outer mitochondrial membrane.
+Further enzymatic modification of IMP produces the adenosine and guanosine bases of nucleotides.
+# SAICAR synthetase forms a peptide bond between aspartate and the added carboxyl group of the imidazole ring, forming N-succinyl-5-aminoimidazole-4-carboxamide ribonucleotide (SAICAR).
+As previously mentioned, translation occurs in three phases: initiation, elongation, and termination.
+# Aspartate semialdehyde dehydrogenase catalyzes the NADPH-dependent reduction of aspartyl phosphate to yield aspartate semialdehyde.
+The biosynthetic pathway for sphingosine is found below:
+A third major membrane component, cholesterol, does not contain these fatty acid units.
+There are numerous codons within an mRNA transcript, and it is very common for an amino acid to be specified by more than one codon; this phenomenon is called degeneracy.
+# N5-CAIR mutase rearranges the carboxyl functional group and transfers it onto the imidazole ring, forming carboxyamino- imidazole ribonucleotide (CAIR).
+In all, there are 64 codons, 61 of each code for one of the 20 amino acids, while the remaining codons specify chain termination.
+# Simple compounds that are converted into other compounds with the assistance of cofactors.
+The enzymes GOGAT and GDH catalyze the nitrogen assimilation reactions.
+In microorganisms and plants, the enzyme serine acetyltransferase catalyzes the transfer of acetyl group from acetyl-CoA onto L-serine to yield O-acetyl-L-serine.
+Fatty acids are hydrocarbon derivatives; they contain a carboxyl group “head” and a hydrocarbon chain “tail.”   These fatty acids create larger components, which in turn incorporate noncovalent interactions to form the lipid bilayer.
+Then, the enzymes citrulline and argininosuccinate convert ornithine to arginine.
+# 4-hydroxy-tetrahydrodipicolinate reductase catalyzes the reduction of (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate by NADPH to yield Δ’-piperideine-2,6-dicarboxylate (2,3,4,5-tetrahydrodipicolinate) and H2O.
+Two examples of this type of reaction occur during the formation of nucleic acids and the charging of tRNA prior to translation.
+One major step in amino acid biosynthesis involves incorporating a nitrogen group onto the α-carbon.
+Furthermore, this enzyme has special discriminator regions to ensure the correct binding between tRNA and its cognate amino acid.
+Higher eukaryotes contain the enzyme AIR carboxylase,  which transfers a carboxyl group directly to AIR imidazole ring, forming CAIR.
+Mammals can only synthesize ten of the twenty standard amino acids.
+DNA synthesis is catalyzed by a family of DNA polymerases that require four deoxynucleoside triphosphates, a template strand, and a primer with a free 3’OH in which to incorporate nucleotides.
+The ribosome possesses three tRNA binding sites: the aminoacyl site (A site), the peptidyl site (P site), and the exit site (E site).
+Topoisomerases at the replication fork remove supercoils caused by DNA unwinding, and single-stranded DNA binding proteins maintain the two single-stranded DNA templates stabilized prior to replication.
+# Aspartate kinase catalyzes the initial step in the diaminopimelic acid pathway by transferring a phosphoryl from ATP onto the carboxylate group of aspartate, which yields aspartyl-β-phosphate.
+In the case of RNA nucleotides deoxyadenosine and deoxyguanosine, the purine bases are attached to a deoxyribose sugar with a glycosidic bond.
+# FGAM cyclase catalyzes ring closure, which involves removal of a water molecule, forming the 5-membered imidazole ring 5-aminoimidazole ribonucleotide (AIR).
+This reaction may be depicted as follows:
+Prokaryotic translation differs from eukaryotic translation; however, this section will mostly focus on the commonalities between the two organisms.
+Sphingolipids exist in eukaryotic cells and are particularly abundant in the central nervous system.
+Cells do not normally contain thymine bases that are linked to ribose sugars in RNA, thus indicating that cells only synthesize deoxyribose-linked thymine.
+The first step for joining an amino acid to its corresponding tRNA is the formation of aminoacyl-AMP:
+This conversion involves the enzyme ribonucleoside triphosphate reductase.

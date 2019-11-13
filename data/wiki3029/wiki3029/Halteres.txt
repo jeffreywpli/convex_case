@@ -1,0 +1,200 @@
+However, the amplitude of the wingbeat does not always have to be the same on the left and right side.
+Sensory inputs detected by halteres not only determine the position of the body, but also, the position of the head, which can move independently from the body.
+V. Buddenbrock was able to show that immediately after haltere removal flies were unable to produce normal wing movements.
+In contrast, fruit flies, which do not oscillate their halteres when walking, do not exhibit any differences in ability when their halteres are removed.
+Halteres are particularly useful for detecting fast perturbations during flight and only respond to angular velocities (speeds of rotation) above a certain threshold.
+An extreme example of this trait is in the family Syrphidae (hoverflies), where the bulb of the haltere is positioned nearly perpendicular to the stalk.
+The source of this difference was determined to be mechanosensory.
+If this gene is experimentally deactivated, the haltere will develop into a fully formed wing.
+To visualize this, if you were to imagine a person holding their arms out sideways, this would be a 180 degree offset.
+Although halteres are always synchronized with the movements of the wings, the phase at which they oscillate differs between species.
+These fields of receptors respond to different directions of antennal movements.
+Halteres act as a balance and guidance system by providing rapid feedback to the wing-steering muscles, as well as those responsible for stabilizing the head.
+Two main aspects of the visual field have been used to study fly vision, figure and background.
+He discovered that flies were unable to remain airborne when their halteres were surgically removed, but otherwise behaved normally.
+Certain species of flies have been observed to oscillate their halteres while walking in addition to oscillating them during flight.
+Using high speed video analysis, Faust (1952) demonstrated that this was not the case and that halteres are capable of detecting all three directions of rotation.
+In addition to the indirect flight muscles which are responsible for the flapping motion, there are also steering muscle which control the rotation/angle of the wings.
+When this occurs, tiny bell-shaped structures at the base of the haltere experience strain as the haltere stalk bends in their direction.
+When haltere bulbs are removed from tethered flying flies, they are still able to track moving figures, but they struggle to stabilize moving backgrounds.
+This causes the haltere bulbs to be much further from the body and easily visible to the naked eye.
+Certain lepidopterans (moths and butterflies) exhibit small amplitude oscillation of their antennae at constant angles during flight.
+Context determines whether the fly will use its halteres or vision as the primary source of body/head position information.
+Because just a single gene is responsible for this change, it is easy to imagine a small mutation here leading to the formation of the first halteres.
+Haltere afferents have also been shown to terminate in the mesothoracic neuropil where flight muscle neurons are located.
+When the amplitude of the left wing is less than the right, the fly will make a left turn.
+These observed differences in wing-haltere coordination suggest that differences in sensory neuron output also exist between species.
+In fruit flies, (''Ubx'') is responsible for the formation of the halteres during metamorphosis.
+Halteres may also be useful for other behaviors.
+The fly would then be able to execute its turn in the desired direction.
+This occurs in the order Lepidoptera and refers to the antennae of moths and butterflies.
+Haltere afferent activity responding to rotations and wing steering behavior converge in this processing region.
+Though it is clear that ''Ubx'' is the primary gene responsible for hindwing formation, Ubx also regulates other genes once expressed.
+When the haltere is pushed to one side, the cuticle of the insect bends and the surface of the cap is distorted.
+That is, the left and right wings and thus the left and right halteres always beat at the same frequency.
+It is unknown how haltere muscle activity during flight differs from walking.
+Because halteres evolved from hind wings, the same complement of steering muscles exists for the other directions of movement as well.
+Several ''Ubx''-regulated target genes have been identified, including two direct targets, ''spalt'' and ''knot'', which are expressed in the wing and repressed in halteres.
+After reattachment of the flagella, flight performance was restored.
+Genetic studies have also brought to light many similarities between halteres and hindwings.
+Of course, this is not the actual mechanism by which flies detect rotation.
+Antennal movements in lepidopterans were originally hypothesized to aid in wind or gravity perception.
+The sensilla are arranged in a way so similar to that of hindwings, that were the halteres to be replaced with wings, the forces produced would still be sufficient to activate the same sensory organs.
+Hengstenberg (1988) found that in the roll direction of rotation, the flies' ability to maintain their head position in response to body motion was only observed at speeds above 50 degrees per second and their ability peaked at 1500 degrees per second.
+Flies rely on both visual information from their compound eyes and mechanical input from their halteres.
+This means that the decoding mechanisms used by the central nervous system to interpret such movements and produce adequate motor output probably also vary depending on phylogeny.
+(1993) confirmed that the specialized forewings that male Strepsiptera possess perform the same function as dipteran halteres.
+The order name for flies, "Diptera" literally means two wings, but there is another order of insect which has evolved flight with only two wings: strepsipterans, which are more commonly referred to as twisted wing parasites; they are the only other organism that possess two wings and two halteres.
+showed that these sensors then transmit body position information to the head and abdomen to produce compensatory movements.
+Campaniform sensilla are cap-shaped protrusions located on the surface of the exoskeleton (cuticle) of insects.
+Thus, the visual and mechanosensory (halteres) systems work together to stabilize the visual field of the animal: first, by quickly responding to fast changes (halteres), and second, by maintaining that response until it is corrected (vision).
+The outer segment of the dendritic projection is attached to the inside surface of the cap.
+Brachyceran flies (short-antennaed) oscillate their halteres almost exactly opposite their wings (180 degrees).
+The females spend their entire lives in a grub-like state, parasitizing larger insects.
+Chordotonal organs, unlike campaniform sensilla, exist beneath the cuticle and typically respond to stretch as opposed to distortion or bending.
+Not every specific target for the haltere afferents have been determined, but a few connections between motor neurons known to be involved in wing steering control and particular haltere sensory fields have been identified, particularly one synapse between the haltere nerve and a wing steering motor neuron known as mnb1.
+He claimed that the halteres should instead be considered "stimulation organs".
+Head stabilization outputs due to optical inputs alone are slower to respond, but also last longer than those due to haltere inputs.
+The thread in these experiments presumably aided in keeping the fly from rotating (similar to the way a heavy basket below a hot air balloon prevents the balloon from tipping), which supported the hypothesis that halteres are responsible for sensing body rotations.
+Strepsipterans, more commonly referred to as twisted wing parasites, are a unique group of insects with major sexual dimorphism.
+There are far fewer chordotonal organs at the base of the haltere than campaniform sensilla (on the order of hundreds), so it is assumed that they are far less important for detecting and transmitting rotational information from haltere movements.
+Instead, the stalk's shape in more derived families tends to be reflective of the body shape of the individual.
+Halteres and vision both play a role in stabilizing the head.
+This would allow the haltere-initiated reflex to occur, correcting the imagined perturbation.
+Now, instead of the halteres following a linear path, they begin to follow a curved path.
+Chan and Dickinson (1998) suggested that what the fly does to prevent this from occurring is to first move its halteres as if it were being pushed in the opposite direction that it wants to go.
+(1998) identified 10 direct control muscles in the haltere similar to those found in the fore wing.
+When flies are then rotated, these volleys break down, likely in response to different groups of sensilla being activated to inform the fly of its recently changed body position.
+The larger the perturbation they experience, the farther the halteres move from their original linear path.
+Insect eyes are unable to move independently of the head.
+Flies typically hold their halteres at a 90 degree offset.
+When the halteres are removed, these insects perform more poorly at certain walking challenges.
+In these individuals, halteres could thus be detecting sensory information during walking behavior as well.
+When the visual field is artificially rotated around a fly at slower angular velocities, head stabilization still occurs.
+They are positioned behind their bodies, forming a 90 degree angle between the haltere bulbs and the center of their thorax.
+More derived families, such as Calliphoridae (blow flies), have developed specialized structures called "calyptrae" or "squama", which are tiny flaps of wing, that cover the haltere.
+This unique structure which detects rotations/perturbations during flight has never been described in nature elsewhere.
+This is what allows flies to perform their fast acrobatic maneuvers.
+The halteres of flies work the same way.
+They differ slightly at their site of detection.
+Indirect insect flight muscles are composed of two sets of perpendicular muscles (see left figure) that are attached to the thorax (instead of directly to the wing base as is the case for direct flight muscles).
+In 1917 v. Buddenbrock asserted that something else was responsible for the flies' loss of flight ability.
+In order for flies to stabilize their visual fields, they must adjust the position of their entire head.
+The inner dendrite is able to detect this distortion and convert it to an electrical signal which is sent to the central nervous system to be interpreted.
+One of the things that the Hox gene ''Ultrabithorax (Ubx)'' is responsible for, is specifying the identity of the third thoracic segment of their body.
+Figures are the objects that the fly is focused on and background represents everything else.
+In contrast, body rotations detected by the halteres elicit the greatest responses at higher angular velocities and degrade as the speed of rotation decreases.
+Halteres are rapidly oscillated simultaneously with the wings, allowing them to experience forces resulting from body rotations.
+In fact, haltere development has been traced back to a single gene (Ubx), which when deactivated results in the formation of a hindwing instead.
+This single homeotic gene change results in a radically different phenotype, but also begins to give us some insight into how the ancestors of flies' hind wings may have originally evolved into halteres.
+For simplicity, the remainder of this article will refer only to dipteran halteres.
+Their sensory nerve endings attach between two internal points and when those points are stretched, the difference in length is what is detected and transformed into electrical signaling.
+It has been determined that those five sensory fields all project to the thorax in a "region-specific" way and afferents originating from the fore wing were also shown to converge in the same regions.
+These ridges connect the right wing to the right haltere and the left wing to the left haltere.
+Rotational movements of the body combined with the oscillating halteres produce Coriolis forces that can be detected by fields of mechanosensors (campaniform sensilla) located at the base of the halteres.
+Certain flies in the families Muscidae, Anthomyiidae, Calliphoridae, Sarcophagidae, Tachinidae, and Micropedizae have been documented to oscillate their wings while walking in addition to during flight.
+If a static figure is placed in the field of view of a fly, its ability to stabilize a moving background is restored.
+Using functional morphology and behavior studies, Pix ''et al.''
+The left and right halteres show much more variable phase relationships while walking compared with flying, which may indicate decoupling of the left and right haltere muscles.
+Even though haltere movement is controlled by separate muscles than the wings, because the wings are mechanically coupled with the halteres, changes in wingbeat frequency extend to the haltere-beat frequency as well, but haltere beat amplitude does not change.
+Pringle (1948) hypothesized that they prevented wind turbulence from affecting haltere movements, allowing more precise detection of body position, but this was never tested.
+It is generally accepted that the halteres evolved from the hindwings of insects.
+In other words, that the activity of the halteres energized the wing muscular system, so that they acted as an on/off switch for flight.
+V. Buddenbrock attempted to show that activation of the halteres would stimulate the central nervous system into a state of activity which allowed the wings to produce flight behavior.
+When the first set of muscles contracts, they deform the body of the insect and compress its thorax vertically, which lifts the wings.
+Sensory inputs from five sensory fields located at the base of the haltere all converge onto one nerve, the haltere nerve.
+When the first set of muscles relaxes and the second set contracts, the thorax is squeezed in the opposite direction, which extends the body vertically and moves the wings downward.
+It has since been concluded that this is not in fact true, and that the original assertion that halteres act as balance organs is the correct one.
+When the flagella were removed, the moths were no longer able to maintain stable flight.
+The wings of flies even have a clutch structure at their base.
+The source of this coupling however, was not between the muscles which control the halteres and those that control the wings.
+This indicates that although halteres are not required for motion vision processing, they do contribute to it in a context-dependent manner, even when the behavior is separated from body rotations.
+The nervous system can then transform the bending of these hairs into electrical signals, which the fly interprets as body rotation information.
+Though strepsipterans are very difficult to locate and are additionally rather short-lived, Pix ''et al.''
+This was later explained by the fact that allowing flies a few minutes recovery time post-surgery resulted in total recovery of normal flight muscle control.
+Attached inside the cap is the tip of a dendritic projection (or sensory nerve fiber).
+Instead, two small ridges of cuticle known as the subepimeral ridges were found to be responsible.
+The males are also parasites, but they eventually will leave their host to seek their female counterparts.
+More ancient suborders such as the Nematecerans (long-antennaed flies), which for example include crane flies and mosquitoes, exhibit a variety of wing-haltere phasing.
+Instead, he suggested that ''Ubx''-regulated target gene sets were the direct source of the observed changes.
+(2015) demonstrated that in freshly killed flies, without any neural input, the  movement of wings was still coupled with the movement of halteres.
+Those axes are yaw pitch and roll, as illustrated in the above figure (Directions of rotation).
+In segmented organisms there are genes called Hox genes, which determines the development of serial homologs, or repeating structures within an organism (e.g.
+(2007) determined that antennae were responsible for flight stabilization in hawk moths by removing the long part of the antenna (the flagellum), then reattaching it to determine its influence on flight performance.
+Flies are also able to perform compensatory head movements to stabilize their vision without the use of their halteres.
+The general structure of halteres are well recognized, but much variability exists between species.
+The way in which rotation sensation is accomplished is that there are five distinct sensory fields located at the base of the haltere.
+However, how haltere information is processed and used during walking remains, with few exceptions, unclear.
+jointed appendages of arthropods or vertebrae in mammals).
+The oscillation of the haltere is similar in amplitude and frequency during walking and flight for these flies, and the halteres always oscillate when walking or when flying.
+Proper hind wing development in a number of insect species is dependent on ''Ubx'', including butterflies, beetles, and flies.
+Unfortunately, as soon as it does, the halteres sense a body rotation and reflexively correct the turn, preventing the fly from changing direction.
+Flies use indirect flight muscles to accomplish wing movement, and the beating haltere movements are driven by the same group of muscles (see dynamics section).
+There are two sets of mechanosensory organs located at the base of the lepidopteran antenna, Böhm's bristles and the Johnston organ.
+Interestingly, though halteres are coupled with the wings and with each other during flight, some flies oscillate their halteres while walking (without oscillating their wings).
+Halteres are able to sense small deviations in body position using the gyroscopic properties of moving mass.
+The below figure demonstrates this movement with only the first set of muscles.
+Halteres were first documented by William Derham in 1714.
+The mechanoreceptors at the base of the halteres are only able to measure force in two directions (horizontal and vertical), so a single haltere is only able to measure rotations along two of the three axes.
+This gearbox can change the maximum amplitude of the wing movement and determine its speed of motion.
+However, flies are most sensitive to pitch.
+Male strepsipterans uniquely possess two hindwings, while their forewings have taken on the club-like form of halteres.
+A study performed using the hawk moth, ''Manduca sexta'', confirmed that these tiny, antennal oscillations were actually contributing to body rotation sensation.
+If the body of the insect rotates about one of its three axes (yaw, pitch or roll), the rotation exerts a force on the vibrating halteres – this is known as the Coriolis effect (see below).
+All other families of Diptera never oscillate their halteres while walking, but always do so while flying.
+This minimizes the amount of air space between end-knobs and the sides of the abdomen and thorax.
+(2007) was able to demonstrate that it was the mechanosensors that were responsible for flight stability as opposed to the other sensory organs, because when the flagella were removed and then reattached, all antennal nerves were severed excluding those at the base (Böhm's bristles and the Johnston organ).
+The stalk of the haltere is also not always straight.
+This gives them the ability to acquire information from two non-parallel planes and allows sensation of rotation in all three directions.
+Dipteran insects along with the majority of other insect orders use what are known as indirect flight muscles to accomplish flight.
+Their movement, structure and development all support this hypothesis.
+Further, in an interesting side experiment performed by Pringle (1938), when a thread was attached to the abdomen of haltereless flies, relatively stable flight was again achieved.
+How these sensory fields are organized at the level of the central nervous system is currently unknown.
+If that person then moved their arms backward so that the angle created between their fingertips and spine was 90 degrees, this would be a 90 degree offset.
+This result was initially attributed to the haltere's ability to sense and maintain equilibrium.
+When a forcep was used to manually move a wing up and down, not only did the opposite wing move in synchrony, the halteres also beat in antiphase with both wings.
+Another structure in the class insecta also exists whose primary function is not the same as halteres, but that additionally serves a similar balancing function.
+What this means is that halteres beat up and down in time with the flapping of the wings along a linear pathway, but when the fly's body begins to rotate, the path of the beating halteres also changes.
+Because the halteres are set at different angles (90 degree offset), they also beat along two separate horizontal and vertical axes.
+Pringle claimed that yaw was the only direction of rotation that flies used their halteres to detect.
+The insect detects this force with sensory organs called campaniform sensilla and chordotonal organs located at the base of the halteres and uses this information to interpret and correct its position in space.
+During these periods, the haltere is no longer moving in only two directions (up and down), but four (up, down, left, and right).
+Weatherbee (1998) postulated that differences in ''Ubx'' expression patterns or levels may not be responsible for the observed physiological changes.
+In 1998, Chan and Dickinson proposed that the planned haltere movements (without external forces acting on them) were what initiated planned turns.
+Each side of the body must be synchronized and the two sides are also coupled.
+This is what allows the flies to turn and is accomplished using a gearbox, much like what you would find in an automobile.
+Responses to body rotations detected via the visual system are greatest at slow speeds and decrease with increased angular velocity.
+The clutch moves between grooves in the gearbox, to engage and disengage the wing muscles and also modulate the wingbeat amplitude.
+The necessity of halteres in flight has been well documented, yet little is known about their use in other behaviors such as walking.
+Specific examples of what has been found are described below.
+In dipterous insects, '''''halteres''''' (; singular '''''halter''''' or '''''haltere''''') are minute dumbbell-shaped organs that have been modified from hindwings to provide a means of encoding body rotations during flight.
+Further details explaining the dynamics and physiology of halteres are described below.
+These fields, which actually contain the majority of campaniform sensilla found on the exoskeleton of blowflies (more than 400 campaniform sensilla per haltere), are activated in response to strain created by movements at the haltere base in different directions (due to Coriolis forces acting on the end knobs).
+The more ancient families, such as tipulidae (crane flies), possess halteres with rather long stalks.
+The force exerted on the halteres in response to this left right movement is known as Coriolis force and can be produced when any moving object is rotated in the three directions of rotation, yaw, pitch or roll (see figure).
+The majority of insects have two pairs of wings.
+From this result it can be concluded that although halteres are required for detecting fast rotations, the visual system is adept by itself at sensing and correcting for slower body movements.
+Mureli and Fox (2015) showed that flies are still capable of performing planned turns even when their halteres have been removed entirely.
+The movement of the wings and the halteres are mechanically coupled.
+Sherman and Dickinson (2002) discovered that the responsiveness of the halteres and eyes are tuned to complimentary speeds of rotation.
+The only time they ever come out of their host insect is to extend their fused heads and thoraces for males to notice.
+The integration of these two separately tuned sensors allows the flies to detect a wide range of angular velocities in all three directions of rotation.
+The only difference is that strepsipterans have adapted their forewings into halteres, whereas dipterans have adapted their hindwings into halteres.
+When halteres are experimentally induced to flap, volleys of action potentials within the haltere nerve occur in synchrony with the haltere-beat frequency.
+To explain this, imagine a fly that wishes to turn to the right.
+Characterizations of the arrangement of sensory organs known as campaniform sensilla, found at the base of the haltere, show many similarities to those found at the base of the hindwings in other insects.
+This indicates that haltere inputs are behaviorally relevant to those species which oscillate them while walking and that they aid those individuals in walking behavior.
+Different fields of sensory organs located in different regions at the base of each haltere detect the different directions of rotation, which also explains why flies with one haltere are still able to fly without issue.
+In insects, the thorax is separated into different segments.
+What makes flies unique is that they possess only one set of lift-generating wings and yet are still regarded as some of the most skillful fliers.
+When flies are focused on an object in front of them and their body is rotated, they are able to maintain their head position so that the object remains focused and upright.
+Flesh flies are among those that oscillate their halteres while walking, and also perform more poorly at certain walking tasks when their halteres are removed.
+Chordotonal organs detect and transmit distortions in their position/shape in the same way that campaniform sensilla do.
+The original balancer theory, which was postulated by Pringle (1948), only accounted for forces produced in two directions.
+Halteres are typically only associated with flight stabilization, but their ability to detect body rotations can elicit compensatory reactions not only from the wing steering muscles, but also from neck muscle which are responsible for head position and gaze.
+Because the haltere muscles are tiny in comparison to the flight muscles, flight muscle activity completely overshadows that of the haltere muscles during flight.
+Antennae are also capable of sensing odor, humidity, and temperature.
+Though no other structure with entirely the same function and morphology as halteres has been observed in nature, they have evolved at least twice in the class Insecta, once in the order Diptera and again in Strepsiptera.
+In these families, the halteres beat so close to the body that the distance between haltere and thorax is a fraction of the diameter of the haltere bulb.
+Other genes which are expressed in wings and repressed in halteres have also been identified, but whether or not they act as direct targets of ''Ubx'' regulation are still unknown.
+It is necessary for the halteres to be positioned like this in order to detect the three axes of motion.

@@ -1,0 +1,200 @@
+(1972) has analyzed pelog as a seven-note subset of nine-tone equal temperament (133 cent steps ).
+Note that 'rounded' and 'floored' produce the same MIDI Pitch Bend value.
+(Correspondingly, there is a great deal of variety in the particular opinions of composers about the moods and colors of particular keys.)
+An extended account is also given by Joseph Needham.
+Each of them provides a very good approximation of several just intervals.
+However, it is difficult to determine with any exactness the actual tunings used in different places at different times by any composer.
+Among the 17th-century keyboard composers Girolamo Frescobaldi advocated equal temperament.
+From 1450 to about 1800, plucked instrument players (lutenists and guitarists) generally favored equal temperament, and the Brossard lute Manuscript compiled in the last quarter of the 17th century contains a series of 18 preludes attributed to Bocquet written in all keys, including the last prelude, entitled ''Prelude sur tous les tons'', which enharmonically modulates through all keys.
+Our subjective sensation of ratio interval  is 3.442... times our subjective sensation of ratio interval .
+This application:  calculates the frequencies, approximate cents, and MIDI Pitch Bend values for any systems of Equal Division of the Octave.
+Using beat rates, first proposed in 1749, became common after their diffusion by Helmholtz and Ellis in the second half of the 19th century.
+The notes in a regular diatonic tuning are connected together by a cycle of seven tempered fifths.
+Tuning without beat rates but employing several checks, achieving virtually modern accuracy, was already done in the first decades of the 19th century.
+Scales are often measured in cents, which divide the octave into 1200 equal intervals (each called a cent).
+According to this naming system, ''12-TET'' is called ''12-EDO'', ''31-TET'' is called ''31-EDO'', and so on.
+The progress of equal temperament from the mid-18th century on is described with detail in quite a few modern scholarly publications: it was already the temperament of choice during the Classical era (second half of the 18th century), and it became standard during the Early Romantic era (first decade of the 19th century), except for organs that switched to it more gradually, completing only in the second decade of the 19th century.
+A Thai xylophone measured by Morton (1974) "varied only plus or minus 5 cents," from 7-TET.
+The basic step in cents for any equal temperament can be found by taking the width of ''p'' above in cents (usually the octave, which is 1200 cents wide), called below ''w'', and dividing it into ''n'' parts:
+(Another reason is that 12-EDO is the smallest equal temperament to closely approximate 5-limit harmony, the next-smallest being 19-EDO.)
+6/5 and 5/3, 7/5 and 10/7, 7/6 and 12/7 ( A060529);
+It does not, however, fit the requirements of meantone temperaments, which put good thirds within easy reach via the cycle of fifths.
+In musical analysis, material belonging to an equal temperament is often given an integer notation, meaning a single integer is used to represent each pitch.
+24-EDO, the quarter tone scale (or 24-TET), was a popular microtonal tuning In the 20th century probably because it represented a convenient access point for composers conditioned on standard Western 12-EDO pitch and notation practices who were also interested in microtonality.
+According to Gene Cho, Zhu Zaiyu was the first person to solve the equal temperament problem mathematically.
+Additionally, it also makes the semitone exactly half a whole tone, the simplest possible relationship.
+Some wind instruments that can easily and spontaneously bend their tone, most notably trombones, use tuning similar to string ensembles and vocal groups.
+3/2 and 4/3, 5/4 and 8/5, 7/4 and 8/7, 16/11 and 11/8 ( A060527);
+Zhu Zaiyu (朱載堉), a prince of the Ming court, spent thirty years on research based on the equal temperament idea originally postulated by his father.
+Taking each semitone results in a different choice of perfect fifth.
+34 EDO gives slightly less total combined errors of approximation to the 5-limit just ratios 3:2, 5:4, 6:5, and their inversions than 31 EDO does, although the approximation of 5:4 is worse.
+The twelve tone system similarly generalizes to a sequence CDCDDCDCDCDD (or a rotation of it) of chromatic and diatonic semitones connected together in a cycle of twelve fifths.
+This logarithmic scale makes comparison of different tuning systems easier than comparing ratios, and has considerable use in Ethnomusicology.
+Zarlino in his polemic with Galilei initially opposed equal temperament but eventually conceded to it in relation to the lute in his ''Sopplimenti musicali'' in 1588.
+During actual play, however, the violinist chooses pitches by ear, and only the four unstopped pitches of the strings are guaranteed to exhibit this 3:2 ratio.
+If the same principle applies to fundamental frequency (the stimulus) of periodic sound, then our subjective sensation of the interval of two sounds is proportional to the logarithm of the ratio (the stimulus intensity, pitch in this case) of their fundamental frequencies.
+A Ugandan Chopi xylophone measured by Haddon (1952) was also tuned to this system.
+Furthermore, by applying the modular arithmetic where the modulus is the number of divisions of the octave (usually 12), these integers can be reduced to pitch classes, which removes the distinction (or acknowledges the similarity) between pitches of the same name, e.g.
+29-TET is the lowest number of equal divisions of the octave that produces a better perfect fifth than 12-TET.
+Other equal temperaments exist.
+* ''alpha'':   (78.0 cents)
+He said that the Chinese theory of tones knew more about the length of pitch pipes than its Western counterpart, and that the set of pipes duplicated according to the Zaiyu data proved the accuracy of this theory.
+5-TET and 7-TET mark the endpoints of the syntonic temperament's valid tuning range, as shown in Figure 1.
+:'''4th Example:''' for ratio interval ''r'' = 2 (octave), and unit, hundredth of Pythagorean limma (b =  and ''d'' = 100), it is ''t'' = 1330 hundredths of Pythagorean limma.
+In twelve equal the S is the semitone and is exactly half the size of the tone T. When the S's reduce to zero the result is TTTTT or a five tone equal temperament, As the semitones get larger, eventually the steps are all the same size, and the result is in seven tone equal temperament.
+This interval is divided into 100 cents.
+:'''3rd Example:''' for ratio interval ''r ''= 2 (octave) and unit, hundredth of tone  (b =  and ''d ''= 100), it is ''t'' = 588.4949... hundredths of tone.
+Because a perfect fifth is in 3:2 relation with its base tone, and this interval is covered in 7 steps, each tone is in the ratio of  to the next (100.28 cents), which provides for a perfect fifth with ratio of 3:2 but a slightly widened octave with a ratio of ≈ 517:258 or ≈ 2.00388:1 rather than the usual 2:1 ratio, because twelve perfect fifths do not equal seven octaves.
+The diatonic tuning in twelve equal can be generalized to any regular diatonic tuning dividing the octave as a sequence of steps TTSTTTS (or a rotation of it) with all the T's and all the S's the same size and the S's smaller than the T's.
+* ''gamma'':   (35.1 cents)
+Let A and B be two periodic sounds with stable fundamental frequencies (the stimuli): ffreqA and ffreqB.
+'C' is 0 regardless of octave register.
+Matteo Ricci, a Jesuit in China recorded this work in his personal journal and very likely brought it back to the West.
+He used the 18:17 ratio for fretting the lute (although some adjustment was necessary for pure octaves).
+The equal-tempered version of the Bohlen–Pierce scale consists of the ratio 3:1, 1902 cents, conventionally a perfect fifth and an octave, called in this theory a tritave (), and split into a thirteen equal parts.
+A South American Indian scale from a preinstrumental culture measured by Boiles (1969) featured 175 cent seven tone equal temperament, which stretches the octave slightly as with instrumental gamelan music.
+He described his new pitch theory in his ''Fusion of Music and Calendar 乐律融通'' published in 1580.
+A precise equal temperament is possible using the 17th-century Sabbatini method of splitting the octave first into three tempered major thirds.
+Equal intervals also means equal ratios between the frequencies of any adjacent pair, and, since pitch is perceived roughly as the logarithm of frequency, equal perceived "distance" from every note to its nearest neighbor.
+For example, where ''k'' is an integer, 12''k''-EDO sets ''q'' = , and 19''k''-EDO sets ''q'' = .
+The origin of the Chinese pentatonic scale is traditionally ascribed to the mythical Ling Lun.
+These two end points are not included as regular diatonic tunings.
+72-TET approximates many just intonation intervals well, even into the 7-limit and 11-limit, such as 7:4, 9:7, 11:5, 11:6 and 11:7.
+Some of the intermediate sizes of tones and semitones can also be generated in equal temperament systems.
+* ''beta'':   (63.8 cents)
+Galilei's  countryman and fellow lutenist Giacomo Gorzanis had written music based on equal temperament by 1567.
+In Western countries, when people use the term ''equal temperament'' without qualification, they usually mean 12-TET.
+Our subjective sensation of the interval between these sounds, is proportional to .
+For example, some music has been written in 19-TET and 31-TET.
+Each choice of fraction ''q'' for the relationship results in exactly one equal temperament family, but the converse is not true: 47-EDO has two different semitones, where one is  tone and the other is , which are not complements of each other like in 19-EDO ( and ).
+Kuttner proposes that neither Zhu Zaiyu or Simon Stevin achieved equal temperament, and that neither of the two should be treated as inventors.
+An example of an equal temperament that finds its smallest interval by dividing an interval other than the octave into equal parts is the equal-tempered version of the Bohlen–Pierce scale, which divides the just interval of an octave and a fifth (ratio 3:1), called a "tritave" or a "pseudo-octave" in that system, into 13 equal parts.
+* In 5-TET the tempered perfect fifth is 720 cents wide (at the top of the tuning continuum), and marks the endpoint on the tuning continuum at which the width of the minor second shrinks to a width of 0 cents.
+6/5 and 5/3 ( A061919);
+C = (2/3)*D, the result is thirty one equal, with two steps for the chromatic semitone, three steps for the diatonic semitone, and five steps for the tone where  5*T + 2*S = 25 + 6 = 31 steps.
+According to Fritz A. Kuttner, a critic of the theory, it is known that "Chu-Tsaiyu presented a highly precise, simple and ingenious method for arithmetic calculation of equal temperament mono-chords in 1584" and that "Simon Stevin offered a mathematical definition of equal temperament plus a somewhat less precise computation of the corresponding numerical values in 1585 or later."
+In the '''2nd Example''' (below),  = 3.442....
+This allowed greater expression through enharmonic modulation, which became extremely important in the 18th century in music of such composers as Francesco Geminiani, Wilhelm Friedemann Bach, Carl Philipp Emmanuel Bach and Johann Gottfried Müthel.
+11/8 and 16/11 ( A061416) It is noteworthy that many elements of this sequences are sums of previous elements.
+In 53-TET the very consonant thirds would be reached instead by strange enharmonic relationships like C-F, as it is an example of schismatic temperament.
+5/4 and 8/5 ( A061918);
+Allegedly his writings discussed the equal division of the scale in the 27th century BC.
+Twelve tone equal temperament took hold for a variety of reasons.
+Once one knows how many steps a semitone and a tone are in this equal temperament, one can find the number of steps it has in the octave.
+For classical music and Western music in general, the most common tuning system for the past few hundred years has been and remains '''twelve-tone equal temperament''' (also known as '''12 equal temperament''', '''12-TET''', or '''12-ET'''), which divides the octave into 12 parts, all of which are equal on a logarithmic scale.
+In modern times, 12TET is usually tuned relative to a standard pitch of 440&nbsp;Hz, called A440, meaning one pitch is tuned to A440, and all other pitches are some multiple of semitones away from that in either direction, although the standard pitch has not always been 440 and has fluctuated and generally risen over the past few hundred years.
+In other words, the pitches of an equal temperament can be produced by repeating a generating interval.
+Their ratio interval is .
+Its extremely good perfect fifths make it interchangeable with an extended Pythagorean tuning, but it also accommodates schismatic temperament, and is sometimes used in Turkish music theory.
+(In England, some cathedral organists and choirmasters held out against it even after that date; Samuel Sebastian Wesley, for instance, opposed it all along.
+'''General formula for the equal-tempered interval:'''
+In this formula ''Pn'' refers to the pitch, or frequency (usually in hertz), you are trying to find.
+A complete set of bronze chime bells, among many musical instruments found in the tomb of the Marquis Yi of Zeng (early Warring States, c. 5th century BCE in the Chinese Bronze Age), covers 5 full 7 note octaves in the key of C Major, including 12 note semi-tones in the middle of the range.
+Then, ratio  is stimulus intensity for our subjective sensation, and said '''"ratio interval"'''.
+The fact that 24 is a multiple of 12 also made 24-EDO easy to achieve instrumentally by employing two traditional 12-EDO instruments purposely tuned a quarter-tone apart, such as two pianos, which also allowed each performer (or one performer playing a different piano with each hand) to read familiar 12-tone notation.
+In equal temperament tunings, the generating interval is often found by dividing some larger desired interval, often the octave (ratio 2:1), into a number of smaller equal steps (equal frequency ratios between successive notes).
+Gorzanis was not the only lutenist to explore all modes or keys: Francesco Spinacino wrote a "Recercare de tutti li Toni" (Ricercar in all the Tones) as early as 1507.
+String ensembles and vocal groups, who have no mechanical tuning limitations, often use a tuning much closer to just intonation, as it is naturally more consonant.
+''n'' and ''a'' refer to numbers assigned to the desired pitch and the reference pitch, respectively.
+two in 24-EDO, six in 72-EDO).
+It is now well-accepted that of the two primary tuning systems in gamelan music, slendro and pelog, only slendro somewhat resembles five-tone equal temperament while pelog is highly unequal; however, Surjodiningrat et al.
+The two figures frequently credited with the achievement of exact calculation of equal temperament are Zhu Zaiyu (also romanized as Chu-Tsaiyu.
+Violins, violas and cellos are tuned in perfect fifths (G – D – A – E, for violins, and C – G – D – A, for violas and cellos), which suggests that their semi-tone ratio is slightly higher than in the conventional twelve-tone equal temperament.
+These two numbers are from a list of consecutive integers assigned to consecutive semitones.
+Multiplying by 100 yields 344.2... hundredths of ratio interval (tone) .
+Kuttner disagrees and remarks that his claim "cannot be considered correct without major qualifications."
+Each step is 146.3 cents (), or .
+An equal temperament fulfilling the above properties (including having no notes outside the circle of fifths) divides the octave into 7''t'' − 2''s'' steps, and the perfect fifth into 4''t'' − ''s'' steps.
+This simplifies and generalizes discussion of pitch material within the temperament in the same way that taking the logarithm of a multiplication reduces it to addition.
+2, 5, 12, 41, 53, 306, 665 and 15601 are denominators of first convergents of log(3), so 2, 5, 12, 41, 53, 306, 665 and 15601 twelfths (and fifths), being in correspondent equal temperaments equal to an integer number of octaves, are better approximation of 2, 5, 12, 41, 53, 306, 665 and 15601 just twelfths/fifths than for any equal temperaments with less tones.
+Because 24-EDO contains all of the pitches of 12-EDO plus new pitches halfway between each adjacent pair of 12-EDO pitches, they could employ the additional colors without losing any tactics available in 12-tone harmony.
+where the ratio ''r'' divides the ratio ''p'' (typically the octave, which is 2:1) into ''n'' equal parts.
+Its major third is more accurate than 12-ET and 29-ET, about 6 cents flat.
+72 EDO has a smallest interval that is six times smaller than the smallest interval of 12 EDO and therefore contains six copies of 12 EDO starting on different pitches.
+He composed a set of dance suites on each of the 12 notes of the chromatic scale in all the "transposition keys", and published also, in his 1584 "Fronimo", 24 + 1 ricercars.
+3/2 and 4/3, 5/4 and 8/5, 7/4 and 8/7 ( A060526);
+Wendy Carlos created three unusual equal temperaments after a thorough study of the properties of possible temperaments having a step size between 30 and 120 cents.
+:''P'' = 440() ≈ 261.626 Hz
+This was also proposed by several writers during the Classical era.
+The resulting twelve tone system closely approximates to the historically important 1/4 comma meantone.
+Similarly, after 84 divisions (7 octaves) the length was divided by a factor of 128:
+Proportion ''t'' is said '''"tempered interval"''' of sound interval A-B, with unit sound interval C-D.
+I establish one foot as the number from which the others are to be extracted, and using proportions I extract them.
+12 and 19 above) has the additional property of having no notes outside the circle of fifths.
+Some theorists, such as Giuseppe Tartini, were opposed to the adoption of equal temperament; they felt that degrading the purity of each chord degraded the aesthetic appeal of music, although Andreas Werckmeister emphatically advocated equal temperament in his 1707 treatise published posthumously.
+In 1890, Victor-Charles Mahillon, curator of the Conservatoire museum in Brussels, duplicated a set of pitch pipes according to Zhu Zaiyu's specification.
+It was a convenient fit for the existing keyboard design, and permitted total harmonic freedom at the expense of just a little impurity in every interval.
+The ultimate precision was available with 2-decimal tables published by White in 1917.
+* In 7-TET the tempered perfect fifth is 686 cents wide (at the bottom of the tuning continuum), and marks the endpoint on the tuning continuum, at which the minor second expands to be as wide as the major second (at 171 cents each).
+Other instruments, such as some wind, keyboard, and fretted instruments, often only approximate equal temperament, where technical limitations prevent exact tunings.
+31-TET has a slightly less accurate fifth than 12-TET, but provides near-just major thirds, and provides decent matches for harmonics up to at least 13, of which the seventh harmonic is particularly accurate.
+4/3 and 3/2, 5/4 and 8/5, 6/5 and 5/3, 7/4 and 8/7, 16/11 and 11/8, 16/13 and 13/8 ( A060233);
+The 19th-century German physicist Hermann von Helmholtz wrote in ''On the Sensations of Tone'' that a Chinese prince (see below) introduced a scale of seven notes, and that the division of the octave into twelve semitones was discovered in China.
+Various composers including Charles Ives experimented with music for quarter-tone pianos.
+He also constructed a 12-string tuning instrument, with a set of tuning pitch pipes hidden inside its bottom cavity.
+Indeed, if we multiply both sides of (1) by d, we get t' = t x d, and tempered interval of A-B is t', with magnitude , and unit  of interval C-D.
+''Pa'' refers to the frequency of a reference pitch (usually 440Hz).
+It can be considered an extension of 12 EDO because 72 is a multiple of 12.
+Murray Barbour said, "The first known appearance in print of the correct figures for equal temperament was in China, where Prince Tsaiyü's brilliant solution remains an enigma."
+:'''1st Example:''' for ratio interval  , and unit, cent (''b'' = 2 and ''d ''= 1200), it is ''t'' = 701.955... cents.
+The MIDI encoding standard uses integer note designations.
+They can be considered as equal divisions of the perfect fifth.
+(An arithmetic sequence of intervals would not sound evenly spaced, and would not permit transposition to different keys.)
+It contains a 600-cent tritone, since it is an even-numbered EDO.
+34 EDO doesn't approximate ratios involving prime 7 well.
+The developments occurred independently.
+3/2 and 4/3, 5/4 and 8/5 ( A060525);
+72-TET has been taught, written and performed in practice by Joe Maneri and his students (whose atonal inclinations interestingly typically avoid any reference to just intonation whatsoever).
+Indonesian gamelans are tuned to 5-TET according to Kunst (1949), but according to Hood (1966) and McPhee (1966) their tuning varies widely, and according to Tenzer (2000) they contain stretched octaves.
+For example, A4 (the reference pitch) is the 49th key from the left end of a piano (tuned to 440&nbsp;Hz), and C4 (middle C) is the 40th key.
+31 tone equal temperament was advocated by Christiaan Huygens and Adriaan Fokker.
+Henricus Grammateus drew a close approximation to equal temperament in 1518.
+Angelo Michele Bartolotti published a series of passacaglias in all keys, with connecting enharmonically modulating passages.
+This provides a very close match to justly tuned ratios consisting only of odd numbers.
+Zhu obtained his result mathematically by dividing the length of string and pipe successively by  ≈ 1.059463, and for pipe length by , such that after twelve divisions (an octave) the length was divided by a factor of 2:
+The Weber–Fechner law states that our (human) "subjective sensation is proportional to the logarithm of the stimulus intensity".
+1, 2, 3, 5, 7, 12, 29, 41, 53, 200...  is the sequence of divisions of octave that provide better and better approximations of the perfect fifth.
+J. S. Bach wrote ''The Well-Tempered Clavier'' to demonstrate the musical possibilities of well temperament, where in some keys the consonances are even more degraded than in equal temperament.
+If there are notes outside the circle of fifths, one must then multiply these results by ''n'', which is the number of nonoverlapping circles of fifths required to generate all the notes (e.g.
+53-TET is better at approximating the traditional just consonances than 12, 19 or 31-TET, but has had only occasional use.
+In an equal temperament, the distance between two adjacent steps of the scale is the same interval.
+In 1620, Zhu's work was referenced by a European mathematician.
+These were called ''alpha'', ''beta'', and ''gamma''.
+Specifically, the smallest interval in an equal-tempered scale is the ratio:
+(''See Twelve-tone equal temperament below.'')
+:'''2nd Example:''' for ratio interval , and unit, hundredth of the tone  ( and ''d'' = 100), it is ''t'' = 344.247... hundredths of the tone.
+D = 2*C the result is nineteen equal with one step for the chromatic semitone, two steps for the diatonic semitone and three steps for the tone and the total number of steps 5*T + 2*S = 15 + 4 = 19 steps.
+Subjective sensation (represented by ) of sound interval A-B, is proportional, by proportion ''t'', to our subjective sensation (represented by ) of sound interval C-D.
+Five and seven tone equal temperament ('''5-TET'''  and '''7-TET''' ), with 240  and 171  cent steps respectively, are fairly common.
+This was followed by the  publication of a detailed account of the new theory of the equal temperament with a precise numerical specification for 12-TET in his 5,000-page work ''Complete Compendium of Music and Pitch'' (Yuelü quan shu 乐律全书) in 1584.
+It is possible that when composers and theoreticians of earlier times wrote of the moods and "colors" of the keys, they each described the subtly different dissonances made available within a particular tuning method.
+These are some of the reasons why 12-EDO has become the most commonly used equal temperament.
+(This is not true in general; in 24-EDO, the half-sharps and half-flats are not in the circle of fifths generated starting from C.) The extreme cases are 5''k''-EDO, where ''q'' = 0 and the semitone becomes a unison, and 7''k''-EDO, where ''q'' = 1 and the semitone and tone are the same interval.
+A consequence of this is that chord progressions like I-vi-ii-V-I won't land you back where you started in 53-TET, but rather one 53-tone step flat (unless the motion by I-vi wasn't by the 5-limit minor third).
+''Note:'' From second (equivalent) form is clear that log(r) is magnitude, and  unit of tempered interval.
+The smallest multiples in these families (e.g.
+Arabic music uses 24-TET.
+That resulting smallest interval,  the width of an octave, is called a semitone or half step.
+Related sequences contain divisions approximating other just intervals.
+In this case, seven equal is obtained in the limit as the size of C tends to zero and five equal is the limit as D tends to zero while twelve equal is of course the case C = D.
+Let C and D be two other periodic sounds with stable fundamental frequencies: ffreqC and ffreqD.
+41-TET is the second lowest number of equal divisions that produces a better perfect fifth than 12-TET.
+According to Morton, "Thai instruments of fixed pitch are tuned to an equidistant system of seven pitches per octave&nbsp;... As in Western traditional music, however, all pitches of the tuning system are not used in one mode (often referred to as 'scale'); in the Thai system five of the seven are used in principal pitches in any mode, thus establishing a pattern of nonequidistant intervals for the mode."
+(One must take the small semitone for this purpose: 19-EDO has two semitones, one being  tone and the other being .)
+Chinese: ) in 1584 and Simon Stevin in 1585.
+These numbers can be used to find the frequency of C4:
+&nbsp;&nbsp; or, equivalenty &nbsp; , where ''t'' is the tempered interval, ''r'' the ratio interval, ''b'' the base interval (2 for octave) and ''d'' the divisor of base interval (1200 for cents).
+Its major third is roughly as inaccurate as 12-TET; however, it is tuned 14 cents flat rather than 14 cents sharp.
+Zhu Zaiyu is quoted as saying that, in a text dating from 1584, "I have founded a new system.
+:'''5th Example:''' for ratio interval ''r'' = 800/729 (idiosyncratic of Byzantine Music), and unit, tenth of Pythagorean comma ( and ''d'' = 10), it is ''t'' = 68.58... tenths of Pythagorean comma.
+It also contains three copies of 24 EDO and two copies of 36 EDO, which are themselves multiples of 12 EDO.
+Because the perceived identity of an interval depends on its ratio, this scale in even steps is a geometric sequence of multiplications.
+Altogether one has to find the exact figures for the pitch-pipers in twelve operations."
+3/2 and 4/3, 5/4 and 8/5, 6/5 and 5/3, 9/8 and 16/9, 10/9 and 9/5, 16/15 and 15/8, 45/32 and 64/45 ( A061920);
+Other equal divisions of the octave that have found occasional use include, 15-TET, 17-TET, 19-TET and 22-TET.
+Alpha and Beta may be heard on the title track of her 1986 album ''Beauty in the Beast''.
+If the chromatic semitone is two thirds of the size of the diatonic semitone, i.e.
+An approximation for equal temperament was described by He Chengtian, a mathematician of Southern and Northern Dynasties around 400 AD.
+To avoid ambiguity between equal temperaments that divide the octave and ones that divide some other interval (or that use an arbitrary generator without first dividing a larger interval), the term '''equal division of the octave''', or '''EDO''' is preferred for the former.
+It is in the environment of equal temperament that the new styles of symmetrical tonality and polytonality, atonal music such as that written with the twelve tone technique or serialism, and jazz (at least its piano component) developed and flourished.
+Some examples of the formula:

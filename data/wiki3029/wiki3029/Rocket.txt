@@ -1,0 +1,200 @@
+The minimal mass of vehicle consists of a rocket engine with minimal fuel and structure to carry it.
+An early Chinese texts to mention the use of rockets was the ''Huolongjing'', written by the Chinese artillery officer Jiao Yu in the mid-14th century.
+The energy density of a typical rocket propellant is often around one-third that of conventional hydrocarbon fuels; the bulk of the mass is (often relatively inexpensive) oxidizer.
+Rocket exhaust generates a significant amount of acoustic energy.
+The stored propellant can be a simple pressurized gas or a single liquid fuel that disassociates in the presence of a catalyst (monopropellants), two liquids that spontaneously react on contact (hypergolic propellants), two liquids that must be ignited to react, a solid combination of fuel with oxidizer (solid fuel), or solid fuel with liquid oxidizer (hybrid propellant system).
+At this altitude and velocity, the vehicle has a kinetic energy of about 3&nbsp;TJ and a potential energy of roughly 200&nbsp;GJ.
+Rockets intended for high speed atmospheric use also have an aerodynamic fairing such as a nose cone, which usually holds the payload.
+However, because kinetic energy is a square law on speed, this means that the faster the rocket is travelling before the burn the more orbital energy it gains or loses.
+This fact is used in interplanetary travel.
+Drag is a force opposite to the direction of the rocket's motion.
+Many companies produce model rocket kits and parts but due to their inherent simplicity some hobbyists have been known to make rockets out of almost anything.
+It turns out that rocket engines generally have truly excellent thrust to weight ratios (137 for the NK-33 engine, some solid rockets are over 1000), and nearly all really high-g vehicles employ or have employed rockets.
+In such a case the combination of air pressure and viscous friction is such that the nozzle does not push the balloon but is ''pulled'' by it.
+However, engine efficiency is not the whole story.
+In a properly designed engine, the flow will reach Mach 1 at the throat of the nozzle.
+Most current rockets are chemically powered rockets (usually internal combustion engines, but some employ a decomposing monopropellant) that emit a hot exhaust gas.
+The acceleration of these gases through the engine exerts force ("thrust") on the combustion chamber and nozzle, propelling the vehicle (according to Newton's Third Law).
+One subtle feature of rockets relates to energy.
+Vehicles can thus maintain low or even zero angle of attack, which minimizes transverse stress on the launch vehicle, permitting a weaker, and hence lighter, launch vehicle.
+Due to their high exhaust velocity——rockets are particularly useful when very high speeds are required, such as orbital speed at approximately .
+The ideal direction of motion of the exhaust is in the direction so as to cause thrust.
+A rocket design can be as simple as a cardboard tube filled with black powder, but to make an efficient, accurate rocket or missile involves overcoming a number of difficult problems.
+However, as speeds rise, the resultant exhaust speed goes down, and the overall vehicle energetic efficiency rises, reaching a peak of around 100% of the engine efficiency when the vehicle is travelling exactly at the same speed that the exhaust is emitted.
+The rocket engines powering rockets come in a great variety of different types, a comprehensive list can be found in rocket engine.
+The pressure vessel (the engine of the rocket) is usually a used plastic soft drink bottle.
+A rocket and its payload together are generally referred to as a ''missile'' when the weapon has a guidance system (not all missiles use rocket engines, some use other engines such as jets) or as a ''rocket'' if it is unguided.
+When there is fixed thrust, this is simply:
+In all three cases the capsule, albeit unmanned, was saved from destruction.
+However the payload that can be carried goes down geometrically with each extra stage needed, while the additional delta-v for each stage is simply additive.
+Amateur rocketry is split into three categories: low power, mid power, and high power.
+(This is true even if the rocket engine is mounted at the nose.)
+The effective exhaust velocity  is more or less the speed the exhaust leaves the vehicle, and in the vacuum of space, the effective exhaust velocity is often equal to the actual average exhaust speed along the thrust axis.
+As well as these components, rockets can have any number of other components, such as wings (rocketplanes), parachutes, wheels (rocket cars), even, in a sense, a person (rocket belt).
+Beyond the throat of the nozzle, a bell shaped expansion part of the engine allows the gases that are expanding to push against that part of the rocket engine.
+They may also have one or more rocket engines, directional stabilization device(s) (such as fins, vernier engines or engine gimbals for thrust vectoring, gyroscopes) and a structure (typically monocoque) to hold these components together.
+As such, it is the best performance class (payload mass and terminal velocity capability) indicator of a rocket, rather than takeoff thrust, mass, or "power".
+File:Conrad Kyeser's Bellifortis c 1405 fig 1.jpg|Depiction of a rocket (1405)
+In a closed chamber, the pressures are equal in each direction and no acceleration occurs.
+It should be noted that only the three aforementioned N1 rockets had functional Safety Assurance Systems.
+Rockets in applications other than launch to orbit (such as military rockets and rocket-assisted take off), commonly not needing comparable performance and sometimes mass-produced, are often relatively inexpensive.
+Australia, Austria, Canada, Germany, New Zealand, Switzerland, the U.K., and the U.S. have high power rocket associations which provide certifications to its members to fly different rocket motor sizes.
+As the remaining propellant decreases, rocket vehicles become lighter and their acceleration tends to increase until the propellant is exhausted.
+This permits the carrying of even more propellant, enormously improving the delta-v. Alternatively, some rockets such as for rescue scenarios or racing carry relatively little propellant and payload and thus need only a lightweight structure and instead achieve high accelerations.
+In common with the other jet-based engines, but particularly in rockets due to their high and typically fixed exhaust speeds, rocket vehicles are extremely inefficient at low speeds irrespective of the engine efficiency.
+The Space Shuttle generates 180&nbsp;dB of noise around its base.
+A successful escape of a manned capsule occurred when Soyuz T-10, on a mission to the Salyut 7 space station, exploded on the pad.
+The Italian term was adopted into German in the mid 16th century  by Leonhard Fronsperger and Conrad Haas, and by the early 17th century into English.
+This is called the rocket's ''specific impulse''.
+However, much of the lost energy ends up in the exhaust.
+The Allies' rocket programs were  less sophisticated, relying mostly on unguided missiles like the Soviet Katyusha rocket.
+Indeed, rockets remain the only way to launch spacecraft into orbit and beyond.
+The Chinese rocket technology was adopted by the Mongols and the invention was spread via the Mongol invasions to the  Near East  and Europe in the mid 13th century.
+Because of the enormous chemical energy in rocket propellants (greater energy by weight than explosives, but lower than gasoline), consequences of accidents can be severe.
+In this case the exhaust would ideally stop dead in space behind the moving vehicle, taking away zero energy, and from conservation of energy, all the energy would end up in the vehicle.
+Rocket propellant is mass that is stored, usually in some form of propellant tank or casing, prior to being used as the propulsive mass that is ejected from a rocket engine in the form of a fluid jet to produce thrust.
+100% efficiency within the engine (engine efficiency ) would mean that all the heat energy of the combustion products is converted into kinetic energy of the jet.
+It is an example of Newton's third law of motion.
+Extreme performance requirements for rockets reaching orbit correlate with high cost, including intensive quality control to ensure reliability despite the limited safety factors allowable for weight reasons.
+In parallel with the guided missile programme,  rockets were also used on aircraft, either for assisting horizontal take-off (RATO), vertical take-off (Bachem Ba 349 "Natter") or for powering them (Me 163, see list of World War II guided missiles of Germany).
+Thus, the bell part of the nozzle gives additional thrust.
+In 1943, production of the V-2 rocket began in Germany.
+The efficiency then drops off again at even higher speeds as the exhaust ends up travelling forwards- trailing behind the vehicle.
+The water is forced out by a pressurized gas, typically compressed air.
+For most rockets except reusable ones (shuttle engines) the engines need not function more than a few minutes, which simplifies design.
+A Saturn V launch was detectable on seismometers a considerable distance from the launch site.
+The water reduces the noise level from 180&nbsp;dB down to 142&nbsp;dB (the design requirement is 145&nbsp;dB).
+Konstantin Tsiolkovsky (1903) first speculated on the possibility of manned spaceflight with rocket technology.
+If propellant gas is continuously added to the chamber then these pressures can be maintained for as long as propellant remains.
+This is a small, usually solid rocket that is capable of pulling the crewed capsule away from the main vehicle towards safety at a moments notice.
+The maximum speeds that can be achieved with staging is theoretically limited only by the speed of light.
+If an opening is provided in the bottom of the chamber then the pressure is no longer acting on the missing section.
+The ratio  is sometimes called the ''mass ratio''.
+This opening permits the exhaust to escape.
+Because a rocket, propellant and exhaust in flight, without any external perturbations, may be considered as a closed system, the total momentum is always constant.
+Chemical rockets are the most common type of high power rocket, typically creating a high speed exhaust by the combustion of fuel with an oxidizer.
+From the principle of conservation of momentum the speed of the exhaust of a rocket determines how much momentum increase is created for a given amount of propellant.
+The high accelerations that rockets naturally possess means that rocket vehicles are often capable of vertical takeoff, and in some cases, with suitable guidance and control of the engines, also vertical landing.
+The total impulse of a multi-stage rocket is the sum of the impulses of the individual stages.
+During a rocket launch, as the vehicle speed increases, and the atmosphere thins, there is a point of maximum aerodynamic drag called Max Q.
+The oxidiser is either kept separate and mixed in the combustion chamber, or comes premixed, as with solid rockets.
+The  Congreve rocket  was further improved by  Edward Mounier Boxer  in 1865.
+Rocket engine exhaust is formed entirely from propellant carried within the rocket before use.
+Thus a rocket would need about 6x more energy; and allowing for the specific energy of rocket propellant being around one third that of conventional air fuel, roughly 18x more mass of propellant would need to be carried for the same journey.
+In fact, rockets work more efficiently in space than in an atmosphere.
+At which point the speed of the flow increases.
+amortization of R&D and facility costs over mass production to the degree seen in more pedestrian manufacturing.
+A typical rocket engine can handle a significant fraction of its own mass in propellant each second, with the propellant leaving the nozzle at several kilometres per second.
+Given the initial energy of 20&nbsp;TJ, the Space Shuttle is about 16% energy efficient at launching the orbiter.
+most methods involving some rocket use).
+In 1986, following the Space Shuttle Challenger Disaster, American Physicist Richard Feynman, having served on the Rogers Commission estimated that the chance of an unsafe condition for a launch of the Shuttle was very roughly 1%; more recently the historical per person-flight risk in orbital spaceflight has been calculated to be around 2% or 4%.
+While joining these organizations is not a requirement, they often provide insurance and flight waivers for their members.
+Modern rockets originated when Goddard attached a supersonic (de Laval) nozzle to the combustion chamber of a liquid-fueled rocket engine.
+As a side effect, these pressures on the rocket also act on the exhaust in the opposite direction and accelerate this exhaust to very high speeds (according to Newton's Third Law).
+Components produced in small numbers if not individually machined can prevent
+With liquid oxygen costing  and liquid hydrogen , the Space Shuttle in 2009 had a liquid propellant expense of approximately $1.4 million for each launch that cost $450 million from other expenses (with 40% of the mass of propellants used by it being liquids in the external fuel tank, 60% solids in the SRBs).
+Without the sound suppression system, acoustic waves reflect off of the launch pad towards the rocket, vibrating the sensitive payload and crew.
+Noise is generally most intense when a rocket is close to the ground, since the noise from the engines radiates up away from the jet, as well as reflecting off the ground.
+The sound intensity of large, high performance rockets could potentially kill at close range.
+Almost all of a launch vehicle's mass consists of propellant.
+Hydrogen peroxide rockets are used to power jet packs, and have been used to power cars and a rocket car holds the all time (albeit unofficial) drag racing record.
+The Americans captured a large number of German rocket scientists, including von Wernher von Braun, and brought them to the United States as part of Operation Paperclip.
+However, careful design, testing, construction and use minimizes risks.
+After the war, rockets were used to study high-altitude conditions, by radio telemetry of temperature and pressure of the atmosphere, detection of cosmic rays, and further research; notably the Bell X-1, the first manned vehicle to break the sound barrier.
+Between 1270 and 1280, Hasan al-Rammah wrote ''al-furusiyyah wa al-manasib al-harbiyya'' (''The Book of Military Horsemanship and Ingenious War Devices''), which included 107 gunpowder recipes, 22 of which are for rockets.
+During the Cold War, rockets became extremely important militarily as modern intercontinental ballistic missiles (ICBMs).
+This is not possible, but the near-adiabatic high expansion ratio nozzles that can be used with rockets come surprisingly close: when the nozzle expands the gas, the gas is cooled and accelerated, and an energy efficiency of up to 70% can be achieved.
+The sound intensity from these shock waves depends on the size of the rocket as well as the exhaust velocity.
+To control their flight, rockets rely on momentum, airfoils, auxiliary reaction engines, gimballed thrust, momentum wheels, deflection of the exhaust stream, propellant flow, spin, and/or gravity.
+The effect of the convergent part of the rocket engine nozzle on the high pressure fluid of combustion gases, is to cause the gases to accelerate to high speed.
+For example, the Soyuz escape system can produce 20g.
+Discontinuities in acceleration also occur when stages burn out, often starting at a lower acceleration with each new stage firing.
+A rocket engine can use gas propellants, solid propellant, liquid propellant, or a hybrid mixture of both solid and liquid.
+reducing rocket performance requirements by constructing a hypothetical non-rocket spacelaunch system for part of the velocity to orbit (or all of it but with
+Independently, in the Soviet Union's space program research continued under the leadership of the chief designer Sergei Korolev.
+The rate of propellant flow through a rocket engine is often deliberately varied over a flight, to provide a way to control the thrust and thus the airspeed of the vehicle.
+Drag can be minimised by an aerodynamic nose cone and by using a shape with a high ballistic coefficient (the "classic" rocket shape—long and thin), and by keeping the rocket's angle of attack as low as possible.
+Note that in the case of liquid propellant engines, the pumps moving the propellant into the combustion chamber must maintain a pressure larger than the combustion chamber -typically on the order of 100 atmospheres.
+Energy from the fuel is lost in air drag and gravity drag and is used for the rocket to gain altitude and speed.
+Thus jet engines, with a better match between speed and jet exhaust speed (such as turbofans—in spite of their worse )—dominate for subsonic and supersonic atmospheric use, while rockets work best at hypersonic speeds.
+The highest mass ratios are generally achieved with liquid rockets, and these types are usually used for orbital launch vehicles, a situation which calls for a high delta-v.
+As the combustion gases approach the exit of the combustion chamber, they increase in speed.
+Rockets for military and recreational uses date back to at least 13th century China.
+These acoustic waves can be so severe that they can destroy the rocket.
+The problem is that at low speeds, the exhaust carries away a huge amount of kinetic energy rearward.
+:the effective exhaust velocity (m/s or ft/s)
+A '''rocket''' (from Italian ''rocchetto'' "bobbin") is a missile, spacecraft, aircraft or other vehicle that obtains thrust from a rocket engine.
+Anti-tank and anti-aircraft missiles use rocket engines to engage targets at high speed at a range of several miles, while intercontinental ballistic missiles can be used to deliver multiple nuclear warheads from thousands of miles, and anti-ballistic missiles try to stop them.
+Even though a rocket's non-propellant, dry mass is often only between 5-20% of total mass, nevertheless this cost dominates.
+With combustive propellants a chemical reaction is initiated between the fuel and the oxidizer in the combustion chamber, and the resultant hot gases accelerate out of a rocket engine nozzle (or nozzles) at the rearward-facing end of the rocket.
+Spacecraft delivered into orbital trajectories become artificial satellites, which are used for many commercial purposes.
+Impulse is defined as a force acting on an object over time, which in the absence of opposing forces (gravity and aerodynamic drag), changes the momentum (integral of mass and velocity) of the object.
+Still, for some applications that rockets are used for, a high peak acceleration applied for just a short time is highly desirable.
+This actually happens because the force (pressure times area) on the combustion chamber wall is unbalanced by the nozzle opening; this is not the case in any other direction.
+Rockets were now used for space exploration, with the American manned programs  Project Mercury, Project Gemini and later the Apollo programme culminated in 1969 with the first manned landing on the moon via the Saturn V.
+This delta-v means that the speed increases (or decreases) by a particular amount, independent of the initial speed.
+On the other hand, rockets serve in many short-range ''relatively'' low speed military applications where their low-speed inefficiency is outweighed by their extremely high thrust and hence high accelerations.
+Hobbyists build and fly a wide variety of model rockets.
+The main difficulties include cooling the combustion chamber, pumping the fuel (in the case of a liquid fuel), and controlling and correcting the direction of motion.
+To change the preceding factors for orbital launch vehicles, proposed methods have included mass-producing simple rockets in large quantities or on large scale, or developing reusable rockets meant to fly very frequently to amortize their up-front expense over many payloads, or
+Rocket engines are also used to propel rocket sleds along a rail at extremely high speed.
+The higher the speed of the gases, the lower the pressure of the gas (Bernoulli's principle or conservation of energy) acting on that part of the combustion chamber.
+They are also used to rapidly accelerate spacecraft when they change orbits or de-orbit for landing.
+Since the energy ultimately comes from fuel, these considerations mean that rockets are mainly useful when a very high speed is required, such as ICBMs or orbital launch.
+The costs of support equipment, range costs and launch pads generally scale up with the size of the rocket, but vary less with launch rate, and so may be considered to be approximately a fixed cost.
+It is of course desirable that as much of the energy of the propellant end up as kinetic or potential energy of the body of the rocket as possible.
+Alternatively, an inert propellant can be used that can be externally heated, such as in steam rocket, solar thermal rocket or nuclear thermal rockets.
+For these operations to be done it is necessary for a vehicle's engines to provide more than the local gravitational acceleration.
+Rockets have also been tested for reconnaissance, such as the Ping-Pong rocket, which was launched to surveil enemy targets, however, recon rockets have never come into wide use in the military.
+The 1960s became the decade of rapid development of rocket technology particularly in the Soviet Union (Vostok, Soyuz, Proton) and in the United States (e.g.
+This determines the minimum aerodynamic strength of the vehicle, as the rocket must avoid buckling under these forces.
+is determined by measurement while testing the engine.
+Medieval and early modern rockets were used militarily as incendiary weapons in sieges.
+Most of the rest is heat energy in the exhaust that is not recovered.
+In 1923, Hermann Oberth (1894–1989) published ''Die Rakete zu den Planetenräumen'' ("The Rocket into Planetary Space")
+And the overall (instantaneous) energy efficiency  is:
+The outstanding vehicle, 6L, had dummy upper stages and therefore no escape system giving the N1 booster a 100% success rate for egress from a failed launch.
+This compares with other jet propulsion engines that can exceed 5 for some of the better engines.
+This is especially true since the rocket body's mass is typically far lower than the final total exhaust mass.
+Sometimes the propellant is not burned but still undergoes a chemical reaction, and can be a 'monopropellant' such as hydrazine, nitrous oxide or hydrogen peroxide that can be catalytically decomposed to hot gas.
+From these principles it can be shown that the propulsive efficiency  for a rocket moving at speed  with an exhaust velocity  is:
+:propellant flow (kg/s or lb/s)
+This noise can be reduced somewhat by flame trenches with roofs, by water injection around the jet and by deflecting the jet at an angle.
+Peak accelerations can be increased by designing the vehicle with a reduced mass, usually achieved by a reduction in the fuel load and tankage and associated structures, but obviously this reduces range, delta-v and burn time.
+''Artis Magnae Artilleriae pars prima'', an important early modern work on rocket artillery, by Kazimierz Siemienowicz,  was first printed in Amsterdam in 1650.
+In a chemical propulsion device, the engine efficiency is simply the ratio of the kinetic power of the exhaust gases and the power available from the chemical reaction:
+The first mathematical treatment of the dynamics of rocket propulsion is due to William Moore (1813).
+Initially, the gases of combustion are sent in every direction, but only those that produce a net thrust have any effect.
+Vehicles frequently possess navigation systems and guidance systems that typically use satellite navigation and inertial navigation systems.
+In that case the thrust-to-weight ratio of the rocket engine limits the maximum acceleration that can be designed.
+The shape of the nozzle is important.
+Larger rockets are normally launched from a launch pad that provides stable support until a few seconds after ignition.
+Liquid propellants generally have densities similar to water (with the notable exceptions of liquid hydrogen and liquid methane), and these types are able to use lightweight, low pressure tanks and typically run high-performance turbopumps to force the propellant into the combustion chamber.
+Rocket engines employ the principle of jet propulsion.
+Rockets are now used for fireworks, weaponry, ejection seats, launch vehicles for artificial satellites, human spaceflight, and space exploration.
+Also, a rocket may be used to soften a hard parachute landing immediately before touchdown (see retrorocket).
+The first gunpowder-powered rockets were developed in Song China, by the 13th century.
+For chemical rockets often the propellants are a fuel such as liquid hydrogen or kerosene burned with an oxidizer such as liquid oxygen or nitric acid to produce large volumes of very hot gas.
+These forces, with a stabilizing tail (the ''empennage'') present will, unless deliberate control efforts are made, naturally cause the vehicle to follow a roughly parabolic trajectory termed a gravity turn, and this trajectory is often used at least during the initial part of a launch.
+It can be shown that the net thrust of a rocket is:
+The world record for this is Mach 8.5.
+However, the effective exhaust velocity allows for various losses, and notably, is reduced when operated within an atmosphere.
+This means that much of the speed change occurs towards the end of the burn when the vehicle is much lighter.
+Rockets are also used in some types of consumer and professional fireworks.
+The total impulse of a rocket (stage) burning its propellant is:
+The remaining pressures give a resultant thrust on the side opposite the opening, and these pressures are what push the rocket along.
+For example, NASA's space shuttle fires its engines for around 8.5 minutes, consuming 1,000&nbsp;tonnes of solid propellant (containing 16% aluminium) and an additional 2,000,000&nbsp;litres of liquid propellant (106,261&nbsp;kg of liquid hydrogen fuel) to lift the 100,000&nbsp;kg vehicle (including the 25,000&nbsp;kg payload) to an altitude of 111&nbsp;km and an orbital velocity of 30,000&nbsp;km/h.
+This is why rockets are rarely if ever used for general aviation.
+The first iron-cased rockets were developed in the late 18th century in the Kingdom of Mysore, adopted and improved  as the Congreve rocket and used in the Napoleonic Wars.
+The name ''Rocket'' comes from the Italian ''rocchetta'', meaning "bobbin" or "little spindle", given due to the similarity in shape to the bobbin or spool  used to hold the  thread to be fed to a spinning wheel.
+The effect of the combustion of propellant in the rocket engine is to increase the velocity of the resulting gases to very high speeds, hence producing a thrust.
+Deceleration force for fast-moving rockets are calculated using the drag equation.
+These types of systems have been operated several times, both in testing and in flight, and operated correctly each time.
+A rocket stage, while carrying a given load, is capable of giving a particular delta-v.
+Simply expressed, for every action there is an equal and opposite reaction, according to Newton's third law with the result that the exiting gases produce the reaction of a force on the rocket causing it to accelerate the rocket.
+Achievable mass ratios are highly dependent on many factors such as propellant type, the design of engine the vehicle uses, structural safety margins and construction techniques.
+In 1815, Alexander Dmitrievich Zasyadko  constructed rocket-launching platforms, which allowed rockets to be fired in salvos (6 rockets at a time), and gun-laying devices.
+It means that the amount of delta-v to reach other planets, over and above that to reach escape velocity can be much less if the delta-v is applied when the rocket is travelling at high speeds, close to the Earth or other planetary surface; whereas waiting until the rocket has slowed at altitude multiplies up the effort required to achieve the desired trajectory.
+Chemical rockets store a large amount of energy in an easily released form, and can be very dangerous.
+Most space missions have some issues.
+For smaller, low performance rockets such as attitude control thrusters where high performance is less necessary, a pressurised fluid is used as propellant that simply escapes the spacecraft through a propelling nozzle.

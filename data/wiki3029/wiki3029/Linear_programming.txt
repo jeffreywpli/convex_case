@@ -1,0 +1,200 @@
+IMSL Numerical Libraries
+Compatible with  Zimpl modelling language.
+Affine scaling is one of the oldest interior point methods to be developed.
+Free for academic use.
+* Are there pivot rules which lead to polynomial-time Simplex variants?
+The computing power required to test all the permutations to select the best assignment is vast; the number of possible configurations exceeds the number of particles in the observable universe.
+Likewise, if the dual is unbounded, then the primal must be infeasible.
+It has functions for solving both linear and nonlinear optimization problems.
+For example, '''x'''1 appears in ''n''&nbsp;+&nbsp;1 constraints.
+Pivot methods of this type have been studied since the 1970s.
+In contrast to the simplex algorithm, which finds an optimal solution by traversing the edges between vertices on a polyhedral set, interior-point methods move through the interior of the feasible region.
+The coefficients that bound the inequalities in the primal space are used to compute the objective in the dual space, input quantities in this example.
+* if the problem has some extra structure, it may be possible to apply delayed column generation.
+Optimization routines in the IMSL Libraries include unconstrained, linearly and nonlinearly constrained minimizations, and linear programming algorithms.
+If we denote the area of land planted with wheat and barley by ''x''1 and ''x''2 respectively, then profit can be maximized by choosing optimal values for ''x''1 and ''x''2.
+(the farmer must receive no less than ''S''1 for his wheat)
+As a result, we get:
+It has been proved that all polytopes have subexponential diameter.
+Although the modern management issues are ever-changing, most companies would like to maximize profits or minimize costs with limited resources.
+In 1941, Frank Lauren Hitchcock also formulated transportation  problems as linear programs and gave a solution very similar to the later Simplex method; Hitchcock had died in 1957 and the Nobel prize is not awarded posthumously.
+This sum must be at most '''c'''1.
+The convergence analysis have (real-number) predecessors, notably the iterative methods developed by Naum Z. Shor and the approximation algorithms by Arkadi Nemirovski and D. Yudin.
+In 1984, N. Karmarkar proposed a projective method for linear programming.
+where  are the newly introduced slack variables, and  is the variable to be maximized.
+Free for academic use.
+Certain special cases of linear programming, such as ''network flow'' problems and ''multicommodity flow'' problems are considered important enough to have generated much research on specialized algorithms for their solution.
+The strong duality theorem states that if the primal has an optimal solution, '''x'''*, then the dual also has an optimal solution, '''y'''*, and '''c'''T'''x'''*='''b'''T'''y'''*.
+Simplex pivot methods preserve primal (or dual) feasibility.
+A general-purpose and matrix-oriented programming-language for numerical computing.
+On the other hand, criss-cross pivot methods do not preserve (primal or dual) feasibility—they may visit primal feasible, dual feasible or primal-and-dual infeasible bases in any order.
+* in an ''integer linear program,'' described in the previous section, variables are forcibly constrained to be integers, and this problem is NP-hard in general,
+Allowing for strict inequalities keeps the linear programming problem solvable in polynomial time.
+The NAG Library has routines for both local and global optimization, and for continuous or integer problems.
+Free for academic use and available in source code.
+Since this is a minimization problem, we would like to obtain a dual program that is a lower bound of the primal.
+A general-purpose programming-language for mathematics, including symbolic and numerical capabilities.
+It is widely used in business and economics, and is also utilized for some engineering problems.
+The criss-cross algorithm does not have polynomial time-complexity for linear programming.
+In this case, there is one constraint for each vertex of the graph and one variable for each independent set of the graph.
+In 1947, Dantzig also invented the simplex method that for the first time efficiently tackled the linear programming problem in most cases.
+While algorithms exist to solve linear programming in weakly polynomial time, such as the ellipsoid methods and interior-point techniques, no algorithms have yet been found that allow strongly polynomial-time performance in the number of constraints and the number of variables.
+The theory behind linear programming drastically reduces the number of possible solutions that must be checked.
+Covering and packing LPs can be solved approximately in nearly-linear time.
+As an example, consider the linear program:
+* '''w'''''i'' '''y'''''i''&nbsp;=&nbsp;0, for ''i''&nbsp;=&nbsp;1,&nbsp;2,&nbsp;...&nbsp;,&nbsp;''m''.
+(the farmer must receive no less than ''S''2 for his barley)
+These questions relate to the performance analysis and development of Simplex-like methods.
+Industries that use linear programming models include transportation, energy, telecommunications, and manufacturing.
+Collections of math and statistical algorithms available in C/C++, Fortran, Java and C#/.NET.
+The vertices of the polytope are also called ''basic feasible solutions''.
+Since Karmarkar's discovery, many interior-point methods have been proposed and analyzed.
+Many practical problems in operations research can be expressed as linear programming problems.
+* Do all polytopal graphs have polynomially bounded diameter?
+A solver for large scale optimization with API for several languages (C++,java,.net, Matlab and python).
+a programming language and software environment for statistical computing and graphics
+(cannot plant a negative area).
+Assume now that ''y'' unit prices for each of these means of production (inputs) are set by a planning board.
+Karmarkar claimed that his algorithm was much faster in practical LP than the simplex method, a claim that created great interest in interior-point methods.
+Historically, ideas from linear programming have inspired many of the central concepts of optimization theory, such as ''duality,'' ''decomposition,'' and the importance of ''convexity'' and its generalizations.
+The reason for this choice of name is as follows.
+Questions about polytope diameter are of independent mathematical interest.
+So if the ''i''-th slack variable of the primal is not zero, then the ''i''-th variable of the dual is equal to zero.
+We shall define ''m''&nbsp;+&nbsp;''n'' dual variables: '''y'''j and '''s'''i.
+One common way of proving that a polyhedron is integral is to show that it is totally unimodular.
+LpSolve has an IDE, a native C API, and many external language interfaces, for JAVA, AMPL, MATLAB, O-Matrix, Sysquake, Scilab, Octave, FreeMat, Euler, Python, SageMath, PHP, R and the Microsoft Solver Foundation.
+The primal problem deals with physical quantities.
+Covering and packing LPs commonly arise as a linear programming relaxation of a combinatorial problem and are important in the study of approximation algorithms.
+The planning board's job is to minimize the total cost of procuring the set amounts of inputs while providing the farmer with a floor on the unit price of each of his crops (outputs), ''S''1 for wheat and ''S''2 for barley.
+In standard form (when maximizing), if there is slack in a constrained primal resource (i.e., there are "leftovers"), then additional quantities of that resource must have no value.
+If any such polytopes exist, then no edge-following variant can run in polynomial time.
+Essentially, these methods attempt to find the shortest pivot path on the arrangement polytope under the linear programming problem.
+Kantorovich and Koopmans later shared the 1975 Nobel prize in economics.
+The expression to be maximized or minimized is called the ''objective function'' ('''c'''T'''x''' in this case).
+of complexity class P.
+NAG Numerical Library
+It would be of great practical and theoretical significance to know whether any such variants exist, particularly as an approach to deciding if LP can be solved in strongly polynomial time.
+Solver with an API for large scale optimization of linear, integer, quadratic, conic and general nonlinear programs with stochastic programming extensions.
+Basic version available as a standard add-on for Excel.
+The Optimization chapter of the NAG Library includes routines for linear programming problems with both sparse and non-sparse linear constraint matrices, together with routines for the optimization of quadratic, nonlinear, sums of squares of linear or nonlinear functions with nonlinear, bounded or no constraints.
+Solver for large-scale linear programs, quadratic programs, general nonlinear and mixed-integer programs.
+The inequalities ''A'''''x'''&nbsp;≤&nbsp;'''b''' and '''x''' ≥ '''0''' are the constraints which specify a convex polytope over which the objective function is to be optimized.
+such that the matrix ''A'' and the vectors '''b''' and '''c''' are non-negative.
+In fact, for some time it was not known whether the linear programming problem was solvable in polynomial time, i.e.
+Linear programming in MATLAB requires the Optimization Toolbox in addition to the base MATLAB product; available routines include INTLINPROG and LINPROG
+A linear programming algorithm finds a point in the polyhedron where this function has the smallest (or largest) value if such a point exists.
+GNU Linear Programming Kit, an LP/MILP solver with a native C API and numerous (15) third-party wrappers for other languages.
+Other forms, such as minimization problems, problems with constraints on alternative forms, as well as problems involving negative variables can always be rewritten into an equivalent problem in standard form.
+As observed by Edmonds and Giles in 1977, one can equivalently say that the polyhedron  is integral if for every bounded feasible integral objective function ''c'', the optimal ''value'' of the linear program  is an integer.
+A suite of solvers for Linear, Integer, Nonlinear, Derivative-Free, Network, Combinatorial and Constraint Optimization; the Algebraic modeling language  OPTMODEL; and a variety of vertical solutions aimed at specific problems/markets, all of which are fully integrated with the SAS System.
+For example, the LP relaxations of the set packing problem, the independent set problem, and the matching problem are packing LPs.
+A Java-based modeling language for optimization with a free version available.
+Thereby we can study these vertices by means of looking at certain subsets of the set of all constraints (a discrete set), rather than the continuum of LP solutions.
+In Smale's words, the third version of the problem "is the main unsolved problem of linear programming theory."
+Advanced algorithms for solving integer linear programs include:
+A general-purpose programming-language for symbolic and numerical computing.
+To each inequality to satisfy in the primal space corresponds a variable in the dual space, both indexed by input type.
+In the dual space, it expresses the creation of the economic values associated with the outputs from set input unit prices.
+Likewise, if the ''j''-th slack variable of the dual is not zero, then the ''j''-th variable of the primal is equal to zero.
+In other words, we would like the sum of all right hand side of the constraints to be the maximal under the condition that for each primal variable the sum of its coefficients do not exceed its coefficient in the linear function.
+Since each inequality can be replaced by an equality and a slack variable, this means each primal variable corresponds to a dual slack variable, and each dual variable corresponds to a primal slack variable.
+a library for incrementally solving systems of linear equations with various goal functions
+Like the simplex algorithm of Dantzig, the criss-cross algorithm is a basis-exchange algorithm that pivots between bases.
+Its objective function is a real-valued affine (linear) function defined on this polyhedron.
+There are two ideas fundamental to duality theory.
+Second, when the polytope is unbounded in the direction of the gradient of the objective function (where the gradient of the objective function is the vector of the coefficients of the objective function), then no optimal value is attained.
+For both theoretical and practical purposes, barrier function or path-following methods have been the most popular interior point methods since the 1990s.
+It has an algebraic modeling language (LINGO) and allows modeling within a spreadsheet (What'sBest).
+Let S1 be the selling price of wheat per square kilometer, and S2 be the selling price of barley.
+This problem can be expressed with the following linear programming problem in the standard form:
+Let ('''w'''1,&nbsp;'''w'''2,&nbsp;...,&nbsp;'''w'''''m'') denote the corresponding primal slack variables, and let ('''z'''1,&nbsp;'''z'''2,&nbsp;...&nbsp;,&nbsp;'''z'''''n'') denote the corresponding dual slack variables.
+However, it is possible for both the dual and the primal to be infeasible.
+To solve a problem which has ''n'' variables and can be encoded in ''L'' input bits, this algorithm uses ''O(n4L)'' pseudo-arithmetic operations on numbers with ''O(L)'' digits.
+With floor guarantees on all output unit prices, and assuming the available quantity of all inputs is known, what input unit pricing scheme to set so as to minimize total expenditure?
+Note that terminology is not consistent throughout the literature, so one should be careful to distinguish the following two concepts,
+If every entry in the first is less-than or equal-to the corresponding entry in the second then we can say the first vector is less-than or equal-to the second vector.
+However, it takes only a moment to find the optimum solution by posing the problem as a linear program and applying the simplex algorithm.
+Then the fundamental theorem of linear inequalities implies (for feasible problems) that for every vertex '''x'''* of the LP feasible region, there exists a set of ''d'' (or fewer) inequality constraints from the LP such that, when we treat those ''d'' constraints as equalities, the unique solution is '''x'''*.
+Solver with parallel algorithms for large-scale linear programs, quadratic programs and mixed-integer programs.
+Linear programs are problems that can be expressed in canonical form as
+The problems can then be written in the following block matrix form:
+This form introduces non-negative ''slack variables'' to replace inequalities with equalities in the constraints.
+There are other general methods including the integer decomposition property and total dual integrality.
+In the primal space, this matrix expresses the consumption of physical quantities of inputs necessary to produce set quantities of outputs.
+(limit on insecticide)
+It is compatible with  Zimpl modelling language.
+Free for academic use.
+Revisit the above example of the farmer who may grow wheat and barley with the set provision of some ''L'' land, ''F'' fertilizer and ''P'' pesticide.
+API to MATLAB and Python.
+Every square kilometer of wheat requires ''F''1 kilograms of fertilizer and ''P''1 kilograms of insecticide, while every square kilometer of barley requires ''F''2 kilograms of fertilizer and ''P''2 kilograms of insecticide.
+The weak duality theorem states that the objective function value of the dual at any feasible solution is always greater than or equal to the objective function value of the primal at any feasible solution.
+The first linear programming formulation of a problem that is equivalent to the general linear programming problem was given by Leonid Kantorovich in 1939, who also proposed a method for solving it.
+Although the Hirsch conjecture was recently disproved for higher dimensions, it still leaves the following questions open.
+Likewise, if there is slack in the dual (shadow) price non-negativity constraint requirement, i.e., the price is not zero, then there must be scarce supplies (no "leftovers").
+Linear programming can be applied to various fields of study.
+Therefore, many issues can be characterized as linear programming problems.
+Suppose that '''x'''&nbsp;=&nbsp;('''x'''1,&nbsp;'''x'''2,&nbsp;...&nbsp;,&nbsp;'''x'''''n'') is primal feasible and that '''y'''&nbsp;=&nbsp;('''y'''1,&nbsp;'''y'''2,&nbsp;...&nbsp;,&nbsp;'''y'''''m'') is dual feasible.
+The dual problem deals with economic values.
+This problem is also classified as NP-hard, and in fact the decision version was one of Karp's 21 NP-complete problems.
+When Dantzig arranged meeting with John von Neumann to discuss his Simplex method, Neumann immediately conjectured the theory of duality by realizing that the problem he had been working in game theory was equivalent.
+With all inputs available in limited quantities, and assuming the unit prices of all outputs is known, what quantities of outputs to produce so as to maximize total revenue?
+in a cubic number of steps, which is similar to its behavior on practical problems.
+A linear program in real variables is said to be '''integral''' if it has at least one optimal solution which is integral.
+Linear programming problems can be converted into an ''augmented form'' in order to apply the common form of the simplex algorithm.
+In many practical problems, "stalling" occurs: Many pivots are made with no increase in the objective function.
+In this context, two vectors are comparable when they have the same dimensions.
+A collection of mathematical and statistical routines developed by the Numerical Algorithms Group for multiple programming languages (C, C++, Fortran, Visual Basic, Java and C#) and packages (MATLAB, Excel, R, LabVIEW).
+A general-purpose constraint integer programming solver with an emphasis on MIP.
+Likewise, a polyhedron  is said to be '''integral''' if for all bounded feasible objective functions ''c'', the linear program  has an optimum  with integer coordinates.
+The immense efficiency of the Simplex algorithm in practice despite its exponential-time theoretical performance hints that there may be variations of Simplex that run in polynomial or even strongly polynomial time.
+LP solvers are in widespread use for optimization of various problems in industry, such as optimization of flow in transportation networks.
+This necessary condition for optimality conveys a fairly simple economic principle.
+Postwar, many industries found its use in their daily planning.
+There are however some important subclasses of IP and MIP problems that are efficiently solvable, most notably problems where the constraint matrix is totally unimodular and the right-hand sides of the constraints are integers or – more general – where the system has the total dual integrality (TDI) property.
+Likewise, linear programming is heavily used in microeconomics and company management, such as planning, production, transportation, technology and other issues.
+see Schrijver 2003.
+Which in matrix form becomes:
+He developed it during World War II as a way to plan expenditures and returns so as to reduce costs to the army and increase losses incurred by the enemy.
+If we sum its constraints' coefficients we get ''a''1,1'''y'''1&nbsp;+&nbsp;''a''1,2'''y'''2&nbsp;+&nbsp;...&nbsp;+&nbsp;''a''1,n'''y'''''n''&nbsp;+&nbsp;''f''1'''s'''1.
+Finding a fractional coloring of a graph is another example of a covering LP.
+Additionally, every feasible solution for a linear program gives a bound on the optimal value of the objective function of its dual.
+Conversely, if we can prove that a linear programming relaxation is integral, then it is the desired description of the convex hull of feasible (integral) solutions.
+The development of such algorithms would be of great theoretical interest, and perhaps allow practical gains in solving large LPs as well.
+Popular solver with an API for several programming languages, and also has a modelling language and works with AIMMS, AMPL, GAMS, MPL, OpenOpt, OPL Development Studio, and TOMLAB.
+Specialist support for flow networks.
+A linear program can also be unbounded or infeasible.
+To avoid cycles, researchers developed new pivoting rules.
+Dantzig's original example was to find the best assignment of 70 people to 70 jobs.
+Karmarkar's algorithm improved on Khachiyan's worst-case polynomial bound (giving ).
+One is the fact that (for the symmetric dual) the dual of a dual linear program is the original primal linear program.
+Such integer-programming algorithms are discussed by Padberg and in Beasley.
+However, the simplex algorithm has poor worst-case behavior: Klee and Minty constructed a family of linear programming problems for which the simplex method takes a number of steps exponential in the problem size.
+(maximize the revenue—revenue is the "objective function")
+lp_solve is a free (see LGPL for the GNU lesser general public license) linear (integer) programming solver based on the revised simplex method and the Branch-and-bound method for the integers.
+In rare practical problems, the usual versions of the simplex algorithm may actually "cycle".
+Integral linear programs are of central importance in the polyhedral aspect of combinatorial optimization since they provide an alternate characterization of a problem.
+However, the criss-cross algorithm need not maintain feasibility, but can pivot rather from a feasible basis to an infeasible basis.
+The linear programming problem was first shown to be solvable in polynomial time by Leonid Khachiyan in 1979, but a larger theoretical and practical breakthrough in the field came in 1984 when Narendra Karmarkar introduced a new interior-point method for solving linear-programming problems.
+Linear programming is a widely used field of optimization for several reasons.
+About the same time as Kantorovich, the Dutch-American economist T. C. Koopmans formulated classical economic problems as linear programs.
+Khachiyan's algorithm and his long standing issue was resolved by Leonid Khachiyan in 1979 with the introduction of the ellipsoid method.
+However, Khachiyan's algorithm inspired new lines of research in linear programming.
+This relation allows us to speak about complementary slackness.
+* in an ''integral linear program,'' described in this section, variables are not constrained to be integers but rather one has proven somehow that the continuous problem always has an integral optimal value (assuming ''c'' is integral), and this optimal value may be found efficiently since all polynomial-size linear programs can be solved in polynomial time.
+In practice, the simplex algorithm is quite efficient and can be guaranteed to find the global optimum if certain precautions against ''cycling'' are taken.
+In contrast to polytopal graphs, graphs of arrangement polytopes are known to have small diameter, allowing the possibility of strongly polynomial-time criss-cross pivot algorithm without resolving questions about the diameter of general polytopes.
+A visual block diagram language for simulation of dynamical systems.
+This closely related set of problems has been cited by Stephen Smale as among the 18 greatest unsolved problems of the 21st century.
+Then '''x''' and '''y''' are optimal for their respective problems if and only if
+The simplex algorithm, developed by George Dantzig in 1947, solves LP problems by constructing a feasible solution at a vertex of the polytope and then walking along a path on the edges of the polytope to vertices with non-decreasing values of the objective function until an optimum is reached for sure.
+That is, if matrix  is of dimension  and has  non-zero entries, then there exist algorithms that run in time  and produce  approximate solutions to given covering and packing LPs.
+* cutting-plane method
+The recent disproof of the Hirsch conjecture is the first step to prove whether any polytope has superpolynomial diameter.
+This corresponds to the following linear programming problem:
+It has proved useful in modeling diverse types of problems in planning, routing, scheduling, assignment, and design.
+In matrix form this becomes:
+MINTO (Mixed Integer Optimizer, an integer programming solver which uses branch and bound algorithm) has publicly available source code but is not open source.
+Affine scaling amounts to doing gradient descent steps within the feasible region, while rescaling the problem to make sure the steps move toward the optimum faster.
+More formally, linear programming is a technique for the optimization of a linear objective function, subject to linear equality and linear inequality constraints.
+It also has a statistical sampling API to integrate Monte-Carlo simulations into an optimization framework.
+Has API for several programming languages, also has a modelling language Mosel and works with AMPL, GAMS.

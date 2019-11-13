@@ -1,0 +1,200 @@
+On-board cameras can be equipped with a pan and tilt mount, which when coupled with video goggles and "head tracking" devices creates a truly immersive, first-person experience, as if the pilot was actually sitting in the cockpit of the RC aircraft.
+Most radio control systems have traditionally used crystals to set the operating channel in the receiver and transmitter.
+Three channels (controlling rudder, elevator and throttle) are common on trainer aircraft.
+Delta winged aircraft designs commonly lack a separate elevator, its function being mixed with the ailerons and the combined control surfaces being known as elevons.
+Q40 is the highpoint of pylon racing, as their aircraft resemble full-size race planes.
+Dual-conversion radio receivers have been in existence since the 1980s and commonly in use since that time, which add security for the proper reception of the control signal, and can offer the advantage of a built-in 'failsafe' mode.
+Radio-controlled aircraft are also used for military purposes, with their primary task being intelligence-gathering reconnaissance.
+The transmitter radio broadcasts using AM or FM using PPM or PCM.
+The legal status of radio-controlled model aircraft under federal aviation law is currently unclear.
+Converting a kit requires additional and substitution parts to get it to fly properly such as the addition of servos, hinges, speed controls, control rods and better landing gear mechanisms and wheels.
+Carbon fiber, in rod or strip form, supplements wood in more recent models to reinforce the structure, and replaces it entirely in some cases (such as high performance turbine engine powered models and helicopters).
+Currently the Mugi group based in West Yorkshire still promote and use this material in 2mm thickness sheet form.
+BNF models work with transmitters using the DSM2/DSMX standard, and Tx-R models use the Tactic/AnyLink standard.
+It remains unclear what other provisions of the Federal Aviation Regulations are applicable to model aircraft, but it is likely that every regulation applicable to "aircraft" generally would potentially apply under this standard.
+Many manufactures sell airframes such as Yellow Aircraft and Skymaster.
+This plastic covering is more durable and makes for a quick repair.
+If you have to make your own aircraft, then license is required.
+There are several incompatible radio standards often found with Bind-N-Fly models.
+You require to be eligible for that grade.
+When flying FPV, the pilot sees from the aircraft's perspective, and does not even have to look at the model.
+It does not apply to overflight of National Park Service land by unmanned aircraft operated elsewhere.
+Because these restrictions prohibit flying beyond the visual range of the pilot (an ability which many view as the most attractive aspect of FPV), most hobbyists that fly FPV do so outside of regular RC clubs and flying fields.
+Most micro turbines start with propane, burn for a few seconds before introducing the jet fuel by solenoid.
+Hobbyists that have gained some experience in constructing and flying from kits and plans will often venture into building custom planes from scratch.
+On elevator input, the servos work opposite, one surface moves to the "left" and the other to the "right" which gives the effect of both moving up and down, causing pitch changes in the aircraft.
+Most commonly seen are the BNF and Tx-R designations.
+For example, when they both move downward they can be used as flaps (flaperons), or when they both move upward, as spoilers (spoilerons).
+Glowplug engines use nitro-methanol as fuel, compressive ignition ('diesel') burn paraffin with ether as an ignition agent.
+Smaller balsa kits will often come complete with the necessary parts for the primary purpose of non-flying modeling or rubber band flight.
+It has become more common to cover planes with heat-shrinking plastic films backed with heat-sensitive adhesive.
+Transmitters are available with as few as 2 channels to as many as 18 channels.
+* Elevator – controls pitch (up and down).
+Wings are often hollow to save weight.
+To damp the phugoid oscillation naturally, the planes are designed with high drag which reduces flight performance and flying time.
+So called "EDF" models can be of much smaller size, and only need the same electronic speed contoller and rechargeable battery technology as propeller-driven RC electric powered aircraft use.
+The earliest model radio-controlled aircraft were constructed of wood covered with paper.
+Planes can be built from published plans, often supplied as full-sized drawings with included instructions.
+Turning a model with differential thrust is ''equivalent'' to and just as effective as turning a model with rudder.
+The 75 MHz band became usable only for ground-based RC modeling (cars, boats, etc.)
+Because the FAA has not yet sought to enforce this regulation against unmanned aircraft operators, whether it applies to model aircraft and what actions are necessary for compliance are currently unknown.
+Very tough and lightweight it has only two disadvantages.
+Laser cut kits have a much more precise construction and much tighter tolerances, but tend to cost more than die-cut kits.
+Instead, "rudder" control (control over sideslip angle) is provided by differing thrust on two motors, one on each wing.
+For expert flyers, jets, pylon racers, helicopters, autogyros, 3D aircraft, and other high-end competition aircraft provide adequate challenge.
+Frequency determines the line of communication between a receiver and transmitter.
+An important part of the V-Tail configuration is the exact angle of the two surfaces relative to each other and the wing, otherwise the ratio of elevator and rudder outputs will be incorrect.
+Electric systems are quieter and as they do not require fuel/exhaust, are cleaner.
+RTF airplanes can be up in the air in just a few minutes and have all but eliminated assembly time (at the expense of the model's configuration options.)
+A basic FPV system consists of a camera, video transmitter, video receiver, and a display.
+In both cases, flaps enable using a shorter runway than would otherwise be required.
+The maximum engine displacement is .40ci, ignition must be a glowplug, fuel must be 80% methanol/20% castor oil, all else is free.
+Firstly it needs particular two-part contact glues.
+Components are often laminated, taking advantage of differing flute directions for strength and forming.
+A higher overall amount of lift is required so that the vertical component remains sufficient for a level turn.
+Sophisticated setups are capable of achieving a range of 20–30 miles or more.
+In March 2014 in the case ''Huerta v. Pirker'', an administrative law judge with the National Transportation Safety Board (NTSB) dismissed an FAA enforcement action against a model aircraft operator under  14 CFR 91.13 (prohibiting careless and reckless operation of an aircraft), ruling that model aircraft are not legally classified as "aircraft" and that they are not subject to any current Federal Aviation Regulations (FARs).
+Newer Transmitters use spread spectrum technology in the 2.4&nbsp;GHz, upper-UHF frequency band for communication.
+In the U.S.A. the FAA restricts flying of such aircraft to approved AMA Academy of Model Aeronautics sites, where only certified turbine pilots may fly.
+However, the Federal Communications Commission prohibits using amateur radio frequencies for commercial activity (generally any form of economic grain or for-profit activity).
+V-Tails have the advantage of being lighter and creating less drag.
+Fans of the SPAD concept tout increased durability, ease of building, and lower priced materials as opposed to balsa models, sometimes (though not always) at the expense of greater weight and crude appearance.
+Models tend to exceed 900mm wingspan with carbon fibre tubing used for local reinforcement.
+Tiny ready to fly RC indoor or indoor/outdoor toy aircraft often have two speed controllers and no servos, as very small and inexpensive servos are not yet available.
+However, aileron control will often use two channels to enable mixing of other functions on the transmitter.
+That is, the ailerons are used primarily to directly roll the wings, and the rudder is used to "coordinate" (to keep the sideslip angle near-zero during the rolling motion).
+These aircraft can often reach speeds in excess of 320&nbsp;km/h (200&nbsp;mph).
+During WWII the U.S. Army and Navy used radio controlled planes called Radioplanes as artillery target drones.
+Video transmitters typically operate at a power level between 200&nbsp;mW and 1500&nbsp;mW.
+Some model planes are designed this way because it is often cheaper and lighter to control the speed of a motor than it is to provide a moving control surface.
+In June 2014 the Federal Aviation Administration (FAA) issued a notice of interpretation regarding the Special Rule for Model Aircraft in Section 336 of the FAA Modernization and Reform Act passed by Congress in February 2012, which exempted model aircraft meeting certain criteria from future FAA rulemaking.
+Larger engines can be glowplug but increasingly common gasoline is the fuel of choice.
+Each aircraft needs a way to determine which transmitter to receive communications from, so a specific channel within the frequency band is used for each aircraft (except for 2.4&nbsp;GHz systems which use spread spectrum modulation, described below).
+This requires less control deflection and its resulting drag to change the planes attitude.)
+Flying RC aircraft as a hobby grew substantially from the 2000s with improvements in the cost, weight, performance and capabilities of motors, batteries and electronics.
+The disadvantage of using carbon fiber is its high cost.
+On smaller models, usually one servo per control surface (or set of surfaces in the case of ailerons or a split elevator surface) is sufficient.
+For beginning hobbyists, there are park flyers and trainers.
+Almost ready to fly (ARF) airplanes require final assembly typically including engine and fuel tank installation (or electric motor, speed controller, and battery), servo and pushrod installation, control surface attachment, landing gear attachment, and sometimes require gluing the left and right wing halves together.
+Flute board or Coroplast can be used in place of Balsa Wood.
+A common method of maximising flight duration is to quickly fly a powered glider upwards to a chosen altitude and descending in an unpowered glide.
+Lack of elevator control is sometimes problematic if the phugoid oscillation isn't well-damped leading to unmanageable "porpoising".
+Such designs tend to be slightly heavier but are typically easier to build.
+Most airframes are constructed from fiber glass and carbon fiber.
+These kits will usually also come with conversion instructions to fly as glow (gas powered) or electric and can be flown free-flight or radio-controlled.
+The race course is the same as in AMA 424 or AMA 428, but there are few limits on the airframe and engine.
+In this document, the FAA stated its position that, "Model aircraft that do not meet these statutory requirements are nonetheless unmanned aircraft, and as such, are subject to all existing FAA regulations, as well as future rulemaking action, and the FAA intends to apply its regulations to such unmanned aircraft."
+* Misc – bomb bay doors, lights, remote camera shutter can be assigned to extra channels.
+In the US, the T-Tail is more common.
+Additionally, if there is a flight assist or autopilot module on the craft (more common on the multi-rotor copters), features such as gyro-based stabilization, GPS location hold, height hold, return home, etc., can be controlled.
+Once all of the parts have been made, the project builds up just like a wood kit.
+Wood has relatively low cost, high specific Young's modulus (stiffness per unit weight), good workability and strength, and can be assembled with adhesives of various types.
+The most popular types for radio-controlled aircraft are internal combustion engines, electric motors, jet, and rocket engines.
+Bind-N-Fly (BNF) aircraft are similar to Ready to fly aircraft, except they do not come with a transmitter.
+Specialized long-range UHF control systems operating at 433&nbsp;MHz (for amateur radio licensees only) or 869&nbsp;MHz are commonly used to achieve greater control range, while the use of directional, high-gain antennas increases video range.
+Later, plastic film such as Monokote came to be widely used as a covering material.
+They also are less likely to break at landing or take-off due to the tail striking something on the ground like an ant mound or a rock.
+It is important that each aircraft uses a different channel, otherwise interference could result.
+Though it has not so far pursued any enforcement actions related to use of amateur radio frequencies for commercial unmanned aircraft, the FCC has the authority to levy civil forfeitures and fines into the tens of thousands of dollars for violations of its regulations.
+This involves finding drawings of full-sized aircraft and scaling these down, or even designing the entire airframe from scratch.
+The right and left ailerons move in opposite directions.
+Generally, for a plane to be considered fully functional, it must have four channels (throttle, elevator, rudder and aileron).
+3-channel gliders which use only rudder control for steering and dihedral or polyhedral wing shape to automatically counteract rolling are popular as training craft, due to their ability to fly very slowly and high tolerance to error.
+Builders of RC Scale aircraft can enjoy the challenge of creating a controllable, miniature aircraft that merely "looks" like the full scale original in the air with no "fine details", such as a detailed cockpit, or seriously replicate many operable features of a selected full scale aircraft design, even down to having operable cable-connected flight control surfaces, illuminated navigation lighting on the aircraft's exterior, realistically retracting landing gear, etc.
+This is to manage costs, but it also allows for simplicity of control by unsophisticated users of all ages.
+Powered gliders have recently seen an increase in popularity.
+In recent years electric powered models have increased in popularity due to the reducing cost and weight of components and improvements in technology, especially lithium polymer (LiPo) batteries and the choice of brushed motors and brushless motors.
+Plans can be drawn up on paper or using CAD software.
+Nelson manufactures the most predominantly used engine.
+Any laws restricting aerial photography of areas where no reasonable expectation of privacy exists would also likely be vulnerable to challenges under the First Amendment to the United States Constitution.
+There are certain conditions for using the frequency band in which the aircraft will operate.
+The planes are primarily made of fiberglass with composites used at high load points.
+Receivers in this band are virtually immune to most sources of electrical interference.
+Using synthesised receivers saves on crystal costs and enables full use of the VHF bandwidth available, for example the 35&nbsp;MHz band.
+* Ailerons – controls roll.
+Many small kits will come with a tissue paper covering that then gets covered with multiple layers of plane dope which coats and strengthens the fuselage and wings in a plastic-like covering.
+These planes can fly in excess of  on the course.
+These generally make use of small brushless motors (often outrunners, but also geared inrunners) and lithium polymer batteries.
+RC planes often borrow construction techniques from vintage full-sized aircraft (although they rarely use metal structures).
+The transmitter and receiver must both be on the same frequency so the plane can be controlled.
+This is required because the lift vector, which would be pointing vertically upwards in level flight, is now angled inwards so some of the lift is turning the aircraft.
+* Gear/retracts – controls retractable landing gear (usually in conjunction with gear doors).
+Licensed amateur radio operators are expressly allowed to use amateur radio frequencies for telecommand of model aircraft, per  FCC Part 97 rule 97.215.
+In the United States,  the Academy of Model Aeronautics' (AMA) Safety Code (which governs flying at AMA affiliated fields) allows FPV flight under the parameters of AMA Document #550, which requires that FPV aircraft be kept within visual line of sight with a spotter maintaining unaided visual contact with the model at all times.
+They require incredibly quick reflexes and very expensive equipment, so are usually reserved for the expert.
+The  Academy of Model Aeronautics' (AMA) Safety Code governs model aircraft operations at all model aircraft clubs and flying fields affiliated with the organization, which includes the majority of designated model aircraft flying fields in the United States.
+Spectators are often surprised to see that such a model can really fly.
+Flying wing designs are also popular for FPV, as they provide a good combination of large wing surface area, speed, maneuverability, and gliding ability.
+The advent of "foamies," or craft injection-molded from lightweight foam and sometimes reinforced with carbon fiber, have made indoor flight more readily accessible to hobbyists.
+In the United States, radio-controlled model aircraft and unmanned aircraft generally may be subject to regulation by the following entities:
+Like RTF aircraft, Bind-N-Fly models require minimal assembly.
+Light-weight strong varieties such as balsa wood are preferred; basswood, pine and spruce are also used.
+There are many types of radio-controlled aircraft.
+Models made out of this material are commonly known among modellers as "Spad" types (simple plastic aeroplane design).
+A '''radio-controlled aircraft''' (often called '''RC aircraft''' or '''RC plane''') is a small flying machine that is controlled remotely by an operator on the ground using a hand-held radio transmitter.
+Remotely controlled target drone aircraft were used to train gun crews.
+For complex models and larger scale planes, multiple servos may be used on control surfaces.
+Radio-controlled helicopters, although often grouped with RC aircraft, are in a class of their own because of the vast differences in construction, aerodynamics and flight training.
+Inexpensive (under $200 for the airframe) kits with wing areas of  are flown with .40 size engines that can be purchased for less than $100.
+Amateur hobbyists have more recently developed a range of new model designs utilizing the corrugated plastic or "Coroplast" material.
+In such cases, more channels may be required to perform various functions such as deploying retractable landing gear, opening cargo doors, dropping bombs, operating remote cameras, lights, etc.
+The plans can be scaled to any desired size with a computer or copy machine, usually with little or no loss in aerodynamic efficiency.
+Some military bases allow such high tech aircraft to fly within limited airspace such as Kaneohe Marine base in Hawaii, and Whidbey Island NAS in Washington State.
+Some of these are made by bringing frames of balsa wood and carbon fiber up through water to pick up thin plastic films, similar to rainbow colored oil films.
+Typically, everything that is needed is provided, including the transmitter, receiver and battery.
+An average turbine aircraft will cost between $150–$10,000 with more than $20,000 all-up becoming more common.
+Using flaps, an aircraft can fly slower before stalling.
+Full-scale aircraft designs from every era of aviation, from the "Pioneer Era" and World War I's start, through to the 21st century, have been modeled as radio-control scale model aircraft.
+* Auxiliary control – Additional channels can control additional servos for propeller pitch (such as on 3D planes), or control surfaces such as spoilerons, flaperons, or elevons.
+The planes can then be launched by hand-launching, as with smaller free-flight models, and can then land in soft grass.
+(All aircraft must meet a minimum weight.
+Ready to fly (RTF) airplanes come pre-assembled and usually only require wing attachment or other basic assembly.
+Often, the transmitter is programmed to automatically apply rudder in proportion to aileron deflection to coordinate the roll.
+Inside the aircraft, wooden spars reinforce the body to make a rigid airframe .
+There can be one motor for propulsion and one for steering or twin motors with the sum controlling the speed and the difference controlling the turn (yaw).
+A programmable transmitter which can store custom parameters for multiple models is desirable so that trim and other advanced functions do not need to be altered when switching models.
+EPP (Expanded Polypropylene) foam planes are actually even bendable and usually sustain very little or no damage in the event of an accident, even after a nose dive.
+The best times for a 10 lap 3 pylon Q40 race are very close to the same in 428.
+Powered gliders built with stability in mind and capable of aerobatics, high speed flight and sustained vertical flight are classified as 'Hot-liners'.
+FPV aircraft are frequently used for aerial photography and videography, and many videos of FPV flights can be found on popular video sites such as YouTube and Vimeo.
+Many trainers, electric park fliers, and gliders use this technique.
+By combining the efficient wing size and wide speed envelope of a glider airframe with an electric motor, it is possible to achieve long flight times and high carrying capacity, as well as glide in any suitable location regardless of thermals or lift.
+Amateur radio licensees in the United States also have general use of an overlapping band in this same area, which exists from 2.39 to 2.45&nbsp;GHz, with newer aftermarket transmitter RF module/receiver combinations on the 70&nbsp;cm band also offering user-programmable, spread-spectrum versatility of varying degrees for Ham RC modelers.
+These ruddervators are controlled with two channels and mechanical or electronic mixing.
+These factors as well as the added building challenge add to the enjoyment of flying bird models, though some ARF (almost-ready-to-fly) models are available.
+The thickness used among modellers is from 2mm to 4&nbsp;mm thickness.
+The lightest models are suitable for indoor flight, in a windless environment.
+Several different types of aircraft are raced across the world, those flown primarily in the US are; Q500 (424 or ARPRA, and 428), and Q40.
+The downside of lack of elevator control is a tendency for the airplane to phugoid.
+Construction of wood kits typically consists of using formers and longerons for the fuselage and spars and ribs for the wing and tail surfaces.
+Usually, the model club itself will possess some sort of "transmitter impound" facility at their modeling site for secure storage of the modelers' transmitters when not in active use while visiting the facility, and usually provides some sort of fixed "frequency control board" nearby to the impound area.
+Some state laws purport to restrict or prohibit aerial photography using unmanned aircraft, though such laws would likely be found invalid if challenged in court due to federal preemption, as the FAA has exclusive regulatory jurisdiction over all aircraft and airspace from the surface up.
+Self-adhesive coloured tapes were the answer.
+F3D is the fastest class in "glow-powered" pylon racing.
+As a result, FPV aircraft can be flown well beyond visual range, limited only by the range of the remote control and video transmitter.
+Depron (the type of foam used for meat trays) blends rigidity with flexibility, allowing aircraft to absorb the stress of flying.
+Some kits can be mostly foam or plastic, or may be all balsa and ply wood.
+For more experienced pilots there are glow plug engine, electric powered and sailplane aircraft.
+A V-Tail is a way of combining the control surfaces of the standard "+" configuration of rudder and elevator into a V shape.
+The wood, typically balsa and light ply, may either be cut with a die-cut or laser.
+V-tail mixing, needed for such full-scale aircraft designs as the Beechcraft Bonanza, when modeled as RC scale miniatures, is also done in a similar manner as elevons and flaperons.
+See "Toy class RC" section.
+The control surfaces, in turn, affect the orientation of the plane.
+There is also a LiPo for the onboard servos that control ailerons, elevator, rudder, flaps and landing gear.
+Secondly the material is difficult to paint due to low surface adhesion.
+The plane is flown until it runs out of fuel then landed like a glider.
+''Dihedral Effect'' in model airplane design is usually increased by increasing the ''Dihedral Angle'' of the wing (V-bend in the wing).
+First-person view (FPV) flight is a type of remote-control flying that has grown in popularity in recent years.
+* Flaps – Increase lift, but also increase drag.
+Most have a lithium polymer (LiPo) battery pack at 8–12 volts that controls the FADEC.
+There are also many larger 3D designs designed for two and four stroke glow engines, two stroke gas engines and large electric power systems.
+Therefore, the power system (glow engine, gas engine, or electric motor and any required accessories) and radio system (servos, transmitter, receiver, and battery) must be purchased separately.
+Care must be taken when building models from wood kits since construction flaws may affect the model's flying characteristics or even result in structural failure.
+Sideslip otherwise builds up during an aileron-driven roll because of adverse yaw.
+3D has created a huge market for electric indoor 'profile' types similar to the Ikarus 'Shockflyers' designed to be able to fly inside a gym or outside in little wind.
+The rudder will yaw the plane so that it has a left or right sideslip, dihedral effect will then cause the plane to roll in the same direction.
+The lack of elevator control also prevents the ability to "pull back" during turns to prevent altitude loss and speed increase.
+There are a wide variety of state and local laws and ordinances affecting model aircraft.
+APRA is a version of 424 with specific rules designed for consistency.
+A more complex four channel model can have both rudder and ailerons and is usually turned like a full-sized aircraft.
+Radio-control jets require an onboard FADEC (full authority digital engine control) controller; this controls the turbine, as on a full-size aircraft.

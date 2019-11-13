@@ -1,0 +1,200 @@
+*Pantograph: a hinged frame that holds the collecting shoes against the wire in a fixed geometry.
+A few East Coast lines, notably the Virginian Railway and the Norfolk and Western Railway, electrified short sections of their mountain crossings.
+All other long-distance passenger service and, with rare exceptions, all freight is hauled by diesel-electric locomotives.
+These polyphase machines are powered from GTO-, IGCT- or IGBT-based inverters.
+During the period of electrification of the Italian railways, tests were made as to which type of power to use: in some sections there was a 3,600&nbsp;V &nbsp;Hz three-phase power supply, in others there was 1,500&nbsp;V&nbsp;DC, 3&nbsp;kV&nbsp;DC and 10&nbsp;kV&nbsp;AC&nbsp;45&nbsp;Hz supply.
+By comparison, the Milwaukee Road class EP-2 (1918) weighed 240&nbsp;t, with a power of 3,330&nbsp;kW and a maximum speed of 112&nbsp;km/h; in 1935, German E 18 had a power of 2,800&nbsp;kW, but weighed only 108 tons and had a maximum speed of 150&nbsp;km/h.
+Much of the early development of electric locomotion was driven by the increasing use of tunnels, particularly in urban areas.
+Each 30-tonne locomotive had two  motors run by three-phase 750&nbsp;V 40&nbsp;Hz fed from double overhead lines.
+Five years later, in the U.S. electric trolleys were pioneered in 1888 on the Richmond Union Passenger Railway, using equipment designed by Frank J. Sprague.
+The special "junction stations" (around 15 over the former USSR - Vladimir, Mariinsk near Krasnoyarsk etc.)
+Three Bo+Bo units were initially used, at the south end of the electrified section; they coupled onto the locomotive and train and pulled it through the tunnels.
+The original Baltimore and Ohio Railroad electrification used a sliding shoe in an overhead channel, a system quickly found to be unsatisfactory.
+The SNCF decision, ignoring as it did the  of high-voltage DC already installed on French routes, was influential in the standard selected for other countries in Europe.
+Further improvements resulted from the introduction of electronic control systems, which permitted the use of increasingly lighter and more powerful motors that could be fitted inside the bogies (standardising from the 1990s onwards on asynchronous three-phase motors, fed through GTO-inverters).
+Such locomotives are used where a conventional diesel or electric locomotive would be unsuitable.
+The most fundamental difference lies in the choice of AC or DC.
+Locomotive replacement is essential at these stations and is performed together with the contact wiring switching.
+The Japanese Shinkansen and the French TGV were the first systems for which devoted high-speed lines were built from scratch.
+Electric locomotives are used on freight routes with consistently high traffic volumes, or in areas with advanced rail networks.
+Locomotives capable of commercial passenger service at 200&nbsp;km/h appeared in Germany and France in the same period.
+In the 1930s, the Pennsylvania Railroad, which had introduced electric locomotives because of the NYC regulation, electrified its entire territory east of Harrisburg, Pennsylvania.
+Unlike model railroads the track normally supplies only one side, the other side(s) of the circuit being provided separately.
+Thus, high power can be conducted over long distances on lighter and cheaper wires.
+However, for low speeds, tractive effort is more important than power.
+Most systems have a characteristic voltage and, in the case of AC power, a system frequency.
+This was particularly applicable in Switzerland, where close to 100% of lines are electrified.
+Electrification systems used by the JR group, Japan's formerly state-owned operators, are 1,500 V DC and 20 kV AC for conventional lines and 25 kV AC for Shinkansen.
+This locomotive is now employed largely unmodified by ÖBB to haul their Railjet which is however limited to a top speed of 230 km/h due to economic and infrastructure concerns.
+The motor had two field poles, which allowed a limited amount of vertical movement of the armature.
+U.S. regulations on diesel locomotives are very weak compared to regulations on automobile emissions or power plant emissions.
+From the beginning, the track was used for one side of the circuit.
+Historically, 3,300 V DC was used for simplicity.
+Electric locomotives are quiet compared to diesel locomotives since there is no engine and exhaust noise and less mechanical noise.
+Numerically high ratios are commonly found on freight units, whereas numerically low ratios are typical of passenger engines.
+In this arrangement, the traction motor is mounted within the body of the locomotive and drives the jackshaft through a set of gears.
+The first installation, at 16&nbsp;kV 50&nbsp;Hz, was in 1932 on the 56&nbsp;km section of the Hungarian State Railways between Budapest and Komárom.
+Because most of the electrification infrastructure was destroyed in the war, the only variances to this standard with significant traffic are a few of the older subway lines in Tokyo and Osaka.
+It opened in 1890, using electric locomotives built by Mather and Platt.
+The first electrically-worked underground line was the City and South London Railway, prompted by a clause in its enabling act prohibiting use of steam power.
+They continue to arrive late into 2010.
+It was tested on the Edinburgh and Glasgow Railway in September of the following year, but the limited power from batteries prevented its general use.
+*Trolley pole: a long flexible pole, which engages the line with a wheel or shoe.
+In 1894, Hungarian engineer Kálmán Kandó developed a new type 3-phase asynchronous electric drive motors and generators for electric locomotives.
+An example is maintenance trains on electrified lines when the electricity supply is turned off, such as by the London Underground battery-electric locomotives.
+Again, as traction motors continued to shrink in size and weight, quill drives gradually fell out of favour.
+Though the massive debts incurred for these upgrades (along with the more publicised expense of Shinkansen expansions) led to the privatization and break-up of the national rail company.
+The earliest systems used DC as AC was not well understood and insulation material for high voltage lines was not available.
+In the 1980s, development of very high-speed service brought further electrification.
+It was the first in the world in regular service powered from an overhead line.
+Some locomotives use both overhead and third rail collection (e.g.
+*Bow collector: a frame that holds a long collecting rod against the wire.
+Speed is controlled by changing the number of pole pairs in the stator circuit, with acceleration controlled by switching additional resistors in, or out, of the rotor circuit.
+On 29 March 1955, French locomotive CC 7107 reached 331&nbsp;km/h.
+The electricity (150 V DC) was supplied through a third insulated rail between the tracks.
+Until 2013-2014, the Mumbai area used the older 1500 V DC electrification.
+Smoke from steam locomotives was noxious and municipalities were increasingly inclined to prohibit their use within their limits.
+The first implementation of industrial frequency single-phase AC supply for locomotives came from Oerlikon in 1901, using the designs of Hans Behn-Eschenburg and Emil Huber-Stockar; installation on the Seebach-Wettingen line of the Swiss Federal Railways was completed in 1904.
+The three-phase two-wire system was used on several railways in Northern Italy and became known as "the Italian system".
+In response, electric locomotives began operation in 1904 on the New York Central Railroad.
+It was replaced by a third rail, in which a pickup (the "shoe") rode underneath or on top of a smaller rail parallel to the main track, above ground level.
+Three collection methods are possible:
+In 1918, Kandó invented and developed the rotary phase converter, enabling electric locomotives to use three-phase motors whilst supplied via a single overhead wire, carrying the simple industrial frequency (50&nbsp;Hz) single phase AC of the high voltage national networks.
+For instance, VL80 is an AC machine, with VL10 a DC version.
+In addition, governments were motivated to electrify their railway networks due to coal shortages experienced during the First and Second World Wars.
+A contact roller was used to collect the electricity.
+There were some half-experimental small series like VL82, which could switch from AC to DC and were used in small amounts around the city of Kharkov in Ukraine.
+Electric locomotives are planned for the California High Speed Rail system.
+The cost of electronic devices in a modern locomotive can be up to 50% of the cost of the vehicle.
+Of the three, the pantograph method is best suited for high-speed operation.
+Due to the number of mechanical parts involved, frequent maintenance was necessary.
+The necessary modernisation and electrification of these lines is possible due to financing of the railway infrastructure by the state.
+In some countries like Switzerland, even electric shunters are common and many private sidings can be served by electric locomotives.
+The Tōkaidō Main Line, Japan's busiest line, completed electrification in 1956 and Tōkaidō Shinkansen was complete in 1964.
+During four months, the train carried 90,000 passengers on a 300-metre-long circular track.
+The locomotive was driven by a 2.2&nbsp;kW, series-wound motor, and the train, consisting of the locomotive and three cars, reached a speed of 13&nbsp;km/h.
+Operators of the rolling stock pay fees according to rail use.
+Electrification began in earnest for local railways in the 1920s and main lines electrification began following World War II using a universal 1,500 V DC standard and eventually, a 20 kV standard for rapid intercity main lines (often overlaying 1,500 V DC lines) and 25 kV AC for high-speed Shinkansen lines).
+Kandó's early 1894 designs were first applied in a short three-phase AC tramway in Evian-les-Bains (France), which was constructed between 1896 and 1898.
+In Victoria, because only one major line (the Gippsland line) had been electrified, the economic advantages of electric traction were not fully realised due to the need to change locomotives for trains that ran beyond the electrified network.
+In both states, the use of electric locomotives on principal interurban routes proved to be a qualified success.
+Additional efficiency can be gained from regenerative braking, which allows kinetic energy to be recovered during braking to put power back on the line.
+Newer electric locomotives use AC motor-inverter drive systems that provide for regenerative braking.
+On 2 September 2006, a standard production Siemens electric locomotive of the Eurosprinter type ES64-U4 (ÖBB Class 1216) achieved 357&nbsp;km/h (221&nbsp;mph), the record for a locomotive-hauled train, on the new line between Ingolstadt and Nuremberg.
+In North America, the flexibility of diesel locomotives and the relative low cost of their infrastructure has led them to prevail except where legal or operational constraints dictate the use of electricity.
+Recent political developments in many European countries to enhance public transit have led to another boost for electric traction.
+The locomotives provided several decades of service using Nickel-iron battery (Edison) technology.
+The first electric passenger train was presented by Werner von Siemens at Berlin in 1879.
+A later development of Kandó, working with both the Ganz works and Societa Italiana Westinghouse, was an electro-mechanical converter, allowing the use of three-phase motors from single-phase AC, eliminating the need for two overhead wires.
+Volk's Electric Railway opened in 1883 in Brighton.
+As AC motors were developed, they became the predominant type, particularly on longer routes.
+Davidson later built a larger locomotive named ''Galvani'', exhibited at the Royal Scottish Society of Arts Exhibition in 1841.
+This is why diesel engines are competitive for slow freight traffic (as it is common in the U.S.) but not for passenger or mixed passenger/freight traffic like on many European railway lines, especially where heavy freight trains must be run at comparatively high speeds (80&nbsp;km/h or more).
+Several other systems were devised as the electric locomotive matured.
+In the 1990s, and 2000s, rural infrastructure was the focus of a lot of government stimulus funding and this included some rail electrification on infrequently used lines, and funding for expanding the Shinkansen network (which, as with all high speed trains, is electric).
+Electrification is widespread in Europe.
+The system is 25 kV AC 50&nbsp;Hz after the junction station of Mariinsk near Krasnoyarsk, 3,000 V DC before it, and train weights are up to 6,000 tonnes.
+The power  can come from clean or renewable sources, including geothermal power, hydroelectric power, nuclear power, solar power and wind turbines.
+These locomotives weighed 85 tons and operated on 750-volt overhead trolley wire with considerable further range whilst running on batteries.
+Except for a few captive systems (e.g.
+Mass transit systems and other electrified commuter lines use electric multiple units, where each car is powered.
+British Rail Class 92).
+Another drive was the "bi-polar" system, in which the motor armature was the axle itself, the frame and field assembly of the motor being attached to the truck (bogie) in a fixed position.
+In 1928, Kennecott Copper ordered four 700-series electric locomotives with on-board batteries.
+Electric locomotives are used for passenger trains on Amtrak's Northeast Corridor between Washington, DC and Boston, with a branch to Harrisburg, Pennsylvania, and on some commuter rail lines.
+After WW2, 3 kV&nbsp;DC power was chosen for the entire Italian railway system.
+Many locomotives have been equipped to handle multiple voltages and frequencies as systems came to overlap or were upgraded.
+Power plants, even if they burn fossil fuels, are far cleaner than mobile sources such as locomotive engines.
+Parallel tracks on the Pennsylvania Railroad had shown that coal smoke from steam locomotives would be a major operating issue and a public nuisance.
+This proved successful and the electrification was extended to Hegyeshalom in 1934.
+The resulting three-phase current drives induction motors, which do not have sensitive commutators and permit easy realisation of a regenerative brake.
+European electric locomotive technology had improved steadily from the 1920s onwards.
+Then the large mountain line between Ufa and Chelyabinsk was electrified.
+In 1891, Brown had demonstrated long-distance power transmission, using three-phase AC, between a hydro-electric plant at Lauffen am Neckar and Frankfurt am Main West, a distance of 280&nbsp;km.
+Surface and elevated rapid transit systems generally used steam until forced to convert by ordinance.
+The first practical AC electric locomotive was designed by Charles Brown, then working for Oerlikon, Zürich.
+In 1923, the first phase-converter locomotive in Hungary was constructed on the basis of Kandó’s designs and serial production began soon after.
+Electrical circuits require two connections (or for three phase AC, three connections).
+Railways generally tend to prefer overhead lines, often called "catenaries" after the support system used to hold the wire parallel to the ground.
+An '''electric locomotive''' is a locomotive powered by electricity from overhead lines, a third rail or on-board energy storage such as a battery or fuel cell.
+Most Soviet, Czech (the USSR ordered passenger electric locomotives from Skoda), Russian and Ukrainian locomotives can operate on AC or DC only.
+The others can be seen at the Boone and Scenic Valley Railroad, Iowa, and at the Western Railway Museum in Rio Vista, California.
+The jackshaft drive was abandoned for all but the smallest units when smaller and lighter motors were developed,
+The system was widely used in northern Italy until 1976 and is still in use on some Swiss rack railways.
+The first major line with AC power was Mariinsk-Krasnoyarsk-Tayshet-Zima; the lines in European Russia like Moscow-Rostov-on-Don followed.
+The lack of reciprocating parts means electric locomotives are easier on the track, reducing track maintenance.
+An early example was at the Kennecott Copper Mine, Latouche, Alaska, where in 1917 the underground haulage ways were widened to enable working by two  battery locomotives of  tons.
+An important contribution to the wider adoption of AC traction came from SNCF of France after World War II.
+The latter was mostly in the form of loans rather than direct investment as in the former.
+The Buchli drive was a fully spring-loaded system, in which the weight of the driving motors was completely disconnected from the driving wheels.
+A battery locomotive (or battery-electric locomotive) is powered by on-board batteries; a kind of battery electric vehicle.
+A similar high voltage, low current system could not be employed with direct current locomotives because there is no easy way to do the voltage/current transformation for DC so efficiently as achieved by AC transformers.
+In this arrangement, one side of the motor housing is supported by plain bearings riding on a ground and polished journal that is integral to the axle.
+Also in 1883, Mödling and Hinterbrühl Tram opened near Vienna in Austria.
+The company had assessed the industrial-frequency AC line routed through the steep Höllental Valley, Germany, which was under French administration following the war.
+Modern electric locomotives, like their Diesel-electric counterparts, almost universally use axle-hung traction motors, with one motor for each powered axle.
+It operates a fleet of electric locomotives to transport coal for export, the most recent of which the 3,000&nbsp;kW (4,020 HP) 3300/3400 Class.
+DC locomotives typically run at relatively low voltage (600 to 3,000 volts); the equipment is therefore relatively massive because the currents involved are large in order to transmit sufficient power.
+The EP-2 bi-polar electrics used by the Milwaukee Road compensated for this problem by using a large number of powered axles.
+Electric power car trains are still used for urban passenger services.
+Queensland Rail is currently rebuilding its 3100 and 3200 class locos into the 3700 class, which use AC traction and need only three locomotives on a coal train rather than five.
+Queensland Rail implemented electrification relatively recently and utilises the more recent 25 kV AC technology with around 1,000&nbsp;km of the narrow gauge network now electrified.
+Similar programs were undertaken in Italy, Germany and Spain; in the United States the only new main-line service was an extension of electrification over the Northeast Corridor from New Haven, Connecticut to Boston, Massachusetts, though new electric light rail systems continued to be built.
+In 1896, Oerlikon installed the first commercial example of the system on the Lugano Tramway.
+Power plant capacity is far greater than any individual locomotive uses, so electric locomotives can have a higher power output than diesel locomotives and they can produce even higher short-term surge power for fast acceleration.
+have  wiring switchable from DC to AC.
+Electrification at 600 V DC and 750 V DC are also seen in private lines.
+GO Transit has completed a study on electrifying some of the Georgetown/Air Rail Link & Lakeshore lines, but so far, no target date or purchases have been initiated.
+However, they were much larger than the DC motors of the time and could not be mounted in underfloor bogies: they could only be carried within locomotive bodies.
+1,500 V DC is still used on some lines near France and 25 kV 50&nbsp;Hz is used by high-speed trains.
+A collision in the Park Avenue tunnel in 1902 led the New York State legislature to outlaw the use of smoke-generating locomotives south of the Harlem River after 1 July 1908.
+The first known electric locomotive was built in 1837 by chemist Robert Davidson of Aberdeen.
+In South Australia, the Seaford railway line was electrified in 2013; electric services commenced in February 2014.
+The line around Irkutsk is one of them.
+Because railroad infrastructure is privately owned in the U.S., railroads are unwilling to make the necessary investments for electrification.
+Both gears are enclosed in a liquid-tight housing containing lubricating oil.
+VR's electric locomotive fleet was withdrawn from service by 1987 and the Gippsland line electrification was dismantled by 2004.
+All four locomotives were donated to museums, but one was scrapped.
+Battery locomotives are preferred for mines where gas could be ignited by trolley-powered units arcing at the collection shoes, or where electrical resistance could develop in the supply or return circuits, especially at rail joints, and allow dangerous current leakage into the ground.
+Development continued in Europe, where electrification was widespread.
+After this, electrifying the major railroads at 3,000 V DC became mainstream.
+The seven-ton vehicle had two direct-drive reluctance motors, with fixed electromagnets acting on iron bars attached to a wooden cylinder on each axle, and simple commutators.
+Railroad entrances to New York City required similar tunnels and the smoke problems were more acute there.
+For some time, electric railways were only considered to be suitable for suburban or mountain lines.
+Power transfer from motor to axle is effected by spur gearing, in which a pinion on the motor shaft engages a bull gear on the axle.
+It was powered by galvanic cells (batteries).
+This system was employed because the first traction motors were too large and heavy to mount directly on the axles.
+In Europe and elsewhere, railway networks are considered part of the national transport infrastructure, just like roads, highways and waterways, so are often financed by the state.
+The type of service in which the locomotive is used dictates the gear ratio employed.
+Additionally, the mix of freight to passenger service is weighted much more toward passenger service (even in rural areas) than in many other countries, and this has helped drive government investment into electrification of many remote lines.
+The 106&nbsp;km Valtellina line was opened on 4 September 1902, designed by Kandó and a team from the Ganz works.
+Keretapi Tanah Melayu of Malaysia operates 25 kV AC electric multiple units, starting from their KTM Komuter in 1995.
+During World War II, when materials to build new electric locomotives were not available, Swiss Federal Railways installed electric heating elements, fed from the overhead supply, in the boilers of some steam shunters to deal with the shortage of imported coal.
+In December 2009, a fleet of new ETS arrived.
+Kandó was invited in 1905 to undertake the management of Società Italiana Westinghouse and led the development of several Italian electric locomotives.
+In addition, gaps of un-electrified track are closed to avoid replacing electric locomotives by diesels for these sections.
+During the steam era, some mountainous areas were electrified but these have been discontinued.
+Electrified routes in India use 25 kV AC railway electrification at 50&nbsp;Hz.
+The simple feasibility of a fail-safe electric brake is an advantage of the system, while speed control and the two-phase lines are problematic.
+This makes possible the large investments required for the technically and, in the long-term, also economically advantageous electrification.
+, Indian railways haul 85% of freight and passenger traffic with electric locomotives.
+By the mid 1970s, most main lines had been converted.
+The Chicago, Milwaukee, St. Paul and Pacific Railroad (the Milwaukee Road), the last transcontinental line to be built, electrified its lines across the Rocky Mountains and to the Pacific Ocean starting in 1915.
+In 1960 the SJ Class Dm 3 locomotives on Swedish Railways produced a record 7,200&nbsp;kW.
+In 1990s, some DC lines were rebuilt as AC to allow the usage of the huge 10 MWt AC locomotive of VL85.
+Electric locomotives benefit from the high efficiency of electric motors, often above 90% (not including the inefficiency of generating the electricity).
+The quill drive was also developed about this time and mounted the traction motor above or to the side of the axle and coupled to the axle through a reduction gear and a hollow shaft - the quill - flexibly connected to the driving axle.
+Electric locomotives with on-board fuelled prime movers, such as diesel engines or gas turbines, are classed as diesel-electric or gas turbine-electric locomotives because the electric generator/motor combination serves only as a power transmission system.
+The other side of the housing has a tongue-shaped protuberance that engages a matching slot in the truck (bogie) bolster, its purpose being to act as a torque reaction device, as well as a support.
+The 1960s saw the electrification of many European main lines.
+They are used on high-speed lines, such as ICE in Germany, Acela in the U.S., Shinkansen in Japan, China Railway High-speed in China and TGV in France.
+UIC classification system was typically used for electric locomotives, as it could handle the complex arrangements of powered and unpowered axles and could distinguish between coupled and uncoupled drive systems.
+This system is particularly advantageous in mountainous operations, as descending locomotives can produce a large portion of the power required for ascending trains.
+the Black Mesa and Lake Powell), by 2000 electrification was confined to the Northeast Corridor and some commuter service; even there, freight service was handled by diesels.
+Transformers in the locomotives transform this power to a low voltage and high current for the motors.
+Italian railways were the first in the world to introduce electric traction for the entire length of a main line rather than just a short stretch.
+Dual-current WCAM locomotives were used in Mumbai sections which could use both types of power supply; these locomotives still exist but now use only AC power.
+in South Africa and the United Kingdom (750 V and 1,500 V); Netherlands, Japan, Ireland (1,500 V); Slovenia, Belgium, Italy, Poland, Russia, Spain (3,000 V) and Washington DC (750 V).
+This system is preferred in subways because of the close clearances it affords.
+High-speed trains like the TGV, ICE, AVE and Pendolino can only be run economically using electric traction and the operation of branch lines is usually less in deficit when using electric traction, due to cheaper and faster rolling stock and more passengers due to more frequent service and more comfort.
+Diesels shared some of the electric locomotive’s advantages over steam and the cost of building and maintaining the power supply infrastructure, which discouraged new installations, brought on the elimination of most main-line electrification outside the Northeast.

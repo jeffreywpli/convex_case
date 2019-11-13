@@ -1,0 +1,200 @@
+Public commercial use of the Internet began in mid-1989 with the connection of MCI Mail and Compuserve's email capabilities to the 500,000 users of the Internet.
+Another area of leisure activity on the Internet is multiplayer gaming.
+Some commercial organizations encourage staff to communicate advice in their areas of specialization in the hope that visitors will be impressed by the expert knowledge and free information, and be attracted to the corporation as a result.
+Collectively, members and practitioners of such sects construct viable virtual communities of faith, exchanging personal testimonies and engaging in the collective study via email, on-line chat rooms, and web-based message boards."
+The Internet may often be accessed from computers in  libraries and Internet cafes.
+According to International Data Corporation, the size of worldwide e-commerce, when global business-to-business and -consumer transactions are combined, equate to $16 trillion for 2013.
+In December 1974, RFC 675 (''Specification of Internet Transmission Control Program''), by Vinton Cerf, Yogen Dalal, and Carl Sunshine, used the term ''internet'' as a shorthand for ''internetworking'' and later RFCs repeated this use.
+The Internet is a global network comprising many voluntarily interconnected autonomous networks.
+The benefit is that, as the Internet carries the voice traffic, VoIP can be free or cost much less than a traditional telephone call, especially over long distances and especially for those with always-on Internet connections such as cable or ADSL.
+Historically, as early as 1849, the word ''internetted'' was used uncapitalized as an adjective, meaning ''interconnected'' or ''interwoven''.
+European developers were concerned with developing the X.25 networks.
+These simple features of the Internet, over a worldwide basis, are changing the production, sale, and distribution of anything that can be reduced to a computer file for transmission.
+The technical underpinning and standardization of the core protocols (IPv4 and IPv6) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.
+Telecommuting is the performance within a traditional worker and employer relationship when it is facilitated by tools such as groupware, virtual private networks, conference calling, videoconferencing, and voice over IP (VOIP) so that work may be performed from any location, most conveniently the worker's home.
+Further, the Internet allows universities, in particular, researchers from the social and behavioral sciences, to conduct research remotely via virtual laboratories, with profound changes in reach and generalizability of findings as well as in communication between scientists and in the publication of results.
+A packet capture is an information ''gathering'' tool, but not an ''analysis'' tool.
+An ISP may use a single upstream provider for connectivity, or implement multihoming to achieve redundancy and load balancing.
+To maintain interoperability, the principal name spaces of the Internet are administered by the Internet Corporation for Assigned Names and Numbers (ICANN).
+It is a ''network of networks'' that consists of millions of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
+Men and women were equally likely to use the Internet for shopping and banking.
+The vast majority of computer surveillance involves the monitoring of data and traffic on the Internet.
+An office worker away from their desk, perhaps on the other side of the world on a business trip or a holiday, can access their emails, access their data using cloud computing, or open a remote desktop session into their office PC using a secure virtual private network (VPN) connection on the Internet.
+It can be put into a "shared location" or onto a file server for instant use by colleagues.
+Queens, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park.
+Social networking websites such as Facebook, Twitter, and Myspace have created new ways to socialize and interact.
+Tier 2 and lower level networks buy Internet transit from other providers to reach at least some parties on the global Internet, though they may also engage in peering.
+While many similarities exist between the models, they are not compatible in the details of description or implementation; indeed, TCP/IP protocols are usually included in the discussion of OSI networking.
+Podcasting is a variation on this theme, where&nbsp;– usually audio&nbsp;– material is downloaded and played back on a computer or shifted to a portable media player to be listened to on the move.
+The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.
+When the Web developed in the 1990s, a typical web page was stored in completed form on a web server, formatted in HTML, complete for transmission to a web browser in response to a request.
+This is also a risk in relation to controversial ''offline'' behavior, if it is widely made known.
+In 1991 the Commercial Internet eXchange was founded, allowing PSInet to communicate with the other commercial networks CERFnet and Alternet.
+Internet use grew rapidly in the West from the mid-1990s and from the late 1990s in the developing world.
+The Internet's technologies have developed enough in recent years, especially in the use of Unicode, that good facilities are available for development and communication in the world's widely used languages.
+Apart from Wi-Fi, there have been experiments with proprietary mobile wireless networks like Ricochet, various high-speed data services over cellular phone networks, and fixed wireless services.
+Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.
+"Black hat" social media techniques are also employed by some organizations, such as spam accounts and astroturfing.
+At the top is the application layer, space for the application-specific networking methods used in software applications.
+A new protocol version, IPv6, was developed in the mid-1990s, which provides vastly larger addressing capabilities and more efficient routing of Internet traffic.
+It operates without a central governing body.
+The Internet allows computer users to remotely access other computers and information stores easily from any access point.
+are required to be available for unimpeded real-time monitoring by Federal law enforcement agencies.
+The beginning of dedicated transatlantic communication between the NSFNET and networks in Europe was established with a low-speed satellite relay between Princeton University and Stockholm, Sweden in December 1988.
+Underlying these layers are the networking technologies that interconnect networks at their borders and hosts via the physical connections.
+As another point of comparison, Hypertext Transfer Protocol, or HTTP, is the language used on the Web for information transfer, yet it is just one of many languages or protocols that can be used for communication on the Internet.
+The Web is a global set of documents, images and other resources, logically interrelated by hyperlinks and referenced with Uniform Resource Identifiers (URIs).
+As the Internet is a heterogeneous network, the physical characteristics, including for example the data transfer rates of connections, vary widely.
+This may be a result of the origin of the Internet, as well as the language's role as a lingua franca.
+The IETF conducts standard-setting work groups, open to any individual, about the various aspects of Internet architecture.
+Client-side software can include animations, games, office applications and scientific demonstrations.
+A significant number of feminist women have been the target of various forms of harassment in response to posts they have made on social media, and Twitter in particular has been criticised in the past for not doing enough to aid victims of online abuse.
+In the 20 years since 1995, Internet use has grown 100-times, measured for the period of one year, to over one third of the world population.
+Packet Capture Appliance intercepts these packets as they are traveling through the network, in order to examine their contents using other programs.
+The nature of this backlash can range widely from counter-arguments and public mockery, through insults and hate speech, to, in extreme cases, rape and death threats.
+The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet, and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network.
+Many parents choose to enable Internet filtering, and/or supervise their children's online activities, in an attempt to protect their children from inappropriate material on the Internet.
+Cyberslacking can become a drain on corporate resources; the average UK employee spent 57 minutes a day surfing the Web while at work, according to a 2003 study by Peninsula Business Services.
+Today, many Internet forums have sections devoted to games and funny videos.
+Thus, translation facilities must exist for internetworking or nodes must have duplicate networking software for both networks.
+VoIP stands for Voice-over-Internet Protocol, referring to the protocol that underlies all Internet communication.
+The most prominent component of the Internet model is the Internet Protocol (IP), which provides addressing systems (IP addresses) for computers on the Internet.
+The National Telecommunications and Information Administration, an agency of the United States Department of Commerce, continues to have final approval over changes to the DNS root zone.
+These early years were documented in the 1972 film ''Computer Networks: The Heralds of Resource Sharing''.
+Research networks tend to interconnect with large subnetworks such as GEANT, GLORIAD, Internet2, and the UK's national research and education network, JANET.
+These techniques using simple equipment allow anybody, with little censorship or licensing control, to broadcast audio-visual material worldwide.
+Educational material at all levels from pre-school to post-doctoral is available from websites.
+Although many governments have attempted to restrict both industries' use of the Internet, in general, this has failed to stop their widespread popularity.
+IPv6 is currently in growing deployment around the world, since Internet address registries (RIRs) began to urge all resource managers to plan rapid adoption and conversion.
+Not only can a group cheaply communicate and share ideas but the wide reach of the Internet allows such groups more easily to form.
+Business-to-business and financial services on the Internet affect supply chains across entire industries.
+ICANN is governed by an international board of directors drawn from across the Internet technical, business, academic, and other non-commercial communities.
+Service providers may restrict the services offered and mobile data charges may be significantly higher than other access methods.
+Such collaboration occurs in a wide variety of areas including scientific research, software development, conference planning, political activism and creative writing.
+World Wide Web browser software, such as Microsoft's Internet Explorer, Mozilla Firefox, Opera, Apple's Safari, and Google Chrome, lets users navigate from one web page to another via hyperlinks embedded in the documents.
+The Internet has enabled and accelerated new forms of personal interactions through instant messaging, Internet forums, and social networking.
+This means that an Internet-connected device, such as a computer or something more specific, can be used to access on-line media in much the same way as was previously possible only with a television or radio receiver.
+As they repay their loans, borrowers continue to share updates and dialogue with lenders via their profile pages.
+Sites like LinkedIn foster commercial and business connections.
+Lenders can contribute as little as $25 to loans of their choice, and receive their money back as borrowers repay.
+The origins of the Internet date back to research commissioned by the United States federal government in the 1960s to build robust, fault-tolerant communication via computer networks.
+Currently, a few VoIP providers provide an emergency service, but it is not universally available.
+However, publishing and maintaining large, professional web sites with attractive, diverse and up-to-date information is still a difficult and expensive proposition.
+The responsibility for the architectural design of the Internet software systems has been assumed by the Internet Engineering Task Force (IETF).
+The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s.
+As of 31 March 2011, the estimated total number of Internet users was 2.095&nbsp;billion (30.2% of world population).
+* African Network Information Center (AfriNIC) for Africa
+The Internet has enabled new forms of social interaction, activities, and social associations.
+The layers correspond to the environment or scope in which their services operate.
+Only the overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address space and the Domain Name System (DNS), are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN).
+This is a model architecture that divides methods into a layered system of protocols, originally documented in RFC 1122 and RFC 1123.
+These documents may also contain any combination of computer data, including graphics, sounds, text, video, multimedia and interactive content that runs while the user is interacting with the page.
+Webcams are a low-cost extension of this phenomenon.
+Commercial Wi-Fi services covering large city areas are in place in New York, London, Vienna, Toronto, San Francisco, Philadelphia, Chicago and Pittsburgh.
+In 2009, the US-based nonprofit Zidisha tapped into this trend to offer the first person-to-person microfinance platform to link lenders and borrowers across international borders without intermediaries.
+This estimate included the energy needed to build, operate, and periodically replace the estimated 750 million laptops, a billion smart phones and 100 million servers worldwide as well as the energy that routers, cell towers, optical switches, Wi-Fi transmitters and cloud storage devices use when transmitting Internet traffic.
+authentication and encryption technologies, depending on the requirements.
+These providers have been joined by a range of pure Internet "broadcasters" who never had on-air licenses.
+The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, newsgroups, voice over IP telephony, and peer-to-peer networks for file sharing.
+This role of ICANN distinguishes it as perhaps the only central coordinating body for the global Internet.
+The low cost and nearly instantaneous sharing of ideas, knowledge, and skills have made collaborative work dramatically easier, with the help of collaborative software.
+While much has been written of the economic advantages of Internet-enabled commerce, there is also evidence that some aspects of the Internet such as maps and location-aware services may serve to reinforce economic inequality and the digital divide.
+However, the recent spread of low-cost Internet access in developing countries has made genuine international person-to-person  philanthropy increasingly feasible.
+Men logged on more often, spent more time online, and were more likely to be broadband users, whereas women tended to make more use of opportunities to communicate (such as email).
+Internet blackouts affecting almost entire countries can be achieved by governments as a form of Internet censorship, as in the blockage of the Internet in Egypt, whereby approximately 93% of networks were without access in 2011 in an attempt to stop mobilization for anti-government protests.
+The technical underpinning and standardization of the core protocols is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.
+Many individuals and some companies and groups use ''web logs'' or blogs, which are largely used as easily updatable online diaries.
+Internet access points exist in many public places such as airport halls and coffee shops.
+The concept of sending electronic text messages between parties in a way analogous to mailing letters or memos predates the creation of the Internet.
+An example of this is the free software movement, which has produced, among other things, Linux, Mozilla Firefox, and OpenOffice.org.
+This direct web-based connection allows members themselves to take on many of the communication and recording tasks traditionally performed by local organizations, bypassing geographic barriers and dramatically reducing the cost of microfinance services to the entrepreneurs.
+It includes email marketing, search engine marketing (SEM), social media marketing, many types of display advertising (including web banner advertising), and mobile advertising.
+Many political groups use the Internet to achieve a new method of organizing for carrying out their mission, having given rise to Internet activism, most notably practiced by rebels in the Arab Spring.
+Free and fee-based services exist for all of these activities, using centralized servers and distributed peer-to-peer technologies.
+However, these policies are typically trivial to circumvent by registering an account with a false birth date, and a significant number of children aged under 13 join such sites anyway.
+However, some glitches such as ''mojibake'' (incorrect display of some languages' characters) still remain.
+The entertainment industry was initially the fastest growing segment on the Internet.
+This form of recreation creates communities, where people of all ages and origins enjoy the fast-paced world of multiplayer games.
+Berdal, therefore, extends the Habermasian notion of the ''public sphere'' to the Internet, and underlines the inherent global and civic nature that interwoven Internet technologies provide.
+Voice quality can still vary from call to call, but is often equal to and can even exceed that of traditional calls.
+Commercial Internet service providers (ISPs) emerged in the late 1980s and early 1990s.
+The range of available types of content is much wider, from specialized technical webcasts to on-demand popular multimedia services.
+Internet service providers establish the worldwide connectivity between individual networks at various levels of scope.
+Kiva falls short of being a pure peer-to-peer charity, in that loans are disbursed before being funded by lenders and borrowers do not communicate with lenders themselves.
+Access may be with computer security, i.e.
+ARPANET development began with two network nodes which were interconnected between the Network Measurement Center at the University of California, Los Angeles (UCLA) Henry Samueli School of Engineering and Applied Science directed by Leonard Kleinrock, and the NLS system at SRI International (SRI) by Douglas Engelbart in Menlo Park, California, on 29 October 1969.
+While some webcams can give full-frame-rate video, the picture either is usually small or updates slowly.
+Social networking sites for younger children, which claim to provide better levels of protection for children, also exist.
+Hypertext Transfer Protocol (HTTP) is the main access protocol of the World Wide Web.
+The Internet standards describe a framework known as the Internet protocol suite.
+The English Wikipedia has the largest user base among wikis on the World Wide Web and ranks in the top 10 among all Web sites in terms of traffic.
+In recent years many VoIP systems have become as easy to use and as convenient as a normal telephone.
+The Internet rapidly expanded in Europe and Australia in the mid to late 1980s and to Asia in the late 1980s and early 1990s.
+It was designed to address up to ~4.3&nbsp;billion (109) Internet hosts.
+Electronic commerce may be responsible for consolidation and the decline of mom-and-pop, brick and mortar businesses resulting in increases in income inequality.
+In any of these cases, access to the file may be controlled by user authentication, the transit of the file over the Internet may be obscured by encryption, and money may change hands for access to the file.
+Although other network protocols such as UUCP had global reach well before this time, this marked the beginning of the Internet as an intercontinental network.
+However, this is not always the case, as any brand damage in the eyes of people with an opposing opinion to that presented by the organization could sometimes be outweighed by strengthening the brand in the eyes of others.
+Currently, YouTube also uses an HTML5 player.
+Routing tables are maintained by manual configuration or automatically by routing protocols.
+Due to naivety, they may also post personal information about themselves online, which could put them or their families at risk unless warned not to do so.
+* Latin American and Caribbean Internet Addresses Registry (LACNIC) for Latin America and the Caribbean region
+IPv6 is not directly interoperable by design with IPv4.
+Computers and routers use routing tables in their operating system to direct IP packets to the next-hop router or destination.
+Internet resources, hardware, and software components are the target of malicious attempts to gain unauthorized control to cause interruptions or access private information.
+The Internet Society (ISOC) was founded in 1992 with a mission to ''"assure the open development, evolution and use of the Internet for the benefit of all people throughout the world"''.
+Since 1995 the Internet has tremendously impacted culture and commerce, including the rise of near instant communication by email, instant messaging, telephony (Voice over Internet Protocol or VoIP), two-way interactive video calls, and the World Wide Web with its discussion forums, blogs, social networking, and online shopping sites.
+By Christmas 1990, Berners-Lee had built all the tools necessary for a working Web: the HyperText Transfer Protocol (HTTP) 0.9, the HyperText Markup Language (HTML), the first Web browser (which was also a HTML editor and could access Usenet newsgroups and FTP files), the first HTTP server software (later known as CERN httpd), the first web server (http://info.cern.ch), and the first Web pages that described the project itself.
+Hotspots providing such access include Wi-Fi cafes, where users need to bring their own wireless devices such as a laptop or PDA.
+The principal methods of networking that enable the Internet are contained in specially designated RFCs that constitute the Internet Standards.
+Less-developed countries are more vulnerable due to a small number of high-capacity links.
+Whereas operations such as Angelfire and GeoCities have existed since the early days of the Web, newer offerings from, for example, Facebook and Twitter currently have large followings.
+Last, at the bottom of the architecture is the link layer, which provides connectivity between hosts on the same network link, such as a physical connection in the form of a local area network (LAN) or a dial-up connection.
+One example of this practice is Microsoft, whose product developers publish their personal blogs in order to pique the public's interest in their work.
+By region, 42% of the world's Internet users are based in Asia, 24% in Europe, 14% in North America, 10% in Latin America and the Caribbean taken together, 6% in Africa, 3% in the Middle East and 1% in Australia/Oceania.
+Slightly over a year later in March 1990, the first high-speed T1 (1.5 Mbit/s) link between the NSFNET and Europe was installed between Cornell University and CERN, allowing much more robust communications than were capable with satellites.
+The ARPANET was decommissioned in 1990.
+Electronic business (''e-business'') encompasses business processes spanning the entire value chain: purchasing, supply chain management, marketing, sales, customer service, and business relationship.
+Other models have been developed, such as the OSI model, that attempt to be comprehensive in every aspect of communications.
+Under the Communications Assistance For Law Enforcement Act all U.S. telecommunications providers are required to install packet sniffing technology to allow Federal law enforcement and intelligence agencies to intercept all of their customers' broadband Internet and voice over Internet protocol (VoIP) traffic.
+Land cables are also vulnerable, as in 2011 when a woman digging for scrap metal severed most connectivity for the nation of Armenia.
+Non-subscribers were limited to certain types of game play or certain games.
+Six months later Tim Berners-Lee would begin writing WorldWideWeb, the first web browser after two years of lobbying CERN management.
+The potential of the Internet as a civic tool of communicative power was explored by Simon R. B. Berdal in his 2004 thesis:
+Internet chat, whether using an IRC chat room, an instant messaging system, or a social networking website, allows colleagues to stay in touch in a very convenient way while working at their computers during the day.
+E-commerce seeks to add revenue streams using the Internet to build and enhance relationships with clients and partners.
+In 2011, Internet advertising revenues in the United States surpassed those of cable television and nearly exceeded those of broadcast television.
+Examples range from CBeebies, through school and high-school revision guides and virtual universities, to access to top-end scholarly literature through the likes of Google Scholar.
+In 2011, researchers estimated the energy used by the Internet to be between 170 and 307 GW, less than two percent of the energy used by humanity.
+In those settings, they have been found useful for collaboration on grant writing, strategic planning, departmental documentation, and committee work.
+Mobile phones, datacards, handheld game consoles and cellular routers allow users to connect to the Internet wirelessly.
+After English (27%), the most requested languages on the World Wide Web are Chinese (25%), Spanish (8%), Japanese (5%), Portuguese and German (4% each), Arabic, French and Russian (3% each), and Korean (2%).
+For organizations, such a backlash can cause overall brand damage, especially if reported by the media.
+In 2014 the world's Internet users surpassed 3 billion or 43.6 percent of world population, but two-thirds of the users came from richest countries, with 78.0 percent of Europe countries population using the Internet, followed by 57.4 percent of the Americas.
+The Web is a collection of interconnected documents (web pages) and other web resources, linked by hyperlinks and URLs.
+The Internet carries many network services, most prominently mobile apps such as social media apps, the World Wide Web, electronic mail, multiplayer online games, Internet telephony, and file sharing services.
+* American Registry for Internet Numbers (ARIN) for North America
+These services may be free to all, free to customers only, or fee-based.
+The Web has also enabled individuals and organizations to publish ideas and information to a potentially large audience online at greatly reduced expense and time delay.
+Wi-Fi provides wireless access to the Internet via local computer networks.
+An Internet blackout or outage can be caused by local signalling interruptions.
+A report by Oxford Economics adds those two together to estimate the total size of the digital economy at $20.4 trillion, equivalent to roughly 13.8% of global sales.
+However, the Internet provides many other services.
+Both the Internet IP routing structure and hypertext links of the World Wide Web are examples of scale-free networks.
+Keen cites a 2013 Institute for Local Self-Reliance report saying brick-and-mortar retailers employ 47 people for every $10 million in sales while Amazon employs only 14.
+This can give the worker complete access to all of their normal files and data, including email and other applications, while away from the office.
+Splitting by country, in 2012 Iceland, Norway, Sweden, the Netherlands, and Denmark had the highest Internet penetration by the number of users, with 93% or more of the population with access.
+Many computer scientists describe the Internet as a "prime example of a large-scale, highly engineered, yet highly complex system".
+In common use and the media, it is often not capitalized, viz.
+Some guides specify that the word should be capitalized when used as a noun, but not capitalized when used as an adjective.
+Men were more likely to use the Internet to pay bills, participate in auctions, and for recreation such as downloading music and videos.
+A computer file can be emailed to customers, colleagues and friends as an attachment.
+Business and project teams can share calendars as well as documents and other information.
+It can be efficient and useful for companies as it allows workers to communicate over long distances, saving significant amounts of travel time and cost.
+Internet usage has seen tremendous growth.
+An accountant sitting at home can audit the books of a company based in another country, on a server situated in a third country that is remotely maintained by IT specialists in a fourth.
+The origin and authenticity of the file received may be checked by digital signatures or by MD5 or other message digests.
+While online gaming has been around since the 1970s, modern modes of online gaming began with subscription services such as GameSpy and MPlayer.
+Author Andrew Keen, a long-time critic of the social transformations caused by the Internet, has recently focused on the economic effects of consolidation from Internet businesses.
+By 2010, 22 percent of the world's population had access to computers with 1 billion Google searches every day, 300 million Internet users reading blogs, and 2 billion videos viewed daily on YouTube.
+Some of these things were possible before the widespread use of the Internet, but the cost of private leased lines would have made many of them infeasible in practice.

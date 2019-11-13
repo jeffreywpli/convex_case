@@ -1,0 +1,200 @@
+The effects of electromagnetic radiation upon living cells, including those in humans, depends upon the radiation's power and frequency.
+Different frequencies undergo different angles of refraction, a phenomenon known as dispersion.
+Many other fluorescent emissions are known in spectral bands other than visible light.
+These interactions produce either electric currents or heat, or both.
+::''c''0 is the speed of the wave in free space and
+Neither of these behaviours are responsible for EM radiation.
+is a generic solution to the wave equation.
+Photosynthesis becomes possible in this range as well, for similar reasons, as a single molecule of chlorophyll is excited by a single photon.
+The remaining equations will be satisfied by this choice of .
+At the higher end of the ultraviolet range, the energy of photons becomes large enough to impart enough energy to electrons to cause them to be liberated from the atom, in a process called photoionisation.
+An important aspect of light's nature is its frequency.
+Eventually Einstein's explanation was accepted as new particle-like behavior of light was observed, such as the Compton effect.
+This group contains possible carcinogens that have weaker evidence, at the same level as coffee and automobile exhaust.
+Random electromagnetic radiation requiring this kind of analysis is, for example, encountered in the interior of stars, and in certain other very wideband forms of radiation such as the Zero point wave field of the electromagnetic vacuum.
+Soundwaves are not electromagnetic radiation'''.'''
+Quantum effects provide additional sources of EMR, such as the transition of electrons to lower energy levels in an atom and black-body radiation.
+These derivatives require that the '''E''' and '''B''' fields in EMR are in-phase (see math section below).
+The effects of EMR upon biological systems (and also to many other chemical systems, under standard conditions) depend both upon the radiation's power and its frequency.
+These changes accounted for the constancy of the speed of light and all electromagnetic radiation, from the viewpoints of all observers—even those in relative motion.
+Infrared radiation in the spectral distribution of a black body is usually considered a form of heat, since it has an equivalent temperature and is associated with an entropy change per unit of thermal energy.
+A common misconception is that the '''E''' and '''B''' fields in electromagnetic radiation are out of phase because a change in one produces the other, and this would produce a phase difference between them as sinusoidal functions (as indeed happens in electromagnetic induction, and in the near-field close to antennas).
+The energy required for this is always larger than about 10 electron volts (eV) corresponding with wavelengths smaller than 124&nbsp;nm (some sources suggest a more realistic cutoff of 33 eV, which is the energy required to ionize water).
+Equations (6) and (7) are equal, so this results in a vector-valued differential equation for the electric field, namely
+In this language, the ''near field'' refers to EM fields near the charges and current that directly produced them, specifically, electromagnetic induction and electrostatic induction phenomena.
+EM radiation with a wavelength between approximately 400 nm and 700&nbsp;nm is directly detected by the human eye and perceived as visible light.
+Ritter noted that the ultraviolet rays (which at first were called "chemical rays") were capable of causing chemical reactions.
+These extra terms are responsible for electromagnetic radiation.
+For instance, dark bands in the light emitted by a distant star are due to the atoms in the star's atmosphere.
+Electromagnetic waves can be polarized, reflected, refracted, diffracted or interfere with each other.
+Later, Albert Einstein proposed that light quanta be regarded as real particles.
+In one month, he discovered X-rays' main properties.
+In the case of the electric and magnetic fields, the speed is:
+When an electron in an excited molecule or atom descends to a lower energy level, it emits a photon of light at a frequency corresponding to the energy difference.
+If the fields have components in the same direction, they constructively interfere, while opposite directions cause destructive interference.
+More generally, the theory states that everything has both a particle nature and a wave nature, and various experiments can be done to bring out one or the other.
+As a wave, light is characterized by a velocity (the speed of light), wavelength, and frequency.
+Maxwell derived a wave form of the electric and magnetic equations, thus uncovering the wave-like nature of electric and magnetic fields and their symmetry.
+It is consequently absorbed by a wide range of substances, causing them to increase in temperature as the vibrations dissipate as heat.
+Ionizing UV is strongly filtered by the Earth's atmosphere).
+It is not too difficult to experimentally observe non-uniform deposition of energy when light is absorbed, however this alone is not evidence of "particulate" behavior.
+At radio and microwave frequencies, EMR interacts with matter largely as a bulk collection of charges which are spread out over large numbers of affected atoms.
+As waves cross boundaries between different media, their speeds change but their frequencies remain constant.
+For example, when electromagnetic radiation is absorbed by matter, particle-like properties will be more obvious when the average number of photons in the cube of the relevant wavelength is much smaller than 1.
+Animals that detect infrared make use of small packets of water that change temperature, in an essentially thermal process that involves many photons (see infrared sensing in snakes).
+However, in the far-field EM radiation which is described by the two source-free Maxwell curl operator equations, a more correct description is that a time-change in one type of field is proportional to a space-change in the other.
+A bold proposition by Louis de Broglie in 1924 led the scientific community to realize that electrons also exhibited wave–particle duality.
+:where  is d'Alembertian:
+Evaluating the left hand side:
+Here,  is the constant amplitude,  is any second differentiable function,  is a unit vector in the direction of propagation, and  is a position vector.
+A similar phenomenon occurs for emission, which is seen when an emitting gas glows due to excitation of the atoms from any mechanism, including heat.
+Both processes for producing electric and magnetic EMR fields have a different dependence on distance than do near-field dipole electric and magnetic fields.
+Any type of electromagnetic energy can be transformed into thermal energy in interaction with matter.
+One rule is obeyed regardless of circumstances: EM radiation in a vacuum travels at the speed of light, ''relative to the observer'', regardless of the observer's velocity.
+The distant EM field formed in this way by the acceleration of a charge carries energy with it that "radiates" away through space, hence the term.
+The first of Maxwell's equations implies that the electric field is orthogonal to the direction the wave propagates.
+The second of Maxwell's equations yields the magnetic field.
+At the lower end of the electromagnetic spectrum, about 20&nbsp;Hz to about 20&nbsp;kHz, are frequencies that might be considered in the audio range.
+Ultraviolet radiation from sun exposure is the primary cause of skin cancer.
+The frequency of a wave is its rate of oscillation and is measured in hertz, the SI unit of frequency, where one hertz is equal to one oscillation per second.
+In the Liénard–Wiechert potential formulation of the electric and magnetic fields due to motion of a single particle (according to Maxwell's equations), the terms associated with acceleration of the particle are those that are responsible for the part of the field that is regarded as electromagnetic radiation.
+These packets were called quanta.
+Electromagnetic waves were predicted by the classical laws of electricity and magnetism, known as Maxwell's equations.
+This oscillation at a given frequency gives rise to changing electric and magnetic fields, which then set the electromagnetic radiation in motion.
+It no longer has a strong connection to the direct fields of the charges, or to the velocity of the charges (currents).
+The electric and magnetic field waves in the far-field travel at the speed of light.
+These observations appeared to contradict the wave theory, and for years physicists tried in vain to find an explanation.
+where ''v'' is the speed of the wave (''c'' in a vacuum, or less in other media), ''f'' is the frequency and λ is the wavelength.
+Spectroscopy (for example) determines what chemical elements comprise a particular star.
+The electric field, magnetic field, and direction of wave propagation are all orthogonal, and the wave propagates in the same direction as .
+In 1905, Einstein explained this puzzle by resurrecting the particle theory of light to explain the observed effect.
+Electromagnetic waves in free space must be solutions of Maxwell's electromagnetic wave equation.
+For this reason, infrared, microwaves and radio waves are thought to damage molecules and biological tissue only by bulk heating, not excitation from single photons of the radiation.
+Planck's theory was based on the idea that black bodies emit light (and other electromagnetic radiation) only as discrete bundles or packets of energy.
+The far-field (EMR) depends on a different mechanism for its production than the near-field, and upon different terms in Maxwell’s equations.
+By the late nineteenth century, various experimental anomalies could not be explained by the simple wave theory.
+This is in contrast to dipole parts of the EM field close to the source (the near-field), which varies in power according to an inverse cube power law, and thus does ''not'' transport a conserved amount of energy over distances, but instead fades with distance, with its energy (as noted) rapidly returning to the transmitter or absorbed by a nearby receiver (such as a transformer secondary coil).
+Ritter's experiments were an early precursor to what would become photography.
+In fact, magnetic fields may be viewed as relativistic distortions of electric fields, so the close relationship between space and time changes here is more than an analogy.
+It may get dissipated into other microscopic motions within the matter, coming to thermal equilibrium and manifesting itself as thermal energy in the material.
+This distant part of the electromagnetic field ''is'' "electromagnetic radiation" (also called the far-field).
+The radiation from pitchblende was differentiated into alpha rays (alpha particles) and beta rays (beta particles) by Ernest Rutherford through simple experimentation in 1899, but these proved to be charged particulate types of radiation.
+Additionally, multiple polarization signals can be combined (i.e.
+To be heard, electromagnetic radiation must be converted to pressure waves of the fluid in which the ear is located (whether the fluid is air, water or something else).
+A single gamma ray photon, for example, might carry ~100,000 times the energy of a single photon of visible light.
+Evaluating the right hand side:
+A more compact view of EMR is that the far-field that composes EMR is generally that part of the EM field that has traveled sufficient distance from the source, that it has become completely disconnected from any feedback to the charges and currents that were originally responsible for it.
+EM waves carry energy, momentum and angular momentum away from their source particle and can impart those quantities to matter with which they interact.
+Waves of the electromagnetic spectrum vary in size, from very long radio waves the size of buildings to very short gamma rays smaller than atom nuclei.
+Since such radiation can severely damage life at energy levels that produce little heating, it is considered far more dangerous (in terms of damage-produced per unit of energy, or power) than the rest of the electromagnetic spectrum.
+where ''h'' is Planck's constant,  is the wavelength and ''c'' is the speed of light.
+A monochromatic electromagnetic wave can be characterized by its frequency or wavelength, its peak amplitude, its phase relative to some reference phase, its direction of propagation and its polarization.
+Immediate photon emission is called fluorescence, a type of photoluminescence.
+In 1900, Max Planck developed a new theory of black-body radiation that explained the observed spectrum.
+By contrast, high ultraviolet, X-rays and gamma rays have the ability to cause chemical reactions and damage living cells beyond that done by simple heating, since individual photons of such high frequency have enough energy to ionize molecules or affect chemical bonds.
+As with any time function, this can be decomposed by means of Fourier analysis into its frequency spectrum, or individual sinusoidal components, each of which contains a single frequency, amplitude and phase.
+A dark band appears to the detector, due to the radiation scattered out of the beam.
+Whereas the magnetic part of the near-field is due to currents in the source, the magnetic field in EMR is due only to the local change in the electric field.
+Wave characteristics are more apparent when EM radiation is measured over relatively large timescales and over large distances while particle characteristics are more evident when measuring small timescales and distances.
+Electrodynamics is the physics of electromagnetic radiaton, and electromagnetism is the physical phenomenon associated with the theory of electrodynamics.
+An example is visible light emitted from fluorescent paints, in response to ultraviolet (blacklight).
+The oscillations of the two fields are perpendicular to each other and perpendicular to the direction of energy and wave propagation, forming a transverse wave.
+The same process, run in reverse, causes bulk substances to radiate in the infrared spontaneously (see thermal radiation section below).
+Light usually has multiple frequencies that sum to form the resultant wave.
+According to Maxwell's equations, a spatially varying electric field is always associated with a magnetic field that changes over time.
+For EMR of visible frequencies or lower (i.e., radio, microwave, infrared, and visible light), the damage done to cells and other materials is determined mainly by power and caused primarily by heating effects from the combined energy transfer of many photons, so these are called ''nonionizing radiation''.
+This picture can be rotated with the electric field oscillating right and left and the magnetic field oscillating down and up.
+:simplifying the above by using equation (1).
+Electromagnetic radiation is associated with those EM waves that are free to propagate themselves ("radiate") without the continuing influence of the moving charges that produced them, because they have achieved sufficient distance from those charges.
+Experimental measurements demonstrated that the energy of individual ejected electrons was proportional to the ''frequency'', rather than the ''intensity'', of the light.
+Rather, it reflects the quantum nature of ''matter''.
+When any wire (or other conducting object such as an antenna) conducts alternating current, electromagnetic radiation is propagated at the same frequency as the current.
+Both types of waves can have a waveform which is an arbitrary time function (so long as it is sufficiently differentiable to conform to the wave equation).
+These properties of high-frequency EMR are due to quantum effects that permanently damage materials and tissues at the molecular level.
+Delayed emission is called phosphorescence.
+Maxwell’s equations were confirmed by Heinrich Hertz through experiments with radio waves.
+Interference is the superposition of two or more waves resulting in a new wave pattern.
+Maxwell's equations established that some charges and currents ("sources") produce a local type of electromagnetic field near them that does ''not'' have the behaviour of EMR.
+Instead, they cause electromagnetic field behaviour that only efficiently transfers power to a receiver very close to the source, such as the magnetic induction inside a transformer, or the feedback behaviour that happens close to the coil of a metal detector.
+This is a different solution that is traveling in the same direction.
+Electromagnetic waves can be characterized by either the frequency or wavelength of their oscillations, which determines their position in the electromagnetic spectrum, which includes, in order of increasing frequency and decreasing wavelength: radio waves, microwaves, infrared radiation, visible light, ultraviolet radiation, X-rays and gamma rays.
+This oscillating dipole moment is responsible for the phenomenon of radiative transition between quantum states of a charged particle.
+Maxwell therefore suggested that visible light (as well as invisible infrared and ultraviolet rays by inference) all consisted of propagating disturbances (or radiation) in the electromagnetic field.
+Because of the preponderance of evidence in favor of the wave theory, however, Einstein's ideas were met initially with great skepticism among established physicists.
+EM radiation exhibits both wave properties and particle properties at the same time (see wave-particle duality).
+When radio waves impinge upon a conductor, they couple to the conductor, travel along it and induce an electric current on the conductor surface by moving the electrons of the conducting material in correlated bunches of charge.
+The last portion of the EM spectrum to be discovered was associated with radioactivity.
+For these thermal effects, frequency is important only as it affects penetration into the organism (for example, microwaves penetrate better than infrared).
+UV, with X-ray and gamma radiation, are referred to as ionizing radiation due to the ability of photons of this radiation to produce ions and free radicals in materials (including living tissue).
+Limited evidence indicate that some reactive oxygen species are created by visible light in skin, and that these may have some role in photoaging, in the same manner as ultraviolet A.
+These differential equations are equivalent to the wave equation:
+In 1905, Einstein proposed that space and time appeared to be velocity-changeable entities for light propagation and all other processes and laws.
+Maxwell's equations unified the vacuum permittivity , the vacuum permeability , and the speed of light itself, ''c''0.
+However, unlike lower-frequency radio and microwave radiation, Infrared EMR commonly interacts with dipoles present in single molecules, which change as atoms vibrate at the ends of a single chemical bond.
+However, in 1900 the French scientist Paul Villard discovered a third neutrally charged and especially penetrating type of radiation from radium, and after he described it, Rutherford realized it must be yet a third type of radiation, which in 1903 Rutherford named gamma rays.
+Experiments failed to find any observer effect.
+This relationship between the two occurs without either type field causing the other; rather, they occur together in the same way that time and space changes occur together and are interlinked in special relativity.
+Any electric charge that accelerates, or any changing magnetic field, produces electromagnetic radiation.
+The modern theory that explains the nature of light includes the notion of wave–particle duality.
+In many such situations it is possible to identify an electrical dipole moment that arises from separation of charges due to the exciting electrical potential, and this dipole moment oscillates in time, as the charges move back and forth.
+The resulting radiation may subsequently be absorbed by another piece of matter, with the deposited energy heating the material.
+That is why the EMR type of EM field becomes dominant in power “far” from sources.
+Since the energy levels of electrons in atoms are discrete, each element and each molecule emits and absorbs its own characteristic frequencies.
+It is not a coincidence that this happens in the "visible range," as the mechanism of vision involves the change in bonding of a single molecule (retinal) which absorbs light in the rhodopsin in the retina of the human eye.
+This happens for infrared, microwave and radio wave radiation.
+With a few exceptions related to high-energy photons (such as fluorescence, harmonic generation, photochemical reactions, the photovoltaic effect for ionizing radiations at far ultraviolet, X-ray and gamma radiation), absorbed electromagnetic radiation simply deposits its energy by heating the material.
+interfered) to form new states of polarization, which is known as parallel polarization state generation.
+One very general example is a form of the electric field equation, which was factorized into a pair of explicitly directional wave equations, and then efficiently reduced into a single uni-directional wave equation by means of a simple slow-evolution approximation.
+Electric and magnetic fields obey the properties of superposition.
+The term “far from sources” refers to how far from the source (moving at the speed of light) any portion of the outward-moving EM field is located, by the time that source currents are changed by the varying source potential, and the source has therefore begun to generate an outwardly moving EM field of a different phase.
+Lower frequencies have longer wavelengths, and higher frequencies have shorter wavelengths, and are associated with photons of higher energy.
+However, electromagnetic waves cannot be directly perceived by human ears.
+Charged particles in a stationary state do not move, but a superposition of such states may result in a transition state that has an electric dipole moment that oscillates in time.
+By contrast, the term associated with the changing static electric field of the particle and the magnetic term that results from the particle's uniform velocity, are both associated with the electromagnetic near-field, and do not comprise EM radiation.
+In a similar way, while the electric field in the near-field is due directly to the charges and charge-separation in the source, the electric field in EMR is due to a change in the local magnetic field.
+Beginning with Maxwell's equations in free space:
+Applying a similar pattern results in similar differential equation for the magnetic field:
+Ritter noted that invisible rays near the violet edge of a solar spectrum dispersed by a triangular prism darkened silver chloride preparations more quickly than did the nearby violet light.
+Now independent of the source charges, the EM field, as it moves farther away, is dependent only upon the accelerations of the charges that produced it.
+This process makes ionizing radiation far more dangerous per unit of energy than non-ionizing radiation.
+Accurate treatment thus incorporates a concept known as retarded time, which adds to the expressions for the electrodynamic electric field and magnetic field.
+Such effects can cover macroscopic distances in conductors (such as radio antennas), since the wavelength of radiowaves is long.
+In DNA, this causes lasting damage.
+This form will satisfy the wave equation.
+When a single photon is sent through an interferometer, it passes through both paths, interfering with itself, as waves do, yet is detected by a photomultiplier or other sensitive detector only once.
+Finally, at radio wavelengths longer than 10 meters or so (about 30&nbsp;MHz), the air in the lower atmosphere remains transparent to radio, but plasma in certain layers of the ionosphere begins to interact with radio waves (see skywave).
+They have a special restricted orientation and proportional magnitudes, , which can be seen immediately from the Poynting vector.
+This relationship had been discovered by Wilhelm Eduard Weber and  Rudolf Kohlrausch prior to the development of Maxwell's electrodynamics, however Maxwell was the first to produce a field theory consistent with waves traveling at the speed of light.
+Electromagnetic waves are produced whenever charged particles are accelerated, and these waves can subsequently interact with any charged particles.
+Furthermore, below a certain minimum frequency, which depended on the particular metal, no current would flow regardless of the intensity.
+As frequency increases into the visible range, photons have enough energy to change the bond structure of some individual molecules.
+Currents directly produce a magnetic field, but it is of a magnetic dipole type that dies out with distance from the current.
+Because such waves conserve the amount of energy they transmit through any spherical boundary surface drawn around their source, and because such surfaces have an area that is defined by the square of the distance from the source, the power of EM radiation always varies according to an inverse-square law.
+Fundamental mechanisms of the interaction between biological material and electromagnetic fields at non-thermal levels are not fully understood.
+For example, epidemiological studies looking for a relationship between cell phone use and brain cancer development, have been largely inconclusive, save to demonstrate that the effect, if it exists, cannot be a large one.
+An example is absorption or emission of radio waves by antennas, or absorption of microwaves by water or other molecules with an electric dipole moment, as for example inside a microwave oven.
+Such a component wave is said to be ''monochromatic''.
+Both wave and particle characteristics have been confirmed in many experiments.
+All UV frequences have been classed as Group 1 carcinogens by the World Health Organization.
+These are only two equations versus the original four, so more information pertains to these waves hidden within Maxwell's equations.
+Spectroscopy is also used in the determination of the distance of a star, using the red shift.
+Herschel used a glass prism to refract light from the Sun and detected invisible rays that caused heating beyond the red part of the spectrum, through an increase in the temperature recorded with a thermometer.
+In quantum theory (see first quantization) the energy of the photons is thus directly proportional to the frequency of the EMR wave.
+Such a representation is called the power spectral density of the random process.
+Wilhelm Röntgen discovered and named X-rays.
+However, in nonlinear media, such as some crystals, interactions can occur between light and static electric and magnetic fields — these interactions include the Faraday effect and the Kerr effect.
+In electrical conductors, such induced bulk movement of charges (electric currents) results in absorption of the EMR, or else separations of charges that cause generation of new EMR (effective reflection of the EMR).
+(This observation led to Einstein's development of the theory of special relativity.)
+The curl of equation (2):
+The speed of light and other EMR predicted by Maxwell's equations did not appear unless the equations were modified in a way first suggested by FitzGerald and Lorentz (see history of special relativity), or else otherwise that speed would depend on the speed of observer relative to the "medium" (called luminiferous aether) which supposedly "carried" the electromagnetic wave (in a manner analogous to the way air carries sound waves).
+Hertz also developed ways to detect these waves, and produced and characterized what were later termed radio waves and microwaves.
+Because the speed of EM waves predicted by the wave equation coincided with the measured speed of light, Maxwell concluded that light itself is an EM wave.
+Also, '''E''' and '''B''' far-fields in free space, which as wave solutions depend primarily on these two Maxwell equations, are in-phase with each other.
+Much of the thermal energy in matter consists of random motion of charged particles, and this energy can be radiated away from the matter.
+Further, as they are vector fields, all magnetic and electric field vectors add together according to vector addition.
+Radio waves were first produced deliberately by Heinrich Hertz in 1887, using electrical circuits calculated to produce oscillations at a much lower frequency than that of visible light, following recipes for producing oscillating charges and currents suggested by Maxwell's equations.
+It could be immediately re-radiated and appear as scattered, reflected, or transmitted radiation.
+The discovery of infrared radiation is ascribed to astronomer William Herschel, who published his results in 1800 before the Royal Society of London.
+In 1862-4 James Clerk Maxwell developed equations for the electromagnetic field which suggested that waves in the field would travel with a speed that was very close to the known speed of light.
+Despite this opinion among researchers, evidence has accumulated that supports the existence of complex biological effects of weaker ''non-thermal'' electromagnetic fields, (including weak ELF magnetic fields, although the latter does not strictly qualify as EM radiation), and modulated RF and microwave fields.
+After experimenting with high voltages applied to an evaccuated tube on 8 November 1895, he noticed a fluorescence on a nearby plate of coated glass.

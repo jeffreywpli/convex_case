@@ -1,0 +1,200 @@
+The electrons in an atom are attracted to the protons in the nucleus by the electromagnetic force.
+Atoms can also combine to create materials that do not consist of discrete molecules, including crystals and liquid or solid metals.
+A more area-selective method is electron energy loss spectroscopy, which measures the energy loss of an electron beam within a transmission electron microscope when it interacts with a portion of a sample.
+Neutrons consist of one up quark and two down quarks.
+The gluon is a member of the family of gauge bosons, which are elementary particles that mediate physical forces.
+At temperatures close to absolute zero, atoms can form a Bose–Einstein condensate, at which point quantum mechanical effects, which are normally only observed at the atomic scale, become apparent on a macroscopic scale.
+The protons and neutrons, in turn, are held to each other in the nucleus by the nuclear force, which is a residuum of the strong force that has somewhat different range-properties (see the article on the nuclear force for more).
+If an atom has more or fewer electrons than protons, then it has an overall negative or positive charge, respectively, and it is called an ion.
+This unit is defined as a twelfth of the mass of a free neutral atom of carbon-12, which is approximately .
+Stability of isotopes is affected by the ratio of protons to neutrons, and also by the presence of certain "magic numbers" of neutrons or protons that represent closed and filled quantum shells.
+The number of electrons influences the magnetic properties of an atom.
+Valency is the combining power of an element.
+Atomic dimensions are thousands of times smaller than the wavelengths of light (400–700&nbsp;nm) so they cannot be viewed using an optical microscope.
+Most of the helium in the crust of the Earth (about 99% of the helium from gas wells, as shown by its lower abundance of helium-3) is a product of alpha decay.
+The radius varies with the location of an atom on the atomic chart, the type of chemical bond, the number of neighboring atoms (coordination number) and a quantum mechanical property known as spin.
+This occurs when a high-energy proton strikes an atomic nucleus, causing large numbers of nucleons to be ejected.
+As a result, their views on what atoms look like and how they behave were incorrect.
+These superheavy elements may have a nucleus that is relatively stable against radioactive decay.
+Ernest Rutherford (1919) observed that nitrogen under alpha-particle bombardment ejects what appeared to be hydrogen nuclei.
+The first causes of this imbalance are not yet fully understood, although theories of baryogenesis may offer an explanation.
+In 1944, Hahn received the Nobel prize in chemistry.
+Within a galaxy such as the Milky Way, atoms have a much higher concentration, with the density of matter in the interstellar medium (ISM) ranging from 105 to 109 atoms/m3.
+The physicist J. J. Thomson measured the mass of cathode rays, showing they were made of particles, but were around 1800 times lighter than the lightest atom, hydrogen.
+The number of protons in an atom is called its atomic number.
+Spin is measured in units of the reduced Planck constant (ħ), with electrons, protons and neutrons all having spin ½&nbsp;ħ, or "spin-½".
+If this modifies the number of protons in a nucleus, the atom changes to a different chemical element.
+In 1909, Hans Geiger and Ernest Marsden, under the direction of Ernest Rutherford, bombarded a metal foil with alpha particles to observe how they scattered.
+It is equal to number of hydrogen atoms that atom can combine or displace in forming compounds.
+* Beta decay (and electron capture): these processes are regulated by the weak force, and result from a transformation of a neutron into a proton, or a proton into a neutron.
+For example, an electron can be replaced by a more massive muon, forming a muonic atom.
+It was quickly recognized that they are the particles that carry electric currents in metal wires, and carry the negative electric charge within atoms.
+In the quantum-mechanical model, a bound electron can only occupy a set of states centered on the nucleus, and each state corresponds to a specific energy level; see time-independent Schrödinger equation for theoretical explanation.
+Atomic radii may be derived from the distances between two nuclei when the two atoms are joined in a chemical bond.
+The total number of these particles (called "nucleons") in a given atom is called the mass number.
+Finally, an additional 51 short-lived nuclides are known to occur naturally, as daughter products of primordial nuclide decay (such as radium from uranium), or else as products of natural energetic processes on Earth, such as cosmic ray bombardment (for example, carbon-14).
+This is much smaller than the radius of the atom, which is on the order of 105&nbsp;fm.
+The value of this number is called the atomic mass.
+It is this energy-releasing process that makes nuclear fusion in stars a self-sustaining reaction.
+It confirms that for low bias, the microscope images the space-averaged dimensions of the electron orbitals across closely packed energy levels—the Fermi level local density of states.
+Those excited electrons that remain bound to their atom spontaneously emit this energy as a photon, traveling in a random direction, and so drop back to lower energy levels.
+There are two types of quarks in atoms, each having a fractional electric charge.
+A year later, Lise Meitner and her nephew Otto Frisch verified that Hahn's result were the first experimental ''nuclear fission''.
+Normally nuclei with spin are aligned in random directions because of thermal equilibrium.
+This physical property is used to make lasers, which can emit a coherent beam of light energy in a narrow frequency band.
+This atomic matter forms networked arrangements that lack the particular type of small-scale interrupted order associated with molecular matter.
+The interaction of the magnetic field with the atom shifts these electron configurations to slightly different energy levels, resulting in multiple spectral lines.
+In 1938, the German chemist Otto Hahn, a student of Rutherford, directed neutrons onto uranium atoms expecting to get transuranium elements.
+Examples include the element carbon and the organic compounds.
+In the early 1800s, John Dalton used the concept of atoms to explain why elements always react in ratios of small whole numbers (the law of multiple proportions).
+In ferromagnetic elements such as iron, cobalt and nickel, an odd number of electrons leads to an unpaired electron and a net overall magnetic moment.
+These colors can be replicated using a gas-discharge lamp containing the same element.
+In this type of decay, an electron is absorbed by the nucleus, rather than a positron emitted from the nucleus.
+Where the temperature is much higher than ionization potential, the matter exists in the form of plasma—a gas of positively charged ions (possibly, bare nuclei) and electrons.
+Thus, the planetary model of the atom was discarded in favor of one that described atomic orbital zones around the nucleus where a given electron is most likely to be observed.
+Therefore, they were not atoms, but a new particle, the first ''subatomic'' particle to be discovered, which he originally called "''corpuscle''" but was later named ''electron'', after particles postulated by George Johnstone Stoney in 1874.
+Gaseous allotropes exist as well, such as dioxygen and ozone.
+Thomson was given the 1906 Nobel Prize in Physics for this work.
+This occurs because of spin–orbit coupling, which is an interaction between the spin and motion of the outermost electron.
+The Earth contains approximately  atoms.
+Atomic nuclei forms in nucleosynthesis reactions.
+Elements 43, 61, and all elements numbered 83 or higher have no stable isotopes.
+Scanning one atom (taken as the tip) as it moves past the other (the sample) permits plotting of tip displacement versus lateral separation for a constant current.
+Electrons, like other particles, have properties of both a particle and a wave.
+Protons are composed of two up quarks (each with charge +) and one down quark (with a charge of −).
+Atoms tend to chemically react with each other in a manner that fills (or empties) their outer valence shells.
+When a continuous spectrum of energy is passed through a gas or plasma, some of the photons are absorbed by atoms, causing electrons to change their energy level.
+For 80 of the chemical elements, at least one stable isotope exists.
+For example, if a single photon strikes the electrons, only a single electron changes states in response to the photon; see Electron properties.
+For heavier nuclei, the binding energy per nucleon in the nucleus begins to decrease.
+However, atoms do not have well-defined boundaries, and there are different ways to define their size that give different but close values.
+In the Standard Model of physics, electrons are truly elementary particles with no internal structure.
+Since the Big Bang, which produced no carbon or heavier elements, atomic nuclei have been combined in stars through the process of nuclear fusion to produce more of the element helium, and (via the triple alpha process) the sequence of elements from carbon up to iron; see stellar nucleosynthesis for details.
+These characteristic energy values, defined by the differences in the energies of the quantum states, are responsible for atomic spectral lines.
+Under certain circumstances the repelling electromagnetic force becomes stronger than the nuclear force, and nucleons can be ejected from the nucleus, leaving behind a different element: nuclear decay resulting in nuclear transmutation.
+Close examination of the spectral lines reveals that some display a fine structure splitting.
+Though the word ''atom'' originally denoted a particle that cannot be cut into smaller particles, in modern scientific usage the atom is composed of various subatomic particles.
+It is a positive integer and dimensionless (instead of having dimension of mass), because it expresses a count.
+This model was able to explain observations of atomic behavior that previous models could not, such as certain structural and spectral patterns of atoms larger than hydrogen.
+Fermions obey the Pauli exclusion principle which prohibits ''identical'' fermions, such as multiple protons, from occupying the same quantum state at the same time.
+* Gamma decay: this process results from a change in the energy level of the nucleus to a lower state, resulting in the emission of electromagnetic radiation.
+If an atom has more or fewer electrons than its atomic number, then it becomes respectively negatively or positively charged as a whole; a charged atom is called an ion.
+Neutrons and protons were found to be hadrons, or composites of smaller particles called quarks.
+The word "atom" was coined by ancient Greek philosophers.
+Thus he overturned the belief that atoms are the indivisible, ultimate particles of matter.
+For example, it requires only 13.6&nbsp;eV to strip a ground-state electron from a hydrogen atom, compared to 2.23&nbsp;''million'' eV for splitting a deuterium nucleus.
+For this to occur, the electron must drop to a lower energy state that has an energy difference matching the energy of the interacting photon.
+Quantities of atoms are found in different states of matter that depend on the physical conditions, such as temperature and pressure.
+Spectroscopic measurements of the strength and width of atomic spectral lines allow the composition and physical properties of a substance to be determined.
+An energy level can be measured by the amount of energy needed to unbind the electron from the atom, and is usually given in units of electronvolts (eV).
+The chemical elements are often displayed in a periodic table that is laid out to display recurring chemical properties, and elements with the same number of valence electrons form a group that is aligned in the same column of the table.
+The orbitals of neighboring atoms overlap and a lower energy state is achieved when the spins of unpaired electrons are aligned with each other, a spontaneous process known as an exchange interaction.
+that shell are called valence electrons.
+The standard model of particle physics was developed that so far has successfully explained the properties of the nucleus in terms of these sub-atomic particles and the forces that govern their interactions.
+The idea that matter is made up of discrete units is a very old idea, appearing in many ancient cultures such as Greece and India.
+behavior with other atoms.
+The nucleus of an atom will have no spin when it has even numbers of both neutrons and protons, but for other cases of odd numbers, the nucleus may have a spin.
+Atoms that have either a deficit or a surplus of electrons are called ions.
+This became known as the plum pudding model.
+The radius by which the trajectory of a moving ion is turned by the magnetic field is determined by the mass of the atom.
+At the surface of the Earth, an overwhelming majority of atoms combine to form various compounds, including water, salt, silicates and oxides.
+It uses the quantum tunneling phenomenon, which allows particles to pass through a barrier that would normally be insurmountable.
+As a rule, there is only a handful of stable isotopes for each of these elements, the average being 3.2 stable isotopes per element.
+In 1827, botanist Robert Brown used a microscope to look at dust grains floating in water and discovered that they moved about erratically, a phenomenon that became known as "Brownian motion".
+An atom can be ionized by removing one of its electrons.
+The Sun is believed to be inside the Local Bubble, a region of highly ionized gas, so the density in the solar neighborhood is only about 103 atoms/m3.
+Most of the atoms that make up the Earth and its inhabitants were present in their current form in the nebula that collapsed out of a molecular cloud to form the Solar System.
+However, only 90 of these nuclides are stable to all decay, even in theory.
+Atoms (complete with bound electrons) became to dominate over charged particles 380,000&nbsp;years after the Big Bang—an epoch called recombination, when the expanding Universe cooled enough to allow electrons to become attached to nuclei.
+However, as the atomic number increases, a higher proportion of neutrons is required to offset the mutual repulsion of the protons.
+The Stern–Gerlach experiment of 1922 provided further evidence of the quantum nature of the atom.
+For example, at the core of the Sun protons require energies of 3–10 keV to overcome their mutual repulsion—the coulomb barrier—and fuse together into a single nucleus.
+Up to 95% of the Milky Way's atoms are concentrated inside stars and the total mass of atoms forms about 10% of the mass of the galaxy.
+Neutrons and protons (collectively known as nucleons) have comparable dimensions—on the order of —although the 'surface' of these particles is not sharply defined.
+Thus these spins cancel each other out, reducing the total magnetic dipole moment to zero in some atoms with even number of electrons.
+In the case of tin oxides, one tin atom will combine with either one or two oxygen atoms.
+Electrons have been known since the late 19th century, mostly thanks to J.J. Thomson; see history of subatomic physics for details.
+Within a single element, the number of neutrons may vary, determining the isotope of that element.
+On the periodic table of the elements, atom size tends to increase when moving down columns, but decrease when moving across rows (left to right).
+The excited state of a nucleus which results in gamma emission usually occurs following the emission of an alpha or a beta particle.
+The explanation for these different isotopes awaited the discovery of the neutron, an uncharged particle with a mass similar to the proton, by the physicist James Chadwick in 1932.
+The proton, the electron, and the neutron are classified as fermions.
+This has important applications in magnetic resonance imaging.
+Chemical bonds between atoms were now explained, by Gilbert Newton Lewis in 1916, as the interactions between their constituent electrons.
+The fusion of two nuclei that create larger nuclei with lower atomic numbers than iron and nickel—a total nucleon number of about 60—is usually an exothermic process that releases more energy than is required to bring them together.
+The potential energy of an electron in an atom is negative, its dependence of its position reaches the minimum (the most absolute value) inside the nucleus, and vanishes when the distance from the nucleus goes to infinity, roughly in an inverse proportion to the distance.
+It is the lightest particle with a positive rest mass measured.
+However, Geiger and Marsden spotted alpha particles being deflected by angles greater than 90°, which was supposed to be impossible according to Thomson's model.
+The constituent particles of an atom are the electron, the proton and the neutron; all three are fermions.
+Atoms are very small; typical sizes are around 100&nbsp;pm (a ten-billionth of a meter, in the short scale).
+Of the 254 known stable nuclides, only four have both an odd number of protons ''and'' odd number of neutrons: hydrogen-2 (deuterium), lithium-6, boron-10 and nitrogen-14.
+The radius of a nucleus is approximately equal to 1.07&nbsp;&nbsp;fm, where ''A'' is the total number of nucleons.
+At distances smaller than 2.5 fm this force is much more powerful than the electrostatic force that causes positively charged protons to repel each other.
+Protons and neutrons are called nucleons.
+The number of valence electrons determines the bonding
+Each atomic orbital corresponds to a particular energy level of the electron.
+The large majority of an atom's mass comes from the protons and neutrons that make it up.
+An '''atom''' is the smallest constituent unit of ordinary matter that has the properties of a chemical element.
+For example, all hydrogen atoms admit exactly one proton, but isotopes exist with no neutrons (hydrogen-1, by far the most common form, also called protium), one neutron (deuterium), two neutrons (tritium) and more than two neutrons.
+If a bound electron is in an excited state, an interacting photon with the proper energy can cause stimulated emission of a photon with a matching energy level.
+In the 1950s, the development of improved particle accelerators and particle detectors allowed scientists to study the impacts of atoms moving at high energies.
+By 1920 he had accepted that the hydrogen nucleus is a distinct particle within the atom and named it proton.
+This number was chosen so that if an element has an atomic mass of 1&nbsp;u, a mole of atoms of that element has a mass close to one gram.
+Because of this, along with an imbalance between the number of matter and antimatter particles, the latter are rare in the universe.
+Until these experiments, atomic number was not known to be a physical and experimental quantity.
+A neutrino is still emitted in this process, and a proton changes to a neutron.
+Under ordinary conditions, electrons are bound to the positively charged nucleus by the attraction created from opposite electric charges.
+Stars form from dense clouds in the ISM, and the evolutionary processes of stars result in the steady enrichment of the ISM with elements more massive than hydrogen and helium.
+The electron can change its state to a higher energy level by absorbing a photon with sufficient energy to boost it into the new quantum state.
+French physicist Jean Perrin used Einstein's work to experimentally determine the mass and dimensions of atoms, thereby conclusively verifying Dalton's atomic theory.
+The neutron was discovered in 1932 by the English physicist James Chadwick.
+J.J. Thomson created a technique for separating atom types through his work on ionized gases, which subsequently led to the discovery of stable isotopes.
+The nucleus is made of one or more protons and typically a similar number of neutrons.
+The quarks are held together by the strong interaction (or strong force), which is mediated by gluons.
+For example, he found that water absorbs carbon dioxide far better than it absorbs nitrogen.
+stationary state, while an electron transition to a higher level results in an excited state.
+Orbitals can have one or more ring or node structures, and differ from each other in size, shape and orientation.
+The presence of an external electric field can cause a comparable splitting and shifting of spectral lines by modifying the electron energy levels, a phenomenon called the Stark effect.
+Paramagnetic materials have atoms with magnetic moments that line up in random directions when no magnetic field is present, but the magnetic moments of the individual atoms line up in the presence of a field.
+When a beam of silver atoms was passed through a specially shaped magnetic field, the beam was split based on the direction of an atom's angular momentum, or spin.
+When the magnetic moments of ferromagnetic atoms are lined up, the material can produce a measurable macroscopic field.
+In an atom, electrons in motion around the nucleus possess orbital angular momentum in addition to their spin, while the nucleus itself possesses angular momentum due to its nuclear spin.
+Due to the nature of electrons to obey the Pauli exclusion principle, in which no two electrons may be found in the same quantum state, bound electrons pair up with each other, with one member of each pair in a spin up state and the other in the opposite, spin down state.
+The device uses a magnet to bend the trajectory of a beam of ions, and the amount of deflection is determined by the ratio of an atom's mass to its charge.
+More than 99.94% of an atom's mass is in the nucleus.
+Each radioactive isotope has a characteristic decay time period—the half-life—that is determined by the amount of time needed for half of a sample to decay.
+Ubiquitousness and stability of atoms relies on their binding energy, which means that an atom has a lower energy than an unbound system of the nucleus and electrons.
+However, both protons and neutrons are composite particles composed of elementary particles called quarks.
+About 339 nuclides occur naturally on Earth, of which 254 (about 75%) have not been observed to decay, and are referred to as "stable isotopes".
+The calculation shows the extent to which scanning-tunneling-microscope images of an individual atom are visible.
+(An observer viewing the atoms from a view that does not include the continuous spectrum in the background, instead sees a series of emission lines from the photons emitted by the atoms.)
+(The horizontal rows correspond to the filling of a quantum shell of electrons.)
+If a sample contains multiple isotopes, the mass spectrometer can determine the proportion of each isotope in the sample by measuring the intensity of the different beams of ions.
+A given atom has an atomic mass approximately equal (within 1%) to its mass number times the atomic mass unit (for example the mass of a nitrogen-14 is roughly 14&nbsp;u).
+However, these ideas were founded in philosophical and theological reasoning rather than evidence and experimentation.
+Every atom is composed of a nucleus and one or more electrons bound to the nucleus.
+Techniques to vaporize atoms include inductively coupled plasma atomic emission spectroscopy and inductively coupled plasma mass spectrometry, both of which use a plasma to vaporize samples for analysis.
+The lowest energy state of a bound electron is called the ground state, i.e.
+If an apple were magnified to the size of the Earth, then the atoms in the apple would be approximately the size of the original apple.
+However, for certain elements (such as xenon-129) it is possible to polarize a significant proportion of the nuclear spin states so that they are aligned in the same direction—a condition called hyperpolarization.
+These types of atoms can be used to test the fundamental predictions of physics.
+In this concept, for a given accuracy in measuring a position one could only obtain a range of probable values for momentum, and vice versa.
+The electron is by far the least massive of these particles at , with a negative electrical charge and a size that is too small to be measured using available techniques.
+They expected all the alpha particles to pass straight through with little deflection, because Thomson's model said that the charges in the atom are so diffuse that their electric fields could not affect the alpha particles much.
+Thus, gamma decay usually follows alpha or beta decay.
+Significant ellipsoidal deformations have recently been shown to occur for sulfur ions and chalcogen ions in pyrite-type compounds.
+Atoms can attach to one or more other atoms by chemical bonds to form chemical compounds such as molecules.
+Groups of electrons were thought to occupy a set of electron shells about the nucleus.
+The ability of atoms to associate and dissociate is responsible for most of the physical changes observed in nature, and is the subject of the discipline of chemistry.
+An additional 34 radioactive nuclides have half-lives longer than 80 million years, and are long-lived enough to be present from the birth of the solar system.
+These are also formally classified as "stable".
+Thus, the positron is a positively charged antielectron and the antiproton is a negatively charged equivalent of a proton.
+An analog of gamma emission which allows excited nuclei to lose energy in a different way, is internal conversion— a process that produces high-speed electrons that are not beta rays, followed by production of high-energy photons that are not gamma rays.
+The neutron to proton transition is accompanied by the emission of an electron and an antineutrino, while proton to neutron transition (except in electron capture) causes the emission of a positron and a neutrino.
+To explain this, Rutherford proposed that the positive charge of the atom is concentrated in a tiny nucleus at the center of the atom.
+Dependence of the energy on  is caused not by electrostatic potential of the nucleus, but by interaction between electrons.
+The deformation depends on the field magnitude and the orbital type of outer shell electrons, as shown by group-theoretical considerations.
+The emitted photon and the interacting photon then move off in parallel and with matching phases.
+This distinction accounts for the difference in mass and charge between the two particles.
+grounded state to first excited level (ionization), it must absorb or emit a photon at an energy matching the difference in the potential energy of those levels, according to Niels Bohr model, what can be precisely calculated by the Schrödinger equation.
+The heaviest stable atom is lead-208, with a mass of .

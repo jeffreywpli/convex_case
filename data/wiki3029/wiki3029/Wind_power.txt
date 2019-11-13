@@ -1,0 +1,200 @@
+Wind is the movement of air across the surface of the Earth, affected by areas of high pressure and of low pressure.
+There are reports of bird and bat mortality at wind turbines as there are around other artificial structures.
+There are anecdotal reports of negative health effects from noise on people who live very close to wind turbines.
+Wind-powered pumps drained the polders of the Netherlands, and in arid regions such as the American mid-west or the Australian outback, wind pumps provided water for live stock and steam engines.
+Multi state power transmission projects are discouraged by states with cheap electricity rates for fear that exporting their cheap power will lead to increased rates.
+In 2004, wind energy cost a fifth of what it did in the 1980s, and some expected that downward trend to continue as larger multi-megawatt turbines were mass-produced.
+Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially.
+Thus the intermittencies of wind and solar power tend to cancel each other somewhat.
+It has been suggested that a subsidy shift would help to level the playing field and support growing energy sectors, namely solar power, wind power, and biofuels.
+Slightly larger turbines can be used for making small contributions to a domestic power supply while selling unused power back to the utility supplier via the electrical grid.
+However research at Harvard University estimates 1 Watt/m2 on average and 2–10 MW/km2 capacity for large scale wind farms, suggesting that these estimates of total global wind resources are too high by a factor of about 4.
+The environmental impact of wind power when compared to the environmental impacts of fossil fuels, is relatively minor.
+The Energy Improvement and Extension Act of 2008 contains extensions of credits for wind, including microturbines.
+Intermittency and the non-dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve, and (at high penetration levels) could require an increase in the already existing energy demand management, load shedding, storage solutions or system interconnection with HVDC cables.
+The ratio of actual productivity in a year to this theoretical maximum is called the capacity factor.
+Similar comparative results with natural gas were obtained in a governmental study in the UK in 2011.
+At lower wind power grid penetration, this is less of an issue.
+Source:''Observ'ER – Electricity Production From Wind Sources 2012''
+111 × Siemens SWT-3.6–120
+Companies use wind-generated power, and in return they can claim that they are undertaking strong "green" efforts.
+This gives a very even overall power supply and virtually no loss of energy and uses no more water.
+These installations can utilize the more frequent and powerful winds that are available in these locations and have less aesthetic impact on the landscape than land based projects.
+Blyth offered the surplus electricity to the people of Marykirk for lighting the main street, however, they turned down the offer as they thought electricity was "the work of the devil."
+Small onshore wind farms can feed some energy into the grid or provide electricity to isolated off-grid locations.
+The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources.
+Since wind speed is not constant, a wind farm's annual energy production is never as much as the sum of the generator nameplate ratings multiplied by the total hours in a year.
+Some wind farms have become tourist attractions.
+At a residential distance of  this may be around 45&nbsp;dB, which is slightly louder than a refrigerator.
+Offshore wind power capacity is expected to reach a total of 75 GW worldwide by 2020, with significant contributions from China and the US.
+Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system.
+When including the current Australian federal government carbon pricing scheme their modeling gives costs (in Australian dollars) of $80/MWh for new wind farms, $143/MWh for new coal plants and $116/MWh for new baseload gas plants.
+During this same time frame, renewable energy technologies and energy efficiency received a total of US$26&nbsp;billion.
+The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations.
+In other cases there is direct community ownership of wind farm projects.
+This will include power factor, constancy of frequency and dynamic behaviour of the wind farm turbines during a system fault.
+Blyth's 10 m high, cloth-sailed wind turbine was installed in the garden of his holiday cottage at Marykirk in Kincardineshire and was used to charge accumulators developed by the Frenchman Camille Alphonse Faure, to power the lighting in the cottage, thus making it the first house in the world to have its electricity supplied by wind power.
+The modeling also shows that "even without a carbon price (the most efficient way to reduce economy-wide emissions) wind energy is 14% cheaper than new coal and 18% cheaper than new gas."
+The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model.
+According to the International Energy Agency (IEA) (2011), energy subsidies artificially lower the price of energy paid by consumers, raise the price received by producers or lower the cost of production.
+One of the biggest current challenges to wind power grid integration in the United States is the necessity of developing new transmission lines to carry power from wind farms, usually in remote lowly populated states in the middle of the country due to availability of wind, to high load locations, usually on the coasts where population density is higher.
+Modern concepts use either doubly fed machines with partial-scale converters or squirrel-cage induction generators or synchronous generators (both permanently and electrically excited) with full scale converters.
+Oppose more than favour
+Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty.
+The global wind kinetic energy averaged approximately 1.50 MJ/m2 over the period from 1979 to 2010, 1.31 MJ/m2 in the Northern Hemisphere with 1.70 MJ/m2 in the Southern Hemisphere.
++ Increase in system operation costs, Euros per MWh, for 10% & 20% wind share
+The plan aims to decrease Germany's dependence on energy derived from coal and nuclear power plants.
+Wind farms consist of many individual wind turbines which are connected to the electric power transmission network.
+Offshore wind is steadier and stronger than on land, and offshore farms have less visual impact, but construction and maintenance costs are considerably higher.
+Part of the higher costs for new coal plants is due to high financial lending costs because of "the reputational damage of emissions-intensive investments".
+Although the wind power industry was affected by the global financial crisis in 2009 and 2010, GWEC predicts that the installed capacity of wind power will be 792.1 GW by the end of 2020 and 4,042 GW by end of 2050.
+On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored or exported.
+To assess prospective wind power sites a probability distribution function is often fit to the observed wind speed data.
+A wind farm may also be located offshore.
+Construction of a new high-voltage line may be too costly for the wind resource alone, but wind sites may take advantage of lines installed for conventionally fueled generation.
+These are important issues that need to be solved, as when the transmission capacity does not meet the generation capacity, wind farms are forced to produce below their full potential or stop running all together, in a process known as curtailment.
+A 30% tax credit can be applied instead of receiving the PTC.
+Thirty-five percent of all new power generation built in the United States since 2005 has come from wind, more than new gas and coal plants combined, as power providers are increasingly enticed to wind as a convenient hedge against unpredictable commodity price moves."
+In the U.S., the wind power industry has recently increased its lobbying efforts considerably, spending about $5 million in 2009 after years of relative obscurity in Washington.
+Wind power is variable, and during low wind periods it must be replaced by other power sources.
+While this leads to potential renewable generation left untapped, it prevents possible grid overload or risk to reliable service.
+In November 2011, an IEA report entitled ''Deploying Renewables 2011'' said "subsidies in green energy technologies that were not yet competitive are justified in order to give an incentive to investing into technologies with clear environmental and energy security benefits".
+Appropriate government consultation, planning and approval procedures also help to minimize environmental risks.
+Wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time.
+In other cases there is direct community ownership of wind farm projects.
+History shows that no energy sector was developed without subsidies.
+While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block new wind power sites for various reasons.
+When people were asked the same question in a Scottish renewables study conducted in 2010, 78% agreed.
+Just as the EU requires member countries to maintain 90 days strategic reserves of oil it can be expected that countries will provide electricity storage, instead of expecting to use their neighbors for net metering.
+This has opened up new opportunities and in Indiana, Michigan, and Ohio, the price of power from wind turbines built 300&nbsp;feet to 400&nbsp;feet above the ground can now compete with conventional fossil fuels like coal.
+At  distance they become inaudible.
+160 × Siemens SWT-3.6 107
+Europe accounted for 48% of the world total wind power generation capacity in 2009.
+The scale of the ecological impact may or may not be significant, depending on specific circumstances.
+The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there.
+Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid.
+The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage, demand management and other factors.
+The study estimated that subsidies to fossil-fuel based sources amounted to approximately $72 billion over this period and subsidies to renewable fuel sources totalled $29 billion.
+A Carbon Trust study into the potential of small-scale wind energy in the UK, published in 2010, found that small wind turbines could provide up to 1.5 terawatt hours (TW·h) per year of electricity (0.4% of total UK electricity consumption), saving 0.6 million tonnes of carbon dioxide (Mt CO2) emission savings.
+The cost has reduced as wind turbine technology has improved.
+This is followed by Gwynt y Môr (576 MW), also in the UK.
+Thus, the energy payback time is typically around one year.
+According to the IPCC, in assessments of the life-cycle global warming potential of energy sources, wind turbines have a median value of between 12 and 11 (geq/kWh) depending on whether off- or onshore turbines are being assessed.
+Across the Atlantic, in Cleveland, Ohio a larger and heavily engineered machine was designed and constructed in the winter of 1887–1888 by Charles F. Brush, this was built by his engineering company at his home and operated from 1886 until 1900.
+Distributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change.
+A 2008 study released by the U.S. Department of Energy noted that the capacity factor of new wind installations was increasing as the technology improves, and projected further improvements for future capacity factors.
+Cost per unit of energy produced was estimated in 2006 to be 5 to 6 percent above the cost of new generating capacity in the US for coal and natural gas: wind cost was estimated at $55.80 per MW·h, coal at $53.10/MW·h and natural gas at $52.50.
+The annual average capacity factor for wind generation in the US has varied between 29.8% and 34.0% during the period 2010–2015.
+A 2014 study showed unsubsidized LCOE costs between $37–81, depending on region.
+For example, socially responsible manufacturers pay utility companies a premium that goes to subsidize and build new wind power infrastructure.
+Further design factors must also be considered when integrating wind turbines into electrical power grids.
+Electrical grids with slow-responding thermal power plants and without ties to networks with hydroelectric generation may have to limit the use of wind power.
+Falling prices continue to drive the levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%.
+A global 1&nbsp;km2 map of wind resources is housed at http://irena.masdar.ac.ae/?map=103 , based on calculations by the Technical University of Denmark.
+He calculates the cost at that time to be 43 EUR/MWh for onshore, and 72 EUR/MWh for offshore wind.
+The IEA's report disagreed with claims that renewable energy technologies are only viable through costly subsidies and not able to produce energy reliably to meet demand.
+Wind turbines have been used for household electricity generation in conjunction with battery storage over many decades in remote areas.
+Compared with other low carbon power sources, wind turbines have some of the lowest global warming potential per unit of electrical energy generated.
+Typical capacity factors are 15–50%; values at the upper end of the range are achieved in favourable sites and are due to wind turbine design improvements.
+As of October 2010, 3.16 GW of offshore wind power capacity was operational, mainly in Northern Europe.
+Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50&nbsp;kW of electrical power.
+In terms of economic value, the wind energy sector has become one of the important players in the energy markets, with the total investments reaching bn (bn), an increase of 4% over 2014.
+Such industry might include production of silicon, aluminum, steel, or of natural gas, and hydrogen, and using future long term storage to facilitate 100% energy from variable renewable energy.
+Unlike fueled generating plants, the capacity factor is affected by several parameters, including the variability of the wind at the site and the size of the generator relative to the turbine's swept area.
+Countries such as Canada and Germany also provide incentives for wind turbine construction, such as tax credits or minimum purchase prices for wind generation, with assured grid access (sometimes referred to as feed-in tariffs).
+The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as the active filtering to enhance the power quality.
+One example is the Carbon Trust Offshore Wind Accelerator, a joint industry project, involving nine offshore wind developers, which aims to reduce the cost of offshore wind by 10% by 2015.
+When the wind drops they can, provided they have the generation capacity, rapidly increase production to compensate.
+Estimates of the capacity factors for wind installations are in the range of 35% to 44%.
+The type of storage needed depends on the wind penetration level&nbsp;– low penetration requires daily storage, and high penetration requires both short and long term storage&nbsp;– as long as a month or more.
+In 2015 BNEF calculated LCOE prices per MWh energy in new powerplants (excluding carbon costs) :
+Wind power gives variable power which is very consistent from year to year but which has significant variation over shorter time scales.
+The process is responsible for production of wind kinetic energy at a rate of 2.46 W/m2 sustaining thus the circulation of the atmosphere against frictional dissipation.
+Online data is available for some locations, and the capacity factor can be calculated from the yearly output.
+Different locations will have different wind speed distributions.
+However, the construction and the maintenance costs are considerably higher.
+There is no generally accepted maximum level of wind penetration.
+Some may still object to wind farms but, according to The Australia Institute, their concerns should be weighed against the need to address the threats posed by climate change and the opinions of the broader community.
+At a substation, this medium-voltage electric current is increased in voltage with a transformer for connection to the high voltage electric power transmission system.
+A 2011 report from the American Wind Energy Association stated, "Wind's costs have dropped over the past two years, in the range of 5 to 6 cents per kilowatt-hour recently.... about 2 cents cheaper than coal-fired electricity, and more projects were financed through debt arrangements than tax equity structures last year.... winning more mainstream acceptance from Wall Street's banks.... Equipment makers can also deliver products in the same year that they are ordered instead of waiting up to three years as was the case in previous cycles.... 5,600 MW of new installed capacity is under construction in the United States, more than double the number at this point in 2010.
+As of August 2013 the London Array in the United Kingdom is the largest offshore wind farm in the world at 630 MW.
+A 2014 US DOE report showed that in some cases power purchase agreement prices for wind power had dropped to record lows of $23.5/MWh.
+In addition the aerodynamics of a wind turbine at the rotor surface exhibit phenomena that are rarely seen in other aerodynamic fields.
+Nuclear power and fossil fuels are subsidized by many governments, and wind power and other forms of renewable energy are also often subsidized.
+GE has installed a prototype wind turbine with onboard battery similar to that of an electric car, equivalent of 1&nbsp;minute of production.
+A number of initiatives are working to reduce costs of electricity from offshore wind.
+Germany held the top spot in Europe in terms of installed capacity, with a total of 27,215 MW as of 31 December 2010.
+For an off-shore station this may require a submarine cable.
+In Australia, the state of South Australia generates around half of the nation's wind power capacity.
+In fact, not one of more than 200 international studies, nor official studies for the eastern and western U.S. regions, nor the International Energy Agency, has found major costs or technical barriers to reliably integrating up to 30% variable renewable supplies into the grid, and in some studies much more.&nbsp;– ''Reinventing Fire''
+Conversely, on particularly windy days, even with penetration levels of 16%, wind power generation can surpass all other electricity sources in a country.
+The potential revenue from this arbitrage can offset the cost and losses of storage; the cost of storage may add 25% to the cost of any wind energy stored but it is not envisaged that this would apply to a large proportion of wind energy generated.
+Instead today most turbines use variable speed generators combined with partial- or full-scale power converter between the turbine generator and the collector system, which generally have more desirable properties for grid interconnection and have Low voltage ride through-capabilities.
+While a wind farm may cover a large area of land, many land uses such as agriculture are compatible with it, as only small areas of turbine foundations and infrastructure are made unavailable for use.
+Wind power advocates argue that these periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC.
+As transmission lines become longer the losses associated with power transmission increase, as modes of losses at lower lengths are exacerbated and new modes of losses are no longer negligible as the length is increased, making it harder to transport large loads over large distances.
+Yearly wind energy production is also growing rapidly and has reached around 4% of worldwide electricity usage, 11.4% in the EU.
+The increase is significant as there were twice as many wind farms in 2010 as there were in 2005.
+Aesthetic aspects of wind turbines and resulting changes of the visual landscape are significant.
+In 2007 the Institute for Solar Energy Supply Technology of the University of Kassel pilot-tested a combined power plant linking solar, wind, biogas and hydrostorage to provide load-following power around the clock and throughout the year, entirely from renewable sources.
+Onshore wind is an inexpensive source of electricity, competitive with or in many places cheaper than coal or gas plants.
+The very nature of the way in which energy is extracted from the air also causes air to be deflected by the turbine.
+This 2010 Harris Poll reflects the strong support for wind power in Germany, other European countries, and the U.S.
+A possible future option may be to interconnect widely dispersed geographic areas with an HVDC "super grid".
+Wind power has been used as long as humans have put sails into the wind.
+Cristina Archer and Mark Z. Jacobson presented a "bottom-up" estimate, which unlike Kleidon's are based on actual measurements of wind speeds, and found that there is 1700 TW of wind power at an altitude of 100&nbsp;metres over land and sea.
+The first windmill used for the production of electricity was built in Scotland in July 1887 by Prof James Blyth of Anderson's College, Glasgow (the precursor of Strathclyde University).
+Fluctuations in load and allowance for failure of large fossil-fuel generating units require reserve capacity that can also compensate for variability of wind generation.
+Electricity generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally.
+Wind energy benefits from subsidies in many jurisdictions, either to increase its attractiveness, or to compensate for subsidies received by other forms of production which have significant negative externalities.
+It is run by the Glasgow Science Centre.
+"Fossil fuels subsidies costs generally outweigh the benefits.
+The net effects on the environment are far less problematic than those of nonrenewable power sources.
+Wind power is capital intensive, but has no fuel costs.
+Almost all large wind turbines have the same design&nbsp;— a horizontal axis wind turbine having an upwind rotor with three blades, attached to a nacelle on top of a tall tubular tower.
+In 2010, Spain became Europe's leading producer of wind energy, achieving 42,976 GWh.
+The presence of wind energy, even when subsidised, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimising the use of expensive peaking power plants.
+The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop.
+Recent examples of small-scale wind power projects in an urban setting can be found in New York City, where, since 2009, a number of building projects have capped their roofs with Gorlov-type helical wind turbines.
+Windpower Production
+In Denmark, which had power market penetration of 30% in 2013, over 90&nbsp;hours, wind power generated 100% of the country's power, peaking at 122% of the country's demand at 2&nbsp;am on 28 October.
+As the proportion of wind power in a region increases, a need to upgrade the grid, and a lowered ability to supplant conventional production can occur.
+According to a 2007 Stanford University study published in the ''Journal of Applied Meteorology and Climatology'', interconnecting ten or more wind farms can allow an average of 33% of the total energy produced (i.e.
+Although pumped-storage power systems are only about 75% efficient, and have high installation costs, their low running costs and ability to reduce the required electrical base-load can save both fuel and total electrical generation costs.
+In the EU in 2015, 44% of all new generating capacity was wind power; while in the same period net fossil fuel power capacity decreased.
+Wind turbines are devices that convert the wind's kinetic energy into electrical power.
+For example, the wind industry in the USA in early 2014 were able to produce more power at lower cost by using taller wind turbines with longer blades, capturing the faster winds at higher elevations.
+A more practical solution is the installation of thirty days storage capacity able to supply 80% of demand, which will become necessary when most of Europe's energy is obtained from wind power and solar power.
+Conflicts arise especially in scenic and heritage protected landscapes.
+Subsidies to renewables and low-carbon energy technologies can bring long-term economic and environmental benefits".
+Germany has an installed capacity of wind and solar that can exceed daily demand, and has been exporting peak power to neighboring countries, with exports which amounted to some 14.7 billion kilowatt hours in 2012.
+In 2012, 1,662 turbines at 55 offshore wind farms in 10 European countries produced 18 TWh, enough to power almost five million households.
+Transmission systems operators will supply a wind farm developer with a grid code to specify the requirements for interconnection to the transmission grid.
+Seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand.
+The smallest turbines are used for applications such as battery charging for auxiliary power.
+In 1919 the German physicist Albert Betz showed that for a hypothetical ideal wind-energy extraction machine, the fundamental laws of conservation of mass and energy allowed no more than 16/27 (59.3%) of the kinetic energy of the wind to be captured.
+Individuals may purchase these systems to reduce or eliminate their dependence on grid electricity for economic reasons, or to reduce their carbon footprint.
+'''Wind power''' is the use of air flow through wind turbines to mechanically power generators for electricity.
+Integrating ever-higher levels of renewables is being successfully demonstrated in the real world:
+However, resistance from state and local governments makes it difficult to construct new transmission lines.
+This type of opposition is often described as NIMBYism, but research carried out in 2009 found that there is little evidence to support the belief that residents only object to renewable power facilities such as wind turbines as a result of a "Not in my Back Yard" attitude.
+Although he later built a wind turbine to supply emergency power to the local Lunatic Asylum, Infirmary and Dispensary of Montrose the invention never really caught on as the technology was not considered to be economically viable.
+A large wind farm may consist of several hundred individual wind turbines distributed over an extended area, but the land between the turbines may be used for agricultural or other purposes.
+Wind energy in many jurisdictions receives financial or other support to encourage its development.
+As of 2011, 83 countries around the world were using wind power on a commercial basis.
+To obtain 100% from wind annually requires substantial long term storage or substantial interconnection to other systems which may already have substantial storage.
+A wind energy penetration figure can be specified for different durations of time, but is often quoted annually.
+In 2010, the department estimated the capacity factor of new wind turbines in 2010 to be 45%.
+The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures.
+In 1997 installed capacity in Germany surpassed the U.S. and led until once again overtaken by the U.S. in 2008.
+For example, in the UK, the 1.7 GW Dinorwig pumped-storage plant evens out electrical demand peaks, and allows base-load suppliers to run their plants more efficiently.
+In 2015 wind power constituted 15.6% of all installed power generation capacity in the EU and it generates around 11.4% of its power.
+An interconnected electricity grid will already include reserve generating and transmission capacity to allow for equipment failures.
+In Spain, in the early hours of 16 April 2012 wind power production reached the highest percentage of electricity production till then, at 60.46% of the total demand.
+The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs.
+A survey conducted in 2005 showed that 74% of people in Scotland agree that wind farms are necessary to meet current and future energy needs.
+For example, Gansu Wind Farm, the largest wind farm in the world, has several thousand turbines.
+The battery cost can be retrieved by selling burst power on demand and reducing backup needs from gas plants.
+Peer-reviewed research has generally not supported these claims.
+Electrical utilities continue to study the effects of large scale penetration of wind generation on system stability and economics.
+A British Wind Energy Association report gives an average generation cost of onshore wind power of around 3.2 pence (between US 5 and 6 cents) per kW·h (2005).

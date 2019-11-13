@@ -1,0 +1,200 @@
+The following year Irène Joliot-Curie and Frédéric Joliot in Paris showed that if this "gamma" radiation fell on paraffin, or any other hydrogen-containing compound, it ejected protons of very high energy.
+One noted neutron-producing radioisotope, californium-252 decays (half-life 2.65 years) by spontaneous fission 3% of the time with production of 3.7 neutrons per fission, and is used alone as a neutron source from this process.
+The nuclear force results from secondary effects of the more fundamental strong force.
+These particles were neutrons.
+Neutrons can elastically scatter off nuclei, causing the struck nucleus to recoil.
+The neutron consists of two down quarks with charge −⅓ &nbsp;''e'' and one up quark with charge +⅔&nbsp;''e'', although this simple model belies the complexities of the Standard Model for nuclei.
+They are named ''fission energy'' or ''fast'' neutrons to distinguish them from lower-energy thermal neutrons, and high-energy neutrons produced in cosmic showers or accelerators.
+Thermal neutrons can be polarized by transmission through magnetic materials in a method analogous to the Faraday effect for photons.
+The commonly used methods to detect neutrons can therefore be categorized according to the nuclear processes relied upon, mainly neutron capture or elastic scattering.
+In 1935 Chadwick and his doctoral student Maurice Goldhaber, reported the first accurate measurement of the mass of the neutron.
+The calculation gave results that were in fair agreement with measurement, but it required significant computing resources.
+Such fluxes require a research nuclear reactor.
+Neutron tomography is therefore not a viable medical application.
+The positively charged light nuclides then repel, releasing electromagnetic potential energy.
+Currently, there are at least four experiments trying to measure for the first time a finite neutron electric dipole moment, including:
+This physical fact thus causes ordinary non-weapons grade materials to become of concern in certain nuclear proliferation discussions and treaties.
+A major use of neutrons is to excite delayed and prompt gamma rays from elements in materials.
+These include certain types of radioactive decay (spontaneous fission and neutron emission), and from certain nuclear reactions.
+The nucleus consists of Z protons, where Z is called the atomic number, and N neutrons, where N is the neutron number.
+This result combines the intrinsic magnetic moments of the quarks with their orbital magnetic moments, and assumes the three quarks are in a particular, dominant quantum state.
+Nuclei with integer spin are common, e.g., 14N.
+This isotope has one unpaired proton and one unpaired neutron, so either the proton or the neutron can decay.
+The latter number is not well-enough measured to determine the comparatively tiny rest mass of the neutrino (which must in theory be subtracted from the maximal electron kinetic energy) as well as neutrino mass is constrained by many other methods.
+The finite size of the neutron and its magnetic moment indicate the neutron is a composite, rather than elementary, particle.
+Neutrons produced in fission, as noted above, have a Maxwell–Boltzmann distribution of kinetic energies from 0 to ~14 MeV, a mean energy of 2 MeV (for U-235 fission neutrons), and a mode of only 0.75 MeV, which means that more than half of them do not qualify as fast (and thus have almost no chance of initiating fission in fertile materials, such as U-238 and Th-232).
+The results of this calculation are encouraging, but the masses of the up or down quarks were assumed to be 1/3 the mass of a nucleon.
+In particular, knowledge of neutrons and their behavior has been important in the development of nuclear reactors and nuclear weapons.
+For such a therapy to be applied to the treatment of cancer, a neutron source having an intensity of the order of billion (109) neutrons per second per cm2 is preferred.
+Upon neutron capture, the compound nucleus emits more easily detectable radiation, for example an alpha particle, which is then detected.
+After slowing, neutrons may then be absorbed with an isotope that has high affinity for slow neutrons without causing secondary capture radiation, such as lithium-6.
+In addition, high-energy nuclear reactions (such as occur in cosmic radiation showers or accelerator collisions) also produce neutrons from disintigration of target nuclei.
+The  Standard Model of particle physics predicts a tiny separation of positive and negative charge within the neutron leading to a permanent electric dipole moment.
+4/3 ''μ''d − 1/3 ''μ''u
+They are a primary contributor to the nucleosynthesis of chemical elements within stars through fission, fusion, and neutron capture processes.
+In the decade after the neutron was discovered in 1932, neutrons were used to induce many different types of nuclear transmutations.
+Free neutrons, or individual neutrons free of the nucleus, are effectively a form of ionizing radiation, and as such, are a biological hazard, depending upon dose.
+Other fusion reactions produce much less energetic neutrons.
+This gamma ray may be thought of as a sort of "internal bremsstrahlung" that arises as the emitted beta particle interacts with the charge of the proton in an electromagnetic way.
+Chadwick quickly performed a series of experiments that showed that the new radiation consisted of uncharged particles with about the same mass as the proton.
+The authors measured the two-neutron separation energy to be 1.35(10) MeV, in good agreement with shell model calculations, using standard interactions for this mass region.
+The latter can be directly measured by measuring the energy () of the single  gamma photon emitted when neutrons are captured by protons (this is exothermic and happens with zero-energy neutrons), plus the small recoil kinetic energy () of the deuteron (about 0.06% of the total energy).
+In the 1911 Rutherford model, the atom consisted of a small positively charged massive nucleus surrounded by a much larger cloud of negatively charged electrons.
+This transformation occurs by emission of an antielectron (also called positron) and an electron neutrino:
+One example of this decay is carbon-14 (6 protons, 8 neutrons) that decays to nitrogen-14 (7 protons, 7 neutrons) with a half-life of about 5,730 years.
+The calculation assumes that the quarks behave like pointlike Dirac particles, each having their own magnetic moment.
+''Cold'', ''thermal'' and ''hot'' neutron radiation is commonly employed in neutron scattering facilities, where the radiation is used in a similar way one uses X-rays for the analysis of condensed matter.
+The Klein paradox, discovered by Oskar Klein in 1928, presented further quantum mechanical objections to the notion of an electron confined within a nucleus.
+These neutrons have much more energy than fission energy neutrons and are generated as secondary particles by particle accelerators or in the atmosphere from cosmic rays.
+By 1934, Fermi had bombarded heavier elements with neutrons to induce radioactivity in elements of high atomic number.
+The value for the neutron's magnetic moment was first directly measured by Luis Alvarez and Felix Bloch at Berkeley, California in 1940, using an extension of the magnetic resonance methods developed by Rabi.
+Charged particles can be accelerated, decelerated, or deflected by electric or magnetic fields.
+A ''thermal neutron'' is a free neutron that is Boltzmann distributed with kT =  () at room temperature.
+The masses of the three quarks sum to only about , whereas the neutron's mass is about , for example.
+(However, the main attraction between neutrons and protons is via the nuclear force, which does not involve charge.)
+The radiation was not influenced by an electric field, so Bothe and Becker assumed it was gamma radiation.
+Certain nuclides have a high neutron capture cross section, which is the probability of absorbing a neutron.
+In 2012, Artemis Spyrou from Michigan State University and coworkers reported that they observed, for the first time, the dineutron emission in the decay of 16Be.
+The Pauli exclusion principle therefore disallows the decay of a neutron to a proton within stable nuclei.
+The deuterium in heavy water has a very much lower absorption affinity for neutrons than does protium (normal light hydrogen).
+The fractional difference in the masses of the neutron and antineutron is .
+Neutrons that elastically scatter off atoms can create an ionization track that is detectable, but the experiments are not as simple to carry out; other means for detecting neutrons, consisting of allowing them to interact with atomic nuclei, are more commonly used.
+However, this approach will not work with neutrons, since the absorption of neutrons does not increase straightforwardly with atomic number, as it does with alpha, beta, and gamma radiation.
+Although it was assumed to be a spin 1/2 Dirac particle, the possibility that the neutron was a spin 3/2 particle had not been ruled out.
+From the nonrelativistic, quantum mechanical wavefunction for baryons composed of three quarks, a straightforward calculation gives fairly accurate estimates for the magnetic moments of neutrons, protons, and other baryons.
+This often means that simple concrete blocks or even paraffin-loaded plastic blocks afford better protection from neutrons than do far more dense materials.
+There, in striking atomic nuclei, among other reactions they induce spallation reactions in which a neutron is liberated from the nucleus.
+Rutherford called these uncharged particles ''neutrons'', by the Latin root for ''neutralis'' (neuter) and the Greek suffix ''-on'' (a suffix used in the names of subatomic particles, i.e.
+The above treatment compares neutrons with protons, allowing the complex behavior of quarks to be subtracted out between models, and merely exploring what the effects would be of differing quark charges (or quark type).
+Some elements occur in nature with only one stable isotope, such as fluorine.
+A contradiction of the quantum mechanical basis of this calculation with the Pauli exclusion principle, led to the discovery of the color charge for quarks by Oscar W. Greenberg in 1964.
+All other types of atomic nuclei are composed of two or more protons and various numbers of neutrons.
+The intense neutron radiation can also be used to produce various radioisotopes through the process of neutron activation, which is a type of neutron capture.
+14.1 MeV neutrons have about 10 times as much energy as fission neutrons, and are very effective at fissioning even non-fissile heavy nuclei, and these high-energy fissions produce more neutrons on average than fissions by lower-energy neutrons.
+Deuterium is, therefore, used in CANDU-type reactors, in order to slow (moderate) neutron velocity, to increase the probability of nuclear fission compared to neutron capture.
+'''Sources of neutrons for research.'''
+Neutrons bind with protons and one another in the nucleus via the nuclear force, effectively moderating the repulsive forces between the protons and stabilizing the nucleus.
+The normal precautions of radiation protection apply: Avoid exposure, stay as far from the source as possible, and keep exposure time to a minimum.
+The neutron's lack of total electric charge makes it difficult to steer or accelerate them.
+In this case, an energetically allowed quantum state is available for the proton resulting from the decay.
+A free neutron is unstable, decaying to a proton, electron and antineutrino with a mean lifetime of just under 15 minutes ().
+In 1954, Sherwood, Stephenson, and Bernstein employed neutrons in a Stern–Gerlach experiment that used a magnetic field to separate the neutron spin states.
+Experimental nuclear fusion reactors produce free neutrons as a waste product.
+Even though the neutron is a neutral particle, the magnetic moment of a neutron is not zero.
+Such calculations are enough to show that the interior of neutrons is very much like that of protons, save for the difference in quark composition with a down quark in the neutron replacing an up quark in the proton.
+Fusion neutrons are able to cause fission in ordinarily non-fissile materials, such as depleted uranium (uranium-238), and these materials have been used in the jackets of thermonuclear weapons.
+The terms isotope and nuclide are often used synonymously, but they are chemical and nuclear concepts, respectively.
+The maximal energy of the beta decay electron (in the process wherein the neutrino receives a vanishingly small amount of kinetic energy) has been measured at 0.782 ± .013 MeV.
+The dineutron character is evidenced by a small emission angle between the two neutrons.
+This can be reconciled classically with a neutral neutron composed of a charge distribution in which the negative sub-parts of the neutron have a larger average radius of distribution, and therefore contribute more to the particle's magnetic dipole moment, than do the positive parts that are, on average, nearer the core.
+It was discovered by Bruce Cork in the year 1956, a year after the antiproton was discovered.
+In nuclear fission, the absorption of a neutron by a heavy nuclide (e.g., uranium-235) causes the nuclide to become unstable and break into light nuclides and additional neutrons.
+These events and findings led to the first self-sustaining nuclear reactor (Chicago Pile-1, 1942) and the first nuclear weapon (Trinity, 1945).
+Furthermore, the complex system of quarks and gluons that constitute a neutron requires a relativistic treatment.
+Kinematically, a neutron can transfer more energy to light nuclei such as hydrogen or helium than to heavier nuclei.
+B. Beg, Benjamin W. Lee, and Abraham Pais theoretically calculated the ratio of proton to neutron magnetic moments to be −3/2, which agrees with the experimental value to within 3%.
+Fast neutron detectors have the advantage of not requiring a moderator, and therefore being capable of measuring the neutron's energy, time of arrival, and in certain cases direction of incidence.
+Recoiling nuclei can ionize and excite further atoms through collisions.
+Fast neutrons are produced by nuclear processes such as nuclear fission.
+In many substances, thermal neutron reactions show a much larger effective cross-section than reactions involving faster neutrons, and thermal neutrons can therefore be absorbed more readily (i.e., with higher probability) by any atomic nuclei that they collide with, creating a heavier — and often unstable — isotope of the chemical element as a result.
+Neutrons in unstable nuclei can decay by beta decay as described above.
+Cold neutrons are particularly valuable for neutron scattering experiments.
+Some particular thought must be given to how to protect from neutron exposure, however.
+The most common nuclide of the common chemical element lead, 208Pb has 82 protons and 126 neutrons, for example.
+The extreme pressure inside a neutron star may deform the neutrons into a cubic symmetry, allowing tighter packing of neutrons.
+Under the Standard Model of particle physics, the only possible decay mode for the neutron that conserves baryon number is for one of the neutron's quarks to change flavour via the weak interaction.
+The free proton is stable.
+The nuclides , , , , ,  and  are useful for this purpose.
+14.1 MeV neutrons can also produce neutrons by knocking them loose from nuclei.
+An article published in 2007 featuring a model-independent analysis concluded that the neutron has a negatively charged exterior, a positively charged middle, and a negative core.
+The antineutron is the antiparticle of the neutron.
+Since both protons and electrons carry an intrinsic spin of ½&nbsp;''ħ'', there is no way to arrange an odd number of spins ±½&nbsp;''ħ'' to give a spin integer multiple of ''ħ''.
+Neutrons or protons bound in a nucleus can be stable or unstable, however, depending on the nuclide.
+Such a ''cold source'' is placed in the moderator of a research reactor or spallation source.
+For example, neutron capture often results in neutron activation, inducing radioactivity.
+Internal bremsstrahlung gamma ray production is also a minor feature of beta decays of bound neutrons (as discussed below).
+The mass of a neutron cannot be directly determined by mass spectrometry due to lack of electric charge.
+The common means of detecting a charged particle by looking for a track of ionization (such as in a cloud chamber) does not work for neutrons directly.
+Because neutron radiation is both penetrating and ionizing, it can be exploited for medical treatments.
+The atomic mass number, symbol A, equals Z+N.
+In 1920, Rutherford suggested that the nucleus consisted of positive protons and neutrally-charged particles, suggested to be a proton and an electron bound in some way.
+These high energy muons are capable of penetration to considerable depths in water and soil.
+They recorded two such spin states, consistent with a spin 1/2 particle.
+Neutrons are complementary to the latter in terms of atomic contrasts by different scattering cross sections; sensitivity to magnetism; energy range for inelastic neutron spectroscopy; and deep penetration into matter.
+A small natural background flux of free neutrons exists everywhere on Earth.
+The best modern (1986) values for neutron mass by this technique are provided by Greene, et al.
+The neutron has a magnetic moment with a negative value, because its orientation is opposite to the neutron's spin.
+In practice, the most commonly used small laboratory sources of neutrons use radioactive decay to power neutron production.
+The '''inset''' shows beta decay of a free neutron as it is understood today; an electron and antineutrino are created in this process.
+*nEDM experiment being envisaged at the Spallation Neutron Source
+Detectors relying on elastic scattering are called fast neutron detectors.
+For a neutron, the end result of this calculation is that the magnetic moment of the neutron is given by , where ''μ''d and ''μ''u are the magnetic moments for the down and up quarks, respectively.
+The nuclei of the heavy hydrogen isotopes deuterium and tritium contain one proton bound to one and two neutrons, respectively.
+Throughout the 1920s, physicists assumed that the atomic nucleus was composed of protons and "nuclear electrons" but there were obvious problems.
+Recent research has shown that even thunderstorms can produce neutrons with energies of up to several tens of MeV.
+In stable nuclei the possible lower energy states are all filled, meaning they are each occupied by two protons with spin up and spin down.
+Positron capture by neutrons in nuclei that contain an excess of neutrons is also possible, but is hindered because positrons are repelled by the positive nucleus, and quickly annihilate when they encounter electrons.
+The neutron's magnetic moment causes its motion to be influenced by magnetic fields.
+By measuring the rate at which slow neutrons return to the probe after reflecting off of hydrogen nuclei, a neutron probe may determine the water content in soil.
+For other types of radiation, e.g., alpha particles, beta particles, or gamma rays, material of a high atomic number and with high density make for good shielding; frequently, lead is used.
+However, some effects may be attained by use of inhomogeneous magnetic fields because of the neutron's magnetic moment.
+These high-energy neutrons are extremely efficient at ionization and far more likely to cause cell death than X-rays or protons.
+This radioactive decay, known as beta decay, is possible since the mass of the neutron is slightly greater than the proton.
+The value for the neutron mass in MeV is less accurately known, due to less accuracy in the known conversion of u to MeV:
+Cold neutrons of wavelengths of 6–7 angstroms can be produced in beams of a high degree of polarization, by use of magnetic mirrors and magnetized interference filters.
+Neutrons are produced copiously in nuclear fission and fusion.
+Fast neutrons can be made into thermal neutrons via a process called moderation.
+The origins of beta radiation were explained by Enrico Fermi in 1934 by the process of beta decay, in which the neutron decays to a proton by ''creating'' an electron and a (as yet undiscovered) neutrino.
+Instead one needs to look at the particular interactions neutrons have with matter (see the section on detection above).
+When a fast neutron collides with a light nucleus, it loses a large fraction of its energy.
+For the free neutron the decay energy for this process (based on the masses of the neutron, proton, and electron) is 0.782343 MeV.
+In 1949, Hughes and Burgy measured neutrons reflected from a ferromagnetic mirror and found that the angular distribution of the reflections was consistent with spin 1/2.
+The neutron is a spin 1/2 particle, that is, it is a fermion with intrinsic angular momentum equal to 1/2 , where   is the reduced Planck constant.
+A small natural "neutron background" flux of free neutrons exists on Earth, caused by cosmic ray showers, and by the natural radioactivity of spontaneously fissionable elements in the Earth's crust.
+A major challenge in fast neutron detection is discerning such signals from erroneous signals produced by gamma radiation in the same detector.
+Since the neutron is a neutral particle, it is not affected by electric fields, but with its magnetic moment it is affected by magnetic fields.
+The transformation of a proton to a neutron inside of a nucleus is also possible through electron capture:
+The situation is similar to electrons of an atom, where electrons have distinct atomic orbitals and are prevented from decaying to lower energy states, with the emission of a photon, by the exclusion principle.
+These methods have little effect on neutrons.
+4/3 ''μ''u − 1/3 ''μ''d
+The simplified classical view of the neutron's charge distribution also "explains" the fact that the neutron magnetic dipole points in the opposite direction from its spin angular momentum vector (as compared to the proton).
+Electrons were assumed to reside within the nucleus because it was known that beta radiation consisted of electrons emitted from the nucleus.
+Protons and neutrons, each with mass approximately one atomic mass unit, constitute the nucleus of an atom, and they are collectively referred to as nucleons.
+An alternative production method is the mechanical deceleration of cold neutrons.
+New theories going beyond the Standard Model generally lead to much larger predictions for the electric dipole moment of the neutron.
+While a free neutron has a half life of about 10.2 min, most neutrons within nuclei are stable.
+Their properties and interactions are described by nuclear physics.
+With its positive electric charge, the proton is directly influenced by electric fields, whereas the response of the neutron to this force is much weaker.
+The neutron is classified as a hadron, since it is composed of quarks, and as a baryon, since it is composed of three quarks.
+Within the nucleus, protons and neutrons are bound together through the nuclear force, and neutrons are required for the stability of nuclei.
+The interactions of the neutron's magnetic moment with an external magnetic field were exploited to finally determine the spin of the neutron.
+Chadwick won the Nobel Prize in Physics for this discovery in 1935.
+In the atmosphere and deep into the ocean, the "neutron background" is caused by muons produced by cosmic ray interaction with the atmosphere.
+The story of the discovery of the neutron and its properties is central to the extraordinary developments in atomic physics that occurred in the first half of the 20th century, leading ultimately to the atomic bomb in 1945.
+Like the proton, the quarks of the neutron are held together by the strong force, mediated by gluons.
+In 1931, Walther Bothe and Herbert Becker found that if alpha particle radiation from polonium fell on beryllium, boron, or lithium, an unusually penetrating radiation was produced.
+Ultracold neutrons are produced by elastically scattering cold neutrons in substances with a temperature of a few kelvins, such as solid deuterium or superfluid helium.
+The free neutron has a mass of about  (equivalent to , or ).
+Ratios of capture reactions to fission reactions are also worse (more captures without fission) in most nuclear fuels such as plutonium-239, making epithermal-spectrum reactors using these fuels less desirable, as captures not only waste the one neutron captured but also usually result in a nuclide that is not fissile with thermal or epithermal neutrons, though still fissionable with fast neutrons.
+From several unsolved puzzles in particle physics, it is clear that the Standard Model is not the final and full description of all particles and their interactions.
+In 1938 Otto Hahn, Lise Meitner, and Fritz Strassmann discovered nuclear fission, or the fractionation of uranium nuclei into light elements, induced by neutron bombardment.
+The magnetic moment of the neutron is an indication of its quark substructure and internal charge distribution.
+Because of the mass–energy equivalence, nuclear binding energies add or subtract from the mass of nuclei.
+The proton–neutron model explained the puzzle of nuclear spins.
+The nucleon magnetic moment has been successfully computed numerically from first principles, however, including all the effects mentioned and using more realistic values for the quark masses.
+In the Rutherford model for the nucleus, red spheres were protons with positive charge and blue spheres were protons tightly bound to an electron with no net charge.
+Three types of beta decay in competition are illustrated by the single isotope copper-64 (29 protons, 35 neutrons), which has a half-life of about 12.7 hours.
+Neutron radiation can deliver energy to a cancerous region at a rate an order of magnitude larger than gamma radiation
+''Cold neutrons'' are thermal neutrons that have been equilibrated in a very cold substance such as liquid deuterium.
+The decay of one of the neutron's down quarks into a lighter up quark can be achieved by the emission of a W boson.
+The masses of the quarks are actually only about 1% that of a nucleon.
+In 1938, Fermi received the Nobel Prize in Physics ''"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons"''.
+In one of the early successes of the Standard Model (SU(6) theory, now understood in terms of quark behavior), in 1964 Mirza A.
+The neutron has a mean square radius of about , or 0.8&nbsp;fm, and it is a spin-½ fermion.
+''electron'' and ''proton'').
+*nEDM experiment being built at the Institut Laue–Langevin
+By comparison, the charge of the proton is, of course, .
+Other elements occur as many stable isotopes, such as tin with ten stable isotopes.
+In this type of free neutron decay, in essence all of the neutron decay energy is carried off by the antineutrino (the other "body").
+The name 'thermal' comes from their energy being that of the room temperature gas or material they are permeating.
+Neutrons and protons are both nucleons, which are attracted and bound together by the nuclear force to form atomic nuclei.

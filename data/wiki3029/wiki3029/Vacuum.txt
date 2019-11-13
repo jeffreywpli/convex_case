@@ -1,0 +1,200 @@
+None of these pumps are universal; each type has important performance limitations.
+Above this altitude, oxygen enrichment is necessary to prevent altitude sickness in humans that did not undergo prior acclimatization, and spacesuits are necessary to prevent ebullism above 19&nbsp;km.
+In engineering and applied physics on the other hand, vacuum refers to any space in which the pressure is lower than atmospheric pressure.
+Coulomb's law and the electric potential in vacuum near an electric charge are modified.
+This is of great concern to space missions, where an obscured telescope or solar cell can ruin an expensive mission.
+It can be measured with a McLeod gauge, thermal gauge or a capacitive gauge.
+They come in two types: hot cathode and cold cathode.
+The starting and ending of cosmological inflation is thought to have arisen from transitions between different vacuum states.
+Obsolete applications include vacuum-driven windscreen wipers and Autovac fuel pumps.
+These gauges are accurate from 10&nbsp;torr to 10−3&nbsp;torr, but they are sensitive to the chemical composition of the gases being measured.
+QED vacuum has interesting and complex properties.
+As the gas density decreases, the MFP increases, and when the MFP is longer than the chamber, pump, spacecraft, or other objects present, the continuum assumptions of fluid mechanics do not apply.
+And sometimes, the final pressure is not the only relevant characteristic.
+It cannot be achieved in a laboratory, although there may be small volumes which, for a brief moment, happen to have no particles of matter in them.
+Beyond this line, isotropic gas pressure rapidly becomes insignificant when compared to radiation pressure from the Sun and the dynamic pressure of the solar winds, so the definition of pressure becomes difficult to interpret.
+In the late 20th century, so-called virtual particles that arise spontaneously from empty space were confirmed.
+Pumping systems differ in oil contamination, vibration, preferential pumping of certain gases, pump-down speeds, intermittent duty cycle, reliability, or tolerance to high leakage rates.
+Maintaining a vacuum in the Condenser is an important aspect of the efficient operation of steam turbines.
+Even if the victim does not hold his or her breath, venting through the windpipe may be too slow to prevent the fatal rupture of the delicate alveoli of the lungs.
+To continue evacuating a chamber indefinitely without requiring infinite growth, a compartment of the vacuum can be repeatedly closed off, exhausted, and expanded again.
+Similarly, much higher than normal relative vacuum readings are possible deep in the Earth's ocean.
+'''Mechanical''' or '''elastic''' gauges depend on a Bourdon tube, diaphragm, or capsule, usually made of metal, which will change shape in response to the pressure of the region in question.
+Shuttle astronauts wore a fitted elastic garment called the Crew Altitude Protection Suit (CAPS) which prevents ebullism at pressures as low as 2&nbsp;kPa (15&nbsp;Torr).
+This has far reaching consequences on the "emptiness" of space between particles.
+The electrons travel through the gauge and ionize gas molecules around them.
+Ionization gauge calibration is very sensitive to construction geometry, chemical composition of gases being measured, corrosion and surface deposits.
+'''Vacuum''' is space void of matter.
+* '''Low vacuum''', also called ''rough vacuum'' or ''coarse vacuum'', is vacuum that can be achieved or measured with rudimentary equipment such as a vacuum cleaner and a liquid column manometer.
+Ultra-high vacuum is used in the study of atomically clean substrates, as only a very good vacuum preserves atomic-scale clean surfaces for a reasonably long time (on the order of minutes to days).
+They all share a difficulty in pumping low molecular weight gases, especially hydrogen, helium, and neon.
+The explanation of a ''clepsydra'' or water clock was a popular topic in the Middle Ages.
+Inside the pump, a mechanism expands a small sealed cavity to create a vacuum.
+By the ancient definition however, directional information and magnitude were conceptually distinct.
+High vacuum usually requires multi-stage pumping and ion gauge measurement.
+Vacuum is measured in units of pressure, typically as a subtraction relative to ambient atmospheric pressure on Earth.
+Additionally, the concept informed Isaac Newton's explanations of both refraction and of radiant heat.
+Because of the pressure differential, some fluid from the chamber (or the well, in our example) is pushed into the pump's small cavity.
+Most spacesuits use only 20&nbsp;kPa (150&nbsp;Torr) of pure oxygen.
+The elimination of air friction is useful for flywheel energy storage and ultracentrifuges.
+Simple hydrostatic gauges can measure pressures ranging from 1&nbsp;torr (100&nbsp;Pa) to above atmospheric.
+Cold cathode gauges are accurate from 10−2&nbsp;torr to 10−9&nbsp;torr.
+As a result, solar winds exhibit continuum flow on the scale of the Solar System, but must be considered a bombardment of particles with respect to the Earth and Moon.
+The current depends on the number of ions, which depends on the pressure in the gauge.
+Once the bulk of the outgassing materials are boiled off and evacuated, the system may be cooled to lower vapour pressures and minimize residual outgassing during actual operation.
+Cold or oxygen-rich atmospheres can sustain life at pressures much lower than atmospheric, as long as the density of oxygen is similar to that of standard sea-level atmosphere.
+In modern particle physics, the vacuum state is considered the ground state of matter.
+In the hot cathode version an electrically heated filament produces an electron beam.
+* '''High vacuum''' is vacuum where the MFP of residual gases is longer than the size of the chamber or of the object under test.
+A thermocouple or Resistance Temperature Detector (RTD) can then be used to measure the temperature of the filament.
+It can be reduced by desiccating or baking the chamber, and removing absorbent materials.
+Vacuum brakes were once widely used on trains in the UK but, except on heritage railways, they have been replaced by air brakes.
+While the Earth does, in fact, move through a relatively dense medium in comparison to that of interstellar space, the drag is so minuscule that it could not be detected.
+Vacuum induction melting uses electromagnetic induction within a vacuum.
+Jean Buridan reported in the 14th century that teams of ten horses could not pull open bellows when the port was sealed.
+Using geometry, Ibn al-Haytham mathematically demonstrated that place (''al-makan'') is the imagined three-dimensional void between the inner surfaces of a containing body.
+A number of electrical properties become observable at this vacuum level, which renewed interest in further research.
+For example, the MFP of interplanetary space is smaller than the size of the Solar System, but larger than small planets and moons.
+Rapid boiling will cool the skin and create frost, particularly in the mouth, but this is not a significant hazard.
+A steam jet ejector or liquid ring vacuum pump is used for this purpose.
+There was much discussion of whether the air moved in quickly enough as the plates were separated, or, as Walter Burley postulated, whether a 'celestial agent' prevented the vacuum arising.
+"Below atmospheric" means that the absolute pressure is equal to the current atmospheric pressure.
+In the 19th century, vacuum was used for traction on Isambard Kingdom Brunel's experimental atmospheric railway.
+The thermosphere in this range has large gradients of pressure, temperature and composition, and varies greatly due to space weather.
+Although a simple wine skin sufficed to demonstrate a partial vacuum, in principle, more advanced suction pumps had been developed in Roman Pompeii.
+Outer space is an even higher-quality vacuum, with the equivalent of just a few hydrogen atoms per cubic meter on average.
+During 1942, in one of a series of experiments on human subjects for the Luftwaffe, the Nazi regime experimented on prisoners in Dachau concentration camp by exposing them to low pressure.
+Even if all particles of matter were removed, there would still be photons and gravitons, as well as dark energy, virtual particles, and other aspects of the quantum vacuum.
+The resulting ions are collected at a negative electrode.
+High vacuum systems must be clean and free of organic matter to minimize outgassing.
+Werner Heisenberg's uncertainty principle formulated in 1927, predict a fundamental limit within which instantaneous position and momentum, or energy and time can be measured.
+The 17th century saw the first attempts to quantify measurements of partial vacuum.
+The MFP of air at atmospheric pressure is very short, 70&nbsp;nm, but at 100&nbsp;mPa (~) the MFP of room temperature air is roughly 100&nbsp;mm, which is on the order of everyday objects such as vacuum tubes.
+Momentum transfer pumps, which bear some similarities to dynamic pumps used at higher pressures, can achieve much higher quality vacuums than positive displacement pumps.
+Vacuum fluctuations are an essential and ubiquitous part of quantum field theory.
+Thereafter, research into the partial vacuum lapsed until 1850 when August Toepler invented the Toepler Pump and Heinrich Geissler invented the mercury displacement pump in 1855, achieving a partial vacuum of about 10&nbsp;Pa (0.1&nbsp;Torr).
+According to Ahmad Dallal, Abū Rayhān al-Bīrūnī also states that "there is no observable evidence that rules out the possibility of vacuum".
+For example, the diaphragm muscle expands the chest cavity, which causes the volume of the lungs to increase.
+QED vacuum is a state with no matter particles (hence the name), and also no photons.
+The ''quality'' of a partial vacuum refers to how closely it approaches a perfect vacuum.
+The word stems from the Latin adjective ''vacuus'' for "vacant" or "void".
+The typical vacuum maintained in the Condenser steam space at the exhaust of the turbine (also called Condenser Backpressure) is in the range 5 to 15 kPa (absolute), depending on the type of condenser and the ambient conditions.
+Eardrums and sinuses may be ruptured by rapid decompression, soft tissues may bruise and seep blood, and the stress of shock will accelerate oxygen consumption leading to hypoxia.
+* '''Deep space''' is generally much more empty than any artificial vacuum.
+Nonetheless, it provides a good model for realizable vacuum, and agrees with a number of experimental observations as described next.
+Limbs may be exposed for much longer if breathing is not impaired.
+Many variations of the positive displacement pump have been developed, and many other pump designs rely on fundamentally different principles.
+On the surface of the moon with almost no atmosphere, it would be extremely difficult to create a measurable vacuum relative to the local environment.
+Suction can spread and dilute a vacuum by letting a higher pressure push fluids into it, but the vacuum has to be created first before suction can occur.
+In quantum electrodynamics this vacuum is referred to as 'QED vacuum' to distinguish it from the vacuum of quantum chromodynamics, denoted as QCD vacuum.
+Medieval thought experiments into the idea of a vacuum considered whether a vacuum was present, if only for an instant, between two flat plates when they were rapidly separated.
+Evangelista Torricelli's mercury barometer of 1643 and Blaise Pascal's experiments both demonstrated a partial vacuum.
+String theory is believed to have a huge number of vacua — the so-called string theory landscape.
+One of the most important parameters is the mean free path (MFP) of residual gases, which indicates the average distance that molecules will travel between collisions with each other.
+The reduction in pressure lowers the temperature at which blood and other body fluids boil, but the elastic pressure of blood vessels ensures that this boiling point remains above the internal body temperature of  Although the blood will not boil, the formation of gas bubbles in bodily fluids at reduced pressures, known as ebullism, is still a concern.
+'''Thermal conductivity''' gauges rely on the fact that the ability of a gas to conduct heat decreases with pressure.
+But although it meets the definition of outer space, the atmospheric density within the first few hundred kilometers above the Kármán line is still sufficient to produce significant drag on satellites.
+The most prevalent outgassing product in man-made vacuum systems is water absorbed by chamber materials.
+Some aircraft instruments (Attitude Indicator (AI) and the Heading Indicator (HI)) are typically vacuum-powered, as protection against loss of all (electrically powered) instruments, since early aircraft often did not have electrical systems, and since there are two readily available sources of vacuum on a moving aircraft—the engine and an external venturi.
+This expansion reduces the pressure and creates a partial vacuum, which is soon filled by air pushed in by atmospheric pressure.
+Planets are too massive for their trajectories to be significantly affected by these forces, although their atmospheres are eroded by the solar winds.
+Ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10−12) of atmospheric pressure (100&nbsp;nPa), and can reach around 100 particles/cm3.
+Vacuum quality is subdivided into ranges according to the technology required to achieve it or measure it.
+A '''torricellian vacuum''' is created by filling a tall glass container closed at one end with mercury, and then inverting the container into a bowl to contain the mercury.
+The reduction of convection provides the thermal insulation of thermos bottles.
+Vacuum is often also measured on the barometric scale or as a percentage of atmospheric pressure in bars or atmospheres.
+A variation on this idea is the '''capacitance manometer''', in which the diaphragm makes up a part of a capacitor.
+Vacuums are commonly used to produce suction, which has an even wider variety of applications.
+Collectively, these are called ''vacuum technique''.
+Many inexpensive low vacuum gauges have a margin of error and may report a vacuum of 0&nbsp;Torr but in practice this generally requires a two-stage rotary vane or other medium type of vacuum pump to go much beyond (lower than) 1&nbsp;torr.
+There is only a limited amount of data available from human accidents, but it is consistent with animal data.
+The suction pump later appeared in Europe from the 15th century.
+An experiment indicates that plants are able to survive in a low pressure environment (1.5&nbsp;kPa) for about 30 minutes.
+This pressure is high enough to prevent ebullism, but decompression sickness and gas embolisms can still occur if decompression rates are not managed.
+The kenotometer is a particular type of hydrostatic gauge, typically used in power plants using steam turbines.
+In general relativity, a vanishing stress-energy tensor implies, through Einstein field equations, the vanishing of all the components of the Ricci tensor.
+Vacuum does not mean that the curvature of space-time is necessarily flat: the gravitational field can still produce curvature in a vacuum in the form of tidal forces and gravitational waves (technically, these phenomena are the components of the Weyl tensor).
+This is the principle behind positive displacement pumps, like the manual water pump for example.
+Although Lucretius argued for the existence of vacuum in the first century BC and Hero of Alexandria tried unsuccessfully to create an artificial vacuum in the first century AD, it was European scholars such as Roger Bacon, Blasius of Parma and Walter Burley in the 13th and 14th century who focused considerable attention on these issues.
+A common variant is the Pirani gauge which uses a single platinum filament as both the heated element and RTD.
+In 1930, Paul Dirac proposed a model of the vacuum as an infinite sea of particles possessing negative energy, called the Dirac sea.
+Following Plato, even the abstract concept of a featureless void faced considerable skepticism: it could not be apprehended by the senses, it could not, itself, provide additional explanatory power beyond the physical volume with which it was commensurate and, by definition, it was quite literally nothing at all, which cannot rightly be said to exist.
+Hot cathode gauges are accurate from 10−3&nbsp;torr to 10−10 torr.
+* '''Perfect vacuum''' is an ideal state of no particles at all.
+It means that this region is empty of energy and momentum, and by consequence, it must be empty of particles and other physical fields (such as electromagnetism) that contain energy and momentum.
+This temperature is dependent on the rate at which the filament loses heat to the surrounding gas, and therefore on the thermal conductivity.
+19th century experiments into this luminiferous aether attempted to detect a minute drag on the Earth's orbit.
+In ultra high vacuum systems, some very "odd" leakage paths and outgassing sources must be considered.
+''Vacuum'' is one of the few words in the English language that contains two consecutive letters ''u'''.
+Multiple pumps may be connected in series, called stages, to achieve higher vacuums.
+Some texts differentiate between high vacuum and ''very high vacuum.''
+The Earth's atmospheric pressure drops to about  at  of altitude, the Kármán line, which is a common definition of the boundary with outer space.
+On the surface of Jupiter, where ground level atmospheric pressure is much higher than on Earth, much higher relative vacuum readings would be possible.
+The strictest criteria to define a vacuum is a region of space and time where all the components of the stress–energy tensor are zero.
+Stars, planets, and moons keep their atmospheres by gravitational attraction, and as such, atmospheres have no clearly delineated boundary: the density of atmospheric gas simply decreases with distance from the object.
+The recent development of human spaceflight has raised interest in the impact of vacuum on human health, and on life forms in general.
+In 1912, astronomer Henry Pickering commented: "While the interstellar absorbing medium may be simply the ether, it is characteristic of a gas, and free gaseous molecules are certainly there".
+As described above, this state is impossible to achieve experimentally.
+In man-made systems, outgassing has the same effect as a leak and can limit the achievable vacuum.
+The water absorption of aluminium and palladium becomes an unacceptable source of outgassing, and even the adsorptivity of hard metals such as stainless steel or titanium must be considered.
+Outgassed water can condense in the oil of rotary vane pumps and reduce their net speed drastically if gas ballasting is not used.
+Animal experiments show that rapid and complete recovery is normal for exposures shorter than 90 seconds, while longer full-body exposures are fatal and resuscitation has never been successful.
+A torr is equal to the displacement of a millimeter of mercury (mmHg) in a manometer with 1&nbsp;torr equaling 133.3223684 pascals above absolute zero pressure.
+Physicists often discuss ideal test results that would occur in a ''perfect'' vacuum, which they sometimes simply call "vacuum" or '''free space''', and use the term '''partial vacuum''' to refer to an actual imperfect vacuum as one might have in a laboratory or in space.
+All of the observable universe is filled with large numbers of photons, the so-called cosmic background radiation, and quite likely a correspondingly large number of neutrinos.
+British and German standards define ultra high vacuum as pressures below 10−6&nbsp;Pa (10−8&nbsp;Torr).
+Evaporation and sublimation into a vacuum is called outgassing.
+Ancient Greek philosophers debated the existence of a vacuum, or void, in the context of atomism, which posited void and atom as the fundamental explanatory elements of physics.
+Vacuum is primarily measured by its absolute pressure, but a complete characterization requires further parameters, such as temperature and chemical composition.
+The pump's cavity is then sealed from the chamber, opened to the atmosphere, and squeezed back to a minute size.
+He concluded that air's volume can expand to fill available space, and he suggested that the concept of perfect vacuum was incoherent.
+In his ''Physics'', book IV, Aristotle offered numerous arguments against the void: for example, that motion through a medium which offered no impediment could continue ''ad infinitum'', there being no reason that something would come to rest anywhere in particular.
+* '''Atmospheric pressure''' is variable but standardized at 101.325&nbsp;kPa (760&nbsp;Torr).
+The Crookes radiometer turns when the MFP is larger than the size of the vanes.
+Swelling and ebullism can be restrained by containment in a flight suit.
+The best-known application is the vacuum servo, used to provide power assistance for the brakes.
+These gauges are effective from 103&nbsp;torr to 10−4&nbsp;torr, and beyond.
+Robert Boyle improved Guericke's design and with the help of Robert Hooke further developed vacuum pump technology.
+The lowest pressures currently achievable in laboratory are about 10−13 torr (13&nbsp;pPa).
+Other things equal, lower gas pressure means higher-quality vacuum.
+This vacuum state is called ''high vacuum'', and the study of fluid flows in this regime is called particle gas dynamics.
+'''Hydrostatic''' gauges (such as the mercury column manometer) consist of a vertical column of liquid in a tube whose ends are exposed to different pressures.
+For theories obtained by quantization of a classical theory, each stationary point of the energy in the configuration space gives rise to a single vacuum.
+Vacuum is useful in a variety of processes and devices.
+With the acquiescence of Cartesian mechanical philosophy to the "brute fact" of action at a distance, and at length, its successful reification by force fields and ever more sophisticated geometric structure, the anachronism of empty space widened until "a seething ferment" of quantum activity in the 20th century filled the vacuum with a virtual pleroma.
+The principle behind cold cathode version is the same, except that electrons are produced in a discharge created by a high voltage electrical discharge.
+Vacuum became a valuable industrial tool in the 20th century with the introduction of incandescent light bulbs and vacuum tubes, and a wide array of vacuum technology has since become available.
+The black hole (with zero electric charge) is an elegant example of a region completely "filled" with vacuum, but still showing a strong curvature.
+A pressure drop of 13&nbsp;kPa (100&nbsp;Torr), which produces no symptoms if it is gradual, may be fatal if it occurs suddenly.
+In other words, most low vacuum gauges that read, for example 50.79&nbsp;Torr.
+The chemical inertness produced by a vacuum is also useful for electron beam welding, cold welding, vacuum packing and vacuum frying.
+Deep vacuum lowers the boiling point of liquids and promotes low temperature outgassing which is used in freeze drying, adhesive preparation, distillation, metallurgy, and process purging.
+The commonly held view that nature abhorred a vacuum was called ''horror vacui''.
+Rapid decompression can be much more dangerous than vacuum exposure itself.
+The easiest way to create an artificial vacuum is to expand the volume of a container.
+Although Descartes agreed with the contemporary position, that a vacuum does not occur in nature, the success of his namesake coordinate system and more implicitly, the spatial–corporeal component of his metaphysics would come to define the philosophically modern notion of empty space as a quantified extension of volume.
+It may or may not meet the definition of high vacuum above, depending on what region of space and astronomical bodies are being considered.
+The quality of a vacuum is indicated by the amount of matter remaining in the system, so that a high quality vacuum is one with very little matter left in it.
+Ultra-high vacuum systems are usually baked, preferably under vacuum, to temporarily raise the vapour pressure of all outgassing materials and boil them off.
+High to ultra-high vacuum removes the obstruction of air, allowing particle beams to deposit or remove materials without contamination.
+Theoretically, in QCD vacuum multiple vacuum states can coexist.
+The lowest pressure that can be attained in a system is also dependent on many things other than the nature of the pumps.
+The permeability of the metallic chamber walls may have to be considered, and the grain direction of the metallic flanges should be parallel to the flange face.
+Eventually following Stoic physics in this instance, scholars from the 14th century onward increasingly departed from the Aristotelian perspective in favor of a supernatural void beyond the confines of the cosmos itself, a conclusion widely acknowledged by the 17th century, which helped to segregate natural and theological concerns.
+Much higher-quality vacuums are possible.
+These ranges do not have universally agreed definitions, but a typical distribution is shown in the following table.
+The kenotometer measures the vacuum in the steam space of the condenser, that is, the exhaust of the last stage of the turbine.
+A study by NASA on eight chimpanzees found all of them survived two and a half minute exposures to vacuum.
+In the electromagnetism in the 19th century, vacuum was thought to be filled with a medium called aether.
+Its first widespread use was in the incandescent light bulb to protect the filament from chemical degradation.
+Some experimentally verified effects of vacuum fluctuations include spontaneous emission and the Lamb shift.
+Therefore, to properly understand the following discussions of vacuum measurement, it is important that the reader assumes the relative measurements are being done on Earth at sea level, at exactly 1 atmosphere of ambient atmospheric pressure.
+* '''Hard vacuum''' and '''soft vacuum''' are terms that are defined with a dividing line defined differently by different sources, such as 1 Torr, or 0.1 Torr, the common denominator being that a hard vacuum is a higher vacuum than a soft one.
+Vacuum has been a frequent topic of philosophical debate since ancient Greek times, but was not studied empirically until the 17th century.
+The above explanation is merely a simple introduction to vacuum pumping, and is not representative of the entire range of pumps in use.
+An approximation to such vacuum is a region with a gaseous pressure much less than atmospheric pressure.
+The current temperature of this radiation is about 3 K, or −270 degrees Celsius or −454 degrees Fahrenheit.
+Early theories of light posited a ubiquitous terrestrial and celestial medium through which light propagated.
+However, pressures as low as  (6.7&nbsp;fPa) have been indirectly measured in a 4&nbsp;K cryogenic vacuum system.
+Atmospheric pressure
+Robert Boyle was the first to show in 1660 that vacuum is lethal to small animals.

@@ -1,0 +1,200 @@
+J appears to act as a termination signal for RNA polymerase II.
+As the strands are not symmetrically located with respect to each other, the grooves are unequally sized.
+In 1919, Phoebus Levene identified the base, sugar and phosphate nucleotide unit.
+To begin transcribing a gene, the RNA polymerase binds to a sequence of DNA called a promoter and separates the DNA strands.
+The DNA sequence may be aligned with other DNA sequences to identify homologous sequences and locate the specific mutations that make them distinct.
+RNA-dependent DNA polymerases are a specialized class of polymerases that copy the sequence of an RNA strand into DNA.
+Because of inherent limits in the DNA repair mechanisms, if humans lived long enough, they would all eventually develop cancer.
+In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm.
+Naked extracellular DNA (eDNA), most of it released by cell death, is nearly ubiquitous in the environment.
+If they are twisted in the opposite direction, this is negative supercoiling, and the bases come apart more easily.
+A distinct group of DNA-binding proteins are the DNA-binding proteins that specifically bind single-stranded DNA.
+Firstly, they can bind the RNA polymerase responsible for transcription, either directly or through other mediator proteins; this locates the polymerase at the promoter and allows it to begin transcription.
+Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions.
+The development of forensic science, and the ability to now obtain genetic matching on minute samples of blood, skin, saliva, or hair has led to re-examining many cases.
+These proteins change the amount of supercoiling in DNA.
+These mutations can cause cancer.
+The width of the major groove means that the edges of the bases are more accessible in the major groove than in the minor groove.
+These enzymes function by repeatedly adding a nucleotide to the 3′ hydroxyl group at the end of the growing polynucleotide chain.
+As DNA polymerases can only extend a DNA strand in a 5′ to 3′ direction, different mechanisms are used to copy the antiparallel strands of the double helix.
+A gene is a sequence of DNA that contains genetic information and can influence the phenotype of an organism.
+Its molecular structure was identified by James Watson and Francis Crick in 1953, whose model-building efforts were guided by X-ray diffraction data acquired by Rosalind Franklin.
+A DNA sequence is called "sense" if its sequence is the same as that of a messenger RNA copy that is translated into protein.
+Entire genomes may also be compared, which can shed light on the evolutionary history of particular organism and permit the examination of complex evolutionary events.
+The structure of DNA is non-static, all species comprises two helical chains each coiled round the same axis, and each with a pitch of 34&nbsp;ångströms (3.4&nbsp;nanometres) and a radius of 10&nbsp;ångströms (1.0&nbsp;nanometre).
+In comparison, the total mass of the biosphere has been estimated to be as much as 4 trillion tons of carbon (TtC).
+Topoisomerases are required for many processes involving DNA, such as DNA replication and transcription.
+The sugar in DNA is 2-deoxyribose, which is a pentose (five-carbon) sugar.
+Although the simplest example of branched DNA involves only three strands of DNA, complexes involving additional strands and multiple branches are also possible.
+DNA is thus used as a structural material rather than as a carrier of biological information.
+In a double helix, the direction of the nucleotides in one strand is opposite to their direction in the other strand: the strands are ''antiparallel''.
+DNA profiling is also used in DNA paternity testing to determine if someone is the biological parent or grandparent of a child with the probability of parentage is typically 99.99% when the alleged parent is biologically related to the child.
+In a paper published in ''Nature'' in January 2013, scientists from the European Bioinformatics Institute and Agilent Technologies proposed a mechanism to use DNA's ability to code information as a means of digital data storage.
+Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts.
+Some of these enzymes work by cutting the DNA helix and allowing one section to rotate, thereby reducing its level of supercoiling; the enzyme then seals the DNA break.
+DNA can be twisted like a rope in a process called DNA supercoiling.
+In nature, most DNA has slight negative supercoiling that is introduced by enzymes called topoisomerases.
+A prior experiment was published in August 2012.
+Genes contain an open reading frame that can be transcribed, and regulatory sequences such as promoters and enhancers, which control transcription of the open reading frame.
+'', in 1953, for the ''in vivo'' B-DNA X-ray diffraction-scattering patterns of highly hydrated DNA fibers in terms of squares of Bessel functions.
+As with human DNA-dependent DNA polymerases, RNA polymerase II, the enzyme that transcribes most of the genes in the human genome, operates as part of a large protein complex with multiple regulatory and accessory subunits.
+An abundant form of noncoding DNA in humans are pseudogenes, which are copies of genes that have been disabled by mutation.
+both strands can contain both sense and antisense sequences).
+The DNA backbone is resistant to cleavage, and both strands of the double-stranded structure store the same biological information.
+The two strands of DNA run in opposite directions to each other and are thus antiparallel.
+DNA is used by researchers as a molecular tool to explore physical laws and theories, such as the ergodic theorem and the theory of elasticity.
+These single-stranded DNA molecules (''ssDNA'') have no single common shape, but some conformations are more stable than others.
+Levene thought the chain was short and the bases repeated in a fixed order.
+DNA was first isolated by Friedrich Miescher in 1869.
+The NaA43 DNAzyme, which is reported to be more than 10,000-fold selective for sodium over other metal ions, was used to make a real-time sodium sensor in living cells.
+In the laboratory, the strength of this interaction can be measured by finding the temperature necessary to break the hydrogen bonds, their melting temperature (also called ''Tm'' value).
+Biosynthesis of J occurs in two steps: in the first step a specific thymidine in DNA is converted into hydroxymethyldeoxyuridine; in the second HOMedU is glycosylated to form J. Proteins that bind specifically to this base have been identified.
+Compared to B-DNA, the A-DNA form is a wider right-handed spiral, with a shallow, wide minor groove and a narrower, deeper major groove.
+Deamination converts 5-methylcytosine into thymine.
+Polymerases are enzymes that synthesize polynucleotide chains from nucleoside triphosphates.
+A gene is a unit of heredity and is a region of DNA that influences a particular characteristic in an organism.
+DNA was first isolated by the Swiss physician Friedrich Miescher who, in 1869, discovered a microscopic substance in the pus of discarded surgical bandages.
+These enzymes are also needed to relieve the twisting stresses introduced into DNA strands during processes such as transcription and DNA replication.
+It may act as a recognition factor to regulate the attachment and dispersal of specific cell types in the biofilm; it may contribute to biofilm formation; and it may contribute to the biofilm's physical strength and resistance to biological stress.
+Base J (beta-d-glucopyranosyloxymethyluracil), a modified form of uracil, is also found in several organisms: the flagellates ''Diplonema'' and ''Euglena'', and all the kinetoplastid genera.
+RNA strands are  created using DNA strands as a template in a process called transcription.
+Segments of DNA where the bases have been chemically modified by methylation may undergo a larger change in conformation and adopt the Z form.
+Nobel Prizes are awarded only to living recipients.
+In this way, the base on the old strand dictates which base appears on the new strand, and the cell ends up with a perfect copy of its DNA.
+The total amount of related DNA base pairs on Earth is estimated at 5.0 x 1037, and weighs 50 billion tonnes.
+Evidence can now be uncovered that was scientifically impossible at the time of the original examination.
+Transcription is carried out by a DNA-dependent RNA polymerase that copies the sequence of a DNA strand into RNA.
+The most obvious defence to DNA matches obtained forensically is to claim that cross-contamination of evidence has occurred.
+In an influential presentation in 1957, Crick laid out the central dogma of molecular biology, which foretold the relationship between DNA, RNA, and proteins, and articulated the "adaptor hypothesis".
+However, identification can be complicated if the scene is contaminated with DNA from several people.
+The genetic information in a genome is held within genes, and the complete set of this information in an organism is called its genotype.
+Mutagens include oxidizing agents, alkylating agents and also high-energy electromagnetic radiation such as ultraviolet light and X-rays.
+As it resided in the nuclei of cells, he called it "nuclein".
+The transcription factors do this in two ways.
+However, in several bacteriophages, ''Bacillus subtilis'' bacteriophages PBS1 and PBS2 and ''Yersinia'' bacteriophage piR1-37, thymine has been replaced by uracil.
+The set of chromosomes in a cell makes up its genome; the human genome has approximately 3 billion base pairs of DNA arranged into 46 chromosomes.
+The genetically modified organisms produced can be used to produce products such as recombinant proteins, used in medical research, or be grown in agriculture.
+Extracellular DNA acts as a functional extracellular matrix component in the biofilms of several bacterial species.
+These have led to widely applied advances in computer science, especially string searching algorithms, machine learning and database theory.
+Here, the polymerase recognizes the occasional mistakes in the synthesis reaction by the lack of base pairing between the mismatched nucleotides.
+An alternative analysis was then proposed by Wilkins ''et al.
+Although the ''B-DNA form'' is most common under the conditions found in cells, it is not a well-defined conformation but a family of related DNA conformations that occur at the high hydration levels present in living cells.
+Non-homologous recombination can be damaging to cells, as it can produce chromosomal translocations and genetic abnormalities.
+This RNA copy is then decoded by a ribosome that reads the RNA sequence by base-pairing the messenger RNA to transfer RNA, which carries amino acids.
+Uracil is not usually found in DNA, occurring only as a breakdown product of cytosine.
+They include reverse transcriptase, which is a viral enzyme involved in the infection of cells by retroviruses, and telomerase, which is required for the replication of telomeres.
+However, it is unclear how long in the 4-billion-year history of life DNA has performed this function, as it has been proposed that the earliest forms of life may have used RNA as their genetic material.
+To preserve biological information, it is essential that the sequence of bases in each copy are precisely complementary to the sequence of bases in the template strand.
+As a result, proteins such as transcription factors that can bind to specific sequences in double-stranded DNA usually make contact with the sides of the bases exposed in the major groove.
+Within chromosomes, DNA is held in complexes with structural proteins.
+As a result, DNA intercalators may be carcinogens, and in the case of thalidomide, a teratogen.
+Cell division is essential for an organism to grow, but, when a cell divides, it must replicate the DNA in its genome so that the two daughter cells have the same genetic information as their parent.
+The sequence of their products are created based on existing polynucleotide chains—which are called ''templates''.
+The recombination reaction is then halted by cleavage of the junction and re-ligation of the released DNA.
+These two long strands entwine like vines, in the shape of a double helix.
+Among notable advances in this field are DNA origami and DNA-based hybrid materials.
+During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes.
+As a result, it is both the percentage of GC base pairs and the overall length of a DNA double helix that determines the strength of the association between the two strands of DNA.
+Nucleases that hydrolyse nucleotides from the ends of DNA strands are called exonucleases, while endonucleases cut within strands.
+For an intercalator to fit between base pairs, the bases must separate, distorting the DNA strands by unwinding of the double helix.
+Transmission of genetic information in genes is achieved via complementary base pairing.
+Complex DNA and RNA organic compounds of life, including uracil, cytosine, and thymine, have also been formed in the laboratory under conditions mimicking those found in outer space, using starting chemicals, such as pyrimidine, found in meteorites.
+This ancient RNA world where nucleic acid would have been used for both catalysis and genetics may have influenced the evolution of the current genetic code based on four nucleotide bases.
+The specificity of these transcription factors' interactions with DNA come from the proteins making multiple contacts to the edges of the DNA bases, allowing them to "read" the DNA sequence.
+They can be transformed into organisms in the form of plasmids or in the appropriate format, by using a viral vector.
+Other base modifications include adenine methylation in bacteria, the presence of 5-hydroxymethylcytosine in the brain, and the glycosylation of uracil to produce the "J-base" in kinetoplastids.
+In 1927, Nikolai Koltsov proposed that inherited traits would be inherited via a "giant hereditary molecule" made up of "two mirror strands that would replicate in a semi-conservative fashion using each strand as a template".
+Here, the strands turn about the helical axis in a left-handed spiral, the opposite of the more common B form.
+This method is usually an extremely reliable technique for identifying a matching DNA.
+The first published reports of A-DNA X-ray diffraction patterns—and also B-DNA—used analyses based on Patterson transforms that provided only a limited amount of structural information for oriented fibers of DNA.
+Ligases are particularly important in lagging strand DNA replication, as they join together the short segments of DNA produced at the replication fork into a complete copy of the DNA template.
+This has resulted in meticulous strict handling procedures with new cases of serious crime.
+Other types of these enzymes are capable of cutting one DNA helix and then passing a second strand of DNA through this break, before rejoining the helix.
+On the other hand, oxidants such as free radicals or hydrogen peroxide produce multiple forms of damage, including base modifications, particularly of guanosine, and double-strand breaks.
+In humans, replication protein A is the best-understood member of this family and is used in processes where the double helix is separated, including DNA replication, recombination and DNA repair.
+The most common form of chromosomal crossover is homologous recombination, where the two chromosomes involved share very similar sequences.
+Within the eukaryotic chromosomes, chromatin proteins such as histones compact and organize DNA.
+These structures are stabilized by hydrogen bonding between the edges of the bases and chelation of a metal ion in the centre of each four-base unit.
+In 1928, Frederick Griffith in his experiment discovered that traits of the "smooth" form of ''Pneumococcus'' could be transferred to the "rough" form of the same bacteria by mixing killed "smooth" bacteria with the live "rough" form.
+If DNA sequences within a species are compared, population geneticists can learn the history of particular populations.
+In a DNA double helix, each type of nucleobase on one strand bonds with just one type of nucleobase on the other strand.
+The expression of genes is influenced by how the DNA is packaged in chromosomes, in a structure called chromatin.
+There is, further, crosstalk between DNA methylation and histone modification, so they can coordinately affect chromatin and gene expression.
+The backbone of the DNA strand is made from alternating phosphate and sugar residues.
+Building blocks of DNA (adenine, guanine and related organic molecules) may have been formed extraterrestrially in outer space.
+DNA profiling was developed in 1984 by British geneticist Sir Alec Jeffreys, and first used in forensic science to convict Colin Pitchfork in the 1988 Enderby murders case.
+The details of these functions are covered in other articles; here the focus is on the interactions between DNA and other molecules that mediate the function of the genome.
+The nucleotides are joined to one another in a chain by covalent bonds between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone.
+Branched DNA can be used in nanotechnology to construct geometric shapes, see the section on uses in technology below.
+These guanine-rich sequences may stabilize chromosome ends by forming structures of stacked sets of four-base units, rather than the usual base pairs found in other DNA molecules.
+This has led to the creation of two-dimensional periodic lattices (both tile-based and using the ''DNA origami'' method) and three-dimensional structures in the shapes of polyhedra.
+The double-stranded structure of DNA provides a simple mechanism for DNA replication.
+DNA contains the genetic information that allows all modern living things to function, grow and reproduce.
+Although each individual repeating unit is very small, DNA polymers can be very large molecules containing millions of nucleotides.
+The two strands can come apart&nbsp;– a process known as melting&nbsp;– to form two single-stranded DNA molecules ('''ssDNA''') molecules.
+As a consequence, all polymerases work in a 5′ to 3′ direction.
+Chemical modifications of these basic amino acid residues include methylation, phosphorylation and acetylation.
+These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence.
+In DNA profiling, the lengths of variable sections of repetitive DNA, such as short tandem repeats and minisatellites, are compared between people.
+In eukaryotes this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved.
+In biology, parts of the DNA double helix that need to separate easily, such as the TATAAT Pribnow box in some promoters, tend to have a high AT content, making the strands easier to pull apart.
+In eukaryotes, DNA is located in the cell nucleus, with small amounts in mitochondria and chloroplasts.
+For example, UV light can damage DNA by producing thymine dimers, which are cross-links between pyrimidine bases.
+Methods have been developed to purify DNA from organisms, such as phenol-chloroform extraction, and to manipulate it in the laboratory, such as restriction digests and the polymerase chain reaction.
+DNA's role in heredity was confirmed in 1952, when Alfred Hershey and Martha Chase in the Hershey–Chase experiment showed that DNA is the genetic material of the T2 phage.
+The group was able to encode 739 kilobytes of data into DNA code, synthesize the actual DNA, then sequence the DNA and decode the information back to its original form, with a reported 100% accuracy.
+If the DNA is twisted in the direction of the helix, this is positive supercoiling, and the bases are held more tightly together.
+Modern biology and biochemistry make intensive use of these techniques in recombinant DNA technology.
+Deoxyribozymes, also called DNAzymes or catalytic DNA are first discovered in 1994.
+DNA and RNA are  nucleic acids; alongside proteins, lipids and complex carbohydrates (polysaccharides), they are one of the four major types of macromolecules that are essential for all known forms of life.
+All the functions of DNA depend on interactions with proteins.
+Attached to each sugar is one of four types of nucleobases (informally, ''bases'').
+These unusual structures can be recognized by specific Z-DNA binding proteins and may be involved in the regulation of transcription.
+Their corresponding X-ray diffraction and scattering patterns are characteristic of molecular paracrystals with a significant degree of disorder.
+In the active site of these enzymes, the incoming nucleoside triphosphate base-pairs to the template: this allows polymerases to accurately synthesize the complementary strand of their template.
+Alternatively, transcription factors can bind enzymes that modify the histones at the promoter.
+Top, a '''GC''' base pair with three hydrogen bonds.
+It then copies the gene sequence into a messenger RNA transcript until it reaches a region of DNA called the terminator, where it halts and detaches from the DNA.
+Genetic recombination can also be involved in DNA repair, particularly in the cell's response to double-strand breaks.
+Other structures can also be formed, with the central set of four bases coming from either a single strand folded around the bases, or several different parallel strands, each contributing one base to the central structure.
+In alternative fashion, a cell may simply copy its genetic information in a process called DNA replication.
+A few DNA sequences in prokaryotes and eukaryotes, and more in plasmids and viruses, blur the distinction between sense and antisense strands by having overlapping genes.
+Nanomechanical devices and algorithmic self-assembly have also been demonstrated, and these DNA structures have been used to template the arrangement of other molecules such as gold nanoparticles and streptavidin proteins.
+These asymmetric bonds mean a strand of DNA has a direction.
+For example, in transcription, when a cell uses the information in a gene, the DNA sequence is copied into a complementary RNA sequence through the attraction between the DNA and the correct RNA nucleotides.
+Final confirmation of the replication mechanism that was implied by the double-helical structure followed in 1958 through the Meselson–Stahl experiment.
+They use the chemical energy in nucleoside triphosphates, predominantly adenosine triphosphate (ATP), to break hydrogen bonds between bases and unwind the DNA double helix into single strands.
+Enzymes called DNA ligases can rejoin cut or broken DNA strands.
+Because DNA collects mutations over time, which are then inherited, it contains historical information, and, by comparing DNA sequences, geneticists can infer the evolutionary history of organisms, their phylogeny.
+The relationship between the nucleotide sequences of genes and the amino-acid sequences of proteins is determined by the rules of translation, known collectively as the genetic code.
+Consequently, these proteins are often the targets of the signal transduction processes that control responses to environmental changes or cellular differentiation and development.
+Branched DNA can form networks containing multiple branches.
+Base modifications can be involved in packaging, with regions that have low or no gene expression usually containing high levels of methylation of cytosine bases.
+This accumulation appears to be an important underlying cause of aging.
+Telomerase is an unusual polymerase because it contains its own RNA template as part of its structure.
+The four bases found in DNA are adenine (A), cytosine (C), guanine (G) and thymine (T).
+Most of these base-interactions are made in the major groove, where the bases are most accessible.
+DNA profiling is also used successfully to positively identify victims of mass casualty incidents, bodies or body parts in serious accidents, and individual victims in mass war graves, via matching to family members.
+It was represented by A-T base pairs and G-C base pairs.
+Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA.
+As a result of this base pair complementarity, all the information in the double-stranded sequence of a DNA helix is duplicated on each strand, which is vital in DNA replication.
+The asymmetric ends of DNA strands are said to have a directionality of ''five prime'' (5′) and ''three prime'' (3′), with the 5′ end having a terminal phosphate group and the 3′ end a terminal hydroxyl group.
+Bottom, an '''AT''' base pair with two hydrogen bonds.
+RNA may have acted as the central part of early cell metabolism as it can both transmit genetic information and carry out catalysis as part of ribozymes.
+This process is formally termed DNA profiling, but may also be called "genetic fingerprinting".
+Further work by Crick and coworkers showed that the genetic code was based on non-overlapping triplets of bases, called codons, allowing Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg to decipher the genetic code.
+These voids are adjacent to the base pairs and may provide a binding site.
+Enzymes can also bind to DNA and of these, the polymerases that copy the DNA base sequence in transcription and DNA replication are particularly important.
+Pyrimidine, like polycyclic aromatic hydrocarbons (PAHs), the most carbon-rich chemical found in the universe, may have been formed in red giants or in interstellar cosmic dust and gas clouds.
+Telomeres and centromeres typically contain few genes, but are important for the function and stability of chromosomes.
+In bacteria, this overlap may be involved in the regulation of gene transcription, while in viruses, overlapping genes increase the amount of information that can be encoded within the small viral genome.
+Within eukaryotic cells, DNA is organized into long structures called chromosomes.
+One proposal is that antisense RNAs are involved in regulating gene expression through RNA-RNA base pairing.
+It is the sequence of these four nucleobases along the backbone that encodes biological information.
+Despite the importance of 5-methylcytosine, it can deaminate to leave a thymine base, so methylated cytosines are particularly prone to mutations.
+Helicases are proteins that are a type of molecular motor.
+This inhibits both transcription and DNA replication, causing toxicity and mutations.
+In the same journal, James Watson and Francis Crick presented their molecular modeling analysis of the DNA X-ray diffraction patterns to suggest that the structure was a double-helix.
+One groove, the major groove, is 22 &nbsp;Å wide and the other, the minor groove, is 12&nbsp;Å wide.
+As these DNA targets can occur throughout an organism's genome, changes in the activity of one type of transcription factor can affect thousands of genes.
+For one example, cytosine methylation, produces 5-methylcytosine, which is important for X-inactivation of chromosomes.

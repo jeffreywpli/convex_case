@@ -1,0 +1,200 @@
+This solution is considered to be the first theorem of graph theory, specifically of planar graph theory.
+::For both ends fixed, ''K'' = 0.50.
+The city of Königsberg, Prussia was set on the Pregel River, and included two large islands that were connected to each other and the mainland by seven bridges.
+The Prussian king had a large circle of intellectuals in his court and he found the mathematician unsophisticated and ill-informed on matters beyond numbers and figures.
+Euler later envisaged the possibility of describing genres including the prime number 7.
+A curve that is contained completely within the interior zone of another represents a subset of it.
+His calculations also contributed to the development of accurate longitude tables.
+Soon after the birth of Leonhard, the Eulers moved from Basel to the town of Riehen, where Euler spent most of his childhood.
+Euler's name is associated with a large number of topics.
+* ''E'' = modulus of elasticity,
+The problem is to decide whether it is possible to follow a path that crosses each bridge exactly once and returns to the starting point.
+In 1726, Euler completed a dissertation on the propagation of sound with the title ''De Sono''.
+In addition, Euler elaborated the theory of higher transcendental functions by introducing the gamma function and introduced a new method for solving quartic equations.
+The legend was apparently first told by
+In differential form, the equations are:
+He also introduced much of the modern mathematical terminology and notation, particularly for mathematical analysis, such as the notion of a mathematical function.
+Euler is the only mathematician to have ''two'' numbers named after him: the important Euler's number in calculus, ''e'', approximately equal to 2.71828, and the Euler–Mascheroni constant γ (gamma) sometimes referred to as just "Euler's constant", approximately equal to 0.57721.
+Euler was a simple, devoutly religious man who never questioned the existing social order or conventional beliefs, in many ways the polar opposite of Voltaire, who enjoyed a high place of prestige at Frederick's court.
+* ''L'' = unsupported length of column,
+In doing so, he united two disparate branches of mathematics and introduced a new field of study, analytic number theory.
+As a result, it was made especially attractive to foreign scholars like Euler.
+Much of what is known of Euler's religious beliefs can be deduced from his ''Letters to a German Princess'' and an earlier work, ''Rettung der Göttlichen Offenbahrung Gegen die Einwürfe der Freygeister'' (''Defense of the Divine Revelation against the Objections of the Freethinkers'').
+In 1757 he published an important set of equations for inviscid flow, that are now known as the Euler equations.
+He also introduced the modern notation for the trigonometric functions, the letter  for the base of the natural logarithm (now also known as Euler's number), the Greek letter Σ for summations and the letter  to denote the imaginary unit.
+In 1720, aged thirteen, he enrolled at the University of Basel, and in 1723, he received a Master of Philosophy with a dissertation that compared the philosophies of Descartes and Newton.
+Genres 12 (2m.33.5), 13 (2m.32.52) and 14 (2m.3.53) are corrected versions of the diatonic, chromatic and enharmonic, respectively, of the Ancients.
+Euler diagrams were incorporated as part of instruction in set theory as part of the new math movement in the 1960s.
+Euler succeeded him as the head of the mathematics department.
+He disagreed with Newton's corpuscular theory of light in the ''Opticks'', which was then the prevailing theory.
+of possible divisions of the octave using the prime numbers 3 and 5.
+Euler diagrams consist of simple closed curves (usually circles) in the plane that depict sets.
+The political situation in Russia stabilized after Catherine the Great's accession to the throne, so in 1766 Euler accepted an invitation to return to the St. Petersburg Academy.
+Euler introduced and popularized several notational conventions through his numerous and widely circulated textbooks.
+Euler later won this annual prize twelve times.
+Embarrassed, he asked to leave Russia, a request that was graciously granted by the Empress.
+The young couple bought a house by the Neva River.
+However, his second stay in the country was marred by tragedy.
+Leonhard Euler was born on 15 April 1707, in Basel, Switzerland to Paul Euler, a pastor of the Reformed Church, and Marguerite  Brucker, a pastor's daughter.
+He lodged with Daniel Bernoulli with whom he often worked in close collaboration.
+He contributed significantly to the theory of perfect numbers, which had fascinated mathematicians since Euclid.
+His accomplishments include determining with great accuracy the orbits of comets and other celestial bodies, understanding the nature of comets, and calculating the parallax of the sun.
+Euler helped develop the Euler–Bernoulli beam equation, which became a cornerstone of engineering.
+Euler describes 18 such genres, with the general definition 2mA, where A is the "exponent" of the genre (i.e.
+Most notably, he introduced the concept of a function and was the first to write ''f''(''x'') to denote the function ''f'' applied to the argument ''x''.
+The development of infinitesimal calculus was at the forefront of 18th Century mathematical research, and the Bernoullis—family friends of Euler—were responsible for much of the early progress in the field.
+The first genre, with A = 1, is the octave itself (or its duplicates); the second genre, 2m.3, is the octave divided by the fifth (fifth + fourth, C–G–C); the third genre is 2m.5, major third + minor sixth (C–E–C); the fourth is 2m.32, two fourths and a tone (C–F–Bb–C); the fifth is 2m.3.5 (C–E–G–B–C); etc.
+While some of Euler's proofs are not acceptable by modern standards of mathematical rigour (in particular his reliance on the principle of the generality of algebra), his ideas led to many great advances.
+He also defined the exponential function for complex numbers, and discovered its relation to the trigonometric functions.
+The device knew a renewed interest as the Tonnetz in neo-Riemannian theory (see also Lattice (music)).
+With the aid of his scribes, Euler's productivity on many areas of study actually increased.
+Frederick also expressed disappointment with Euler's practical engineering abilities:
+In his eulogy for the French Academy, French mathematician and philosopher Marquis de Condorcet, wrote:
+the sum of the exponents of 3 and 5) and 2m (where "m is an indefinite number, small or large, so long as the sounds are perceptible"), expresses that the relation holds independently of the number of octaves concerned.
+It is not known whether γ is rational or irrational.
+There is a famous legend inspired by Euler's arguments with secular philosophers over religion, which is set during Euler's second stint at the St. Petersburg academy.
+Euler worked in almost all areas of mathematics, such as geometry, infinitesimal calculus, trigonometry, algebra, and number theory, as well as continuum physics, lunar theory and other areas of physics.
+Euler was featured on the sixth series of the Swiss 10-franc banknote and on numerous Swiss, German, and Russian postage stamps.
+Each Euler curve divides the plane into two regions or "zones": the interior, which symbolically represents the elements of the set, and the exterior, which represents all elements that are not members of the set.
+* ''K L'' is the effective length of the column.
+At that time Euler's main studies included theology, Greek, and Hebrew at his father's urging in order to become a pastor, but Bernoulli convinced his father that Leonhard was destined to become a great mathematician.
+The concept is regarded as a fundamental theorem of number theory, and his ideas paved the way for the work of Carl Friedrich Gauss.
+He integrated Leibniz's differential calculus with Newton's Method of Fluxions, and developed tools that made it easier to apply calculus to physical problems.
+He discovered ways to express various logarithmic functions using power series, and he successfully defined logarithms for negative and complex numbers, thus greatly expanding the scope of mathematical applications of logarithms.
+* ''p'' is the pressure,
+Euler further used the principle of the "exponent" to propose a derivation of the ''gradus suavitatis'' (degree of suavity, of agreeableness) of intervals and chords from their prime factors – one must keep in mind that he considered just intonation, i.e.
+This work contained Euler's exposition on various subjects pertaining to physics and mathematics, as well as offering valuable insights into Euler's personality and religious beliefs.
+* ''ρ'' is the fluid mass density,
+In 1735, Euler presented a solution to the problem known as the Seven Bridges of Königsberg.
+In total, Euler was responsible for three of the top five formulae in that poll.
+The academy possessed ample financial resources and a comprehensive library drawn from the private libraries of Peter himself and of the nobility.
+called "the most remarkable formula in mathematics" by Richard P. Feynman, for its single uses of the notions of addition, multiplication, exponentiation, and equality, and the single uses of the important constants 0, 1, ,  and .
+He proved that the relationship shown between perfect numbers and Mersenne primes earlier proved by Euclid was one-to-one, a result otherwise known as the Euclid–Euler theorem.
+(Indirect proof via the inverse power series technique was given by Newton and Leibniz between 1670 and 1680.)
+A statement attributed to Pierre-Simon Laplace expresses Euler's influence on mathematics: "Read Euler, read Euler, he is the master of us all."
+His collected works fill 60 to 80 quarto volumes, more than anybody in the field.
+Euler's vision in that eye worsened throughout his stay in Germany, to the extent that Frederick referred to him as "Cyclops".
+Euler was one of the most eminent mathematicians of the 18th century, and is held to be one of the greatest in history.
+In 1755, he was elected a foreign member of the Royal Swedish Academy of Sciences.
+He also invented the totient function φ(''n''), the number of positive integers less than or equal to the integer ''n'' that are coprime to ''n''.
+The Russian nobility then gained power upon the ascension of the twelve-year-old Peter II.
+The constant in this formula is now known as the Euler characteristic for the graph (or other mathematical object), and is related to the genus of the object.
+Euler's work in this area led to the development of the prime number theorem.
+Euler is also well known in structural engineering for his formula giving the critical buckling load of an ideal strut, which depends only on its length and flexural stiffness:
+However, his condition appeared to have little effect on his productivity, as he compensated for it with his mental calculation skills and exceptional memory.
+In 1738, three years after nearly expiring from fever, he became almost blind in his right eye, but Euler rather blamed the painstaking work on cartography he performed for the St. Petersburg Academy for his condition.
+Around this time Johann Bernoulli's two sons, Daniel and Nicolaus, were working at the Imperial Russian Academy of Sciences in Saint Petersburg.
+* ''F'' = maximum or critical force (vertical load on column),
+Euler was not a skilled debater and often made it a point to argue subjects that he knew little about, making him the frequent target of Voltaire's wit.
+* ''I'' = area moment of inertia,
+Notably, Euler directly proved the power series expansions for  and the inverse tangent function.
+Despite Euler's immense contribution to the Academy's prestige, he eventually incurred the ire of Frederick and ended up having to leave Berlin.
+Conditions improved slightly after the death of Peter II, and Euler swiftly rose through the ranks in the academy and was made professor of physics in 1731.
+This marriage lasted until his death.
+In St. Petersburg on 18 September 1783, after a lunch with his family, Euler was discussing the newly discovered planet Uranus and its orbit with a fellow academician Anders Johan Lexell, when he collapsed from a brain hemorrhage.
+An Euler diagram is a diagrammatic means of representing sets and their relationships.
+De Moivre's formula is a direct consequence of Euler's formula.
+A complete chronological list of Euler's works is available at the following page: '' The Eneström Index'' (PDF).
+At that time, he was unsuccessfully attempting to obtain a position at the University of Basel.
+Euler later developed a cataract in his left eye, which was discovered in 1766.
+It is not possible: there is no Eulerian circuit.
+Diderot was informed that a learned mathematician had produced a proof of the existence of God: he agreed to view the proof as it was presented in court.
+The most notable of these approximations are Euler's method and the Euler–Maclaurin formula.
+To commemorate the 250th anniversary of Euler's birth, the headstone was moved in 1956, together with his remains, to the 18th-century necropolis at the Alexander Nevsky Monastery.
+The Academy at Saint Petersburg, established by Peter the Great, was intended to improve education in Russia and to close the scientific gap with Western Europe.
+In addition, Euler made important contributions in optics.
+He is also known for his work in mechanics, fluid dynamics, optics, astronomy, and music theory.
+In 1760, with the Seven Years' War raging, Euler's farm in Charlottenburg was ransacked by advancing Russian troops.
+Genre 18 (2m.33.52) is the "diatonico-chromatic", "used generally in all compositions", and which turns out to be identical with the system described by Johann Mattheson.
+Since then, they have also been adopted by other curriculum fields such as reading.
+::For one end fixed and the other end pinned, ''K'' = 0.699…
+The use of the Greek letter ''π'' to denote the ratio of a circle's circumference to its diameter was also popularized by Euler, although it did not originate with him.
+The study and generalization of this formula, specifically by Cauchy and L'Huillier, is at the origin of topology.
+Just a few weeks after its discovery, he was rendered almost totally blind.
+Three years after his wife's death, Euler married her half-sister, Salome Abigail Gsell (1723–1794).
+The nobility were suspicious of the academy's foreign scientists, and thus cut funding and caused other difficulties for Euler and his colleagues.
+Euler's religious leanings might also have had a bearing on his dislike of the doctrine; he went so far as to label Wolff's ideas as "heathen and atheistic".
+Curves whose interior zones do not intersect represent disjoint sets.
+Euler insisted that knowledge is founded in part on the basis of precise quantitative laws, something that monadism and Wolffian science were unable to provide.
+In doing so, he discovered the connection between the Riemann zeta function and the prime numbers; this is known as the Euler product formula for the Riemann zeta function.
+Euler's formal education started in Basel, where he was sent to live with his maternal grandmother.
+1 and the prime numbers 3 and 5 only.
+where ''pi'' are prime numbers and ''ki'' their exponents.
+By 1772 Euler had proved that 231&nbsp;−&nbsp;1 = 2,147,483,647 is a Mersenne prime.
+Euler mastered Russian and settled into life in Saint Petersburg.
+On 31 July 1726, Nicolaus died of fever after spending less than a year in Russia, and when Daniel assumed his brother's position in the mathematics/physics division, he recommended that the post in physiology that he had vacated be filled by his friend Euler.
+His conditions were quite exorbitant – a 3000 ruble annual salary, a pension for his wife, and the promise of high-ranking appointments for his sons.
+Euler also discovered the formula &nbsp;−&nbsp;&nbsp;+&nbsp;&nbsp;=&nbsp;2 relating the number of vertices, edges and faces of a convex polyhedron, and hence of a planar graph.
+His 1740s papers on optics helped ensure that the wave theory of light proposed by Christiaan Huygens would become the dominant mode of thought, at least until the development of the quantum theory of light.
+He made great strides in improving the numerical approximation of integrals, inventing what are now known as the Euler approximations.
+For example, he proved the infinitude of primes using the divergence of the harmonic series, and he used analytic methods to gain some understanding of the way prime numbers are distributed.
+He spent the rest of his life in Russia.
+Aside from successfully applying his analytic tools to problems in classical mechanics, Euler also applied these techniques to celestial problems.
+In 1739 he wrote the ''Tentamen novae theoriae musicae,'' hoping to eventually incorporate musical theory as part of mathematics.
+Some of Euler's greatest successes were in solving real-world problems analytically, and in describing numerous applications of the Bernoulli numbers, Fourier series, Venn diagrams, Euler numbers, the constants  and , continued fractions and integrals.
+He was promoted from his junior post in the medical department of the academy to a position in the mathematics department.
+Euler was buried next to Katharina at the Smolensk Lutheran Cemetery on Vasilievsky Island.
+Using properties of this function, he generalized Fermat's little theorem to what is now known as Euler's theorem.
+The asteroid 2002 Euler was named in his honor.
+Euler also pioneered the use of analytic methods to solve number theory problems.
+Concerned about the continuing turmoil in Russia, Euler left St. Petersburg on 19 June 1741 to take up a post at the ''Berlin Academy'', which he had been offered by Frederick the Great of Prussia.
+Two years later, Daniel Bernoulli, who was fed up with the censorship and hostility he faced at Saint Petersburg, left for Basel.
+For example, Euler could repeat the Aeneid of Virgil from beginning to end without hesitation, and for every page in the edition he could indicate which line was the first and which the last.
+All of these requests were granted.
+Paul Euler was a friend of the Bernoulli family; Johann Bernoulli was then regarded as Europe's foremost mathematician, and would eventually be the most important influence on young Leonhard.
+The French philosopher Denis Diderot was visiting Russia on Catherine the Great's invitation.
+Euler appeared, advanced toward Diderot, and in a tone of perfect conviction announced this non-sequitur: "Sir, =''x'', hence God exists—reply!"
+Formulas have been proposed extending this system to any number of prime numbers, e.g.
+Of their thirteen children, only five survived childhood.
+He also facilitated the use of differential equations, in particular introducing the Euler–Mascheroni constant:
+In addition, Euler was asked to tutor Friederike Charlotte of Brandenburg-Schwedt, the Princess of Anhalt-Dessau and Frederick's niece.
+At that time, he was receiving Saturday afternoon lessons from Johann Bernoulli, who quickly discovered his new pupil's incredible talent for mathematics.
+He had two younger sisters: Anna Maria and Maria Magdalena, and a younger brother Johann Heinrich.
+In 1988, readers of the ''Mathematical Intelligencer'' voted it "the Most Beautiful Mathematical Formula Ever".
+The Academy's benefactress, Catherine I, who had continued the progressive policies of her late husband, died on the day of Euler's arrival.
+In November 1726 Euler eagerly accepted the offer, but delayed making the trip to Saint Petersburg while he unsuccessfully applied for a physics professorship at the University of Basel.
+On 7 January 1734, he married Katharina Gsell (1707–1773), a daughter of Georg Gsell, a painter from the Academy Gymnasium.
+Euler also conjectured the law of quadratic reciprocity.
+Euler arrived in Saint Petersburg on 17 May 1727.
+Euler and his friend Daniel Bernoulli were opponents of Leibniz's monadism and the philosophy of Christian Wolff.
+He also invented the calculus of variations including its best-known result, the Euler–Lagrange equation.
+This book became more widely read than any of his mathematical works, and was published across Europe and in the United States.
+'''Leonhard Euler''' ( ; Swiss Standard German , German Standard German ) (15 April 170718 September 1783) was a Swiss  mathematician, physicist, astronomer, logician and engineer who made important and influential discoveries in many branches of mathematics like infinitesimal calculus and graph theory while also making pioneering contributions to several branches such as topology and analytic number theory.
+His daring use of power series enabled him to solve the famous Basel problem in 1735 (he provided a more elaborate argument in 1741):
+Euler wrote over 200 letters to her in the early 1760s, which were later compiled into a best-selling volume entitled ''Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess''.
+However amusing the anecdote may be, it is apocryphal, given that Diderot himself did research in mathematics.
+* '''0''' being the zero vector.
+It may have remained the largest known prime until 1867.
+In 1785, the Russian Academy of Sciences put a marble bust of Leonhard Euler on a pedestal next to the Director's seat and, in 1837, placed a headstone on Euler's grave.
+His work in astronomy was recognized by a number of Paris Academy Prizes over the course of his career.
+Two curves whose interior zones intersect represent sets that have common elements; the zone inside both curves represents the set of elements common to both sets (the intersection of the sets).
+He also took on an additional job as a medic in the Russian Navy.
+In Berlin, he published the two works for which he would become most renowned: The ''Introductio in analysin infinitorum'', a text on functions published in 1748, and the ''Institutiones calculi differentialis'', published in 1755 on differential calculus.
+In breaking ground for this new field, Euler created the theory of hypergeometric series, q-series, hyperbolic trigonometric functions and the analytic theory of continued fractions.
+Very few students were enrolled in the academy in order to lessen the faculty's teaching burden, and the academy emphasized research and offered to its faculty both the time and the freedom to pursue scientific questions.
+The popularity of the 'Letters' testifies to Euler's ability to communicate scientific matters effectively to a lay audience, a rare ability for a dedicated research scientist.
+A lot of Euler's early work on number theory was based on the works of Pierre de Fermat.
+Upon learning of this event, General Ivan Petrovich Saltykov paid compensation for the damage caused to Euler's estate, later Empress Elizabeth of Russia added a further payment of 4000 roubles - an exorbitant amount at the time.
+One of Euler's more unusual interests was the application of mathematical ideas in music.
+Euler is well known in analysis for his frequent use and development of power series, the expression of functions as sums of infinitely many terms, such as
+He is also widely considered to be the most prolific mathematician of all time.
+He spent most of his adult life in St. Petersburg, Russia, and in Berlin, then the capital of Prussia.
+* ''⊗'' denotes the tensor product, and
+This part of his work, however, did not receive wide attention and was once described as too mathematical for musicians and too musical for mathematicians.
+A fire in St. Petersburg in 1771 cost him his home, and almost his life.
+Euler developed some of Fermat's ideas, and disproved some of his conjectures.
+Dieudonné Thiébault with significant embellishment by Augustus De Morgan.
+Euler proved Newton's identities, Fermat's little theorem, Fermat's theorem on sums of two squares, and he made distinct contributions to Lagrange's four-square theorem.
+Euler introduced the use of the exponential function and logarithms in analytic proofs.
+He died a few hours later.
+Thanks to their influence, studying calculus became the major focus of Euler's work.
+::For one end fixed and the other end free to move laterally, ''K'' = 2.0.
+These works show that Euler was a devout Christian who believed the Bible to be inspired; the ''Rettung'' was primarily an argument for the divine inspiration of scripture.
+A first point of Euler’s musical theory is the definition of "genres", i.e.
+A definitive collection of Euler's works, entitled ''Opera Omnia'', has been published since 1911 by the Euler Commission of the Swiss Academy of Sciences.
+A special case of the above formula is known as Euler's identity,
+* ''K'' = column effective length factor, whose value depends on the conditions of end support of the column, as follows.
+Euler's eyesight worsened throughout his mathematical career.
+He also found a way to calculate integrals with complex limits, foreshadowing the development of modern complex analysis.
+In 1782 he was elected a Foreign Honorary Member of the American Academy of Arts and Sciences.
+* '''''u''''' is the fluid velocity vector, with components ''u'', ''v'', and ''w'',

@@ -1,0 +1,200 @@
+In fact, from the evolutionary point of view, the members of genus ''Shigella'' (''S.
+Optimum growth of ''E.
+This toxin causes premature destruction of the red blood cells, which then clog the body's filtering system, the kidneys, causing hemolytic-uremic syndrome (HUS).
+coli'' plays an important role in modern biological engineering and industrial microbiology.
+At the fastest growth rates, replication begins before the previous round of replication has completed, resulting in multiple replication forks along the DNA and overlapping cell cycles.
+Different strains of ''E.
+coli'' was one of the first organisms to have its genome sequenced; the complete genome of ''E.
+coli'' K12 was published by ''Science'' in 1997.
+In 1946, Joshua Lederberg and Edward Tatum first described the phenomenon known as bacterial conjugation using ''E.
+coli'' are usually named by 4-letter acronyms that derive from their function (when known).
+In rarer cases, virulent strains are also responsible for bowel necrosis (tissue death) and perforation without progressing to hemolytic-uremic syndrome, peritonitis, mastitis, septicemia, and gram-negative pneumonia.
+This was followed by a split of the escherichian ancestor into five species (''E.
+Like all lifeforms, new strains of ''E.
+The bacterium grows massively in fresh fecal matter under aerobic conditions for 3 days, but its numbers decline slowly afterwards.
+coli'' strains (the pangenome) exceeds 16,000.
++ "aceae", but from "enterobacterium" + "aceae" (enterobacterium being not a genus, but an alternative trivial name to enteric bacterium).
+coli'' grows in a variety of defined laboratory media, such as lysogeny broth, or any medium that contains glucose, ammonium phosphate, mono basic, sodium chloride, magnesium sulfate, potassium phosphate, dibasic, and water.
+coli'' was sequenced, all genes were numbered (more or less) in their order on the genome and abbreviated by b numbers, such as b2819 (=recD)  etc.
+A growing body of research, though, has examined environmentally persistent ''E.
+coli'' and related bacteria shows that a taxonomic reclassification would be desirable.
+coli''-predominant traveller’s diarrhoea, it appears ineffective in patients infected with inflammatory or invasive enteropathogens.
+coli'' belong to group A and are derived mainly from Clifton's K-12 strain (λ⁺ F⁺; O16) and to a lesser degree from d'Herelle's ''Bacillus coli'' strain (B strain)(O7).
+It is the primary facultative anaerobe of the human gastrointestinal tract.
+More virulent strains, such as O157:H7, cause serious illness or death in the elderly, the very young, or the immunocompromised.
+An oral ETEC vaccine candidate consisting of rCTB and formalin inactivated ''E.
+coli'' in a phylogenomic study that included the type strain, and for this reason an according reclassification is difficult.
+coli'' K12) are well-adapted to the laboratory environment, and, unlike wild-type strains, have lost their ability to thrive in the intestine.
+The original strain described by Escherich is believed to be lost, consequently a new type strain (neotype) was chosen as a representative: the neotype strain is U5/41T, also known under the deposit names DSM 30083, ATCC 11775, and NCTC 9001, which is pathogenic to chickens and has an O1:K1:H7 serotype.
+The "b" names were created after Fred Blattner who led the genome sequence effort.
+One of the first useful applications of recombinant DNA technology was the manipulation of ''E.
+Anal intercourse can also introduce this bacterium into the male urethra, and in switching from anal to vaginal intercourse, the male can also introduce UPEC to the female urogenital system.
+coli'' is not damaged by penicillin.
+On 30 June 2011, the German ''Bundesinstitut für Risikobewertung (BfR)'' (Federal Institute for Risk Assessment, a federal institute within the German Federal Ministry of Food, Agriculture and Consumer Protection) announced that seeds of fenugreek from Egypt were likely the cause of the EHEC outbreak.
+coli'' is classified as a facultative anaerobe.
+These features protect wild-type strains from antibodies and other chemical attacks, but require a large expenditure of energy and material resources.
+Note, however, that most databases have their own numbering system, e.g.
+coli'' are often host-specific, making it possible to determine the source of fecal contamination in environmental samples.
+the licensed recombinant cholera B subunit (rCTB)-WC cholera vaccine Dukoral have been developed.
+Unlike eukaryotes, prokaryotes do not rely upon either changes in gene expression or changes in protein synthesis to control the cell cycle.
+However, this has not been done, largely due to its medical importance, and ''E.
+coli'' from other, closely related bacteria, such as ''Salmonella'', this innovation may mark a speciation event observed in the laboratory.
+However, the length of the C and D periods do not change, even when the doubling time becomes less than the sum of the C and D periods.
+At present, about 190 serogroups are known.
+Recent evidence suggests that it may be membrane- or lipid-based.
+For example, proteins with multiple disulphide bonds may be produced in the periplasmic space or in the cytoplasm of mutants rendered sufficiently oxidizing to allow disulphide-bonds to form, while proteins requiring post-translational modification such as glycosylation for stability or function have been expressed using the N-linked glycosylation system of ''Campylobacter jejuni'' engineered into ''E.
+coli'' O157:H7, the Shiga toxin producing strain of ''E.
+The mainstay of treatment is the assessment of dehydration and replacement of fluid and electrolytes.
+Growth can be driven by aerobic or anaerobic respiration, using a large variety of redox pairs, including the oxidation of pyruvic acid, formic acid, hydrogen, and amino acids, and the reduction of substrates such as oxygen, nitrate, fumarate, dimethyl sulfoxide, and trimethylamine N-oxide.
+coli'' stains gram-negative because its cell wall is composed of a thin peptidoglycan layer and an outer membrane.
+coli'', using plasmids and restriction enzymes to create recombinant DNA, became a foundation of biotechnology.
+coli'' adheres to the mucus of the large intestine.
+Researchers can introduce genes into the microbes using plasmids which permit high level expression of protein, and such protein may be mass-produced in industrial fermentation processes.
+Rajagopala ''et al.''
+A 2009 study found 5,993 interactions between proteins of the same ''E.
+Some strains develop traits that can be harmful to a host animal.
+Oral inactivated vaccines consisting of toxin antigen and whole cells, i.e.
+It was found to be a circular DNA molecule 4.6 million base pairs in length, containing 4288 annotated protein-coding genes (organized into 2584 operons), seven ribosomal RNA (rRNA) operons, and 86 transfer RNA (tRNA) genes.
+Antibodies against the LT and major CFs of ETEC provide protection against LT-producing ETEC expressing homologous CFs.
+Despite having been the subject of intensive genetic analysis for about 40 years, a large number of these genes were previously unknown.
+Indeed, all ''Shigella'' species were placed within a single subspecies of ''E.
+coli'' strains over expressing the major CFs and a more LT-like hybrid toxoid called LCTBA, are undergoing clinical testing.
+coli'' strain, though these data showed little overlap with those of the 2006 publication.
+coli'' are a major cause of foodborne illness.
+Comparison of these sequences shows a remarkable amount of diversity; only about 20% of each genome represents sequences present in every one of the isolates, while around 80% of each genome can vary among isolates.
+Cells are typically rod-shaped, and are about 2.0 micrometers (μm) long and 0.25–1.0&nbsp;μm in diameter, with a cell volume of 0.6–0.7&nbsp;μm3.
+coli'' O83:K24:H31 (known as Colinfant) are used as probiotic agents in medicine, mainly for the treatment of various gastroenterological diseases, including inflammatory bowel disease.
+A 2006 study purified 4,339 proteins from cultures of strain K-12 and found interacting partners for 2,667 proteins, many of which had unknown functions at the time.
+coli'', but not based on evolutionary relatedness, is by serotype, which is based on major surface antigens (O antigen: part of lipopolysaccharide layer; H: flagellin; K antigen: capsule), e.g.
+A common subdivision system of ''E.
+coli'' unexpectedly evolved the ability to aerobically metabolize citrate, which is extremely rare in ''E.
+As long as these bacteria do not acquire genetic elements encoding for virulence factors, they remain benign commensals.
+For example, a strain may gain pathogenic capacity, the ability to use a unique carbon source, the ability to take upon a particular ecological niche, or the ability to resist antimicrobial agents.
+All commonly used research strains of ''E.
+the K-12 strain commonly used in recombinant DNA work) are sufficiently different that they would merit reclassification.
+Under favorable conditions, it takes only 20 minutes to reproduce.
+coli'' and related bacteria possess the ability to transfer DNA via bacterial conjugation or transduction, which allows genetic material to spread horizontally through an existing population.
+The C period encompasses the time it takes to replicate the chromosomal DNA.
+coli'', begun by Richard Lenski in 1988, have allowed direct observation of major evolutionary shifts in the laboratory.
+The flagella have a peritrichous arrangement.
+When the genome of ''E.
+Based on such data, five subspecies of ''E.
+In addition, this strain causes the buildup of fluid (since the kidneys do not work), leading to edema around the lungs and legs and arms.
+coli'' can live on a wide variety of substrates and uses mixed-acid fermentation in anaerobic conditions, producing lactate, succinate, ethanol, acetate, and carbon dioxide.
+coli'' (UPEC) is one of the main causes of urinary tract infections.
+Hence, recD = b2819 = JW2787.
+Similarly, other strains of ''E.
+However, in most studies, either O157:H7, K-12 MG1655, or K-12 W3110 were used as a representative ''E.
+coli'' strains do not cause disease, but virulent strains can cause gastroenteritis, urinary tract infections, and neonatal meningitis.
+coli'' cells have been used in vaccine development, bioremediation, production of biofuels, lighting, and production of immobilised enzymes.
+In fact, four different species of ''Shigella'' are nested among ''E.
+As the inability to grow aerobically is normally used as a diagnostic criterion with which to differentiate ''E.
+the O157:H7 serotype strains, which form a clade ("an exclusive group")—group E below—are all enterohaemorragic strains (EHEC), but not all EHEC strains are closely related.
+coli'' has been added to this collection not before 2014.
+coli'' occurs at 37&nbsp;°C (98.6&nbsp;°F), but some laboratory strains can multiply at temperatures of up to 49&nbsp;°C (120.2&nbsp;°F).
+It can however, continue to grow in the absence of oxygen using fermentation or anaerobic respiration.
+''Bacterium coli'' was the type species of the now invalid genus ''Bacterium'' when it was revealed that the former type species ("''Bacterium triloculare''") was missing.
+During the staining process, ''E.
+These virulent strains typically cause a bout of diarrhea that is unpleasant in healthy adults and is often lethal to children in the developing world.
+Early classifications of prokaryotes placed these in a handful of genera based on their shape and motility (at that time Ernst Haeckel's classification of bacteria in the kingdom Monera was in place).
+coli'' in folded form have been successfully expressed in ''E.
+The proteins are named by uppercase acronyms, e.g.
+coli'' picks up the color of the counterstain safranin and stains pink.
+A strain is a subgroup within the species that has unique characteristics that distinguish it from other strains.
+coli'' strains (''vide supra''), while ''E.
+coli'' to solve complicated mathematics problems, such as the Hamiltonian path problem.
+coli'' (ETEC) in adults in endemic areas and in traveller’s diarrhoea, though the rate of resistance to commonly used antibiotics is increasing and they are generally not recommended.
+It can also be characterized by severe abdominal cramps, diarrhea that typically turns bloody within 24 hours, and sometimes fever.
+For example, knowing which ''E.
+By evaluating the possible combination of nanotechnologies with landscape ecology, complex habitat landscapes can be generated with details at the nanoscale.
+the EcoGene database  uses EG10826 for recD.
+The harmless strains are part of the normal flora of the gut, and can benefit their hosts by producing vitamin K2, and preventing colonization of the intestine with pathogenic bacteria.
+It uses oxygen when it is present and available.
+Genome sequencing of a large number of isolates of ''E.
+'''''Escherichia coli''''' (; also known as '''''E.
+albertii'' and ''E.
+The first complete DNA sequence of an ''E.
+He called it ''Bacterium coli commune'' because it is found in the colon.
+Since many pathways in mixed-acid fermentation produce hydrogen gas, these pathways require the levels of hydrogen to be low, as is the case when ''E.
+Because of its long history of laboratory culture and ease of manipulation, ''E.
+'''Binary interactions'''.
+Particularly the use of whole genome sequences yields highly supported phylogenies.
+coli'' genome (laboratory strain K-12 derivative MG1655) was published in 1997.
+coli'' ancestor split between 20 and 30 million years ago.
+In 1885, the German-Austrian pediatrician Theodor Escherich discovered this organism in the feces of healthy individuals.
+Certain strains of ''E.
+''Escherichia coli'' encompasses an enormous population of bacteria that exhibit a very high degree of both genetic and phenotypic diversity.
+In May 2011, one ''E.
+In different trials, the rCTB-WC cholera vaccine provided high (85–100%) short-term protection.
+For instance, recA is named after its role in homologous recombination plus the letter A. Functionally related genes are named recB, recC, recD etc.
+Oral rifaximin, a semisynthetic rifamycin derivative, is an effective and well-tolerated antibacterial for the management of adults with non-invasive traveller’s diarrhoea.
+sonnei'') should be classified as ''E.
+coli'' and other facultative anaerobes constitute about 0.1% of gut flora, and fecal–oral transmission is the major route through which pathogenic strains of the bacterium cause disease.
+The bacterium can be grown and cultured easily and inexpensively in a laboratory setting, and has been intensively investigated for over 60 years.
+The link between phylogenetic distance ("relatedness") and pathology is small, ''e.g.''
+The genera ''Escherichia'' and ''Salmonella'' diverged around 102 million years ago (credibility interval: 57–176&nbsp;mya) which coincides with the divergence of their hosts: the former being found in mammals and the latter in birds and reptiles.
+Today, several hundred complete genomic sequences of ''Escherichia'' and ''Shigella'' species are available.
+hermannii'', and ''E.
+Several studies have investigated the proteome of ''E.
+coli'' is higher when more nutrients are available.
+These differences are often detectable only at the molecular level; however, they may result in changes to the physiology or lifecycle of the bacterium.
+coli'' is the type species of the genus (''Escherichia'') and in turn ''Escherichia'' is the type genus of the family Enterobacteriaceae, where the family name does not stem from the genus ''Enterobacter'' + "i" (sic.)
+coli'' strains are harmless, but some serotypes can cause serious food poisoning in their hosts, and are occasionally responsible for product recalls due to food contamination.
+Many laboratory strains lose their ability to form biofilms.
+coli'' helped produce ''E.
+This increase in fluid buildup especially around the lungs impedes the functioning of the heart, causing an increase in blood pressure..
+There are currently no licensed vaccines for ETEC, though several are in various stages of development.
+In this experiment, one population of ''E.
+coli'' have been performed to study the spatial biophysics of adaptation in an island biogeography on-chip.
+coli'' bacteria expressing major CFs has been shown in clinical trials to be safe, immunogenic, and effective against severe diarrhoea in American travelers but not against ETEC diarrhoea in young children in Egypt.
+While rifaximin is effective in patients with ''E.
+A modified ETEC vaccine consisting of recombinant ''E.
+The outbreak did not only concern Germany, but also 11 other countries, including regions in North America.
+coli''''') is a gram-negative, facultatively anaerobic, rod-shaped bacterium of the genus ''Escherichia'' that is commonly found in the lower intestine of warm-blooded organisms (endotherms).
+coli'' is a very versatile host for the production of heterologous proteins, and various protein expression systems have been developed which allow the production of recombinant proteins in ''E.
+coli'' and phage T4 to understand the topography of gene structure.
+coli'' were distinguished.
+The doubling rate of ''E.
+By 2006, 1,627 (38%) of the 4,237 open reading frames (ORFs) had been identified experimentally.
+The D period refers to the stage between the conclusion of DNA replication and the end of cell division.
+coli'' is a chemoheterotroph whose chemically defined medium must include a source of carbon and energy.
+Strains that possess flagella are motile.
+coli'' transmission include handwashing and improved sanitation and drinking water, as transmission occurs through fecal contamination of food and water supplies.
+There is one strain, ''E.coli'' #0157:H7, that produces the Shiga toxin (classified as a bioterrorism agent).
+coli'' remains one of the most diverse bacterial species: only 20% of the genes in a typical ''E.
+This causes the body parts controlled by this region of the brain not to work properly.
+The outbreak started when several people in Germany were infected with enterohemorrhagic ''E.
+coli'' strain, W3110, which was sequenced in Japan and hence uses numbers starting by JW... (Japanese W3110), e.g.
+Currently, the antibiotics of choice are fluoroquinolones or azithromycin, with an emerging role for rifaximin.
+(Facultative anaerobes are organisms that can grow in either the presence or absence of oxygen.)
+coli'' is the most widely studied prokaryotic model organism, and an important species in the fields of biotechnology and microbiology, where it has served as the host organism for the majority of work with recombinant DNA.
+For more information, see the databases at the end of the article or UPEC pathogenicity.
+coli'' strains, a phenomenon termed taxa in disguise.
+This very large variety of component genes has been interpreted to mean that two-thirds of the ''E.
+coli'' which can survive for extended periods outside of a host.
+coli'' normally colonizes an infant's gastrointestinal tract within 40 hours of birth, arriving with food or water or from the individuals handling the child.
+(2014) have carried out systematic yeast two-hybrid screens with most ''E.
+coli'' B strains are the most frequently used varieties for laboratory purposes.
+The antibiotic used depends upon susceptibility patterns in the particular geographical region.
+The genome of the type strain has only lately been sequenced.
+The common laboratory strain has a mutation that prevents the formation of an O-antigen and is thus not typeable.
+Many proteins previously thought difficult or impossible to be expressed in ''E.
+Another numbering system was introduced with the sequence of another ''E.
+In particular for females, the direction of wiping after defecation (wiping back to front) can lead to fecal contamination of the urogenital orifices.
+Studies are also being performed attempting to program ''E.
+Complete lists of genes and their synonyms can be obtained from databases such as EcoGene or Uniprot.
+coli'' strains are present in a water sample allows researchers to make assumptions about whether the contamination originated from a human, another mammal, or a bird.
+coli'' proteins, and found a total of 2,234 protein-protein interactions.
+coli'' is expelled into the environment within fecal matter.
+fergusonii'' are outside of this group.
+Cultivated strains (e.g.
+coli'' is frequently used as a model organism in microbiology studies.
+The long-term evolution experiments using ''E.
+coli'' is a gram-negative, facultative anaerobic (that makes ATP by aerobic respiration if oxygen is present, but is capable of switching to fermentation or anaerobic respiration if oxygen is absent) and nonsporulating bacterium.
+The process of transduction, which uses the bacterial virus called a bacteriophage, is where the spread of the gene encoding for the Shiga toxin from the ''Shigella'' bacteria to ''E.
+coli'' pangenome originated in other species and arrived through the process of horizontal gene transfer.
+The outer membrane surrounding the cell wall provides a barrier to  certain antibiotics such that ''E.
+Rifaximin was significantly more effective than placebo and no less effective than ciprofloxacin in reducing the duration of diarrhoea.
+coli'' that most vaccine development efforts are focused on.
+coli'' evolve through the natural biological processes of mutation, gene duplication, and horizontal gene transfer; in particular, 18% of the genome of the laboratory strain MG1655 was horizontally acquired since the divergence from ''Salmonella''.
+The B period occurs between the completion of cell division and the beginning of DNA replication.

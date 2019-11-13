@@ -1,0 +1,200 @@
+It can help identify conductive hearing loss due to disease of the middle ear or eardrum from other kinds of hearing loss including SNHL.
+m.1555A>G which makes the individual sensitive to the ototoxic effects of aminoglycoside antibiotics.
+* Organophosphate pesticides
+The main function of the active mechanism is to finely tune the basilar membrane, and provide it with a high sensitivity to quiet sounds.
+Amplification to these sounds is therefore required, in order for the basilar membrane to respond efficiently.
+Paradoxically, methotrexate is also used in the treatment of autoimmune-induced inflammatory hearing loss.
+Because our ears hear logarithmically, not linearly, it takes an increase of 10&nbsp;dB to produce a sound that is perceived to be twice as loud.
+As the dead region will be less detectable due to the upward spread of excitation.
+* styrene, an industrial chemical precursor of polystyrene, a plastic
+Tympanometry and speech audiometry may be helpful.
+A tympanogram is the result of a test with a tympanometer.
+To help to overcome the issue of PTA producing inaccurate thresholds within dead regions, masking of the area beyond the dead region that is being stimulated can be used.
+Therefore, each position along the basilar membrane is finely tuned to a particular frequency.
+Neural hearing impairments are consequent upon damage to the eighth cranial nerve (the vestibulocochlear nerve) or the auditory tracts of the brainstem.
+'''Sensorineural hearing loss''' ('''SNHL''') is a type of hearing loss, or deafness, in which the root cause lies in the inner ear or sensory organ (cochlea and associated structures)or the vestibulocochlear nerve (cranial nerve VIII)or neural part.
+Research by Kluk and Moore  has shown that dead regions may also affect the patient’s perception of frequencies beyond the dead regions.
+Others first notice it when they try to use the deafened ear, such as when they use a phone.
+Recessive, dominant, X-linked or mitochondrial genetic mutations can affect the structure or metabolism of the inner ear.
+OHCs are different in that they actually contribute to the active mechanism of the cochlea.
+* Repeated exposure to loud noise (90-95 dB or more) can cause progressive hearing loss.
+However, if they become damaged, this will result in an overall loss of sensitivity.
+Ear damage due to noise is proportional to sound intensity (SPL), not perceived loudness, so it's misleading to rely on our subjective perception of loudness as an indication of the risk to hearing, i.e., it can significantly underestimate the danger.
+If a sound entering the ear is displaced from the characteristic frequency, then the strength of response from the basilar membrane will progressively lessen.
+However, due to IHC damage, the whole tuning curve becomes raised, giving a loss of sensitivity across all frequencies (See Figure 6).
+The bending of the stereocilia towards the basal body of the OHC causes excitation of the hair cell.
+Where both the OHCs and the IHCs are damaged, the resulting neural tuning curve would show the elimination of sensitivity at the ‘tip'.
+Although it is likely that the slope represents the less pronounced downward spread of excitation, rather than accurate thresholds for those frequencies with non-functioning hair cells.
+OHCs contribute to providing a high sensitivity to quiet sounds at a specific range of frequencies (approximately 2–4&nbsp;kHz).
+The region can be defined in terms of the range of characteristic frequencies (CFs) of the IHCs and/or neurons immediately adjacent to the dead region.
+The stereocilia found on OHCs are in contact with the tectorial membrane.
+Other, more complex, tests of auditory function are required to distinguish the different types of hearing loss.
+* ambient environmental noise&nbsp;— Populations living near airports, railyards and train stations, freeways and industrial areas are exposed to levels of noise typically in the 65 to 75 dBA range.
+In the case of a low frequency dead region, the tip is shifted upwards indicating a low frequency dead region starting at the tip of the curve.
+It is therefore clear that the OHCs play a major role in the active processes of the cochlea.
+Presbycusis is by far the dominant cause of sensorineural hearing loss.
+When the IHCs or part of the basilar membrane are damaged or destroyed, so that they no longer function as transducers, the result is a ‘dead region’.
+Based on research it has been suggested that a low frequency dead region may produce a relatively flat loss, or a very gradually sloping loss towards the higher frequencies.
+There are 300 syndromes with related hearing loss, and each syndrome may have causative genes.
+Therefore, in response to the electrical stimulations provided by the efferent nerve supply, they can alter in length, shape and stiffness.
+This supports the idea that the incidence of OHC damage and thus a loss of sensitivity to quiet sounds, occurs more than IHC loss.
+This means that the threshold of the responding area is sufficiently raised, so that it cannot detect the spread of excitation from the tone.
+This depends on the location of the dead region.
+NIHL is typically a drop-out or notch centered at 4000&nbsp;Hz.
+Sometimes there may be complete loss of function of inner hair cells (IHCs) over a certain region of the cochlea; this is called a "dead region".
+Noise trauma can also cause a reversible hearing loss, called a temporary threshold shift.
+Profound or total hearing loss may be amenable to management by cochlear implants, which stimulate cochlear nerve endings directly.
+A common cause or exacerbating factor in sensory hearing loss is prolonged exposure to environmental noise, for example, being in a loud workplace without wearing protection, or having headphones set to high volumes for a long period.
+An audiogram is the result of a hearing test.
+Similar symptoms are also associated with other kinds of hearing loss; audiometry or other diagnostic tests are necessary to distinguish sensorineural hearing loss.
+Most people living in modern society suffer from some degree of progressive sensorineural (i.e.
+Sound levels at places where live or dance music is performed typically range from 95&nbsp;dB to 104&nbsp;dB.
+These are much more common in premature babies, particularly those under 1500&nbsp;g at birth.
+These specifically tuned frequencies are referred to as characteristic frequencies (CF).
+For example, the safe daily exposure amount at 85&nbsp;dB (90&nbsp;dB for OSHA) is 8 hours, while the safe exposure at 94&nbsp;dB(A) (nightclub level) is only 1 hours.
+* Charcot–Marie–Tooth disease an inherited neurological disorder with delayed onset that can affect the ears as well as other organs
+However, the traditional method of obtaining PTCs is not practical for clinical use, and it has been argued that TENs are not accurate enough.
+There can be damage either to the ear itself or to the central auditory pathways that process the information conveyed by the ears.
+The most common kind of sensorineural hearing loss is age-related (presbycusis), followed by noise-induced hearing loss(NIHL).
+This typically occurs in individuals who are exposed to gunfire or firecrackers, and hear ringing in their ears after the event (tinnitus).
+Numerous national and international organizations have established standards for safe levels of exposure to noise in industry, the environment, military, transportation, agriculture, mining and other areas.
+Premature birth can be associated with problems that result in sensorineural hearing loss such as anoxia or hypoxia(poor oxygen levels), jaundice, intracranial haemorrhages, meningitis.
+* trichloroethylene, an industrial degreasing solvent
+* ethylbenzene, an industrial solvent used in the production of styrene
+SNHL accounts for about 90% of hearing loss reported.
+The base of the basilar membrane is narrow and stiff, resulting in it responding best to high frequency sounds.
+Still others notice a loud, alarming "pop" just before their hearing disappears.
+Some of these chemicals are:
+* butyl nitrite - chemical used recreationally known as 'poppers'
+Unlike hearing aids, which make sounds louder, cochlear implants do the work of damaged parts of the inner ear (cochlea) to provide sound signals to the brain.
+* hexane, an industrial solvent and one of the significant constituents of gasoline
+The fundamental role of the OHCs and the IHCs is to function as sensory receptors.
+* The most common cause of recessive genetic congenital hearing impairment in developed countries is DFNB1, also known as Connexin 26 deafness or GJB2-related deafness.
+But other causes of acquired SNHL are largely preventable, especially nosocusis type causes.
+NIHL can be either permanent or temporary, called a threshold shift.
+middle ear through the semi-translucent membrane.
+* toluene and xylene, highly poisonous petrochemical solvents.
+Many cases are related to old age (age-related).
+Huss and Moore investigated how hearing impaired patients perceive pure tones, and found that they perceive tones as noisy and distorted, more (on average) than a person without a hearing impairment.
+Whereby, neurons which would normally be stimulated by the dead region, have been reassigned to respond to functioning areas near it.
+Frequent symptoms of SNHL are loss of acuity in distinguishing foreground voices against noisy backgrounds, difficulty understanding on the telephone, some kinds of sounds seeming excessively loud or shrill (recruitment), difficulty understanding some parts of speech (fricatives and sibilants), loss of directionality of sound, esp.
+''Sensory'' hearing loss occurs as a consequence of damaged or deficient cochlear hair cell function.
+OHCs are unique in that they are able to contract and expand (electromotility).
+The first mechanism being a linear passive mechanism, which is dependent on the mechanical structure of the basilar membrane and its surrounding structures.
+Hearing impairment may be associated with damage to the hair cells in the cochlea.
+While the standards differ moderately in levels of intensity and duration of exposure considered safe, some guidelines
+SSHL is diagnosed via pure tone audiometry.
+Therefore, assuming normal hearing exists around the dead region, it would produce an audiogram that has a dramatically steep slope between the frequency where a threshold is obtained, and the frequency where a threshold cannot be obtained due to the dead region.
+Thus, an increase in firing rate of the auditory neurons connected to the hair cell occurs.
+Some genetic causes give rise to a late onset hearing loss.
+If the test shows a loss of at least 30db in three adjacent frequencies, the hearing loss is diagnosed as SSHL.
+Dominant and recessive hearing impairment can be syndromic or nonsyndromic.
+This often occurs with IHC damage.
+The tip of the PTC is where the masker level needed to just mask the test signal is the lowest.
+* acoustic trauma&nbsp;— Exposure to a single event of extremely loud noise (such as explosions) can also cause temporary or permanent hearing loss.
+Damage to the OHCs results in either a less effective active mechanism, or it may not function at all.
+Many people notice that they have SSHL when they wake up in the morning.
+If higher levels of the auditory tract are affected this is known as central deafness.
+They are used for congenital hearing loss when changes to the shape of the inner ear or nerve of hearing may help diagnosis of the cause of the hearing loss.
+Prolonged or repeated environmental or work-related exposure to ototoxic chemicals can also result in sensorineural hearing loss.
+Mid-frequency dead regions, with a small range, appear to have less effect on the patient’s ability to hear in everyday life, and may produce a notch in the PTA thresholds.
+Sudden sensorineural hearing loss (SSHL), commonly known as sudden deafness, occurs as an unexplained, rapid loss of hearing—usually in one ear—either at once or over several days.
+Long term hydrocodone (Vicodin) abuse is known to cause rapidly progressing sensorineural hearing loss, usually without vestibular symptoms.
+Hearing loss can be inherited.
+Outer hair cells (OHCs) contribute to the structure of the Organ of Corti, which is situated between the basilar membrane and the tectorial membrane within the cochlea (See Figure 3).
+Secondly, the stereocilia might become distorted or destroyed.
+This leads to an over-representation of these areas, resulting in an increased perceptual sensitivity to small frequency differences in tones.
+SNHL is at least partially preventable by avoiding environmental noise, ototoxic chemicals and drugs, and head trauma, and treating or inoculating against certain triggering diseases and conditions like meningitis.
+This has been attributed to the fact that excitation due to vibration of the basilar membrane spreads upwards from the apical regions of the basilar membrane, more than excitation spreads downwards from higher frequency basal regions of the cochlea.
+On the other hand, the bending of the stereocilia away from the basal body of the OHC causes inhibition of the hair cell.
+Dead regions can also be defined by the anatomical place of the non-functioning IHC (such as an “apical dead region”), or by the characteristic frequencies of the IHC adjacent to the dead region.
+Due to the mass and stiffness of the basilar membrane, low frequency waves peak in the apex, while high frequency sounds peak in the basal end of the cochlea.
+If the tone is sufficiently loud to produce enough excitation at the normally functioning area of the cochlea, so that it is above that areas threshold.
+Sound intensity or sound pressure level (SPL) is measured in decibels (dB).
+There are roughly twelve thousand OHCs in each human ear, and these are arranged in up to five rows.
+* carbon monoxide, a poisonous gas resulting from incomplete combustion
+Exposure to a very loud noise such as a bomb blast can cause noise-induced hearing loss.
+Each OHC has small tufts of 'hairs', or cilia, on their upper surface known as stereocilia, and these are also arranged into rows which are graded in height.
+Central deafness may present as sensorineural deafness but should be distinguishable from the history and audiological testing.
+This technique has led to the suggestion that a low frequency dead region may be related to a loss of 40-50&nbsp;dB.
+permanent) noise-induced hearing loss (NIHL) resulting from overloading and damaging the sensory or neural apparatus of hearing in the inner ear.
+Thus, it appears a person has better hearing than they actually do, resulting in a dead region being missed.
+Management of sensorineural hearing loss involves employing strategies to support existing hearing such as lip-reading, enhanced communication etc.
+However, as one of the aims of PTA is to determine whether or not there is a dead region, it may be difficult to assess which frequencies to mask without the use of other tests.
+People who live in nonindustrialized regions avoid both nosocusis and sociocusis and demonstrate excellent hearing into old age.
+A rare mitochondrial mutation, m.1555A>G, can increase an individual's susceptibility to the ototoxic effect of aminoglycosides.
+Rarely X-linked recessive genes for hearing loss occur and these are passed from unaffected mothers onto sons who then have hearing loss.
+Hearing aids are specifically tuned to the individual hearing loss to give maximum benefit.
+A typical source of acoustic trauma is a too-loud music concert.
+SNHL is most commonly caused by damage to the OHCs and the IHCs.
+high frequency or sloping,low frequency or rising, notched, U-shaped or 'cookie-bite', peaked or flat.
+Whereas, there may be a more obvious steeply sloping loss at high frequencies for a high frequency dead region.
+The actual number of new cases of SSHL each year could be much higher because the condition often goes undiagnosed.
+In cases of profound or total deafness, a cochlear implant is a specialised hearing aid which may restore a functional level of hearing.
+For example, a sloping audiogram is often present with a dead region, due to the spread of excitation.
+OHCs are connected to the reticular laminar and the Deiters’ cells.
+The second mechanism is a non-linear active mechanism, which is primarily dependent on the functioning of the OHCs, and also the general physiological condition of the cochlea itself.
+Granulomatosis with polyangiitis, an autoimmune condition, may precipitate hearing loss.
+* workplace noise&nbsp;— OSHA standards 1910.95 General Industry Occupational Noise Exposure, and 1926.52 Construction Industry Occupational Noise Exposure identify the level of 90&nbsp;dB(A) for 8 hour exposure as the level necessary to protect workers from hearing loss.
+There is no proven or recommended treatment or cure for SNHL; management of hearing loss is usually by hearing strategies and hearing aid.
+Dead regions cannot be clearly found via PTA audiograms.
+Some medications cause irreversible damage to the ear, and are limited in their use for this reason.
+Normal progressive age-related loss of hearing acuity or sensitivity starting as early as age 18, primarily affecting the high frequencies, and men more than women.
+The quality of sound is different than natural hearing but may enable the recipient to better recognize speech and environmental sounds.
+In the case of dead regions, when the test signal lies within the boundaries of a dead region, the tip of the PTC will be shifted to the edge of the dead region, to the area that is still functioning and detecting the spread of excitation from the signal.
+Noise, along with heredity, may be a primary factor in presbycusis, or age-related hearing loss, the most common kind of hearing loss in industrial society .
+The most common type of hearing test is pure tone audiometry (PTA).
+* Autoimmune disease: although probably rare, it is possible for autoimmune processes to target the cochlea specifically, without symptoms affecting other organs.
+* Personal audio electronics, such as iPods (iPods often reaching 115 decibels or higher), can produce powerful enough sound to cause significant NIHL.
+This damage may affect the initiation of the nerve impulse in the cochlear nerve or the transmission of the nerve impulse along the nerve into the brainstem.
+The basilar membrane is said to be ‘sharply tuned’ due to the sharp ‘V’ shaped curve, with its ‘tip’ centered at the auditory fibers characteristic frequency.
+It may be accompanied by other symptoms such as ringing in the ears(tinnitus), dizziness or lightheadedness(vertigo).
+These demonstrate the frequencies a fiber responds to, by showing threshold levels (dB SPL) of auditory nerve fibers as a function of different frequencies.
+The dangers of environmental and occupational noise exposure are widely recognized.
+The tunnel of corti, which runs through the Organ of Corti, divides the OHCs and the inner hair cells (IHCs).
+The louder the noise is, the shorter the safe amount of exposure is.
+Noise-related causes of hearing loss are divided into extrinsic (nosocusis) and intrinsic (sociocusis) causes: In the auditory system, the extrinsic component (nosocusis) includes hearing loss due to otologic disease, hazardous noise exposure, acoustic trauma, and ototoxic agents.
+PTCs are similar to neural tuning curves.
+Daughters are unaffected carriers because the second X chromosome will provide the second normal copy of the gene, whereas the shorter Y chromosome does not.
+For a detailed exposition of symptoms useful for screening, a self-assessment questionnaire was developed by the American Academy of Otolaryngology, called the Hearing Handicap Inventory for Adults (HHIA).
+SNHL is generally permanent and can be mild, moderate, severe, profound, or total.
+They are measured by presenting a fixed low intensity pure tone while also presenting a narrow-band masker, with a varying center frequency.
+), quinine, and macrolide antibiotics (erythromycin, etc.
+In some the loss may eventually affect large portions of the frequency range.
+It charts the thresholds of hearing sensitivity at a selection of standard frequencies between 250 and 8000&nbsp;Hz.
+auditory neural pathway transmission (evoked response audiometry).
+* MT-TL1 mutations cause hearing loss, along with diabetes and other symptoms.
+This shape shows how few frequencies a fiber responds to.
+The traveling wave along the basilar membrane peaks at different places along it, depending on whether the sound is low or high frequency.
+These changes influence the response of the basilar membrane to sound.
+Therefore, using PTA alone, it is impossible to identify the extent of a dead region (See Figure 7 and 8).
+A cochlear implant is surgical implantation of a battery powered electronic medical device in the inner ear.
+This pattern of the spread of excitation is similar to the ‘upward spread of masking’ phenomenon.
+HUD’s noise standards may be found in 24 CFR Part 51, Subpart B.
+Fetal alcohol syndrome is reported to cause hearing loss in up to 64% of infants born to alcoholic mothers, from the ototoxic effect on the developing fetus, plus malnutrition during pregnancy from the excess alcohol intake.
+The direction in which they bend, dictates the firing rate of the auditory neurons connected to the OHCs.
+It tests the function of the middle ear and mobility of the eardrum.
+This would involve avoiding environmental noise, and traumatic noise such as rock concerts and nightclubs with loud music.
+Therefore, a response from the patient at the test frequency will be obtained.
+* carbon disulfide - a solvent used as a building block in many organic reactions
+There have been significant advances in identification of human deafness genes and elucidation of their cellular mechanisms as well as their physiological function in mice.
+This is referred to as “off-place listening”, and is also known as ‘off-frequency listening’.
+Such pharmaceutical treatments as are employed are palliative rather than curative, and addressed to the underlying cause if one can be identified, in order to avert progressive damage.
+Toluene is a component of high-octane gasolne; xylene is used in the production of polyester fibers and resins.
+The apex of the basilar membrane is wider and much less stiff in comparison to the base, causing it to respond best to low frequencies.
+Brain stroke in a region affecting auditory function such as a posterior circulation infarct has been associated with deafness.
+Because of risk and expense, such surgery is reserved for cases of severe and disabling hearing impairment
+An increase of 6&nbsp;dB represents a doubling of the SPL, or energy of the sound wave, and therefore its propensity to cause ear damage.
+Methotrexate, a chemotherapy agent, is also known to cause hearing loss.
+Bone conduction thresholds can differentiate sensorineural hearing loss from conductive hearing loss.
+People with sudden deafness often become dizzy, have ringing in their ears (tinnitus), or both.
+More than 40 genes have been identified to cause deafness.
+125&nbsp;dB (loud rock concert ~120&nbsp;dB) is the pain level; sounds above this level cause instant and permanent ear damage.
+It may be congenital (present at birth) or develop later in life.
+Dead regions can be defined in terms of the characteristic frequencies of the IHC, related to the specific place along the basilar membrane where the dead region occurs.
+Both intensity (SPL) and duration of exposure, and repetitive exposure to unsafe levels of noise contribute to cochlear damage that results in hearing loss.
+An explanation for this may be that cortical re-mapping has occurred.
+However, more research to validate this method is required, before it can be accepted clinically.
+* Muckle-Wells syndrome, a rare inherited autoinflammatory disorder, can lead to hearing loss.
+''Neural'', or 'retrocochlear', hearing loss occurs because of damage to the cochlear nerve (CVIII).
+MRI scan can be used to identify gross structural causes of hearing loss.

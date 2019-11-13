@@ -1,0 +1,200 @@
+At Walnut Grove, the manmade Delta Cross Channel connects the Sacramento to the Mokelumne River channel, allowing a portion of the water to be pumped south toward Clifton Court Forebay, the receiving reservoir for the main CVP and State Water Project aqueducts which irrigate millions of acres and supply water to over 23 million people in the San Joaquin Valley, the San Francisco Bay Area and Greater Los Angeles.
+Beyond Red Bluff the river reaches the low floodplain of the Sacramento Valley, receiving Mill Creek from the east and Thomes Creek from the west near Los Molinos, then Deer Creek from the east near Vina.
+Species that were once common but now are gone or endangered include the southwestern willow flycatcher, western yellow-billed cuckoo, least Bell's vireo, and warbling vireo.
+ImageSize  = width:650 height:300
+Settlement size ranged from small camps to villages of 30–50 permanent structures.
+'''Monthly combined discharge of Sacramento River at Freeport and Yolo Bypass near Woodland (cfs)'''
+Little agriculture was practiced; most were hunter-gatherers and fishermen.
+AlignBars  = justify
+Before flood control works were built, the winter floods frequently transformed the valley into an inland sea.
+bar:Jul from:0 till: 15720
+The Feather River, the largest tributary of the Sacramento, joins from the east at Verona directly below the Sutter Bypass.
+Today, large dams impound the river and almost all of its major tributaries.
+The tank car carrying the metam sodium through California was of a type that the National Transportation Safety Board said had “a high incidence of failure” in accidents.
+bar:Mai from:0 till: 24500
+In 1995, a gate on the Folsom Dam on the American River broke open, causing the river's flow to rise by some .
+Period     = from:0 till:55000
+In the following years, two more Spanish expeditions traversed the lower part of the river, the last one in 1817.
+Although river levels are tidally influenced here and occasionally as far north as Verona, the water stays fresh in all but the driest years.
+Annual depletions (water not returned to the river after use) are about 4.72&nbsp;million acre feet (5.83&nbsp;km3) for irrigation and  for urban use.
+During the dry season of July through September, the bypass carries low to zero flow.
+While it intended to contain minor floods in the river banks by strengthening the existing levee system, the main feature was a series of bypasses, or sections of the valley intentionally designed to flood during high water.
+The flood waters were exacerbated by the sediments washed down by the millions of tons by hydraulic mining, which filled the beds of the Sacramento, Feather and American rivers up to  in Sacramento and also covered thousands of acres of Central Valley lands.
+Below Rio Vista, the lower Sacramento River curves southwest along the flank of the Montezuma Hills, forming the border of Solano and Sacramento Counties.
+These are known as the Shasta, Modoc, and Achomawi/Pit River Tribes of the volcanic plateaus in the north; the Wintu and Hupa in the northern Klamath and Trinity mountains; the Nomlaki, Yuki, Patwin, and Pomo of the Coast Ranges; the Yana, Atsugewi, Maidu, Konkow, and Nisenan in the Sierra and their western foothills; and the Miwok in the south.
+The California State Capitol sits less than half a mile (0.8&nbsp;km) east of the river where the Tower Bridge crosses it.
+Another reason for dropping numbers are the introduction of non-native species, such as the "parasitic" cowbird, which steals the nests of other birds to use as its own.
+id:barra value:rgb(0.6,0.8,0.9)
+Located along the Pacific Flyway, the sprawling marshlands of the Sacramento Valley were originally an important stop for migratory birds; only a few wetlands remain today, either preserved or artificially constructed.
+The Sacramento supports 40–60 species of fish, and 218 types of birds.
+bar:Mar at: 45620 fontsize:S text: 45,620 shift:(-12,5)
+Draining a vast and remote volcanic highlands area, it flows southwest for nearly  before emptying into Shasta Lake near Montgomery Creek.
+Marine animals such as whales and sea lions are occasionally found far inland after navigating the river for food or refuge and then losing track of how to get back to the Pacific Ocean.
+Therefore, in 1863, the tribes from the area surrounding the middle Sacramento and Feather rivers, the Konkow group, were removed and marched forcibly to the Round Valley Indian Reservation near the Eel River.
+More than one million fish were killed, including at least 100,000 rainbow trout, and thousands of other aquatic creatures as well as nearby trees.
+At the lower end of Shasta Lake is Shasta Dam, which impounds the Sacramento River for flood control, irrigation and hydropower generation.
+Pollution from farms and urban areas took a heavy toll on the river's environment, and heavy irrigation withdrawals sometimes resulted in massive fish kills.
+By discharge, it is the second-largest contiguous U.S. river draining into the Pacific, after only the Columbia River, which has almost seven times the flow of the Sacramento.
+By geologic standards, the Sacramento is a fairly young river; the borders of its watershed began to form only a few million years ago as magma welling up below the Earth's crust pushed up by the Pacific Plate colliding with the North American Plate caused the formation of the Sierra Nevada.
+The first organized expedition, led by Peter Skene Ogden, arrived in the area of Mount Shasta in 1826.
+Sutter had something of a two-faced relationship with the many Native American groups in the area.
+The project required the construction of Oroville Dam on the Sacramento's largest tributary, the Feather River.
+The Upper Sacramento River canyon also provides the route for I-5 and the railroad between Lakehead and Mount Shasta.
+The Yolo Bypass, located on the west side of the river, starts at the confluence of the Feather and rejoins the Sacramento in the Delta.
+The Sutter Bypass begins at Colusa and runs parallel to the Sacramento River until reaching the confluence with the Feather River.
+After the Colorado and San Joaquin, it has the third-largest drainage basin in California.
+The McCloud River had an average discharge of  for the 1967–2013 period.
+Today about  of the river’s riparian forests are undergoing active restoration.
+Most of the Sacramento River's valley is intensely cultivated, with some  of irrigated farmland.
+It was not long before the secret slipped out attracting three hundred thousand hopefuls from all over North America, and even the world, to the Sacramento River in search of fortunes, kicking off the California Gold Rush.
+Steamboats traveled busily up and down the Sacramento River carrying miners from San Francisco to the "gold fields".
+Sparse grasslands and high desert stretch to the north.
+As the construction of dams, power plants and canals required immense labor, which was rare in the middle of the Depression, the government authorized the Central Valley Project as a public works project beginning in 1935.
+The river's once-ample stretches of riparian zones and marshes, supported by its wide variations in flow, as well as the wetlands downstream in the Delta, have mostly been replaced by agricultural lands.
+The Sacramento River and its drainage basin were originally abundant in multiple avian and aquatic species, but modern-day development has thinned populations of many species, especially riverine.
+For thousands of years, this inland sea would periodically reform during times of intense flooding, the most recent being the Great Flood of 1862.
+Cache Creek and Putah Creek, two major tributaries which formerly joined the Sacramento River from the west, are now intercepted by the Yolo Bypass via man made channels.
+East of Cottonwood it receives Cottonwood Creek – the largest undammed tributary – from the west, then Battle Creek a short distance downstream.
+bar:Nov at: 16130 fontsize:S text: 16,130 shift:(-12,5)
+PlotArea   = left:60 bottom:60 top:30 right:30
+Many parts of the railroad were treacherous, especially in the mountainous areas north of Dunsmuir.
+As with tribes in the San Joaquin Valley and throughout much of California, the acorn was a staple food.
+The Sacramento River watershed covers all or most of Shasta, Tehama, Glenn, Butte, Plumas, Yuba, Sutter, Lake and Yolo Counties.
+The combined waters flow west through Suisun Bay and the Carquinez Strait into San Francisco Bay, joining the Pacific at the Golden Gate.
+bar:Déc at: 32700 fontsize:S text: 32,700 shift:(-12,5)
+Native bird populations have been declining steadily throughout the 19th, 20th and 21st centuries.
+Saltwater intrusion from the Pacific Ocean was one of the main reasons for the construction of the federal Central Valley Project (CVP), whose dams maintain a minimum flow in the Sacramento to keep seawater at bay.
+Most of the mercury was mined in the Coast Ranges to the west of the Sacramento River; mines in these mountains produced roughly 140,000 tons of mercury to serve the Gold Rush.
+During floods, water overtops the weir and flows east into the Sutter Bypass, the first of two major bypass channels that temporarily store and move floodwaters downstream to reduce pressure on the main channel of the Sacramento.
+The Sacramento is used heavily for irrigation and serves much of Central and Southern California through the canals of giant state and federal water projects.
+The influx of migrants brought foreign diseases like malaria and smallpox, which American Indians had no immunity to.
+Before Shasta Dam was built, the volcanic springs feeding the Pit and McCloud Rivers provided the majority of river flow in dry summers when the Upper Sacramento and other tributaries slowed to a trickle.
+Dams and canals that control the river now prevent this phenomenon from occurring in most years.
+By this time, California was under the control of Mexico, although few Mexican settlers had come to what would later become the state, mostly settling in the small ''pueblos'' and ''ranchos'' along the south and central coast.
+Before dams were built on its tributaries, the river flooded up to  during the rainy season, equal to the flow of the Mississippi River.
+Historically, its watershed has reached farther, as far north as south-central Oregon where the now, primarily, endorheic (closed) Goose Lake rarely experiences southerly outflow into the Pit River, the most northerly tributary of the Sacramento.
+The riparian areas along the Sacramento once totaled more than ; today only about  remains.
+bar:Avr from:0 till: 35260
+By May 30, 2007, the cow and calf apparently slipped out unnoticed under the Golden Gate Bridge into the Pacific Ocean, likely under cover of night.
+By comparison, the Sacramento River at Delta gauge, a few miles above Shasta Lake, recorded an average of  for the period 1945–2013.
+The resulting geologic folding pushed up the California Coast Ranges and Klamath Mountains, enclosing the Sacramento Valley and forcing the streams within to flow south instead of west and forming the ancestral Sacramento River.
+This population once included several species of frogs and salamanders; the foothill yellow-legged frog and western spadefoot are listed as endangered species.
+Downstream of Sacramento, the river enters the Sacramento–San Joaquin River Delta, a vast tidal estuary and inverted river delta of over  which receives the entire run-off of the Central Valley, a region covering a third of California.
+For a river of its size, the Sacramento is considered to have fairly clean water.
+Others failed to take root – one of the most notorious, the Klamath Diversion, proposed to send the entire flow of the Klamath River into the Sacramento Valley through a complex system of reservoirs, canals, flumes and tunnels.
+Since 1960, when the big pumps at the head of the California Aqueduct in the Delta began their operation, the outflow of fresh water into the Pacific has been reduced to a trickle leaving the fish confused as to where to go, resulting in many generations dying off because they have not been able to find their way upstream.
+After the Columbia River, the Sacramento is the largest river by discharge on the Pacific coast of the continental United States.
+In the years to come, this path, which eventually extended from San Francisco to Portland, Oregon following parts of the Sacramento, Willamette, Klamath, Rogue, and other rivers would become an important trade and travel route.
+Starting in the 20th century, dam construction blocked off hundreds of miles of salmon-spawning streams, such as the upper Feather and American Rivers, and the entirety of the Pit and upper Sacramento rivers.
+River control has prevented the Sacramento from its natural flooding, braiding and course-changing patterns, which are important for the maintenance of existing wetlands and the creation of new ones.
+The other two are the Klamath River and Columbia River.
+TimeAxis   = orientation:vertical
+As the economy of the Sacramento Valley grew, the Southern Pacific Railroad established tracks along the river to connect California with Oregon following the ancient path of the Siskiyou Trail, in the 1880s and 1890s.
+The Pit River, by far the largest of the three, begins in Modoc County in the northeastern corner of California.
+Rescuers downstream broadcast sounds of humpback whales feeding to draw the whale back to the ocean.
+Shortly downstream, the Port of Sacramento is located on the west side of the Sacramento, connected to the river by a lock.
+It was not long after the city had reached a relatively large population of about 10,000, then the Great Flood of 1862 swept away much of it (and almost everything else along the Sacramento River) and put the rest under water.
+bar:Sep from:0 till: 14850
+Repeated floods and increased demand for Sacramento River water saw a plethora of massive changes to the environment beginning in the 20th century.
+However, pollutants still flow into the river from many of its tributaries and man-made drains or channels.
+Rising in the Klamath Mountains, the river flows south for  before reaching the Sacramento–San Joaquin River Delta and San Francisco Bay.
+The chemical formed a stinking, bubbling, green glob that moved  down the river, killing everything in its path.
+The river flows through a canyon for about , past Dunsmuir and Castella, before emptying into Shasta Lake near Lakehead in Shasta County.
+It is believed that the river once had its outlet in Monterey Bay (forming the  Monterey Submarine Canyon when sea levels were lower during the Ice Ages).
+As the miners expanded their diggings deeper into the Sierra Nevada and Klamath Mountains, Native Americans were pushed off their land and a long series of skirmishes and fights began that continued until intervention by the state and national governments.
+Parts of the Sacramento watershed come very close to, but do not extend past, the border of California and Nevada.
+The river is considered one of the best salmon habitats in the watershed because of its relatively cold water and the availability of ideal habitat such as gravel bars.
+There was concern because the whales had been injured, perhaps by a boat's propeller or keel, leaving a gash in each whale's skin.
+Both projects were defeated by locals' and environmentalists' opposition, as well as, for the former, staggering costs.
+The San Joaquin River watershed occupies two-thirds to three quarters of northern California's land, but only collects one-third to one-quarter of the precipitation."
+Over the years, several other plans materialized to take water from ''other'' drainage basins into that of the Sacramento to bolster the river's petering discharge.
+Although mountains had existed as early as 100&nbsp;million years ago in this region (before then the land was probably submerged under the Pacific), they were worn by erosion, and the present-day range only formed about 4&nbsp;million years ago.
+ScaleMinor = gridcolor:lightgrey increment:10000 start:0
+Furthermore, the tank car was not labeled, so the train’s crew didn’t know that they were hauling a dangerous chemical.
+Although termed "bypasses", the system essentially reconnects the Sacramento with a portion of its historic flood plain, which it would have naturally flooded had the levee system not been in place.
+It then swings east through Redding, the largest city of the Shasta Cascade region, and turns southeast, entering Tehama County.
+The Sacramento River originates in the mountains and plateaus of far northern California as three major waterways that flow into Shasta Lake: the Upper Sacramento River, McCloud River and Pit River.
+The northern part of the Sacramento watershed is more ancient, and was formed by intense volcanic activity over 25&nbsp;million years ago, resulting in lava flows that covered and created the Modoc Plateau, through which the Pit River flows.
+The Goose Lake watershed is the only part of the Sacramento River basin extending into another state.
+Naming it New Helvetia, he created an agricultural empire in the lower Sacramento Valley, attracting hundreds of settlers to the area, and relied on Native American labor to maintain his domain.
+The Central Valley Project and California State Water Project both originated as brainchilds of the state government, but because of lack of funds, the construction work and costs were shifted to the federal U.S. Army Corps of Engineers and U.S. Bureau of Reclamation.
+Weirs placed at strategic points along the Sacramento River release water into the bypasses when the river reaches a certain stage, relieving the pressure of floodwaters on the main channel.
+It also extends into portions of Siskiyou, Modoc, Lassen, Lake (in Oregon), Sierra, Nevada, Placer, El Dorado, Sacramento, Solano and Contra Costa Counties.
+The three principal features are the Butte Basin, the Sutter Bypass and the Yolo Bypass.
+People flocked to the region by the Oregon Trail-Siskiyou Trail, California Trail, Southern Emigrant Trail and various land and/or sea routes through the Isthmus of Panama and around southern South America by ship.
+Fortunately, a system of aerating pipes at the bottom of the lake had been set up to dissipate the chemical, reducing it to almost nothing by the 29th, preventing further environmental destruction.
+They assumed that the San Joaquin, coming from the south, was the largest of the merging rivers they saw.
+In July 1991, a train derailed near Dunsmuir, California alongside the Sacramento River.
+American Indians usually pounded the acorns into flour, which they used to make bread and cakes.
+Amphibians originally thrived in the marshes, sloughs, side-channels and oxbow cutoffs because of their warmer water, abundance of vegetation and nutrients, lower population of predators, and slower current.
+The Sacramento River watershed includes large areas of forests such as the  Mendocino and Trinity National Forests in the Coast Ranges, Shasta and Lassen National Forests in the southern Cascades and the  Plumas, Tahoe and Eldorado National Forests on the western slopes of the Sierra Nevada.
+In the early 1850s, several treaties were signed between the U.S. government and the Native Americans involving their relocation onto a reservation in the Sierra foothills; this promise was broken.
+bar:Aoû from:0 till: 14920
+The dam has also become a "favorite spot" for predatory fish to congregate, feasting on the salmon that get trapped both above and below the dam.
+id:sfondo value:rgb(1,1,1)
+bar:Sep at: 14850 fontsize:S text: 14,850 shift:(-12,5)
+The U.S. Geological Survey (USGS) has stream gauges on 25 locations along the Sacramento River, although not all of them are currently operational.
+Maintained as part of the Deep Water Ship Channel, it is navigable by large oceangoing vessels and averages three-quarters of a mile (1.2&nbsp;km) across.
+By the late 20th and early 21st centuries, the government blamed crashing fish populations on overfishing, especially off the Northern California and Oregon coast, which lie directly adjacent to the migration paths of Sacramento River salmon.
+Many other state parks and recreation areas lie within the watershed.
+In 1880 State Engineer William H. Hall developed the first flood control plan for the Sacramento River.
+The U.S. Army Corps of Engineers and the state of California completed reports as early as the 1870s and 1880s that detailed the geography and water supplies of the Sacramento, Feather, Yuba and Bear rivers.
+In 2004, only 200,000 fish were reported to return to the Sacramento; in 2008, a disastrous low of 39,000.
+Most of the villages were small.
+Below Shasta Dam the Sacramento River enters the foothills region of the northern Sacramento Valley.
+Flow in the Yolo Bypass, a relief channel designed to carry a portion of the flood waters in order to protect the Sacramento area, is not measured by the Freeport gauge.
+bar:Aoû at: 14920 fontsize:S text: 14,920 shift:(-12,5)
+In 1873, Colonel B.S.
+Sutter's prosperity, however, indirectly led to his financial demise, and the rise of one of the most significant events in California history.
+The Sacramento is by far the largest contributor of fresh water to the Delta; in an average year it accounts for more than 80&nbsp;percent of the fresh water inflow.
+In the east, mercury that permeated into the ground has contaminated several aquifers that feed rivers such as the Feather, Yuba and American.
+Pesticide runoff, especially DDT, is one of the largest problems faced today, because of the valley's primarily agricultural economy.
+Much of it consists of restored stretches, and there is also a significant amount of artificial wetland in the watershed.
+The river then enters the Sacramento metro area, where it receives the American River from the east, then passes under the historic Tower Bridge and Interstate 80.
+Construction of Shasta Dam, the principal water storage facility in the Sacramento River system, started in 1938 and was completed in 1945.
+The major drainage basins bordering that of the Sacramento are that of the Klamath in the north, the San Joaquin and Mokelumne to the south and the Eel River in the west.
+The Sacramento River and its valley were one of the major American Indian population centers of California.
+About 650,000 years ago the lake catastrophically overflowed, draining into San Francisco Bay and creating the Carquinez Strait, the only major break for hundreds of miles in the Coast Ranges.
+The toxic substance was widely used by miners to separate gold from the surrounding rocks and dirt, and was disposed of by allowing it to evaporate.
+During the Great Depression in the 1930s, the first plans for statewide water engineering projects emerged backed by first the California government, then the United States government.
+The group ascended a mountain, likely in the hills north of Suisun Bay, and found themselves looking down at the delta of the Sacramento and San Joaquin Rivers.
+ScaleMajor = gridcolor:lightgrey increment:20000 start:0
+Alexander of the Army Corps of Engineers surveyed the Central Valley's hydrology and irrigation systems and proposed a great network of pumps and canals that would take water from the Sacramento River and transport it to drought-prone central and southern California, especially the San Joaquin Valley.
+bar:Jul at: 15720 fontsize:S text: 15,720 shift:(-12,5)
+bar:Mar from:0 till: 45620
+This, however, was followed by engineering projects to try and stem the flows of water rather than defend against it.
+In the following decades, more huge reservoirs – capable of storing a combined  of water – were constructed on the Sacramento's main tributaries, enabling the regulation of water for irrigation and hydroelectric power.
+Sacramento International Airport is located on the east bank of the river near Fremont.
+Overland trails such as the California Trail and Siskiyou Trail guided hundreds of thousands of people to the gold fields.
+bar:Fév from:0 till: 54200
+Since the 1950s the watershed has been intensely developed for water supply and the generation of hydroelectric power.
+bar:Jan from:0 till: 50800
+A total of 461 people were forced from their homes, but only 277 made it to the reservation before dying of disease, starvation or exhaustion.
+Similarly, the Dos Rios Dam project would have diverted almost the entire flow of the Eel River to the Sacramento.
+In the 19th century gold was discovered on a tributary of the Sacramento River, starting the California Gold Rush and an enormous population influx to the state.
+On May 14, 2007, onlookers and media spotted two humpback whales traveling the deep waters near Rio Vista.
+bar:Mai at: 24500 fontsize:S text: 24,500 shift:(-12,5)
+Increased erosion caused by the removal of riparian vegetation and the runoff of fertilizers into the river have led to occasional algae blooms, though the water is usually cold because of the regulation of dams upstream.
+Starting at the Red Bluff Diversion Dam on the Sacramento, the canals are  and  long respectively, and divert a total of over  of water to irrigate some .
+Because of resulting ecological destruction and fish kills, less water is diverted today than a few decades ago.
+North of Antioch and Pittsburg, the Sacramento and San Joaquin Rivers join at the head of Suisun Bay, marking the official end of both rivers.
+Encroachment of agricultural and urban land has eliminated most of this habitat.
+When the gold rush ended, most of the mines were closed but toxic acidic water and chemicals continue to leak from within, into west-side Sacramento tributaries such as Cache Creek and Putah Creek.
+color:barra width:30 align:left
+In 1808, explorer Gabriel Moraga, on a journey to find suitable sites for the construction of missions, became the first foreigner to see the river clearly.
+Starting in the late 1950s, two major canals were extended to irrigate the western side of the Sacramento Valley – the Tehama-Colusa and Corning Canals.
+The basin is relatively abundant in endemic amphibian and fish species.
+The Upper Sacramento begins near Mount Shasta, at the confluence of North, Middle and South Forks in the Trinity Mountains of Siskiyou County.
+id:darkgrey  value:gray(0.3)
+Historians have organized the numerous separate original native groups into several "tribes".
+A series of dams, dikes, channels and pump plants was created in the Delta to facilitate water flow from the Sacramento into the California Aqueduct, which can carry up to  of water.
+Large volumes of water are withdrawn from the Sacramento River for irrigation, industry and urban supplies.
+Along with the agrarian base, the basin is also home to about 2.8&nbsp;million people, far more than half of whom live within the Sacramento metropolitan area.
+bar:Déc from:0 till: 32700
+The watershed also has Lassen Volcanic National Park, which covers  centered on Lassen Peak, the southernmost Cascade volcano.
+In 1999, five hydroelectric dams on Battle Creek, a major tributary of the Sacramento River, were removed to allow better passage of the fish.
+The channel runs parallel to the Sacramento several miles to the west, and also forms the eastern boundary of the Yolo Bypass.
+As mining developed from simple methods such as panning and sluicing to a new form of commercialized extraction, hydraulic mining, profits from the petering gold rush made a second leap, earning more profits than those miners in the early years had ever made.
+Life for Native Americans in the Sacramento Valley was relatively simple and involved little violence.
+He was friendly with some of the tribes, and paid their leaders handsomely for supplying workers, but others he seized by force and made them labor in his fields.
+Unlike most California rivers, the Pit and the McCloud Rivers are predominantly spring-fed, ensuring a large and consistent flow in even the driest of summers.

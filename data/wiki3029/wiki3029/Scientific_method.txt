@@ -1,0 +1,200 @@
+(If axioms are given for a branch of mathematics, however, Lakatos claimed that proofs from those axioms were tautological, i.e.
+Hence, if the scientific method is used to expand the frontiers of knowledge, research into areas that are outside the mainstream will yield most new discoveries.
+At this point, the researcher will begin to think of theoretical explanations for the error, often seeking the help of colleagues across different domains of expertise.
+His pragmatic maxim is: "Consider what effects that might conceivably have practical bearings you conceive the objects of your conception to have.
+The operational definition of a thing often relies on comparisons with standards: the operational definition of "mass" ultimately relies on the use of an artifact, such as a particular kilogram of platinum-iridium kept in a laboratory in France.
+Terms commonly associated with statistical hypotheses are null hypothesis and alternative hypothesis.
+However, these laws were then determined to be special cases of a more general theory (relativity), which explained both the (previously unexplained) exceptions to Newton's laws and predicting and explaining other observations such as the deflection of light by gravity.
+Furthermore, failure of an experiment does not necessarily mean the hypothesis is false.
+Traces of this approach can be seen in the work of Hipparchus (190–120 BCE), when determining a value for the precession of the Earth, while controlled experiments can be seen in the works of Jābir ibn Hayyān (721–815 CE), al-Battani (853–929) and Alhazen (965–1039).
+Explicit deduction of hypothesis's consequences as predictions, for induction to test, about evidence to be found.
+We vary the conditions for each measurement, to help isolate what has changed.
+Karl Popper advised scientists to try to falsify hypotheses, i.e., to search for and test those experiments that seem most doubtful.
+In general, the strongest tests of hypotheses come from carefully controlled and replicated experiments that gather empirical data.
+Any useful hypothesis will enable predictions, by reasoning including deductive reasoning.
+The Greeks made contributions to the scientific method, most notably through Aristotle in his six works of logic collected as the Organon.
+Researchers have given their lives for this vision; Georg Wilhelm Richmann was killed by ball lightning (1753) when attempting to replicate the 1752 kite-flying experiment of Benjamin Franklin.
+The strength of a theory can be argued to be related to how long it has persisted without major alteration to its core principles.
+Peirce accelerated the progress on several fronts.
+Factor analysis is one technique for discovering the important factor in an effect.
+In his book ''Against Method'' he argues that scientific progress is ''not'' the result of applying any particular method.
+It might predict the outcome of an experiment in a laboratory setting or the observation of a phenomenon in nature.
+Paying special attention to the generation of explanations, Peirce outlined the scientific method as a coordination of three kinds of inference in a purposeful cycle aimed at settling doubts, as follows (in §III–IV in "A Neglected Argument" except as otherwise noted):
+In certain journals, the journal itself selects the referees; while in others (especially journals that are extremely specialized), the manuscript author might recommend referees.
+At any stage it is possible to refine its accuracy and precision, so that some consideration will lead the scientist to repeat an earlier part of the process.
+He was viewed as "a lone genius proclaiming the truth about time," having correctly calculated the calendar His work in optics provided the platform on which Newton, Descartes, Huygens and others later transformed the science of light.
+The overall process involves making conjectures (hypotheses), deriving predictions from them as logical consequences, and then carrying out experiments based on those predictions to determine whether the original conjecture was correct.
+However, the division of Latin-speaking Western Europe from the Greek-speaking East, followed by barbarian invasions, the Plague of Justinian, and the Islamic conquests, resulted in the West largely losing access to Greek wisdom.
+Scientists (and other people) test hypotheses by conducting experiments.
+Only in this case does a successful outcome increase the probability that the hypothesis is true.
+Sometimes experimenters may make systematic errors during their experiments, veer from standard methods and practices (Pathological science) for various reasons, or, in rare cases, deliberately report false results.
+Test and experiment
+Charles Sanders Peirce, borrowing a page from Aristotle (''Prior Analytics'', 2.25) described the incipient stages of inquiry, instigated by the "irritation of doubt" to venture a plausible guess, as ''abductive reasoning''.
+In Crick's study of consciousness, he actually found it easier to study awareness in the visual system, rather than to study free will, for example.
+Imre Lakatos argued that mathematicians actually use contradiction, criticism and revision as principles for improving their work.
+Hanson (1958) first coined the term for the idea that all observation is dependent on the conceptual framework of the observer, using the concept of gestalt to show how preconceptions can affect both observation and description.
+In future, some new technique might lead to an experimental test and the speculation would then become part of accepted science.
+Depending on how well the tests match the predictions, the original hypothesis may require refinement, alteration, expansion or even rejection.
+The prediction can also be statistical and deal only with probabilities.
+Starting from the idea that people seek not truth ''per se'' but instead to subdue irritating, inhibitory doubt, Peirce showed how, through the struggle, some can come to submit to truth for the sake of belief's integrity, seek as truth the guidance of potential practice correctly to its given goal, and wed themselves to the scientific method.
+Accordingly, he claimed that the empirical character of science has nothing to do with induction – but with the deductive property of falsifiability that scientific hypotheses have.
+This is frequently possible in certain areas, such as in the biological sciences, and more difficult in other areas, such as in astronomy.
+The alternative hypothesis is the desired outcome, e.g., that the drug does better than chance.
+In essence, he says that for any specific method or norm of science, one can find a historic episode where violating it has contributed to the progress of science.
+Not all steps take place in every scientific inquiry (or to the same degree), and are not always in the same order.
+Scientists assume an attitude of openness and accountability on the part of those conducting an experiment.
+His view that mathematics was essential to a correct understanding of natural philosophy was considered to be 400 years ahead of its time.
+The most successful explanations, which explain and make accurate predictions in a wide range of circumstances, are often called scientific theories.
+predict the results of future experiments.
+The best hypotheses lead to predictions that can be tested in various ways, including making further observations about nature.
+According to Karl Popper, Parmenides (''fl.''
+Kuhn and Feyerabend acknowledge the pioneering significance of his work.
+William Glen observes that
+If the evidence has falsified the hypothesis, a new hypothesis is required; if the experiment supports the hypothesis but the evidence is not strong enough for high confidence, other predictions from the hypothesis must be tested.
+A historical example is the belief that the legs of a galloping horse are splayed at the point when none of the horse's legs touches the ground, to the point of this image being included in paintings by its supporters.
+A final point: a scientific hypothesis must be falsifiable, meaning that one can identify a possible outcome of an experiment that conflicts with predictions deduced from the hypothesis; otherwise, it cannot be meaningfully tested.
+His relativistic calculations matched observation much more closely than did Newtonian theory.
+The scientific community and philosophers of science generally agree on the following classification of method components.
+# The method of authority – which overcomes disagreements but sometimes brutally.
+Both of these constraints indirectly require scientific method – work that violates the constraints will be difficult to publish and difficult to get funded.
+Due to the new easier access to the libraries of Constantinople by Western scholars, a certain revival in the study and analysis of the original Greek texts by Western scholars began.
+A linearized, pragmatic scheme of the four points above is sometimes offered as a guideline for proceeding:
+# The scientific method – the method wherein inquiry regards itself as fallible and purposely tests itself and criticizes, corrects, and improves itself.
+Coordinative method leads from abducing a plausible hypothesis to judging it for its testability and for how its trial would economize inquiry itself.
+and economical ("The greater the financial and other interests and prejudices in a scientific field, the less likely the research findings are to be true" and "The hotter a scientific field (with more scientific teams involved), the less likely the research findings are to be true.")
+s which comprise it.
+Grosseteste (1175–1253), an English statesman, scientist and Christian theologian, was "the principal figure" in bringing about "a more adequate method of scientific inquiry" by which "medieval scientists were able eventually to outstrip their ancient European and Muslim teachers" ().
+So, the race was on to figure out the correct structure (except that Pauling did not realize at the time that he was in a race) ''..3.
+Augustine of Hippo (354–430) who contributed great philosophical wealth to the Latin Middle Ages, advocated the study of science and was wary of philosophies that disagreed with the Bible, such as astrology and the Greek belief that the world had no beginning.
+Guesses can be chosen for trial strategically, for their caution (for which Peirce gave as example the game of Twenty Questions), breadth, and incomplexity.
+Hypothesis: a proposed explanation
+This is what Nassim Nicholas Taleb calls "Anti-fragility"; while some systems of investigation are fragile in the face of human error, human bias, and randomness, the scientific method is more than resistant or tough – it actually benefits from such randomness in many ways (it is anti-fragile).
+The scientific method is not a single recipe: it requires intelligence, imagination, and creativity.
+The purpose of an experiment is to determine whether observations of the real world agree with or conflict with the predictions derived from a hypothesis.
+The practice of experimental control and reproducibility can have the effect of diminishing the potentially harmful effects of circumstance, and to a degree, personal bias.
+A model can be a simulation, mathematical or chemical formula, or set of proposed steps.
+A null hypothesis is the conjecture that the statistical hypothesis is false, e.g., that the new drug does nothing and that any cures are due to chance effects.
+Occasionally because of this then, other scientists might attempt to repeat the experiments in order to duplicate the results.
+Scientific models vary in the extent to which they have been experimentally tested and for how long, and in their acceptance in the scientific community.
+Then, your conception of those effects is the whole of your conception of the object".
+By the 8th century Islam had conquered the Christian lands of Syria, Iraq, Iran and Egypt.
+Occam's Razor serves as a rule of thumb for choosing the most desirable amongst a group of equally explanatory hypotheses.
+A new technology or theory might make the necessary experiments feasible.
+In this, he is echoed by Francis Bacon, also influenced by skepticism; Sanches cites the humanist Juan Luis Vives who sought a better educational system, as well as a statement of human rights as a pathway for improvement of the lot of the poor.
+Often the explanations are altered over time, or explanations are combined to produce new explanations.
+A simple but unlikely guess, if uncostly to test for falsity, may belong first in line for testing.
+but is rather an ongoing cycle, constantly developing more useful, accurate and comprehensive models and methods.
+Astronomers do experiments, searching for planets around distant stars.
+They might adopt the characterization and formulate their own hypothesis, or they might adopt the hypothesis and deduce their own predictions.
+One thousand years ago, Alhazen argued the importance of forming questions and subsequently testing them, an approach which was advocated by Galileo in 1638 with the publication of ''Two New Sciences''.
+Agreement does not assure that the hypothesis is true; future experiments may reveal problems.
+(The ''subjects'' can also be called ''unsolved problems'' or the ''unknowns''.)
+The current method is based on a hypothetico-deductive model formulated in the 20th century, although it has undergone significant revision since first proposed (for a more formal discussion, see below).
+Eventually, the researcher decides the error is too persistent and systematic to be a coincidence.
+The characterization element can require extended and extensive study, even centuries.
+Various standards of scientific methodology are used within such an environment.
+Nonetheless, the cycle of formulating hypotheses, testing and analyzing the results, and formulating new hypotheses, will resemble the cycle described below.
+The difference is approximately 43 arc-seconds per century.
+Secondly, and of more direct importance to modern method, Peirce put forth the basic schema for hypothesis/testing that continues to prevail today.
+Thereby it depends on fashion in paradigms and goes in circles over time.
+In mathematics, a statement need not yet be proven; at such a stage, that statement would be called a conjecture.
+Experiments can take place in a college lab, on a kitchen table, at CERN's Large Hadron Collider, at the bottom of an ocean, on Mars, and so on.
+These ideas were skipped over by Isaac Newton with, "I do not define time, space, place and motion, as being well known to all."
+The scientific method also includes other components required even when all the iterations of the steps above have been completed:
+This is a continuous way our knowledge accumulates, through the logic and process of proofs and refutations.
+Thomas Kuhn examined the history of science in his ''The Structure of Scientific Revolutions'', and found that the actual method used by scientists differed dramatically from the then-espoused method.
+New theories are sometimes developed after realizing certain terms have not previously been sufficiently clearly defined.
+Originality, importance and interest are more important – see for example the  author guidelines for ''Nature''.
+This technique uses the contrast between multiple samples (or observations) under differing conditions to see what varies or what remains the same.
+This may explain why scientists so often express that they were lucky.
+If the experimental results confirm the predictions, then the hypotheses are considered more likely to be correct, but might still be wrong and continue to be subject to further testing.
+Detailed record keeping is essential, to aid in recording and reporting on the experimental results, and supports the effectiveness and integrity of the procedure.
+Research is showing that scientists are taught various heuristics that tend to harness chance and the unexpected.''''''
+Most stuck closely to Aristotle, being hesitant to admit that some of Aristotle's thinking was errant, while others strongly criticized him.
+Nola and Sankey remark that "For some, the whole idea of a theory of scientific method is yester-year's debate".
+By the late 15th century, the physician-scholar Niccolò Leoniceno was finding errors in Pliny's ''Natural History''.
+Others who advanced scientific method during this era included Albertus Magnus (c. 1193 – 1280), Theodoric of Freiberg, (c. 1250 – c. 1310), William of Ockham (c. 1285 – c. 1350), and Jean Buridan (c. 1300 – c. 1358).
+Each element of the scientific method is subject to peer review for possible mistakes.
+As a result, evidence about broader topics is usually accumulated gradually.
+Many books have been written by scientists which take on this problem and challenge the assertions of the postmodernists while defending science as a legitimate method of deriving truth.
+Researchers normally want to show that the null hypothesis is false.
+But today, the Poincaré conjecture has been proven using time as a mathematical concept in which objects can flow (see Ricci flow).
+Science is a social enterprise, and scientific work tends to be accepted by the scientific community when it has been confirmed.
+Although science in a broad sense existed before the modern era, and in many historical civilizations (as described above), modern science is so distinct in its approach and successful in its results that it now defines what science is in the strictest sense of the term.
+Philosophy of science looks at the underpinning logic of the scientific method, at what separates science from non-science, and the ethic that is implicit in science.
+Newton was able to include those measurements into consequences of his laws of motion.
+There are basic assumptions, derived from philosophy by at least one prominent scientist, that form the base of the scientific method – namely, that reality is objective and consistent, that humans have the capacity to perceive reality accurately, and that rational explanations exist for elements of the real world.
+Once a hypothesis is strongly supported by evidence, a new question can be asked to provide further insight on the same topic.
+The experimental control is a technique for dealing with observational error.
+A hypothesis is a conjecture, based on knowledge obtained while formulating the question.
+Experiments can be conducted in a college lab, on a kitchen table, at CERN's Large Hadron Collider, at the bottom of an ocean, on Mars (using one of the working rovers), and so on.
+Crucially, experimental and theoretical results must be reproduced by others within the scientific community.
+This means that we should not think that a theorem is ultimately true, only that no counterexample has yet been found.
+All explanatory content of theories comes from abduction, which guesses a new or outside idea so as to account in a simple, economical way for a surprising or complicative phenomenon.
+Guessing, inference to explanatory hypotheses for selection of those best worth trying.
+Corollarial or, if needed, Theorematic.
+Counts of things, such as the number of people in a nation at a particular time, may also have an uncertainty due to data collection limitations.
+Kuhn (1961) said the scientist generally has a theory in mind before designing and undertaking experiments so as to make empirical observations, and that the "route from theory to measurement can almost never be traveled backward".
+The observations are hence sometimes described as being 'theory-laden'.
+George Pólya's work on problem solving, the construction of mathematical proofs, and heuristic show that the mathematical method and the scientific method differ in detail, while nevertheless resembling each other in using iterative or recursive steps.
+While seeking the pertinent properties of the subjects, careful thought may also entail some definitions and observations; the observations often demand careful measurements and/or counting.
+The observed difference for Mercury's precession between Newtonian theory and observation was one of the things that occurred to Einstein as a possible early test of his theory of General Relativity.
+The hypothesis might be very specific or it might be broad.
+From abduction, Peirce distinguishes induction as inferring, on the basis of tests, the proportion of truth in the hypothesis.
+In this sense, it is not a mindless set of standards and procedures to follow,
+In fact, some observers (including some well known mathematicians such as Gregory Chaitin, and others such as Lakoff and Núñez) have suggested that mathematics is the result of practitioner bias and human limitation (including cultural ones), somewhat like the post-modernist view of science.
+In these cases, detailed records of their experimental procedures, raw data, statistical analyses and source code can be preserved in order to provide evidence of the methodology and practice of the procedure and assist in any potential future attempts to reproduce the result.
+If the test results contradict the predictions, the hypotheses which entailed them are called into question and become less tenable.
+In the late 19th century, Charles Sanders Peirce proposed a schema that would turn out to have considerable influence in the development of current scientific methodology generally.
+From the prestigious universities in Oxford and Paris, the new experimental science spread rapidly throughout the medieval universities: "And so it went to Galileo, William Gilbert, Francis Bacon, William Harvey, Descartes, Robert Hooke, Newton, Leibniz, and the world of the seventeenth century" ().
+It is essential that the outcome of testing such a prediction be currently unknown.
+He gives detailed descriptions of systematic studies using prisms and measurements by which he shows how a rainbow functions.
+Lindberg also notes that Ptolemy (2nd century CE) and Ibn al-Haytham (11th century CE) are among the early examples of people who carried out scientific experiments.
+Even taking a plane from New York to Paris is an experiment which tests the aerodynamical hypotheses used for constructing the plane.
+Large numbers of successful confirmations are not convincing if they arise from experiments that avoid risk.
+The philosopher and physician Francisco Sanches was led by his medical training at Rome, 1571–73, and by the philosophical skepticism recently placed in the European mainstream by the publication of Sextus Empiricus' "Outlines of Pyrrhonism", to search for a true method of knowing (''modus sciendi''), as nothing clear can be known by the methods of Aristotle and his followers – for example, syllogism fails upon circular reasoning.
+This swift conquest further severed Western Europe from many of the great works of Aristotle, Plato, Euclid and others, many of which were housed in the great library of Alexandria.
+Characterization from experience and observation
+As noted by William Whewell (1794–1866), "invention, sagacity, and genius" are required at every step.
+Some philosophers and scientists have argued that there is no scientific method.
+A statistical hypothesis is a conjecture about some population.
+'''Abduction''' (or retroduction).
+:Four essential elements of the scientific method are iterations, recursions, interleavings, or orderings of the following:
+For Peirce, rational inquiry implies presuppositions about truth and the real; to reason is to presuppose (and at least to hope), as a principle of the reasoner's self-regulation, that the real is discoverable and independent of our vagaries of opinion.
+These methodological elements and organization of procedures tend to be more characteristic of natural sciences than social sciences.
+Science is the process of gathering, comparing, and evaluating proposed models against observables.
+As a physician, Leoniceno was concerned about these botanical errors propagating to the materia medica on which medicines were based.
+Peirce calls his pragmatism "the logic of abduction".
+If the outcome is already known, it is called a consequence and should have already been considered while formulating the hypothesis.
+(See the Duhem–Quine thesis.)
+These unexpected results lead researchers to try to fix what they ''think'' is an error in their method.
+The writings of Alhazen, Bacon and Descartes are considered critical in the historical development of the modern scientific method, as are those of John Stuart Mill.
+If the work passes peer review, which occasionally may require new experiments requested by the reviewers, it will be published in a peer-reviewed scientific journal.
+The purpose of an experiment is to determine whether observations agree with or conflict with the predictions derived from a hypothesis.
+Peer review does not certify correctness of the results, only that, in the opinion of the reviewer, the experiments themselves were sound (based on the description supplied by the experimenter).
+Its general rationale is inductive: it succeeds often enough and, without it, there is no hope of sufficiently expediting inquiry (often multi-generational) toward new truths.
+For example, thousands of years of scientific observations of the planets were explained almost perfectly by Newton's laws.
+Mill's canons can then help us figure out what the important factor is.
+The hypothesis, being insecure, needs to have practical implications leading at least to mental tests and, in science, lending themselves to scientific tests.
+Mathematical work and scientific work can inspire each other.
+For example, the population might be people with a particular disease.
+In ''Proofs and Refutations'', Lakatos gave several basic rules for finding proofs and counterexamples to conjectures.
+The '''scientific method''' is a body of techniques for investigating phenomena, acquiring new knowledge, or correcting and integrating previous knowledge.
+Under modern interpretations, a scientific hypothesis must be falsifiable, implying that it is possible to identify a possible outcome of an experiment that conflicts with predictions deduced from the hypothesis; otherwise, the hypothesis cannot be meaningfully tested.
+The conjecture might be that a new drug will cure the disease in some of those people.
+The question can refer to the explanation of a specific ''observation'', as in "Why is the sky blue?
+Frequently the scientific method is employed not only by a single person, but also by several people cooperating directly or indirectly.
+They might provide it, or if the author refuses to share data, appeals can be made to the journal editors who published the study or to the institution which funded the research.
+The classical model of scientific inquiry derives from Aristotle, who distinguished the forms of approximate and exact reasoning, set out the threefold scheme of abductive, deductive, and inductive inference, and also treated the compound forms such as reasoning by analogy.
+The scientific method is an ongoing process, which usually begins with observations about the natural world.
+In general scientists tend to look for theories that are "elegant" or "beautiful".
+There are difficulties in a formulaic statement of method, however.
+Paul Feyerabend similarly examined the history of science, and was led to deny that science is genuinely a methodological process.
+This standard is practiced to various degrees by different journals, and can have the effect of keeping the literature free of obvious errors and to generally improve the quality of the material, especially in the journals who use the standard most rigorously.
+Lakatos proposed an account of mathematical knowledge based on Polya's idea of heuristics.
+Taleb believes that the more anti-fragile the system, the more it will flourish in the real world.
+The long-run validity of the rule of induction is deducible from the principle (presuppositional to reasoning in general) that the real is only the object of the final opinion to which adequate investigation would lead; anything to which no such process would ever lead would not be real.
+Roger Bacon (), an English thinker and experimenter, is recognized by many to be the father of modern scientific method.
+The hypothesis might be very specific, e.g., Einstein's equivalence principle or Francis Crick's "DNA makes RNA makes protein", or it might be broad, e.g., unknown species of life dwell in the unexplored depths of the oceans.
+Thus, much scientifically based speculation might convince one (or many) that the hypothesis that other intelligent species exist is true.
+", but can also be open-ended, as in "How can I design a drug to cure this particular disease?"

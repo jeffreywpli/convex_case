@@ -1,0 +1,200 @@
+Restricting to changes of coordinates with positive Jacobian determinant is possible on orientable manifolds, because there is a consistent global way to eliminate the minus signs; but otherwise the line bundle of densities and the line bundle of ''n''-forms are distinct.
+The work of Élie Cartan made differential forms one of the basic kinds of tensors used in mathematics.
+''n''-vector, a sum of ''n''-blades
+A component-free treatment of tensors uses notation that emphasises that tensors do not rely on any basis, and is defined in terms of the tensor product of vector spaces.
+The contraction can also be understood using the definition of a tensor as an element of a tensor product of copies of the space ''V'' with the space ''V''* by first decomposing the tensor into a linear combination of simple tensors, and then applying a factor from ''V''* to a factor from ''V''.
+Contraction of an upper with a lower index of an -tensor produces an -tensor; this can be visualized as moving diagonally up and to the left on the table.
+A spinor is an object that transforms like a tensor under rotations in the frame, apart from a possible sign that is determined by the spin.
+On components, these operations are simply performed component for component.
+In detail, the tensor quantifying stress in a 3-dimensional solid object has components that can be conveniently represented as a 3 × 3 array.
+Scalars are single numbers and are thus 0th-order tensors.
+They appear, for instance, in the Einstein–Hilbert action in general relativity.
+If a particular surface element inside the material is singled out, the material on one side of the surface will apply a force on the other side.
+The metric tensor is a covariant tensor of order 2, and so its determinant scales by the square of the coordinate transition:
+This happens, for instance, in the field of computer vision, with the trifocal tensor generalizing the fundamental matrix.
+If  is a basis of  and  is a basis of , then the tensor product  has a natural basis .
+Raising an index on an -tensor produces an -tensor; this can be visualized as moving diagonally down and to the left on the table.
+In principle, one could define a "tensor" simply to be an element of any tensor product.
+In the -entry of the table, ''M'' denotes the dimensionality of the underlying vector space or manifold because for each dimension of the space, a separate index is needed to select that dimension to get a maximally covariant antisymmetric tensor.
+where the hat denotes the components in the new basis.
+The components ''v''''i'' of a column vector '''v''' transform with the inverse of the matrix ''R'',
+Just as a vector in an -dimensional space is represented by a one-dimensional array of length  with respect to a given basis, any tensor with respect to a basis is represented by a multidimensional array.
+One approach is to define a tensor as a multilinear map.
+For example, a -tensor  can be contracted to a scalar through
+Important examples are provided by continuum mechanics.
+Tensor calculus was developed around 1890 by Gregorio Ricci-Curbastro under the title ''absolute differential calculus'', and originally presented by Ricci in 1892.
+Tensors are generalized within category theory by means of the concept of monoidal category, from the 1960s.
+The definition of a tensor as a multidimensional array satisfying a transformation law traces back to the work of Ricci.
+The vector spaces of a tensor product need not be the same, and sometimes the elements of such a more general tensor product are called "tensors".
+If the transformation matrix of an index is the inverse matrix of the basis transformation, then the index is called ''contravariant'' and is traditionally denoted with an upper index (superscript).
+An object that transforms as an ordinary tensor field under coordinate transformations, except that it is also multiplied by the determinant of the Jacobian of the inverse coordinate transformation to the  power, is called a tensor density with weight .
+Here, the term "order" or "total order" will be used for the total dimension of the array (or its generalisation in other definitions), ''p''+''q'' in the preceding example, and the term "type" for the pair giving the number contravariant and covariant indices.
+Tensors of higher order do however capture ideas important in science and engineering, as has been shown successively in numerous areas as they develop.
+The contemporary usage was introduced by Woldemar Voigt in 1898.
+Tensors are important in physics because they provide a concise mathematical framework for formulating and solving physics problems in areas such as elasticity, fluid mechanics, and general relativity.
+The '''''' (also ''degree'' or ''rank'') of a tensor is the dimensionality of the array needed to represent it, or equivalently, the number of indices needed to label a component of that array.
+The Einstein summation convention dispenses with writing summation signs, leaving the summation implicit.
+'''Tensors''' are geometric objects that describe linear relations between geometric vectors, scalars, and other tensors.
+By applying a multilinear map ''T'' of type  to a basis {'''e'''j} for ''V'' and a canonical cobasis {'''ε'''i} for ''V''*,
+The contraction of ''T'' on the first and last slots is then the vector
+If the polarization '''P''' is not linearly proportional to the electric field '''E''', the medium is termed ''nonlinear''.
+defining a coordinate transformation,
+Tensor contraction is an operation that reduces a type  tensor to a type  tensor.
+The transformation law may then be expressed in terms of partial derivatives of the coordinate functions,
+Here ''R'''' j''''i'' are the entries of the change of basis matrix, and in the rightmost expression the summation sign was suppressed: this is the Einstein summation convention, which will be used throughout this article.
+A more sophisticated example is the Cauchy stress tensor '''T''', which takes a direction '''v''' as input and produces the stress '''T'''('''v''') on the surface normal to this vector for output, thus expressing a relationship between these two vectors, shown in the figure (right).
+Although seemingly different, the approaches just describe the same geometric concept using different languages and at different levels of abstraction.
+A more modern view is that it is the tensors' structure as a symmetric monoidal category that encodes their most important properties, rather than the specific models of those categories
+Because they express a relationship between vectors, tensors themselves must be independent of a particular choice of coordinate system.
+linear transformation,  Kronecker delta
+For more on the intrinsic meaning, see density on a manifold.
+It thereby reduces the total order of a tensor by two.
+The linear nature of tensor implies that two tensors of the same type may be added together, and that tensors may be multiplied by a scalar with results analogous to the scaling of a vector.
+The field of nonlinear optics studies the changes to material polarization density under extreme electric fields.
+This transformation does not depend on the path taken through the space of frames.
+In some applications, it is the tensor product of Hilbert spaces that is intended, whose properties are the most similar to the finite-dimensional case.
+inner product, metric tensor, Ricci curvature, 2-form, symplectic form
+A vector is represented as a 1-dimensional array in a basis, and is a 1st-order tensor.
+It is possible to attach an additional discrete invariant to each frame called the "spin" that incorporates this path dependence, and which turns out to have values of ±1.
+Any repeated index symbol is summed over: if the index  is used twice in a given term of a tensor expression, it means that the term is to be summed for all .
+The concepts of later tensor analysis arose from the work of Carl Friedrich Gauss in differential geometry, and the formulation was much influenced by the theory of algebraic forms and invariants developed during the middle of the nineteenth century.
+This was the setting of Ricci's original work.
+Given a coordinate basis or fixed frame of reference, a tensor can be represented as an organized multidimensional array of numerical values.
+The correspondence lasted 1915–17, and was characterized by mutual respect:
+However, the mathematics literature usually reserves the term ''tensor'' for an element of a tensor product of a single vector space  and its dual, as above.
+For example, the components of an order  tensor  could be denoted &#8239;, where  and  are indices running from  to , or also by .
+Tensors were first conceived by Tullio Levi-Civita and Gregorio Ricci-Curbastro, who continued the earlier work of Bernhard Riemann and Elwin Bruno Christoffel and others, as part of the ''absolute differential calculus''.
+This expansion shows the way higher-order tensors arise naturally in the subject matter.
+As an example, the matrix of a linear operator in a basis is a rectangular array  that transforms under a change of basis matrix    by   .
+When changing from one orthonormal basis (called a ''frame'') to another by a rotation, the components of a tensor transform by that same rotation.
+This produces a new tensor with the same index structure as the previous, but with lower index in the position of the contracted upper index.
+Just as the components of a vector change when we change the basis of the vector space, the components of a tensor also change under such a transformation.
+The operation is achieved by summing components for which one specified contravariant index is the same as one specified covariant index to produce a new component.
+can be written as a linear combination
+covector, linear functional, 1-form, e.g.
+A metric tensor is a (symmetric) (-tensor, it is thus possible to contract an upper index of a tensor with one of lower indices of the metric tensor in the product.
+That is, the components  are given by .
+The numbers in the multidimensional array are known as the ''scalar components'' of the tensor or simply its ''components''.
+The total order of a tensor is the sum of these two numbers.
+Thus, a second-order tensor is needed.
+Each tensor comes equipped with a ''transformation law'' that details how the components of the tensor respond to a change of basis.
+This linear mapping is an isomorphism in finite dimensions, and it is often then expedient to identify ''V'' with its double dual.
+For example, an element of the tensor product space  is a second-order "tensor" in this more general sense, and an order- tensor may likewise be defined as an element of a tensor product of  different vector spaces.
+Such a tensor is said to be of order or ''type'' .
+inverse metric tensor, bivector, e.g., Poisson structure
+This is called a ''contravariant'' transformation law, because the vector transforms by the ''inverse'' of the change of basis.
+For example, a linear operator is represented in a basis as a two-dimensional square  array.
+While locally the more general transformation law can indeed be used to recognise these tensors, there is a global question that arises, reflecting that in the transformation law one may write either the Jacobian determinant, or its absolute value.
+The three faces of a cube-shaped infinitesimal volume segment of the solid are each subject to some given force.
+This is equivalent to a similar contraction on the product with a -tensor.
+In the language of vector bundles, the determinant bundle of the tangent bundle is a line bundle that can be used to 'twist' other bundles ''w'' times.
+There are several approaches to defining tensors.
+This can be achieved by defining tensors in terms of elements of tensor products of vector spaces, which in turn are defined through a universal property.
+where ''V'' is a (finite-dimensional) vector space and ''V''* is the corresponding dual space of covectors, which is linear in each of its arguments.
+Riemann curvature tensor
+In many applications, especially in differential geometry and physics, it is natural to consider a tensor with components that are functions of the point in a space.
+Conversely, the inverse operation can be defined, and is called ''raising an index''.
+gradient of a scalar field
+which is the transformation law for a scalar density of weight +2.
+Penrose graphical notation is a diagrammatic notation which replaces the symbols for tensors with shapes, and their indices by lines and curves.
+For infinite-dimensional vector spaces, inequivalent topologies lead to inequivalent notions of tensor, and these various isomorphisms may or may not hold depending on what exactly is meant by a tensor (see topological tensor product).
+When a vector space is equipped with a nondegenerate bilinear form (or ''metric tensor'' as it is often called in this context), operations can be defined that convert a contravariant (upper) index into a covariant (lower) index and vice versa.
+A different choice of basis will yield different components.
+It was made accessible to many mathematicians by the publication of Ricci and Tullio Levi-Civita's 1900 classic text ''Méthodes de calcul différentiel absolu et leurs applications'' (Methods of absolute differential calculus and their applications).
+Tensors thus live naturally on Banach manifolds.
+Tensor products can be defined in great generality&nbsp;– for example, involving arbitrary modules over a ring.
+If the transformation matrix of an index is the basis transformation itself, then the index is called ''covariant'' and is denoted with a lower index (subscript).
+Tensors were also found to be useful in other fields such as continuum mechanics.
+The force's vector components are also three in number.
+This definition is still used in some physics and engineering text books.
+The exterior algebra of Hermann Grassmann, from the middle of the nineteenth century, is itself a tensor theory, and highly geometric, but it was some time before it was seen, with the theory of differential forms, as naturally unified with tensor calculus.
+General relativity is formulated completely in the language of tensors.
+However, the space of frames is not simply connected (see orientation entanglement and plate trick): there are continuous paths in the space of frames with the same beginning and ending configurations that are not deformable one into the other.
+More generally, any tensor density is the product of an ordinary tensor with a scalar density of the appropriate weight.
+The components of a more general tensor transform by some combination of covariant and contravariant transformations, with one transformation law for each index.
+Another way of generalizing the idea of tensor, common in nonlinear analysis, is via the multilinear maps definition where instead of using finite-dimensional vector spaces and their algebraic duals, one uses infinite-dimensional Banach spaces and their continuous dual.
+In this context, a coordinate basis is often chosen for the tangent vector space.
+Constructions of spaces of tensors based on the tensor product and multilinear mappings can be generalized, essentially without modification, to vector bundles or coherent sheaves.
+Here the primed indices denote components in the new coordinates, and the unprimed indices denote the components in the old coordinates.
+Levi-Civita then initiated a correspondence with Einstein to correct mistakes Einstein had made in his use of tensor analysis.
+Here  is the linear susceptibility,  gives the Pockels effect and  second harmonic generation, and  gives the Kerr effect.
+This is called a ''covariant'' transformation law, because the covector transforms by the ''same matrix'' as the change of basis matrix.
+Higher "weights" then just correspond to taking additional tensor products with this space in the range.
+The stress tensor and strain tensor are both second-order tensors, and are related in a general linear elastic material by a fourth-order elasticity tensor.
+The coordinate independence of a tensor then takes the form of a covariant and/or contravariant transformation law that relates the array computed in one coordinate system to that computed in another one.
+To a good approximation (for sufficiently weak fields, assuming no permanent dipole moments are present), '''P''' is given by a Taylor series in '''E''' whose coefficients are the nonlinear susceptibilities:
+(This is like taking the trace of a matrix.)
+The abstract index notation is a way to write tensors such that the indices are no longer thought of as numerical, but rather are indeterminates.
+A tensor of type  is also called as a -tensor for short.
+Correspondingly there are types of tensors at work in many branches of abstract algebra, particularly in homological algebra and representation theory.
+There is always a natural linear map from ''V'' to its double dual, given by evaluating a linear form in ''V''* against a vector in ''V''.
+The word "tensor" itself was introduced in 1846 by William Rowan Hamilton to describe something different from what is now meant by a tensor.
+The transformation law for the matrix of a linear operator is consistent with the transformation law for a contravariant vector, so that the action of a linear operator on a contravariant vector is represented in coordinates as the matrix product of their respective coordinate representations.
+In general, this force will not be orthogonal to the surface, but it will depend on the orientation of the surface in a linear manner.
+In the 20th century, the subject came to be known as ''tensor analysis'', and achieved broader acceptance with the introduction of Einstein's theory of general relativity, around 1915.
+Within the bounds of this solid is a whole mass of varying stress quantities, each requiring 9 quantities to describe.
+Ricci calculus is the modern formalism and notation for tensor indices: indicating inner and outer products, covariance and contravariance, summations of tensor components, symmetry and antisymmetry, and partial and covariant derivatives.
+They are denoted by indices giving their position in the array, as subscripts and superscripts, following the symbolic name of the tensor.
+This operation is quite graphically known as ''lowering an index''.
+When the -tensor is interpreted as a linear map, this operation is known as the trace.
+The components of a tensor  are the coefficients of the tensor with respect to the basis obtained from a basis  for  and its dual , i.e.
+This table shows important examples of tensors, including both tensors on vector spaces and tensor fields on manifolds.
+One, for instance, is via the tensor product of Hilbert spaces.
+Multilinear algebra can be developed in greater generality than for scalars coming from a field.
+This discussion of tensors so far assumes finite dimensionality of the spaces involved, where the spaces of tensors obtained by each of these constructions are naturally isomorphic.
+Thus, 3 × 3, or 9 components are required to describe the stress at this cube-shaped infinitesimal segment.
+This ''inverse metric tensor'' has components that are the matrix inverse of those if the metric tensor.
+bilinear form, e.g.
+Whether an index is displayed as a superscript or subscript depends on the transformation properties of the tensor, described below.
+From about the 1920s onwards, it was realised that tensors play a basic role in algebraic topology (for example in the Künneth theorem).
+A downside to the definition of a tensor using the multidimensional array approach is that it is not apparent from the definition that the defined object is indeed basis independent, as is expected from an intrinsically geometric object.
+If  is of type  and  is of type , then the tensor product  has type .
+But the theory is then less geometric and computations more technical and less algorithmic.
+cross product in three dimensions
+However, the term "rank" generally has another meaning in the context of matrices and tensors.
+It is independent of basis elements, and requires no symbols for the indices.
+Several distinct pairs of indices may be summed this way.
+For example, a linear map is represented by a matrix (a 2-dimensional array) in a basis, and therefore is a 2nd-order tensor.
+The tensors are classified according to their type , where ''n'' is the number of contravariant indices, ''m'' is the number of covariant indices, and  gives the total order of the tensor.
+Elementary examples of such relations include the dot product, the cross product, and linear maps.
+The terms "order", "type", "rank", "valence", and "degree" are all sometimes used for the same concept.
+The precise form of the transformation law determines the ''type'' (or ''valence'') of the tensor.
+This is described by a tensor of type , in linear elasticity, or more precisely by a tensor field of type , since the stresses may vary from point to point.
+Using the properties of the tensor product, it can be shown that these components satisfy the transformation law for a type  tensor.
+The polarization waves generated are related to the generating electric fields through the nonlinear susceptibility tensor.
+There are a number of basic operations that may be conducted on tensors that again produce a tensor.
+The stresses inside a solid body or fluid are described by a tensor.
+In modern mathematical terminology such an object is called a tensor field, often referred to simply as a tensor.
+The multidimensional array of components of ''T'' thus form a tensor according to that definition.
+For some mathematical applications, a more abstract approach is sometimes useful.
+In a vector space with an inner product (also known as a metric) ''g'', the term contraction is used for removing two contravariant or two covariant indices by forming a trace with the metric tensor or its inverse.
+For example, scalars can come from a ring.
+In viewing a tensor as a multilinear map, it is conventional to identify the vector space ''V'' with the space of linear functionals on the dual of ''V'', the double dual ''V''**.
+A type  tensor, in the sense defined previously, is also a tensor of order  in this more general sense.
+This motivates viewing multilinear maps as the intrinsic objects underlying tensors.
+The concept of a tensor of order two is often conflated with that of a matrix.
+In contrast, the components, ''w''''i'', of a covector (or row vector), '''w''' transform with the matrix R itself,
+This notation captures the expressiveness of indices and the basis-independence of index-free notation.
+For example, a bilinear form is the same thing as a -tensor; an inner product is an example of a -tensor, but not all -tensors are inner products.
+These operations do not change the type of the tensor, however there also exist operations that change the type of the tensors.
+Although it is possible to show that transformation laws indeed ensure independence from the basis, sometimes a more intrinsic definition is preferred.
+Invariantly, in the language of multilinear algebra, one can think of tensor densities as multilinear maps taking their values in a density bundle such as the (1-dimensional) space of ''n''-forms (where ''n'' is the dimension of the space), as opposed to taking their values in just '''R'''.
+Where the summation is again implied.
+For example, a -tensor  can be contracted to a scalar through
+Some well-known examples of tensors in differential geometry are quadratic forms such as metric tensors, and the Riemann curvature tensor.
+a (''p''+''q'')-dimensional array of components can be obtained.
+Einstein had learned about them, with great difficulty, from the geometer Marcel Grossmann.
+But, because ''T'' is linear in all of its arguments, the components satisfy the tensor transformation law used in the multilinear array definition.
+The transformation law for an order  tensor with ''p'' contravariant indices and ''q'' covariant indices is thus given as,
+Scalar 1-densities are especially important because it makes sense to define their integral over a manifold.
+Moreover, such an array can be realized as the components of some multilinear map ''T''.
+Non-integral powers of the (positive) transition functions of the bundle of densities make sense, so that the weight of a density, in that sense, is not restricted to integer values.
+Euclidean vectors, often used in physics and engineering applications, and scalars themselves are also tensors.
+The notion of a tensor can be generalized in a variety of ways to infinite dimensions.
+The most common example of a scalar 1-density is the volume element, which in the presence of a metric tensor ''g'' is the square root of its determinant in coordinates, denoted .
+A special case are the scalar densities.
+A type  tensor is defined in this context as an element of the tensor product of vector spaces,
+Moreover, the universal property of the tensor product gives a -to- correspondence between tensors defined in this way and tensors defined as multilinear maps.
+Components for which those two indices are different are discarded.
+These components transform contravariantly, since
+(yet again assuming the summation convention).

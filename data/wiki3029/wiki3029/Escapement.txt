@@ -1,0 +1,200 @@
+# sends a pulse to activate one or more clock dials, and
+Unlike the continuous flow of water in the Chinese device, the medieval escapement was characterized by a regular, repeating sequence of discrete actions and the capability of self-reversing action:
+In a pendulum clock the crown wheel and staff were oriented so they were horizontal, and the pendulum was hung from the staff.
+The wheel usually had 15 teeth, and impulsed the balance over an angle of  20° to 40° in each direction.
+The escapement is driven by force from a coiled spring or a suspended weight, transmitted through the timepiece's gear train.
+Its advantage was that it reduced the wide pendulum swing angles of the verge to 3–6°, making the pendulum nearly isochronous, and allowing the use of longer, slower-moving pendulums, which used less energy.
+The time between releases depended on the rate of flow, which decreased with water pressure as the level of water in the source container dropped.
+Purchasers no longer buy mechanical watches primarily for their accuracy, so manufacturers had little interest in investing in the tooling required, although finally Omega adopted it in 1990.
+The pallets are often made of very hard materials such as polished stone (for example, artificial ruby), but even so they normally require lubrication.
+This 'recoil' disturbs the motion of the pendulum, causing inaccuracy, and reverses the direction of the gear train, causing backlash and introducing high loads into the system, leading to friction and wear.
+The earliest liquid-driven escapement was described by the Greek engineer Philo of Byzantium (3rd century BC) in his technical treatise ''Pneumatics'' (chapter 31) as part of a washstand.
+This form of clock became a standard for use in observatories (roughly 100 such clocks were manufactured), and was the first clock capable of detecting small variations in the speed of Earth's rotation.
+The gravity lever falls onto a pair of contacts, completing a circuit that does several things:
+Song dynasty (960&ndash;1279)  horologists Zhang Sixun (fl.
+By this time, the fashion for thin watches had required that the escape wheel be made very small, amplifying the effects of wear, and when a watch of this period is wound up today, it will often be found to run very fast, gaining many hours per day.
+In the Chinese timekeeper, however, the force exerted varied, the weight in each successive bucket building until sufficient to tip the release and lift the stop that held the wheel in place.
+Instead of using teeth, the escape wheel has round pins that are stopped and released by a scissors-like anchor.
+This lowering of the arm provides the impulse to the pendulum.
+However, none of these were true mechanical escapements, since they still depended on the flow of liquid through an orifice to measure time.
+In the Chinese clock, then unidirectional force produced unidirectional motion.
+If the impulse is evenly distributed then it gives energy to the pendulum without changing the time of its swing.
+The main advantage is that this enables both impulses to occur on or around the centre line, with disengaging friction in both directions.
+As the pendulum swings, the end of one arm catches on the escape wheel and drives it slightly backwards; this releases the other arm which moves out of the way to allow the escape wheel to pass.
+Consequently, balance springs use sophisticated alloys; in this area, watchmaking is still advancing.
+Since lubricating oil degrades over time due to evaporation, dust, oxidation, etc., periodic re-lubrication is needed.
+This very clever and sophisticated clock-work is a prized ''complication'' in watches, even though the natural movement of the wearer tends to smooth gravitational influences much more than for a pocket watch.
+Both systems used gravity as the prime mover, but the action was very different.
+To be time independent, the path must be cycloidal.
+Its friction and recoil limited its performance,  but the accuracy of these verge and foliot clocks was more limited by their early foliot type balance wheels, which because they lacked a balance spring had no natural "beat", so there was not much incentive to improve the escapement.
+On the other hand, most sources agree that mechanical escapement clocks existed by 1300.
+The design was developed steadily from the middle of the 18th century to the middle of the 19th century.
+Without a balance spring, the crossbeat would have been no more isochronous than the verge.
+Manual typewriters used escapements to step the carriage as each letter (or space) was typed.
+The precise point in the pendulum's travel at which impulse is supplied will determine how closely to time the pendulum will swing.
+These problems were eliminated in the deadbeat escapement, which slowly replaced the anchor in precision clocks.
+The increased reliability of modern watches is due primarily to the higher-quality oils used for lubrication.
+According to historian Derek J. de Solla Price, the medieval Chinese escapement spread west and was the source for Western escapement technology.
+Gravity causes some loss of accuracy as it magnifies over time any lack of symmetry in the weight of the balance .
+This regular periodic advancement moves the clock's hands forward at a steady rate.
+The pendulum was only impelled as required.
+If this is a pendulum, then the period of swing of the pendulum determines the accuracy.
+Most telephone exchanges used such a clock to control timed events such as were needed to control the set up and charging of telephone calls by issuing pulses of varying durations such as every second, six seconds and so on.
+Therefore, the self-starting lever escapement became dominant in watches.
+In other words, a unidirectional force produced a self-reversing action—about one step back for three steps forward.
+These are described below.
+A gravity escapement uses a small weight or a weak spring to give an impulse directly to the pendulum.
+Remarkably, Philo's comment that "its construction is similar to that of clocks" indicates that such escapement mechanisms were already integrated in ancient water clocks.
+Although some sources claim that French architect Villard de Honnecourt invented the first escapement around 1237 due to a drawing in his notebooks of a rope linkage to turn a statue of an angel to follow the sun, the consensus is that this was not an escapement.
+It was used in the first mechanical clocks and was originally controlled by a foliot, a horizontal bar with weights at either end.
+This snap being always the same, it is liberating the same quantity of energy every time and compensating for the variable energy of the barrel.
+Pocket watches, being in the pocket, were usually in a vertical orientation.
+The final form appeared around 1800, and this design was used until mechanical chronometers became obsolete in the 1970s.
+The other arm meanwhile was still in contact with pendulum and coming down again to a point lower than it had started from.
+However, the escapement had disadvantages which limited its use in watches: it was fragile and required skilled maintenance; it was not self-starting, so if the watch was jarred in use so the balance wheel stopped, it would not start up again; and it was harder to manufacture in volume.
+Because of this, the coaxial escapement should in theory perform effectively without lubrication.
+At the same time the tooth gives the timekeeping element a push, before another tooth catches on the escapement's pallet, returning the escapement to its "locked" state.
+Since 1658 when the introduction of the pendulum and balance spring made accurate timepieces possible, it has been estimated that more than three hundred different mechanical escapements have been devised, but only about 10 have seen widespread use.
+A poorly constructed or poorly maintained escapement will cause problems.
+In China, the Tang dynasty Buddhist monk Yi Xing along with government official Liang Lingzan made the escapement in 723 (or 725) to the workings of a water-powered armillary sphere and clock drive, which was the world's first clockwork escapement mechanism.
+This escapement, which is also called Amant escapement or (in Germany) Mannhardt escapement, is used quite often in tower clocks.
+Although no other example is known, it is possible that this was the first clock escapement design.
+They cause the weighted gravity arms to be raised by an amount indicated by the pair of parallel lines on each side of the escapement.
+Wristwatches and smaller clocks do not use pendulums as the timing device.
+During the extremities of the pendulum's swing, the escape wheel tooth rests against this locking face, providing no impulse to the pendulum, which prevents recoil.
+In many escapements, the unlocking of the escapement involves sliding motion; for example, in the animation shown above, the pallets of the anchor slide against the escapement wheel teeth as the pendulum swings.
+Much of this energy is dissipated in the acceleration and deceleration of the frictional "fly" attached to the escape wheels.
+The verge rod was suspended between them, with a short crosspiece that rotated first in one direction and then the other as the staggered teeth pushed past.
+It is a frictional rest escapement, with the teeth in contact with the cylinder over the whole balance wheel cycle, and so was not as accurate as "detached" escapements like the lever, and the high friction forces caused excessive wear and necessitated more frequent cleaning.
+The invention of the first all-mechanical escapement, the verge escapement, in 13th-century Europe initiated a change in timekeeping methods from continuous processes, such as the flow of water in water clocks, to repetitive oscillatory processes, such as the swing of pendulums, which could yield more accuracy.
+The next two centuries, the "golden age" of mechanical horology, saw the invention of perhaps 300 escapement designs, although only about 10 stood the test of time and were widely used in clocks and watches.
+Arnold also designed a spring detent escapement but, with improved design, Earnshaw's version eventually prevailed as the basic idea underwent several minor modifications during the last decade of the 18th century.
+The anchor is responsible for the long narrow shape of most pendulum clocks, and for the development of the grandfather clock, the first anchor clock to be sold commercially, which was invented around 1680 by William Clement, who disputed credit for the escapement with Hooke.
+The 'Double Three-legged Gravity Escapement' shown here is a form of escapement first devised by a barrister named Bloxam and later improved by Lord Grimthorpe.
+John Arnold was the first to use the detent escapement with an overcoil balance spring (patented 1782) and with this improvement his watches were the first really accurate pocket timekeepers, keeping time to within 1 or 2 seconds per day.
+# energizes a second electromagnet to raise the gravity lever above the master pendulum to its top position,
+The first mechanical escapement, the verge escapement, was used in a bell ringing apparatus called an ''alarum'' for several centuries before it was adapted to clocks.
+The escapement consists of an escape wheel shaped somewhat like a crown, with pointed teeth sticking axially out of the side, oriented horizontally.
+Astronomer Robertus Anglicus wrote in 1271 that clockmakers were trying to invent an escapement, but hadn't been successful yet.
+The first effective design of detent escapement was invented by John Arnold around 1775, but with the detent pivoted.
+Knowledge of these mercury escapements may have spread through Europe with translations of Arabic and Spanish texts.
+The development of mechanical clocks depended on the invention of an escapement which would allow a clock's movement to be controlled by an oscillating weight.
+The great clock at Westminster, that rings London's Big Ben uses a double three-legged gravity escapement.
+late 10th century) and Su Song (1020&ndash;1101) duly applied escapement devices for their astronomical clock towers, before the technology stagnated and retrogressed.
+Contrary to certain mechanisms such as remontoirs in which the constant force is supplied over an average, this is an authentic constant-force escapement, as the latter is indeed instantaneous and continuous.
+As the balance wheel swings counterclockwise through its center position, the notch in the ruby disk releases the tooth.
+In the 20th century William Hamilton Shortt invented a free pendulum clock, patented in September 1921 and manufactured by the Synchronome Company, with an accuracy of one hundredth of a second a day.
+Ideally, the impulse should be evenly distributed on either side of the lowest point of the pendulum's swing.
+Some escapements avoid sliding friction; examples include the grasshopper escapement of John Harrison in the 18th century, This may avoid the need for lubrication in the escapement (though it does not obviate the requirement for lubrication of other parts of the gear train).
+The accuracy of a mechanical clock is dependent on the accuracy of the timing device.
+# sends a pulse to a synchronizing mechanism that keeps the slave pendulum in step with the master pendulum.
+Grasshopper escapements made by Harrison in the 18th century are still operating.
+In the late 19th century, electromechanical escapements were developed for pendulum clocks.
+In the deadbeat, the pallets have a second curved "locking" face on them, concentric about the pivot on which the anchor turns.
+In these, a switch or phototube energised an electromagnet for a brief section of the pendulum's swing.
+A major attraction was that it was much thinner than the verge, allowing watches to be made fashionably slim.
+In the animation shown here the two "gravity arms" are coloured blue and red.
+This electromagnet releases a gravity lever onto the escapement above the master pendulum.
+It is in mechanical contact with its escapement for only a fraction of a second every 30 seconds.
+This allowed the wheel to turn some ten degrees and bring the next bucket under the stream of water while the stop fell back....
+On some clocks the pulse of electricity that drove the pendulum also drove a plunger to move the gear train.
+When the pendulum lifted one arm far enough its pallet would release the escape wheel.
+Its origin and first use is unknown because it is difficult to distinguish which of these early tower clocks were mechanical, and which were water clocks.
+The pendulum was not impelled on every swing or even at a set interval of time.
+The synchronizing mechanism used a small spring attached to the shaft of the slave pendulum and an electromagnetic armature that would catch the spring if the slave pendulum was running slightly late, thus shortening the period of the slave pendulum for one swing.
+It consisted of a pair of escape wheels on the same axle, with alternating radial teeth.
+A tooth catches on the lower pallet, rotating the shaft back the other way, and the cycle repeats.
+Since in a gravity escapement the drive force from the wheel train does not itself impel the pendulum but merely resets the weights that provide the impulse, the escapement is not affected by variations in drive force.
+As the wheel turns, one tooth pushes against the upper pallet, rotating the shaft and the attached foliot.
+The lever 'anchor' pallet locks the larger wheel and, on this being unlocked, a pallet on the end of the lever is given an impulse by the smaller wheel through the lever fork.
+Near the bottom of the pendulum's swing the tooth slides off the locking face onto the angled "impulse" face, giving the pendulum a push, before the pallet releases the tooth.
+The escapement's role was to tip the container over each time it filled up, thus advancing the clock's wheels each time an equal quantity of water was measured out.
+The importance of the escapement in the history of technology is that it was the key invention that made the all-mechanical clock possible.
+It was used in the first pendulum clocks for about 50 years after the pendulum clock was invented in 1656.
+The driving power from the falling weight is about 12&nbsp;mW, so there is a substantial excess of power used to drive the escapement.
+If the timing device is a pendulum, the increased frictional forces will decrease the Q factor, increasing the resonance band, and decreasing its precision.
+The deadbeat was first used in precision regulator clocks, but due to greater accuracy superseded the anchor in the 19th century.
+For long this was recognized as a disturbing influence on the isochronism of the balance.
+Rather than pallets, the escapement uses a cutaway cylinder on the balance wheel shaft, which the escape teeth enter one by one.
+In front of the crown wheel is a vertical shaft, attached to the foliot at the top, and which carries two metal plates (pallets) sticking out like flags from a flag pole, orientated about ninety degrees apart, so only one engages the crown wheel teeth at a time.
+Even into the 20th century, pendulum-based clocks were reference time pieces in laboratories.
+The earliest form consisted of two arms which were pivoted very close to the suspension spring of the pendulum with one arm on each side of the pendulum.
+This is caused by the restoring force on the pendulum being circular not linear; thus, the period of the pendulum is only approximately linear in the regime of the small angle approximation.
+The anchor has slanted pallets on the arms which alternately catch on the teeth of the escape wheel, receiving impulses.
+Each swing of the pendulum or balance wheel releases a tooth of the escapement's ''escape wheel'' gear, allowing the clock's gear train to advance or "escape" by a fixed amount.
+These were produced from 1783 onwards.
+Pendulum-based clocks can achieve outstanding accuracy.
+The escapement must accurately convert the oscillations of the pendulum or balance wheel into rotation of the clock or watch gear train, and it must deliver enough energy to the pendulum or balance wheel to maintain its oscillation.
+In the mechanical clock, the falling weight exerted a continuous and even force on the train, which the escapement alternately held back and released at a rhythm constrained by the controller.
+The earliest escapement in Europe (from about 1275) was the verge escapement, also known as the crown-wheel escapement.
+In 1867 Georges Frederic Roskopf invented an inexpensive, less accurate form called the Roskopf or pin-pallet escapement, which was used in cheap "dollar watches" in the early 20th century and is still used in cheap alarm clocks and kitchen timers.
+This mode of impulse is in theory superior to the lever escapement, which has engaging friction on the entry pallet.
+The Chinese one worked intermittently; the European, in discrete but continuous beats.
+Both of these clocks are electromechanical clocks: they use a pendulum as the timekeeping element, but electrical power rather than a mechanical gear train to supply energy to the pendulum.
+Each arm carried a small dead beat pallet with an angled plane leading to it.
+The Daniels escapement, however, achieves a double impulse with passive lever pallets serving only to lock and unlock the larger wheel.
+In a real escapement these impacts give rise to loud audible "ticks" and these are indicated by the appearance of a * beside the locking blocks.
+During the CW swing, the impulse tooth falls momentarily into the ruby roller notch again, but isn't released.
+Later, it was realized that all the teeth from the gears could be removed except one, and this created the detached lever escapement.
+British watchmakers used the English detached lever, in which the lever was at right angles to the balance wheel.
+It is the standard for all really accurate 'Tower' clocks.
+When the arc of swing of the pendulum was large enough, the vane crossed the groove and swung free on the other side.
+The invention of the crystal oscillator and the quartz clock in the 1920s shifted technological research in timekeeping to electronic methods, and largely put an end to escapement design.
+Faster or slower speeds are used in some watches (33,600 bph or 19,800 bph).
+As with the pendulum, the escapement must provide a small kick each cycle to keep the balance wheel oscillating.
+Actually, the earliest description of an escapement, in Richard of Wallingford's 1327 manuscript ''Tractatus Horologii Astronomici'' on the clock he built at the Abbey of St. Albans, was not a verge, but a variation called a ''strob'' escapement.
+However it lost favor to the lever; its tight tolerances and sensitivity to shock made duplex watches unsuitable for active people.
+As well as the counting pawl, the pendulum carried a small vane, known as a Hipp's toggle, pivoted at the top, which was completely free to swing.
+The detent or chronometer escapement is considered the most accurate of the balance wheel escapements, and was used in marine chronometers, although some precision watches during the 18th and 19th century also used it.
+Invented around 1657 by Robert Hooke, the anchor (see animation at top of page) quickly superseded the verge to become the standard escapement used in pendulum clocks through the 19th century.
+This gain in potential energy is the energy given to the pendulum on each cycle.
+However the verge was the standard escapement used in every other early clock and watch, and remained the only escapement for 400 years.
+The most accurate mechanical clock to date is probably the electromechanical Littlemore Clock, built by noted archaeologist E. T. Hall in the 1990s.
+The early form was invented by Pierre Le Roy in 1748, who created a pivoted detent type of escapement, though this was theoretically deficient.
+A rare but interesting mechanical escapement is John Harrison's grasshopper escapement invented in 1722.
+Jost Bürgi invented the cross-beat escapement in 1584, a variation of the verge escapement which had two foliots which rotated in opposite directions.
+A fraction of a second later (but exactly every 30 seconds), the motion of the master pendulum releases the gravity lever to fall farther.
+Special alloys are used in expensive pendulum-based clocks to minimize this distortion.
+It would reach the pallet and stop.
+Escapements play a big part in accuracy as well.
+If the pendulum rod is made of metal it will expand and contract with heat, shortening or lengthening the pendulum; this changes the time taken for a swing.
+To minimize the effect with amplitude, pendulum swings are kept as small as possible.
+In Hall's paper, he reports an uncertainty of 3 parts in 109 measured over 100 days (an uncertainty of about 0.02 seconds over that period).
+An '''escapement''' is a device in mechanical watches and clocks that transfers energy to the timekeeping element (the "impulse action") and allows the number of its oscillations to be counted (the "locking action").
+Lubricant lifetimes can be greater than five years in a high-quality watch.
+It eventually became the escapement of choice for turret clocks, because their wheel trains are subjected to large variations in drive force caused by the large exterior hands, with their varying wind, snow, and ice loads.
+On the return, the lever again unlocks the larger wheel, which gives an impulse directly onto an impulse roller on the balance staff.
+Also, the same lubrication problem occurs over time; the watch will lose accuracy (typically it will speed up) when the escapement lubrication starts failing.
+Pocket watches were the predecessor of modern wristwatches.
+The horizontal or cylinder escapement, invented by Thomas Tompion in 1695 and perfected by George Graham in 1726, was one of the escapements which replaced the verge escapement in pocketwatches after 1700.
+The return stroke is 'dead', with the 'anchor' pallets serving only to lock and unlock, impulse being given in one direction through the single lever pallet.
+The detent is a detached escapement; it allows the balance wheel to swing undisturbed during most of its cycle, except the brief impulse period, which is only given once per cycle (every other swing).
+The independent watchmaker, De Bethune, has developed a concept where a magnet makes a resonator vibrate at high frequency, replacing the traditional balance spring.
+A disadvantage of the escapement was that each time a tooth lands on a pallet, the momentum of the foliot pushes the crown wheel backwards a short distance before the force of the wheel reverses the motion.
+The sudden stopping of the escapement's tooth is what generates the characteristic "ticking" sound heard in operating mechanical clocks and watches.
+The block carried a contact which completed the circuit to the electromagnet which impelled the pendulum.
+In this escapement, the pendulum is driven by two hinged arms (pallets).
+Both techniques used escapements, but these have only the name in common.
+The slave pendulum was adjusted to run slightly slow, such that on approximately every other synchronization pulse the spring would be caught by the armature.
+As in the chronometer, there is little sliding friction during impulse since pallet and impulse tooth are moving almost parallel, so little lubrication is needed.
+Therefore, the advantages of this escapement over the lever are of an uncertain value.
+The great leap in accuracy resulting from the invention of the pendulum and balance spring around 1657, which made the timekeeping elements in both watches and clocks harmonic oscillators, focused attention on the errors of the escapement, and more accurate escapements soon superseded the verge.
+The French solved this problem by making the cylinder and escape wheel of hardened steel, and the escapement was used in large numbers in inexpensive French and Swiss pocketwatches and small clocks from the mid-19th to the 20th century.
+The original form was the rack lever escapement, in which the lever and the balance wheel were always in contact via a gear rack on the lever.
+However, indirect evidence, such as a sudden increase in cost and construction of clocks, points to the late 13th century as the most likely date for the development of the modern clock escapement.
+The main advantage of the deadbeat is that it eliminated recoil.
+The two three-legged escape wheels are also coloured blue and red.
+As with the duplex, the locking wheel is larger in order to reduce pressure and thus friction.
+Clockmakers found it suffered from excessive wear, so it was not much used during the 18th century, except in a few high-end watches with the cylinders made from ruby.
+Invented around 1741 by Louis Amant, this version of a deadbeat escapement can be made quite rugged.
+The anchor consists of an escape wheel with pointed, backward slanted teeth, and an "anchor"-shaped piece pivoted above it which rocks from side to side, linked to the pendulum.
+This is called "''recoil''" and was a source of wear and inaccuracy.
+In 1843 Matthäus Hipp first mentioned a purely mechanical clock being driven by a switch called "echappement à palette".
+The cycle starts with a locking tooth resting against the ruby disk.
+In spring-driven clocks and watches it required a fusee to even out the force of the mainspring.
+As the escape wheel turns, the pallet is in just the right position to receive a push from an impulse tooth.
+If the arc was too small the vane never left the far side of the groove, and when the pendulum swung back it pushed the block strongly downwards.
+The balance engages with and is impelled by the lever through a roller pin and lever fork.
+In the 20th century, electric timekeeping methods replaced mechanical clocks and watches, so escapement design became a little-known curiosity.
+Oscillating timekeepers are used in every modern clock.
+This is called "being in beat."

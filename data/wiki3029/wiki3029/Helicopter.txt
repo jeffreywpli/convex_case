@@ -1,0 +1,200 @@
+This is done by applying a pedal input in whichever direction is necessary to center the ball in the turn and bank indicator.
+The main limitation of the helicopter is its low speed.
+These operations are referred to as longline because of the long, single sling line used to carry the load.
+The collective changes the pitch angle of all the main rotor blades collectively (i.e.
+The rotor consists of a mast, hub and rotor blades.
+Early rotor winged flight suffered failures primarily associated with the unbalanced rolling movement generated when attempting take-off, due to dissymmetry of lift between the advancing and retreating blades.
+The collective is used to maintain altitude.
+The rotor blades are attached to the hub.
+Nicolas Florine, a Russian engineer, built the first twin tandem rotor machine to perform a free flight.
+Application of the pedal in a given direction changes the pitch of the tail rotor blades, increasing or reducing the thrust produced by the tail rotor and causing the nose to yaw in the direction of the applied pedal.
+Focke designed the world's first practical transverse twin-rotor helicopter, the Focke-Wulf Fw 61, which first flew on 26 June 1936.
+One of these toys, given as a gift by their father, would inspire the Wright brothers to pursue the dream of flight.
+Hundreds of pilots were involved in airdrop and observation missions, making dozens of sorties a day for several months.
+* Coaxial rotors are two counter-rotating rotors mounted one above the other with the same axis.
+In forward flight a helicopter's flight controls behave more like those of a fixed-wing aircraft.
+Produced in several countries, the Bell 47 was the most popular helicopter model for nearly 30 years.
+The British government funded further research by Pescara which resulted in helicopter No.
+This causes the helicopter to push air downward or upward, depending on the angle of attack.
+Tanks fitted onto helicopters are filled from a hose while the helicopter is on the ground or water is siphoned from lakes or reservoirs through a hanging snorkel as the helicopter hovers over the water source.
+On 5 May 1905, his helicopter reached four meters (13&nbsp;ft) in altitude and flew for over 1,500 meters (4,900&nbsp;ft).
+During the closing years of the 20th century designers began working on helicopter noise reduction.
+This adaptation of the turbine engine provided a large amount of power to Kaman's helicopter with a lower weight penalty than piston engines, with their heavy engine blocks and auxiliary components.
+The pedals mechanically change the pitch of the tail rotor altering the amount of thrust produced.
+The Bréguet-Dorand ''Gyroplane Laboratoire'' was built in 1933.
+It was not until the early 1480s, when Leonardo da Vinci created a design for a machine that could be described as an "aerial screw", that any recorded advancement was made towards vertical flight.
+* Motion picture photography
+Coordinating these two inputs, down collective plus aft cyclic or up collective plus forward cyclic, will result in airspeed changes while maintaining a constant altitude.
+In 1887 Parisian inventor, Gustave Trouvé, built and flew a tethered electric model helicopter.
+There are several reasons a helicopter cannot fly as fast as a fixed-wing aircraft.
+LePage received the patent rights to develop helicopters patterned after the Fw 61, and built the XR-1.
+The aircraft first flew on August 12, 2011.
+Aerial cranes are used to place heavy equipment, like radio transmission towers and large air conditioning units, on the tops of tall buildings, or when an item must be raised up in a remote area, such as a radio tower raised on the top of a hill or mountain.
+Coaxial, contra-rotating, biplane rotors could be warped to cyclically increase and decrease the lift they produced.
+Gearbox or drive train vibrations can be extremely harmful to a pilot.
+Though most earlier designs used more than one main rotor, it is the single main rotor with anti-torque tail rotor configuration that has become the most common helicopter configuration.
+The mast is a cylindrical metal shaft that extends upwards from the transmission.
+In 1923, de la Cierva's first successful autogyro was flown in Spain by Lt. Gomez Spencer.
+Alphonse Pénaud would later develop coaxial rotor model helicopter toys in 1870, also powered by rubber bands.
+Most also have vibration dampers for height and pitch.
+Indoor soccer stadium; Igor I. Sikorsky Competition winner
+The 4th-century AD Daoist book ''Baopuzi'' by Ge Hong (抱朴子 "Master who Embraces Simplicity") reportedly describes some of the ideas inherent to rotary wing aircraft.
+The spinning creates lift, and the toy flies when released.
+The use of two or more horizontal rotors turning in opposite directions is another configuration used to counteract the effects of torque on the aircraft without relying on an anti-torque tail rotor.
+This can lead to a loss of control and a crash or hard landing when operating at low altitudes, due to the sudden unexpected loss of lift, and insufficient time and distance available to recover.
+Aft cyclic will cause the nose to pitch up, slowing the helicopter and causing it to climb.
+While smaller and less expensive helicopters still use piston engines, turboshaft engines are the preferred powerplant for helicopters today.
+The subsequent Model 30 helicopter showed the design's simplicity and ease of use.
+In-flight catastrophic gear failures often result in gearbox jamming and subsequent fatalities, whereas loss of lubrication can trigger onboard fire.
+To enable the aircraft to take off without forward ground travel, he produced the "Autodynamic" rotor head, which allowed the rotor to be spun up by the engine in the usual way but to higher than take-off r.p.m at zero rotor incidence and then to reach operational positive pitch suddenly enough to jump some 20&nbsp;ft (6 m) upwards.
+The purpose of the throttle is to maintain enough engine power to keep the rotor RPM within allowable limits so that the rotor produces enough lift for flight.
+An air ambulance helicopter is equipped to stabilize and provide limited medical treatment to a patient while in flight.
+The turboshaft engine was able to be scaled to the size of the helicopter being designed, so that all but the lightest of helicopter models are powered by turbine engines today.
+all at the same time) and independently of their position.
+Between 1933 and 1936, de la Cierva used one C.30A (''G-ACWF'') to perfect his last contribution to autogyro development before his death in late 1936.
+The Flettner Fl 282 ''Kolibri'' synchropter—using the same basic configuration as Anton Flettner's own pioneering Fl 265—was used in the Mediterranean, while the Focke Achgelis Fa 223 ''Drache'' twin-rotor helicopter was used in Europe.
+As de la Cierva's autogyros achieved success and acceptance, others began to follow and with them came further innovation.
+The production model, called the C.30A by Avro, was built under licence in Britain, France and Germany and was similar to the C.30P.
+The pedals serve the same function in both a helicopter and a fixed-wing aircraft, to maintain balanced flight.
+To reduce vibration, all helicopters have rotor adjustments for height and weight.
+The first production direct control autogyro was the C.30, produced in quantity by Avro, Liore et Olivier, and Focke-Wulf.
+The helicopters are used for aerial firefighting (water bombing) and may be fitted with tanks or carry helibuckets.
+It is possible for this blade to exceed the speed of sound, and thus produce vastly increased drag and vibration.
+The result is to tilt the rotor disk in a particular direction, resulting in the helicopter moving in that direction.
+A movie covering the event was taken by Max Skladanowsky, but it remains lost.
+Naval forces also use helicopters equipped with dipping sonar for anti-submarine warfare, since they can operate from small ships.
+Use of the foot pedals is required to adjust the tail rotor's angle of attack, to compensate for these instabilities.
+Adjustment is difficult in part because measurement of the vibration is hard, usually requiring sophisticated accelerometers mounted throughout the airframe and gearboxes.
+The airspeed of the advancing rotor blade is much higher than that of the helicopter itself.
+Each licensee used nationally built engines and used slightly different names.
+Developed from the VS-300, Sikorsky's R-4 was the first large-scale mass-produced helicopter, with a production order for 100 aircraft.
+Cornu's helicopter completed a few more flights and achieved a height of nearly 6.5 feet (2 m), but it proved to be unstable and was abandoned.
+Despite the complexity of the task, the control inputs in a hover are simple.
+If the pilot pushes the cyclic to the side, the rotor disk tilts to that side and produces thrust in that direction, causing the helicopter to hover sideways.
+* Aerial photography
+Helicopters are used as air ambulances for emergency medical assistance in situations when an ambulance cannot easily or quickly reach the scene, or cannot transport the patient to a medical facility in time.
+In 1783, Christian de Launoy, and his mechanic, Bienvenu, used a coaxial version of the Chinese top in a model consisting of contrarotating turkey flight feathers as rotor blades, and in 1784, demonstrated it to the French Academy of Sciences.
+They are found on tiltrotors and some earlier helicopters.
+In 1908, Edison patented his own design for a helicopter powered by a gasoline engine with box kites attached to a mast by cables for a rotor, but it never flew.
+This machine had a four blade rotor with flapping hinges but relied upon conventional airplane controls for pitch, roll and yaw.
+Two years later, on 26 March 1954, a modified Navy HTK-1, another Kaman helicopter, became the first twin-turbine helicopter to fly.
+Another approach was to tilt the tail stabiliser to deflect engine slipstream up through the rotor.
+Extensive bombing by the Allied forces prevented Germany from producing any helicopters in large quantities during the war.
+In 1906, two French brothers, Jacques and Louis Breguet, began experimenting with airfoils for helicopters.
+Some also use mechanical feedback systems to sense and counter vibration.
+In just 6 months they completed the first Bell Model 1, which spawned the Bell Model 30, later succeeded by the Bell 47.
+Various companies specialize in this type of operation.
+In addition, it is possible for the helicopter to fly at an airspeed where an excessive amount of the retreating blade stalls, which results in high vibration, pitch-up, and roll into the retreating blade.
+There are also human-powered helicopters.
+On 11 December 1951, the Kaman K-225 became the first turbine-powered helicopter in the world.
+In the Soviet Union, Boris N. Yuriev and Alexei M. Cheremukhin, two aeronautical engineers working at the ''Tsentralniy Aerogidrodinamicheskiy Institut'' (TsAGI, the Central Aerohydrodynamic Institute), constructed and flew the TsAGI 1-EA single lift-rotor helicopter, which used an open tubing framework, a four-blade main lift rotor, and twin sets of 1.8-meter (6-foot) diameter, two-bladed anti-torque rotors: one set of two at the nose and one set of two at the tail.
+During World War II, Nazi Germany used helicopters in small numbers for observation, transport, and medical evacuation.
+Heinrich Focke at Focke-Wulf was licensed to produce the Cierva C.30 autogyro in 1933.
+His relatively large machine had two, two-bladed, counter-rotating rotors.
+Several methods were attempted in addition to the coiled rope system, which could take the rotor speed to 50% of that required, at which point movement along the ground to reach flying speed was necessary, while tilting the rotor to establish autorotation.
+However, the Robinson R22 and Robinson R44 have a unique teetering bar cyclic control system and a few helicopters have a cyclic control that descends into the cockpit from overhead.
+Edison reported that it would take a motor with a ratio of three to four pounds per horsepower produced to be successful, based on his experiments.
+A swashplate controls the collective and cyclic pitch of the main blades.
+That same year, fellow French inventor Paul Cornu designed and built a Cornu helicopter that used two 20-foot (6 m) counter-rotating rotors driven by a 24&nbsp;hp (18&nbsp;kW) Antoinette engine.
+Meanwhile, Sikorsky settled on a simpler, single rotor design, the VS-300, which turned out to be the first practical single lifting-rotor helicopter design.
+Such helicopters are mounted with missile launchers and miniguns.
+There are several common configurations that use the counter-rotating effect to benefit the rotorcraft:
+In 1925 he brought his C.6 to Britain and demonstrated it to the Air Ministry at Farnborough, Hampshire.
+The use of helicopters as air ambulances is often referred to as "MEDEVAC", and patients are referred to as being "airlifted", or "medevaced".
+At the time, it was one of the most stable helicopters in existence.
+Young invented the stabilizer bar and patented it shortly after.
+Therefore, if a collective input is made, all the blades change equally, and the result is the helicopter increasing or decreasing in altitude.
+His first prototype "flew" ("hopped" and hovered in reality) on 24 September 1925, with Dutch Army-Air arm Captain Floris Albert van Heijst at the controls.
+Early helicopter designs utilized custom-built engines or rotary engines designed for airplanes, but these were soon replaced by more powerful automobile engines and radial engines.
+This major difficulty was resolved by Juan de la Cierva's introduction of the flapping hinge.
+Other uses of helicopters include:
+The cyclic control is usually located between the pilot's legs and is commonly called the ''cyclic stick'' or just ''cyclic''.
+* Tourism and recreation
+As a helicopter moves from hover to forward flight it enters a state called translational lift which provides extra lift without increasing power.
+A helicopter used to carry loads connected to long cables or slings is called an aerial crane.
+Designs similar to the Chinese helicopter toy appeared in Renaissance paintings and other works.
+The end result is constant control inputs and corrections by the pilot to keep the helicopter where it is required to be.
+For a half century before the first airplane flight, steam engines were used to forward the development of the understanding of helicopter aerodynamics, but the limited power did not allow for manned flight.
+* Transverse rotors are pair of counter-rotating rotors mounted at each end of the wings or outrigger structures.
+The helicopter was damaged by explosions and one of his workers was badly burned.
+A major problem with the autogyro was driving the rotor before takeoff.
+The concept was taken from the conceptual computer-aided design model on September 10, 2010 to the first testing at 30% power on March 1, 2011 - less than six months.
+It flew in Sint-Genesius-Rode, at the ''Laboratoire Aérotechnique de Belgique'' (now von Karman Institute) in April 1933, and attained an altitude of six meters (20&nbsp;ft) and an endurance of eight minutes.
+Helicopter rotors are designed to operate in a narrow range of RPM.
+Increasing collective (power) while maintaining a constant airspeed will induce a climb while decreasing collective will cause a descent.
+On 14 December 1935, he set a record for closed-circuit flight with a 500-meter (1,600&nbsp;ft) diameter.
+1 proved to be extremely unsteady and required a man at each corner of the airframe to hold it steady.
+The rotor system, or more simply ''rotor'', is the rotating part of a helicopter that generates lift.
+The throttle controls the power produced by the engine, which is connected to the rotor by a fixed ratio transmission.
+A mutual friend introduced Young to Lawrence Dale, who once seeing his work asked him to join the Bell Aircraft company.
+By contrast, electromagnetic transmissions do not use any parts in contact; hence lubrication can be drastically simplified, or eliminated.
+The swashplate can also change its angle to move the blades angle forwards or backwards, or left and right, to make the helicopter move in those directions.
+A rotor system may be mounted horizontally, as main rotors are, providing lift vertically, or it may be mounted vertically, such as a tail rotor, to provide horizontal thrust to counteract torque from the main rotors.
+And, finally, on 24 November 1936, he set a flight duration record of one hour, two minutes and 50 seconds over a 44 kilometer (27&nbsp;mi) closed circuit at 44.7 kilometers per hour (27.8&nbsp;mph).
+The speed advantage over boats makes the high operating cost of helicopters cost-effective in ensuring that oil platforms continue to operate.
+Even though this flight did not surpass the flight of the Gyroplane No.
+Powered by two M-2 powerplants, up-rated copies of the Gnome ''Monosoupape'' 9 Type B-2 100 CV output rotary engine of World War I, the TsAGI 1-EA made several low altitude flights.
+The availability of lightweight turboshaft engines in the second half of the 20th century led to the development of larger, faster, and higher-performance helicopters.
+An example of a cold jet helicopter is the Sud-Ouest Djinn, and an example of the hot tip jet helicopter is the YH-32 Hornet.
+This allows the helicopter to take off and land vertically, to hover, and to fly forward, backward, and laterally.
+They are often mounted with lighting and heat-sensing equipment for night pursuits.
+Tandem rotor helicopters are also in widespread use due to their greater payload capacity.
+The absence of gears enables high power transient without impact on service life.
+Military forces use attack helicopters to conduct aerial attacks on ground targets.
+Unlike powerplants, mechanical gearboxes cannot be duplicated (for redundancy) and have always been a major weak point in helicopter reliability.
+By the end of the century, he had progressed to using sheets of tin for rotor blades and springs for power.
+Helicopters are used as aerial cranes in the logging industry to lift trees out of terrain where vehicles cannot travel and where environmental concerns prohibit the building of roads.
+In 1930, the Italian engineer Corradino D'Ascanio built his D'AT3, a coaxial helicopter.
+In the early 1920s, Argentine Raúl Pateras-Pescara de Castelluccio, while working in Europe, demonstrated one of the first successful applications of cyclic pitch.
+After many ground tests and an accident, it first took flight on 26 June 1935.
+Sir George Cayley, influenced by a childhood fascination with the Chinese flying top, developed a model of feathers, similar to that of Launoy and Bienvenu, but powered by rubber bands.
+Therefore, the rotors had to be tilted slightly in opposite directions to counter torque.
+In single-engine helicopters, the throttle control is a motorcycle-style twist grip mounted on the collective control, while dual-engine helicopters have a power lever for each engine.
+Turbine engines revolutionized the aviation industry, and the turboshaft engine finally gave helicopters an engine with a large amount of power and a low weight penalty.
+Emmanuel Dieuaide's steam-powered design featured counter-rotating rotors powered through a hose from a boiler on the ground.
+On July 1901, Hermann Ganswindt demonstrated maiden flight of his helicopter took place in Berlin-Schöneberg, which probably was the first motor-driven flight carrying humans.
+On 18 April 1924, Pescara beat Oemichen's record, flying for a distance of 736 meters (nearly a half mile) in 4 minutes and 11 seconds (about 8&nbsp;mph, 13&nbsp;km/h), maintaining a height of six feet (1.8 meters).
+The Model 30 was developed into the Bell 47, which became the first helicopter certified for civilian use in the United States.
+The pedals are used to control nose direction or heading.
+A helicopter has four flight control inputs.
+All development was conducted in Venelles, France.
+After indoor tests, the aircraft was demonstrated outdoors and made several free take-offs.
+Some turbine engines commonly used in helicopters can also use biodiesel instead of jet fuel.
+Some radio-controlled helicopters and smaller, helicopter-type unmanned aerial vehicles, use electric motors.
+As the Soviet Union was not yet a member of the FAI, however, Cheremukhin's record remained unrecognized.
+At high speeds, the force on the rotors is such that they "flap" excessively, and the retreating blade can reach too high an angle and stall.
+Using hingeless rotors and co-rotation also minimised the stress on the hull.
+* Reflection seismology
+Quadcopter helicopters pioneered as early as 1907 in France, and other types of multicopter have been developed for specialized applications such as unmanned drones.
+The R-4 was the only Allied helicopter to serve in World War II, when it was used primarily for search and rescue (by the USAAF 1st Air Commando Group) in Burma; in Alaska; and in other areas with harsh terrain.
+It was based upon an Avro 504K fuselage, initial rotation of the rotor was achieved by the rapid uncoiling of a rope passed around stops on the undersides of the blades.
+However, it was the Sud Aviation Alouette II that would become the first helicopter to be produced with a turbine-engine.
+Patents were granted to von Baumhauer for his cyclic and collective controls by the British ministry of aviation on 31 January 1927, under patent number 265,272.
+While LePage and Sikorsky built their helicopters for the military, Bell Aircraft hired Arthur Young to help build a helicopter using Young's two-blade teetering rotor design, which used a weighted stabilizer bar placed at a 90° angle to the rotor blades.
+Steam power was popular with other inventors as well.
+The Fw 61 broke all of the helicopter world records in 1937, demonstrating a flight envelope that had only previously been achieved by the autogyro.
+The earliest references for vertical flight came from China.
+English language nicknames for helicopter include "chopper", "copter", "helo", "heli", and "whirlybird".
+The introduction of the internal combustion engine at the end of the 19th century became the watershed for helicopter development as engines began to be developed and produced that were powerful enough to allow for helicopters able to lift humans.
+These attributes allow helicopters to be used in congested or isolated areas where fixed-wing aircraft and many forms of VTOL (vertical takeoff and landing) aircraft cannot perform.
+This is largely due to higher engine power density requirements than fixed-wing aircraft.
+In 1907, those experiments resulted in the ''Gyroplane No.1'', possibly as the earliest known example of a quadcopter.
+The cyclic is used to eliminate drift in the horizontal plane, that is to control forward and back, right and left.
+Tip jet designs let the rotor push itself through the air and avoid generating torque.
+Although there is some uncertainty about the date, sometime between 14 August and 29 September 1907, the Gyroplane No.
+Total production reached 131 helicopters before the R-4 was replaced by other Sikorsky helicopters such as the R-5 and the R-6.
+Helicopters are also used when patients need to be transported between medical facilities and air transportation is the most practical method.
+In a moving helicopter, however, the speed of the blades relative to the air depends on the speed of the helicopter as well as on their rotational speed.
+If the pilot pushes the cyclic forward, the rotor disk tilts forward, and the rotor produces a thrust in the forward direction.
+1 lifted its pilot into the air about two feet (0.6 m) for a minute.
+Recent EASA studies point to engines and transmissions as prime cause of crashes just after pilot errors.
+The most severe being pain, numbness, loss of tactile discrimination and dexterity.
+This use was pioneered in the Korean war, when time to reach a medical facility was reduced to three hours from the eight hours needed in World War II, and further reduced to two hours by the Vietnam war.
+Control was achieved by using auxiliary wings or servo-tabs on the trailing edges of the blades, a concept that was later adopted by other helicopter designers, including Bleeker and Kaman.
+1 was tested but was found to be underpowered and could not lift its own weight.
+When Young arrived at Bell in 1941, he signed his patent over and began work on the helicopter.
+Urban communities have often expressed great dislike of noisy aircraft, and police and passenger helicopters can be unpopular.
+The Danish inventor Jacob Ellehammer built the Ellehammer helicopter in 1912.
+The collective pitch control or ''collective'' is located on the left side of the pilot's seat with a settable friction control to prevent inadvertent movement.
+This was overcome in early successful helicopters by using the smallest engines available.
+Conventional rotary-wing aircraft use a set of complex mechanical gearboxes to convert the high rotation speed of gas turbines into the low speed required to drive main and tail rotors.

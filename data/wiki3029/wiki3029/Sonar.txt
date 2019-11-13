@@ -1,0 +1,200 @@
+Towed units also combat the thermocline, as the unit may be towed above or below the thermocline.
+Passive sonar systems may have large sonic databases, but the sonar operator usually finally classifies the signals manually.
+Nevertheless, to accommodate the distance from the transducer to the display unit, which is much greater than in a normal echo-sounder, several refinements have to be made.
+Military sonars often have multiple beams to provide all-round cover while simple ones only cover a narrow arc, although the beam may be rotated, relatively slowly, by mechanical scanning.
+Sonar may be used as a means of acoustic location and of measurement of the echo characteristics of "targets" in the water.
+In 1940, the US sonars typically consisted of a magnetostrictive transducer and an array of nickel tubes connected to a 1-foot-diameter steel plate attached back to back to a Rochelle salt crystal in a spherical housing.
+Small sonars have been fitted to Remotely Operated Vehicles (ROV) and Unmanned Underwater Vehicles (UUV) to allow their operation in murky conditions.
+Passive sonar listens without transmitting.
+The mathematical model of refraction is called Snell's law.
+Sonars which act as beacons are fitted to aircraft to allow their location in the event of a crash in the sea.
+At the start of World War II, British ASDIC technology was transferred for free to the United States.
+In recent years the major military development has been the increasing interest in low frequency active systems.
+An example of a conventional hull mounted sonar is the SQS-56.
+If the sound source is deep and the conditions are right, propagation may occur in the 'deep sound channel'.
+If a submarine's commander believes he is alone, he may bring his boat closer to the surface and be easier to detect, or go deeper and faster, and thus make more sound.
+The display on a net sounder shows the distance of the net from the bottom (or the surface), rather than the depth of water as with the echo-sounder's hull-mounted transducer.
+Use of an array reduces the spatial response so that to provide wide cover multibeam systems are used.
+As the cod-end fills up these catch sensor transducers are triggered one by one and this information is transmitted acoustically to display monitors on the bridge of the vessel.
+Many new types of military sound detection were developed.
+For this reason, many submarines operate nuclear reactors that can be cooled without pumps, using silent convection, or fuel cells or batteries, which can also run silently.
+An example of a hull mounted MCM sonar is the Type 2193 while the SQQ-32 Mine-hunting sonar and Type 2093 systems are VDS designs.
+One useful small sonar is similar in appearance to a waterproof flashlight.
+The sea contains many sources of noise that interfere with the desired target echo or signature.
+As permanently mounted arrays in the deep ocean were utilised, they were in very quiet conditions so long ranges could be achieved.
+The skipper can then decide when to haul the net.
+Sonars have been developed that can be used to characterise the sea bottom into, for example, mud, sand, and gravel.
+Japanese WW2 sonars operated at a range of frequencies.
+The vertical is frequency, or sometimes time.
+This can be a major source of interference.
+There was little progress in development from 1915 to 1940.
+See Also: Hydroacoustics and Fisheries Acoustics.
+Helicopters can be used for antisubmarine warfare by deploying fields of active/passive sonobuoys or can operate dipping sonar, such as the AQS-13.
+A widely used US device was the towed AN/SLQ-25 Nixie while Mobile submarine simulator (MOSS) was a free device.
+Some civilian sonars (which are not designed for stealth) approach active military sonars in capability, with quite exotic three-dimensional displays of the area near the boat.
+The ten Montreal-built British H class submarines launched in 1915 were equipped with a Fessenden oscillator.
+Each sensor is equipped with one or more acoustic transducers depending on its specific function.
+One of key features of ADP reliability is its zero aging characteristics; the crystal keeps its parameters even over prolonged storage.
+Any fish passing into the net can also be seen, allowing fine adjustments to be made to catch the most fish possible.
+This is generally done using a Fourier transform to show the different frequencies making up the sound.
+This may be used to home directly on the target, but wake following torpedoes are also used.
+Now domes are usually made of reinforced plastic or pressurized rubber.
+This can frustrate sonar, because a sound originating on one side of the thermocline tends to be bent, or refracted, through the thermocline.
+An explanation of their operation is given in synthetic aperture sonar.
+During the 1930s American engineers developed their own underwater sound detection technology and important discoveries were made, such as thermoclines, that would help future development.
+The horizontal direction of the display is bearing.
+Although piezoelectric and magnetostrictive transducers later superseded the electrostatic transducers they used, this work influenced future designs.
+:4388 + (11.25 &times; temperature (in °F)) + (0.0182 &times; depth (in feet)) + salinity (in parts-per-thousand ).
+The pulse may be at constant frequency or a chirp of changing frequency (to allow pulse compression on reception).
+In the 1970s, compounds of rare earths and iron were discovered with superior magnetomechanic properties, namely the Terfenol-D alloy.
+Unlike active sonar, only one way propagation is involved.
+High intensity sonar sounds can create a small temporary shift in the hearing threshold of some fish.
+Further processes may be carried out to classify the target and localise it, as well as measuring its velocity.
+TMA is done by marking from which direction the sound comes at different times, and comparing the motion with that of the operator's own ship.
+500&nbsp;Hz frequency, was unable to determine the bearing of the berg due to the 3 metre wavelength and the small dimension of the transducer's radiating face (less than 1 metre in diameter).
+During World War I the need to detect submarines prompted more research into the use of sound.
+Two main types are available.
+A beamformer is usually employed to concentrate the acoustic power into a beam, which may be swept to cover the required search angles.
+Modern versions of the net sounder, using multiple element transducers, function more like a sonar than an echo sounder and show slices of the area in front of the net and not merely the vertical view that the initial net sounders used.
+Other types of transducers include variable reluctance (or moving armature, or electromagnetic) transducers, where magnetic force acts on the surfaces of gaps, and moving coil (or electrodynamic) transducers, similar to conventional speakers; the latter are used in underwater sound calibration, due to their very low resonance frequencies and flat broadband characteristics above them.
+When active sonar is used, scattering occurs from small objects in the sea as well as from the bottom and surface.
+In noise limited conditions at initial detection:
+This is an active sonar device that receives a stimulus and immediately (or with a delay) retransmits the received signal or a predetermined one.
+The Type 93, with smaller quartz projectors, operated at 17.5&nbsp;kHz (model 5 at 16 or 19&nbsp;kHz magnetostrictive) at powers between 1.7 and 2.5 kilowatts, with range of up to 6&nbsp;km.
+Fishing is an important industry that is seeing growing demand, but world catch tonnage is falling as a result of serious resource problems.
+Postwar sonars used lower frequencies to achieve longer range; e.g.
+The Imperial Japanese Navy at the onset of WW2 used projectors based on quartz.
+An early example was the German ''Sieglinde'' device while the ''Bold'' was a chemical device.
+An example of this is the Type 2082 fitted on the British Vanguard class submarines.
+Because of the different signal processing used, the minimum detectable signal to noise ratio will be different.
+Two types of technology share the name "sonar": ''passive'' sonar is essentially listening for the sound made by vessels; ''active'' sonar is emitting pulses of sounds and listening for echoes.
+For example, U.S. vessels usually operate 60 Hz alternating current power systems.
+Because of the problems of ship noise, towed sonars are also used.
+Therefore, the power of the reflected signal is very low, several orders of magnitude less than the original signal.
+:::SL &minus; TL = NL &minus; DI + DT
+Side-scan sonars can be used to derive maps of seafloor topography (bathymetry) by moving the sonar across it just above the bottom.
+The acoustic pulse is emitted by a transducer which receives the return echo as well.
+Examples of sonar applications in military use are given below.
+In general one or other of these will dominate so that the two effects can be initially considered separately.
+Surface ships use it to good effect; it is even better used by submarines, and it is also used by airplanes and helicopters, mostly to a "surprise effect", since submarines can hide under thermal layers.
+This can be applicable around ships or at entrances to ports.
+Fixed to the headline of the net, the footrope can usually be seen which gives an indication of the net performance.
+where SL is the source level, TL is the transmission loss, NL is the noise level, DI is the directivity index of the array (an approximation to the array gain) and DT is the detection threshold.
+Mine Countermeasure (MCM) Sonar, sometimes called "Mine and Obstacle Avoidance Sonar (MOAS)", is a specialized type of sonar used for detecting small objects.
+Ocean temperature varies with depth, but at between 30 and 100 meters there is often a marked change, called the thermocline, dividing the warmer surface water from the cold, still waters that make up the rest of the ocean.
+Passive sonar has several advantages, most importantly that it is silent.
+Sound travels more slowly in fresh water than in sea water, though the difference is small.
+The target signal (if present) together with noise is then passed through various forms of signal processing, which for simple sonars may be just energy measurement.
+The Canadian engineer Reginald Fessenden, while working for the Submarine Signal Company in Boston, built an experimental system beginning in 1912, a system later tested in Boston Harbor, and finally in 1914 from the U.S. Revenue (now Coast Guard) Cutter Miami on the Grand Banks off Newfoundland Canada.
+If the target radiated noise level is high enough, it can have a greater range than active sonar, and allows the target to be identified.
+Research on the effects of sonar on blue whales in the Southern California Bight shows that mid-frequency sonar use disrupts the whales' feeding behavior.
+30&nbsp;kHz provides low resolution with range of 1000–6000 m, 100&nbsp;kHz gives medium resolution at 500–1000 m, 300&nbsp;kHz gives high resolution at 150–500 m, and 600&nbsp;kHz gives high resolution at 75–150 m. Longer range sonars are more adversely affected by nonhomogenities of water.
+This made possible new designs, e.g.
+where RL is the reverberation level and the other factors are as before.
+The US Sonar QB set arrived in 1931.
+To maintain secrecy no mention of sound experimentation or quartz was made - the word used to describe the early work ('supersonics') was changed to 'ASD'ics, and the quartz material to 'ASD'ivite: "ASD" for "Anti-Submarine Division", hence the British acronym ''ASDIC''.
+By 1918, both France and Britain had built prototype active systems.
+Other marine mammals such as the blue whale also flee away from the source of the sonar, while naval activity was suggested to be the most probable cause of a mass stranding of dolphins.
+A JW Fishers system offers side-scanning at 1200&nbsp;kHz with very high spatial resolution, optionally coupled with longer-range 600&nbsp;kHz (range 200&nbsp;ft at each side) or 100&nbsp;kHz (up to 2000&nbsp;ft per side, suitable for scanning large areas for big targets).
+This work formed the basis for post war developments related to countering the nuclear submarine.
+A virtual end-fire array is formed.
+However, the advent of modern signal-processing enabled the use of passive sonar as a primary means for search and detection operations.
+The equation for determining the performance of a passive sonar is:
+Most MCM sonars are hull mounted but a few types are VDS design.
+Similar methods may be used looking upward for wave measurement.
+After technical information was exchanged between the two countries during the Second World War, Americans began to use the term ''SONAR'' for their systems, coined as the equivalent of RADAR.
+This acoustic scattering is analogous to the scattering of the light from a car's headlights in fog: a high-intensity pencil beam will penetrate the fog to some extent, but broader-beam headlights emit much light in unwanted directions, much of which is scattered back to the observer, overwhelming that reflected from the target ("white-out").
+Similar propagation can occur in the 'surface duct' under suitable conditions.
+Having heard the signal, it is easy to identify the sonar equipment used (usually with its frequency) and its position (with the sound wave's energy).
+In 1939, in response to a question from the Oxford English Dictionary, the Admiralty made up the story that it stood for 'Allied Submarine Detection Investigation Committee', and this is still widely believed, though no committee bearing this name has been found in the Admiralty archives.
+Vehicles' propellers are also designed and precisely machined to emit minimal noise.
+The sonar arrays may be hull mounted or towed.
+Mines may be fitted with a sonar to detect, localize and recognize the required target.
+In this case there has to be the provision of a cable drum on which to haul, shoot and stow the cable during the different phases of the operation.
+The study of underwater sound is known as underwater acoustics or hydroacoustics.
+Such sonars are primarily active in operation.
+Beaked whales, the most common casualty of the strandings, have been shown to be highly sensitive to mid-frequency active sonar.
+The advantage of metals is their high tensile strength and low input electrical impedance, but they have electrical losses and lower coupling coefficient than PZT, whose tensile strength can be increased by prestressing.
+Detection of fish, and other marine and aquatic life, and estimation their individual sizes or total biomass using active sonar techniques.
+This can help to identify its nationality, as all European submarines and nearly every other nation's submarine have 50&nbsp;Hz power systems.
+Databases of unique engine sounds are part of what is known as ''acoustic intelligence'' or ACINT.
+Another use of passive sonar is to determine the target's trajectory.
+Some environments, typically shallow waters near the coasts, have complicated terrain with many features; higher frequencies become necessary there.
+Passive sonar on vehicles is usually severely limited because of noise generated by the vehicle.
+:::FOM = SL + DI &minus; (NL + DT).
+This density difference allows the detection of schools of fish by using reflected sound.
+Another variant is a "fishfinder" that shows a small display with shoals of fish.
+Different algorithms exist, but they are all based on changes in the energy or shape of the reflected sounder pings.
+Relatively simple sonars such as echo sounders can be promoted to seafloor classification systems via add-on modules, converting echo parameters into sediment type.
+To measure distance, one transducer/projector transmits an interrogation signal and measures the time between this transmission and the receipt of the other transducer/hydrophone reply.
+This technique, when used with multiple transducers/hydrophones/projectors, can calculate the relative positions of static and moving objects in water.
+Dipping sonar has the advantage of being deployable to depths appropriate to daily conditions Helicopters have also been used for mine countermeasure missions using towed sonars such as the AQS-20A.
+When more transmitters (or more receivers) are used, again spatially separated, it is multistatic operation.
+These echoes provide information on fish size, location, abundance and behavior.
+The motion of the receiver through the water can also cause speed-dependent low frequency noise.
+The thermocline may be present in shallower coastal waters.
+As the sound pulse travels through water it encounters objects that are of different density or acoustic characteristics than the surrounding medium, such as fish, that reflect sound back toward the sound source.
+Further information is given in acoustic mine and an example is the CAPTOR mine.
+This work, for the Anti-Submarine Division of the British Naval Staff, was undertaken in utmost secrecy, and used quartz piezoelectric crystals to produce the world's first practical underwater active sound detection apparatus.
+In this case no cable drum is required but sophisticated electronics are needed at the transducer and receiver.
+Since active sonar reveals the presence and position of the operator, and does not allow exact classification of targets, it is used by fast (planes, helicopters) and by noisy platforms (most surface ships) but rarely by submarines.
+In reverberation limited conditions at initial detection (neglecting array gain):
+Consequently, active sonar is normally considered a backup to passive sonar.
+The analog signals are decoded and converted by a digital acoustic receiver into data which is transmitted to a bridge computer for graphical display on a high resolution monitor.
+With the ending of the Cold War a SOSUS array has been turned over to scientific use.
+When the transmitter and receiver are separated it is bistatic operation.
+This process is called Target Motion Analysis (TMA), and the resultant "solution" is the target's range, course, and speed.
+Modern torpedoes are generally fitted with an active/passive sonar.
+This provides extremely low propagation loss to a receiver in the channel.
+In aircraft, active sonar is used in the form of disposable sonobuoys that are dropped in the aircraft's patrol area or in the vicinity of possible enemy sonar contacts.
+The first were made of canvas on a framework, then steel ones were used.
+With surface ships, it might be assumed that the threat is already tracking the ship with satellite data as any vessel around the emitting sonar will detect the emission.
+The industry faces a future of continuing worldwide consolidation until a point of sustainability can be reached.
+Later, acoustic torpedoes were used.
+Torpedo countermeasures can be towed or free.
+At 100 m the signal will be 1 W/m² (due to the inverse-square law).
+The time difference, scaled by the speed of sound through water and divided by two, is the distance between the two platforms.
+On a submarine, nose-mounted passive sonar detects in directions of about 270°, centered on the ship's alignment, the hull-mounted array of about 160° on each side, and the towed array of a full 360°.
+Once a signal is detected in a certain direction (which means that something makes sound in that direction, this is called broadband detection) it is possible to zoom in and analyze the signal received (narrowband analysis).
+However, the original signal will remain above 0.001 W/m² until 300 m. Any 10 m² target between 100 and 300 m using a similar or better system would be able to detect the pulse but would not be detected by the emitter.
+The depth measurement is calculated by multiplying the speed of sound in water(averaging 1,500 meters per second) by the time between emission and echo return.
+The detectors must be very sensitive to pick up the echoes.
+Medium frequency is defined as 5–15&nbsp;kHz.
+To measure the bearing, several hydrophones are used, and the set measures the relative arrival time to each, or with an array of hydrophones, by measuring the relative amplitude in beams formed through a process called beamforming.
+In active sonar there are two performance limitations, due to noise and reverberation.
+Project Artemis was a one-of-a-kind low-frequency sonar for surveillance that was deployed off Bermuda for several years in the early 1960s.
+Fixed wing aircraft can also deploy sonobuoys and have greater endurance and capacity to deploy them.
+A sonar target is small relative to the sphere, centred around the emitter, on which it is located.
+Such a projector has advantages of broad bandwidth, narrow beamwidth, and when fully developed and carefully measured it has no obvious sidelobes: see Parametric array.
+In 1987 a division of Japanese company Toshiba reportedly sold machinery to the Soviet Union that allowed their submarine propeller blades to be milled so that they became radically quieter, making the newer generation of submarines more difficult to detect.
+In 1916, under the British Board of Invention and Research, Canadian physicist Robert William Boyle took on the active sound detection project with A B Wood, producing a prototype for testing in mid-1917.
+Data is transmitted from the sensors using wireless acoustic telemetry and is received by a hull mounted hydrophone.
+Low frequency sonars are loosely defined as 1–5&nbsp;kHz, albeit some navies regard 5–7&nbsp;kHz also as low frequency.
+The use of active sonar by a submarine to determine bearing is extremely rare and will not necessarily give high quality bearing or range information to the submarines fire control team.
+'''Sonar''' (originally an acronym for '''SO'''und '''N'''avigation '''A'''nd '''R'''anging) is a technique that uses sound propagation (usually underwater, as in submarine navigation) to navigate, communicate with or detect objects on or under the surface of the water, such as other vessels.
+An example of a modern active/passive ship towed sonar is Sonar 2087 made by Thales Underwater Systems.
+Barium titanate was then replaced with more stable lead zirconate titanate (PZT), and the frequency was lowered to 5&nbsp;kHz.
+At the end of World War II this German work was assimilated by Britain and the US.
+The density effect is small.
+The acoustic frequencies used in sonar systems vary from very low (infrasonic) to extremely high (ultrasonic).
+If transformers or generators are mounted without proper vibration insulation from the hull or become flooded, the 60&nbsp;Hz sound from the windings can be emitted from the submarine or ship.
+The ADP manufacturing facility grew from few dozen personnel in early 1940 to several thousands in 1942.
+The Type 93 projectors consisted of solid sandwiches of quartz, assembled into spherical cast iron bodies.
+Data is usually processed and analysed using a variety of software such as Echoview.
+One of the earliest application of ADP crystals were hydrophones for acoustic mines; the crystals were specified for low frequency cutoff at 5&nbsp;Hz, withstanding mechanical shock for deployment from aircraft from , and ability to survive neighbouring mine explosions.
+Since the original signal is much more powerful, it can be detected many times further than twice the range of the sonar (as in the example).
+Several crystal assemblies were arranged in a steel tube, vacuum-filled with castor oil, and sealed.
+A countermeasure was developed: the targeted submarine discharged an effervescent chemical, and the torpedo went after the noisier fizzy decoy.
+Some marine animals, such as whales and dolphins, use echolocation systems, sometimes called ''biosonar'' to locate predators and prey.
+The later Type 3, with German-design magnetostrictive transducers, operated at 13, 14.5, 16, or 20&nbsp;kHz (by model), using twin transducers (except model 1 which had three single ones), at 0.2 to 2.5 kilowatts.
+Various synthetic aperture sonars have been built in the laboratory and some have entered use in mine-hunting and search systems.
+At first the transducers were unreliable, showing mechanical and electrical failures and deteriorating soon after installation; they were also produced by several vendors, had different designs, and their characteristics were different enough to impair the array's performance.
+VDS sets are primarily active in operation while towed arrays are passive.
+Long-range sonar uses low frequencies to minimise absorption effects.
+Early WW2 losses prompted rapid research in the field, pursuing both improvements in magnetostrictive transducer parameters and Rochelle salt reliability.
+Another application was for acoustic homing torpedoes.
+This pulse of sound is generally created electronically using a sonar projector consisting of a signal generator, power amplifier and electro-acoustic transducer/array.
+The counter-countermeasure was a torpedo with active sonar – a transducer was added to the torpedo nose, and the microphones were listening for its reflected periodic tone bursts.
+Since digital processing became available pulse compression has usually been implemented using digital correlation techniques.
+The policy to allow repair of individual transducers was then sacrificed, and "expendable modular design", sealed non-repairable modules, was chosen instead, eliminating the problem with seals and other extraneous mechanical parts.
+The radiated spectrum comprises a continuous spectrum of noise with peaks at certain frequencies which can be used for classification.

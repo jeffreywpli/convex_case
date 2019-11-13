@@ -1,0 +1,200 @@
+In May 1973, a tornado devastated Union City, Oklahoma, just west of Oklahoma City.
+Most of the energy is at the center of the beam and decreases along a curve close to a Gaussian function on each side.
+The projection often is flexible giving the user a choice of various geographic elements.
+NWS Burlington radar, one can compare the BASE and COMPOSITE products
+This type of false return is relatively easy to spot on a time loop if it is due to night cooling or marine inversion as one sees very strong echoes developing over an area, spreading in size laterally but not moving and varying greatly in intensity.
+Digital radar systems now have capabilities far beyond that of their predecessors.
+Depending on the elevation angle of the antenna and other considerations, the following formula may be used to calculate the target's height above ground :
+ND of ''Marshall-Palmer'') of the drops.
+These systems operate 100 – 200 watts, and require a combination of high gain receivers, signal microprocessors, and transistors to operate as effectively as the high-powered systems.
+In the United States, the construction of a network consisting of 10&nbsp;cm radars, called NEXRAD or WSR-88D (Weather Surveillance Radar 1988 Doppler), was started in 1988 following NSSL's research.
+Microwaves used in weather radars can be absorbed by rain, depending on the wavelength used.
+Since low-powered systems operate at considerable less wattage, they are safe from arcing and can be used at virtually all times.
+* Environment Canada
+The output on the left is made with the raw returns and it is difficult to spot the real weather.
+In April 2013, all National Weather Service NEXRADs were completely dual-polarized.
+The echo is thus misplaced by the processing program.
+Strong returns (red or magenta) may indicate not only heavy rain but also thunderstorms, hail, strong winds, or tornadoes, but they need to be interpreted carefully, for reasons described below.
+Another solution to the PPI problems is to produce images of the maximum reflectivity in a layer above ground.
+Unlike the differential reflectivity, correlation coefficient and linear depolarization ratio, which are all dependent on reflected power, the differential phase is a "propagation effect."
+Modern weather radars are mostly pulse-Doppler radars, capable of detecting the motion of rain droplets in addition to the intensity of the precipitation.
+Comparing base and composite products, one can locate virga and updrafts zones.
+If one uses data from the closer radar, it might be attenuated passing through a thunderstorm.
+However, we know that the maximum range from reflectivity is directly proportional to
+This recent development is expected to improve the quality of radar products.
+The algorithm is searching for a "''doublet''" of inbound/outbound velocities with the zero line of velocities, between the two, along a radial line from the radar.
+Then the program does interpolations to produce an image with defined zones.
+The polarization data will even need more algorithms.
+This solution is usually taken when the number of angles available is small or variable.
+Where a and b depend on the type of precipitation (snow, rain, convective or stratiform), which has different , K, N0 and v.
+This algorithm is used in NEXRAD to indicate the possibility of a tornado formation.
+However, the atmosphere has a refractive index that diminishes with height, due to its diminishing density.
+This is because the water molecule has to be excited by the radar wave to give a return.
+Usually, this scanning strategy is completed within 5 to 10 minutes to have data within 15&nbsp;km above ground and 250&nbsp;km distance of the radar.
+An opposite problem is that drizzle (precipitation with small water droplet diameter) tends not to show up on radar because radar returns are proportional to the sixth power of droplet diameter.
+So other products and further treatments of data have been developed to supplement such shortcomings.
+When looking at the general motion of the rain to extract wind at different altitudes, it is better to use data relative to the radar.
+In Europe, there has been similar developments and even a comprehensive forecast program for aviation safety, based on radar detection.
+After each scanning rotation, the antenna elevation is changed for the next sounding.
+Over the past few decades, radar networks have been extended to allow the production of composite views covering large areas.
+There doesn't seem to have regular use of CAPPI for them although the ''SIGMET'' company offer a software capable to produce those types of images.
+To avoid some of the problems on PPIs, the constant-altitude plan position indicator (CAPPI) has been developed by Canadian researchers.
+However, as the targets move slightly between each pulse, the returned wave has a noticeable phase difference or ''phase shift'' from pulse to pulse.
+The output of this sounding is called a ''Range Height Indicator'' (RHI) which is excellent for viewing the detailed vertical structure of a storm.
+It should not be confused with the Doppler frequency shift, which is caused by the motion of the cloud and precipitation particles.
+A program by the Center for Collaborative Adaptive Sensing of the Atmosphere (CASA) aims to supplement the regular NEXRAD (a network in the United States) using many low cost X-band (3&nbsp;cm) weather radar mounted on cellular telephone towers.
+For 10&nbsp;cm radars, this attenuation is negligible.
+After the war, military scientists returned to civilian life or continued in the Armed Forces and pursued their work in developing a use for those echoes.
+McGill University J. S. Marshall Radar Observatory in Montreal, Canada has converted its instrument (1999) and the data are used operationally by Environment Canada in Montreal.
+Designers attempt to minimize the power transmitted by such lobes, but they cannot be completely eliminated.
+Notice that the return now varies inversely to ''''''  instead of ''''''.
+The image to the right compares real data from two radars almost colocated.
+Insects and arthropods are swept along by the prevailing winds, while birds follow their own course.
+It is then possible to find a mathematical relation between the two returns and calculate the real velocity beyond the limitation of the two PRFs.
+It is a clue to the possibility of large hail in thunderstorms.
+This algorithm detects variation of wind velocities from point to point in the data and looking for a ''doublet'' of inbound/outbound velocities with the zero line perpendicular to the radar beam.
+This scenario will be repeated on many angles to scan all the volume of air around the radar within the maximum range.
+Also in 2003, the National Science Foundation established the Engineering Research Center for Collaborative Adaptive Sensing of the Atmosphere (CASA), a multidisciplinary, multi-university collaboration of engineers, computer scientists, meteorologists, and sociologists to conduct fundamental research, develop enabling technology, and deploy prototype engineering systems designed to augment existing radar systems by sampling the generally undersampled lower troposphere with inexpensive, fast scanning, dual polarization, mechanically scanned and phased array radars.
+For instance, many countries, including the United States, Canada and much of Europe, produce images that include all of their radars.
+One map particularly important in this field is the Echotops for flight planning and avoidance of dangerous weather.
+Although data are taken at a certain height above ground, a relation can be inferred between ground stations' reports and the radar data.
+Radar output is even incorporated into numerical weather prediction models to improve analyses and forecasts.
+For example, the U.S. National Doppler Radar sites use the following scale for different levels of reflectivity:
+The attenuation is significant due to the wavelength used but each point in the coverage area is seen by many radars, each viewing from a different direction and compensating for data lost from others.
+Main algorithms for reflectivity:
+The radio waves sent out by the radars bounce off rain and birds alike (or even insects like butterflies).
+Between 1980 and 2000, weather radar networks became the norm in North America, Europe, Japan and other developed countries.
+These assumptions are not always met; one must be able to differentiate between reliable and dubious echoes.
+The extreme of this problem is when the inversion is very strong and shallow, the radar beam reflects many times toward the ground as it has to follow a waveguide path.
+As mentioned previously, the volume scanned increases with distance so the possibility that the beam is only partially filled also increases.
+The first devices to capture radar images were developed.
+However, some researchers have published papers using velocity CAPPIs to study tropical cyclones and development of NEXRAD products.
+The TDWR has about half the beamwidth of the other and one can see twice more details than with the NEXRAD.
+where ''c'' =  km/s is the speed of light, and ''n'' ≈  is the refractive index of air.
+This speed is called the radial Doppler velocity because it gives only the radial variation of distance versus time between the radar and the target.
+USAGE:  Reflectivity, Doppler and polarimetric data can use PPI.
+Resolution can be improved by newer equipment but some things cannot.
+With this new knowledge added to the reflectivity, velocity, and spectrum width produced by Doppler weather radars, researchers have been working on developing algorithms to differentiate precipitation types, non-meteorological targets, and to produce better rainfall accumulation estimates.
+This is because the wave is transmitted to the parabolic antenna through a slit in the wave-guide at the focal point.
+This is like a vertical cross section through the cloud with 150-metre vertical and 30-metre horizontal resolution.
+Digital systems now offer thunderstorm tracking surveillance.
+"Dual polarization" means that microwave radiation which is polarized both horizontally and vertically (with respect to the ground) is emitted.
+In some conditions, the radar can even see toward and away velocities that generate false positives for the tornado vortex signature algorithm on weather radar; such an event occurred in 2009 in Dodge City, Kansas.
+The data coming from both will be the same up to 10&nbsp;m/s, and will differ thereafter.
+Marshall and R.H. Douglas formed the "Stormy Weather Group" in Montreal.
+The image on the right has been filtered using this property.
+Other objects can be misinterpreted as rain or snow by weather radars.
+Such an error is difficult to detect without additional temperature lapse-rate data for the area.
+Compare this with a simulated view of what a regular weather radar would see at 60&nbsp;km, in the bottom of the figure.
+In fact, there is energy reflected in all directions.
+However, for very large hydrometeors, since the wavelength is on the order of stone, the return levels off according to Mie theory.
+:* Differential Phase (''θdp'') – The differential phase is a comparison of the returned phase difference between the horizontal and vertical pulses.
+Different outputs have been developed through time to reach this.
+Many television stations in the United States have 3&nbsp;cm radars to cover their audience area.
+This gives enhanced returns that can be mistaken for stronger precipitations.
+Techniques were developed to filter them, but scientists began to study the phenomenon.
+Resolution can be improved by larger antenna or denser networks.
+'''Weather radar''', also called '''weather surveillance radar''' ('''WSR''') and '''Doppler weather radar''', is a type of radar used to locate precipitation, calculate its motion, and estimate its type (rain, snow, hail etc.).
+*Hail algorithms that estimate the presence of hail and its probable size.
+CAPPIs call for a large number of angles from near the horizontal to near the vertical of the radar to have a cut that is as close as possible at all distance to the height needed.
+The position of the echoes depend heavily on this hypothesis.
+High-powered systems operate at 10,000 – 60,000 watts.
+PPIs are afflicted with ground echoes near the radar as a supplemental problem.
+These differences have to be taken into account when matching data across the network, particularly to decide what data to use when two radars cover the same point.
+Aircraft will try to avoid level 2 returns when possible, and will always avoid level 3 unless they are specially-designed research aircraft.
+In general, the useful range compromise is 100–150&nbsp;km for reflectivity.
+This bends the radar beam slightly toward the ground and with a standard atmosphere this is equivalent to considering that the curvature of the beam is 4/3 the actual curvature of the Earth.
+*VAD Wind Profile (VWP) is a display that estimates the direction and speed of the horizontal wind at various upper levels of the atmosphere, using the technique explained in the Doppler section.
+In a uniform rainstorm moving eastward, a radar beam pointing west will "see" the raindrops moving toward itself, while a beam pointing east will "see" the drops moving away.
+In order to compare the data coming from different distances from the radar, one has to normalize them with this ratio.
+A new popular presentation of weather radar data in United States is via ''Radar Integrated Display with Geospatial Elements'' (RIDGE) in which the radar data is projected on a map with geospatial elements such as topography maps, highways, state/county boundaries and weather warnings.
+However, not all non-meteorological targets remain still (birds, insects, dust).
+3&nbsp;cm X-band radar is used only for short-range units, and 1&nbsp;cm Ka-band weather radar is used only for research on small-particle phenomena such as drizzle and fog.
+More sophisticated programs use the numerical weather prediction output from models, such as NAM and WRF, for the precipitation types and apply it as a first guess to the radar echoes, then use the surface data for final output.
+When the beam scans to the north or to the south, no relative motion is noted.
+The velocities noted with the first pulse rate could be equal or different with the second.
+Precipitation rate (R), on the other hand, is equal to the number of particles, their volume and their fall speed (vD) as:
+During World War II, military radar operators noticed noise in returned echoes due to rain, snow, and sleet.
+Radar returns are usually described by colour or level.
+This shows how the output of weather radar is only an approximation of reality.
+Unlike ground weather radar, which is set at a fixed angle, airborne weather radar is being utilized from the nose or wing of an aircraft.
+The U.S. National Weather Service St. Louis has even reported monarch butterflies appearing on their radars.
+To compensate for this behaviour, radar sites are often chosen to somewhat overlap in coverage to give different points of view of the same storms.
+Using the Doppler weather radar is not limited to determine the location and velocity of precipitation, but it can track bird migrations as well as seen in the non-weather targets section.
+*green: 20 dBZ (light precipitation)
+It is also possible to eliminate some of them with post-treatment of data using reflectivity, Doppler, and polarization data.
+Since rain and snow clouds are usually moving, one can use the Doppler velocities to eliminate a good part of the clutter (ground echoes, reflections from buildings seen as urban spikes, anomalous propagation).
+It is frequently used in conjunction with animations of radar data over a time period.
+Main algorithms for Doppler velocities:
+This provides users with the ability to acquire detailed information of each storm cloud being tracked.
+The horizontal distance from station to target is calculated simply from the amount of time that lapses from the initiation of the pulse to the detection of the return signal.
+NSSL's research helped convince the National Weather Service that Doppler radar was a crucial forecasting tool.
+These will give details not currently available.
+Not only will the aircraft be moving up, down, left, and right, but it will be rolling as well.
+Reflectivity perceived by the radar (Ze) varies by the sixth power of the rain droplets' diameter (D), the square of the dielectric constant (K) of the targets and the drop size distribution (e.g.
+If the airplane is at a very high altitude, the pilot will set the radar at a low or negative angle, to point the radar towards the clouds wherever they may be relative to the aircraft.
+*''VIL Density'' is VIL divided by the height of the cloud top.
+Thus the volume of air that a radar pulse is traversing is larger for areas farther away from the station, and smaller for nearby areas, decreasing resolution at far distances.
+Weather radars send directional pulses of microwave radiation, on the order of a microsecond long, using a cavity magnetron or klystron tube connected by a waveguide to a parabolic antenna.
+*Wind shear in low levels.
+Everything has been smoothed out.
+Thunderstorms are first identified by matching precipitation raw data received from the radar pulse to some sort of template preprogrammed into the system.
+Both types of data can be analyzed to determine the structure of storms and their potential to cause severe weather.
+This situation can be found with inversions of temperature aloft or rapid decrease of moisture with height.
+The US ''National Weather Service'', for instance, have reported having the flights of birds appear on their radars as clouds and then fade away when the birds land.
+Most country weather radars are scanning enough angles to have a 3D set of data over the area of coverage.
+On the other hand, if the air is unstable and cools faster than the standard atmosphere with height, the beam ends up higher than expected.
+The numbers in a verbal report increase with the severity of the returns.
+To know the vertical structure of clouds, in particular thunderstorms or the level of the melting layer, a vertical cross-section product of the radar data is available.
+This causes the user to overestimate the extent of the real echoes.
+It is therefore crucial to have a large enough number of sounding angles to minimize this height change.
+The cost of a larger antenna, klystron and other related equipment is offset by this benefit.
+However, some situations allow a multiple-reflected radar beam to be received by the radar antenna.
+There are two major systems when talking about the receiver/transmitter: the first is high-powered systems, and the second is low-powered systems; both of which operate in the X-band frequency range (8,000 – 12,500&nbsp;MHz).
+For the first time, a Dopplerized 10&nbsp;cm wavelength radar from NSSL documented the entire life cycle of the tornado.
+With velocities of less than 70-metre/second for weather echos and radar wavelength of 10&nbsp;cm, this amounts to a change only 0.1 ppm.
+Soon after the war, surplus radars were used to detect precipitation.
+This way, one can compare precipitation on an equal footing at difference distance from the radar and avoid ground echoes.
+The first assumption is that the radar beam is moving through air that cools down at a certain rate with height.
+This means for a wavelength of 5&nbsp;cm (as shown in the diagram), an unambiguous velocity range of 12.5 to 18.75 metre/second is produced (for 150&nbsp;km and 100&nbsp;km, respectively).
+The intensity pattern formed by this scan can be represented by a cosine curve (maximum in the precipitation motion and zero in the perpendicular direction).
+A target's motion relative to the radar station causes a change in the reflected frequency of the radar pulse, due to the Doppler effect.
+It is basically a horizontal cross-section through radar data.
+It is relatively easy to estimate the maximum altitude at which precipitation is found within the volume.
+Until dual-polarization (section Polarization below) data are widely available, any precipitation types on radar images are only indirect information and must be taken with care.
+Due to the extra path length it has to go through, it arrives later at the antenna and is placed further than its source.
+Different programs in North America use regular weather radars and specialized radar data to determine the paths, height of flight, and timing of migrations.
+Usually the mesocyclone detection must be found on two or more stacked progressive tilts of the beam to be significative of rotation into a thunderstom cloud.
+The processing program will then wrongly place the return echoes at the height and distance it would have been in normal conditions.
+To compensate for this, the antenna is linked and calibrated to the vertical gyro located on the aircraft.
+* McGill University
+A Phased-array radar is being tested at the National Severe Storms Lab in Norman, Oklahoma, to speed the data gathering.
+Shorter wavelengths are useful for smaller particles, but the signal is more quickly attenuated.
+*Vertically Integrated Liquid (VIL) is an estimate of the total mass of precipitation in the clouds.
+This kind of sounding and product is only available on research radars.
+:''h''a = height of the feedhorn above ground.
+The colours in a radar image normally range from blue or green for weak returns, to red or magenta for very strong returns.
+Also, since there are fewer irregularities throughout the system, the low-powered radars can be used to detect turbulence via the Doppler Effect.
+This could be significant with severe thunderstorms, as their evolution can be better evaluated with more timely data.
+The animation of radar products can show the evolution of reflectivity and velocity patterns.
+If pulses are emitted too frequently, the returns from one pulse will be confused with the returns from previous pulses, resulting in incorrect distance calculations.
+The time is converted into distance by multiplying by the speed of light in air:
+The length of this phase is determined by the need for the microwave radiation (which travels at the speed of light) to propagate from the detector to the weather target and back again, a distance which could be several hundred kilometers.
+This can also reveal non-meteorological artifacts (false echoes) that will be discussed later.
+The number of scanned angles was increased to get a three-dimensional view of the precipitation, so that horizontal cross-sections (CAPPI) and vertical cross-sections could be performed.
+Since 2003, the U.S. National Oceanic and Atmospheric Administration has been experimenting with phased-array radar as a replacement for conventional parabolic antenna to provide more time resolution in atmospheric sounding.
+The real speed and direction of motion has to be extracted by the process described below.
+Since then, weather radar has evolved on its own and is now used by national weather services, research departments in universities, and in television newscasts.
+These can be misinterpreted as real echoes.
+In the United Kingdom, research continued to study the radar echo patterns and weather elements such as stratiform rain and convective clouds, and experiments were done to evaluate the potential of different wavelengths from 1 to 10 centimeters.
+Reflectivity is then averaged for that target to have a better data set.
+Usually, it must show signs of organization in the horizontal and continuity in the vertical: a core or a more intense center to be identified and tracked by digital radar tracking systems.
+As mentioned previously, radar data are an average of the scanned volume by the beam.
+The image to the right shows the volume scanned when multiple angles are used.
+The radar beam has a distribution of energy similar to the diffraction pattern of a light passing through a slit.
+This energy is relatively weak but arrives at the same time that the central peak is illuminating a different azimuth.
+*Mesocyclone detection: it is triggered by a velocity change over a small circular area.
+Here is a list of common and specialized outputs available.
+As the index of refraction of air decreases faster than normal the radar beam bends toward the ground instead of continuing upward.
+The duration of the "listen" cycle is on the order of a millisecond, which is a thousand times longer than the pulse duration.
+These may only cover few square kilometers but are visible by variations in the radial speed.

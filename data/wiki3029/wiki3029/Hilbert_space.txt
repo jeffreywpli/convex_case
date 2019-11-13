@@ -1,0 +1,200 @@
+They also form the basis of the theory of direct methods in the calculus of variations.
+*A Banach space ''X'' is topologically and linearly isomorphic to a Hilbert space if and only if, to every closed subspace ''V'', there is a closed subspace ''W'' such that ''X'' is equal to the internal direct sum ''V'' ⊕ ''W''.
+An element ''A'' of B(''H'') is called ''normal'' if ''A*''&thinsp;''A'' = ''A''&thinsp;''A*''.
+The Hardy spaces are function spaces, arising in complex analysis and harmonic analysis, whose elements are certain holomorphic functions in a complex domain.
+More generally, when ''S'' is a subset in ''H'', the notation  means that ''u'' is orthogonal to every element from ''S''.
+Apart from providing a workable definition of Sobolev spaces for non-integer ''s'', this definition also has particularly desirable properties under the Fourier transform that make it ideal for the study of pseudodifferential operators.
+Thus to every element ''φ'' of the dual ''H*'' there exists one and only one ''u''φ in ''H'' such that
+This defines another bounded linear operator ''A*'': ''H''2 → ''H''1, the adjoint of ''A''.
+For instance, a bosonic field can be naturally thought of as an element of a tensor product whose factors represent harmonic oscillators at each point of space.
+Projections ''PU'' and ''PV'' are called mutually orthogonal if ''P''''U''''P''''V'' = 0.
+The spectral measure ''E'' is concentrated on the spectrum of ''T''.
+In many circumstances, it is desirable not to decompose a function into trigonometric functions, but rather into orthogonal polynomials or wavelets for instance, and in higher dimensions into spherical harmonics.
+The individual terms in this series are sometimes referred to as elementary product solutions.
+If ''T'' is bounded, then the spectrum is always a compact set in the complex plane, and lies inside the disc   If ''T'' is self-adjoint, then the spectrum is real.
+The example of adding up the first few terms in a Fourier series for a sawtooth function is shown in the figure.
+The continuous linear operators ''A'' : ''H''1 → ''H''2 from a Hilbert space ''H''1 to a second Hilbert space ''H''2 are ''bounded'' in the sense that they map bounded sets to bounded sets.
+The reversal of order on the right-hand side restores linearity in φ from the antilinearity of ''u''φ.
+An orthonormal basis of ''ℓ''2(''B'') is indexed by the set ''B'', given by
+As a complete normed space, Hilbert spaces are by definition also Banach spaces.
+Relative to a distance function defined in this way, any inner product space is a metric space, and sometimes is known as a '''pre-Hilbert space'''.
+In the first decade of the 20th century, parallel developments led to the introduction of Hilbert spaces.
+If  and  are represented in Cartesian coordinates, then the dot product is defined by
+Such a system is always linearly independent.
+In fact, it is contained in the interval ''m'',''M'' where
+A direct sum (internal or external) is also equipped with a family of orthogonal projections ''E''''i'' onto the ''i''th direct summand ''H''i.
+Completeness of the space holds provided that whenever a series of elements from ''ℓ''2 converges absolutely (in norm), then it converges to an element of ''ℓ''2.
+Therefore, ''H'' is the internal Hilbert direct sum of ''V'' and ''V''⊥.
+: if  for all  and some  then .
+In the 1940s, Israel Gelfand, Mark Naimark and Irving Segal gave a definition of a kind of operator algebras called C*-algebras that on the one hand made no reference to an underlying Hilbert space, and on the other extrapolated many of the useful features of the operator algebras that had previously been studied.
+The complex plane denoted by ℂ is equipped with a notion of magnitude, the complex modulus  which is defined as the square root of the product of  with its complex conjugate:
+The open mapping theorem states that a continuous surjective linear transformation from one Banach space to another is an open mapping meaning that it sends open sets to open sets.
+The adjoint of a densely defined unbounded operator is defined in essentially the same manner as for bounded operators.
+It is a monotone function in the sense that if ''U'' ⊂ ''V'', then  with equality holding if and only if ''V'' is contained in the closure of ''U''.
+Consequently, any square-integrable function can be expressed as a series
+: where ''i'' is the imaginary unit and ''f'' is a differentiable function of compact support.
+A similar strategy is used, for instance, to study the spectrum of the Laplace operator: rather than address the operator directly, one instead looks as an associated resolvent such as a Riesz potential or Bessel potential.
+The latter space is often in the older literature referred to as ''the'' Hilbert space.
+Normal operators can also usefully be thought of in terms of their real and imaginary parts.
+:If ''f'':  is a convex continuous function such that ''f''(''x'') tends to +∞ when
+This is complex-valued.
+and, moreover, this series converges in the Hilbert space sense (that is, in the ''L''2 mean).
+Even in quantum field theory, most of the Hilbert spaces are in fact separable, as stipulated by the Wightman axioms.
+This can also be expressed by requiring that ''U''&thinsp; be onto  for all ''x'' and ''y'' in ''H''.
+The composite ''P''''U''''P''''V'' is generally not a projection; in fact, the composite is a projection if and only if the two projections commute, and in that case ''P''''U''''P''''V'' = ''P''''U''∩''V''.
+The significance of the concept of a Hilbert space was underlined with the realization that it offers one of the best mathematical formulations of quantum mechanics.
+The weak formulation consists of finding a function ''u'' such that, for all continuously differentiable functions ''v'' in Ω vanishing on the boundary:
+Furthermore, Hilbert spaces are complete: there are enough limits in the space to allow the techniques of calculus to be used.
+2 as small as possible.
+That the latter is a Hilbert space at all is a consequence of the mean value theorem for harmonic functions.
+* the sequence {''f''''n'' : ''n'' ∈ '''Z'''} with ''f''''n''(''x'') = exp(2π''inx'') forms an orthonormal basis of the complex space L2(0,1);
+Apart from the classical Euclidean spaces, examples of Hilbert spaces include spaces of square-integrable functions, spaces of sequences, Sobolev spaces consisting of generalized functions, and Hardy spaces of holomorphic functions.
+In other words, the possible states are points in the projectivization of a Hilbert space, usually called the complex projective space.
+For ''y'' in ''H''2, the map that sends ''x''&nbsp;∈ ''H''1 to ⟨''Ax'', ''y''⟩ is linear and continuous, and according to the Riesz representation theorem can therefore be represented in the form
+Unbounded operators are also tractable in Hilbert spaces, and have important applications to quantum mechanics.
+The possible results of a measurement are the eigenvalues of the operator&mdash;which explains the choice of self-adjoint operators, for all the eigenvalues must be real.
+At a deeper level, perpendicular projection onto a subspace (the analog of "dropping the altitude" of a triangle) plays a significant role in optimization problems and other aspects of the theory.
+The orthogonal complement satisfies some more elementary results.
+In the mathematically rigorous formulation of quantum mechanics, developed by John von Neumann, the possible states (more precisely, the pure states) of a quantum mechanical system are represented by unit vectors (called ''state vectors'') residing in a complex separable Hilbert space, known as the state space, well defined up to a complex number of norm 1 (the phase factor).
+Each of the ''H''''i'' is included as a closed subspace in the direct sum of all of the ''H''''i''.
+In two dimensions, this is the assertion that the length of the leg of a right triangle may not exceed the length of the hypotenuse.
+Humans have three types of cone cells for color perception, so the "human perceivable" colors can be represented by 3-dimensional Euclidean space.
+The real part of  gives the usual two-dimensional Euclidean dot product.
+for an unknown function ''y'' on an interval ''a'',''b'', satisfying general homogeneous Robin boundary conditions
+Conversely, if {''e''''k''} is an orthonormal set such that Parseval's identity holds for every ''x'', then {''e''''k''} is an orthonormal basis.
+A typical example is the Poisson equation  with Dirichlet boundary conditions in a bounded domain Ω in '''R'''2.
+This theorem is considerably simpler to prove in the case of Hilbert spaces than in general Banach spaces.
+Moreover, for general quantum mechanical systems, the effects of a single measurement can influence other parts of a system in a manner that is described instead by a positive operator valued measure.
+The closure of a subspace can be completely characterized in terms of the orthogonal complement: If ''V'' is a subspace of ''H'', then the closure of ''V'' is equal to .
+In this case, ''H'' is called the internal direct sum of the ''V''''i''.
+In particular, the spectral theory of continuous self-adjoint linear operators on a Hilbert space generalizes the usual spectral decomposition of a matrix, and this often plays a major role in applications of the theory to other areas of mathematics and physics.
+Every closed subspace ''V'' of a Hilbert space is therefore the image of an operator ''P'' of norm one such that ''P''2&nbsp;=&nbsp;''P''.
+This fact may be used to prove minimization results for continuous convex functionals, in the same way that the Bolzano–Weierstrass theorem is used for continuous functions on '''R'''''d''.
+The linear operator P''V'' : ''H'' → ''H'' that maps ''x'' to ''v'' is called the ''orthogonal projection'' onto ''V''.
+for all ''x''&nbsp;∈&nbsp;''V'' and ''y''&nbsp;∈&nbsp;''H''.
+This mapping defined on simple tensors extends to a linear identification between  and the space of finite rank operators from  to .
+Most spaces used in physics are separable, and since these are all isomorphic to each other, one often refers to any infinite-dimensional separable Hilbert space as "''the'' Hilbert space" or just "Hilbert space".
+Conversely, if there is a system of closed subspaces, ''V''''i'', , in a Hilbert space ''H'', that are pairwise orthogonal and whose union is dense in ''H'', then ''H'' is canonically isomorphic to the direct sum of ''V''''i''.
+The index is homotopy invariant, and plays a deep role in differential geometry via the Atiyah–Singer index theorem.
+Unlike with finite matrices, not every element of the spectrum of ''T'' must be an eigenvalue: the linear operator ''T''&nbsp;&minus;&nbsp;λ may only lack an inverse because it is not surjective.
+#It is positive definite: for all vectors , , with equality if and only if .
+The spectrum of an operator ''T'', denoted σ(''T'') is the set of complex numbers λ such that ''T''&nbsp;&minus;&nbsp;λ lacks a continuous inverse.
+The problem can also be studied from the abstract point of view: every Hilbert space has an orthonormal basis, and every element of the Hilbert space can be written in a unique way as a sum of multiples of these basis elements.
+The kind of algebras studied by von Neumann and his contemporaries are now known as von Neumann algebras.
+Conversely, if an operator is bounded, then it is continuous.
+From this perspective, the natural state space of a boson might seem to be a non-separable space.
+The proof is basic in mathematical analysis, and permits mathematical series of elements of the space to be manipulated with the same ease as series of complex numbers (or vectors in a finite-dimensional Euclidean space).
+A converse is also true in the sense that, for a non-negative operator ''A'', there exists a unique non-negative square root ''B'' such that
+:Moreover, if ''E''&lambda; denotes the orthogonal projection onto the eigenspace ''H''&lambda;, then
+An operation on pairs of vectors that, like the dot product, satisfies these three properties is known as a (real) inner product.
+The problem is a differential equation of the form
+The name "Hilbert space" was soon adopted by others, for example by Hermann Weyl in his book on quantum mechanics and the theory of groups.
+Then the Hardy space ''H''2(''U'') is defined as the space of holomorphic functions ''f'' on ''U'' such that the means
+The inner product in ''H''s(Ω) is
+This sum is called the ''Fourier expansion'' of ''x'', and the individual coefficients ⟨''x'',''e''''k''⟩ are the ''Fourier coefficients'' of ''x''.
+#It is symmetric in  and :  .
+Any general property of Banach spaces continues to hold for Hilbert spaces.
+Using these methods on a compact Riemannian manifold, one can obtain for instance the Hodge decomposition, which is the basis of Hodge theory.
+This isometry property of the Fourier transformation is a recurring theme in abstract harmonic analysis, as evidenced for instance by the Plancherel theorem for spherical functions occurring in noncommutative harmonic analysis.
+Sobolev spaces, denoted by ''H''''s'' or , are Hilbert spaces.
+* A compact self-adjoint operator ''T'' has only countably (or finitely) many spectral values.
+where ''a'' is a continuous bilinear form, and ''b'' is a continuous linear functional, given respectively by
+This is equivalent to ''U'' and ''V'' being orthogonal as subspaces of ''H''.
+Let ''D'' be a bounded open set in the complex plane (or a higher-dimensional complex space) and let ''L''2,''h''(''D'') be the space of holomorphic functions ''f'' in ''D'' that are also in ''L''2(''D'') in the sense that
+A series Σ&nbsp;''uk'' of ''orthogonal'' vectors converges in ''H''&thinsp; if and only if the series of squares of norms converges, and
+A suitable weak formulation reduces to a geometrical problem the analytic problem of finding a solution or, often what is more important, showing that a solution exists and is unique for given boundary data.
+consisting of vectors in  is absolutely convergent provided that the sum of the lengths converges as an ordinary series of real numbers:
+This is a consequence of the estimate, valid on compact subsets ''K'' of ''D'', that
+Each eigenstate of an observable corresponds to an eigenvector of the operator, and the associated eigenvalue corresponds to the value of the observable in that eigenstate.
+In various applications to physical problems, a function can be decomposed into physically meaningful eigenfunctions of a differential operator (typically the Laplace operator): this forms the foundation for the spectral study of functions, in reference to the spectrum of the differential operator.
+The Lebesgue spaces appear in many natural settings.
+Geometrically, Bessel's inequality implies that the orthogonal projection of ''x'' onto the linear subspace spanned by the ''f''''i'' has norm that does not exceed that of ''x''.
+The spectral theorem for self-adjoint operators in particular that underlies much of the existing Hilbert space theory was generalized to C*-algebras.
+They are indispensable tools in the theories of partial differential equations, quantum mechanics, Fourier analysis (which includes applications to signal processing and heat transfer)—and ergodic theory, which forms the mathematical underpinning of thermodynamics.
+The laws of thermodynamics are assertions about such average behavior.
+Of special importance is the notion of a closed linear subspace of a Hilbert space that, with the inner product induced by restriction, is also complete (being a closed set in a complete metric space) and therefore a Hilbert space in its own right.
+This extends to a linear isometry of the Hilbertian tensor product  with the Hilbert space  of Hilbert–Schmidt operators from  to .
+One of the most familiar examples of a Hilbert space is the Euclidean space consisting of three-dimensional vectors, denoted by , and equipped with the dot product.
+In particular, one formulation of the zeroth law of thermodynamics asserts that over sufficiently long timescales, the only functionally independent measurement that one can make of a thermodynamic system in equilibrium is its total energy, in the form of temperature.
+As a consequence of the interplay between geometry and completeness, the 19th century results of Joseph Fourier, Friedrich Bessel and Marc-Antoine Parseval on trigonometric series easily carried over to these more general spaces, resulting in a geometrical and analytical apparatus now usually known as the Riesz–Fischer theorem.
+The Lax–Milgram theorem then ensures the existence and uniqueness of solutions of this equation.
+Since the Poisson equation is elliptic, it follows from Poincaré's inequality that the bilinear form ''a'' is coercive.
+Using the Pythagorean identity twice, it follows that
+In particular, the idea of an abstract linear space had gained some traction towards the end of the 19th century: this is a space whose elements can be added together and multiplied by scalars (such as real or complex numbers) without necessarily identifying these elements with "geometric" vectors, such as position and momentum vectors in physical systems.
+In particular, when ''F'' is not equal to ''H'', one can find a non-zero vector ''v'' orthogonal to ''F'' (select ''x'' not in ''F'' and ''v''&nbsp;= .
+An element of a Hilbert space can be uniquely specified by its coordinates with respect to a set of coordinate axes (an orthonormal basis), in analogy with Cartesian coordinates in the plane.
+The orthogonal projection P''V'' is a self-adjoint linear operator on ''H'' of norm ≤ 1 with the property P2''V'' = P''V''.
+Any pre-Hilbert space that is additionally also a complete space is a Hilbert space.
+However, it is sometimes argued that non-separable Hilbert spaces are also important in quantum field theory, roughly because the systems in the theory possess an infinite number of degrees of freedom and any infinite Hilbert tensor product (of spaces of dimension greater than one) is non-separable.
+As a result, time translation is a unitary transformation of the Hilbert space ''L''2(Ω''E'',μ) consisting of square-integrable functions on the energy surface Ω''E'' with respect to the inner product
+The Riesz representation theorem implies that the evaluation functional can be represented as an element of ''L''2,''h''(''D'').
+that commute with each other.
+In particular, the idea of an orthogonal family of functions has meaning.
+An ergodic dynamical system is one for which, apart from the energy&mdash;measured by the Hamiltonian&mdash;there are no other functionally independent conserved quantities on the phase space.
+The problem only has solutions for certain values of λ, called eigenvalues of the system, and this is a consequence of the spectral theorem for compact operators applied to the integral operator defined by the Green's function for the system.
+A system of vectors satisfying the first two conditions basis is called an orthonormal system or an orthonormal set (or an orthonormal sequence if ''B'' is countable).
+The spectrum of ''T'' has no limit point in the complex plane except possibly zero.
+The open mapping theorem is equivalent to the closed graph theorem, which asserts that a function from one Banach space to another is continuous if and only if its graph is a closed set.
+Reproducing kernels are common in other areas of mathematics as well.
+tends to ∞, then ''f'' admits a minimum at some point .
+When that set of axes is countably infinite, this means that the Hilbert space can also usefully be thought of in terms of the space of infinite sequences that are square-summable.
+There is also a version of the spectral theorem that applies to unbounded normal operators.
+This result is a special case of the Hahn–Banach theorem.
+As physical colors can be composed of any number of physical colors, the space of physical colors may aptly be represented by a Hilbert space over spectral colors.
+The mathematical concept of a '''Hilbert space''', named after David Hilbert, generalizes the notion of Euclidean space.
+The exact nature of this Hilbert space is dependent on the system; for example, the position and momentum states for a single non-relativistic spin zero particle is the space of all square-integrable functions, while the states for the spin of a single proton are unit elements of the two-dimensional complex Hilbert space of spinors.
+When ''u'' and ''v'' are orthogonal, one has
+This provides the geometrical interpretation of ''PV''(''x''): it is the best approximation to ''x'' by elements of ''V''.
+For many classes of partial differential equations, such as linear elliptic equations, it is possible to consider a generalized solution (known as a weak solution) by enlarging the class of functions.
+An unbounded operator ''T'' on a Hilbert space ''H'' is defined as a linear operator whose domain ''D''(''T'') is a linear subspace of ''H''.
+The mapping  is an antilinear mapping from ''H'' to ''H*''.
+As such they are topological vector spaces, in which topological notions like the openness and closedness of subsets are well-defined.
+Schmidt exploited the similarity of this inner product with the usual dot product to prove an analog of the spectral decomposition for an operator of the form
+When this result is applied to a closed subspace ''F'' of ''H'', it can be shown that the point ''y'' ∈ ''F'' closest to ''x'' is characterized by
+The norm on this Hardy space is defined by
+Applying the preceding inequality to every finite subset ''J'' of ''I'' gives the ''Bessel inequality''
+That the span of the basis vectors is dense implies that every vector in the space can be written as the sum of an infinite series, and the orthogonality implies that this decomposition is unique.
+The non-unique linear mapping from the Hilbert space of physical colors to the Euclidean space of human perceivable colors explains why many distinct physical colors may be perceived by humans to be identical (e.g., pure yellow light versus a mix of red and green light).
+The representing vector ''u''φ is obtained in the following way.
+Every finite-dimensional inner product space is also a Hilbert space.
+In fact, every ''x'' in ''H'' can then be written uniquely as ''x'' = ''v'' + ''w'', with ''v'' in ''V'' and ''w'' in ''V''⊥.
+Many weak formulations involve the class of Sobolev functions, which is a Hilbert space.
+The Riesz representation theorem relies fundamentally not just on the presence of an inner product, but also on the completeness of the space.
+Equipped with this inner product, ''L''2 is in fact complete.
+The proof consists in showing that every minimizing sequence (''dn'')&nbsp;⊂ ''D'' is Cauchy (using the parallelogram identity) hence converges (using completeness) to a point in ''D'' that has minimal norm.
+where the functions  are orthogonal in the sense that  for all .
+:Given a densely defined self-adjoint operator ''T'' on a Hilbert space ''H'', there corresponds a unique resolution of the identity ''E'' on the Borel sets of '''R''', such that
+In the case of Hilbert spaces, this is basic in the study of unbounded operators (see closed operator).
+During an ideal measurement of a quantum mechanical system, the probability that a system collapses from a given initial state to a particular eigenstate is given by the square of the absolute value of the probability amplitudes between the initial and final states.
+The probability distribution of an observable in a given state can be found by computing the spectral decomposition of the corresponding operator.
+:where the sum converges with respect to the norm on B(''H'').
+Thus convergence of a sequence of holomorphic functions in ''L''2(''D'') implies also compact convergence, and so the limit function is also holomorphic.
+The integral is understood as a Riemann–Stieltjes integral, convergent with respect to the norm on B(''H'').
+The weighted space ''L''(0,1) is identical with the Hilbert space ''L''2(0,1,μ) where the measure μ of a Lebesgue-measurable set ''A'' is defined by
+The Fourier transformation is also geometrical, in a sense made precise by the Plancherel theorem, that asserts that it is an isometry of one Hilbert space (the "time domain") with another (the "frequency domain").
+Then the inner product of  with another such vector  is given by
+In 1907, Frigyes Riesz and Ernst Sigismund Fischer independently proved that the space  of square Lebesgue-integrable functions is a complete metric space.
+In fact, the theorem implies that the topological dual of any inner product space can be identified with its completion.
+For example, the Riesz representation theorem was independently established by Maurice Fréchet and Frigyes Riesz in 1907.
+The basic feature of the dot product that connects it with Euclidean geometry is that it is related to both the length (or norm) of a vector, denoted , and to the angle  between two vectors  and  by means of the formula
+The coefficients {''a''''j''} are selected to make the magnitude of the difference |
+John von Neumann coined the term ''Hilbert space'' for the abstract concept that underlies many of these diverse applications.
+The parallelogram law implies that any Hilbert space is a uniformly convex Banach space.
+In the real case, the antilinear isomorphism from ''H'' to its dual is actually an isomorphism, and so real Hilbert spaces are naturally isomorphic to their own duals.
+Completeness is expressed using a form of the Cauchy criterion for sequences in ''H'': a pre-Hilbert space ''H'' is complete if every Cauchy sequence converges with respect to this norm to an element in the space.
+John von Neumann coined the term ''abstract Hilbert space'' in his work on unbounded Hermitian operators.
+The eigenspaces of an operator ''T'' are given by
+A Bergman space is an example of a reproducing kernel Hilbert space, which is a Hilbert space of functions along with a kernel ''K''(ζ,''z'') that verifies a reproducing property analogous to this one.
+Here Δ is the Laplacian and (1&nbsp;&minus;&nbsp;Δ)&minus;''s''/2 is understood in terms of the spectral mapping theorem.
+* The multiplication-by-''x'' operator:
+Sobolev spaces are also studied from the point of view of spectral theory, relying more specifically on the Hilbert space structure.
+It follows that  is orthogonal to each ''f''''k'', hence  is orthogonal to&nbsp;''y''.
+The resulting eigenfunction expansion expresses the function  as a series of the form
+Let , be an arbitrary orthonormal system in&nbsp;''H''.
+Even if ''B'' is uncountable, Bessel's inequality guarantees that the expression is well-defined and consists only of countably many nonzero terms.
+For instance, if ''w'' is any positive measurable function, the space of all measurable functions ''f'' on the interval 0, 1 satisfying
+The unitary operators form a group under composition, which is the isometry group of ''H''.
+In a sense made precise by the spectral theorem, self-adjoint operators can usefully be thought of as operators that are "real".
+The cardinal number of ''B'' is the Hilbert dimension of ''H''.
+The resulting continuous functional calculus has applications in particular to pseudodifferential operators.
+Completeness can be characterized by the following equivalent condition: if a series of vectors  converges absolutely in the sense that

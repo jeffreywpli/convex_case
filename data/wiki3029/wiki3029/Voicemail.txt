@@ -1,0 +1,200 @@
+Voice messaging enables any subscriber (someone with a mailbox number) to send messages directly to any or many subscribers' mailboxes without first calling them.
+The CPU then stores the location of that message in the System Disk inside Fred's mailbox directory entry.
+* System disks which not only include the software above, but also contain a complete directory of all users with pertinent data about each (name, extension number, voice-mail preferences, and pointers to each of the messages stored on the message disk that belong to them);
+Tape-based telephone answering machines had come into the residential telephone market, but they weren't used much in the corporate environment due to physical limitations of the technology.
+* Telephone interface system that enables many phone lines to be connected to it.
+For voice-mail, they'd see the "header information" (sender, date sent, size, and subject).
+If Fred presses 1 to listen to his message, the CPU looks up the location of Fred's new message in his mailbox directory (on the System Disk), and directs the Disk Controller to play that message.
+However, in a few years Comverse became the largest supplier to carriers with Lucent/Octel  holding its leadership in the corporate market and second place with carriers.
+Since the CPU "knows" it is Fred (from the signaling on the Data Link D), it looks up Fred's information on the System Disk, specifically his password.
+A patent was applied for and issued for Delphi's Automated Telephone Voice Service System.
+In 1992, Siemens bought ROLM entirely from IBM and the original ROLM product line was done for, except for PhoneMail (the only product Siemens did not destroy).
+Voice mail's introduction enabled people to leave lengthy, secure and detailed messages in natural voice, working hand-in-hand with corporate phone systems.
+The conventional solution to efficient handling of telephone communication in businesses was the "message center."
+Simple systems may not provide active notification at all, instead requiring the recipient to check with the system, while others may provide an indication that messages are waiting.
+Suppose an outside caller is calling Fred's extension 2345.
+Wiring for telephones was very expensive, and many poorer citizens didn't have homes to wire.
+This software includes thousands of pre-recorded prompts that "speak" to the users as they interact with the system;
+ROLM was purchased by IBM in the mid 1980s (which was a financial disaster for the profitable ROLM, as IBM clearly could not grasp the laid back, "think outside the box" attitude of ROLM, which was the #2 PBX supplier in the US from the mid 70s to late 80s), then sold half interest to the German company Siemens.
+The caller's message is digitized by the Telephone Interface system and transmitted to the Disk Controller for storage onto the Message Disks.
+Beusch and Finnigan led the VMA until 1998 and 1999 respectively and the organization continues to serve the voice services industry today.
+Opcom later pioneered the concept of Unified Messaging (to be discussed later in this article).
+The CPU's program realizes that it's a call for Fred so it looks up Fred's greeting immediately and directs the Disk Controller to start playing it to the caller.
+Octel, who had high capacity systems in use interally by all seven Regional Bell Operating companies,  launched a new generation of its large system specifically designed for carriers and was compliant with "NEBS standards," the tight standard required by phone companies for any equipment located in their central offices.
+* Systems across America and Europe for insurance-company staff to report their appraisals of damaged vehicles and hear the locations of their next appraisal sites
+uReach Technologies was acquired by GENBAND in 2014.
+A little label next to the button told the operator the person being called.
+The patent for Unified Messaging was received in June, 1989 (Patent number 4,837,798).
+The report said that  the number of voicemail messages declined 8 percent compared to 2011.
+Only a few of these companies were successful in capturing a significant market share and remain in the voice-mail business today.
+In 1987, Voice-mail service providers in the U.S. and Europe joined together to form the Voice Mail Association of Europe (VMA) with René Beusch, Radio-Suisse and Paul Finnigan, Finnigan USA serving as VMA Chairman and President respectively.
+It started with Internet service provider America Online (AOL) as a public Internet-based free text "chat" service for consumers, but soon was being used by business people as well.
+In addition, Octel innovated substantially new technology which contributed heavily to its success including a system architecture that was physically smaller, faster, more reliable, and much less costly than other corporate vendors.
+The increase in wireless mobility, originally through cellular services and today through IP-based Wi-Fi, was also a driver for messaging convergence with mobile telephony.
+With multiple time zones, fewer secretaries and more communication by phone, real-time phone communications were hampered by callers being unable to reach people.
+Voice messages could be sent using email or telephone addressing schemes, and the data networking infrastructure was used to send messages between locations rather than the public switched telephone network.
+&nbsp;Although VMI trademarked the term, it eventually became a generic term used for referring to virtually all automated voice services employing a telephone.
+* Milan, Italy: two systems for automated airport announcements, handling multiple languages.
+Voice mails had a little telephone icon next to them and emails had a little envelope icon next to them (see figure below).
+Another company, Delphi Communications of California, deserves some partial credit for invention of voicemail.
+Those prototypes ran on an IBM System/7 computer attached to an IBM VM370 for additional storage.
+), or if they were at work, they were on the phone, away from their desks in meetings, on breaks, etc.
+VMX suffered from poor product and ineffective management and was about to fold when Opcom merged with it.
+However it didn't take long for Comverse to become the largest supplier to the BOCs and PTTs with Lucent/Octel  holding its leadership in the corporate market and second place with carriers.
+* Rowntree's in York, England to liaise with the chocolate-makers' agents across time zones in Europe, North America, the Middle East, and Australia
+This interaction of playing prompts and responding with Touch-tones enables Fred to interact with the voicemail system easily.
+Using a 1980s computer requiring air conditioning, it was expensive and physically large.
+After the caller hangs up and the message has been stored, the CPU sends a signal to the PBX through the link (D) instructing the PBX to turn on the message waiting light on Fred's phone.
+Cellular and residential voice-mail continue today in their previous form, primarily simple telephone answering.
+After a certain number of rings, the PBX stops ringing Fred's extension and forwards the call to an extension connected to the voicemail system (C).
+For example, if Fred wants to pause message playback, he might press 2.
+Almost all modern voicemail systems use digital storage and are typically stored on computer data storage.
+&nbsp;Voicemail popularity continues today with Internet telephone services such as Skype, Google Voice and ATT that integrate voice, voicemail and text services for tablets and smartphones
+Corporate voice-mail did not change much until the advent of Voice over IP (VoIP—voice being transmitted over the internet) and the development of IP telephony applications to replace legacy PBX telephony (called TDM technologies).
+Telephone answering mode answers outside calls and takes a message from any outside caller (either because the extension was busy or rang no-answer).
+When Fred comes back to his desk and sees the light on his phone, he calls a designated extension number for the voicemail system (an actual extension number assigned to the lines in "C" in the figure above).
+VRI discovered that hesitation (delayed response) signaled caller confusion or misunderstanding which often resulted in an inaccurate response.
+While Octel benefited from the work and experiments of others it was the first stand-alone voicemail company to build a strong business and strategy to win in this difficult market.
+Octel had about a 60% market share in the U.S., Canada, Europe and Japan (for large corporations) and between a 30% and 100% of the carrier market, depending on the country.
+It also enables people to reply to both voice and email messages in voice rather than text.
+VMX developed a 3000-user voice messaging system called the VMX/64 and was the first company to offer a voice messaging system for sale commercially for corporate use.
+VRI pioneering applications, including subscription fulfillment for Time -Life Magazine, proved faster and less expensive than call centers using live operators and although VRI did not survive, their voice recognition processes became industry standards and VRI's patent USPTO - patent RE34,587 was eventually licensed by Intel/Dialogic and Nuance.
+In July 1997, Octel was purchased by Lucent Technology.
+If someone called the phone number, it never rang on an actual phone, but would be routed immediately to a central voice-mail system.
+They became popular in the early 80s when they were made available on PC-based boards.
+Among the many contenders were IBM, VMX, Wang, Octel, ROLM, AT&T, Northern Telecom, Delphi Communications, Voice and Data Systems, Opcom, Commterm, Genesis, Brook Trout, Innovative Technology (ITI), Glenayre, BBL, AVT, AVST, Digital Sound, Centigram, Voice-mail International and Active Voice.
+To do so they contain a user interface to select, play, and manage messages; a delivery method to either play or otherwise deliver the message; and a notification ability to inform the user of a waiting message.
+With further development it grew to handle up to 3000 users, 100 hours of messages, multiple languages, message notification to a host computer, and 16 simultaneous users.
+The problem this solved was that emerging countries did not have many telephones.
+One of the first modern day voicemail applications was invented by Gerald M. Kolodny and Paul Hughes, which was described in an article in the medical journal, Radiology (Kolodny GM, Cohen HI, Kalisky A. Rapid-access system for radiology reports: a new concept.
+In 1992, VMA members conducted an “Information Week Tour of the U.S.”, sharing ideas with major telecom operators.
+The options are presented by the CPU directing the Disk Controller to play prompts, and the CPU listens for Touch-tones from Fred.
+ADS used the human voice and the fixed-line touch-tone telephones that predated computer screens and mobile phones.
+The VMA invited service providers, vendors and consultants to attend semi-annual conferences that included presentations, discussions and reporting of experiences.
+Once the password is entered (via Touch-tones), the CPU compares it to the correct one and, if entered correctly, allows Fred to continue.
+ROLM's digital PBX (called a CBX, for Computerized Branch eXchange) was the first to enable PhoneMail to illuminate a message waiting light on ROLM phones equipped with message waiting lights (also a stutter dialtone is used with analog and digital phones).
+This might include intra- and inter-enterprise contacts, mobile contacts, proactive application information delivery, and customer contact applications.
+The patent was promoted as the pioneering patent for voice-mail.
+The first operational prototypes were used by 750 IBM executives mainly in the USA for their daily work.
+The flexibility, manageability, lower costs, reliability, speed, and user convenience for messaging convergence is now possible where it wasn't before.
+While Unisys eventually secured PacBell's residential voice-mail services, Boston Technology became the mainstay of Bell Atlantic's residential voicemail offering and Comverse Technology enjoyed some success in the European market;  Octel became the provider of voice-mail platforms for virtually all of the major US wireless carriers (including the seven RBOCs, AT&T Wireless and McCaw), Canadian cellular carriers  and a large percent of the GSM carriers around the world.
+However, the patent application was filed on 11/26/1979, 5 years  after and issued in 1983, 2 years after that of Kolodny and Hughes as described above, and cannot therefore be considered as the pioneering foundation of voice mail.
+By the mid-1990s, Octel had become the number one supplier of voicemail both to corporations and to carriers.
+Voicemail was the result of innovations in telephone products and services made possible by developments in computer technology during the 1970s.
+Apparently Delta 2 was built, installed and operational for a short while, but unfortunately Delphi's major early investor, Exxon Enterprises, abruptly shut down Delphi in July, 1982.
+Boston Technology, uReach Technologies and Comverse Technology all entered the carrier market in the early 1990s.
+The CPU directs the Telephone Interface to answer the call.
+Installations included:
+Further, the manufacturers of PBXs (private branch exchanges—the name for corporate phone systems) used proprietary digital phone sets in order to increase the functionality and value of the PBX.
+VoIP telephony enables centralized, shared servers, with remote administration and usage management for corporate (enterprise) customers.
+As corporations grew and labor rates increased, the ratio of secretaries to employees decreased.
+The patent was never challenged in court and VMX then continued to assert (incorrectly) that it had invented voice-mail and that Matthews was the "father of voice-mail".
+AT&T/Lucent created its version of voicemail in the early 1990s (called Audix) but it would only work on AT&T/Lucent PBXs.
+For nearly one hundred years, there were few innovations or advances in telephone services.
+IBM, Sony and Lanier, as well as several smaller makers of voice-mail systems, licensed the Sudbury patent for their voice-mail systems.
+Unified Messaging integrated voice-mail into Microsoft Exchange, the corporate email system made by Microsoft.
+The CPU simultaneously receives a signal on the PBX-Voicemail Data Link (D) telling it that extension 2345 is being forwarded on ring-no-answer to the specific extension that is now ringing.
+Later, Elkins successfully licensed his patented technology to IBM, DEC, WANG, among many others.
+VRI found that the confidence level of a "suspect" caller response could be  increased  by asking "Did you say (Chicago), Yes or No", a standard queston heard in order taking or reservation making IVR applications today.
+"If you are making domestic reservations, press 1; for international reservations, press ‘2'; etc."
+Matthews, a prolific entrepreneur and patenter, applied for and was granted a patent on voice-mail (patent number 4,371,752) which issued in February, 1983.
+The automated attendant enables callers to direct calls by pressing single digit keys, e.g.
+The better designed voicemail systems have a user-friendly interface with clear and meaningful prompts so the interaction with the voicemail system is quick and easy.
+While VMX began with a good start, it failed at developing the market, and the company was not a commercial success.
+Wang, the last of the majors to get such a license for itself and Voice-mail International, essentially paid $20,000 and cross licensed a few patent applications (not issued patents).
+These innovations began with the Motorola Pageboy, a simple "pager" or "beeper" introduced in 1974 that was generally offered in conjunction with answering services that handled busy / no-answer overloads and after hours calls for businesses and professionals.
+By 1997 Octel's biggest competitors were Audix, made by Lucent, and Meridian Mail, made by Nortel.
+While it was an improvement over basic multi-line systems, the message center had many disadvantages.
+In 1985, Voice Response Inc. (formerly Call-It Co) a subsidiary of Lee Enterprises, Davenport IA, entered the fast-growing Interactive Voice (IVR) response market under the direction of Bob Ross, President.
+In an article outlining his own ideas of the future usefulness of his machine Edison's list began with "Letter writing, and all kinds of dictation without the aid of a stenographer."
+As soon as the message was received, the voice-mail system would trigger the citizen's pager.
+Unified Messaging allowed users to access voicemail and email messages using either the graphical user interface (GUI) on their PC, or using the telephone user interface (TUI).
+'''Voice Mail System''' (also known as '''voice mail''', '''voice message''' or '''voice bank''') is a computer-based system that allows users and subscribers to exchange personal voice messages; to select and deliver voice information; and to process transactions relating to individuals, organizations, products and services, using an ordinary telephone.
+A similar situation exists for the carrier market for voice-mail servers, currently dominated by Comverse Technology, with some share still held by Lucent Technologies.
+ROLM Corporation, founded in 1969 by Gene Richeson, Ken Oshman, Walter Loewenstern and Robert Maxfield, was the first PBX manufacturer to offer integrated voice-mail with its PhoneMail system, its registered trademark.
+Unfortunately, his patent did not address simultaniety of voice message access and storage and the application for patent was filed after the patent application of the system patented by Kolodny and Hughes.
+The incoming call comes in from the public network (A) and comes into the PBX.
+* Disk controller and multiple disk drives for message storage;
+Notification methods also vary based on the voice-mail system.
+1974;111(3):717-9) A patent was applied for by Kolodny and Hughes in 1975, prior to the patent applications of both Elkins and Matthews and was issued in 1981 (U.S. patent 4,260,854).
+The voice-mail system answered the call and the caller could leave a long, detailed message.
+as described below.
+Delphi developed Delta 1 as a purely service-oriented voice messaging system to answer subscriber telephones for businesses and professionals.
+When Fred's extension forwards to the voicemail system, the Telephone Interface detects ringing.
+The patent, U.S. Patent No.
+The patent was assigned to Sudbury Systems of Sudbury Massachusetts who proceeded to market and sell such systems to corporations and hospitals.
+Voicemail systems were developed in the late 70s by Voice Message Exchange (VMX).
+The CPU directs the Telephone Interface (which controls the line interface cards) to answer the call.
+Opcom eventually acquired VMX through a reverse merger, (Opcom was private and VMX was public) and the surviving company VMX was eventually acquired by Octel.
+More modern voice-mail systems work on the same principle, but some of the components may be shared with other systems, such as email systems.
+A patent suit, brought by Pitney Bowes, claiming prior art to the Sudbury patent, was denied by the U.S. District Court, District of Connecticut on November 8, 2000.
+Operators wrote down a caller's message, sent a page alert or "beep" and when the party called back, an operator dictated the message.
+In 1990 Octel was one of the first companies to introduce the concept of ''Unified Messaging''.
+In some countries, the wait for a phone was several years and the cost was in the thousands of dollars.
+The surviving company was called VMX, but VMX was all but erased by Opcom except for its name and patent portfolio.
+A variety of playback controls and options are available on most sophisticated voice-mail systems so that users can control message playback, store messages in archives, send messages to groups, change their preferences, etc.
+Voicemail has two main modes of operation: ''telephone answering ''and '' voice messaging''.
+''Instant messaging in voice'':  The next development in messaging was in making text messaging real-time, rather than just asynchronous store-and-forward delivery into a mailbox.
+In the past, carriers lost this business because it was far too expensive and inflexible to have remote managed facilities by the phone company.
+Voicemail systems contain several elements shown in the figure below:
+VMX cleverly achieved a settlement where the patent was let stand, not challenged in court and IBM, Wang and AT&T (in separate settlements) received royalty-free licenses to all VMX patents.
+As a result, neither company achieved much market share with large national or multi-national accounts.
+Simultaneously the PBX tells the voicemail system (through signaling link D) that the call it is forwarding to voice-mail is for Fred at extension 2345.
+The Disk Controller finds the message on the Message Disks, and sends the data stream directly to the Telephone Interface.
+Octel Communications, founded in 1982 by Bob Cohn and Peter Olson, broadly commercialized the corporate voice messaging market.
+"please call Mr. Smith") and the messages were delivered automatically when the client called the answering service.
+The citizen would also be given a pager.
+Nothing further was done with Delphi's technology.
+GE, one of the pioneer adopters of voice-mail in all of its offices around the world, claimed that voice-mail saved, on average, over US$1,100 per year per employee.
+Most systems use phone networks, either cellular- or landline-based, as the conduit for all of these functions.
+The drawing below shows how the voicemail system interacts with the PBX.
+One answering machine was needed for each telephone; messages couldn't be recorded if the user was using the phone; messages had to be retrieved in sequential order; and messages couldn't be retrieved remotely, selectively discarded, saved, or forwarded to others.
+Gilbarco is now owned by GEC in the United Kingdom.
+More complicated systems may use other input devices such as voice or a computer interface.
+By the mid 1970s digital storage and analog to digital conversion devises had emerged and paging companies began handling client messages electronically.
+Operators recorded a short message (5–6 seconds, e.g.
+VMX asserted infringement first with IBM, AT&T and then Wang, but all three companies reportedly would have been able to invalidate the patent on the basis of prior art and their licenses from Sudbury Systems Inc, for their Kolodny and Hughes patent (see above).
+IBM and AT&T also cross-licensed a number of patents to VMX, most of which were obsolete or outdated.
+* General Motors, USA with 8 ADS systems saving 30% of the costs of its long-distance calls
+Simple voicemail systems function as a remote answering machine using touch-tones as the user interface.
+VMA working groups promoted collaboration and adoption of industry standards to the ITU and CCITT and at the 1999 CCITT conference in Geneva, Switzerland, demonstrated worldwide exchange of messages between the major voice-mail vendors’ platforms using the VPIM networking standard.
+The CPU selects the prompts in response to the keys the caller presses.
+This set the stage for a creation of a broad spectrum of computer based Central Office and Customer Premises Equipment that would eventually support enhanced voice solutions such as voicemail, audiotex, interactive voice response (IVR) and speech recognition solutions that began emerging in the 1980s.
+However, messages arrival was often untimely and privacy issues as well as the high cost eventually caused the demise of these services.
+It wasn't until the early 2000s and the availability of reliable, high capacity email servers, high speed internet connections and PCs with speakers or microphones that Unified Messaging achieved commercial success.
+While three machines were built, only one machine was put into operational service.
+The Telephone Interface then converts the data stream to sound and plays it to Fred through the Line Interface Card which Fred is connected to.
+Playback controls (like rewind, pause, fast forward, changing volume, etc.)
+Their marketing strategy will have to address the need to support a variety of legacy PBXs as well as new Voice over IP as enterprises migrate towards converging IP-based telecommunications.
+When the page was received, the citizen would find a pay phone and call in to pick up the message.
+In September 1981 IBM started marketing ADS in America and Europe: the first customer installation was completed in February 1982.
+However, broad adoption of these products and services would depend on the global proliferation of touch tone phones and mobile phone services which would not occur until the late 1980s.
+ADS, marketed by IBM and briefly by AT&T Corporation, was well featured for voice messaging, the result of IBM's considerable human-factors research plus observation of operational use.
+uReach provides VoiceMail services for Verizon and a host of other Tier 1 and Tier 2 carriers and is the voice-mail system used by Verizon FIOS.
+Edison applied for a U. S. patent on December 1877 and shortly thereafter demonstrated the machine to publishers, the U.S. congress and President Hayes, recording and playing "Mary had a little lamb... " and "there was a little girl who had a little curl... " and other ditties popular at the time.
+It does this because PBXs are generally programmed to forward busy or unanswered calls to another extension.
+The CPU then presents Fred his options (e.g., "You have a new message.
+This left message attendants with little time to take each message accurately.
+This bottleneck hindered the effectiveness of business activities and decreased both individual and group productivity.
+A similar suit brought byVDI Technologies against the Kolodny and Hughes patent claiming  prior art was dismissed by the U.S. District Court in New Hampshire on 12/19/1991.
+This concept was used successfully in South America and South Africa.
+The term is also used more broadly to denote any system of conveying a stored telecommunications voice messages, including using an answering machine.
+This happened because people were either not at work (due to time zone differences, being away on business, etc.
+Interactive Voice Response (IVR) systems may use digital information stored in a corporate data base to select pre-recorded words and phrases stored in a voice-mail vocabulary to form sentences that are delivered to the caller.
+This technology has re-opened opportunities for carriers to offer hosted, shared services for all forms of converged IP telecommunications, including IP-PBX and voice-mail services.
+Other interesting markets developed from the carrier market including a concept called "''virtual telephony''."
+The completely automated voice messaging system (Delta 2) was developed for initial operational use in Los Angeles in 1981.
+Extensions that were busy or rang "no answer" would forward to the message center using a device called a "call director".
+Some voicemail systems will scramble the message for further security.
+4,625,081, was issued after Delphi's closure, but Delphi's assets (and the patent) were transferred to another Exxon company, Gilbarco, which made equipment for gas pumps at filling stations.
+The call director had a button for each extension in the company which would flash when that person's extension forwarded to the message center.
+Voice recognition technology had great difficulty with regional and ethnic differences and nuances which resulted in a high incidence of error.
+are all input via Touch-tones, are "read" by the CPU, and the appropriate actions are taken based on the stored program in the system.
+Giving them phones was one way to help their economies, but there was not a practical way to do it.
+Stoffer presented the Delphi concept publicly to the association of Telephone Answering Services around 1973 and the prototype system was launched in San Francisco in 1976 by a Delphi company called VoiceBank.
+The CPU then determines (from Fred's directory entry) that Fred has a new message.
+PhoneMail offered impressive recording quality of its digitized messages.
+Octel's voicemail system, was introduced in 1984, included unique system features, many of which were patented, which gave Octel market leadership.
+Since the CPU is constantly listening for Touch-tones from Fred, his command causes the CPU to direct the Disk Controller to stop playing the message.
+Opcom, a company founded by David Ladd, developed a voicemail system primarily marketed to smaller enterprises.
+More advanced systems may be integrated with a company’s PABX, with a call center ACD for automatic call distribution; with mobile or paging terminals for message alert; and computer systems/data bases for delivering information or processing  orders.

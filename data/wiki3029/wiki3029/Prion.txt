@@ -1,0 +1,200 @@
+These refolded prions can then go on to convert more proteins themselves, leading to a chain reaction resulting in large amounts of the prion form.
+Effective prion decontamination relies upon protein hydrolysis or reduction or destruction of protein tertiary structure.
+The same square root dependence is also seen in vitro in experiments with a variety of different amyloid proteins.
+Fungal prions have helped to suggest mechanisms of conversion that may apply to all prions, though fungal prions appear distinct from infectious mammalian prions in the lack of cofactor required for propagation.
+This structural stability means that prions are resistant to denaturation by chemical and physical agents, making disposal and containment of these particles difficult.
+Although the exact 3D structure of PrPSc is not known, it has a higher proportion of β-sheet structure in place of the normal α-helix structure.
+Prions may propagate by transmitting their misfolded protein state: When a prion enters a healthy organism, it induces existing, properly folded proteins to convert into the misfolded prion form.
+These shortcomings, along with additional experimental data, have given rise to the "multi-component" or "cofactor variation" hypothesis.
+While the infectious agent was named a prion, the specific protein that the prion was composed of is also known as the '''Pr'''ion '''P'''rotein (PrP), though this protein may occur both in infectious and non-infectious forms.
+All known prion diseases in mammals affect the structure of the brain or other neural tissue; all are currently untreatable and universally fatal.
+Models predict that the most effective way to achieve this, using a drug with the lowest possible dose, is to find a drug that binds to fibril ends and blocks them from growing any further.
+Accumulation of the abnormally folded PrPSc  form of the PrP protein is a characteristic of the disease, but it is present at very low levels in easily accessible body fluids like blood or urine.
+Several topological forms exist; one cell surface form anchored via glycolipid and two transmembrane forms.
+In yeast, prionogenic proteins have a portable prion domain that is both necessary and sufficient for self-templating and protein aggregation.
+Translation termination factor
+There is mounting evidence that fungal proteins have evolved specific functions that are beneficial to the microorganism that enhance their ability to adapt to their diverse environments.
+Heterokaryon formation between incompatible strains
+Due to small differences in PrP between different species it is unusual for a prion disease to transmit from one species to another.
+Subsequent to this, a prion has also been found in the fungus ''Podospora anserina''.
+While PrP is considered the only mammalian prion, prion-like domains have been found in a variety of other mammalian proteins.
+The mechanism of prion replication has implications for designing drugs.
+(A single ionizing "hit" normally destroys an entire infectious particle, and the dose needed to hit half the particles depends on the size of the particles.
+Transcriptional repressor
+The two PrPSc molecules then come apart and can go on to convert more PrPC.
+The misfolding of TDP-43 is largely directed by its prion-like domain.
+Human prion diseases include Creutzfeldt–Jakob disease (CJD) and its variant (vCJD), Gerstmann–Sträussler–Scheinker syndrome, fatal familial insomnia, and kuru.
+Reports suggest that imbalance of brain metal homeostasis may be a cause of PrPSc-associated neurotoxicity, though the underlying mechanisms are difficult to explain based on existing information.
+The method combines amplification with a novel technology called Surround Optical Fiber Immunoassay (SOFIA) and some specific antibodies against PrPSc.
+PrP has been reported to play important roles in cell-cell adhesion and intracellular signaling ''in vivo'', and may therefore be involved in cell-cell communication in the brain.
+*No immune or inflammatory response to infection.
+In general, prions are quite resistant to proteases, heat, ionizing radiation, and formaldehyde treatments, although their infectivity can be reduced by such treatments.
+It is often assumed that the diseased form directly interacts with the normal form to make it rearrange its structure.
+Nitrogen catabolite repressor
+Its function is a complex issue that continues to be investigated.
+Evidence in favor of a protein-only hypothesis includes:
+Transcriptional derepression of multiple genes
+Other mutations that have been identified as a cause of inherited prion disease occur at positions 102, 117 & 198 (GSS), 178, 200, 210 & 232 (CJD) and 178 (Fatal Familial Insomnia, FFI).
+* Many viruses, including HIV which needs CD4 and CXCR4, need a receptor to attach to and enter into host cells.
+It has 209 amino acids (in humans), one disulfide bond, a molecular mass of 35–36 kDa and a mainly alpha-helical structure.
+Susan Lindquist's group at the Whitehead Institute has argued some of the fungal prions are not associated with any disease state, but may have a useful role; however, researchers at the NIH have also provided arguments suggesting that fungal prions could be considered a diseased state.
+But exponential growth of both PrPSc and of the quantity of infectious particles is observed during prion disease.
+Historically, prionogenesis has been seen as independent of sequence and only dependent on relative residue content.
+However, rare cross-species transmission is also possible.
+In addition to ALS/MND and FTLD-U, TDP-43 pathology is a feature of many cases of Alzheimer's disease, Parkinson's disease and Huntington's disease.
+Protease-resistant PrPSc-like protein (PrPres) is an isoform of PrPc from which is structurally altered and converted into a misfolded proteinase K-resistant form ''in vitro''.
+Protein template factor
+Prior to the discovery of prions, it was thought that all pathogens used nucleic acids to direct their replication.
+All known prion diseases, collectively called ''transmissible spongiform encephalopathies'' (TSEs), are untreatable and fatal.
+As in yeast, proteins involved in gene expression and RNA binding seem to be particularly enriched in PrLD's, compared to other classes of protein.
+For example, to have scrapie, both an infectious agent and a susceptible genotype must be present.
+The study showed that all long-term hematopoietic stem cells express PrP on their cell membrane and that hematopoietic tissues with PrP-null stem cells exhibit increased sensitivity to cell depletion.
+This problem does not arise if PrPSc exists only in aggregated forms such as amyloid, where cooperativity may act as a barrier to spontaneous conversion.
+Similarly, pathogenic mutations have been identified in the prion-like domains of heterogeneous nuclear riboproteins hnRNPA2B1 and hnRNPA1 in familial cases of muscle, brain, bone and motor neuron degeneration.
+The cause of prion disease can be sporadic, genetic, or infectious, or a combination of these factors.
+The following sections describe several hypotheses: Some pertain to the composition of the infectious agent (protein-only, protein with other components, virus, or other), while others pertain to its mechanism of reproduction.
+Prion aggregates are extremely stable and accumulate in infected tissue, causing tissue damage and cell death.
+These researchers also showed that the polyanionic molecule required for prion formation was selectively incorporated into high-affinity  complexes with PrP molecules, leading them to hypothesize that infectious prions may be composed of multiple host components, including PrP, lipid, and polyanionic molecules, rather than PrPSc alone.
+The data suggested that the infectious agent was too small to be a virus.)
+These prions behave similarly to PrP, but, in general, are nontoxic to their hosts.
+Its main pronunciation is , although , as the homographic name of the bird is pronounced, is also heard.
+Prusiner won the Nobel Prize in Physiology or Medicine in 1997 for his research into prions.
+The "protein-only hypothesis" states that a protein structure can replicate without the use of nucleic acids.
+# Immerse in 1N&nbsp;sodium hydroxide and place in a gravity-displacement autoclave at 121&nbsp;°C for 30&nbsp;minutes; clean; rinse in water; and then perform routine sterilization processes.
+And, since manure is present in many areas surrounding water reservoirs, as well as used on many crop fields, it raises the possibility of widespread transmission.
+The end of each fiber acts as a template onto which free protein molecules may attach, allowing the fiber to grow.
+Ozone sterilization is currently being studied as a potential method for prion denaturation and deactivation.
+Francis Crick recognized the potential importance of the Griffith protein-only hypothesis for scrapie propagation in the second edition of his "Central dogma of molecular biology" (1970): While asserting that the flow of sequence information from protein to protein, or from protein to RNA and DNA was "precluded", he noted that Griffith's hypothesis was a potential contradiction (although it was not so promoted by Griffith).
+The significance of this finding is not clear, but it is presumed to relate to PrP structure or function.
+Chromatin remodeling
+Although this discovery puts a hole in the general prion hypothesis, that prions can aggregate only proteins of identical amino acid make-up.
+However, a vaccine developed in mice may provide insight into providing a vaccine to resist prion infections in humans.
+''Spiroplasma'' is a cell wall–deficient bacteria related to ''Mycoplasma'', which some think may be the cause of the TSEs.
+In defense of the ''Spiroplasma'' hypothesis, Bastian pointed out that ''Spiroplasma'' is hard to culture and that strain variation makes it hard to detect certain strains using PCR and other techniques, thus giving a false negative.
+Bioinformatic screens have predicted that over 250 human proteins contain prion-like domains (PrLD).
+Astemizole has been found to have anti-prion activity.
+*No virus particles, bacteria, or fungi have been conclusively associated with prion diseases, although virus-like particles and Spiroplasma-like inclusions can be detected in some TSE cases, but not in controls (uninfected individuals).
+Alper and Griffith wanted to account for the discovery that the mysterious infectious agent causing the diseases scrapie and Creutzfeldt–Jakob disease resisted ionizing radiation.
+These domains are hypothesized to have the same transmissible, amyloidogenic properties of PrP and known fungal proteins.
+Fungal proteins exhibiting templated conformational change were discovered in the yeast ''Saccharomyces cerevisiae'' by Reed Wickner in the early 1990s.
+Earlier investigations by E. J.
+In 2007, biochemist Surachai Supattapone and his colleagues at Dartmouth College produced purified infectious prions ''de novo'' from defined components (PrPC, co-purified lipids, and a synthetic polyanionic molecule).
+''Saccharomyces cerevisiae''
+The term "PrPres" has been made to distinguish between PrPSc, which is isolated from infectious tissue and associated with the transmissible spongiform encephalopathy agent.
+Renaturation of a completely denatured prion to infectious status has not yet been achieved; however, partially denatured prions can be renatured to an infective status under certain artificial conditions.
+The word ''prion'', coined in 1982 by Stanley B. Prusiner, is a portmanteau derived from '''pr'''otein and infect'''ion''', hence '''prion''', and is short for "proteinaceous infectious particle", in reference to its ability to self-propagate and transmit its conformation to other proteins.
+Prions, however, are infectious by their effect on normal versions of the protein.
+Evidence in favor of a viral hypothesis includes:
+*Infectivity titre in TSEs roughly correlates with prion amyloid (PrPSc) titre, however, prion amyloid is absent in approximately 10% of CJD cases.
+They are typically enriched in asparagine, glutamine, tyrosine and glycine residues, with an asparagine bias being particularly conducive to the aggregative property of prions.
+Proposed hypotheses include a functional role for PrPC in metal metabolism, and loss of this function due to aggregation to the disease-associated PrPSc form as the cause of brain metal imbalance.
+Many different mammalian species can be affected by prion diseases, as the prion protein (PrP) is very similar in all mammals.
+Researchers have tried to develop methods to measure PrPSc, but there are still no fully accepted methods for use in materials such as blood.
+A 2006 article from the Whitehead Institute for Biomedical Research indicates that PrP expression on stem cells is necessary for an organism's self-renewal of bone marrow.
+The physiological implications of some PrPC-metal interactions are known, while others are still unclear.
+Additionally, in 2006 scientists announced that they had genetically engineered cattle lacking a necessary gene for prion production&nbsp;– thus theoretically making them immune to BSE, building on research indicating that mice lacking normally occurring prion protein are resistant to infection by scrapie prion protein.
+*No nucleic acid has been conclusively associated with infectivity; agent is resistant to ultraviolet radiation and nucleases, although in 2016, studies have suggested that the agent can be destroyed by nucleases under certain situations and that part of the resistance to nucleases and  radiation may be that byproducts from  degenerating neurons may help protect a nucleic acid.
+It has also shed some light on prion domains, which are regions in a protein that promote the conversion into a prion.
+Examples include sodium hypochlorite, sodium hydroxide, and strongly acidic detergents such as LpH.
+PrPSc always causes prion disease.
+Using a similar defined recipe of multiple components (PrP, POPG lipid, RNA), Jiyan Ma and colleagues generated infectious prions from recombinant PrP expressed from ''E.
+This can be explained by taking into account fibril breakage.
+These amyloid fibrils are seen as the result of pathogenic proteins that self-propagate and form highly stable, non-functional aggregates.
+In January 2007, she and her colleagues published an article reporting to have found a virus in 10%, or less, of their scrapie-infected cells in culture.
+Neurodegenerative symptoms can include convulsions, dementia, ataxia (balance and coordination dysfunction), and behavioural or personality changes.
+For this reason, a minority of researchers still consider the prion/TSE hypothesis unproven.
+Poor growth on some carbon sources
+The RT-QuIC assay, a microplate reader-based prion detection method which uses as reagents normally folded prions, fluorescently labelled so that they "light up" when they are misfolded; samples suspected of containing misfolded prions are added and misfolded reagents can be detected by standard fluorescence detection methods.
+PrPC is readily digested by proteinase K and can be liberated from the cell surface in vitro by the enzyme phosphoinositide phospholipase C (PI-PLC), which cleaves the glycophosphatidylinositol (GPI) glycolipid anchor.
+The propagation of the prion depends on the presence of normally folded protein in which the prion can induce misfolding; animals that do not express the normal form of the prion protein can neither develop nor transmit the disease.
+It is thus possible that there is a progressively accumulating number of prions in the environment.
+* Viral-like particles that do not appear to be composed of PrP have been found in some of the cells of scrapie- or CJD-infected cell lines.
+In research done in mice, it was found that the cleavage of PrP proteins in peripheral nerves causes the activation of myelin repair in Schwann Cells and that the lack of PrP proteins caused demyelination in those cells.
+The article that reported the discovery of a prion form, the Mca1 protein, was retracted due to the fact that the data could not be reproduced.
+Fungal prions do not appear to cause disease in their hosts.
+This has given rise to the 'prion paradigm', where otherwise harmless proteins can be converted to a pathogenic form by a small number of misfolded, nucleating proteins.
+In 2010, Jiyan Ma and colleagues at The Ohio State University produced infectious prions from a recipe of bacterially expressed recombinant PrP, POPG phospholipid, and RNA, further supporting the multi-component hypothesis.
+PrPC binds copper (II) ions with high affinity.
+It has been recognized that prion diseases can arise in three different ways: acquired, familial, or sporadic.
+Field into scrapie and kuru had identified the transfer of pathologically inert polysaccharides that only become infectious in the host.
+Sterilizing prions, therefore, requires the denaturation of the protein to a state in which the molecule is no longer able to induce the abnormal folding of normal proteins.
+In 2012, Supattapone and colleagues purified the membrane lipid phosphatidylethanolamine as a solitary endogenous cofactor capable of facilitating the formation of high-titer recombinant prions derived from multiple prion strains.
+These mutations can occur throughout the gene.
+To model conversion of PrPC to PrPSc in vitro, Saborio ''et al''.
+The 'virino hypothesis' postulates that the TSE agent is a foreign, self replicating nucleic acid or nucleic acid fragment bound to PrP.
+''Acinetobacter'' is a bacterium which some think is the cause of the TSEs.
+They have an incubation period of months to decades, during which there are no symptoms, even though the pathway of converting the normal brain PrP protein into the toxic, disease-related PrPSc form has started.
+Putative yeast caspase
+A protein as a standalone infectious agent stands in contrast to all other known infectious agents such as viruses, bacteria, fungi, and parasites, all of which contain nucleic acids (DNA, RNA, or both).
+Putative transcription factor
+The physiological function of the prion protein remains a controversial matter.
+In yeast, this refolding is assisted by chaperone proteins such as Hsp104p.
+As well, a 2004 study found that mice lacking genes for normal cellular PrP protein show altered hippocampal long-term potentiation.
+AA amyloidosis, like prion disease, may be transmissible.
+* In 2016, studies have demonstrated susceptibility to nucleases under certain situations: >99% of infectivty was destroyed, but there was no reduction of prion protein, suggesting the presence of a nucleic acid.
+The first hypothesis that tried to explain how prions replicate in a protein-only manner was the '''heterodimer model'''.
+When researchers fed hamsters grass that grew on ground where a deer that died with chronic wasting disease (CWD) was buried, the hamsters became ill with CWD, suggesting that prions can bind to plants, which then take them up into the leaf and stem structure, where they can be eaten by herbivores, thus completing the cycle.
+A review of evidence in 2005 suggested that PrP may have a normal function in maintenance of long-term memory.
+Proteins showing prion-type behavior are also found in some fungi, which has been useful in helping to understand mammalian prions.
+In a 2015 study, led by Adriano Aguzzi, professor of neurobiology at the University of Zurich, found that when they injected mice with a prion disease and then with polythiophenes, the mice survived eighty percent longer than the control mice that were only injected with the prion disease.
+Until 2015, all known mammalian prion diseases were caused by the so-called prion protein, PrP, when Multiple System Atrophy was found to be likely caused by a new prion called Alpha-synuclein, The endogenous, properly folded form is denoted PrPC (for '''''C'''ommon'' or '''''C'''ellular''), whereas the disease-linked, misfolded form is denoted PrPSc (for '''''Sc'''rapie'', after one of the diseases first linked to prions and neurodegeneration.)
+Infectious particles possessing nucleic acid are dependent upon it to direct their continued replication.
+# Immerse in 1N&nbsp;sodium hypochlorite (20,000&nbsp;parts per million available chlorine) for 1&nbsp;hour; transfer instruments to water; heat in a gravity-displacement autoclave at 121&nbsp;°C for 1&nbsp;hour; clean; and then perform routine sterilization processes.
+However, the infectivity reported in Ma et al.
+While data from in vitro experiments suggest many dissimilar roles, studies on PrP knockout mice have provided only limited information because these animals exhibit only minor abnormalities.
+This was initially controversial as it contradicts the central dogma of molecular biology, which describes nucleic acid as the central form of replicative information.
+Another chemical that may be effective against prion infection are luminescent conjugated polythiophenes, fluorescent compounds that are often used to stain tissue samples.
+While '''PrPC''' is structurally well-defined, '''PrPSc''' is certainly polydisperse and defined at a relatively poor level.
+In 2013, a study revealed that 1 in 2,000 people in the United Kingdom might harbour the infectious prion protein that causes vCJD.
+The protein that prions are made of (PrP) is found throughout the body, even in healthy people and animals.
+Some mutations involve expansion of the octapeptide repeat region at the N-terminal of PrP.
+These fungal prion domains have several characteristic sequence features.
+This disruption is characterized by "holes" in the tissue with resultant spongy architecture due to the vacuole formation in the neurons.
+The World Health Organization recommends any of the following three procedures for the sterilization of all heat-resistant surgical instruments to ensure that they are not contaminated with prions:
+A gene for the normal protein has been identified: the ''PRNP'' gene.
+An alternative model assumes that PrPSc exists only as fibrils, and that fibril ends bind PrPC and convert it into PrPSc.
+The pathogenicity of prions and proteins with prion-like domains arises from their self-templating ability and the resulting exponential growth of amyloid fibrils.
+Regulates heterokaryon incompatibility
+Increased levels of nonsense suppression
+rapidly converted PrP.C into a PrPres by a procedure involving cyclic amplification of protein misfolding.
+Despite much effort, significant titers of prion infectivity have never been produced by refolding pure PrP molecules, raising doubt about the validity of the "protein only" hypothesis.
+, there are eight known prion proteins in fungi, seven in ''Saccharomyces cerevisiae'' (Sup35, Rnq1, Ure2, Swi1, Mot3, Cyc8, and Mod5) and one in ''Podospora anserina'' (HET-s).
+The revised hypothesis was later formulated, in part, to accommodate reverse transcription (which both Howard Temin and David Baltimore discovered in 1970).
+Prion structure varies slightly between species, but nonetheless prion replication is subject to occasional epimutation and natural selection just like other forms of replication.
+The characteristic prion domains may vary between species—e.g., characteristic fungal prion domains are not found in mammalian prions.
+The incubation period of prion diseases is determined by the exponential growth rate associated with prion replication, which is a balance between the linear growth and the breakage of aggregates.
+The pathological implications of PrPC-metal interaction include metal-induced oxidative damage, and in some instances conversion of PrPC to a PrPSc-like form.
+Prions cause neurodegenerative disease by aggregating extracellularly within the central nervous system to form plaques known as amyloid, which disrupt the normal tissue structure.
+It was reported in January 2011 that researchers had discovered prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice.
+Meanwhile, several of these RNA-binding proteins have been independently identified as pathogenic in cases of ALS, FTLD-U, Alzheimer's disease, and Huntington's disease.
+It is unclear as to whether these aggregates are the cause of cell damage or are simply a side-effect of the underlying disease process.
+In 1982, Stanley B. Prusiner of the University of California, San Francisco announced that his team had purified the hypothetical infectious prion, and that the infectious agent consisted mainly of a specific protein&nbsp;– though they did not manage to isolate the protein until two years after Prusiner's announcement.
+PrP can be induced to fold into other more-or-less well-defined isoforms in vitro, and their relationship to the form(s) that are pathogenic in vivo is not yet clear.
+The human prion disease variant Creutzfeldt–Jakob disease, however, is believed to be caused by a prion that typically infects cattle, causing Bovine spongiform encephalopathy and is transmitted through infected meat.
+In this way, the prion acts as a template to guide the misfolding of more proteins into prion form.
+However, some viruses, such as Poliovirus, have the ability to replicate in cell-free reactions.
+They may then linger in the soil by binding to clay and other minerals.
+coli'', casting further doubt on the viral hypothesis.
+*PrPSc experimentally transmitted between one species and another results in PrPSc with the amino-acid sequence of the recipient species, suggesting that nucleic acid-mediated replication of the donor agent does not occur.
+Prions were initially identified as the causative agent in animal TSEs such as bovine spongiform encephalopathy (BSE)—known popularly as "mad cow disease"—and scrapie in sheep.
+What is more, despite considerable effort, infectious monomeric PrPSc has never been isolated.
+After amplifying and then concentrating any PrPSc, the samples are labelled with a fluorescent dye using an antibody for specificity and then finally loaded into a micro-capillary tube.
+The presence of amyloid fibrils in patients with degenerative diseases has been well documented.
+The normal form of the protein is called '''PrPC''', while the infectious form is called '''PrPSc'''&nbsp;— the ''C'' refers to 'cellular' PrP, while the ''Sc'' refers to 'scrapie', the prototypic prion disease, occurring in sheep.
+* The long incubation and rapid onset of symptoms resembles lentiviruses, such as HIV-induced AIDS
+Similarly, removing the prion domain from a fungal prion protein inhibits prionogenesis.
+Other views suggest gain of toxic function by PrPSc due to sequestration of PrPC-associated metals within the aggregates, resulting in the generation of redox-active PrPSc complexes.
+This has been shown by attaching the prion domain to a reporter protein, which then aggregates like a known prion.
+The exponential growth rate depends largely on the square root of the PrPC concentration.
+Specifically, aggregation of TDP-43, an RNA-binding protein, has been found in ALS/MND patients, and mutations in the genes coding for these proteins have been identified in familial cases of ALS/MND.
+This finding is in contrast to studies that found minimally infectious prions produced from recombinant PrP alone.
+experiments could be explained by contamination, as infectious material from scrapie infected mice was used to seed the reaction.
+PrPC is a normal protein found on the membranes of cells.
+Several yeast proteins have been identified as having prionogenic properties as well.
+This model assumed that a single PrPSc molecule binds to a single PrPC molecule and catalyzes its conversion into PrPSc.
+This domain is inherently prone to misfolding, while pathological mutations in TDP-43 have been found to increase this propensity to misfold, explaining the presence of these mutations in familial cases of ALS/MND.
+The precise structure of the prion is not known, though they can be formed by combining PrPC, polyadenylic acid, and lipids in a Protein Misfolding Cyclic Amplification (PMCA) reaction.
+In 2010, a team from New York described detection of PrPSc even when initially present at only one part in a hundred billion (10−11) in brain tissue.
+Some of these proteins have been implicated in the ontogeny of age-related neurodegenerative disorders such as amyotrophic lateral sclerosis (ALS, known as Motor Neurone Disease outside the US),  frontotemporal lobar degeneration with ubiquitin-positive inclusions (FTLD-U), Alzheimer's disease, and Huntington's disease, as well as some forms of Systemic Amyloidosis including AA (Secondary) Amyloidosis that develops in humans and animals with inflammatory and infectious diseases such as Tuberculosis, Crohn's disease, Rheumatoid arthritis, and HIV AIDS.
+The definition of a prion-like domain arises from the study of fungal prions.
+In 2015, researchers at The University of Texas Health Science Center at Houston found that plants can be a vector for prions.

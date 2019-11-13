@@ -1,0 +1,200 @@
+The reaction of pyridine with α-bromoesters give the related pyridinium salt, wherein the methylene group is highly acidic.
+In contrast to benzene, pyridine efficiently supports several nucleophilic substitutions, and is regarded as a good nucleophile (donor number 33.1).
+Many analogues of pyridine are known where N is replaced by other heteroatoms (see figure below).
+These reactions include substitutions with elimination of a hydride ion and elimination-additions with formation of an intermediate aryne configuration, and usually proceed at the 2- or 4-position.
+The pyridine ligand replaced during the reaction is restored after its completion.
+Substitutions to pyridine at the 2- or 4-position result in an energetically unfavorable σ complex.
+Wilhelm Körner (1869) and James Dewar (1871) suggested that, in analogy between quinoline and naphthalene, the structure of pyridine is derived from benzene by substituting one C–H unit with a nitrogen atom.
+These bond lengths lie between the values for the single and double bonds and are typical of aromatic compounds.
+The nucleophilic attack compounds may be alkoxides, thiolates, amines, and ammonia (at elevated pressures).
+It, therefore, enters less readily electrophilic aromatic substitution reactions, which are characteristic of benzene derivatives.
+Pyridine is an important raw material in the chemical industry, with the 1989 production of 26,000 tonnes worldwide.
+However, pyridine-3-sulfonic acid can be obtained at acceptable yield by boiling pyridine in an excess of sulfuric acid at 320&nbsp;°C.
+First, acrolein is formed in a Knoevenagel condensation from the acetaldehyde and formaldehyde.
+The larger chemical shifts of the α- and γ-protons in comparison to benzene result from the lower electron density in the α- and γ-positions, which can be derived from the resonance structures.
+They include B vitamins niacin and pyridoxal, the anti-tuberculosis drug isoniazid, nicotine and other nitrogen-containing plant products.
+Pyridine is protonated by reaction with acids and forms a positively charged aromatic polyatomic ion called pyridinium.
+File:2,2'-Bipyridine.svg|2,2′-bipyridine
+The Zincke reaction is used for the selective introduction of radicals in pyridinium compounds (it has no relation to the chemical element zinc).
+Two years later, Anderson isolated pure pyridine through fractional distillation of the oil.
+The smoke of tobacco and cannabis also contain small amounts of pyridine.
+In 1876, William Ramsay combined acetylene and hydrogen cyanide into pyridine in a red-hot iron-tube furnace.
+In 1849, Anderson examined the contents of the oil obtained through high-temperature heating of animal bones.
+The nitrogen is involved in the π-bonding aromatic system using its unhybridized p orbital.
+The catalyst is usually a transition metal salt such as cadmium(II) fluoride or manganese(II) fluoride, but cobalt and thallium compounds can also be used.
+Pyridine production has significantly increased in the early 2000s, with an annual production capacity of 30,000 tonnes in mainland China alone.
+On the other hand, free-radical and nucleophilic substitutions occur more readily in pyridine than in benzene.
+Such adsorption to surfaces reduces bioavailability of pyridines for microbial degraders and other organisms, thus slowing degradation rates and reducing ecotoxicity.
+It is used in the ''in vitro'' synthesis of DNA, in the synthesis of sulfapyridine (a drug against bacterial and viral infections), antihistaminic drugs tripelennamine and mepyramine, as well as water repellents, bactericides, and herbicides.
+This low yield, together with the high prevalence of byproducts, render unmodified forms of Chichibabin's method unpopular.
+Because of the electronegative nitrogen in the pyridine ring, the molecule is relatively electron deficient.
+Useful adducts of pyridine include pyridine-borane, C5H5NBH3 (melting point 10–11&nbsp;°C), a mild reducing agent with improved stability relative to NaBH4 in protic solvents and improved solubility in aprotic organic solvents.
+In contrast to the nitration and sulfonation, the direct bromination and chlorination of pyridine proceed well.
+One person died after accidental ingestion of half a cup of pyridine.
+The Kröhnke pyridine synthesis provides a fairly general method for generating substituted pyridines using pyridine itself as a reagent which does not become incorporated into the final product.
+The Collins and Sarret reagents are both difficult and dangerous to prepare, they are hygroscopic and can inflame during preparation.
+Direct sulfonation of pyridine is even more difficult than direct nitration.
+Pyridine is conventionally detected by the gas chromatography and mass spectrometry methods.
+The suggestion by Körner and Dewar was later confirmed in an experiment where pyridine was reduced to piperidine with sodium in ethanol.
+So fluorine is the best leaving group for the substitution with organolithium compounds.
+The reaction with alkyl halides leads to alkylation of the nitrogen atom.
+The infrared spectra of pyridine complexes have been discussed in detail.
+Another method is the Boger pyridine synthesis.
+The permitted maximum allowable concentration of pyridine was 15–30 parts per million (ppm, or 15–30&nbsp;mg·m−3 in air) in most countries in the 1990s, but was reduced to 5&nbsp;ppm in the 2000s.
+Most chemical properties of pyridine are typical of a heteroaromatic compound.
+Pyridine is miscible with water and virtually all organic solvents.
+The major products of pyridine metabolism are ''N''-methylpyridiniumhydroxide, which are formed by ''N''-methyltransferases (e.g., pyridine ''N''-methyltransferase), as well as pyridine ''N''-oxide, and 2-, 3-, and 4-hydroxypyridine, which are generated by the action of monooxygenase.
+In contrast to benzene, the electron density is not evenly distributed over the ring, reflecting the negative inductive effect of the nitrogen atom.
+Minor amounts of pyridine are released into environment from some industrial processes such as steel manufacture, processing of oil shale, coal gasification, coking plants and incinerators.
+When using acetonitrile as the nitrile, 2-methylpyridine is obtained, which can be dealkylated to pyridine.
+Pyridine is also used as a base in condensation reactions.
+The enthalpy of vaporization is 35.09&nbsp;kJ·mol−1 at the boiling point and normal pressure.
+Pyridine is easily attacked by alkylating agents to give ''N''-alkylpyridinium salts.
+The enthalpy of fusion is 8.28&nbsp;kJ·mol−1 at the melting point.
+Owing to the decreased electron density in the aromatic system, electrophilic substitutions are suppressed in pyridine and its derivatives in favor of addition of nucleophiles at the electron-rich nitrogen atom.
+In low doses, pyridine is added to foods to give them a bitter flavor, and such usage is approved by the US Food and Drug Administration.
+The hydride ion released in this reaction combines with a proton of an available amino group, forming a hydrogen molecule.
+In general, the hydride ion is a poor leaving group and occurs only in a few heterocyclic reactions.
+The reaction with many Lewis acids results in the addition to the nitrogen atom of pyridine, which is similar to the reactivity of tertiary amines.
+It is structurally related to benzene, with one methine group (=CH−) replaced by a nitrogen atom.
+The detection threshold for pyridine in solutions is about 1–3&nbsp;mmol·L−1 (79–237&nbsp;mg·L−1).
+For example, it forms a 1:1 complexes with nickel(II), Ni2+, and copper(II), Cu2+, with log&nbsp;''K''1 values of around 1.9 and 2.6, respectively.
+Pyridine is added to ethanol to make it unsuitable for drinking.
+Available data indicate that "exposure to pyridine in drinking-water led to reduction of sperm motility at all dose levels in mice and increased estrous cycle length at the highest dose level in rats".
+In esterifications and acylations, pyridine activates the carboxylic acid halides or anhydrides.
+The ''η''6 coordination mode, as occurs in ''η''6 benzene complexes, is observed only in sterically encumbered derivatives that block the nitrogen center.
+One of the name reactions involving free radicals is the Minisci reaction.
+Traces of pyridine can be found in Beaufort cheese, vaginal secretions, black tea, saliva of those suffering from gingivitis, and sunflower honey.
+In this way, 3-nitropyridine can be obtained via the synthesis of 2,6-dibromopyridine followed by removal of the bromine atoms.
+However, because of the separation of the lone pair from the aromatic system of the ring affects, the nitrogen atom cannot exhibit a positive mesomeric effect.
+The chemical structure of pyridine was determined decades after its discovery.
+Among the largest 25 production sites for pyridine, eleven are located in Europe (as of 1999).
+On the contrary, the bacteria ''Mycobacterium tuberculosis'' and ''Escherichia coli'' produce nicotinic acid by condensation of glyceraldehyde 3-phosphate and aspartic acid.
+They include the Chichibabin reaction, which yields pyridine derivatives aminated at the 2-position.
+Picolinic acid, which is a substituted derivative of pyridine, forms strong complexes due to the chelate effect; 2,2′-bipyridine and 1,10-phenanthroline, which can also be viewed as substituted derivatives of pyridine, also form strong complexes, such as in ferroin, which can be used as an redox indicator in the quantitative analysis of iron.
+Triphenylphosphine is a frequently used reagent, which is oxidized in this reaction to triphenylphosphine oxide.
+The nitrogen center of pyridine features a basic lone pair of electrons.
+As a base, pyridine can be used as the Karl Fischer reagent, but it is usually replaced by alternatives with a more pleasant odor, such as imidazole.
+The 3-nitropyridine can be obtained instead by reacting pyridine with dinitrogen pentoxide in presence of sodium.
+In particular, unsubstituted pyridine is produced from formaldehyde and acetaldehyde, which are inexpensive and widely available.
+The '''Ciamician–Dennstedt rearrangement''' entails the ring-expansion of pyrrole with dichlorocarbene to 3-chloropyridine.
+Mammals synthesize nicotinic acid through oxidation of the amino acid tryptophan, where an intermediate product, aniline, creates a pyridine derivative, kynurenine.
+All the ring atoms in the pyridine molecule are sp2-hybridized.
+The first major synthesis of pyridine derivatives was described in 1881 by Arthur Rudolf Hantzsch.
+The systematic name for the pyridine derivatives is ''pyridinyl'', wherein the position of the substituted atom is preceded by a number.
+The oral LD50 in rats is 891&nbsp;mg·kg−1.
+Pyridine is diamagnetic and has a diamagnetic susceptibility of −48.7&nbsp;×&nbsp;10−6&nbsp;cm3·mol−1.
+This method is still used for the industrial production of pyridine.
+Here α (''ortho''), β (''meta''), and γ (''para'') refer to the 2, 3, and 4 position, respectively.
+While the thermal activation requires high pressures and temperatures, the photoinduced cycloaddition proceeds at ambient conditions with CoCp2(cod) (Cp = cyclopentadienyl, cod = 1,5-cyclooctadiene) as a catalyst, and can be performed even in water.
+'''Pyridine''' is a basic heterocyclic organic compound with the chemical formula C5H5N.
+The main use of pyridine is as a precursor to the herbicides paraquat and diquat.
+Owing to its flammability, Anderson named the new substance ''pyridine'', after  (pyr) meaning ''fire''.
+Pyridine is harmful if inhaled, swallowed or absorbed through the skin.
+It is also used in the textile industry to improve network capacity of cotton.
+Pyridine-sulfur trioxide, C5H5NSO3 (melting point 175&nbsp;°C) is a sulfonation agent used to convert alcohols to sulfonates, which in turn undergo C–O bond scission upon reduction with hydride agents.
+Pyridine itself is a relatively weak ligand in forming complexes with transition metal ions.
+Analogous to benzene, nucleophilic substitutions to pyridine can result in the formation of pyridyne intermediates as heteroaryne.
+It is weakly basic, and with hydrochloric acid it forms a crystalline hydrochloride salt that melts at 145–147&nbsp;°C.
+This species undergoes a Michael-like addition to α,β-unsaturated carbonyls in the presence of ammonium acetate to undergo ring closure and formation of the targeted substituted pyridine as well as pyridinium bromide.
+However, systematic names for simple compounds are used very rarely; instead, heterocyclic nomenclature follows historically established common names.
+Evaluations as a possible carcinogenic agent showed that there is inadequate evidence in humans for the carcinogenicity of pyridine, although there is limited evidence of carcinogenic effects on animals.
+Many reactions that are characteristic of benzene proceed with pyridine either at more complicated conditions or with low yield or both.
+An allocation of positions by letter of the Greek alphabet (α-γ) and the substitution pattern nomenclature common for homoaromatic systems (''ortho'', ''meta'', ''para'') are used sometimes.
+For comparison, indoor air contaminated with tobacco smoke may contain up to 16&nbsp;µg·m−3 of pyridine, and one cigarette contains 21–32&nbsp;µg.
+Selective synthesis of 1,4-dihydropyridine is achieved in the presence of organometallic complexes of magnesium and zinc, and (Δ3,4)-tetrahydropyridine is obtained by electrochemical reduction of pyridine.
+The first synthesis step of insecticide chlorpyrifos consists of the chlorination of pyridine.
+For this reason, the use of PCC and PDC was preferred.
+The p''K''a of the conjugate acid (the pyridinium cation) is 5.25.
+Pyridine has a flash point (the lowest temperature at which it can vaporize to form an ignitable mixture in air) of only 17&nbsp;°C and is, therefore, highly flammable.
+The nucleophilic addition at the nitrogen atom leads to a further deactivation of the aromatic properties and hindering of the electrophilic substitution.
+Impure pyridine was undoubtedly prepared by early alchemists by heating animal bones and other organic matter, but the earliest documented reference is attributed to the Scottish scientist Thomas Anderson.
+Emil Knoevenagel showed that asymmetrically-substituted pyridine derivatives can be produced with this process.
+One example is cetylpyridinium chloride.
+The 1H nuclear magnetic resonance (NMR) spectrum of pyridine contains three signals with the integral intensity ratio of 2:1:2 that correspond to the three chemically different protons in the molecule.
+Pyridine was discovered in 1849 by the Scottish chemist Thomas Anderson as one of the constituents of bone oil.
+For comparison, crystalline benzene is also orthorhombic, with space group ''Pbca'', ''a''&nbsp;=&nbsp;729.2&nbsp;pm, ''b''&nbsp;=&nbsp;947.1&nbsp;pm, ''c''&nbsp;=&nbsp;674.2&nbsp;pm (at 78&nbsp;K), but the number of molecules per cell is only 4.
+The pyridine ring occurs in many important compounds, including azines and the vitamins niacin and pyridoxine.
+The contemporary methods of pyridine production had a low yield, and the increasing demand for the new compound urged to search for more efficient routes.
+A series of pyridine derivatives can be produced in this way.
+The atmosphere at oil shale processing plants can contain pyridine concentrations of up to 13&nbsp;µg·m−3, and 53&nbsp;µg·m−3 levels were measured in the groundwater in the vicinity of a coal gasification plant.
+For this purpose, pyridine derivatives can be eliminated with good leaving groups using strong bases such as sodium and potassium tert-butoxide.
+The product consists of a mixture of pyridine, simple methylated pyridines (picoline), and lutidine; its composition depends on the catalyst used and can be adapted to the needs of the manufacturer.
+The lowest known lethal dose (LDLo) for the ingestion of pyridine in humans is 500&nbsp;mg·kg−1.
+This creates a positive charge in the ring that increases the reactivity of pyridine to both oxidation and reduction.
+in fried chicken, sukiyaki, roasted coffee, potato chips, and fried bacon.
+A breakthrough came in 1924 when the Russian chemist Aleksei Chichibabin invented a pyridine synthesis reaction, which was based on inexpensive reagents.
+Addition of up to 40&nbsp;mol% of water to pyridine gradually lowers its melting point from −41.6&nbsp;°C to −65.0&nbsp;°C.
+Its ignition temperature is 550&nbsp;°C, and mixtures of 1.7–10.6&nbsp;vol% of pyridine with air are explosive.
+The pyridinium cation is isoelectronic with benzene.
+The Hantzsch pyridine synthesis typically uses a 2:1:1 mixture of a β-keto acid (often acetoacetate), an aldehyde (often formaldehyde), and ammonia or its salt as the nitrogen donor.
+In humans, pyridine is metabolized only into ''N''-methylpyridiniumhydroxide.
+File:PyridiniumVerbindungen.svg|General form of the pyridinium cation
+Among other substances, he separated from the oil a colorless liquid with unpleasant odor, from which he isolated pure pyridine two years later.
+This was the first synthesis of a heteroaromatic compound.
+Effects of acute pyridine intoxication include dizziness, headache, lack of coordination, nausea, salivation, and loss of appetite.
+In its general form, the reaction can be described as a condensation reaction of aldehydes, ketones, α,β-unsaturated carbonyl compounds, or any combination of the above, in ammonia or ammonia derivatives.
+The thermal modification of pyridine starts above 490&nbsp;°C, resulting in bipyridine (mainly 2,2′-bipyridine and to a lesser extent 2,3′-bipyridine and 2,4′-bipyridine), nitrogen oxides, and carbon monoxide.
+Partially hydrogenated derivatives are obtained under milder conditions.
+Ionizable ''N''-heterocyclic compounds, including pyridine, interact with environmental surfaces (such as soils and sediments) via multiple pH-dependent mechanisms, including partitioning to soil organic matter, cation exchange, and surface complexation.
+Pyridine might also have minor neurotoxic, genotoxic, and clastogenic effects.
+It is then condensed with acetaldehyde and ammonia into dihydropyridine, and then oxidized with a solid-state catalyst to pyridine.
+The standard enthalpy of formation is 100.2&nbsp;kJ·mol−1 in the liquid phase and 140.4&nbsp;kJ·mol−1 in the gas phase.
+File:4-Bromopyridine.svg|4-bromopyridine
+Common alkylations and acylations, such as Friedel–Crafts alkylation or acylation, usually fail for pyridine because they lead only to the addition at the nitrogen atom.
+Pyridine crystallizes in an orthorhombic crystal system with space group ''Pna21'' and lattice parameters ''a''&nbsp;=&nbsp;1752&nbsp;pm, ''b''&nbsp;=&nbsp;897&nbsp;pm, ''c''&nbsp;=&nbsp;1135&nbsp;pm, and 16 formula units per unit cell (measured at 153&nbsp;K).
+The systematic name of pyridine, within the Hantzsch–Widman nomenclature recommended by the IUPAC, is ''azine''.
+However, unlike benzene and its derivatives, pyridine is more prone to nucleophilic substitution and metalation of the ring by strong organometallic bases.
+The following paragraphs describe representative electrophilic substitution reactions of pyridine.
+It is a colorless, highly flammable, weakly alkaline, water-soluble liquid with a distinctive, unpleasant fish-like smell.
+The major producers of pyridine include Evonik Industries, Rütgers Chemicals, Imperial Chemical Industries, and Koei Chemical.
+Exposure to pyridine would normally lead to its inhalation and absorption in the lungs and gastrointestinal tract, where it either remains unchanged or is metabolized.
+Pyridine can be prepared by dealkylation of alkylated pyridines, which are obtained as byproducts in the syntheses of other pyridines.
+Many electrophilic substitutions on pyridine either do not proceed or proceed only partially; however, the heteroaromatic character can be activated by electron-donating functionalization.
+The Chichibabin pyridine synthesis was reported in 1924 and is still in use in industry.
+Reaction with the SO3 group also facilitates addition of sulfur to the nitrogen atom, especially in the presence of a mercury(II) sulfate catalyst.
+The reactivity of pyridine can be distinguished for three chemical groups.
+Pyridine has a conjugated system of six π electrons that are delocalized over the ring.
+Yields of pyridine up to be 93% can be achieved with the nickel-based catalyst.
+In daily life, trace amounts of pyridine are components of the volatile organic compounds that are produced in roasting and canning processes, e.g.
+Pyridine is added to ethanol to make it unsuitable for drinking (see denatured alcohol).
+IUPAC discourages the use of ''azine'' in favor of ''pyridine''.
+In organic reactions, pyridine behaves both as a tertiary amine, undergoing protonation, alkylation, acylation, and ''N''-oxidation at the nitrogen atom, and as an aromatic compound, undergoing nucleophilic substitutions.
+The yield is lower for 3-chloropyridine upon chlorination with molecular chlorine in the presence of aluminium chloride at 100&nbsp;°C.
+The lone pair is in an sp2 orbital, projecting outward from the ring in the same plane as the σ bonds.
+Historically, pyridine was produced from coal tar and as a byproduct of coal gasification.
+Many nucleophilic substitutions occur more easily not with bare pyridine but with pyridine modified with bromine, chlorine, fluorine, or sulfonic acid fragments that then become a leaving group.
+Piperidines are produced by hydrogenation of pyridine with a nickel-, cobalt-, or ruthenium-based catalyst at elevated temperatures.
+Practical application of the traditional Chichibabin pyridine synthesis are limited by its consistently low yield, typically about 20%.
+The US–Chinese joint venture Vertellus is currently the world leader in pyridine production.
+It can produce 2-''tert''-butylpyridine upon reacting pyridine with pivalic acid, silver nitrate and ammonium in sulfuric acid with a yield of 97%.
+When a pyridine ligand is part of a metal complex, it can be easily replaced by a stronger Lewis base.
+Several pyridine derivatives play important roles in biological systems.
+It is especially suitable for the dehalogenation, where it acts as the base of the elimination reaction and bonds the resulting hydrogen halide to form a pyridinium salt.
+The suffix ''idine'' was added in compliance with the chemical nomenclature, as in ''toluidine'', to indicate a carbon cycle containing a nitrogen atom.
+This property is exploited in catalysis of polymerization and hydrogenation reactions, using, for example, Crabtree's catalyst.
+Pyridinium ''p''-toluenesulfonate (PPTS) is an illustrative pyridinium salt; it is produced by treating pyridine with ''p''-toluenesulfonic acid.
+The oxygen atom can then be removed via several routes, most commonly with compounds of trivalent phosphorus or divalent sulfur, which are easily oxidized.
+The numbering of the ring atoms in pyridine starts at the nitrogen (see infobox).
+All shifts are quoted for the solvent-free substances.
+The electron localization in pyridine is also reflected in the shorter C–N ring bond (137&nbsp;pm for the C–N bond in pyridine vs. 139&nbsp;pm for C–C bond in benzene), whereas the carbon–carbon bonds in the pyridine ring have the same 139&nbsp;pm length as in benzene.
+In the temperature range 340–426&nbsp;°C its vapor pressure ''p'' can be described with the Antoine equation
+Direct nitration of pyridine requires harsh conditions and has very low yields.
+Because this lone pair is not part of the aromatic ring, pyridine is a base, having chemical properties similar to those of tertiary amines.
+Substitutions usually occur at the 3-position, which is the most electron-rich carbon atom in the ring and is, therefore, more susceptible to an electrophilic addition.
+At 25&nbsp;°C pyridine has a viscosity of 0.88&nbsp;mPa/s and thermal conductivity of 0.166&nbsp;W·m−1·K−1.
+The cationic derivative formed by the addition of an electrophile to the nitrogen atom is called ''pyridinium''.
+Pyridine is used as a polar, basic, low-reactive solvent, for example in Knoevenagel condensations.
+The carbon analog of pyridine, benzene, has only one proton signal at 7.27&nbsp;ppm.
+The situation is rather similar for the 13C&nbsp;NMR spectra of pyridine and benzene: pyridine shows a triplet at ''δ''(α-C)&nbsp;=&nbsp;150&nbsp;ppm, δ(β-C)&nbsp;=&nbsp;124&nbsp;ppm and δ(γ-C)&nbsp;=&nbsp;136&nbsp;ppm, whereas benzene has a single line at 129&nbsp;ppm.
+The molecular electric dipole moment is 2.2 debyes.
+For example, reduction with lithium aluminium hydride yields a mixture of 1,4-dihydropyridine, 1,2-dihydropyridine, and 2,5-dihydropyridine.
+The trimerization of a part of a nitrile molecule and two parts of acetylene into pyridine is called '''Bönnemann cyclization'''.
+Some chemical compounds, although not synthesized from pyridine, contain its ring structure.
+Cetylpyridinium and laurylpyridinium, which can be produced from pyridine with a Zincke reaction, are used as antiseptic in oral and dental care products.
+Its density, 0.9819&nbsp;g/cm3, is close to that of water, and its refractive index is 1.5093 at a wavelength of 589&nbsp;nm and a temperature of 20&nbsp;°C.
+Pyridine is flammable.
+Pyridine is a colorless liquid that boils at 115.2&nbsp;°C and freezes at −41.6&nbsp;°C.
+The molecule is planar and, thus, follows the Hückel criteria for aromatic systems.
+In high doses, pyridine has a narcotic effect and its vapor concentrations of above 3600&nbsp;ppm pose a health risk.
+Pyridine derivatives wherein the nitrogen atom is screened sterically and/or electronically can be obtained by nitration with nitronium tetrafluoroborate (NO2BF4).

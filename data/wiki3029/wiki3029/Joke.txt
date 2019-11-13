@@ -1,0 +1,200 @@
+A 2007 survey of existing tools to measure humour identified more than 60 psychological measurement instruments.
+A new psychological assessment tool, the Values in Action Inventory developed by the American psychologists Peterson and Seligman includes humour (and playfulness) as one of the core character strengths of an individual.
+This varies to reflect the complexities of a matrix of different social factors: age, sex, race, ethnicity, kinship, political views, religion, power relationship, etc.
+"Previous folklore research has been limited to collecting and documenting successful jokes, and only after they had emerged and come to folklorists' attention.
+But they have since been identified in cultures around the world, where jokes and joking are used to mark and re-inforce appropriate boundaries of a relationship.
+Their goal is to empirically test both the six autonomous classification types (KRs) and the hierarchical ordering of these KRs.
+A joke poorly told is still funny unless the punchline gets mangled.
+Identified as one of the "simple forms" of oral literature by Andre Jolles in 1930, they have been collected and studied since there were folklorists and anthropologists abroad in the lands.
+This theory established the semantic/pragmatic foundation of humour as well as the humour competence of speakers.
+Or the laugh can be measured to calculate the funniness response of an individual; multiple types of laughter have been identified.
+''The New Yorker'' was first published in 1925 with the stated goal of being a "sophisticated humour magazine" and is still known for its cartoons.
+Together these six KRs could now function as a multi-dimensional descriptive label for any piece of humorous text.
+The vocabulary used in telling the same joke at a frat party and to your grandmother might well vary.
+It is not required to be verbatim text like other forms of oral literature such as riddles and proverbs.
+the analysis of real (usually recorded) conversations.
+Along with reports of events, executions, ballads and verse they also contained jokes.
+As folktales and other types of oral literature became collectibles throughout Europe in the 19th century (Brothers Grimm et al.
+It also enables researchers to group and analyze the creation, persistence and interpretation of joke cycles around a certain character.
+These six KRs of the joke structure include:
+However, because no two tools use the same jokes, and across languages this would not be feasible, how does one determine that the assessment objects are comparable?
+The context, however, should not be confused with the function of the joking.
+Looking further, all "oldest" jokes identified have 2 things in common: firstly, they were all written down, and secondly, their structure is remarkably similar to modern day jokes.
+The context of the joke telling in turn leads into a study of joking relationships, a term coined by anthropologists to refer to social groups within a culture who engage in institutionalized banter and joking.
+These relationships can be either one-way or a mutual back and forth between partners.
+The Aarne–Thompson classification system was first published in 1910 by Antti Aarne, and later expanded by Stith Thompson to become the most renowned classification system for European folktales and other types of oral literature.
+It must be stressed here that both smiles and laughter are not always a response to something funny.
+Joke cycles can center on ethnic groups, professions (viola jokes), catastrophes, settings (…walks into a bar), absurd characters (wind-up dolls) or logical mechanisms which generate the humour (Knock-knock jokes).
+The folklorist Robert Georges has summed up the concerns with these existing classification systems : "…Yet what the multiplicity and variety of sets and subsets reveal is that folklore jokes not only takes many forms, but that it is also multifaceted, with purpose, use, structure, content, style, and function all being relevant and important.
+A second problem with these systems is that the listed motifs are not qualitatively equal; actors, items and incidents are all considered side-by-side.
+Jokes have been defined above as oral narrative in which words and sentences are engineered to build toward a punchline.
+See also other joke cycles listed in Wikipedia for a more extensive listing.
+A primary ambition of this field is to develop computer programs which can both generate a joke and recognize a text snippet as a joke.
+Outside of these restrictions, the KRs can create a multitude of combinations, enabling a researcher to select jokes for analysis which contain only one or two defined KRs.
+Sigmund Freud was one of the first modern scholars to recognize jokes as an important object of investigation.
+Dead baby jokes are posited to reflect societal changes and guilt caused by widespread use of contraception and abortion beginning in the 1960s.
+It is only "the most complex linguistic structures which can serve any formal and/or computational treatment of humor well" Toy systems (i.e.
+This article concerns itself only with verbal jokes, leaving performance comedy aside.
+legitimizing the field of humour research as "Humorology"; this would be a field of study incorporating an interdisciplinary character of humour studies.
+All of these are humorous, but none of them is a verbal joke.
+As insentient machines, computers lack the encyclopedic scripts which humans gain through life experience.
+The teller can and does modify the text of the joke, depending both on memory and the present audience.
+Any joke documented from the past has been saved through happenstance rather than design.
+The ''Philogelos'' even contains a joke similar to Monty Python's "Dead Parrot Sketch".
+"The linguistics of humor has made gigantic strides forward in the last decade and a half and replaced the psychology of humor as the most advanced theoretical approach to the study of this important and universal human faculty."
+Among pre-adolescents, "dirty" jokes allow them to share information about their changing bodies.
+Also, humour which is generated through performance can be funny but is not considered a joke.
+Why do people find something funny?
+Some people try to find a deeper meaning in jokes, for example "Plato and a Platypus Walk into a Bar... Understanding Philosophy Through Jokes."
+Internet joking has indeed become a major method of transmission.
+Since the publication of Freud’s study, psychologists have continued to explore humour and jokes in their quest to explain, predict and control an individual’s "sense of humour".
+There is also a jest book ascribed to William Shakespeare, the contents of which appear to both inform and borrow from his plays.
+These measurement tools use many different approaches to quantify humour along with its related states and traits.
+In a review of Davies’ theories it is said that "For Davies, ethnic jokes are more about how joke tellers imagine themselves than about how they imagine those others who serve as their putative targets…The jokes thus serve to center one in the world – to remind people of their place and to reassure them that they are in it."
+Earlier during the 15th century
+Despite the fact that the field of computational humour is small and underdeveloped, it is encouraging to note the many interdisciplinary efforts which are currently underway.
+In an article on contemporary German jokes about Auschwitz and the Holocaust, Dundes justifies this research:  "Whether one finds Auschwitz jokes funny or not is not an issue.
+This labeling serves to develop and solidify stereotypes within the culture.
+Based on our understanding of the SSTH / GTVH humour theories, it is easy to see why.
+These cheap publications, ephemera intended for mass distribution, were read alone, read aloud, posted and discarded.
+Jokes are always an important barometer of the attitudes of a group.
+Linguistics, on the other hand, endeavors to provide a precise description of what makes a text funny.
+It also publishes Humor: International Journal of Humor Research and holds yearly conferences to promote and inform its specialty
+He has collaborated with the linguists Raskin and Attardo on their General Theory of Verbal Humour (GTVH) classification system.
+What is so funny about absurd nonsense elephant jokes?
+What makes them laugh, what do they find funny?
+A study by the folklorist Bill Ellis documented how an evolving cycle was circulated over the internet.
+Jokes concerning politics, religion or sexual topics can be used effectively to gage the attitude of the audience to any one of these topics.
+The ''Philogelos'' (''The Laughter Lover'') is (hand-)written in Greek and contains a collection of 265 jokes by Hierocles and Philagrius.
+Both the performer and audience understand it to be set apart from the "real" world.
+They also lack the ability to gather the experiences needed to build wide-ranging semantic scripts and understand language in a broader context, a context that any child picks up in daily interaction with his environment.
+Access to archived message boards also enables us to track the development of a single joke thread in the context of a more complicated virtual conversation.
+The International Society for Humor Studies was founded in 1989 with the stated purpose to "promote, stimulate and encourage the interdisciplinary study of humour; to support and cooperate with local, national, and international organizations having similar purposes; to organize and arrange meetings; and to issue and encourage publications concerning the purpose of the society."
+Joking relationships were first described by anthropologists within kinship groups in Africa.
+A stimulating generation of new humour theories flourishes like mushrooms in the undergrowth: Elliott Oring’s theoretical discussions on "appropriate ambiguity" and Amy Carrell’s hypothesis of an "audience-based theory of verbal humor (1993)" to name just a few.
+Humour is evoked when a trigger, contained in the punchline, causes the audience to abruptly shift its understanding of the story from the primary (or more obvious) interpretation to a secondary, opposing interpretation.
+For example, a lightbulb joke (SI) will always be in the form of a riddle (NS).
+Fortunately there are enough jokes, good, bad and worse, to go around.
+A more granular classification system used widely by folklorists and cultural anthropologists is the Thompson Motif Index, which separates tales into their individual story elements.
+A first major problem is their hierarchical organization; one element of the narrative is selected as the major element, while all other parts are arrayed subordinate to this.
+This material exists and should be recorded.
+As development of the GTVH progressed, a hierarchy of the KRs was established to partially restrict the options for lower level KRs depending on the KRs defined above them.
+Jokes are a form of humour, but not all humour is a joke.
+The framing itself invokes a play mode; if the audience is unable or unwilling to move into play, then nothing will seem funny.
+This study adds credence to the common experience when exposed to an off-color joke; a laugh is followed in the next breath by a disclaimer: "Oh, that’s bad…" Here the multiple steps in cognition are clearly evident in the stepped response, the perception being processed just a breath faster than the resolution of the moral / ethical content in the joke.
+Here one can select an index for medieval Spanish folk narratives, another index for linguistic verbal jokes, and a third one for sexual humour.
+The Script-based Semantic Theory of Humour (SSTH) begins by identifying two linguistic conditions which make a text funny.
+These can range from a simple verbal technique like a pun to more complex LMs such as faulty logic or false analogies.
+This classification system was developed specifically for jokes and later expanded to include longer types of humorous narratives.
+Now, an Internet-enhanced collection creates a time machine, as it were, where we can observe what happens in the period before the risible moment, when attempts at humor are unsuccessful."
+Its final section addresses Anecdotes and jokes, listing traditional humorous tales ordered by their protagonist; "This section of the Index is essentially a classification of the older European jests, or merry tales – humorous stories characterized by short, fairly simple plots.
+Computational humor is a new field of study which uses computers to model humour; it bridges the disciplines of computational linguistics and artificial intelligence.
+They are told in both private and public settings; a single person tells a joke to his friend in the natural flow of conversation, or a set of jokes is told to a group as part of scripted entertainment.
+He started asking questions of tradition and transmission with the key observation that "No piece of folklore continues to be transmitted unless it means something, even if neither the speaker nor the audience can articulate what that meaning might be."
+Reader’s Digest closes out many articles with an (unrelated) joke at the bottom of article.
+This includes, among others, themes such as real (unreal), actual (non-actual), normal (abnormal), possible (impossible).
+A current review of the popular magazine "Psychology Today" lists over 200 articles discussing various aspects of humour; in psychospeak the  subject area has become both an emotion to measure and a tool to use in diagnostics and treatment.
+A linguistic interpretation of this punchline / response is elucidated by Victor Raskin in his Script-based Semantic Theory of Humour.
+In the General Theory of Verbal Humour, the SSTH was relabeled as a Logical Mechanism (LM) (referring to the mechanism which connects the different linguistic scripts in the joke) and added to 5 other independent Knowledge Resources (KR).
+The important characteristic is that the narrative is succinct, containing only those details which lead directly to an understanding and decoding of the punchline.
+"The joking relationship is defined as a peculiar combination of friendliness and antagonism.
+In a subsequent study Attardo expands the NS to include oral and printed humorous narratives of any length, not just jokes.
+This leads to the premise that a joke is actually an "understanding test" between individuals and groups.
+Some humorous forms which are ''not'' jokes are:  involuntary humour, situational humour, practical jokes, slapstick, and anecdotes.
+It then goes on to identify the mechanisms involved in creating the punchline.
+Two major new linguistic theories have been developed and tested within the last decades.
+Only one of many broadsides archived in the Harvard library is described as "1706.
+Linguist Robert Hetzron offers the definition:
+In his book "Humor and Laughter: an Anthropological Approach", the anthropologist Mahadev Apte presents a solid case for his own academic perspective.
+This classification system provides a functional multi-dimensional label for any joke, and indeed any verbal humor.
+This distinction has been formulated in the popular saying "A comic says funny things; a comedian says things funny".
+When all the potential combinations of such factors between the narrator and the audience are considered, then a single joke can take on infinite shades of meaning for each unique social setting.
+It can also be a dismissal, as in "this is no joking matter" or "this is no time for jokes".
+Telling a joke is a cooperative effort; it requires that the teller and the audience mutually agree in one form or another to understand the narrative which follows as a joke.
+This requires that it support the same (or similar) divergent scripts which are to be embodied in the punchline.
+A verbal joke or cartoon is emailed to a friend or posted on a bulletin board; reactions include a replied email with a :-) or LOL, or a forward on to further recipients.
+A '''joke''' is a display of humour in which words are used within a specific and well-defined narrative structure to make people laugh.
+Examples of this are the characters of Rabelais in France, Till Eulenspiegel in Germany, Lazarillo de Tormes in Spain and Master Skelton in England.
+# '''Logical Mechanism (LM)''' refers to the mechanism which connects the different scripts in the joke.
+Additional studies by others in the field support more generally the theory of two-stage processing of humour, as evidenced in the longer processing time they require.
+Jokes remain one of the few remaining forms of traditional folk literature transmitted orally in western cultures.
+Given the plethora of variants revealed by even a superficial glance at the problem, it becomes evident that these paths of scientific inquiry are mined with problematic pitfalls and questionable solutions.
+One of these studies has already been discussed above, where Harvey Sacks  describes in detail the sequential organization in the telling a single joke.
+Moving on, whom does one ask to rate the sense of humour of an individual?
+The narrative always contains a protagonist who becomes the "butt" or target of the joke.
+… Within this framework, humour appreciation is conceptualized as a biphasic sequence involving first the discovery of incongruity followed by a resolution of the incongruity."
+In a study of conversation analysis, the sociologist Harvey Sacks describes in detail the sequential organization in the telling a single joke.
+This can be done using a pun or other word play such as irony, a logical incompatibility, nonsense or other means.
+the printing revolution spread across Europe following the development of the movable type printing press.
+The earliest extant joke book predates the printing press by a millennium; it is from the 4th century A.D.
+# '''Situation (SI)''' can include objects, activities, instruments, props needed to tell the story.
+The advent of electronic communications at the end of the 20th century introduced new traditions into jokes.
+As for its being "oral," it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry.
+Interaction is limited to the computer screen and for the most part solitary.
+The sociologist Christie Davies has written extensively on ethnic jokes told in countries around the world.
+As a genre they were important enough at the beginning of the 20th century to be included under their own heading in the Aarne-Thompson index first published in 1910: Anecdotes and jokes.
+"The computer networks appear to make possible communities that, although physically dispersed, display attributes of the direct, unconstrained, unofficial exchanges folklorists typically concern themselves with."
+It takes the form of a story, usually with dialogue, and ends in a punch line.
+Folklorists and others have studied individual joke cycles in an attempt to understand their function and significance within the culture.
+Expected response to a joke is laughter.
+it is non-bona-fide communication).
+What is a "sense of humour"?
+A third significant problem is that the "excessive prudery" common in the middle of the 20th century means that obscene, sexual and scatological elements were regularly ignored in many of the indices.
+Both of these subspecialties within the field focus on ‘naturally occurring’ language use, i.e.
+This labeling serves to develop and solidify stereotypes of ethnic groups, professions, etc.
+It is in the punch line that the audience becomes aware that the story contains a second, conflicting meaning.
+A joke involving toilet humor may be funnier told on the playground at elementary school than on a college campus.
+The forward of an email joke can increase the number of recipients exponentially; 5 x forwarding a joke to 5 recipients = 3,125 recipients in the course of an afternoon.
+Along with individual transmission of jokes to email contacts, internet services are also available to provide a fresh joke-a-day to your email inbox or archive joke collections on electronic bulletin boards.
+You sail a boatload of young women dressed only in fishing nets down the Nile and urge the pharaoh to go catch a fish."
+"This telling is composed, as for stories, of three serially ordered and adjacently placed types of sequences … the preface framing, the telling, and the response sequences."
+These cycles arise regularly as a response to terrible unexpected events which command the national news.
+"An elephant walks into a bar…"; a native English speaker automatically understands that this is the start of a joke, and the story that follows is not meant to be taken at face value (i.e.
+Some well-known cycles are elephant jokes using nonsense humour, dead baby jokes incorporating black humour and light bulb jokes, which describe all kinds of operational stupidity.
+He explains that "… incongruity alone is insufficient to account for the structure of humour.
+Why do people laugh?
+Does one ask the person themselves, an impartial observer, or their family, friends and colleagues?
+Studies by the cognitive science researchers Coulson and Kutas directly address the theory of script switching articulated by Raskin in their work.
+The punchline is intended to make the audience laugh.
+They can be read alone for solitary entertainment, or used to stock up on new jokes to entertain friends.
+Many of these early jokes deal with scatological and sexual topics, entertaining to all social classes but not to be valued and saved.
+A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… In fact, the main condition is that the tension should reach its highest level at the very end.
+Discourse analysis emphasizes the entire context of social joking, the social interaction which cradles the words.
+The article "Getting it: Human event-related brain response to jokes in good and poor comprehenders" measures brain activity in response to reading jokes.
+It has proven difficult to organize all different elements of a joke into a multi-dimensional classification system which could be of real value in the study and evaluation of this (primarily oral) complex narrative form.
+In this early study Darwin raises further questions about who laughs and why they laugh; the myriad responses since then illustrates the complexities of this behavior.
+… Descriptively, to analyze a joke in the GTVH consists of listing the values of the 6 KRs (with the caveat that TA and LM may be empty)."
+A woman might respond differently to a joke told by a male colleague around the water cooler than she would to the same joke overheard in the Ladies’ Room.
+This is particularly evident in the spread of topical jokes, "that genre of lore in which whole crops of jokes spring up seemingly overnight around some sensational event … flourish briefly and then disappear, as the mass media move on to fresh maimings and new collective tragedies.’’
+Folklorists expand this to include the context of the joking.
+Identified as one of the simple forms of oral literature by the Dutch linguist André Jolles, jokes are passed along anonymously.
+Why is the joke told right now?
+Unfortunately the studies of jokes from each of the interested disciplines brings to mind the tale of the Blind men and an elephant where the observations, although accurate reflections of their own competent methodological inquiry, frequently fail to grasp the beast in its entirety.
+In the context of jokes, this then becomes the basis for further research.
+The jokes exist and they obviously must fill some psychic need for those individuals who tell them and those who listen to them."
+Thomas R. Shultz, a psychologist, independently expands Raskin’s linguistic theory to include "two stages of incongruity: perception and resolution."
+No continuation relieving the tension should be added.
+Further development in this field must wait until computational linguists have succeeded in programming a computer with an ontological semantic natural language processing system.
+Within its performance frame, joke-telling is labeled as a culturally marked form of communication.
+While the label "Humorology" has yet to become a household word, great strides are being made in the international recognition of this interdisciplinary field of research.
+In order to understand laughter in humans and other primates, the science of Gelotology (from the Greek gelos, meaning laughter) has been established; it is the study of laughter and its effects on the body from both a psychological and physiological perspective.
+Magazines frequently use jokes and cartoons as filler for the printed page.
+This question focuses on how the words used in the punchline create humour, in contrast to the psychologist’s concern (see above) with the audience response to the punchline.
+Audience response to this initial frame can be acknowledgement and anticipation of the joke to follow.
+As such, it could be a good predictor of life satisfaction.
+Apte goes on to call for
+One of the world’s oldest jokes was included in a political treatise inscribed on a roll of papyrus: "How do you entertain a bored pharaoh?
+To put it in another way, the relationship is one of permitted disrespect."
+"Two axioms underlie my discussion, namely, that humor is by and large culture based and that humor can be a major conceptual and methodological tool for gaining insights into cultural systems."
+Either as written narratives or graphic cartoons, jokes are sent through email to friends and acquaintances; individuals joking with each other in a physical space have been replaced here by electronic social groups.
+scripts) need to be both compatible with the joke text '''AND''' opposite or incompatible with each other.
+So Americans tell jokes about Polacks and Italians, Germans tell jokes about Ostfriesens, and the English tell jokes about the Irish.
+Beginning in the 1960s, cultural researchers began to expand their role from collectors and archivists of "folk ideas" to a more active role of interpreters of cultural artifacts.
+The linguist’s question is: what exactly makes the punchline funny?
+In his 1905 study "Jokes and their Relation to the Unconscious" Freud describes the social nature of humour and illustrates his text with many examples of contemporary Viennese jokes.
+And because incidents will always have at least one actor and usually have an item, most narratives can be ordered under multiple headings.
+While jokes can provoke laughter, laughter cannot be used as a one-to-one marker of jokes because there are multiple stimuli to laugher, humour being just one of them.
+The Shaggy dog story is in a class of its own as an anti-joke; although presenting as a joke, it contains a long drawn-out narrative of time, place and character, rambles through many pointless inclusions and finally fails to deliver a  punchline.
+And why is he telling them when?
+"Have you heard the one…", "Reminds me of a joke I heard…", "So, a lawyer and a doctor…"; these conversational markers are just a few examples of linguistic frames used to start a joke.
+is a collection of jokes about a single target or situation which displays consistent narrative structure and type of humour.

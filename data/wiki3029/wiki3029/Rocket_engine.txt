@@ -1,0 +1,200 @@
+These are often an array of simple jets - holes through which the propellant escapes under pressure; but sometimes may be more complex spray nozzles.
+In addition, if the number of flights launched is low, there is a very high chance of a design, operations or manufacturing error causing destruction of the vehicle.
+This is a low frequency oscillation at a few Hertz in chamber pressure usually caused by pressure variations in feed lines due to variations in acceleration of the vehicle.
+About half of the rocket engine's thrust comes from the unbalanced pressures inside the combustion chamber, and the rest comes from the pressures acting against the inside of the nozzle (see diagram).
+Vehicles propelled by rocket engines are commonly called rockets.
+Reduces take-off weight, since hydrogen is lighter; combines good thrust to weight with high average ''I''sp, improves payload for launching from Earth by a sizeable percentage
+The most common monopropellants are hydrazine and hydrogen peroxide.
+The ideal exhaust is hydrogen, the lightest of all gases, but chemical rockets produce a mix of heavier species, reducing the exhaust velocity.
+Chugging can be minimised by using gas-filled damping tubes on feed lines of high density propellants.
+Rocket engines become more efficient at high velocities (due to greater propulsive efficiency and Oberth effect).
+He calculated from his independently-derived rocket equation that a reasonably sized rocket, using solid fuel, could place a one-pound payload on the Moon.
+Mach 0 to Mach 4.5+ (can also run exoatmospheric), good efficiency at Mach 2 to 4
+Monatomic gases like helium have only three degrees of freedom, corresponding to the three dimensions of space, {''x,y,z''}, and only such spherically symmetric molecules escape this kind of loss.
+It is thus quite usual to rearrange the above equation slightly:
+#radiative cooling (the chamber becomes almost white hot and radiates the heat away)
+#ablative walls (walls are lined with a material that is continuously vaporised and carried away).
+Lower performance than liquid rockets.
+For a ''vehicle'' employing a rocket engine the energetic efficiency is very good if the vehicle speed approaches or somewhat exceeds the exhaust velocity (relative to launch); but at low speeds the energy efficiency goes to 0% at zero speed (as with all jet propulsion.)
+In addition, significant temperature gradients are set up in the walls of the chamber and nozzle, these cause differential expansion of the inner liner that create internal stresses.
+The engine thrust is directly related to the surface area of the solar collector and to the local intensity of the solar radiation and inversely proportional to the ''I''sp.
+For all but the very smallest sizes, rocket exhaust compared to other engines is generally very noisy.
+The first staged combustion engine was the S1.5400 used in the Soviet planetary rocket, designed by Melnikov, a former assistant to Isaev.
+Some exhausts, notably alcohol fuelled rockets, can show visible shock diamonds.
+The most important metric for the efficiency of a rocket engine is impulse per unit of propellant, this is called specific impulse (usually written ).
+It is important to note in computing the specific reaction energy, that the ''entire mass of the propellants, including both fuel and oxidiser'', must be included.
+Solid rockets can be throttled by using shaped grains that will vary their surface area over the course of the burn.
+Essentially all launch vehicles are test vehicles by normal aerospace standards ().
+Of the liquid propellants used, density is worst for liquid hydrogen.
+Larger ratio nozzles are more massive but are able to extract more heat from the combustion gases, increasing the exhaust velocity.
+Rocket engines produce thrust by the expulsion of an exhaust fluid which has been accelerated to a high speed through a propelling nozzle.
+The Rocketdyne F-1 engine, used in a cluster of five in the first stage of the Saturn V, had no failures in 65 engine-flights.
+Hydrogen peroxide / kerosene fueled engines such as the British Gamma of the 1950s used a closed-cycle process (arguably not ''staged combustion'', but that's mostly a question of semantics) by catalytically decomposing the peroxide to drive turbines ''before'' combustion with the kerosene in the combustion chamber proper.
+Computer programs that predict the performance of propellants in rocket engines are available.
+Almost all de Laval nozzles will be momentarily grossly overexpanded during startup in an atmosphere.
+Alternatively, rockets may use more common construction materials such as aluminium, steel, nickel or copper alloys and employ cooling systems that prevent the construction material itself becoming too hot.
+This side force may change over time and result in control problems with the launch vehicle.
+Disruption of the boundary layer may occur during cooling failures or combustion instabilities, and wall failure typically occurs soon after.
+Since all of these things minimise the mass of the propellant used, and since pressure is proportional to the mass of propellant present to be accelerated as it pushes on the engine, and since from Newton's third law the pressure that acts on the engine also reciprocally acts on the propellant, it turns out that for any given engine the speed that the propellant leaves the chamber is unaffected by the chamber pressure (although the thrust is proportional).
+Provided this boundary layer is intact the wall will not be damaged.
+The hot gas produced in the combustion chamber is permitted to escape through an opening (the "throat"), and then through a diverging expansion section.
+By comparison, at room temperature the speed of sound in air is about 340&nbsp;m/s while the speed of sound in the hot gas of a rocket engine can be over 1700&nbsp;m/s; much of this performance is due to the higher temperature, but additionally rocket propellants are chosen to be of low molecular mass, and this also gives a higher velocity compared to air.
+The Space Shuttle Main Engine, used in a cluster of three, had no catastrophic in-flight failures in 405 engine-flights.
+Oscillation suppressors are commonly used.
+This may be achieved by making the coolant velocity in the channels as high as possible.
+Tripropellant rocket
+However, speed is significantly affected by all three of the above factors and the exhaust speed is an excellent measure of the engine propellant efficiency.
+Due to their larger surface area, they are harder to cool and hence there is a need to run the combustion processes at much lower temperatures, losing efficiency.
+Fuels for car or turbojet engines, use atmospheric oxygen and so have a much better effective energy output per unit mass of propellant that must be carried, but are similar per unit mass of fuel.
+#film cooling (surfaces are wetted with liquid propellant, which cools as it evaporates)
+On a de Laval nozzle, exhaust gas flow detachment will occur in a grossly over-expanded nozzle.
+These rockets were used against British empire very effectively.
+Slow development of this technology continued up to the later 19th century, when Russian Konstantin Tsiolkovsky first wrote about liquid-fueled rocket engines.
+Aside from inevitable losses and imperfections in the engine, incomplete combustion, etc., after specific reaction energy, the main theoretical limit reducing the exhaust velocity obtained is that, according to the laws of thermodynamics, a fraction of the chemical energy may go into rotation of the exhaust molecules, where it is unavailable for producing thrust.
+This can be caused due to insufficient pressure drop across the injectors.
+Grossly overexpanded nozzles lose less efficiency, but can cause mechanical problems with the nozzle.
+Most other jet engines have gas turbines in the hot exhaust.
+Although the specific reaction energy per unit mass of reactants is key, low mean molecular weight in the reaction products is also important in practice in determining exhaust velocity.
+A diatomic molecule like H2 can rotate about either of the two axes perpendicular to the one joining the two atoms, and as the equipartition law of statistical mechanics demands that the available thermal energy be divided equally among the degrees of freedom, for such a gas in thermal equilibrium 3/5 of the energy can go into unidirectional motion, and 2/5 into rotation (actually, the vibration of the molecule should not be neglected, see gas heat capacity).
+At full throttle, the net thrust of a rocket motor improves slightly with increasing altitude, because as atmospheric pressure decreases with altitude, the pressure thrust term increases.
+Staged combustion (''Замкнутая схема'') was first proposed by Alexey Isaev in 1949.
+The shape of the jet varies from the design altitude, at high altitude all rockets are grossly under-expanded, and a quite small percentage of exhaust gases actually end up expanding forwards.
+This reduction drops roughly exponentially to zero with increasing altitude.
+Liquid-fuelled rockets force separate fuel and oxidiser components into the combustion chamber, where they mix and burn.
+Because temperature is proportional to the mean ''energy per molecule'', a given amount of energy distributed among more molecules of lower mass permits a higher exhaust velocity at a given temperature.
+Propellant (such as hydrazine, hydrogen peroxide or nitrous oxide) flows over a catalyst and exothermically decomposes; hot gases are emitted through nozzle.
+Atmospheric airspeed limited to same range as turbojet engine, carrying oxidiser like LOX can be dangerous.
+Two exceptions are graphite and tungsten, although both are subject to oxidation if not protected.
+At the surface of the Earth the pressure thrust may be reduced by up to 30%,depending on the engine design.
+However, when cooled, many rockets cannot be restarted without at least minor maintenance, such as replacement of the pyrotechnic igniter.
+Bipropellant rocket
+Contrary to this reputation, carefully designed rockets can be made arbitrarily reliable.
+Quite simple, solid fuel is essentially inert without oxidiser, safer; cracks do not escalate, throttleable and easy to switch off.
+In the West, the first laboratory staged-combustion test engine was built in Germany in 1963, by Ludwig Boelkow.
+More worryingly for space agencies, such sound levels can also damage the launch structure, or worse, be reflected back at the comparatively delicate rocket above.
+Liquid hydrogen (LH2) and oxygen (LOX, or LO2), are the most effective propellants in terms of exhaust velocity that have been widely used to date, though a few exotic combinations involving boron or liquid ozone are potentially somewhat better in theory if various practical problems could be solved.
+Expansion in the rocket nozzle then further multiplies the speed, typically between 1.5 and 2 times, giving a highly collimated hypersonic exhaust jet.
+About the same time (1959), Nikolai Kuznetsov began work on the closed cycle engine NK-9 for Korolev's orbital ICBM, GR-1.
+This increase is difficult to arrange in a lightweight fashion, although is routinely done with other forms of jet engines.
+This can also ''increase'' performance by lowering the average molecular weight of the exhaust and increasing the efficiency with which combustion heat is converted to kinetic exhaust energy.
+Refueling harder than simply filling tanks.
+This leads to a number called :
+He began to use liquid propellants in 1921 and was the first to launch, in 1926, a liquid-propellant rocket.
+If the nozzle is not perfectly expanded, then loss of efficiency occurs.
+An alternative to combustion is the water rocket, which uses water pressurised by compressed air, carbon dioxide, nitrogen, or manual pumping, for model rocketry.
+In rockets the coolant methods include:
+Kuznetsov later evolved that design into the NK-15 and NK-33 engines for the unsuccessful Lunar N1 rocket.
+The nozzle uses the heat energy released by expansion of the gas to accelerate the exhaust to very high (supersonic) speed, and the reaction to this pushes the engine in the opposite direction.
+To maintain this ideal of equality between the exhaust's exit pressure and the ambient pressure, the diameter of the nozzle would need to increase with altitude, giving the pressure a longer nozzle to act on (and reducing the exit pressure and temperature).
+Handling issues from ignitable mixture.
+The most commonly used nozzle is the de Laval nozzle, a fixed geometry nozzle with a high expansion-ratio.
+Due to the specific impulse varying with pressure, a quantity that is easy to compare and calculate with is useful.
+See Rocket energy efficiency for more details.
+Maximum temperature is limited by materials technology, some radioactive particles can be present in exhaust in some designs, nuclear reactor shielding is heavy, unlikely to be permitted from surface of the Earth, thrust/weight ratio is not high.
+#dump cooling (a propellant, usually hydrogen, is passed around the chamber and dumped)
+L* is typically in the range of .
+The rotational energy loss is largely recovered in practice if the expansion nozzle is large enough to allow the gases to expand and cool sufficiently, the function of the nozzle being to convert the random thermal motions of the molecules in the combustion chamber into the unidirectional translation that produces thrust.
+The strongest heat fluxes are found at the throat, which often sees twice that found in the associated chamber and nozzle.
+In military use, rockets are not unreliable.
+For high altitude engines, either a shorter nozzle must be used, or the rocket must be tested in a large vacuum chamber.
+#uncooled (used for short runs mainly during testing)
+Intake air is chilled to very low temperatures at inlet before passing through a ramjet or turbojet engine.
+As the gas expands (adiabatically) the pressure against the nozzle's walls forces the rocket engine in one direction while accelerating the gas in the other.
+Rocket engine nozzles are surprisingly efficient heat engines for generating a high speed jet, as a consequence of the high combustion temperature and high compression ratio.
+Air-augmented rocket
+Some oxidisers are monopropellants, can explode in own right; mechanical failure of solid propellant can block nozzle (very rare with rubberised propellant), central hole widens over burn and negatively affects mixture ratio.
+A '''rocket engine''' is a type of jet engine that uses only stored rocket propellant mass for forming its high speed propulsive jet.
+(See rocket nozzles above for temperatures in nozzle).
+In practice, perfect expansion is only achievable with a variable-exit area nozzle (since ambient pressure decreases as altitude increases), and is not possible above a certain altitude as ambient pressure approaches zero.
+With regenerative cooling a second boundary layer is found in the coolant channels around the chamber.
+Much heavier than simple rockets.
+: &thinsp;= &thinsp;the thrust coefficient constant of the nozzle (typically about 2)
+Therefore, temperatures used in rockets are very often far higher than the melting point of the nozzle and combustion chamber materials (~1,200 K for copper).
+Pumps needed for high performance are expensive to design, huge thermal fluxes across combustion chamber wall can impact reuse, failure modes include major explosions, a lot of plumbing is needed.
+A combined cycle turbojet/rocket where an additional oxidiser such as oxygen is added to the airstream to increase maximum altitude
+Rocket takes off as a bipropellant rocket, then turns to using just one propellant as a monopropellant
+The iron tube acted as a combustion chamber and contained well packed black powder propellant.
+The sound intensity from the shock waves generated depends on the size of the rocket and on the exhaust velocity.
+This is because the high gas temperatures in rocket engines pose serious problems for the engineering of survivable motors.
+This was the birth of the modern rocket engine.
+Compared to other types of jet engines, rocket engines have the highest thrust, are by far the lightest, but are the least propellant efficient (have the lowest specific impulse).
+These techniques ensure that a gaseous thermal boundary layer touching the material is kept below the temperature which would cause the material to catastrophically fail.
+The first recipe calls for one part of colophonium and sulfur added to six parts of saltpeter (potassium nitrate) dissolved in laurel oil, then inserted into hollow wood and lit to "fly away suddenly to whatever place you wish and burn up everything".
+Precooled jet engine / LACE (combined cycle with rocket)
+Rocket engines are reaction engines, obtaining thrust in accordance with Newton's third law.
+Such shock waves seem to account for the characteristic crackling and popping sounds produced by large rocket engines when heard live.
+Specifically, standing acoustic waves inside a chamber can be intensified if combustion occurs more intensely in regions where the pressure of the acoustic wave is maximal.
+The heated propellant is fed through a conventional rocket nozzle to produce thrust.
+Rocket engines were also brought in use by Tippu Sultan, the king of Mysore.
+Using hydrogen propellant, 900 seconds of ''I''sp is comparable to Nuclear Thermal rocket, without the problems and complexity of controlling a fission reaction.
+Can be combined with a rocket engine for orbital insertion.
+This is sometimes somewhat facetiously termed an "engine-rich exhaust".
+If grain cracks it can block nozzle with disastrous results.
+Only useful once in space, as thrust is fairly low, but hydrogen has not been traditionally thought to be easily stored in space, otherwise moderate/low ''I''sp if higher–molecular-mass propellants are used.
+Given the temperatures reached, over 60% efficiency can be achieved with chemical rockets.
+Rocket nozzles give an excellent approximation to adiabatic expansion which is a reversible process, and hence they give efficiencies which are very close to that of the Carnot cycle.
+Rocket engines are usually statically tested at a test facility before being put into production.
+Similar efficiency to rockets at low speed or exoatmospheric, inlet difficulties, a relatively undeveloped and unexplored type, cooling difficulties, very noisy, thrust/weight ratio is similar to ramjets.
+Throttling, burn termination, and reignition require special designs.
+An engine that gives a large specific impulse is normally highly desirable.
+It is important that these materials be prevented from combusting, melting or vaporising to the point of failure.
+In the sixteenth century, German military engineer Conrad Haas (1509-1576) wrote a manuscript which introduced the construction to multi-staged rockets.
+In practice, regenerative cooling is nearly always used in conjunction with curtain cooling and/or film cooling.
+Advanced altitude-compensating designs, such as the aerospike or plug nozzle, attempt to minimize performance losses by adjusting to varying expansion ratio caused by changing altitude.
+High thrust/weight ratios are possible (~14) together with good fuel efficiency over a wide range of airspeeds, mach 0-5.5+; this combination of efficiencies may permit launching to orbit, single stage, or very rapid intercontinental travel.
+Liquid hydrogen engines were first successfully developed in America, the RL-10 engine first flew in 1962.
+* is the area of the throat
+The Rocketdyne H-1 engine, used in a cluster of eight in the first stage of the Saturn I and Saturn IB launch vehicles, had no catastrophic failures in 152 engine-flights.
+This is why so much water is typically used at launches.
+The introduction of saltpeter into pyrotechnic mixtures connected the shift from hurled Greek fire into self-propelled rocketry.
+: &nbsp;  &thinsp;= &thinsp;the speed of sound constant at the throat
+This reduces heat loads on the engine and allows lower cost materials and a simplified cooling system.
+The speed increase of a rocket nozzle is mostly determined by its area expansion ratio—the ratio of the area of the throat to the area at the exit, but detailed properties of the gas are also important.
+For chemical rockets the combustion chamber is typically just a cylinder, and flame holders are rarely used.
+One is the sheer weight of the nozzle—beyond a certain point, for a particular vehicle, the extra weight of the nozzle outweighs any performance gained.
+The combustion instabilities can be provoked by remains of cleaning solvents in the engine, reflected shock wave, initial instability after ignition, explosion near the nozzle that reflects into the combustion chamber, and many more factors.
+Periodic variations of thrust, caused by combustion instability or longitudinal vibrations of structures between the tanks and the engines which modulate the propellant flow, are known as "pogo oscillations" or "pogo", named after the pogo stick.
+This powder mixture is packed firmly into a long and narrow case.
+Testing for the possibility of screeching is sometimes done by exploding small explosive charges outside the combustion chamber with a tube set tangentially to the combustion chamber near the injectors to determine the engine's impulse response and then evaluating the time response of the chamber pressure- a fast recovery indicates a stable system.
+The combustion may display undesired instabilities, of sudden or periodic nature.
+This is the most immediately damaging, and the hardest to control.
+Most rocket engines are internal combustion engines, although non-combusting forms (such as cold gas thrusters) also exist.
+~1 MW of power per kg of payload is needed to achieve orbit, relatively high accelerations, microwaves are absorbed to a degree by rain, reflected microwaves may be dangerous, pretty much needs hydrogen monopropellant for good performance which needs heavy tankage, transmitter diameter is measured in kilometres to achieve a fine enough beam to hit a vehicle at up to 100&nbsp;km.
+Three different propellants (usually hydrogen, hydrocarbon and liquid oxygen) are introduced into a combustion chamber in variable mixture ratios, or multiple engines are used with fixed propellant mixture ratios and throttled or shut down
+Both liquid and hybrid rockets use ''injectors'' to introduce the propellant into the chamber.
+As exit pressure varies from the ambient (atmospheric) pressure, a choked nozzle is said to be '''underexpanded''' (exit pressure greater than ambient), '''perfectly expanded''' (exit pressure equals ambient), '''overexpanded''' (exit pressure less than ambient; shock diamonds form outside the nozzle), or '''grossly overexpanded''' (a shock wave forms inside the nozzle extension).
+When sufficient pressure is provided to the nozzle (about 2.5-3 times ambient pressure), the nozzle ''chokes'' and a supersonic jet is formed, dramatically accelerating the gas, converting most of the thermal energy into kinetic energy.
+Although this propellant is marvellous in many ways, it has a very low density, about one fourteenth that of water.
+Screeching is often dealt with by detailed changes to injectors, or changes in the propellant chemistry, or vaporising the propellant before injection, or use of Helmholtz dampers within the combustion chambers to change the resonant modes of the chamber.
+Grain cracks burn and widen during burn.
+A solar thermal rocket only has to carry the means of capturing solar energy, such as concentrators and mirrors.
+Unlike in airbreathing jet engines, no atmospheric nitrogen is present to dilute and cool the combustion, and the temperature can reach true stoichiometric ratios.
+The second recipe combines one pound of sulfur, two pounds of charcoal, and six pounds of saltpeter—all finely powdered on a marble slab.
+Because rockets choke at the throat, and because the supersonic exhaust prevents external pressure influences travelling upstream, it turns out that the pressure at the exit is ideally exactly proportional to the propellant flow , provided the mixture ratios and combustion efficiencies are maintained.
+Such effects are very difficult to predict analytically during the design process, and have usually been addressed by expensive, time consuming and extensive testing, combined with trial and error remedial correction measures.
+Regenerative cooling, where the propellant is passed through tubes around the combustion chamber or nozzle, and other techniques, such as curtain cooling or film cooling, are employed to give longer nozzle and chamber life.
+Rockets can be further optimised to even more extreme performance along one or more of these axes at the expense of the others.
+Hydrogen engines were used as part of the Project Apollo; the liquid hydrogen fuel giving a rather lower stage mass and thus reducing the overall size and cost of the vehicle.
+Exhaust speeds vary, depending on the expansion ratio the nozzle is designed for, but exhaust speeds as high as ten times the speed of sound in air at sea level are not uncommon.
+The combination of temperatures and pressures typically reached in a combustion chamber is usually extreme by any standards.
+Indeed, many construction materials can make perfectly acceptable propellants in their own right.
+This makes the turbopumps and pipework larger and heavier, and this is reflected in the thrust-to-weight ratio of engines that use it (for example the SSME) compared to those that do not (NK-33).
+Liquid-fuelled engines are often run fuel-rich, which lowers combustion temperatures.
+Two fluid (typically liquid) propellants are introduced through injectors into combustion chamber and burnt
+This means low atomic mass elements are favoured.
+For aerodynamic reasons the flow goes sonic ("chokes") at the narrowest part of the nozzle, the 'throat'.
+When exhausting into a sufficiently low ambient pressure (vacuum) several issues arise.
+This may lead to high-amplitude pressure oscillations, often in ultrasonic range, which may damage the motor.
+In all cases the cooling effect that prevents the wall from being destroyed is caused by a thin layer of insulating fluid (a boundary layer) that is in contact with the walls that is far cooler than the combustion temperature.
+The other failure mode is a deflagration to detonation transition; the supersonic pressure wave formed in the combustion chamber may destroy the engine.
+Articles and books on the subject of rocketry appeared increasingly from the fifteenth through seventeenth centuries.
+However, the Space Shuttle Solid Rocket Booster, used in pairs, caused one notable catastrophic failure in 270 engine-flights.
+Easily tested on ground.
+It is stated that "the reactive forces of incendiaries were probably not applied to the propulsion of projectiles prior to the 13th century".
+Materials technology could potentially place an upper limit on the exhaust temperature of chemical rockets.
+Fixed-area nozzles become progressively more underexpanded as they gain altitude.
+Examples include RB545, SABRE, ATREX
+Maximum efficiency for a rocket engine is achieved by maximising the momentum contribution of the equation without incurring penalties from over expanding the exhaust.
+Carbon rich exhausts from kerosene fuels are often orange in colour due to the black body radiation of the unburnt particles, in addition to the blue Swan bands.
+This is either measured as a speed (the ''effective exhaust velocity''  in metres/second or ft/s) or as a time (seconds).
+As long as the exhaust gas remains in equilibrium as it expands, the initial rotational energy will be largely returned to translation in the nozzle.

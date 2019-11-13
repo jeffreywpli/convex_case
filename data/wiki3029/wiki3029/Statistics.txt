@@ -1,0 +1,200 @@
+Some well-known statistical tests and procedures are:
+Rejecting or disproving the null hypothesis is done using statistical tests that quantify the sense in which the null can be proven false, given the data that are used in the test.
+*Rejecting the null hypothesis does not automatically prove the alternative hypothesis.
+When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples.
+Various attempts have been made to produce a taxonomy of levels of measurement.
+Today, statistics is widely employed in government, business, and natural and social sciences.
+For example, in a large study of a drug it may be shown that the drug has a statistically significant but very small beneficial effect, such that the drug is unlikely to help the patient noticeably.
+This still leaves the question of how to obtain estimators in a given situation and carry the computation, several methods have been proposed: the method of moments, the maximum likelihood method, the least squares method and the more recent method of estimating equations.
+Ways to avoid misuse of statistics include using proper diagrams and avoiding bias.
+An example of an observational study is one that explores the association between smoking and lung cancer.
+While the tools of data analysis work best on data from randomized studies, they are also applied to other kinds of data – like natural experiments and observational studies – for which a statistician would use a modified, more structured estimation method (e.g., Difference in differences estimation and instrumental variables, among many others) that produce consistent estimators.
+* Did someone change the subject?
+Although these are produced from the same calculations as those of hypothesis tests or ''p''-values, they describe both the size of the effect and the uncertainty surrounding it.
+Though this type of artistry does not always come out as expected, it does behave in ways that are predictable and tunable using statistics.
+While one can not "prove" a null hypothesis, one can test how close it is to being true with a power test, which tests for type II errors.
+There is a general perception that statistical knowledge is all-too-frequently intentionally misused by finding ways to interpret only the data that are favorable to the presenter.
+However, it is true that, before any data are sampled and given a plan for how to construct the confidence interval, the probability is 95% that the yet-to-be-calculated interval will cover the true value: at this point, the limits of the interval are yet-to-be-observed random variables.
+What statisticians call an alternative hypothesis is simply an hypothesis that contradicts the null hypothesis.
+The modern field of statistics emerged in the late 19th and early 20th century in three stages.
+Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
+Nevertheless, A. W. F. Edwards has remarked that it is "probably the most celebrated argument in evolutionary biology".
+Initially derided by some mathematical purists, it is now considered essential methodology in certain areas.
+While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty.
+What was once considered a dry subject, taken in many fields as a degree-requirement, is now viewed enthusiastically.
+It turned out that productivity indeed improved (under the experimental conditions).
+So the jury does not necessarily ''accept'' H0 but ''fails to reject'' H0.
+Two main statistical methodologies are used in data analysis: descriptive statistics, which summarizes data from a sample using indexes such as the mean or standard deviation, and inferential statistics, which draws conclusions from data that are subject to random variation (e.g., observational errors, sampling variation).
+Referring to statistical significance does not necessarily mean that the overall result is significant in real world terms.
+Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole.
+This type of study typically uses a survey to collect observations about the area of interest and then performs statistical analysis.
+The correlation phenomena could be caused by a third, previously unconsidered phenomenon, called a lurking variable or confounding variable.
+"Applied statistics" comprises descriptive statistics and the application of inferential statistics.
+* The process art of Jackson Pollock relied on artistic experiments whereby underlying distributions in nature were artistically revealed.
+Nelder (1990) described continuous counts, continuous ratios, count ratios, and categorical modes of data.
+Some popular definitions are:
+For example, Mosteller and Tukey (1977) distinguished grades, ranks, counted fractions, counts, amounts, and balances.
+Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
+To use a sample as a guide to an entire population, it is important that it truly represents the overall population.
+* Statistician '''Sir Arthur Lyon Bowley''' defines statistics as "Numerical statements of facts in any department of inquiry placed in relation to each other".
+Galton's contributions included introducing the concepts of standard deviation, correlation, regression analysis and the application of these methods to the study of the variety of human characteristics – height, weight, eyelash length among others.
+The concept of correlation is particularly noteworthy for the potential confusion it can cause.
+The set of basic statistical skills (and skepticism) that people need to deal with information in their everyday lives properly is referred to as statistical literacy.
+Pearson developed the Pearson product-moment correlation coefficient, defined as a product-moment, the method of moments for the fitting of distributions to samples and the Pearson distribution, among many other things.
+There are also methods of experimental design for experiments that can lessen these issues at the outset of a study, strengthening its capability to discern truths about the population.
+# Planning the research, including finding the number of replicates of the study, using the following information:  preliminary estimates regarding the size of treatment effects, alternative hypotheses, and the estimated experimental variability.
+The best illustration for a novice is the predicament encountered by a criminal trial.
+To make data gathered from statistics believable and accurate, the sample taken must be representative of the whole.
+Warne, Lazo, Ramos, and Ritter (2012)).
+The use of any statistical method is valid when the system or population under consideration satisfies the assumptions of the method.
+(about the sex ratio), the Fisherian runaway, a concept in sexual selection about a positive feedback runaway affect found in evolution.
+* Methods of statistics including predictive methods in forecasting are combined with chaos theory and fractal geometry to create video works that are considered to have great beauty.
+The first wave, at the turn of the century, was led by the work of Francis Galton and Karl Pearson, who transformed statistics into a rigorous mathematical discipline used for analysis, not just in science, but in industry and politics as well.
+* Does it make sense?
+Therefore, the smaller the p-value, the lower the probability of committing type I error.
+Bar graphs are arguably the easiest diagrams to use and understand, and they can be made either by hand or with simple computer programs.
+With the advent of computers, statistical methods were applied to formalize such distribution-driven natural processes to make and analyze moving video art.
+* Methods of statistics may be used predicatively in performance art, as in a card trick based on a Markov process that only works some of the time, the occasion of which can be predicted using statistical methodology.
+One approach that does yield an interval that can be interpreted as having a given probability of containing the true value is to use a credible interval from Bayesian statistics: this approach depends on a different way of interpreting what is meant by "probability", that is as a Bayesian probability.
+Its mathematical foundations were laid in the 17th century with the development of the probability theory by Gerolamo Cardano, Blaise Pascal and Pierre de Fermat.
+Some consider statistics to be a distinct mathematical science rather than a branch of mathematics.
+Measurement processes that generate statistical data are also subject to error.
+Mathematical statistics is the application of mathematics to statistics, which was originally conceived as the science of the state — the collection and analysis of facts about a country: its economy, land, military, population, and so forth.
+Increased computing power has also led to the growing popularity of computationally intensive methods based on resampling, such as permutation tests and the bootstrap, while techniques such as Gibbs sampling have made use of Bayesian models more feasible.
+In addition, there are particular types of statistical analysis that have also developed their own specialised terminology and methodology:
+However, the study is heavily criticized today for errors in experimental procedures, specifically for the lack of a control group and blindness.
+*Fallacy of the transposed conditional, aka prosecutor's fallacy: criticisms arise because the hypothesis testing approach forces one hypothesis (the null hypothesis) to be favored, since what is being evaluated is probability of the observed result given the null hypothesis and not probability of the null hypothesis given the observed result.
+To assist in the understanding of statistics Huff proposed a series of questions to be asked in each case:
+The p-value, however, does not indicate the size or importance of the observed effect and can also seem to exaggerate the importance of minor differences in large studies.
+Confidence intervals allow statisticians to express how closely the sample estimate matches the true value in the whole population.
+Any estimates obtained from the sample only approximate the population value.
+While in principle the acceptable level of statistical significance may be subject to debate, the p-value is the smallest significance level that allows the test to reject the null hypothesis.
+The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general.
+Once a sample that is representative of the population is determined, data is collected for the sample members in an observational or experimental setting.
+The difference between the two types lies in how the study is actually conducted.
+Today, statistical methods are applied in all fields that involve decision making, for making accurate inferences from a collated body of data and for making decisions in the face of uncertainty based on statistical methodology.
+Galton and Pearson founded ''Biometrika'' as the first journal of mathematical statistics and biostatistics (then called biometry), and the latter founded the world's first university statistics department at University College London.
+Many of these errors are classified as random (noise) or systematic (bias), but other types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important.
+A better and increasingly common approach is to report confidence intervals.
+Traditionally, statistics was concerned with drawing inferences using a semi-standardized methodology that was "required learning" in most sciences.
+The statistical power of a test is the probability that it correctly rejects the null hypothesis when the null hypothesis is false.
+Instead, data are gathered and correlations between predictors and response are investigated.
+Also in a linear regression model the non deterministic part of the model is called error term, disturbance or more simply noise.
+Working from a null hypothesis, two basic forms of error are recognized: Type I errors (null hypothesis is falsely rejected giving a "false positive") and Type II errors (null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative").
+Misuse can occur when conclusions are overgeneralized and claimed to be representative of more than they really are, often by either deliberately or unconsciously overlooking sampling bias.
+Statistics tools are necessary for the data analysis.
+Some fields of inquiry use applied statistics so extensively that they have specialized terminology.
+* Statistics can be used to predicatively create art, as in the statistical or stochastic music invented by Iannis Xenakis, where the music is performance-specific.
+Statistical consultants can help organizations and companies that don't have in-house expertise relevant to their particular questions.
+Most studies only sample part of a population, so results don't fully represent the whole population.
+* '''Merriam-Webster dictionary''' defines statistics as "classified facts representing the conditions of a people in a state – especially the facts that can be stated in numbers or any other tabular or classified arrangement".
+The method of least squares was first described by  Adrien-Marie Legendre in 1805.
+A  mistrust and misunderstanding of statistics is associated with the quotation, "There are three kinds of lies: lies, damned lies, and statistics".
+Interval measurements have meaningful distances between measurements defined, but the zero value is arbitrary (as in the case with longitude and temperature measurements in Celsius or Fahrenheit), and permit any linear transformation.
+Some problems are usually associated with this framework (See criticism of hypothesis testing):
+Statistical analysis of a data set often reveals that two variables (properties) of the population under consideration tend to vary together, as if they were connected.
+Misuse of statistics can be both inadvertent and intentional, and the book ''How to Lie with Statistics'' outlines a range of considerations.
+See also Chrisman (1998), van den Berg (1991).
+Because variables conforming only to nominal or ordinal measurements cannot be reasonably measured numerically, sometimes they are grouped together as categorical variables, whereas ratio and interval measurements are grouped together as quantitative variables, which can be either discrete or continuous, due to their numerical nature.
+Statistics is a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of data, or as a branch of mathematics.
+* In number theory, scatter plots of data generated by a distribution function may be transformed with familiar tools used in statistics to reveal underlying patterns, which may then lead to hypotheses.
+Ronald Fisher coined the term null hypothesis during the Lady tasting tea experiment, which "is never proved or established, but is possibly disproved, in the course of experimentation".
+Ratio measurements have both a meaningful zero value and the distances between different measurements defined, and permit any rescaling transformation.
+Sampling theory is part of the mathematical discipline of probability theory.
+Mathematical statistics includes not only the manipulation of probability distributions necessary for deriving results related to methods of estimation and inference, but also various aspects of computational statistics and the design of experiments.
+Often they are expressed as 95% confidence intervals.
+This may be organized by governmental statistical institutes.
+The standard approach is to test a null hypothesis against an alternative hypothesis.
+These inferences may take the form of: answering yes/no questions about the data (hypothesis testing), estimating numerical characteristics of the data (estimation), describing associations within the data (correlation) and modeling relationships within the data (for example, using regression analysis).
+The researchers were interested in determining whether increased illumination would increase the productivity of the assembly line workers.
+Numerical descriptors include mean and standard deviation for continuous data types (like income), while frequency and percentage are more useful in terms of describing categorical data (like race).
+This is logically equivalent to saying that the p-value is the probability, assuming the null hypothesis is true, of observing a result at least as extreme as the test statistic.
+(Does he/she have the resources to know the facts?)
+Statistics can be said to have begun in ancient civilization, going back at least to the 5th century BC, but it was not until the 18th century that it started to draw more heavily from calculus and probability theory.
+The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
+Formally, a 95% confidence interval for a value is a range where, if the sampling and analysis were repeated under the same conditions (yielding a different dataset), the interval would include the true (population) value in 95% of all possible cases.
+An interval can be asymmetrical because it works as lower or upper bound for a parameter (left-sided interval or right sided interval), but it can also be asymmetrical because the two sided interval is built violating symmetry around the estimate.
+Residual sum of squares is also differentiable, which provides a handy property for doing regression.
+Ordinal measurements have imprecise differences between consecutive values, but have a meaningful order to those values, and permit any order-preserving transformation.
+The latter gives equal weight to small and big errors, while the former gives more weight to large errors.
+A critical region is the set of values of the estimator that leads to refuting the null hypothesis.
+'''Descriptive statistics''' can be used to summarize the population data.
+But the mapping of computer science data types to statistical data types depends on which categorization of the latter is being implemented.
+One response involves going beyond reporting only the significance level to include the ''p''-value when reporting whether a hypothesis is rejected or accepted.
+The famous Hawthorne study examined changes to the working environment at the Hawthorne plant of the Western Electric Company.
+Measurement processes that generate statistical data are also subject to error.
+In an attempt to shed light on the use and misuse of statistics, reviews of statistical techniques used in particular fields are conducted (e.g.
+The probability of type I error is therefore the probability that the estimator belongs to the critical region given that null hypothesis is true (statistical significance) and the probability of type II error is the probability that the estimator doesn't belong to the critical region given that the alternative hypothesis is true.
+Early applications of statistical thinking revolved around the needs of states to base policy on demographic and economic data, hence its ''stat-'' etymology.
+A hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis of no relationship between two data sets.
+The psychophysicist Stanley Smith Stevens defined nominal, ordinal, interval, and ratio scales.
+From the frequentist perspective, such a claim does not even make sense, as the true value is not a random variable.
+When a census is not feasible, a chosen subset of the population called a sample is studied.
+Both linear regression and non-linear regression are addressed in polynomial least squares, which also describes the variance in a prediction of the dependent variable (y axis) as a function of the independent variable (x axis) and the deviations (errors, noise, disturbances) from the estimated (fitted) curve.
+*As everything in inferential statistics it relies on sample size, and therefore under fat tails p-values may be seriously mis-computed.
+Experiments on human behavior have special concerns.
+In this case, the researchers would collect observations of both smokers and non-smokers, perhaps through a case-control study, and then look for the number of cases of lung cancer in each group.
+Mathematical probability theory arose from the study of games of chance, although the concept of probability was already examined in medieval law and by philosophers such as Juan Caramuel.
+Least squares applied to linear regression is called ordinary least squares method and least squares applied to nonlinear regression is called non-linear least squares.
+(Does he/she give us a complete picture?)
+An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements.
+A common goal for a statistical research project is to investigate causality, and in particular to draw a conclusion on the effect of changes in the values of predictors or independent variables on dependent variables.
+This does ''not'' imply that the probability that the true value is in the confidence interval is 95%.
+The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
+Some scholars pinpoint the origin of statistics to 1663, with the publication of ''Natural and Political Observations upon the Bills of Mortality'' by John Graunt.
+The indictment comes because of suspicion of the guilt.
+In both types of studies, the effect of differences of an independent variable (or variables) on the behavior of the dependent variable are observed.
+The second wave of the 1910s and 20s was initiated by William Gosset, and reached its culmination in the insights of Ronald Fisher, who wrote the textbooks that were to define the academic discipline in universities around the world.
+Jerzy Neyman in 1934 showed that stratified random sampling was in general a better method of estimation than purposive (quota) sampling.
+Thus, people may often believe that something is true even if it is not well represented.
+In contrast, an observational study does not involve experimental manipulation.
+(Is his/her conclusion logical and consistent with what  we already know?)
+Nominal measurements do not have meaningful rank order among values, and permit any one-to-one transformation.
+According to Huff, "The dependability of a sample can be destroyed by bias... allow yourself some degree of skepticism."
+''Theoretical statistics'' concerns both the logical arguments underlying justification of approaches to statistical inference, as well encompassing ''mathematical statistics''.
+* How does he/she know?
+It is used to understand measurement systems variability, control processes (as in statistical process control or SPC), for summarizing data, and to make data-driven decisions.
+In these roles, it is a key tool, and perhaps the only reliable tool.
+Probability is used in mathematical statistics to study the sampling distributions of sample statistics and, more generally, the properties of statistical procedures.
+This has changed with use of statistics in non-inferential contexts.
+The researchers first measured the productivity in the plant, then modified the illumination in an area of the plant and checked if the changes in illumination affected productivity.
+It uses patterns in the sample data to draw inferences about the population represented, accounting for randomness.
+Sometimes the bounds for a confidence interval are reached asymptotically and these are used to approximate the true bounds.
+In applying statistics to, e.g., a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model process to be studied.
+Multiple problems have come to be associated with this framework: ranging from obtaining a sufficient sample size to specifying an adequate null hypothesis.
+Inferences on mathematical statistics are made under the framework of probability theory, which deals with the analysis of random phenomena.
+(Does he/she offer us the right answer to the wrong problem?)
+Statistics form a key basis tool in business and manufacturing as well.
+Those in the Hawthorne study became more productive not because the lighting was changed but because they were being observed.
+They introduced the concepts of "Type II" error, power of a test and confidence intervals.
+Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.
+Statistical techniques are used in a wide range of types of scientific and social research, including: biostatistics,  computational biology,  computational sociology,  network biology,  social science,  sociology and  social research.
+The final wave, which mainly saw the refinement and expansion of earlier developments, emerged from the collaborative work between Egon Pearson and Jerzy Neyman in the 1930s.
+Whether or not a transformation is sensible to contemplate depends on the question one is trying to answer" (Hand, 2004, p.&nbsp;82).
+The statistical significance of a trend in the data—which measures the extent to which a trend could be caused by random variation in the sample—may or may not agree with an intuitive sense of its significance.
+'''Statistics''' is the study of the collection, analysis, interpretation, presentation, and organization of data.
+He originated the concepts of sufficiency, ancillary statistics, Fisher's linear discriminator and Fisher information.
+Populations can be diverse topics such as "all people living in a country" or "every atom composing a crystal".
+# Further examining the data set in secondary analyses, to suggest new hypotheses for future study.
+These disciplines include:
+The Hawthorne effect refers to finding that an outcome (in this case, worker productivity) changed due to observation itself.
+An alternative to this approach is offered by Bayesian inference, although it requires establishing a prior probability.
+Again, descriptive statistics can be used to summarize the sample data.
+However, the drawing of the sample has been subject to an element of randomness, hence the established numerical descriptors from the sample are also due to uncertainty.
+Such distinctions can often be loosely correlated with data type in computer science, in that dichotomous categorical variables may be represented with the Boolean data type, polytomous categorical variables with arbitrarily assigned integers in the integral data type, and continuous variables with the real data type involving floating point computation.
+"The relationship between the data and what they describe merely reflects the fact that certain kinds of statistical statements may have truth values which are not invariant under some transformations.
+For example, a study of annual income that also looks at age of death might find that poor people tend to have shorter lives than affluent people.
+Other categorizations have been proposed.
+The two variables are said to be correlated; however, they may or may not be the cause of one another.
+The null hypothesis, H0, asserts that the defendant is innocent, whereas the alternative hypothesis, H1, asserts that the defendant is guilty.
+Fisher's most important publications were his 1918 seminal paper ''The Correlation between Relatives on the Supposition of Mendelian Inheritance'', which was the first to use the statistical term, variance, his classic 1925 work ''Statistical Methods for Research Workers'' and his 1935 ''The Design of Experiments'', where he developed rigorous design of experiments models.
+For this reason, there is no way to immediately infer the existence of a causal relationship between the two variables.
+Unfortunately, most people do not look for bias or errors, so they are not noticed.
+Each can be very effective.
+Statistics is applicable to a wide variety of academic disciplines, including natural and social sciences, government, and business.
+# Documenting and presenting the results of the study.
+(See Correlation does not imply causation.)
+An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements.
+Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole.
+Either the true value is or is not within the given interval.
+(Does he/she have an axe to grind?)

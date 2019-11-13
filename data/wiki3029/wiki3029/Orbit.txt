@@ -1,0 +1,200 @@
+As the firing velocity is increased, the cannonball hits the ground farther (B) away from the cannon, because while the ball is still falling towards the ground, the ground is increasingly curving away from it (see first point, above).
+Orbital decay can occur due to tidal forces for objects below the synchronous orbit for the body they're orbiting.
+Particularly at each periapsis, the object experiences atmospheric drag, losing energy.
+Once in orbit, their speed keeps them in orbit above the atmosphere.
+Eventually, the effect becomes so great that the maximum kinetic energy is not enough to return the orbit above the limits of the atmospheric drag effect.
+If an orbit is about a planetary body with significant atmosphere, its orbit can decay because of drag.
+This is put into a more standard form by
+An orbital perturbation is when a force or impulse which is much smaller than the overall force or average impulse of the main gravitating body and which is external to the two orbiting bodies causes an acceleration, which changes the parameters of the orbit over time.
+Conversely, the gravity of the satellite on the bulges applies torque on the primary and speeds up its rotation.
+Notably, a prograde impulse at periapsis raises the altitude at apoapsis, and vice versa, and a retrograde impulse does the opposite.
+This results in the harmonic parabolic equations  and  of the ellipse.
+The location of the orbiting object at the current time  is located in the plane using
+which is actually the theoretical proof of Kepler's second law (A line joining a planet and the Sun sweeps out equal areas during equal intervals of time).
+Relativistic effects cease to be negligible when near very massive bodies (as with the precession of Mercury's orbit about the Sun), or when extreme precision is needed (as with calculations of the orbital elements and time signal references for GPS satellites.)
+This may be the case with most comets if they come from outside the solar system.
+A line drawn from periapsis to apoapsis is the '''line-of-apsides'''.
+Since work is required to separate two bodies against the pull of gravity, their gravitational potential energy increases as they are separated, and decreases as they approach one another.
+First, he found that the orbits of the planets in our solar system are elliptical, not circular (or epicyclic), as had previously been believed, and that the Sun is not located at the center of the orbits, but rather at one focus.
+However, in practice, orbits are affected or perturbed, by other forces than simple gravity from an assumed point source (see the next section), and thus the orbital elements change over time.
+Derivatives of  with respect to time may be rewritten as derivatives of  with respect to angle.
+For any specific combination of height above the center of gravity and mass of the planet, there is one specific firing velocity (unaffected by the mass of the ball, which is assumed to be very small relative to the Earth's mass) that produces a circular orbit, as shown in (C).
+The point where the orbiting body is closest to Earth is the called the perigee,  and called periapsis (less properly, "perifocus" or "pericentron") when the orbit is about a body other than Earth.
+The point where the satellite is farthest from Earth is called the apogee, apoapsis, or sometimes apifocus or apocentron.
+Although it was capable of accurately predicting the planets' positions in the sky, more and more epicycles were required as the measurements became more accurate, hence the model became more and more unwieldy.
+See also Kepler's Third Law.
+This focal point is actually the barycenter of the Sun-planet system; for simplicity this explanation assumes the Sun's mass is infinitely larger than that planet's.
+The paths of all the star's satellites are elliptical orbits about that barycenter.
+For smaller bodies particularly, light and stellar wind can cause significant perturbations to the attitude and direction of motion of the body, and over time can be significant.
+The bounds of an atmosphere vary wildly.
+Except for special cases like the Lagrangian points, no method is known to solve the equations of motion for a system with four or more bodies.
+Differential simulations with large numbers of objects perform the calculations in a hierarchical pairwise fashion between centers of mass.
+Let  and  be the standard Euclidean bases
+Within a planetary system, planets, dwarf planets, asteroids and other minor planets, comets, and space debris orbit the system's barycenter in elliptical orbits.
+for an elliptical orbit with semi-major axis ''a'', of a small body around a spherical body with radius ''r'' and average density σ, where ''T'' is the orbital period.
+Jupiter and Venus, for example, are respectively about 5.2 and 0.723 AU distant from the Sun, their orbital periods respectively about 11.86 and 0.615 years.
+A transverse impulse (out of the orbital plane) causes rotation of the orbital plane without changing the period or eccentricity.
+Then the vector to the orbiting object is
+Scaling of distances while keeping the masses the same (in the case of point masses, or by reducing the densities) gives similar orbits; if distances are multiplied by 4, gravitational forces and accelerations are divided by 16, velocities are halved and orbital periods are multiplied by 8.
+#* Range of elliptical paths with closest point opposite firing point
+This is the major axis of the ellipse, the line through its longest part.
+This is similar to the effect of slowing a pendulum at its lowest point; the highest point of the pendulum's swing becomes lower.
+letting  be the semi-major axis.
+the vector  keeps its beginning at the origin and rotates from
+It is now in what could be called a non-interrupted, or circumnavigating, orbit.
+In all these cases of scaling.
+As an illustration of an orbit around a planet, the Newton's cannonball model may prove useful (see image below).
+Scaling of distances (including sizes of bodies, while keeping the densities the same) gives similar orbits without scaling the time: if for example distances are halved, masses are divided by 8, gravitational forces by 16 and gravitational accelerations by 2.
+Celestial mechanics treats more broadly the orbital dynamics of systems under the influence of gravity, including spacecraft and natural astronomical bodies such as star systems, planets, moons, and comets.
+In all instances, a closed orbit will still intersect the perturbation point.
+are the radial and transverse unit vectors in those directions.
+This is the conversion of chemical or electrical energy to kinetic energy.
+When only two gravitational bodies interact, their orbits follow a conic section.
+Therefore accelerations can be expressed in terms of positions.
+The orbit can be open (implying the object never returns) or closed (returning).
+This is a 'thought experiment', in which a cannon on top of a tall mountain is able to fire a cannonball horizontally at any chosen muzzle velocity.
+During a solar maximum, the Earth's atmosphere causes drag up to a hundred kilometres higher than during a solar minimum.
+Albert Einstein showed that gravity was due to curvature of space-time, and thus he was able to remove Newton's assumption that changes propagate instantaneously.
+As the wire cuts the magnetic field it acts as a generator, moving electrons from one end to the other.
+The orbital energy is converted to heat in the wire.
+We can divide through by  because it is not zero unless the orbiting object crashes.
+an impulse applied along the orbital motion) changes both the eccentricity and the orbital period.
+Where one body is much more massive than the other (as is the case of an artificial satellite orbiting a planet), it is a convenient approximation to take the center of mass as coinciding with the center of the more massive body.
+If the initial firing is above the surface of the Earth as shown, there will also be elliptical orbits at slower velocities; these will come closest to the Earth at the point half an orbit beyond, and directly opposite, the firing point.
+They do depend on the orientation of the body's symmetry axis in the space, affecting, in general, the whole orbit, with the exception of the semimajor axis.
+The basis for the modern understanding of orbits was first formulated by Johannes Kepler whose results are summarised in his three laws of planetary motion.
+One approximate result is that bodies will usually have reasonably stable orbits around a heavier planet or moon, in spite of these perturbations, provided they are orbiting well within the heavier body's Hill sphere.
+In the case of planets orbiting a star, the mass of the star and all its satellites are calculated to be at a single point called the barycenter.
+The effects of other gravitating bodies can be significant.
+# ''Orbital trajectories (or simply "orbits")''
+:    (reworking (3))
+* Inclination (''i'')
+An orbit around any star, not just the Sun, has a periastron and an apastron.
+There are also specific terms for orbits about particular bodies; things orbiting the Sun have a perihelion and aphelion, things orbiting the Earth have a perigee and apogee, and things orbiting the Moon have a perilune and apolune (or periselene and aposelene respectively).
+We use  and  to denote the standard derivatives of how this distance and angle change over time.
+When there are more than two gravitating bodies it is referred to as an n-body problem.
+formulated as follows:
+As two objects orbit each other, the periapsis is that point at which the two objects are closest to each other and the apoapsis is that point at which they are the farthest.
+The perturbation terms are much easier to describe in this form.
+All these motions are actually "orbits" in a technical sense – they are describing a portion of an elliptical path around the center of gravity – but the orbits are interrupted by striking the Earth.
+if densities are multiplied by 4, times are halved; if velocities are doubled, forces are multiplied by 16.
+When all densities are multiplied by 4, and all sizes are halved, orbits are similar; masses are divided by 2, gravitational forces are the same, gravitational accelerations are doubled.
+A stationary body far from another can do external work if it is pulled towards it, and therefore has gravitational ''potential energy''.
+(See also Binet equation.)
+We can now find the velocity and acceleration of our orbiting object.
+and let  and  be the radial and transverse polar basis with the first being the unit vector pointing from the central body to the current location of the orbiting object and the second being the orthogonal unit vector pointing in the direction that the orbiting object would travel if orbiting in a counter clockwise circle.
+In this way changes in the orbit shape or orientation can be facilitated.
+Second, he found that the orbital speed of each planet is not constant, as had previously been thought, but rather that the speed depends on the planet's distance from the Sun.
+(More specific terms are used for specific bodies.
+A small radial impulse given to a body in orbit changes the eccentricity, but not the orbital period (to first order).
+The coefficients of
+Hence velocities are the same and orbital periods are halved.
+When all densities are multiplied by 4, orbits are the same; gravitational forces are multiplied by 16 and accelerations by 4, velocities are doubled and orbital periods are halved.
+#* Range of elliptical paths with closest point at firing point
+As a result, as a planet approaches periapsis, the planet will increase in speed as its potential energy decreases; as a planet approaches apoapsis, its velocity will decrease as its potential energy increases.
+Bodies which are gravitationally bound to one of the planets in a planetary system, either natural or artificial satellites, follow orbits about a barycenter near or within that planet.
+If the cannon fires its ball with a low initial velocity, the trajectory of the ball curves downward and hits the ground (A).
+In polar coordinates, this would express the distance  of the orbiting object from the center as a function of its angle .
+Hence velocities are halved and orbital periods remain the same.
+When bodies with escape velocity or greater approach each other, they will briefly curve around each other at the time of their closest approach, and then separate, forever.
+:The differential equation form is used for scientific or mission-planning purposes.
+A circular orbit is a special case, wherein the foci of the ellipse coincide.
+In most situations relativistic effects can be neglected, and Newton's laws give a sufficiently accurate description of motion.
+This means that the planet moves faster near its perihelion than near its aphelion, because at the smaller distance it needs to trace a greater arc to cover the same area.
+Numerical methods calculate the positions and velocities of the objects a short time in the future, then repeat the calculation ad nauseam.
+* Argument of periapsis (ω)
+Because our basis vector   moves as the object orbits, we start by differentiating it.
+Isaac Newton demonstrated that Kepler's laws were derivable from his theory of gravitation and that, in general, the orbits of bodies subject to gravity were conic sections (this assumes that the force of gravity propagates instantaneously).
+However, traditionally the parameters used are slightly different.
+This is convenient for calculating the positions of astronomical bodies.
+* As the object is pulled toward the massive body, it falls toward that body.
+If the heavier body is much more massive than the smaller, as in the case of a satellite or small moon orbiting a planet or for the Earth orbiting the Sun, it is accurate enough and convenient to describe the motion in terms of a coordinate system that is centered on the heavier body, and we say that the lighter body is in orbit around the heavier.
+Mercury, the smallest planet in the Solar System, has the most eccentric orbit.
+In 1912, Karl Fritiof Sundman developed a converging infinite series that solves the three-body problem; however, it converges too slowly to be of much use.
+From the point of view of satellite dynamics, of particular relevance are the so-called even zonal harmonic coefficients, or even zonals, since they induce secular orbital perturbations which are cumulative over time spans longer than the orbital period.
+In order to get an equation for the orbit from equation (1), we need to eliminate time.
+* Mean anomaly at epoch (''M''0).
+The proportionality is seen by the fact that the ratio for Jupiter, 5.23/11.862, is practically equal to that for Venus, 0.7233/0.6152, in accord with the relationship.
+# ''Open (or escape) trajectories''
+# The orbit of a planet around the Sun is an ellipse, with the Sun in one of the focal points of that ellipse.
+The application of certain orbits or orbital maneuvers to specific useful purposes have been the subject of patents.
+General relativity is a more exact theory than Newton's laws for calculating orbits, and is sometimes necessary for greater accuracy or in high-gravity situations (such as orbits close to the Sun).
+Equation (2) can be rearranged using integration by parts.
+The velocity relationship of two moving objects with mass can thus be considered in four practical classes, with subtypes:
+However, tiny arithmetic errors from the limited accuracy of a computer's math are cumulative, which limits the accuracy of this approach.
+be the angle it has rotated.
+However, in the real world, many bodies rotate, and this introduces oblateness and distorts the gravity field, and gives a quadrupole moment to the gravitational field which is significant at distances comparable to the radius of the body.
+For example, the three numbers that specify the body's initial position, and the three values that specify its velocity will define a unique orbit that can be calculated forwards (or backwards) in time.
+As said, Newton gives this first due to gravity is  and the second is zero.
+The celestial spheres model is a geocentric model of the solar system originally used to explain the apparent motion of the planets in the sky.
+As the firing velocity is increased beyond this, elliptic orbits are produced; one is shown in (D).
+All closed orbits have the shape of an ellipse.
+This resulting equation of the orbit of the object is that of an ellipse in Polar form relative to one of the focal points.
+Some satellites with long conductive tethers can also experience orbital decay because of electromagnetic drag from the Earth's magnetic field.
+Each satellite in that system will have its own elliptical orbit with the barycenter at one focal point of that ellipse.
+Essentially all the experimental evidence that can distinguish between the theories agrees with relativity theory to within experimental measurement accuracy.
+The planet's orbit lies in a plane, called the '''orbital plane'''.
+Vector calculus in polar coordinates both with the standard Euclidean basis and with the polar basis
+It posited the existence of perfect moving spheres or rings to which the stars and planets were attached.
+Each time, the orbit grows less eccentric (more circular) because the object loses kinetic energy precisely when that energy is at its maximum.
+The orbital period is simply how long an orbiting body takes to complete one orbit.
+Then having the derivative be zero gives that the function is a constant.
+Still, there are secular phenomena that have to be dealt with by post-Newtonian methods.
+The rotation to do this in three dimensions requires three numbers to uniquely determine; traditionally these are expressed as three angles.
+For the planets, the cubes of their distances from the Sun are proportional to the squares of their orbital periods.
+The equations of motion of the moons, planets and other bodies are known with great accuracy, and are used to generate tables for celestial navigation.
+However, if it has enough tangential velocity it will not fall into the body but will instead continue to follow the curved trajectory caused by that body indefinitely.
+It is a core discipline within space mission design and control.
+The effects of air friction on the cannonball are ignored (or perhaps the mountain is high enough that the cannon will be above the Earth's atmosphere, which comes to the same thing).
+The object is then said to be orbiting the body.
+The Keplerian elements are six:
+However, it is easier to
+letting  be the eccentricity,
+* Semimajor axis (''a'')
+* Longitude of the ascending node (Ω)
+Finally, letting  so the long axis of the ellipse is along the positive ''x'' coordinate.
+The motion of these objects is usually calculated from Newton's laws of motion and Newton's law of universal gravitation.
+Artificial satellites are too small to have an appreciable tidal effect on the planets they orbit, but several moons in the solar system are undergoing orbital decay by this mechanism.
+angle   to  which moves its head a distance  in the perpendicular direction  giving a derivative of  .
+Six parameters are required to specify a Keplerian orbit about a body.
+Since the kinetic energy is never negative, if the common convention is adopted of taking the potential energy as zero at infinite separation, the bound orbits will have negative total energy, the parabolic trajectories zero total energy, and hyperbolic orbits positive total energy.
+However, Newton's solution is still used for most short term purposes since it is significantly easier to use and sufficiently accurate.
+* Eccentricity (''e'')
+For example, the orbit of the Moon cannot be accurately described without allowing for the action of the Sun's gravity as well as the Earth's.
+with the origin coinciding with the center of force.
+introduced the auxiliary variable  and to express  as a function of .
+When this happens the body will rapidly spiral down and intersect the central body.
+In principle once the orbital elements are known for a body, its position can be calculated forward and backwards indefinitely in time.
+Let  be the distance between the object and the center and
+See statite for one such proposed use.
+Orbital mechanics focuses on spacecraft trajectories, including orbital maneuvers, orbit plane changes, and interplanetary transfers, and is used by mission planners to predict the results of propulsive maneuvers.
+The first calculation of the relativistic distortion came from measurements of Mercury's orbit period caused by the solar gravity field.
+At any point along its orbit, any satellite will have a certain value of kinetic and potential energy with respect to the barycenter, and that energy is a constant value at every point along its orbit.
+Note that while bound orbits of a point mass or a spherical body with a Newtonian gravitational field are closed ellipses, which repeat the same path exactly and indefinitely, any non-spherical or non-Newtonian effects (such as caused by the slight oblateness of the Earth, or by relativistic effects, thereby changing the gravitational field's behavior with distance) will cause the orbit's shape to depart from the closed ellipses characteristic of Newtonian two-body motion.
+In the general case, the gravitational potential of a rotating body such as, e.g., a planet is usually expanded in multipoles accounting for the departures of it from spherical symmetry.
+For point masses the gravitational energy decreases to zero as they approach zero separation.
+The near bulge slows the object more than the far bulge speeds it up, and as a result the orbit decays.
+This law is usually stated as "equal areas in equal time."
+from that at time  and dividing by .
+So for the gravitational force – or, more generally, for ''any'' inverse square force law – the right hand side of the equation becomes a constant and the equation is seen to be the harmonic equation (up to a shift of origin of the dependent variable).
+Of the planetary bodies, the motion of asteroids is particularly affected over large periods when the asteroids are rotating relative to the Sun.
+These forms of propulsion require no propellant or energy input other than that of the Sun, and so can be used indefinitely.
+# For a given orbit, the ratio of the cube of its semi-major axis to the square of its period is constant.
+Hence, the entire analysis can be done separately in these dimensions.
+According to Newton's laws, the sum of all the forces acting on a body will equal the mass of the body times its acceleration (''F = ma'').
+The differences between the two are usually very small (except where there are very strong gravity fields and very high speeds).
+Occasionally a space craft will intentionally intercept the atmosphere, in an act commonly referred to as an aerobraking maneuver
+The point on the orbit closest to the attracting body is the periapsis.
+:One form takes the pure elliptic motion as a basis, and adds perturbation terms to account for the gravitational influence of multiple bodies.
+Third, Kepler found a universal relationship between the orbital properties of all the planets orbiting the Sun.
+where ''A'' and ''θ''0 are arbitrary constants.
+This mechanism is extremely weak for most stellar objects, only becoming significant in cases where there is a combination of extreme mass and extreme acceleration, such as with black holes or neutron stars that are orbiting each other closely.
+At a specific velocity called escape velocity, dependent on the mass of the planet, an open orbit (E) is achieved that has a parabolic path.
+Using this scheme, galaxies, star clusters and other large assemblages of objects have been simulated.
+With each successive slowing more of the orbit's path is affected by the atmosphere and the effect becomes more pronounced.
+The constant of integration, ''h'', is the angular momentum per unit mass.
+Orbits can decay via the emission of gravitational waves.
+In the case of an open orbit, the speed at any position of the orbit is at least the escape velocity for that position, in the case of a closed orbit, the speed is always less than the escape velocity.
+Plugging these into (1) gives
+For the case where the masses of two bodies are comparable, an exact Newtonian solution is still sufficient and can be had by placing the coordinate system  at the center of mass of the system.
+'''Orbital mechanics''' or '''astrodynamics''' is the application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft.

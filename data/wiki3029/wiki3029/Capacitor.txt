@@ -1,0 +1,200 @@
+These packages are extremely small and lack connecting leads, allowing them to be soldered directly onto the surface of printed circuit boards.
+Here, a large value of capacitance, whose value need not be accurately controlled, but whose reactance is small at the signal frequency, is employed.
+Individual motor or lamp loads may have capacitors for power factor correction, or larger sets of capacitors (usually with automatic switching devices) may be installed at a load center within a building or in a large utility substation.
+This is just as when water flow moves the rubber membrane, it increases the amount of water on one side of the membrane, and decreases the amount of water on the other side.
+Current reversal occurs when the current changes direction.
+Because the conductors (or plates) are close together, the opposite charges on the conductors attract one another due to their electric fields, allowing the capacitor to store more charge for a given voltage than if the conductors were separated, giving the capacitor a large capacitance.
+Some fingerprint sensors use capacitors.
+It becomes negligibly small when the ratios of plate width to separation and length to separation are large.
+In this case, the entire panel is a capacitor used for the purpose of generating light.
+:Capacitors with a flexible plate can be used to measure strain or pressure.
+The conductors and leads introduce an undesired inductance and resistance.
+These are often referred to as embedded capacitors.
+In analog filter networks, they smooth the output of power supplies.
+The SI unit of capacitance is the farad (F), which is equal to one coulomb per volt (1 C/V).
+A very stretchy, flexible membrane corresponds to a higher capacitance than a stiff membrane.
+'''Polymer capacitors''' (OS-CON, OC-CON, KO, AO) use solid conductive polymer (or polymerized organic semiconductor) as electrolyte and offer longer life and lower ESR at higher cost than standard electrolytic capacitors.
+In DC circuits, this will usually be less than 100% (often in the range of 0 to 90%), whereas AC circuits experience 100% reversal.
+The assembly is encased to prevent moisture entering the dielectricearly radio equipment used a cardboard tube sealed with wax.
+The maximum energy that the capacitor can store is therefore
+Assuming that the length and width of the plates are much greater than their separation ''d'', the electric field near the centre of the device will be uniform with the magnitude ''E'' = ρ/ε.
+Dielectric or metal interconnection failures may create arcing that vaporizes the dielectric fluid, resulting in case bulging, rupture, or even an explosion.
+With the development of plastic materials by organic chemists during the Second World War, the capacitor industry began to replace paper with thinner polymer films.
+In the reverse microphonic effect, the varying electric field between the capacitor plates exerts a physical force, moving them as a speaker.
+The dielectric in larger capacitors is often impregnated with a liquid to improve its properties.
+Reversal creates excess electric fields in the dielectric, causes excess heating of both the dielectric and the conductors, and can dramatically shorten the life expectancy of the capacitor.
+A changing dielectric constant with frequency is referred to as dielectric dispersion, and is governed by dielectric relaxation processes, such as Debye relaxation.
+Ripple current causes heat to be generated within the capacitor due to the dielectric losses caused by the changing field strength together with the current flow across the slightly resistive supply lines or the electrolyte in the capacitor.
+A capacitor connected to a sinusoidal voltage source will cause a displacement current to flow through it.
+Large capacitors for high-voltage use may have the roll form compressed to fit into a rectangular metal case, with bolted terminals and bushings for connections.
+This method is known as ''AC coupling'' or "capacitive coupling".
+:To model the distribution of voltages from a single charged capacitor  connected in parallel to a chain of capacitors in series  :
+The initial current is then ''I''(0)&nbsp;=''V''0/''R''.
+;For capacitors in series
+The resistance values of the voltage-divider resistors and the capacitance value of the capacitor together control the oscillatory frequency.
+Any capacitor containing over 10 joules of energy is generally considered hazardous, while 50 joules or higher is potentially lethal.
+In other cases, such as with breakdown voltage, the effect is non-linear and normal (i.e., linear) network analysis cannot be used, the effect must be dealt with separately.
+Impedance, the vector sum of reactance and resistance, describes the phase difference and the ratio of amplitudes between sinusoidally varying voltage and sinusoidally varying current at a given frequency.
+Capacitors may also have built-in discharge resistors to dissipate stored energy to a safe level within a few seconds after power is removed.
+Capacitance is defined as the ratio of the electric charge ''Q'' on each conductor to the potential difference ''V'' between them.
+Capacitor-run induction motors have a permanently connected phase-shifting capacitor in series with a second winding.
+As the capacitor reaches equilibrium with the source voltage, the voltages across the resistor and the current through the entire circuit decay exponentially.
+As frequency approaches infinity, the capacitive impedance (or reactance) approaches zero and the ESR becomes significant.
+If the conductors are separated by a material with a small conductivity rather than a perfect dielectric, then a small leakage current flows directly between them.
+In ceramic capacitors, this is caused by degradation of the dielectric.
+Alternatively, the time response of the capacitance can be used directly, as in ''deep-level transient spectroscopy''.
+In many vacuum tube circuits, interstage coupling capacitors are used to conduct a varying signal from the plate of one tube to the grid circuit of the next stage.
+Larger values can be made by multiple stacks of plates and disks.
+As inductive reactance is positive and increases with frequency, above a certain frequency capacitance will be canceled by inductance.
+"Axial" means that the leads are on a common axis, typically the axis of the capacitor's cylindrical bodythe leads extend from opposite ends.
+While widely used for power-supply conditioning, poor high-frequency characteristics make them unsuitable for many applications.
+These are called capacitor-start motors, that have relatively high starting torque.
+Aluminum electrolytic capacitors are ''conditioned'' when manufactured by applying a voltage sufficient to initiate the proper internal chemical state.
+Some types of capacitors, primarily tantalum and aluminum electrolytic capacitors, as well as some film capacitors have a specified rating value for maximum ripple current.
+The layers in the board contributing to the capacitive properties also function as power and ground planes, and have a dielectric in between them, enabling them to operate as a parallel plate capacitor.
+Capacitors used in these applications may be built into a printed circuit board, between the various layers.
+If XC approaches 0, the capacitor resembles a short wire that strongly passes current at high frequencies.
+The equivalent series resistance (ESR) is the amount of internal series resistance one would add to a perfect capacitor to model this.
+A capacitor may regain anywhere from 0.01 to 20% of its original charge over a period of several minutes, allowing a seemingly safe capacitor to become surprisingly dangerous.
+For example, even a seemingly innocuous device such as a disposable-camera flash unit, powered by a 1.5 volt AA battery, has a capacitor which may contain over 15 joules of energy and be charged to over 300 volts.
+With this assumption, solving the differential equation yields
+An ideal capacitor is characterized by a single constant value, its capacitance.
+Taking the derivative of this and multiplying by ''C'' yields the derivative form:
+Audio equipment, for example, uses several capacitors in this way, to shunt away power line hum before it gets into the signal circuitry.
+An AC circuit will experience 100% voltage reversal, while under-damped DC circuits will experience less than 100%.
+To start the motor, a secondary "start" winding has a series non-polarized ''starting capacitor'' to introduce a lead in the sinusoidal current.
+Impedance decreases with increasing capacitance and increasing frequency.
+In this case they are called grading capacitors.
+This is analogous to the fact that the more a membrane is stretched, the more it pushes back on the water.
+Leyden jars or more powerful devices employing flat glass plates alternating with foil conductors were used exclusively up until about 1900, when the invention of wireless (radio) created a demand for standard capacitors, and the steady move to higher frequencies required capacitors with lower inductance.
+In 1896 he filed a patent for an "Electric liquid capacitor with aluminum electrodes."
+Surface mount components avoid undesirable high-frequency effects due to the leads and simplify automated assembly, although manual handling is made difficult due to their small size.
+Reversal is generally described as the percentage of the maximum rated voltage that reverses polarity.
+This power can be found by taking the time derivative of the stored energy:
+In this case, capacitance is defined in terms of incremental changes:
+As the reactance becomes negligible, power dissipation approaches ''P''RMS = ''V''RMS² /''R''ESR.
+A Fourier transform in time then results in:
+A capacitor is assumed to be self-contained and isolated, with no net electric charge and no influence from any external electric field.
+This effect can be objectionable in applications such as precision sample and hold circuits or timing circuits.
+Capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass.
+In the case of a fluctuating voltage ''V''(''t''), the stored energy also fluctuates and hence power must flow into or out of the capacitor.
+Capacitors are connected in parallel with the power circuits of most electronic devices and larger systems (such as factories) to shunt away and conceal current fluctuations from the primary power source to provide a "clean" power supply for signal or control circuits.
+The total voltage difference from end to end is apportioned to each capacitor according to the inverse of its capacitance.
+:Connected in series, the schematic diagram reveals that the separation distance, not the plate area, adds up.
+Under transient conditions, the displacement field can be expressed as (see electric susceptibility):
+They are commonly used in electric motor circuits and are often designed to handle large currents, so they tend to be physically large.
+For air dielectric capacitors the breakdown field strength is of the order 2 to 5 MV/m; for mica the breakdown is 100 to 300 MV/m; for oil, 15 to 25 MV/m; it can be much less when other materials are used for the dielectric.
+Unlike a resistor, an ideal capacitor does not dissipate energy.
+Breakdown voltage is also affected by pressure, humidity and temperature.
+Several other types of capacitor are available for specialist applications.
+To reduce the series resistance and inductance for long plates, the plates and dielectric are staggered so that connection is made at the common edge of the rolled-up plates, not at the ends of the foil or metalized film strips that comprise the plates.
+For high-energy storage with capacitors in series, some safety considerations must be applied to ensure one capacitor failing and leaking current will not apply too much voltage to the other series capacitors.
+(This prevents loss of information in volatile memory.)
+Constant exposure to heat can cause dielectric breakdown and excessive leakage, a problem often seen in older vacuum tube circuits, particularly where oiled paper and foil capacitors were used.
+indicating the lag in response by the time dependence of ''εr'', calculated in principle from an underlying microscopic analysis, for example, of the dipole behavior in the dielectric.
+An ideal capacitor is wholly characterized by a constant capacitance ''C'', defined as the ratio of charge ±''Q'' on each conductor to the voltage ''V'' between them:
+Smaller capacitors like ceramics, however, use a shorthand consisting of three numeric digits and a letter, where the  digits indicate the capacitance in pF (calculated as XY × 10Z for digits XYZ) and the letter indicates the tolerance (J, K or M for ±5%, ±10% and ±20% respectively).
+For small values of capacitance (microfarads and less), ceramic disks use metallic coatings, with wire leads bonded to the coating.
+In order to maximise the charge that a capacitor can hold, the dielectric material needs to have as high a permittivity as possible, while also having as high a breakdown voltage as possible.
+Several solid dielectrics are available, including paper, plastic, glass, mica and ceramic.
+Charles Pollak (born Karol Pollak), the inventor of the first electrolytic capacitors, found out that the oxide layer on an aluminum anode remained stable in a neutral or alkaline electrolyte, even when the power was switched off.
+Similar considerations apply to component fabricated solid-state (transistor) amplifiers, but owing to lower heat production and the use of modern polyester dielectric barriers this once-common problem has become relatively rare.
+where τ0&nbsp;= ''RC'' is the ''time constant'' of the system.
+It is known that waste PCBs can leak into groundwater under landfills.
+More compact construction methods began to be used, such as a flexible dielectric sheet (like oiled paper) sandwiched between sheets of metal foil, rolled or folded into a small package.
+The conductors thus hold equal and opposite charges on their facing surfaces, and the dielectric develops an electric field.
+The capacitance, being proportional to the dielectric constant, also exhibits this frequency behavior.
+The following year, the Dutch physicist Pieter van Musschenbroek invented a similar capacitor, which was named the Leyden jar, after the University of Leiden where he worked.
+Another example of frequency dependent capacitance occurs with MOS capacitors, where the slow generation of minority carriers means that at high frequencies the capacitance measures only the majority carrier response, while at low frequencies both types of carrier respond.
+The capacitors act as a local reserve for the DC power source, and bypass AC currents from the power supply.
+High-voltage capacitors can benefit from a pre-charge to limit in-rush currents at power-up of high voltage direct current (HVDC) circuits.
+Capacitors used in RF or sustained high-current applications can overheat, especially in the center of the capacitor rolls.
+In reality there are fringing fields outside the dielectric, for example between the sides of the capacitor plates, which will increase the effective capacitance of the capacitor.
+:Capacitors in a parallel configuration each have the same applied voltage.
+Their capacitances add up.
+A feedthrough capacitor is a component that, while not serving as its main use, has capacitance and is used to conduct signals through a conductive sheet.
+Variable capacitors with their plates open to the atmosphere were commonly used in radio tuning circuits.
+Paper was used extensively in older capacitors and offers relatively high voltage performance.
+Larger capacitors like electrolytics usually display the actual capacitance together with the unit (for example, '''220 μF''').
+''Z''(''ω'') is the complex impedance.
+Capacitors may have their connecting leads arranged in many configurations, for example axially or radially.
+If a battery has been attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor.
+The non-conductive region can either be a vacuum or an electrical insulator material known as a dielectric.
+In the hydraulic analogy, charge carriers flowing through a wire are analogous to water flowing through a pipe.
+Industrial pressure transmitters used for process control use pressure-sensing diaphragms, which form a capacitor plate of an oscillator circuit.
+See electrolytic capacitor#Designing for reverse bias.
+Small, cheap discoidal ceramic capacitors have existed since the 1930s, and remain in widespread use.
+where ''j'' is the imaginary unit, ''V''(''ω'') is the voltage component at angular frequency ''ω'', ''G''(''ω'') is the ''real'' part of the current, called the ''conductance'', and ''C''(''ω'') determines the ''imaginary'' part of the current and is the ''capacitance''.
+Experimental work is under way using banks of capacitors as power sources for electromagnetic armour and electromagnetic railguns and coilguns.
+As the voltage increases, the dielectric must be thicker, making high-voltage capacitors larger per capacitance than those rated for lower voltages.
+In the past, alternate capacitance subunits were used in historical electronic books; "mfd" and "mf" for microfarad (µF); "mmfd", "mmf", "µµF" for picofarad (pF); but are rarely used any more.
+Instead, a capacitor stores energy in the form of an electrostatic field between its plates.
+Electrolytic capacitors will self-degrade if unused for a period (around a year), and when full power is applied may short circuit, permanently damaging the capacitor and usually blowing a fuse or causing failure of rectifier diodes (for instance, in older equipment, arcing in rectifier tubes).
+Paper capacitors made by sandwiching a strip of impregnated paper between strips of metal, and rolling the result into a cylinder were commonly used in the late 19century; their manufacture started in 1876, and they were used from the early 20th century as decoupling capacitors in telecommunications (telephony).
+:Capacitors are combined in series to achieve a higher working voltage, for example for smoothing a high voltage power supply.
+In schematic diagrams, a capacitor used primarily for DC charge storage is often drawn vertically in circuit diagrams with the lower, more negative, plate drawn as an arc.
+The nonconducting dielectric acts to increase the capacitor's charge capacity.
+It can usually be taken as a broadly linear function but can be noticeably non-linear at the temperature extremes.
+Radial leads might more accurately be referred to as tandem; they are rarely actually aligned along radii of the body's circle, so the term is inexact, although universal.
+Aging is fastest near the beginning of life of the component, and the device stabilizes over time.
+It is most commonly used between the power supply and ground.
+Squeezing the dielectric can change a capacitor at a few tens of bar pressure sufficiently that it can be used as a pressure sensor.
+The earliest unit of capacitance was the jar, equivalent to about 1.11 nanofarads.
+:Series connection is also sometimes used to adapt polarized electrolytic capacitors for bipolar AC use.
+The usual breakdown route is that the field strength becomes large enough to pull electrons in the dielectric from their atoms thus causing conduction.
+Finally, combined parasitic effects such as inherent inductance, resistance, or dielectric losses can exhibit non-uniform behavior at variable frequencies of operation.
+These resonances are the basis for a number of experimental techniques for detecting defects.
+* Ceramic capacitors generally have no ripple current limitation and have some of the lowest ESR ratings.
+The dielectric is used in very thin layers and so absolute breakdown voltage of capacitors is limited.
+*''The more a capacitor is charged, the larger its voltage drop''; i.e., the more it "pushes back" against the charging current.
+Von Kleist found that touching the wire resulted in a powerful spark, much more painful than that obtained from an electrostatic machine.
+In such an application, on occasion, series strings are connected in parallel, forming a matrix.
+As with any antiderivative, a constant of integration is added to represent the initial voltage ''V''(''t''0).
+On the receiver side smaller mica capacitors were used for resonant circuits.
+If a capacitor is driven with a time-varying voltage that changes rapidly enough, at some frequency the polarization of the dielectric cannot follow the voltage.
+In power amplifiers this can cause the plates to glow red, or current limiting resistors to overheat, even fail.
+Materials commonly used as dielectrics include glass, ceramic, plastic film, paper, mica, and oxide layers.
+An alternative name is ''bypass capacitor'' as it is used to bypass the power supply or other high impedance component of a circuit.
+Very high capacity supercapacitors use a porous carbon-based electrode material.
+They also are designed with direct current breakdown voltages of at least five times the maximum AC voltage.
+If ripple current exceeds the rated value of the capacitor, it tends to result in explosive failure.
+The −''j'' phase indicates that the AC voltage ''V''&nbsp;= ''ZI'' lags the AC current by 90°: the positive current phase corresponds to increasing voltage as the capacitor charges; zero current corresponds to instantaneous constant voltage, etc.
+In single phase squirrel cage motors, the primary winding within the motor housing is not capable of starting a rotational motion on the rotor, but is capable of sustaining one.
+Also for a flash tube a capacitor is used to hold the high voltage.
+These materials some decades later were also well-suited for further use as the dielectric for the first capacitors.
+The current ''I''(''t'') through any component in an electric circuit is defined as the rate of flow of a charge ''Q''(''t'') passing through it, but actual charges—electrons—cannot pass through the dielectric layer of a capacitor.
+In contrast with ceramic capacitors, this occurs towards the end of life of the component.
+Capacitors such as tantalum electrolytic or polysulfone film exhibit very high absorption, while polystyrene or Teflon allow very small levels of absorption.
+The ''conductance method'' measures absorption as a function of frequency.
+In car audio systems, large capacitors store energy for the amplifier to use on demand.
+High-voltage capacitors are stored with the terminals shorted, as protection from potentially dangerous voltages due to dielectric absorption or from transient voltages the capacitor may pick up from static charges or passing weather events.
+File:High-energy capacitor from a defibrillator 42 MFD @ 5000 VDC.jpg|This high-energy capacitor from a defibrillator can deliver over 500 joules of energy.
+This is specified as the ''equivalent series resistance'' or '''ESR''' of a component.
+Electrolytic capacitors use an aluminum or tantalum plate with an oxide dielectric layer.
+Capacitors are used as the sensor in condenser microphones, where one plate is moved by air pressure, relative to the fixed position of the other plate.
+The results can be explosive as the short in the capacitor draws current from the surrounding circuitry and dissipates the energy.
+where a single ''prime'' denotes the real part and a double ''prime'' the imaginary part, ''Z''(''ω'') is the complex impedance with the dielectric present, ''C''cmplx(''ω'') is the so-called ''complex'' capacitance with the dielectric present, and ''C''0 is the capacitance without the dielectric.
+Capacitors containing PCB were labelled as containing "Askarel" and several other trade names.
+Most capacitors have a dielectric spacer, which increases their capacitance compared to air or a vacuum.
+;Voltage distribution in parallel-to-series networks.
+Since the beginning of the study of electricity non conductive materials like glass, porcelain, paper and mica have been used as insulators.
+This is the integral form of the capacitor equation:
+:The effects of varying the characteristics of the '''dielectric''' can be used for sensing purposes.
+A parallel plate capacitor can only store a finite amount of energy before dielectric breakdown occurs.
+The energy stored in a capacitor can be used to represent information, either in binary form, as in DRAMs, or in analogue form, as in analog sampled filters and CCDs.
+Fourier analysis allows any signal to be constructed from a spectrum of frequencies, whence the circuit's reaction to the various frequencies may be found.
+The purpose is to counteract inductive loading from devices like electric motors and transmission lines to make the load appear to be mostly resistive.
+The plates are considered to extend uniformly over an area ''A'' and a charge density ±ρ = ±''Q''/''A'' exists on their surface.
+Supercapacitors made from carbon aerogel, carbon nanotubes, or highly porous electrode materials, offer extremely high capacitance (up to 5&nbsp;kF ) and can be used in some applications instead of rechargeable batteries.
+This will extend the life of the component and may mitigate high-voltage hazards.
+Voltage reversal is encountered in RLC circuits that are over-damped systems usually do not experience a voltage reversal.
+In some capacitors where dangerous voltages and energies exist, such as in flashtubes, television sets, and defibrillators, the dielectric absorption can recharge the capacitor to hazardous voltages after it has been shorted or discharged.
+The dual of the capacitor is the inductor, which stores energy in a magnetic field rather than an electric field.
+Mechanically controlled variable capacitors allow the plate spacing to be adjusted, for example by rotating or sliding a set of movable plates into alignment with a set of stationary plates.
+*''Charge can flow "through" a capacitor even though no individual electron can get from one side to the other.''
+The aging process may be reversed by heating the component above the Curie point.
+Reversal ratings will often affect the design considerations for the capacitor, from the choice of dielectric materials and voltage ratings to the types of internal connections used.
+Later designs use polymer foil dielectric between the moving and stationary plates, with no significant air space between the plates.
+Capacitors deviate from the ideal capacitor equation in a number of ways.
+Temperature dependence of capacitance is usually expressed in parts per million (ppm) per °C.
+The maximum energy is a function of dielectric volume, permittivity, and dielectric strength.

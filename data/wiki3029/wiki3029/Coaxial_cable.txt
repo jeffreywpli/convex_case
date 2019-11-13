@@ -1,0 +1,200 @@
+'''Coaxial cable''', or '''coax''' (pronounced ), is a type of cable that has an inner conductor surrounded by a tubular insulating layer, surrounded by a tubular conducting shield.
+It allows a nearly perfect differential signal which is ''both'' shielded ''and'' balanced to pass through.
+All of the components of a coaxial system should have the same impedance to avoid internal reflections at connections between components.
+An isolating transformer or blocking capacitor can be used to couple a coaxial cable to equipment, where it is desirable to pass radio-frequency signals but to block direct current or low-frequency power.
+It is usually undesirable to transmit signals above the cutoff frequency, since it may cause multiple modes with different phase velocities to propagate, interfering with each other.
+External fields create a voltage across the inductance of the outside of the outer conductor between sender and receiver.
+Its lower price made it attractive to aerial installers looking for a replacement for the so-called ''low-loss'' cable traditionally used for UK terrestrial aerial installations.
+From around 1999 to 2005 (when CT100 manufacturer Raydex went out of business), CT100 remained the 75 ohm cable of choice for satellite TV and especially BskyB.
+To greatly reduce signal leakage into or out of the cable, by a factor of 1000, or even 10,000, superscreened cables  are often used in critical applications, such as for neutron flux counters in nuclear reactors.
+The selection of 50&nbsp;Ω as a compromise between power-handling capability and attenuation is in general cited as the reason for the number.
+A properly placed and properly sized balun can prevent common mode radiation in coax.
+Those cables cannot be bent sharply, as the shield will kink, causing losses in the cable.
+One example of this type of cable is Radiax (CommScope).
+CATV operators may also choose to monitor their networks for leakage to prevent ingress.
+Because of this 1:1 transformer, the aforementioned voltage across the outer conductor is transformed onto the inner conductor so that the two voltages can be cancelled by the receiver.
+A controlled cable characteristic impedance is important because the source and load impedance should be matched to ensure maximum power transfer and minimum standing wave ratio.
+Coaxial cable is a particular kind of transmission line, so the circuit models developed for general transmission lines are appropriate.
+The various shields used in hardline also differ; some forms use rigid tubing, or pipe, others may use a corrugated tubing, which makes bending easier, as well as reduces kinking when the cable is bent to conform.
+Likewise with CATV, although many broadcast TV installations and CATV headends use 300&nbsp;Ω folded dipole antennas to receive off-the-air signals, 75&nbsp;Ω coax makes a convenient 4:1 balun transformer for these as well as possessing low attenuation.
+Rigid line is produced in a number of different sizes:
+A common choice is a solid polyethylene (PE) insulator, used in lower-loss cables.
+Conformable cable can be stripped and formed by hand without the need for specialized tools, similar to standard coaxial cable.
+Therefore, all connections must be air and water tight.
+Multi-conductor coaxial cable is also sometimes used.
+When installed outdoors without protection, the cable was affected by UV radiation, which cracked the PVC outer sheath and allowed moisture ingress.
+The characteristic impedance of the cable () is determined by the dielectric constant of the inner insulator and the radii of the inner and outer conductors.
+Capacitance is the enemy of square-wave data transmission (in particular, it slows down edge transitions), and this is a much more important factor for baseband digital data transmission than power handling or attenuation.
+Coaxial cable conducts electrical signal using an inner conductor (usually a solid copper, stranded copper or copper plated steel wire) surrounded by an insulating layer and all enclosed by a shield, typically one to four layers of woven metallic braid and metallic tape.
+Outside signals entering the cable can cause unwanted noise and picture ghosting.
+The same effect helps ladder line.
+Coaxial cable insulation may degrade, requiring replacement of the cable, especially if it has been exposed to the elements on a continuous basis.
+Real cables have a shield made of an imperfect, although usually very good, conductor, so there must always be some leakage.
+Such differences in potential can be reduced by proper bonding to a common ground at the house.
+However, the aluminium shield had a high DC resistance and the steel core an even higher one.
+They increase the transformer effect by passing the whole cable through a ferrite core one or more times.
+Excessive noise can overwhelm the signal, making it useless.
+"Quad-shield" cable, using two low-coverage aluminum braid shields and two layers of foil, is often used in situations involving troublesome interference, but is less effective than a single layer of foil and single high-coverage copper braid shield such as is found on broadcast-quality precision video cable.
+This cable had been manufactured with a decreasing number of strands of braid, as the price of copper increased, such that the shielding performance of cheaper brands had fallen to as low as 40 percent.
+Also, the connector or splice must be properly attached to the shield, as this provides the path to ground for the interfering signal.
+For a coaxial cable with air dielectric and a shield of a given inner diameter, the attenuation is minimized by choosing the diameter of the inner conductor to give a characteristic impedance of 76.7&nbsp;Ω.
+Reflection will be nearly eliminated if the coaxial cable is terminated in a pure resistance equal to its impedance.
+Larger varieties of hardline may have a center conductor that is constructed from either rigid or corrugated copper tubing.
+Coaxial lines can therefore be bent and moderately twisted without negative effects, and they can be strapped to conductive supports without inducing unwanted currents in them.
+Coaxial cable also provides protection of the signal from external electromagnetic interference.
+Despite being shielded, interference can occur on coaxial cable lines.
+In 2005, these cables were replaced by WF100 and WF65, respectively, manufactured by Webro and having a similar construction but a foam dielectric that provided the same electrical performance as air-spaced but was more robust and less likely to be crushed.
+Connectors are usually plated with high-conductivity metals such as silver or tarnish-resistant gold.
+For cable television, with frequencies extending well into the UHF range, a foil shield is normally provided, and will provide total coverage as well as high effectiveness against high-frequency interference.
+Some coaxial lines use air (or some other gas) and have spacers to keep the inner conductor from touching the shield.
+Supports shaped like stars or spokes are even better but more expensive and very susceptible to moisture infiltration.
+While many cables have a solid dielectric, many others have a foam dielectric that contains as much air or other gas as possible to reduce the losses by allowing the use of a larger diameter center conductor.
+The cable is protected by an outer insulating jacket.
+Since shields cannot be perfect conductors, current flowing on the inside of the shield produces an electromagnetic field on the outer surface of the shield.
+Hard line may also be known by trademarked names such as Heliax (CommScope), or Cablewave (RFS/Cablewave).
+Because the outer conductor carries the reference potential for the signal on the inner conductor, the receiving circuit measures the wrong voltage.
+Due to the skin effect, the RF signal is only carried by the plating at higher frequencies and does not penetrate to the connector body.
+Briefly, if a coaxial cable is open, the termination has nearly infinite resistance, this causes reflections; if the coaxial cable is short-circuited, the termination resistance is nearly zero, there will be reflections with the opposite polarity.
+Consequently, various solutions to exclude moisture have been proposed.
+These lines have low loss, but also have undesirable characteristics.
+The arithmetic mean between 30&nbsp;Ω and 77&nbsp;Ω is 53.5&nbsp;Ω; the geometric mean is 48&nbsp;Ω.
+Inner conductors are sometimes silver-plated to smooth the surface and reduce losses due to skin effect.
+In CATV systems distributing analog signals the potential difference between the coaxial network and the electrical grounding system of a house can cause a visible "hum bar" in the picture.
+The shield is normally grounded, and if even a single thread of the braid or filament of foil touches the center conductor, the signal will be shorted causing significant or total signal loss.
+The dielectric losses increase in this order: Ideal dielectric (no loss), vacuum, air, polytetrafluoroethylene (PTFE), polyethylene foam, and solid polyethylene.
+The properties of dielectric control some electrical properties of the cable.
+Maximum power handling is achieved at 30&nbsp;Ω.
+However, a smooth solid highly conductive shield would be heavy, inflexible, and expensive.
+An inhomogeneous dielectric needs to be compensated by a non-circular conductor to avoid current hot-spots.
+Interconnection with rigid line is done with an inner bullet/inner support and a flange or connection kit.
+This type of cable is to provide a tuned bi-directional "desired" leakage effect between transmitter and receiver.
+Flooded coaxial cables use a water blocking gel to protect the cable from water infiltration through minor cuts in the jacket.
+Later, some manufacturers of LAN equipment, such as Datapoint for ARCNET, adopted RG-62 as their coaxial cable standard.
+The insulator surrounding the inner conductor may be solid plastic, a foam plastic, or air with spacers supporting the inner wire.
+Coax does not have this problem, since the field is enclosed in the shield.
+For example, in the United States, signal leakage from cable television systems is regulated by the FCC, since cable signals use the same frequencies as aeronautical and radionavigation bands.
+Typically rigid lines are connected using standardised EIA RF Connectors whose bullet and flange sizes match the standard line diameters, for each outer diameter either 75 or 50ohm inner tubes can be obtained.
+The outer shield, which is earthed (grounded), protects the inner shield from electromagnetic interference from outside sources.
+The second proposal, by the American Channel Master company (now owned by Andrews corp.) at least as early as 1999, was to apply silicone grease to the wires making connection.
+An ideal shield would be a perfect conductor with no holes, gaps, or bumps connected to a perfect ground.
+The cable has the lowest capacitance per unit-length when compared to other coaxial cables of similar size.
+Egress is the passage of signal intended to remain within the cable into the outside world and can result in a weaker signal at the end of the cable and radio frequency interference to nearby devices.
+The gaps or holes, allow some of the electromagnetic field to penetrate to the other side.
+Copper-plated steel wire is often used as an inner conductor for cable used in the cable TV industry.
+The braid is important to shield effectiveness because (1) it is more effective than foil at preventing low-frequency interference, (2) it provides higher conductivity to ground than foil, and (3) it makes attaching a connector easier and more reliable.
+Hard line is used in broadcasting as well as many other forms of radio communication.
+The center conductor may consist of solid copper, or copper-plated aluminum.
+These slots are tuned to the specific RF wavelength of operation or tuned to a specific radio frequency band.
+Many sender and receivers have means to reduce the leakage even further.
+In some low-loss coaxial cables such as the RG-62 type, the inner conductor is supported by a spiral strand of polyethylene, so that an air space exists between most of the conductor and the inside of the jacket.
+The approximate impedance required to match a centre-fed dipole antenna in free space (i.e., a dipole without ground reflections) is 73&nbsp;Ω, so 75&nbsp;Ω coax was commonly used for connecting shortwave antennas to receivers.
+Electric field lines for this TM mode have a longitudinal component and require line lengths of a half-wavelength or longer.
+Conformable cable is a flexible reformable alternative to semi-rigid coaxial cable used where flexibility is required.
+More economical cables must make compromises between shield efficacy, flexibility, and cost, such as the corrugated surface of flexible hardline, flexible braid, or foil shields.
+'''Rigid line''' is a coaxial line formed by two copper tubes maintained concentric every other meter using PTFE-supports.
+Coaxial cable design choices affect physical size, frequency performance, attenuation, power handling capabilities, flexibility, strength, and cost.
+With sufficient power this could be a hazard to people near the cable.
+For internal chassis connections the insulating jacket may be omitted.
+In the United States and some other countries, cable television distribution systems use extensive networks of outdoor coaxial cable, often with in-line distribution amplifiers.
+The ends of coaxial cables usually terminate with connectors.
+When more common dielectrics are considered, the best-loss impedance drops down to a value between 52–64&nbsp;Ω.
+The new RG6 still performed well at high frequencies because of the skin effect in the copper cladding.
+'''Triaxial cable''' or '''triax''' is coaxial cable with a third layer of shielding, insulation and sheathing.
+It had an air-spaced polyethylene dielectric, a 1&nbsp;mm solid copper core and copper braid on copper foil shield.
+This appears as a wide horizontal distortion bar in the picture that scrolls slowly upward.
+Foil shielding is ordinarily accompanied by a tinned copper or aluminum braid shield, with anywhere from 60 to 95% coverage.
+Conversely, electric and magnetic fields outside the cable are largely kept from interfering with signals inside the cable.
+The best coaxial cable impedances in high-power, high-voltage, and low-attenuation applications were experimentally determined at Bell Laboratories in 1929 to be 30, 60, and 77 Ω, respectively.
+This most often occurs at improperly installed end connectors and splices.
+The center conductor was suspended by polyethylene discs every few centimeters.
+Coaxial cable may be viewed as a type of waveguide.
+Many broadcasting antennas and antenna splitters use the flanged rigid line interface even when connecting to flexible coaxial cables and hard line.
+Outer diameter (not flanged)
+They cannot be bent, tightly twisted, or otherwise shaped without changing their characteristic impedance, causing reflection of the signal back toward the source.
+Coaxial cable differs from other shielded cable used for carrying lower-frequency signals, in that the dimensions of the cable are controlled to give a precise, constant conductor spacing, which is needed for it to function efficiently as a transmission line.
+This type of coax offers superior screening compared to cables with a braided outer conductor, especially at higher frequencies.
+'''Semi-rigid''' cable is a coaxial form using a solid copper outer sheath.
+These large-scale hard lines are almost always used in the connection between a transmitter on the ground and the antenna or aerial on a tower.
+Some cables may invest in more than two shield layers, such as "quad-shield", which uses four alternating layers of foil and braid.
+Its applications include feedlines connecting radio transmitters and receivers with their antennas, computer network (Internet) connections, digital audio (S/PDIF), and distributing cable television signals.
+The outer conductor is rippled like a bellows to permit flexibility and the inner conductor is held in position by a plastic spiral to approximate an air dielectric.
+However, above a certain cutoff frequency, transverse electric (TE) or transverse magnetic (TM) modes can also propagate, as they do in a waveguide.
+In gas-charged lines, hard plastics such as nylon are used as spacers to separate the inner and outer conductors.
+Signal leakage is the passage of electromagnetic fields through the shield of a cable and occurs in both directions.
+Many conventional coaxial cables use braided copper wire forming the shield.
+The match is better at low frequencies, such as for CB Radio around 27&nbsp;MHz, where the roof dimensions are much less than a quarter wavelength, and relatively poor at higher  frequencies, VHF and UHF, where the roof dimensions may be several wavelengths.
+Such reflections may cause signal attenuation and ghosting TV picture display; multiple reflections may cause the original signal to be followed by more than one echo.
+A continuous current, even if small, along the imperfect shield of a coaxial cable can cause visible or audible interference.
+Twin-lead transmission lines have the property that the electromagnetic wave propagating down the line extends into the space surrounding the parallel wires.
+A common choice is PVC, but some applications may require fire-resistant materials.
+In some cases a single coax cable carries (unidirectional) power and bidirectional data/signals, as in DiSEqC.
+Severe leakage usually results from improperly installed connectors or faults in the cable shield.
+In radio-frequency applications up to a few gigahertz, the wave propagates primarily in the transverse electric magnetic (TEM) mode, which means that the electric and magnetic fields are both perpendicular to the direction of propagation.
+The third proposal was to fit a self-sealing plug to the cable.
+Rigid lines can not be bent, so they often need elbows.
+A low relative permittivity allows for higher-frequency usage.
+Solid Teflon (PTFE) is also used as an insulator.
+Signal leakage can be severe if there is poor contact at the interface to connectors at either end of the cable or if there is a break in the shield.
+Foam coax will have about 15% less attenuation but some types of foam dielectric can absorb moisture&mdash;especially at its many surfaces — in humid environments, significantly increasing the loss.
+Sometimes the braid is silver-plated.
+At the same time, with the price of copper steadily rising, the original RG6 was dropped in favour of a construction that used a copper-clad steel core and aluminium braid on aluminium foil.
+Susceptibility to interference has little relationship to broad cable type designations (e.g.
+The magnitude of an alternating current in a conductor decays exponentially with distance beneath the surface, with the depth of penetration being proportional to the square root of the resistivity.
+Ingress is the passage of an outside signal into the cable and can result in noise and disruption of the desired signal.
+CT63 was a thinner cable in 'shotgun' style, meaning that it was two cables moulded together and was used mainly by BskyB for the twin connection required by the ''Sky+'' satellite TV receiver, which incorporated a hard drive recording system and a second, independent tuner.
+This cable had a 1&nbsp;mm copper core, air-spaced polyethylene dielectric and copper braid on an aluminium foil shield.
+The inner and outer conductors form the primary and secondary winding of the transformer, and the effect is enhanced in some high-quality cables that have an outer layer of mu-metal.
+Since skin effect is an issue with RF, copper plating provides sufficient surface for an effective conductor.
+The outer diameter is roughly inversely proportional to the cutoff frequency.
+With the advent of digital terrestrial transmissions in the UK, this low-loss cable was no longer suitable.
+The major disadvantage is that the cable, as its name implies, is not very flexible, and is not intended to be flexed after initial forming.
+Installations which need exact matching will use some kind of matching circuit at the base of the antenna, or elsewhere, in conjunction with a carefully chosen (in terms of wavelength) length of coaxial, such that a proper match is achieved, which will be only over a fairly narrow frequency range.
+For high-power radio-frequency transmission up to about 1&nbsp;GHz, coaxial cable with a solid copper outer conductor is available in sizes of 0.25&nbsp;inch upward.
+All of these methods are reasonably successful if implemented correctly.
+The advantage of coaxial design is that electric and magnetic fields are confined to the dielectric with little leakage outside the shield.
+The transformer effect is sometimes used to mitigate the effect of currents induced in the shield.
+The match is at best poor, because the antenna drive impedance, due to the imperfect ground plane, is reactive rather than purely resistive, and so a 36 ohm coaxial cable would not match properly either.
+See Telegrapher's equation.
+In the interests of saving weight and costs, on masts and similar structures the outer line is often aluminium, and special care must be taken to prevent corrosion.
+This allows the cable to be flexible, but it also means there are gaps in the shield layer, and the inner dimension of the shield varies slightly because the braid cannot be flat.
+The term coaxial comes from the inner conductor and the outer shield sharing a geometric axis.
+Leakage of signals into and out of cable TV systems can cause interference to cable subscribers and to over-the-air radio services using the same frequencies as those of the cable system.
+The shield might be just two braids, but it is more common now to have a thin foil shield covered by a wire braid.
+The combination of copper, aluminium, moisture and air caused rapid corrosion, sometimes resulting in a 'snake swallowed an egg' appearance.
+This is the dominant mode from zero frequency (DC) to an upper limit determined by the electrical dimensions of the cable.
+It is a coaxial cable constructed using round copper, silver or gold  tubing or a combination of such metals as a shield.
+Common applications of coaxial cable include video and CATV distribution, RF and microwave transmission, and computer and instrumentation data connections.
+"Flooded" cable is infused with waterblocking gel for use in underground conduit or direct burial.
+This allows coaxial cable runs to be installed next to metal objects such as gutters without the power losses that occur in other types of transmission lines.
+The insulating jacket can be made from many materials.
+Consequently, despite the higher cost, the RG6 cable was dropped in favour of CT100 when BSKYB launched its digital broadcasts.
+To get better high-frequency performance, the inner conductor may be silver-plated.
+However, it is still possible for a field to form between the shield and other connected objects, such as the antenna the coax feeds.
+However, ladder line is extremely sensitive to surrounding metal objects, which can enter the fields before they completely cancel.
+The gaps are smaller when using a foil (solid metal) shield, but there is still a seam running the length of the cable.
+The lower dielectric constant of air allows for a greater inner diameter at the same impedance and a greater outer diameter at the same cutoff frequency, lowering ohmic losses.
+A rough surface prolongs the path for the current and concentrates the current at peaks and, thus, increases ohmic losses.
+Still more expensive were the air-spaced coaxials used for some inter-city communications in the mid-20th century.
+Most of the shield effect in coax results from opposing currents in the center conductor and shield creating opposite magnetic fields that cancel, and thus do not radiate.
+For example, braided shields have many small gaps.
+It was developed since the plastics used as the outer jacket and inner insulation in many "Plain" or "house" cabling gives off poison gas when burned.
+This property makes coaxial cable a good choice for carrying weak signals that cannot tolerate interference from the environment or for stronger electrical signals that must not be allowed to radiate or couple into adjacent structures or circuits.
+A problem with all the aforementioned cables, when passing current, is that electrolytic corrosion can occur in the connections unless moisture and air are excluded.
+50&nbsp;Ω also works out tolerably well because it corresponds approximately to the drive impedance (ideally 36 ohms) of a quarter-wave monopole, mounted on a less than optimum ground plane such as a vehicle roof.
+Power is transmitted through the radial electric field and the circumferential magnetic field in the TEM00 transverse mode.
+Smaller varieties of hard line may be used internally in some high-frequency applications, in particular in equipment within the microwave range, to reduce interference between stages of the device.
+Larger diameter cables and cables with multiple shields have less leakage.
+Other shield designs sacrifice flexibility for better performance; some shields are a solid metal tube.
+Most varieties of hardline used for external chassis or when exposed to the elements have a PVC jacket; however, some internal applications may omit the insulation jacket.
+The addition of these gases into the dielectric space reduces moisture contamination, provides a stable dielectric constant, and provides a reduced risk of internal arcing.
+Normally, the shield is kept at ground potential and a signal carrying voltage is applied to the center conductor.
+The current formed by the field between the antenna and the coax shield would flow in the same direction as the current in the center conductor, and thus not be canceled.
+Coaxial cable was invented by English engineer and mathematician Oliver Heaviside, who patented the design in 1880.
+At the start of analogue satellite TV broadcasts in the UK by BskyB, a 75 ohm cable referred to as ''RG6'' was used.
+Such coax is used for straight line feeds to commercial radio broadcast towers.
+Coaxial lines largely solve this problem by confining virtually all of the electromagnetic wave to the area inside the cable.
+The inner conductor might be solid or stranded; stranded is more flexible.
+Consider the skin effect.
+Many coaxial cables also have an insulating outer sheath or jacket.
+The first was to seal the connection by wrapping it with self-amalgamating rubberised tape, which bonds to itself when activated by stretching.
+Coaxial cable is used as a transmission line for radio frequency signals.

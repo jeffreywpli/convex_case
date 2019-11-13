@@ -1,0 +1,200 @@
+Since ''a''/''b'' = ''a''(''b''−1), division is right distributive over addition: (''a'' + ''b'') / ''c'' = ''a'' / ''c'' + ''b'' / ''c''.
+In geometry, the sum of two angle measures is often taken to be their sum as real numbers modulo 2π.
+One especially notable such error was the Y2K bug, where overflow errors due to using a 2-digit format for years caused significant computer problems in 2000.
+When the result of an addition exceeds the value of a digit, the procedure is to "carry" the excess amount divided by the radix (that is, 10/10) to the left, adding it to the next positional value.
+There are even more generalizations of multiplication than addition.
+Studies on mathematical development starting around the 1980s have exploited the phenomenon of habituation: infants look longer at situations that are unexpected.
+As students grow older, they commit more facts to memory, and learn to derive other facts rapidly and fluently.
+For instance, 3 is the successor of 2 and 7 is the successor of 6.
+Convolution is used to add two independent random variables defined by distribution functions.
+Take two disjoint sets ''A'' and ''B'', with N(''A'') = ''a'' and N(''B'') = ''b''.
+:log (''a'' + ''b'') ≈ max (log ''a'', log ''b''),
+In linear algebra, a vector space is an algebraic structure that allows for adding any two vectors and for scaling vectors.
+Performing addition is one of the simplest numerical tasks.
+(In mathematics education, positive fractions are added before negative numbers are even considered; this is also the historical route.)
+The third column: 1 + 1 + 1 = 112.
+For example, (1 + 2) + 3 = 3 + 3 = 6 = 1 + 5 = 1 + (2 + 3).
+Although this definition can be useful for concrete problems, it is far too complicated to produce elegant general proofs; there are too many cases to consider.
+Accordingly, there is no subtraction operation for infinite cardinals.
+:''e''''a'' + ''b'' = ''e''''a'' ''e''''b''.
+If ''a'' and ''b'' are both negative, define ''a'' + ''b'' = −(|''a''|+|''b''|).
+In general, convolution is useful as a kind of domain-side addition; by contrast, vector addition is a kind of range-side addition.
+Integration over a zero-dimensional manifold reduces to summation.
+However, it is not obvious how one should extend this version of addition to include fractional numbers or negative numbers.
+Summation describes the addition of arbitrarily many numbers, usually more than just two.
+Knowing this, one can perform any addition.
+Proceeding like this gives the final answer 1001002 (36 decimal).
+Even some nonhuman animals show a limited ability to add, particularly primates.
+In algebra, addition is studied more abstractly.
+Some languages such as C or C++ allow this to be abbreviated as ''a'' += ''b''.
+Another 1992 experiment with older toddlers, between 18 and 35 months, exploited their development of motor control by allowing them to retrieve ping-pong balls from a box; the youngest responded well for small numbers, while older subjects were able to compute sums up to 5.
+There are also situations where addition is "understood" even though no symbol appears:
+As they gain experience, they learn or discover the strategy of "counting-on": asked to find two plus three, children count three past two, saying "three, four, ''five''" (usually ticking off fingers), and arriving at five.
+It was the only operational mechanical calculator in the 17th century and the earliest automatic, digital computers.
+// Iterative Algorithm
+: ("three plus three equals six")
+Some coproducts, such as ''Direct sum'' and ''Wedge sum'', are named to evoke their connection with addition.
+This time, a 1 is carried, and a 1 is written in the bottom row.
+The simplest architecture is the ripple carry adder, which follows the standard multi-digit algorithm.
+Counting a finite set is equivalent to summing 1 over the set.
+With additional experience, children learn to add more quickly by exploiting the commutativity of addition by counting up from the larger number, in this case starting with three and counting "four, ''five''."
+For a more rigorous and general discussion, see ''field of fractions''.
+Addition is used to model countless physical processes.
+An alternate strategy starts adding from the most significant digit on the left; this route makes carrying a little clumsier, but it is faster at getting a rough estimate of the sum.
+This interpretation is easy to visualize, with little danger of ambiguity.
+Adding two "1" digits produces a digit "0", while 1 must be added to the next column.
+If necessary, one can add trailing zeros to a shorter decimal to make it the same length as the longer decimal.
+The sum ''a'' + ''b'' can be interpreted as a binary operation that combines ''a'' and ''b'', in an algebraic sense, or it can be interpreted as the addition of ''b'' more units to ''a''.
+Giovanni Poleni followed Pascal, building the second functional mechanical calculator in 1709, a calculating clock made of wood that, once setup, could multiply two numbers automatically.
+7 + 9 = 16, and the digit 1 is the carry.
+Finally, one performs the same addition process as above, except the decimal point is placed in the answer, exactly where it was placed in the summands.
+Some authors prefer to replace addition with minimization; then the additive identity is positive infinity.
+The second column from the right is added: 1 + 0 + 1 = 102 again; the 1 is carried, and 0 is written at the bottom.
+Unfortunately, dealing with multiplication of Dedekind cuts is a time-consuming case-by-case process similar to the addition of signed integers.
+The formula is still a good first-order approximation in the broad context of Lie groups, where it relates multiplication of infinitesimal group elements with addition of vectors in the associated Lie algebra.
+A mechanical adder might represent two addends as the positions of sliding blocks, in which case they can be added with an averaging lever.
+As an example, -6 + 4 = -2; because -6 and 4 have different signs, their absolute values are subtracted, and since the negative term is larger, the answer is negative.
+Most discover it independently.
+The approximation becomes exact in a kind of infinite limit; if either ''a'' or ''b'' is an infinite cardinal number, their cardinal sum is exactly equal to the greater of the two.
+This amounts to an addition operation on the circle, which in turn generalizes to addition operations on many-dimensional tori.
+As an example, should the expression ''a'' + ''b'' + ''c'' be defined to mean (''a'' + ''b'') + ''c'' or ''a'' + (''b'' + ''c'')?
+As an example, one can consider addition in binary.
+Once that task is done, all the properties of real addition follow immediately from the properties of rational numbers.
+carry = AND(x, y);   // Logical AND
+*Given two integers ''a'' − ''b'' and ''c'' − ''d'', where ''a'', ''b'', ''c'', and ''d'' are natural numbers, define (''a'' − ''b'') + (''c'' − ''d'') = (''a'' + ''c'') − (''b'' + ''d'').
+The 1 is carried to the left, and the 0 is written at the bottom of the rightmost column.
+Because of this succession, the value of ''a'' + ''b'' can also be seen as the  successor of ''a'', making addition iterated succession.
+: ("one plus one equals two")
+This law was first identified in Brahmagupta's ''Brahmasphutasiddhanta'' in 628 AD, although he wrote it as three separate laws, depending on whether ''a'' is negative, positive, or zero itself, and he used words rather than algebraic symbols.
+This notation can cause confusion since in most other contexts juxtaposition denotes multiplication instead.
+One aligns two decimal fractions above each other, with the decimal point in the same location.
+All of the above terminology derives from Latin.
+Even for the simple case of adding natural numbers, there are many possible interpretations and even more visual representations.
+*Let ''n''+ be the successor of ''n'', that is the number following ''n'' in the natural numbers, so 0+=1, 1+=2.
+The corresponding definition of addition must proceed by cases:
+This recursive formulation of addition was developed by Dedekind as early as 1854, and he would expand upon it in the following decades.
+One slight improvement is the carry skip design, again following human intuition; one does not perform all the carries in computing 999 + 1, but one bypasses the group of 9s and skips to the answer.
+It is also useful in higher mathematics; for the rigorous definition it inspires, see ''Natural numbers'' below.
+A real number is essentially defined to be the a limit of a Cauchy sequence of rationals, lim ''a''''n''.
+The unary view is also useful when discussing subtraction, because each unary addition operation has an inverse unary subtraction operation, and ''vice versa.''
+*Let N(''S'') be the cardinality of a set ''S''.
+Under the latter interpretation, the parts of a sum ''a'' + ''b'' play asymmetric roles, and the operation ''a'' + ''b'' is viewed as applying the unary operation +''b'' to ''a''.
+To subtract, the operator had to use the Pascal's calculator's complement, which required as many steps as an addition.
+The set of integers modulo 2 has just two elements; the addition operation it inherits is known in Boolean logic as the "exclusive or" function.
+Different nations introduce whole numbers and arithmetic at different ages, with many countries teaching addition in pre-school.
+In some contexts, such as the integers, distributivity over addition and the existence of a multiplicative identity is enough to uniquely determine the multiplication operation.
+Eventually children begin to recall certain addition facts ("number bonds"), either through experience or rote memorization.
+If a single term  appears in a sum ''n'' times, then the sum is the product of ''n'' and .
+:7 + 9 → 6, carry 1 (since 7 + 9 = 16 = 6 + (1 × 101)  )
+The abacus, also called a counting frame, is a calculating tool that was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in Asia, Africa, and elsewhere; it dates back to at least 2700–2300 BC, when it was used in Sumer.
+In a high-level programming language, evaluating ''a'' + ''b'' does not change either ''a'' or ''b''; if the goal is to replace ''a'' with the sum this must be explicitly requested, typically with the statement ''a'' = ''a'' + ''b''.
+Typically, children first master counting.
+For this reason, ring addition is commutative in general.
+This definition was first published by Georg Cantor, also in 1872, although his formalism was slightly different.
+This is similar to what happens in decimal when certain single-digit numbers are added together; if the result equals or exceeds the value of the radix (10), the digit to the left is incremented:
+However, division is not left distributive over addition; 1/ (2 + 2) is not the same as 1/2 + 1/2.
+Maximization is commutative and associative, like addition.
+Division is an arithmetic operation remotely related to addition.
+Addition of very small numbers is accessible to toddlers; the most basic task, 1 + 1, can be performed by infants as young as five months and even some non-human animals.
+This strategy seems almost universal; children can easily pick it up from peers or teachers.
+When addition is used together with other operations, the order of operations becomes important.
+Taken literally, the above definition is an application of the Recursion Theorem on the partially ordered set '''N'''2.
+The sum of a series of related numbers can be expressed through capital sigma notation, which compactly denotes iteration.
+Tying these observations together, tropical addition is approximately related to regular addition through the logarithm:
+The influence of the abacus on mathematical thinking was strong enough that early Latin texts often claimed that in the process of adding "a number to a number", both numbers vanish.
+Using the visualization of complex numbers in the complex plane, the addition has the following geometric interpretation: the sum of two complex numbers ''A'' and ''B'', interpreted as points of the complex plane, is the point ''X'' obtained by building a parallelogram three of whose vertices are ''O'', ''A'' and ''B''.
+It is commutative, meaning that order does not matter, and it is associative, meaning that when one adds more than two numbers, the order in which addition is performed does not matter (see ''Summation'').
+Linear combinations are especially useful in contexts where straightforward addition would violate some normalization rule, such as mixing of strategies in game theory or superposition of states in quantum mechanics.
+The plus sign "+" (Unicode:U+002B; ASCII: &amp;#43;) is an abbreviation of the Latin word ''et'', meaning "and".
+This is correct since the next position has a weight that is higher by a factor equal to the radix.
+Today, due to the commutative property of addition, "augend" is rarely used, and both terms are generally called addends.
+The numbers or the objects to be added in general addition are collectively referred to as the '''terms''', the '''addends''' or the '''summands''';
+Addition in other bases is very similar to decimal addition.
+In a 1995 experiment imitating Wynn's 1992 result (but using eggplants instead of dolls), rhesus macaque and cottontop tamarin monkeys performed similarly to human infants.
+An infinite summation is a delicate procedure known as a series.
+Analog computers work directly with physical quantities, so their addition mechanisms depend on the form of the addends.
+The sum of real numbers ''a'' and ''b'' is defined element by element:
+For examples, 6 + 2 is 8, because 8 is the successor of 7, which is the successor of 6, making 8 the 2nd successor of 6.
+In the context of integers, addition of one also plays a special role: for any integer ''a'', the integer (''a'' + 1) is the least integer greater than ''a'', also known as the successor of ''a''.
+A seminal experiment by Karen Wynn in 1992 involving Mickey Mouse dolls manipulated behind a screen demonstrated that five-month-old infants ''expect'' 1 + 1 to be 2, and they are comparatively surprised when a physical situation seems to imply that 1 + 1 is either 1 or 3.
+Besides counting fruits, addition can also represent combining other physical objects.
+One must prove that this operation is well-defined, dealing with co-Cauchy sequences.
+In modern times, the ADD instruction of a microprocessor replaces the augend with the sum but preserves the addend.
+Define ''a'' + 0 = ''a''.
+To numerically add physical quantities with units, they must be expressed with common units.
+To prove the usual properties of addition, one must first define addition for the context in question.
+This approximation is extremely useful in the applications of mathematics, for example in truncating Taylor series.
+Repeated addition of 1 is the same as counting; addition of 0 does not change a number.
+:(''a'',''b'') + (''c'',''d'') = (''a''+''c'',''b''+''d'').
+If ''b'' is much greater than ''a'', then a straightforward calculation of (''a'' + ''b'') − ''b'' can accumulate an unacceptable round-off error, perhaps even returning zero.
+Probably the trickiest part of this construction pertaining to addition is the definition of additive inverses.
+An alternate version of this definition allows ''A'' and ''B'' to possibly overlap and then takes their disjoint union, a mechanism that allows common elements to be separated out and therefore counted twice.
+Integration is a kind of "summation" over a continuum, or more precisely and generally, over a differentiable manifold.
+In general, multiplication operations always distribute over addition; this requirement is formalized in the definition of a ring.
+Likewise from ''augere'' "to increase", one gets "augend", "thing to be increased".
+which becomes more accurate as the base of the logarithm increases.
+*For an integer ''n'', let |''n''| be its absolute value.
+Hence 1 + 1 = 1 + 0+ = (1 + 0)+ = 1+ = 2.
+A hydraulic adder can add the pressures in two chambers by exploiting Newton's second law to balance forces on an assembly of pistons.
+On the other hand, it is usually meaningless to try to add 3 meters and 4 square meters, since those units are incomparable; this sort of consideration is fundamental in dimensional analysis.
+As an example, 45.1 + 4.34 can be solved as follows:
+In primary education, students are taught to add numbers in the decimal system, starting with single digits and progressively tackling more difficult problems.
+Again, there are minor variations upon this definition in the literature.
+This is to be distinguished from ''factors'', which are multiplied.
+In modular arithmetic, the set of integers modulo 12 has twelve elements; it inherits an addition operation from the integers that is central to musical set theory.
+A much more convenient conception of the integers is the Grothendieck group construction.
+One then considers ''a'' to be temporarily "fixed", applies recursion on ''b'' to define a function "''a'' + ", and pastes these unary operations for all ''a'' together to form the full binary operation.
+The distributive property also provides information about addition; by expanding the product (1&nbsp;+&nbsp;1)(''a''&nbsp;+&nbsp;''b'') in both ways, one concludes that addition is forced to be commutative.
+Pascal's calculator was limited by its carry mechanism, which forced its wheels to only turn one way so it could add.
+There are many alternative methods.
+Many students never commit all the facts to memory, but can still find any basic fact quickly.
+A real number is defined to be a Dedekind cut of rationals: a non-empty set of rationals that is closed downward and has no greatest element.
+: ("two plus two equals four")
+Using the gerundive suffix ''-nd'' results in "addend", "thing to be added".
+In fact, during the Renaissance, many authors did not consider the first addend an "addend" at all.
+If either ''a'' or ''b'' is zero, treat it as an identity.
+In modern digital computers, integer addition is typically the fastest arithmetic instruction, yet it has the largest impact on performance, since it underlies all floating-point operations as well as such basic tasks as address generation during memory access and fetching instructions during branching.
+On the ancient abacus and adding board, both addends are destroyed, leaving only the sum.
+For example, in the picture on the right, there is a combination of three apples and two apples together, making a total of five apples.
+x     = XOR(x, y);   // Logical XOR
+Equivalently, ''X'' is the point such that the triangles with vertices ''O'', ''A'', ''B'', and ''X'', ''B'', ''A'', are congruent.
+The field of abstract algebra is centrally concerned with such generalized operations, and they also appear in set theory and category theory.
+On a computer, if the result of an addition is too large to store, an arithmetic overflow occurs, resulting in an incorrect answer.
+:5 + 5 → 0, carry 1 (since 5 + 5 = 10 = 0 + (1 × 101)  )
+If a column exceeds ten, the extra digit is "carried" into the next column.
+The most common situation for a general-purpose analog computer is to add two voltages (referenced to ground); this can be accomplished roughly with a resistor network, but a better design exploits an operational amplifier.
+Many implementations are, in fact, hybrids of these last three designs.
+Unanticipated arithmetic overflow is a fairly common cause of program errors.
+Rather than just combining collections of segments, rods can be joined end-to-end, which illustrates another conception of addition: adding not the rods but the lengths of the rods.
+If ''a'' and ''b'' are both positive, define ''a'' + ''b'' = |''a''| + |''b''|.
+Once some facts are committed to memory, children begin to derive unknown facts from known ones.
+Using systematic generalizations, addition can also be defined on more abstract quantities, such as integers, rational numbers, real numbers and complex numbers and other abstract objects such as vectors and matrices.
+If the addends are the rotation speeds of two shafts, they can be added with a differential.
+Adders execute integer addition in electronic digital computers, usually using binary arithmetic.
+This definition was first published, in a slightly modified form, by Richard Dedekind in 1872.
+Its usual definition combines integration, subtraction, and multiplication.
+Addition also obeys predictable rules concerning related operations such as subtraction and multiplication.
+However, throughout the world, addition is taught by the end of the first year of elementary school.
+In fact, if two nonnegative numbers ''a'' and ''b'' are of different orders of magnitude, then their sum is approximately equal to their maximum.
+Another approach is the metric completion of the rational numbers.
+Linear combinations combine multiplication and summation; they are sums in which each term has a multiplier, usually a real or complex number.
+For example, a child asked to add six and seven may know that 6 + 6 = 12 and then reason that 6 + 7 is one more, or 13.
+The fact that addition is commutative is known as the "commutative law of addition".
+In the standard order of operations, addition is a lower priority than exponentiation, nth roots, multiplication and division, but is given equal priority to subtraction.
+Furthermore, since addition preserves the ordering of real numbers, addition distributes over "max" in the same way that multiplication distributes over addition:
+Addition is defined term by term:
+He proved the associative and commutative properties, among others, through mathematical induction.
+Later Indian mathematicians refined the concept; around the year 830, Mahavira wrote, "zero becomes the same as what is added to it", corresponding to the unary statement 0 + ''a'' = ''a''.
+This identity allows multiplication to be carried out by consulting a table of logarithms and computing addition by hand; it also enables multiplication on a slide rule.
+Both XOR and AND gates are straightforward to realize in digital logic allowing the realization of full adder circuits which in turn may be combined into more complex logical operations.
+When given a problem that requires that two items and three items be combined, young children model the situation with physical objects, often fingers or a drawing, and then count the total.
+:1 + 1 → 0, carry 1 (since 1 + 1 = 2 = 0 + (1 × 21)  )
+Some authors call the first addend the ''augend''.
+Addition, along with subtraction, multiplication and division, is considered one of the basic operations and is used in elementary arithmetic.
+In the 12th century, Bhaskara wrote, "In the addition of cipher, or subtraction of it, the quantity, positive or negative, remains the same", corresponding to the unary statement ''a'' + 0 = ''a''.
+In practice, comutational addition may achieved via XOR and AND bitwise logical operations in conjunction with bitshift operations as shown in the pseudocode below.
+Addition has several important properties.
+: (see "associativity" below)
+Mechanical aids range from the ancient abacus to the modern computer, where research on the most efficient implementations of addition continues to this day.
+The other popular definition is recursive:
+Then ''a'' + ''b'' is defined as .

@@ -1,0 +1,200 @@
+This electron is passed to a modified form of chlorophyll called pheophytin, which passes the electron to a quinone molecule, starting the flow of electrons down an electron transport chain that leads to the ultimate reduction of NADP to NADPH.
+RuBisCO, the enzyme that captures carbon dioxide in the light-independent reactions, has a binding affinity for both carbon dioxide and oxygen.
+For this reason, it is not uncommon for authors to differentiate between work done under non-photorespiratory conditions and under photorespiratory conditions.
+where A is the electron acceptor.
+This causes the HCO3− ions to accumulate within the cell from where they diffuse into the carboxysomes.
+By studying purple sulfur bacteria and green bacteria he was the first to demonstrate that photosynthesis is a light-dependent redox reaction, in which hydrogen reduces carbon dioxide.
+Purple nonsulfur bacteria used a variety of nonspecific organic molecules.
+The former is known as PSII, the latter is PSI.
+He discovered that it was the influence of sunlight on the plant that could cause it to revive a mouse in a matter of hours.
+The sugars produced during carbon metabolism yield carbon skeletons that can be used for other metabolic reactions like the production of amino acids and lipids.
+Phosphoglycolate cannot be metabolized by the Calvin-Benson cycle and represents carbon lost from the cycle.
+An ATP synthase enzyme uses that chemiosmotic potential to make ATP during photophosphorylation, whereas NADPH is a product of the terminal redox reaction in the ''Z-scheme''.
+the photosystems, quantum efficiency and the CO2 assimilation rates.
+The process is most productive when the absorption of quanta are equal in both the PSII and PSI, assuring that input energy from the antenna complex is divided between the PSI and PSII system, which in turn powers the photochemistry.
+He showed that isolated chloroplasts give off oxygen in the presence of unnatural reducing agents like iron oxalate, ferricyanide or benzoquinone after exposure to light.
+The hydrogen freed by the splitting of water is used in the creation of two further compounds that act as an immediate energy storage means: reduced nicotinamide adenine dinucleotide phosphate (NADPH) and adenosine triphosphate (ATP), the "energy currency" of cells.
+Using the ATP and NADPH produced by the light-dependent reactions, the resulting compounds are then reduced and removed to form further carbohydrates, such as glucose.
+Although photosynthesis is performed differently by different species, the process always begins when energy from light is absorbed by proteins called reaction centres that contain green chlorophyll pigments.
+Oxaloacetic acid or malate synthesized by this process is then translocated to specialized bundle sheath cells where the enzyme RuBisCO and other Calvin cycle enzymes are located, and where  released by decarboxylation of the four-carbon acids is then fixed by RuBisCO activity to the three-carbon 3-phosphoglyceric acids.
+Decarboxylation of malate during the day releases  inside the leaves, thus allowing carbon fixation to 3-phosphoglycerate by RuBisCO.
+Carbon fixation produces the intermediate three-carbon sugar product, which is then converted to the final carbohydrate products.
+Over 90% of plants use  carbon fixation, compared to 3% that use  carbon fixation; however, the evolution of  in over 60 plant lineages makes it a striking example of convergent evolution.
+This equation emphasizes that water is both a reactant in the light-dependent reaction and a product of the light-independent reaction, but canceling ''n'' water molecules from each side gives the net equation:
+However, this was a signaling point to the idea that the bulk of a plant's biomass comes from the inputs of photosynthesis, not the soil itself.
+In addition, this creates a proton gradient (energy gradient) across the chloroplast membrane, which is used by ATP synthase in the synthesis of ATP.
+: CO2 + H2O + photons → CH2O + O2
+Oxygen is a waste product of light-dependent reactions, but the majority of organisms on Earth use oxygen for cellular respiration, including photosynthetic organisms.
+In such proteins, the pigments are arranged to work together.
+The chlorophyll molecule ultimately regains the electron it lost when a water molecule is split in a process called photolysis, which releases a dioxygen (O2) molecule as a waste product.
+After noticing that the soil mass changed very little, he hypothesized that the mass of the growing plant must come from the water, the only substance he added to the potted plant.
+Carbon fixation is an endothermic redox reaction, so photosynthesis needs to supply both a source of energy to drive this process, and the electrons needed to convert carbon dioxide into a carbohydrate via a reduction reaction.
+These are, of course, the light-dependent 'photochemical' temperature-independent stage, and the light-independent, temperature-dependent stage.
+The thylakoid itself is enclosed by the thylakoid membrane, and within the enclosed volume is a lumen or thylakoid space.
+During the second stage, the ''light-independent reactions'' use these products to capture and reduce carbon dioxide.
+The absorption of a photon by the antenna complex frees an electron by a process called photoinduced charge separation.
+Archaeobacteria use a simpler method that employs a pigment similar to those used for vision in animals.
+The Hill reaction is as follows:
+Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies all of the organic compounds and most of the energy necessary for life on Earth.
+A clear paleontological window on cyanobacterial evolution opened about 2000 Ma, revealing an already-diverse biota of blue-green algae.
+However, since photosystem II is the first step of the ''Z-scheme'', an external source of electrons is required to reduce its oxidized '''chlorophyll ''a''''' molecules.
+: carbon dioxide + water + light energy → carbohydrate + oxygen + water
+The CoRR Hypothesis proposes that this '''Co'''-location is required for '''R'''edox '''R'''egulation.
+Geological evidence suggests that oxygenic photosynthesis, such as that in cyanobacteria, became important during the Paleoproterozoic era around 2 billion years ago.
+The salvaging pathway for the products of RuBisCO oxygenase activity is more commonly known as photorespiration, since it is characterized by light-dependent oxygen consumption and the release of carbon dioxide.
+This unit is called a phycobilisome.
+Another limiting factor is the wavelength of light.
+These obstacles cause the particle to lose its wave properties for an instant before it regains them once again after it is freed from its locked position through a classic "hop".
+The process does not involve carbon dioxide fixation and does not release oxygen, and seems to have evolved separately from the more common types of photosynthesis.
+DNA in chloroplasts codes for redox proteins such as those found in the photosynthetic reaction centers.
+The NADPH is the main reducing agent produced by chloroplasts, which then goes on to provide a source of energetic electrons in other cellular reactions.
+The cells in the interior tissues of a leaf, called the mesophyll, can contain between 450,000 and 800,000 chloroplasts for every square millimeter of leaf.
+The use of these molecules is consistent with the geological evidence that Earth's early atmosphere was highly reducing at that time.
+'''Photosynthesis''' is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities (energy transformation).
+There are also many varieties of anoxygenic photosynthesis, used mostly by certain types of bacteria, which consume carbon dioxide but do not release oxygen.
+These are most common in corals, sponges and sea anemones.
+The triose phosphates not thus "recycled" often condense to form hexose phosphates, which ultimately yield sucrose, starch and cellulose.
+In plants, algae and cyanobacteria, photosynthesis releases oxygen.
+Jan van Helmont began the research of the process in the mid-17th century when he carefully measured the mass of the soil used by a plant and the mass of the plant as it grew.
+Plants that use the C4 carbon fixation process chemically fix carbon dioxide in the cells of the mesophyll by adding it to the three-carbon molecule phosphoenolpyruvate (PEP), a reaction catalyzed by an enzyme called PEP carboxylase, creating the four-carbon organic acid oxaloacetic acid.
+Sixteen thousand species of plants use CAM.
+In 1778, Jan Ingenhousz, repeated Priestley's experiments.
+Melvin Calvin and Andrew Benson, along with James Bassham, elucidated the path of carbon assimilation (the photosynthetic carbon reduction cycle) in plants.
+In general outline and in effect, photosynthesis is the opposite of cellular respiration, in which glucose and other compounds are oxidized to produce carbon dioxide and water, and to release chemical energy (an exothermic reaction) to drive the organism's metabolism.
+In hot and dry conditions, plants close their stomata to prevent water loss.
+Modern photosynthesis in plants and most photosynthetic prokaryotes is oxygenic.
+:2 H2O + 2 A + (light, chloroplasts) → 2 AH2 + O2
+Gas exchange systems that offer control of CO2 levels, above and below ambient, allow the common practice of measurement of A/Ci curves, at different CO2 levels, to characterize a plant’s photosynthetic response.
+Most organisms that utilize oxygenic photosynthesis use visible light for the light-dependent reactions, although at least three use shortwave infrared or, more specifically, far-red radiation.
+Cyanobacteria remained the principal primary producers of oxygen throughout the Proterozoic Eon (2500–543 Ma), in part because the redox structure of the oceans favored photoautotrophs capable of nitrogen fixation.
+In the light-dependent reactions, one molecule of the pigment chlorophyll absorbs one photon and loses one electron.
+There it is further excited by the light absorbed by that photosystem.
+Photosynthetic organisms are photoautotrophs, which means that they are able to synthesize food directly from carbon dioxide and water using energy from light.
+Second, Blackman's experiments illustrate the concept of limiting factors.
+Soon afterward, Nicolas-Théodore de Saussure showed that the increase in mass of the plant as it grows could not be due only to uptake of CO2 but also to the incorporation of water.
+Integrated chlorophyll fluorometer – gas exchange systems allow a more precise measure of photosynthetic response and mechanisms.
+The chloroplast is enclosed by a membrane.
+In 1796, Jean Senebier, a Swiss pastor, botanist, and naturalist, demonstrated that green plants consume carbon dioxide and release oxygen under the influence of light.
+The biochemical capacity to use water as the source for electrons in photosynthesis evolved once, in a common ancestor of extant cyanobacteria.
+Electrons may also flow to other electron sinks.
+Nobel Prize-winning scientist Rudolph A. Marcus was able to discover the function and significance of the electron transport chain.
+Later discovery of anoxygenic photosynthetic bacteria and photophosphorylation necessitated redefinition of the term.
+HCO3− ions are made from CO2 outside the cell by another carbonic anhydrase and are actively pumped into the cell by a membrane protein.
+Such a combination of proteins is also called a light-harvesting complex.
+#Phosphoglycolate is quickly metabolized to glycolate that is toxic to a plant at a high concentration; it inhibits photosynthesis.
+The main source of oxygen in the Earth's atmosphere derives from oxygenic photosynthesis, and its first appearance is sometimes referred to as the oxygen catastrophe.
+Although all cells in the green parts of a plant have chloroplasts, the majority of those are found in specially adapted structures called leaves.
+While standard gas exchange photosynthesis systems can measure Ci, or substomatal CO2 levels, the addition of integrated chlorophyll fluorescence measurements allows a more precise measurement of CC to replace Ci.
+Thus, the basic reaction by which photosynthesis is used to produce food (such as glucose) was outlined.
+Like mitochondria, chloroplasts possess their own DNA, separate from the nuclear DNA of their plant host cells and the genes in this chloroplast DNA resemble those found in cyanobacteria.
+In plants, these proteins are held inside organelles called chloroplasts, which are most abundant in leaf cells, while in bacteria they are embedded in the plasma membrane.
+In the Calvin cycle, atmospheric carbon dioxide is incorporated into already existing organic carbon compounds, such as ribulose bisphosphate (RuBP).
+The green part of the light spectrum is not absorbed but is reflected which is the reason that most plants have a green color.
+Once the electron is displaced from the photosystem, the electron is passed down the electron acceptor molecules and returns to photosystem I, from where it was emitted, hence the name ''cyclic reaction''.
+Therefore, chloroplasts may be photosynthetic bacteria that adapted to life inside plant cells.
+In plants and algae, photosynthesis takes place in organelles called chloroplasts.
+In the first stage, ''light-dependent reactions'' or ''light reactions'' capture the energy of light and use it to make the energy-storage molecules ATP and NADPH.
+Photosystem II is the only known biological enzyme that carries out this oxidation of water.
+Plants absorb light primarily using the pigment chlorophyll.
+The carbon reduction cycle is known as the Calvin cycle, which ignores the contribution of Bassham and Benson.
+Joseph Priestley, a chemist and minister, discovered that, when he isolated a volume of air under an inverted jar, and burned a candle in it, the candle would burn out very quickly, much before it ran out of wax.
+::A highly simplified summary is:
+Chloroplasts have many similarities with photosynthetic bacteria, including a circular chromosome, prokaryotic-type ribosome, and similar proteins in the photosynthetic reaction center.
+In the non-cyclic reaction, the photons are captured in the light-harvesting antenna complexes of photosystem II by chlorophyll and other accessory pigments (see diagram at right).
+Not all wavelengths of light can support photosynthesis.
+Some organisms employ even more radical variants of photosynthesis.
+Photosynthesis occurs in two stages.
+This produces a proton gradient more directly, which is then converted to chemical energy.
+Some plants have evolved mechanisms to increase the  concentration in the leaves under these conditions.
+The overall equation for the light-dependent reactions under the conditions of non-cyclic electron flow in green plants is:
+In these light-dependent reactions, some energy is used to strip electrons from suitable substances, such as water, producing oxygen gas.
+The source of electrons in green-plant and cyanobacterial photosynthesis is water.
+Cyanobacteria possess carboxysomes, which increase the concentration of  around RuBisCO to increase the rate of photosynthesis.
+RuBisCO oxygenase activity is disadvantageous to plants for several reasons:
+He then showed that the air that had been "injured" by the candle and the mouse could be restored by a plant.
+However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide.
+Because the Earth's atmosphere contained almost no oxygen during the estimated development of photosynthesis, it is believed that the first photosynthetic cyanobacteria did not generate oxygen.
+That photo receptor is in effect reset and is then able to repeat the absorption of another photon and the release of another photo-dissociated electron.
+The simple carbon sugars produced by photosynthesis are then used in the forming of other organic compounds, such as the building material cellulose, the precursors for lipid and amino acid biosynthesis, or as a fuel in cellular respiration.
+Photosynthesis measurement systems are not designed to directly measure the amount of light absorbed by the leaf.
+This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water – hence the name ''photosynthesis'', from the Greek φῶς, ''phōs'', "light", and σύνθεσις, ''synthesis'', "putting together".
+Certain species adapted to conditions of strong sunlight and aridity, such as many Euphorbia and cactus species, have their main photosynthetic organs in their stems.
+These two experiments illustrate several important points: First, it is known that, in general, photochemical reactions are not affected by temperature.
+These structures can fill most of the interior of a cell, giving the membrane a very large surface area and therefore increasing the amount of light that the bacteria can absorb.
+In most cases, oxygen is also released as a waste product.
+#One product of oxygenase activity is phosphoglycolate (2 carbon) instead of 3-phosphoglycerate (3 carbon).
+Although there are some differences between oxygenic photosynthesis in plants, algae, and cyanobacteria, the overall process is quite similar in these organisms.
+Algae also use chlorophyll, but various other pigments are present, such as phycocyanin, carotenes, and xanthophylls in green algae, phycoerythrin in red algae (rhodophytes) and fucoxanthin in brown algae and diatoms resulting in a wide variety of colors.
+With some instruments even wavelength-dependency of the photosynthetic efficiency can be analyzed.
+Chlorophyll fluorescence of photosystem II can measure the light reaction, and Infrared gas analyzers can  measure the dark reaction.
+Available evidence from geobiological studies of Archean (>2500 Ma) sedimentary rocks indicates that life existed 3500 Ma, but the question of when oxygenic photosynthesis evolved is still unanswered.
+The exciton's wave properties enable it to cover a wider area and try out several possible paths simultaneously, allowing it to instantaneously "choose" the most efficient route, where it will have the highest probability of arriving at its destination in the minimum possible time.
+CAM plants have a different leaf anatomy from  plants, and fix the  at night, when their stomata are open.
+Glycerate 3-phosphate, in the presence of ATP and NADPH produced during the light-dependent stages, is reduced to glyceraldehyde 3-phosphate.
+But analysis of chlorophyll-fluorescence, P700- and P515-absorbance and gas exchange measurements reveal detailed information about e.g.
+The reactions also produce ammonia (NH3), which is able to diffuse out of the plant, leading to a loss of nitrogen.
+The excited electrons lost from chlorophyll from photosystem I are supplied from the electron transport chain by plastocyanin.
+: carbon dioxide + arsenite + light energy → arsenate + carbon monoxide (used to build other compounds in subsequent reactions)
+In addition, a few marine mollusks ''Elysia viridis'' and ''Elysia chlorotica'' also maintain a symbiotic relationship with chloroplasts they capture from the algae in their diet and then store in their bodies.
+In 1893, Charles Reid Barnes proposed two terms, ''photosyntax'' and ''photosynthesis'', for the biological process of ''synthesis of complex carbon compounds out of carbonic acid, in the presence of chlorophyll, under the influence of light''.
+These are linked by plastoquinone, which does require energy to reduce cytochrome f for it is a sufficient reductant.
+The first photosynthetic organisms probably evolved early in the evolutionary history of life and most likely used reducing agents such as hydrogen or hydrogen sulfide, rather than water, as sources of electrons.
+Embedded in the thylakoid membrane are integral and peripheral membrane protein complexes of the photosynthetic system.
+Cyanobacteria, which reside several meters underwater, cannot receive the correct wavelengths required to cause photoinduced charge separation in conventional photosynthetic pigments.
+Since water is used as the electron donor in oxygenic photosynthesis, the equation for this process is:
+An even closer form of symbiosis may explain the origin of chloroplasts.
+The two processes, reduction of carbon dioxide to carbohydrate and then later oxidation of the carbohydrate, are distinct: photosynthesis and cellular respiration take place through a different sequence of chemical reactions and in different cellular compartments.
+Xerophytes, such as cacti and most succulents, also use PEP carboxylase to capture carbon dioxide in a process called Crassulacean acid metabolism (CAM).
+The physical separation of RuBisCO from the oxygen-generating light reactions reduces photorespiration and increases  fixation and, thus, the photosynthetic capacity of the leaf.
+Further experiments to prove that the oxygen developed during the photosynthesis of green plants came from water, were performed by Hill in 1937 and 1939.
+The cyclic reaction takes place only at photosystem I.
+Most plants, most algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs.
+Two water molecules are oxidized by four successive charge-separation reactions by photosystem II to yield a molecule of diatomic oxygen and four hydrogen ions; the electrons yielded are transferred to a redox-active tyrosine residue that then reduces the oxidized chlorophyll ''a'' (called P680) that serves as the primary light-driven electron donor in the photosystem II reaction center.
+Samuel Ruben and Martin Kamen used radioactive isotopes to determine that the oxygen liberated in photosynthesis came from the water.
+Cornelis Van Niel made key discoveries explaining the chemistry of photosynthesis.
+The endosymbiotic theory suggests that photosynthetic bacteria were acquired (by endocytosis) by early eukaryotic cells to form the first plant cells.
+Green nonsulfur bacteria used various amino and other organic acids as an electron donor.
+Cyanobacteria remain critical to marine ecosystems as primary producers of oxygen in oceanic gyres, as agents of biological nitrogen fixation, and, in modified form, as the plastids of marine algae.
+This is the first evidence of a member of the animal kingdom engaging in photosynthesis.
+plants can produce more sugar than  plants in conditions of high light and temperature.
+Because that quantum walking takes place at temperatures far higher than quantum phenomena usually occur, it is only possible over very short distances, due to obstacles in the form of destructive interference that come into play.
+The energy delivered to the electron acceptors is used to move hydrogen ions across the thylakoid membrane into the lumen.
+Photosynthetic organisms also convert around 100–115 thousand million metric tonnes of carbon into biomass per year.
+Most (5 out of 6 molecules) of the glyceraldehyde 3-phosphate produced is used to regenerate ribulose 1,5-bisphosphate so the process can continue.
+This allows the mollusks to survive solely by photosynthesis for several months at a time.
+:carbon dioxide + electron donor + light energy → carbohydrate + oxidized electron donor + water
+The Oriental hornet (''Vespa orientalis'') converts sunlight into electric power using a pigment called xanthopterin.
+Otto Heinrich Warburg and Dean Burk discovered the I-quantum photosynthesis reaction that splits the CO2, activated by the respiration.
+The photosynthetic action spectrum depends on the type of accessory pigments present.
+Today, the average rate of energy capture by photosynthesis globally is approximately 130&nbsp;terawatts, which is about three times  the current power consumption of human civilization.
+That freed electron is transferred to the primary electron-acceptor molecule, pheophytin.
+As carbon dioxide concentrations rise, the rate at which sugars are made by the light-independent reactions increases until limited by other factors.
+Under these conditions,  will decrease and oxygen gas, produced by the light reactions of photosynthesis, will increase, causing an increase of photorespiration by the oxygenase activity of ribulose-1,5-bisphosphate carboxylase/oxygenase and decrease in carbon fixation.
+The cyclic reaction is similar to that of the non-cyclic, but differs in that it generates only ATP, and no reduced NADP (NADPH) is created.
+The archaearhodopsin changes its configuration in response to sunlight, acting as a proton pump.
+The movement of the electron towards the photo center is therefore covered in a series of conventional hops and quantum walks.
+A high oxygenase activity, therefore, drains the sugars that are required to recycle ribulose 5-bisphosphate and for the continuation of the Calvin-Benson cycle.
+Embedded within the stroma are stacks of thylakoids (grana), which are the site of photosynthesis.
+Green and purple sulfur bacteria are thought to have used hydrogen and sulfur as electron donors.
+Besides chlorophyll, plants also use pigments such as carotenes and xanthophylls.
+:CO2 + (AsO33−) + photons → (AsO43−) + CO
+Fossils of what are thought to be filamentous photosynthetic organisms have been dated at 3.4 billion years old.
+When the concentration of carbon dioxide is high, RuBisCO will fix carbon dioxide.
+In its simplest form, this involves the membrane surrounding the cell itself.
+This is called ''oxygenic photosynthesis'' and is by far the most common type of photosynthesis used by living organisms.
+He further discovered that a mouse could similarly "injure" air.
+The electron enters a chlorophyll molecule in Photosystem I.
+When a photon is absorbed by a chromophore, it is converted into a quasiparticle referred to as an exciton, which jumps from chromophore to chromophore towards the reaction center of the photocomplex, a collection of molecules that traps its energy in a chemical form that makes it accessible for the cell's metabolism.
+Pyrenoids in algae and hornworts also act to concentrate  around rubisco.
+Therefore, in light, the electron acceptor is reduced and oxygen is evolved.
+The efficiency of both light and dark reactions can be measured but the relationship between the two can be complex.
+: CO2 + 2H2O + photons → CH2O + O2 + H2O
+Infrared gas analyzers and some  moisture sensors are sensitive enough to measure the photosynthetic assimilation of CO2, and of ΔH2O using reliable methods CO2 is commonly measured in μmols/m2/s-1, parts per million or volume per million and H20 is commonly measured in mmol/m2/s-1 or in mbars.
+The latter occurs not only in plants but also in animals when the energy from plants is passed through a food chain.
+The transparent epidermis layer allows light to pass through to the palisade mesophyll cells where most of the photosynthesis takes place.
+Before the CO2 diffuses out it is quickly sponged up by RuBisCO, which is concentrated within the carboxysomes.
+The oxidation of water is catalyzed in photosystem II by a redox-active structure that contains four manganese ions and a calcium ion; this oxygen-evolving complex binds two water molecules and contains the four oxidizing equivalents that are used to drive the water-oxidizing reaction.
+Green algae joined blue-green algae as the major primary producers of oxygen on continental shelves near the end of the Proterozoic, but it was only with the Mesozoic (251–65 Ma) radiations of dinoflagellates, coccolithophorids, and diatoms did the primary production of oxygen in marine shelf waters take modern form.
+When blue and red were combined, the output was much more substantial.
+PSI contains only chlorophyll "a", PSII contains primarily chlorophyll "a" with most of the available chlorophyll "b", among other pigment.
+A typical plant cell contains about 10 to 100 chloroplasts.
